@@ -6,6 +6,8 @@ export interface CodexEntry {
     keyword: string;
     type: string;
     count: number;
+    meaning?: string;
+    aliases: string[];
     // A map of song IDs to the specific line/context if needed, but for now just a list of songs
     songs: {
         id: string;
@@ -15,6 +17,24 @@ export interface CodexEntry {
     }[];
 }
 
+const ALIAS_MAP: Record<string, string> = {
+    'बन्दी': 'Bandi',
+    'बन्दी (bandi)': 'Bandi',
+    'girl': 'Bandi',
+    'girlfriend': 'Bandi',
+    'paisa nasha pyaar': 'PNP',
+    'tehalka bhai seedhe maut': 'TBSM',
+    'tbsm': 'TBSM',
+    'encore': 'Encore ABJ',
+    'encore abj': 'Encore ABJ',
+    'calm': 'Calm',
+    'siddhant': 'Calm',
+    'sez': 'Sez on the Beat',
+    'sez on the beat': 'Sez on the Beat',
+    'nanchaku': 'Nanchaku',
+    'shaktimaan': 'Shaktimaan',
+};
+
 export function getAllAnnotations(): CodexEntry[] {
     const codexMap = new Map<string, CodexEntry>();
 
@@ -22,32 +42,40 @@ export function getAllAnnotations(): CodexEntry[] {
         song.lyrics.forEach((line) => {
             if (line.annotations && line.annotations.length > 0) {
                 line.annotations.forEach((note: any) => {
-                    // Normalize keyword (lowercase, trim)
-                    // The annotation object might vary slightly depending on AI output, 
-                    // usually it has 'keyword' and 'type' (or 'text' and 'type' in earlier versions?)
-                    // Let's handle both 'keyword' and 'text'.
-
                     const rawKeyword = note.keyword || note.text;
                     if (!rawKeyword) return;
 
                     const keyword = rawKeyword.trim();
                     const normalizedKey = keyword.toLowerCase();
 
-                    if (!codexMap.has(normalizedKey)) {
-                        codexMap.set(normalizedKey, {
-                            keyword: keyword, // Keep the first casing we find as display
+                    // Alias redirection
+                    const primaryKeyword = ALIAS_MAP[normalizedKey] || keyword;
+                    const primaryNormalized = primaryKeyword.toLowerCase();
+
+                    if (!codexMap.has(primaryNormalized)) {
+                        codexMap.set(primaryNormalized, {
+                            keyword: primaryKeyword,
                             type: note.type || 'General',
+                            meaning: note.meaning,
                             count: 0,
+                            aliases: [],
                             songs: []
                         });
                     }
 
-                    const entry = codexMap.get(normalizedKey)!;
+                    const entry = codexMap.get(primaryNormalized)!;
                     entry.count++;
 
-                    // Avoid duplicate song entries for the same term in the same song?
-                    // Or maybe we want to show every occurrence.
-                    // Let's show unique songs per term for now to keep it clean.
+                    if (!entry.meaning && note.meaning) {
+                        entry.meaning = note.meaning;
+                    }
+
+                    // Add unique alias if it's different from primary
+                    if (keyword !== primaryKeyword && !entry.aliases.includes(keyword)) {
+                        entry.aliases.push(keyword);
+                    }
+
+                    // Add song entry
                     const songExists = entry.songs.find(s => s.id === song.id);
                     if (!songExists) {
                         entry.songs.push({
@@ -62,7 +90,7 @@ export function getAllAnnotations(): CodexEntry[] {
         });
     });
 
-    // Convert map to array and sort by count (descending) then alphabetical
+    // Convert map to array and sort by count (descending)
     return Array.from(codexMap.values()).sort((a, b) => {
         if (b.count !== a.count) return b.count - a.count;
         return a.keyword.localeCompare(b.keyword);

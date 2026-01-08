@@ -32,7 +32,8 @@ Task:
     - "text": The exact text from the lyric line to annotate.
     - "keyword": The main keyword/subject.
     - "type": Classify it (e.g., "Slang", "Metaphor", "Reference", "Cultural").
-    - "meaning": A concise explanation of the meaning.
+    - "meaning": A descriptive explanation of the meaning. 
+      IMPORTANT: This field is mandatory. Do NOT just say "Slang". Explain WHAT the slang means in plain English.
 
 Return a JSON object with this structure:
 {{

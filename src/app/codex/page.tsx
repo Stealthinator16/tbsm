@@ -62,14 +62,28 @@ export default function CodexPage() {
                                     <h2 className="text-2xl font-bold font-oswald uppercase tracking-wide text-white group-hover:text-tbsm-red transition-colors">
                                         {entry.keyword}
                                     </h2>
-                                    <span className="inline-block mt-2 px-2 py-1 bg-zinc-800 rounded text-[10px] font-mono uppercase tracking-widest text-zinc-400">
-                                        {entry.type}
-                                    </span>
+                                    <div className="flex gap-2 items-center mt-2">
+                                        <span className="inline-block px-2 py-1 bg-zinc-800 rounded text-[10px] font-mono uppercase tracking-widest text-zinc-400">
+                                            {entry.type}
+                                        </span>
+                                        {entry.aliases.length > 0 && (
+                                            <span className="text-[10px] font-mono text-zinc-500 uppercase tracking-widest">
+                                                AKA: {entry.aliases.join(', ')}
+                                            </span>
+                                        )}
+                                    </div>
                                 </div>
                                 <div className="text-xs font-mono text-zinc-600 uppercase tracking-widest bg-zinc-950 px-2 py-1 rounded">
                                     {entry.count} {entry.count === 1 ? 'Ref' : 'Refs'}
                                 </div>
                             </div>
+
+                            {/* Meaning */}
+                            {entry.meaning && (
+                                <div className="mb-6 p-4 bg-zinc-950/50 border border-zinc-900 rounded italic text-sm text-zinc-300 border-l-tbsm-red border-l-4">
+                                    {entry.meaning}
+                                </div>
+                            )}
 
                             {/* Songs List */}
                             <div className="space-y-2">
