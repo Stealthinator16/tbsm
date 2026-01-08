@@ -106,14 +106,28 @@ export const royalty: Song = {
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Yeah, we're chasing a royal life",
       "explanation": "Irony: chasing 'royalty' while starting from the bottom.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Fatti jebe kahein jaake jeb kaat le",
+          "keyword": "jeb kaat le",
+          "type": "Idiom",
+          "meaning": "Empty pockets, go rob someone else - highlighting desperation in the pursuit of wealth."
+        }
+      ]
     },
     {
       "original": "Kati jebe kahein jaake jeb kaat le",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Cut pockets might go and pickpocket others",
       "explanation": "Variation of the previous line; the cycle of theft driven by lack.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Kati jebe kahein jaake jeb kaat le",
+          "keyword": "jeb kaat le",
+          "type": "Idiom",
+          "meaning": "Empty pockets, go rob someone else - highlighting desperation in the pursuit of wealth."
+        }
+      ]
     },
     {
       "original": "Yeah we're running for royalty",
@@ -172,7 +186,14 @@ export const royalty: Song = {
       "speaker": "Encore ABJ",
       "translation": "The talk time is empty",
       "explanation": "A metaphor for having nothing left to say or God not responding; also a reference to old prepaid mobile balance.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Zabaan jese Nathuram Godse",
+          "keyword": "Nathuram Godse",
+          "type": "Reference",
+          "meaning": "Referring to Nathuram Godse, the assassin of Mahatma Gandhi. It implies the speaker's words are sharp, controversial, and potentially destructive."
+        }
+      ]
     },
     {
       "original": "Zabaan jese Nathuram Godse",
@@ -213,7 +234,7 @@ export const royalty: Song = {
     {
       "original": "Paisa nasha pyaar, jeevan ke khiladi",
       "speaker": "Encore ABJ",
-      "translation": "Money, addiction, love\u2014players of life",
+      "translation": "Money, addiction, love—players of life",
       "explanation": "Listing the three main things that drive or ruin human existence.",
       "annotations": []
     },
@@ -222,7 +243,14 @@ export const royalty: Song = {
       "speaker": "Encore ABJ",
       "translation": "Pockets demand four long cars",
       "explanation": "Materialistic desire for luxury vehicles as a sign of success.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Chaahe kalam aadi karni pade jese Kalamadi",
+          "keyword": "Kalamadi",
+          "type": "Reference",
+          "meaning": "A reference to Suresh Kalmadi, an Indian politician involved in corruption scandals during the 2010 Commonwealth Games. Implies engaging in corrupt practices like him."
+        }
+      ]
     },
     {
       "original": "Chaahe kalam aadi karni pade jese Kalamadi",
@@ -269,7 +297,14 @@ export const royalty: Song = {
       "speaker": "Encore ABJ",
       "translation": "Cunning tongue",
       "explanation": "Encore acknowledging his own lyrical sharpness and wit.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Jab tankha me kattoti unka boss kiye (Ha!)",
+          "keyword": "tankha me kattoti",
+          "type": "Cultural",
+          "meaning": "Salary cuts by the boss - a common frustration and financial burden faced by many employees in India."
+        }
+      ]
     },
     {
       "original": "Shabdo ke teero pe dilki kamaan",
@@ -477,7 +512,20 @@ export const royalty: Song = {
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Not hand-dirt, but a stain on the mind",
       "explanation": "Chorus repetition.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Like Modi you got on the fly",
+          "keyword": "Modi",
+          "type": "Reference",
+          "meaning": "Refers to Narendra Modi, the Prime Minister of India, often associated with expensive suits and travel."
+        },
+        {
+          "text": "Suit worth 10 lac, royalty right?",
+          "keyword": "10 lac",
+          "type": "Cultural",
+          "meaning": "10 lac is 1 million INR. An expensive suit symbolizes the superficial display of wealth and power."
+        }
+      ]
     },
     {
       "original": "Yeah we're running for royalty",
@@ -585,7 +633,14 @@ export const royalty: Song = {
       "speaker": "Calm",
       "translation": "We've been in this trap since we took our first steps",
       "explanation": "We are conditioned to be consumers from childhood.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Imma do what i can",
+          "keyword": "Imma",
+          "type": "Slang",
+          "meaning": "Short for 'I'm going to'."
+        }
+      ]
     },
     {
       "original": "These companies are magnets attraction is what they say",
@@ -859,5 +914,7 @@ export const royalty: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Dark",
+  "summary": "\"Royalty\" is a cynical take on the pursuit of wealth and status, highlighting the societal pressures and moral compromises people make in the quest for 'royalty' in a materialistic world. The song critiques consumerism and the illusion of happiness found in material possessions."
 };

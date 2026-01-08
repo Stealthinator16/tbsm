@@ -22,21 +22,21 @@ export const stay_calm: Song = {
       "annotations": []
     },
     {
-      "original": "I\u2005wish\u2005I could say",
+      "original": "I wish I could say",
       "speaker": "Calm",
       "translation": "I wish I had the words to tell you.",
       "explanation": "Expressing a sense of helplessness in communicating his vision to those around him.",
       "annotations": []
     },
     {
-      "original": "Everything\u2005is okay",
+      "original": "Everything is okay",
       "speaker": "Calm",
       "translation": "That everything is going to be alright.",
       "explanation": "The typical reassurance that he feels he cannot honestly provide yet because of the uncertainty of the hustle.",
       "annotations": []
     },
     {
-      "original": "But its not and its\u2005bad how I'm treating you",
+      "original": "But its not and its bad how I'm treating you",
       "speaker": "Calm",
       "translation": "But it's not okay, and I feel guilty for how I've been acting towards you.",
       "explanation": "Acknowledging that his stress and focus on music have led to friction in his personal relationships.",
@@ -99,7 +99,14 @@ export const stay_calm: Song = {
       "speaker": "Calm",
       "translation": "I have to follow my own destiny.",
       "explanation": "Asserting his right to choose a career in Hip Hop despite the lack of a blueprint.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "I got my own path to choose",
+          "keyword": "Path",
+          "type": "Metaphor",
+          "meaning": "Represents the individual's unique journey and choices in life."
+        }
+      ]
     },
     {
       "original": "Goin' all in I got people to prove",
@@ -110,6 +117,12 @@ export const stay_calm: Song = {
         {
           "keyword": "all in",
           "type": "idiom"
+        },
+        {
+          "text": "Goin' all in I got people to prove",
+          "keyword": "Prove",
+          "type": "Theme",
+          "meaning": "Highlights the pressure and ambition to succeed and validate oneself to others."
         }
       ]
     },
@@ -122,6 +135,12 @@ export const stay_calm: Song = {
         {
           "keyword": "Bulldozin'",
           "type": "metaphor"
+        },
+        {
+          "text": "Bulldozin' in I got mountains to move",
+          "keyword": "Mountains to move",
+          "type": "Metaphor",
+          "meaning": "Represents overcoming significant obstacles and challenges in pursuit of goals."
         }
       ]
     },
@@ -170,7 +189,14 @@ export const stay_calm: Song = {
       "speaker": "Calm",
       "translation": "There's a lot of chaos, but I'm managing okay.",
       "explanation": "Maintaining composure (Staying Calm) amidst mental and external pressure.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Lot going on but I guess I'm doing fine",
+          "keyword": "Doing fine",
+          "type": "Understatement",
+          "meaning": "Potentially downplaying the struggles and presenting a facade of coping well."
+        }
+      ]
     },
     {
       "original": "Imma grind till I shine, we define fresh",
@@ -185,6 +211,18 @@ export const stay_calm: Song = {
         {
           "keyword": "fresh",
           "type": "slang"
+        },
+        {
+          "text": "Imma grind till I shine, we define fresh",
+          "keyword": "Grind till I shine",
+          "type": "Slang",
+          "meaning": "A modern hip-hop expression meaning to work hard until one achieves success and recognition."
+        },
+        {
+          "text": "we define fresh",
+          "keyword": "Define fresh",
+          "type": "Slang",
+          "meaning": "Asserting their originality and trendsetting influence."
         }
       ]
     },
@@ -218,7 +256,7 @@ export const stay_calm: Song = {
       "original": "You never know what's coming, this a bomb threat (huh)",
       "speaker": "Calm",
       "translation": "You have no idea what's coming; my music is explosive.",
-      "explanation": "Comparing the impact of his upcoming tracks to a bomb threat\u2014unpredictable and powerful.",
+      "explanation": "Comparing the impact of his upcoming tracks to a bomb threat—unpredictable and powerful.",
       "annotations": [
         {
           "keyword": "bomb threat",
@@ -362,5 +400,7 @@ export const stay_calm: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Introspective",
+  "summary": "The song reflects on the struggles and pressures of pursuing one's dreams while dealing with personal challenges and external criticism. It emphasizes resilience, staying grounded, and maintaining a positive outlook amidst the chaos."
 };

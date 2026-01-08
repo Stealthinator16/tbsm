@@ -6,7 +6,9 @@ export const VIBES = [
     'Aggressive',
     'Chill',
     'Introspective',
-    'Storytelling'
+    'Storytelling',
+    'Hype',
+    'Dark'
 ] as const;
 
 export type ViibeType = typeof VIBES[number];

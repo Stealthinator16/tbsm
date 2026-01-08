@@ -881,6 +881,6 @@ export const guldasta: Song = {
       "Seedhe Maut"
     ]
   },
-  "vibe": "Flirty",
+  "vibe": "Chill",
   "summary": "\"Guldasta\" is a playful, flirty track where the rappers express their admiration for a woman, using metaphors and wordplay to describe her attractiveness and desirability. The song blends Hindi and English lyrics, creating a catchy and engaging vibe."
 };

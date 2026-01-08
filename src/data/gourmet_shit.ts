@@ -1019,6 +1019,6 @@ export const gourmet_shit: Song = {
       "Seedhe Maut"
     ]
   },
-  "vibe": "Reflective",
+  "vibe": "Introspective",
   "summary": "\"Gourmet Shit!\" reflects on Seedhe Maut's journey, grappling with past struggles, sacrifices made for their music, and their current status in the Desi Hip Hop scene. The lyrics delve into personal changes, artistic integrity, and their unapologetic approach to the music industry."
 };

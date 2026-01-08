@@ -6,7 +6,7 @@ export const rajdhani: Song = {
   "slug": "rajdhani",
   "album": "Nayaab",
   "releaseDate": "",
-  "vibe": "Storytelling",
+  "vibe": "Introspective",
   "lyrics": [
     {
       "original": "Rajdhani rajdhani",
@@ -39,7 +39,14 @@ export const rajdhani: Song = {
       "speaker": "Encore ABJ",
       "translation": "Mother and sister at home, but mother and sister insults on the tongue",
       "explanation": "A commentary on the toxic linguistic culture of Delhi where people respect women at home but use gendered slurs casually in public.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ghar pe maa behen par zaban pe behen ki aur maa ki",
+          "keyword": "Curse words",
+          "type": "Cultural",
+          "meaning": "A criticism of hypocrisy: respecting women in the family but using derogatory language (mother/sister curses) commonly."
+        }
+      ]
     },
     {
       "original": "Fuck it..",
@@ -83,7 +90,14 @@ export const rajdhani: Song = {
       "speaker": "Encore ABJ",
       "translation": "Cursed to pick scrap metal in a mountain of trash",
       "explanation": "Refers to the Ghazipur landfill (the trash mountain) where children work in hazardous conditions.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ek kachade ke pahad me loha been ne se shrapit",
+          "keyword": "Kachade ka pahad",
+          "type": "Reference",
+          "meaning": "Refers to the Ghazipur landfill in Delhi, a massive garbage mountain, and highlights the plight of those forced to scavenge there."
+        }
+      ]
     },
     {
       "original": "To Pakake choohe khaane me unhe sharam nahi aati",
@@ -104,7 +118,14 @@ export const rajdhani: Song = {
       "speaker": "Encore ABJ",
       "translation": "These stories aren't fake or made up, etcetera",
       "explanation": "Asserting that his lyrics are social realism, not fictional storytelling.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Hai ye baatein ni banawati manghadat ityadi",
+          "keyword": "Manghadat",
+          "type": "Slang",
+          "meaning": "Hindi/Urdu word meaning fabricated, made-up."
+        }
+      ]
     },
     {
       "original": "Buchadkhana ban raha hai to hadtaal pe hai maaji",
@@ -121,14 +142,21 @@ export const rajdhani: Song = {
     {
       "original": "Yaha badboo hai zehreeli plastic aur kate maas ki par kisko pade fark, dekh kya",
       "speaker": "Encore ABJ",
-      "translation": "There's a toxic stench of plastic and raw meat here, but who cares? Look at the\u2014",
+      "translation": "There's a toxic stench of plastic and raw meat here, but who cares? Look at the—",
       "explanation": "Describing the sensory overload and pollution of industrial/slum areas in Delhi.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Buchadkhana ban raha hai to hadtaal pe hai maaji",
+          "keyword": "Buchadkhana",
+          "type": "Reference",
+          "meaning": "Butcher house/slaughter house. Maaji (mother) suggests a strong female figure protesting it."
+        }
+      ]
     },
     {
       "original": "Halat ki hai jamna ki",
       "speaker": "Encore ABJ",
-      "translation": "\u2014condition of the Yamuna river",
+      "translation": "—condition of the Yamuna river",
       "explanation": "The Yamuna river in Delhi is famously polluted, often covered in toxic white foam.",
       "annotations": [
         {
@@ -154,7 +182,14 @@ export const rajdhani: Song = {
       "speaker": "Encore ABJ",
       "translation": "Capital city, capital city",
       "explanation": "Hook refrain.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Jamnapari nasal teri akal me ni aati to tu ghoom jitni dilli tu dilli jaane na aadhi",
+          "keyword": "Jamnapari",
+          "type": "Reference",
+          "meaning": "Jamnapari is a breed of goat, and Delhi's Yamuna river is highly polluted. It's a metaphor for ignorance; if you don't understand basic issues, you don't know the city at all."
+        }
+      ]
     },
     {
       "original": "Inqualaab hai zinda to amar rahe sada hi",
@@ -176,7 +211,7 @@ export const rajdhani: Song = {
       "annotations": []
     },
     {
-      "original": "Fakr se taki tu chakh sak\u0435 azaadi",
+      "original": "Fakr se taki tu chakh sakе azaadi",
       "speaker": "Encore ABJ",
       "translation": "They did it with pride so you could taste freedom",
       "explanation": "The sacrifice of ancestors allows the current generation to live in a free capital.",
@@ -191,6 +226,12 @@ export const rajdhani: Song = {
         {
           "keyword": "Jageer",
           "type": "Noun (Estate/Property)"
+        },
+        {
+          "text": "Vo jo ho chuke shaheed khaake goli ya faansi",
+          "keyword": "Shaheed",
+          "type": "Cultural",
+          "meaning": "Urdu/Hindi word meaning martyr; referencing those who died fighting for independence or other causes."
         }
       ]
     },
@@ -202,7 +243,7 @@ export const rajdhani: Song = {
       "annotations": []
     },
     {
-      "original": "Marte hindu mart\u0435 musalmaan marti teri santaan hi",
+      "original": "Marte hindu martе musalmaan marti teri santaan hi",
       "speaker": "Encore ABJ",
       "translation": "Hindus die, Muslims die, ultimately it's your own children dying",
       "explanation": "A plea for communal harmony, noting that violence only hurts the city's own people.",
@@ -227,19 +268,26 @@ export const rajdhani: Song = {
       "speaker": "Encore ABJ",
       "translation": "Capital city, capital city",
       "explanation": "Hook refrain.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Par terko pade ni fark tu khaati namak hai sarkari",
+          "keyword": "Khaati namak sarkari",
+          "type": "Metaphor",
+          "meaning": "Means you are loyal to the government, likely at the expense of justice or truth."
+        }
+      ]
     },
     {
       "original": "Mai bolu sach to keh degi mujhko",
       "speaker": "Encore ABJ",
-      "translation": "If I speak the truth, you will call me a\u2014",
+      "translation": "If I speak the truth, you will call me a—",
       "explanation": "Setting up the next line regarding the consequences of dissent.",
       "annotations": []
     },
     {
       "original": "Aatankwaadi",
       "speaker": "Encore ABJ",
-      "translation": "\u2014Terrorist",
+      "translation": "—Terrorist",
       "explanation": "A sharp critique of how activists or truth-tellers are often labeled as anti-nationals/terrorists in modern India.",
       "annotations": []
     },
@@ -248,7 +296,14 @@ export const rajdhani: Song = {
       "speaker": "Encore ABJ",
       "translation": "But go ahead and poison whoever's ears you want",
       "explanation": "Addressing the propaganda machines and the spreading of misinformation.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Aatankwaadi",
+          "keyword": "Aatankwaadi",
+          "type": "Cultural",
+          "meaning": "Hindi word for terrorist, highlighting the risk of being labeled an extremist for speaking truth to power."
+        }
+      ]
     },
     {
       "original": "Tujhko hai pranam",
@@ -269,7 +324,14 @@ export const rajdhani: Song = {
       "speaker": "Encore ABJ",
       "translation": "Capital city, capital city",
       "explanation": "Hook refrain.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Par rahega is zaban pe jai jawan aur jai kisaan",
+          "keyword": "Jai Jawan Jai Kisaan",
+          "type": "Reference",
+          "meaning": "A famous Indian slogan meaning \"Hail the soldier, Hail the farmer,\" emphasizing respect for those who protect and feed the nation."
+        }
+      ]
     },
     {
       "original": "100 sawal hai lekin terpe hai ek bhi jawab ni",
@@ -353,7 +415,14 @@ export const rajdhani: Song = {
       "speaker": "Encore ABJ",
       "translation": "Hey Capital! (Catch her, catch her!)",
       "explanation": "The chaotic energy of Delhi streets captured in audio.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Kitt hai bhai",
+          "keyword": "Kitt hai bhai",
+          "type": "Slang",
+          "meaning": "Punjabi phrase meaning 'What's up brother?' or 'Where are you, brother?'"
+        }
+      ]
     },
     {
       "original": "Oye rajdhani oye rajdhani!!",
@@ -367,7 +436,14 @@ export const rajdhani: Song = {
       "speaker": "Calm",
       "translation": "Capital city, capital city",
       "explanation": "Calm starts his verse, shifting the perspective to personal history.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Chacha Turkman gate ki sunaate the kahani",
+          "keyword": "Turkman Gate",
+          "type": "Reference",
+          "meaning": "Refers to the Turkman Gate demolition and forced sterilization incident during the Emergency in 1976, a dark chapter in Indian history."
+        }
+      ]
     },
     {
       "original": "Baap chandni chowk se aur maa pahadi",
@@ -402,9 +478,16 @@ export const rajdhani: Song = {
     {
       "original": "Par ye gaadi ruki wapas aakar",
       "speaker": "Calm",
-      "translation": "But this car stopped only after returning to\u2014",
+      "translation": "But this car stopped only after returning to—",
       "explanation": "The journey always leads back to his home base.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Shaani gaand hain sab",
+          "keyword": "Shaani Gaand",
+          "type": "Slang",
+          "meaning": "A vulgar slang term implying that they are opportunists, backstabbers and only care for themselves."
+        }
+      ]
     },
     {
       "original": "Kaha",
@@ -414,7 +497,7 @@ export const rajdhani: Song = {
       "annotations": []
     },
     {
-      "original": "\u201cKitt hai bhai\u201d",
+      "original": "“Kitt hai bhai”",
       "speaker": "Calm",
       "translation": "\"Where are you, brother?\"",
       "explanation": "A common Haryanvi/Delhi greeting/inquiry.",
@@ -484,7 +567,14 @@ export const rajdhani: Song = {
       "speaker": "Calm",
       "translation": "The wounds didn't heal; for all I care, everyone can die",
       "explanation": "Extreme bitterness resulting from his family's actions.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Rohini ke aadhe khoko pe thi udhaari",
+          "keyword": "Khokha",
+          "type": "Slang",
+          "meaning": "Small shops or kiosks, implying he owed money to many small businesses in Rohini."
+        }
+      ]
     },
     {
       "original": "Wooo",
@@ -505,14 +595,28 @@ export const rajdhani: Song = {
       "speaker": "Calm",
       "translation": "It's S (Siddhant/Calm), man, chill a bit",
       "explanation": "Calm talking to himself, acknowledging he's getting too intense.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "how to make it rain",
+          "keyword": "Make it rain",
+          "type": "Slang",
+          "meaning": "American slang meaning to spend lavishly or throw money around."
+        }
+      ]
     },
     {
       "original": "Calm fuck zyada intense ho gya my bad",
       "speaker": "Calm",
       "translation": "Calm, fuck, that got too intense, my bad",
       "explanation": "Breaking the fourth wall to acknowledge the darkness of the previous lines.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Jeete jaise kadam aadhe (hayanvi) rakhe tha ni koi bhi level pe bhi same",
+          "keyword": "Hayanvi",
+          "type": "Slang",
+          "meaning": "Haryanvi - referring to the Haryanvi dialect and/or culture. This likely references their unique style or approach to rapping and life."
+        }
+      ]
     },
     {
       "original": "Wooo",
@@ -641,7 +745,14 @@ export const rajdhani: Song = {
       "speaker": "Calm",
       "translation": "I trembled thinking of so many things I didn't even write down, sitting on the 7th floor",
       "explanation": "The intensity of his thoughts and the height of his apartment in a high-rise (likely DDA flats).",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Teen hain ghar abhi bhaiyo k shauk hain nawaabi",
+          "keyword": "Shauk hain nawaabi",
+          "type": "Cultural",
+          "meaning": "They have luxurious tastes now, living like Nawabs (aristocrats)."
+        }
+      ]
     },
     {
       "original": "Tak ho jaati thi subah nahi pet hai bhara bas dhua se dhue me kati jawaani bachpan",
@@ -785,5 +896,6 @@ export const rajdhani: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "summary": "\"Rajdhani\" is a complex love letter to Delhi, exploring both its harsh realities and the deep sense of belonging it instills. The song reflects on the artists' personal journeys, from childhood struggles to finding their place in the city's vibrant underbelly, while also critiquing its socio-political issues."
 };

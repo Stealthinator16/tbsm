@@ -4,7 +4,7 @@ export const naamcheen: Song = {
   "id": "naamcheen",
   "title": "Naamcheen",
   "slug": "naamcheen",
-  "album": "\u2018\u0928\u2019 (Mixtape)",
+  "album": "‘न’ (Mixtape)",
   "releaseDate": "",
   "lyrics": [
     {
@@ -20,6 +20,12 @@ export const naamcheen: Song = {
         {
           "keyword": "Sava Sher",
           "type": "Idiom"
+        },
+        {
+          "text": "Bande namcheen, bande naamcheen, sava sher",
+          "keyword": "Namcheen",
+          "type": "Slang",
+          "meaning": "Namcheen means 'famous' or 'well-known'. Sava Sher implies being more than a match for others, highlighting their dominance. The line means 'We are famous, we are more than a match for others'."
         }
       ]
     },
@@ -107,7 +113,7 @@ export const naamcheen: Song = {
       "original": "Mile pehle par me jaanta naam nahi",
       "speaker": "Calm",
       "translation": "We've met before, but I don't know her name.",
-      "explanation": "A play on the 'fame' dynamic\u2014she knows him, but he meets so many people he can't recall her.",
+      "explanation": "A play on the 'fame' dynamic—she knows him, but he meets so many people he can't recall her.",
       "annotations": []
     },
     {
@@ -154,7 +160,7 @@ export const naamcheen: Song = {
       "original": "Kya usse pasand mera band ya drip ya hype",
       "speaker": "Calm",
       "translation": "Does she like my crew, or my drip, or the hype?",
-      "explanation": "Questioning the motives of people around him\u2014are they there for the music, the fashion, or the fame?",
+      "explanation": "Questioning the motives of people around him—are they there for the music, the fashion, or the fame?",
       "annotations": [
         {
           "keyword": "Drip",
@@ -167,7 +173,14 @@ export const naamcheen: Song = {
       "speaker": "Calm",
       "translation": "Or my heart, or those six zeros in the bank?",
       "explanation": "Asking if she likes him for who he is or for the millions (six zeros) he's earning now.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ya ya dil Ya wo 6 zero bank me",
+          "keyword": "6 zero bank me",
+          "type": "Slang",
+          "meaning": "Refers to having a large sum of money in their bank account. Six zeros represent at least 100,000, implying wealth."
+        }
+      ]
     },
     {
       "original": "Tab alag hi scene the cash k",
@@ -204,15 +217,29 @@ export const naamcheen: Song = {
       "original": "Firr Roach bana boarding pass ka",
       "speaker": "Calm",
       "translation": "Then I made a roach out of a boarding pass.",
-      "explanation": "A classic 'touring rapper' move\u2014using a flight boarding pass to make a filter, showing they are constantly traveling for shows.",
-      "annotations": []
+      "explanation": "A classic 'touring rapper' move—using a flight boarding pass to make a filter, showing they are constantly traveling for shows.",
+      "annotations": [
+        {
+          "text": "Aage karu \"Pch Oye roach khatam ho gaye Siddhant\"",
+          "keyword": "Roach",
+          "type": "Slang",
+          "meaning": "\"Roach\" refers to the end of a marijuana joint or blunt. Siddhant (one of the members) is being told they ran out."
+        }
+      ]
     },
     {
       "original": "Maa ko chahiye the pachaas mene bheja dedh",
       "speaker": "Calm",
       "translation": "Mom wanted fifty, I sent a hundred and fifty.",
       "explanation": "Showing his financial success and how he takes care of his family by giving more than requested.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Firr Roach bana boarding pass ka",
+          "keyword": "Boarding pass",
+          "type": "Metaphor",
+          "meaning": "The \"roach\" (marijuana joint end) becoming a boarding pass suggests smoking as a means to escape or transition into a different state of mind, or perhaps travel experiences facilitated by their earnings."
+        }
+      ]
     },
     {
       "original": "Yaha lete khudke papero me karu me bake",
@@ -349,6 +376,12 @@ export const naamcheen: Song = {
         {
           "keyword": "Ilm",
           "type": "Vocabulary"
+        },
+        {
+          "text": "Hai ye gaand chaatne ki karte acting",
+          "keyword": "Gaand chaatne",
+          "type": "Slang",
+          "meaning": "\"Gaand chaatne\" is a vulgar term that translates to sucking up to someone, meaning these people are being fake and trying to get on their good side."
         }
       ]
     },
@@ -413,7 +446,14 @@ export const naamcheen: Song = {
       "speaker": "Encore ABJ",
       "translation": "These guys can't write worth a damn.",
       "explanation": "Criticizing the lyrical ability of other rappers.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Tera bhai microphone pe narbhaksh",
+          "keyword": "Narbhaksh",
+          "type": "Metaphor",
+          "meaning": "\"Narbhaksh\" means cannibal. It's a metaphor for how he devours other rappers on the mic."
+        }
+      ]
     },
     {
       "original": "Fir bole hum hai rapper nahi hum artist",
@@ -438,6 +478,12 @@ export const naamcheen: Song = {
         {
           "keyword": "Narbhaksh",
           "type": "Vocabulary"
+        },
+        {
+          "text": "Unko hi lagti koel karkash",
+          "keyword": "Koel karkash",
+          "type": "Metaphor",
+          "meaning": "A \"koel\" is a cuckoo bird known for its sweet song. Saying it sounds \"karkash\" (harsh) to some implies that those who are inherently flawed or have ill intentions will perceive even good things as unpleasant."
         }
       ]
     },
@@ -541,5 +587,7 @@ export const naamcheen: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Aggressive",
+  "summary": "\"Naamcheen\" showcases Seedhe Maut's established status and impact on the Desi Hip Hop scene, reflecting on their journey, experiences with fame, and unwavering attitude. The song blends braggadocio with reflections on their past and present."
 };

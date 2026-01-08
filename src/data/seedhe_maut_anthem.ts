@@ -63,7 +63,14 @@ export const seedhe_maut_anthem: Song = {
       "speaker": "Encore",
       "translation": "Keep your ears open and your mouth shut.",
       "explanation": "A direct command to the listeners/rivals to absorb the lyrics without interrupting.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Kaan khule choro aur jaban bandh rehne do",
+          "keyword": "Kaan khule, Jaban bandh",
+          "type": "Metaphor",
+          "meaning": "Means to listen carefully and stay silent, implying that the listener should pay attention to Seedhe Maut's words and not interrupt or argue."
+        }
+      ]
     },
     {
       "original": "Laagi tujhe hawah, (cause you got fans bro)",
@@ -98,7 +105,14 @@ export const seedhe_maut_anthem: Song = {
       "speaker": "Encore",
       "translation": "You are alone so I've decided it's time to cook (make you my meal).",
       "explanation": "Encore uses the 'eating rappers' trope to signify how easily he can out-rap his competition.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Naklio ko mu chabata, ye mera Khana Khazana",
+          "keyword": "Khana Khazana",
+          "type": "Reference",
+          "meaning": "Refers to a popular Indian cooking show, implying they are devouring (lyrically destroying) fake rappers and their skills are the valuable treasure."
+        }
+      ]
     },
     {
       "original": "Naklio ko mu chabata, ye mera Khana Khazana",
@@ -121,6 +135,12 @@ export const seedhe_maut_anthem: Song = {
         {
           "keyword": "Katana",
           "type": "Metaphor"
+        },
+        {
+          "text": "mai fuka karta Malana",
+          "keyword": "Malana",
+          "type": "Cultural",
+          "meaning": "Malana is a village in Himachal Pradesh, India, known for its high-quality hashish (marijuana). It's a reference to smoking marijuana."
         }
       ]
     },
@@ -162,7 +182,14 @@ export const seedhe_maut_anthem: Song = {
       "speaker": "Encore",
       "translation": "But we were hits as soon as we dropped, because we write sick lyrics.",
       "explanation": "Refers to Seedhe Maut's rapid rise in the underground scene due to their superior technical ability.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Janhit me hai baat jari, hai jo jaan pyari",
+          "keyword": "Janhit",
+          "type": "Cultural",
+          "meaning": "\"Janhit mein jaari\" is a common phrase used in public service announcements in India, especially before disclaimers. Here it implies a warning to those who don't appreciate their skill."
+        }
+      ]
     },
     {
       "original": "Janhit me hai baat jari, hai jo jaan pyari",
@@ -233,7 +260,14 @@ export const seedhe_maut_anthem: Song = {
       "speaker": "Encore",
       "translation": "If this is your Taj (Crown/Palace).",
       "explanation": "Metaphor for someone's territory or peak status.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "To hum yaha ke Ajmal Ali Kasab",
+          "keyword": "Ajmal Ali Kasab",
+          "type": "Reference",
+          "meaning": "Refers to the Pakistani terrorist involved in the 2008 Mumbai attacks. The line is controversial and meant to emphasize their destructive and disruptive presence."
+        }
+      ]
     },
     {
       "original": "To hum yaha ke Ajmal Ali Kasab",
@@ -306,7 +340,14 @@ export const seedhe_maut_anthem: Song = {
       "speaker": "Calm & Encore",
       "translation": "Hearing this, even half the 'cheetahs' feel fear.",
       "explanation": "Hook repetition.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Mind of a killer I considered I'll be quicker",
+          "keyword": "Mind of a killer",
+          "type": "Metaphor",
+          "meaning": "Suggests a ruthless, focused mindset, emphasizing their determination and skill in rapping."
+        }
+      ]
     },
     {
       "original": "Ladke ladte sunke isko peeke bahut",
@@ -376,7 +417,14 @@ export const seedhe_maut_anthem: Song = {
       "speaker": "Calm",
       "translation": "I never knew why they hate us; our plan is crazy.",
       "explanation": "Questioning the motive of haters when SM is just following their unique vision.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "I'm spitting so much fire, your Khaleesi rides me",
+          "keyword": "Khaleesi",
+          "type": "Reference",
+          "meaning": "Refers to Daenerys Targaryen from *Game of Thrones*, known as Khaleesi. This implies they are so hot in their rap game that even a powerful figure like Khaleesi would acknowledge them."
+        }
+      ]
     },
     {
       "original": "Our planet, fucked up. From up we went down",
@@ -416,7 +464,14 @@ export const seedhe_maut_anthem: Song = {
       "speaker": "Calm",
       "translation": "Setting a standard you'll never be able to reach.",
       "explanation": "Calm asserting that SM's skill level is beyond their contemporaries.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "So I grind O.D.B",
+          "keyword": "O.D.B",
+          "type": "Reference",
+          "meaning": "Referring to Ol' Dirty Bastard, a member of the Wu-Tang Clan, known for his unique and chaotic style. Shows influence or paying homage."
+        }
+      ]
     },
     {
       "original": "Keep checking that last seen, on your phone 24x7",
@@ -510,7 +565,14 @@ export const seedhe_maut_anthem: Song = {
       "speaker": "Calm & Encore",
       "translation": "This is how we expose/beat you; you better learn it's about time.",
       "explanation": "Warning others that SM is here to take over and they need to catch up.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "This is how we swell you dime, you better learn it's about time",
+          "keyword": "swell you dime",
+          "type": "Slang",
+          "meaning": "Meaning they easily defeat or outshine their opponents ('dime' implying something cheap or insignificant). Swell could mean to inflate or increase the impact of the defeat."
+        }
+      ]
     },
     {
       "original": "Ye hai Seedhe maut",
@@ -602,5 +664,6 @@ export const seedhe_maut_anthem: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "summary": "\"Seedhe Maut Anthem\" is a declaration of Seedhe Maut's arrival and dominance in the Desi Hip Hop scene, showcasing their lyrical prowess and fearless attitude. The song establishes their identity and warns competitors of their unmatched skill and impact."
 };

@@ -15,14 +15,14 @@ export const video_games: Song = {
       "annotations": []
     },
     {
-      "original": "\u0938\u0941\u0928\u093e \u092b\u093f\u0930 \u0938\u0947",
+      "original": "सुना फिर से",
       "speaker": "Calm",
       "translation": "Hear it again",
       "explanation": "A simple call to pay attention to the vibe or the cycle they are in.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0942\u0902 bounce back \u0928\u0939\u0940\u0902",
+      "original": "करूं bounce back नहीं",
       "speaker": "Calm",
       "translation": "I don't bounce back",
       "explanation": "Suggests being in a state of mind (or intoxication) where he isn't recovering quickly, or simply staying in the moment.",
@@ -34,7 +34,7 @@ export const video_games: Song = {
       ]
     },
     {
-      "original": "\u092b\u093f\u0930 \u0939\u0942\u0902 wasted",
+      "original": "फिर हूं wasted",
       "speaker": "Calm",
       "translation": "I'm wasted again",
       "explanation": "Refers to being highly intoxicated or feeling like time is being spent aimlessly.",
@@ -53,14 +53,14 @@ export const video_games: Song = {
       "annotations": []
     },
     {
-      "original": "\u0938\u0941\u092c\u0939 \u0938\u0947 rain",
+      "original": "सुबह से rain",
       "speaker": "Calm",
       "translation": "It's been raining since morning",
       "explanation": "Sets a lo-fi, melancholic, and cozy atmosphere typical of the song's production.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0947 \u0935\u094b painting",
+      "original": "करे वो painting",
       "speaker": "Calm",
       "translation": "She is painting",
       "explanation": "A domestic, artistic image of a partner engaging in her own world while he is in his.",
@@ -81,61 +81,68 @@ export const video_games: Song = {
       "annotations": []
     },
     {
-      "original": "Video game \u0939\u0948 \u095b\u093f\u0902\u0926\u0917\u0940",
+      "original": "Video game है ज़िंदगी",
       "speaker": "Hurricane",
       "translation": "Life is a video game",
       "explanation": "The core philosophy: viewing challenges and levels of life through a gaming lens.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Video game है ज़िंदगी",
+          "keyword": "Video game",
+          "type": "Metaphor",
+          "meaning": "Life is being compared to a video game, suggesting a sense of artificiality or unreality."
+        }
+      ]
     },
     {
-      "original": "\u0938\u091a \u0928 \u0922\u0942\u0902\u0922\u0947 \u092e\u0941\u091d\u0947",
+      "original": "सच न ढूंढे मुझे",
       "speaker": "Hurricane",
       "translation": "Truth doesn't look for me",
       "explanation": "Suggests living in a curated or simulated reality where the harsh 'truth' is avoided.",
       "annotations": []
     },
     {
-      "original": "\u092c\u0938 \u0932\u093f\u0916\u0942\u0902 \u092f\u0947 \u0959\u0924",
+      "original": "बस लिखूं ये ख़त",
       "speaker": "Hurricane",
       "translation": "I just write these letters",
       "explanation": "Viewing his lyrics as personal messages or letters to someone.",
       "annotations": []
     },
     {
-      "original": "\u092c\u0938 \u0932\u093f\u0916\u0942\u0902 \u092f\u0947 \u0936\u0947\u0930",
+      "original": "बस लिखूं ये शेर",
       "speaker": "Hurricane",
       "translation": "I just write these couplets",
       "explanation": "Refers to the poetic nature of his writing (Shayari).",
       "annotations": [
         {
-          "keyword": "\u0936\u0947\u0930",
+          "keyword": "शेर",
           "type": "literary"
         }
       ]
     },
     {
-      "original": "\u091c\u092c \u0915\u0930\u0942\u0902 press play",
+      "original": "जब करूं press play",
       "speaker": "Hurricane",
       "translation": "When I press play",
       "explanation": "Starting a track or a new session in life/gaming.",
       "annotations": []
     },
     {
-      "original": "\u0939\u093e\u0901 \u0938\u092e\u091d\u093e \u0928\u0939\u0940\u0902 \u092a\u093e\u092f\u093e",
+      "original": "हाँ समझा नहीं पाया",
       "speaker": "Hurricane",
       "translation": "Yes, I couldn't make them understand",
       "explanation": "The struggle of articulating internal feelings to the outside world.",
       "annotations": []
     },
     {
-      "original": "\u0916\u0941\u0926 \u0915\u094b \u0915\u0948\u0938\u0947 \u0939\u0942\u0902 \u0905\u092d\u0940 \u0924\u0915 safe",
+      "original": "खुद को कैसे हूं अभी तक safe",
       "speaker": "Hurricane",
       "translation": "How I've kept myself safe until now",
       "explanation": "Wondering how he survived the 'levels' of life without getting 'game over'.",
       "annotations": []
     },
     {
-      "original": "\u0925\u093e \u0905\u091f\u0915\u093e \u0907\u0938 level \u092a\u0947 \u092c\u0939\u0941\u0924",
+      "original": "था अटका इस level पे बहुत",
       "speaker": "Hurricane",
       "translation": "I was stuck on this level for a long time",
       "explanation": "Metaphor for a period of stagnation or a difficult phase in his career/life.",
@@ -154,14 +161,14 @@ export const video_games: Song = {
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092a\u0938\u0902\u0926 \u0928\u0939\u0940\u0902 rain",
+      "original": "उसे पसंद नहीं rain",
       "speaker": "Calm",
       "translation": "She doesn't like the rain",
       "explanation": "Highlighting a difference in preference between him and his partner.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092a\u0938\u0902\u0926 \u0939\u0948 \u092f\u0947 G",
+      "original": "उसे पसंद है ये G",
       "speaker": "Calm",
       "translation": "She likes this G",
       "explanation": "She likes Calm's persona as a 'G' (Gangster/OG/Real one).",
@@ -173,28 +180,28 @@ export const video_games: Song = {
       ]
     },
     {
-      "original": "\u0914\u0930 \u092f\u0947 chain",
+      "original": "और ये chain",
       "speaker": "Calm",
       "translation": "And this chain",
       "explanation": "Refers to his jewelry, a symbol of success in hip hop culture.",
       "annotations": []
     },
     {
-      "original": "\u0914\u0930 \u092f\u0947 lead",
+      "original": "और ये lead",
       "speaker": "Calm",
       "translation": "And this lead",
       "explanation": "Can refer to being in the lead in the 'game' or a recording lead.",
       "annotations": []
     },
     {
-      "original": "\u0914\u0930 \u092f\u0947 game",
+      "original": "और ये game",
       "speaker": "Calm",
       "translation": "And this game",
       "explanation": "Refers to the rap industry or their lifestyle.",
       "annotations": []
     },
     {
-      "original": "\u0914\u0930 \u090f\u0915 white shirt on me",
+      "original": "और एक white shirt on me",
       "speaker": "Calm",
       "translation": "And a white shirt on me",
       "explanation": "A classic, clean aesthetic choice.",
@@ -208,7 +215,7 @@ export const video_games: Song = {
       "annotations": []
     },
     {
-      "original": "\u092c\u0938 \u0906\u0902\u0927\u0940 \u0915\u0930\u0947 full beam homie",
+      "original": "बस आंधी करे full beam homie",
       "speaker": "Calm",
       "translation": "Just a storm on full beam, homie",
       "explanation": "Metaphor for moving fast and visibly (like a car with high beams in a storm).",
@@ -227,7 +234,7 @@ export const video_games: Song = {
       "annotations": []
     },
     {
-      "original": "\u0907\u0928\u094d\u0939\u0947\u0902 \u092e\u093e\u0930\u0942\u0902 with that special beam on me",
+      "original": "इन्हें मारूं with that special beam on me",
       "speaker": "Calm",
       "translation": "Kill them with that special beam on me",
       "explanation": "A reference to Piccolo's 'Special Beam Cannon' from Dragon Ball Z, a common anime trope in SM tracks.",
@@ -239,14 +246,14 @@ export const video_games: Song = {
       ]
     },
     {
-      "original": "Gucci \u0932\u093f\u092f\u093e \u0905\u0917\u0932\u0947 \u0926\u093f\u0928 \u0939\u0940 \u091b\u0947\u0921\u093c \u0915\u0930\u0942\u0902 \u0915\u094b\u0908 \u0928\u0939\u0940\u0902",
+      "original": "Gucci लिया अगले दिन ही छेड़ करूं कोई नहीं",
       "speaker": "Calm",
       "translation": "Bought Gucci, and the next day I'm messing around, no one compares",
       "explanation": "Flexing wealth while maintaining a nonchalant attitude.",
       "annotations": []
     },
     {
-      "original": "I cop it \u092c\u093f\u0928\u093e \u0926\u0947\u0916\u0947 price",
+      "original": "I cop it बिना देखे price",
       "speaker": "Calm",
       "translation": "I buy it without looking at the price",
       "explanation": "Ultimate sign of financial success in rap.",
@@ -258,14 +265,21 @@ export const video_games: Song = {
       ]
     },
     {
-      "original": "I\u2019m popping",
+      "original": "I’m popping",
       "speaker": "Calm",
       "translation": "I'm trending/famous",
       "explanation": "Being relevant and successful in the scene.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "I cop it बिना देखे price",
+          "keyword": "cop it",
+          "type": "Slang",
+          "meaning": "Means to purchase something without regard for the cost, indicating a potentially reckless or extravagant lifestyle."
+        }
+      ]
     },
     {
-      "original": "\u092c\u0939\u0941\u0924 \u0939\u0948 \u092c\u0939\u0941\u0924 \u0939\u0948 \u092d\u093e\u0908",
+      "original": "बहुत है बहुत है भाई",
       "speaker": "Calm",
       "translation": "It's a lot, it's plenty, brother",
       "explanation": "Gratitude or satisfaction with the abundance they have achieved.",
@@ -276,101 +290,122 @@ export const video_games: Song = {
       "speaker": "Calm",
       "translation": "I pop a pill to feel alive",
       "explanation": "A vulnerable confession of using substances to cope or feel emotion amidst the numbness of fame.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "बहुत है बहुत है भाई",
+          "keyword": "भाई",
+          "type": "Cultural",
+          "meaning": "\"Bhai\" means brother, often used as a term of endearment or camaraderie, especially in North India."
+        }
+      ]
     },
     {
       "original": "I leave that thought alone at night",
       "speaker": "Calm",
       "translation": "I leave that thought alone at night",
       "explanation": "Trying to suppress dark or overthinking thoughts before sleep.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "I pop a pill to feel alive",
+          "keyword": "pop a pill",
+          "type": "Slang",
+          "meaning": "Using pills/drugs to feel something, speaks of escapism and numbing feelings."
+        }
+      ]
     },
     {
-      "original": "\u0905\u092c \u091a\u093e\u0939\u0924\u093e \u0926\u093f\u0932 \u0915\u0941\u091b \u0914\u0930 \u0939\u0948 \u0936\u093e\u092f\u0926",
+      "original": "अब चाहता दिल कुछ और है शायद",
       "speaker": "Calm",
       "translation": "Now the heart wants something else, perhaps",
       "explanation": "Internal shift from chasing material success to seeking peace or genuine connection.",
       "annotations": []
     },
     {
-      "original": "\u0907\u0938 fame \u0914\u0930 \u0930\u094b\u095b \u0915\u0947 pain \u0938\u0947 \u095b\u094d\u092f\u093e\u0926\u093e",
+      "original": "इस fame और रोज़ के pain से ज़्यादा",
       "speaker": "Calm",
       "translation": "More than this fame and daily pain",
       "explanation": "Acknowledging that fame comes with a cost/pain that he now wants to move beyond.",
       "annotations": []
     },
     {
-      "original": "Camera flash \u0914\u0930 race \u0938\u0947 \u0926\u0942\u0930",
+      "original": "Camera flash और race से दूर",
       "speaker": "Calm",
       "translation": "Away from camera flashes and the rat race",
       "explanation": "Wanting to escape the constant public scrutiny and competitive industry.",
       "annotations": []
     },
     {
-      "original": "Call \u092a\u0947 \u0939\u0901\u0938\u0924\u093e \u0939\u0942\u0901 \u092e\u0948\u0902 \u092a\u0930",
+      "original": "Call पे हँसता हूँ मैं पर",
       "speaker": "Calm",
       "translation": "I laugh on the call, but...",
       "explanation": "Putting on a facade of happiness during social or business interactions.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "इस fame और रोज़ के pain से ज़्यादा",
+          "keyword": "fame",
+          "type": "Metaphor",
+          "meaning": "Highlights the negative aspects of fame, contrasting the perceived glamour with the underlying pain and struggles."
+        }
+      ]
     },
     {
-      "original": "\u0907\u0928 \u0921\u0940\u0932\u094b\u0902 \u0938\u0947 \u0928\u0939\u0940\u0902 \u092e\u093f\u0932\u0924\u0940 \u0930\u0942\u0939",
+      "original": "इन डीलों से नहीं मिलती रूह",
       "speaker": "Calm",
       "translation": "These deals don't touch the soul",
       "explanation": "Commercial success (brand deals/contracts) feels spiritually empty.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0940\u091b\u0947 \u091b\u094b\u095c\u0947 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u094b",
+      "original": "पीछे छोड़े दुनिया को",
       "speaker": "Calm",
       "translation": "Leaving the world behind",
       "explanation": "Choosing isolation or intimacy over public life.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0939\u0940\u0902 \u091a\u0932\u0924\u0947 \u0939\u0948\u0902 \u092e\u0948\u0921\u092e, \u092e\u0948\u0902 \u0914\u0930 \u0924\u0942",
+      "original": "कहीं चलते हैं मैडम, मैं और तू",
       "speaker": "Calm",
       "translation": "Let's go somewhere, Madam, just me and you",
       "explanation": "A romantic invitation to escape the chaos together.",
       "annotations": []
     },
     {
-      "original": "\u0907\u0938 \u0917\u0939\u0930\u0947 \u092a\u093e\u0928\u0940 \u092e\u0947\u0902",
+      "original": "इस गहरे पानी में",
       "speaker": "Calm",
       "translation": "In this deep water",
       "explanation": "Metaphor for deep emotions or a secluded place.",
       "annotations": []
     },
     {
-      "original": "\u092f\u0947 \u091c\u0932\u092a\u0930\u0940 \u0905\u0915\u0947\u0932\u0947 \u0924\u0948\u0930\u0947 \u0915\u094d\u092f\u094b\u0902",
+      "original": "ये जलपरी अकेले तैरे क्यों",
       "speaker": "Calm",
       "translation": "Why does this mermaid swim alone?",
       "explanation": "Calling his partner a 'jalpari' (mermaid), wondering why she's lonely or distant.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u0939\u0948 \u0928\u0939\u0940\u0902 clue",
+      "original": "उसे है नहीं clue",
       "speaker": "Calm",
       "translation": "She has no clue",
       "explanation": "She doesn't realize the depth of his feelings or the situation.",
       "annotations": []
     },
     {
-      "original": "\u0939\u0948 \u0926\u093f\u0932 \u092e\u0947\u0902 \u092e\u0947\u0930\u0947 \u092b\u0948\u0932\u0940 \u0924\u0942",
+      "original": "है दिल में मेरे फैली तू",
       "speaker": "Calm",
       "translation": "You are spread across my heart",
       "explanation": "A poetic expression of her being omnipresent in his thoughts.",
       "annotations": []
     },
     {
-      "original": "\u0939\u0948 \u0938\u0941\u092c\u0939 \u0915\u0940 \u0935\u094b \u092a\u0939\u0932\u0940 view",
+      "original": "है सुबह की वो पहली view",
       "speaker": "Calm",
       "translation": "She is that first view of the morning",
       "explanation": "Comparing her to the refreshing sight of dawn.",
       "annotations": []
     },
     {
-      "original": "\u091c\u094b \u0926\u0947\u0916\u0924\u0947 \u0939\u0940 \u0926\u093f\u0928 \u0939\u0948 W",
+      "original": "जो देखते ही दिन है W",
       "speaker": "Calm",
       "translation": "The moment I see her, the day is a 'W'",
       "explanation": "In gaming, 'W' stands for Win. Seeing her makes his day a success.",
@@ -382,7 +417,7 @@ export const video_games: Song = {
       ]
     },
     {
-      "original": "\u092e\u0948\u0902 \u0915\u0939 \u0930\u0939\u093e \u0939\u0942\u0902 \u0915\u093f I fuck with you",
+      "original": "मैं कह रहा हूं कि I fuck with you",
       "speaker": "Calm",
       "translation": "I'm saying that I fuck with you",
       "explanation": "A slang way of saying he truly likes/respects her presence.",
@@ -394,33 +429,33 @@ export const video_games: Song = {
       ]
     },
     {
-      "original": "\u0939\u0942\u0902 \u0924\u0947\u0930\u0947 \u091a\u0915\u094d\u0930\u0935\u094d\u092f\u0942\u0939 \u092e\u0947\u0902 \u0918\u0942\u092e\u0942\u0902",
+      "original": "हूं तेरे चक्रव्यूह में घूमूं",
       "speaker": "Calm",
       "translation": "I'm wandering in your labyrinth",
       "explanation": "Refers to the 'Chakravyuh' (complex formation from Mahabharata), meaning he is happily lost in her complexities.",
       "annotations": [
         {
-          "keyword": "\u091a\u0915\u094d\u0930\u0935\u094d\u092f\u0942\u0939",
+          "keyword": "चक्रव्यूह",
           "type": "mythological reference"
         }
       ]
     },
     {
-      "original": "\u0921\u0942\u092c\u0940 \u0921\u0942\u092c\u0940 \u0938\u0940 \u0924\u0942",
+      "original": "डूबी डूबी सी तू",
       "speaker": "Calm",
       "translation": "You seem drowned (in thought/vibe)",
       "explanation": "She is deeply immersed in her own world.",
       "annotations": []
     },
     {
-      "original": "\u0921\u0942\u092c\u093e \u0921\u0942\u092c\u093e \u092e\u0948\u0902 \u092d\u0940",
+      "original": "डूबा डूबा मैं भी",
       "speaker": "Calm",
       "translation": "I am drowned too",
       "explanation": "He is matching her energy or depth.",
       "annotations": []
     },
     {
-      "original": "\u0921\u0942\u092c\u0947 \u0921\u0942\u092c\u0947 \u0939\u092e",
+      "original": "डूबे डूबे हम",
       "speaker": "Calm",
       "translation": "We are both drowned together",
       "explanation": "Mutual immersion in their relationship or the mood.",
@@ -434,21 +469,21 @@ export const video_games: Song = {
       "annotations": []
     },
     {
-      "original": "\u0938\u0941\u0928\u093e \u092b\u093f\u0930 \u0938\u0947",
+      "original": "सुना फिर से",
       "speaker": "Calm",
       "translation": "Hear it again",
       "explanation": "Hook repetition.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0942\u0902 bounce back \u0928\u0939\u0940\u0902",
+      "original": "करूं bounce back नहीं",
       "speaker": "Calm",
       "translation": "I don't bounce back",
       "explanation": "Hook repetition.",
       "annotations": []
     },
     {
-      "original": "\u092b\u093f\u0930 \u0939\u0942\u0902 wasted",
+      "original": "फिर हूं wasted",
       "speaker": "Calm",
       "translation": "I'm wasted again",
       "explanation": "Hook repetition.",
@@ -462,21 +497,21 @@ export const video_games: Song = {
       "annotations": []
     },
     {
-      "original": "\u0938\u0941\u092c\u0939 \u0938\u0947 rain",
+      "original": "सुबह से rain",
       "speaker": "Calm",
       "translation": "Rain since morning",
       "explanation": "Hook repetition.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0947 \u0935\u094b painting",
+      "original": "करे वो painting",
       "speaker": "Calm",
       "translation": "She is painting",
       "explanation": "Hook repetition.",
       "annotations": []
     },
     {
-      "original": "Vid\u0435o games",
+      "original": "Vidеo games",
       "speaker": "Calm",
       "translation": "Video games",
       "explanation": "Hook repetition.",
@@ -490,73 +525,73 @@ export const video_games: Song = {
       "annotations": []
     },
     {
-      "original": "\u092e\u0947\u0930\u093e \u0924\u0947\u0930\u0947 \u0932\u093f\u090f \u092a\u094d\u092f\u093e\u0930 \u095b\u093f\u0902\u0926\u093e\u092c\u093e\u0926 \u0939\u0948",
+      "original": "मेरा तेरे लिए प्यार ज़िंदाबाद है",
       "speaker": "Encore ABJ",
       "translation": "My love for you is eternal",
       "explanation": "Encore starts his verse with a strong declaration of lasting love.",
       "annotations": [
         {
-          "keyword": "\u095b\u093f\u0902\u0926\u093e\u092c\u093e\u0926",
+          "keyword": "ज़िंदाबाद",
           "type": "literary"
         }
       ]
     },
     {
-      "original": "\u0959\u093e\u092e\u0959\u093e\u0939 \u091c\u095b\u094d\u092c\u093e\u0924\u094b\u0902 \u0915\u093e \u0907\u095b\u0939\u093e\u0930 \u095b\u093f\u0902\u0926\u093e\u092c\u093e\u0926 \u0939\u0948",
+      "original": "ख़ामख़ाह जज़्बातों का इज़हार ज़िंदाबाद है",
       "speaker": "Encore ABJ",
       "translation": "This unnecessary expression of emotions is eternal",
       "explanation": "Acknowledging that he might be oversharing or being too emotional, but celebrating it anyway.",
       "annotations": []
     },
     {
-      "original": "\u0924\u0947\u0930\u0947 \u092a\u0940\u091b\u0947 \u0910\u0938\u093e \u0917\u093f\u0930\u0947 \u0915\u093f \u092f\u0947 \u0918\u093e\u0935 \u095b\u093f\u0902\u0926\u093e\u092c\u093e\u0926 \u0939\u0948",
+      "original": "तेरे पीछे ऐसा गिरे कि ये घाव ज़िंदाबाद है",
       "speaker": "Encore ABJ",
       "translation": "I fell for you so hard that these wounds are eternal",
       "explanation": "Romanticizing the pain of falling in love.",
       "annotations": []
     },
     {
-      "original": "\u0907\u0936\u094d\u0958 \u092e\u0947\u0930\u093e \u091c\u0948\u0938\u0947 \u092e\u0939\u093e\u0938\u093e\u0917\u0930 \u0938\u093f\u0902\u0927 \u0906\u092c\u093e\u0926 \u0939\u0948",
+      "original": "इश्क़ मेरा जैसे महासागर सिंध आबाद है",
       "speaker": "Encore ABJ",
       "translation": "My love is like the thriving Indus ocean",
       "explanation": "A grand geographical metaphor for the depth and vastness of his love.",
       "annotations": []
     },
     {
-      "original": "\u0914\u0930 \u092e\u0948\u0902 \u0909\u0928 \u0932\u0939\u0930\u094b\u0902 \u0915\u093e \u092e\u0941\u0938\u093e\u095e\u093f\u0930, \u0924\u0947\u0930\u093e \u092d\u093e\u0908 \u0938\u093f\u0902\u0927\u092c\u093e\u0926 \u0939\u0948",
+      "original": "और मैं उन लहरों का मुसाफ़िर, तेरा भाई सिंधबाद है",
       "speaker": "Encore ABJ",
       "translation": "And I'm a traveler of those waves, your brother is Sindbad",
       "explanation": "Compares himself to Sindbad the Sailor, navigating the 'ocean' of his life and career.",
       "annotations": [
         {
-          "keyword": "\u0938\u093f\u0902\u0927\u092c\u093e\u0926",
+          "keyword": "सिंधबाद",
           "type": "folklore reference"
         }
       ]
     },
     {
-      "original": "I play no gam\u0435s baby",
+      "original": "I play no gamеs baby",
       "speaker": "Encore ABJ",
       "translation": "I play no games, baby",
       "explanation": "Contrasting with the song title; in relationships, he is direct and honest.",
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u0932 \u0938\u0947 \u092e\u0947\u0930\u0947 \u0916\u0947\u0932 \u0928 \u0916\u0947\u0932",
+      "original": "दिल से मेरे खेल न खेल",
       "speaker": "Encore ABJ",
       "translation": "Don't play games with my heart",
       "explanation": "Asking for sincerity in return.",
       "annotations": []
     },
     {
-      "original": "\u0914\u0930 \u092c\u094b\u0932 \u0928\u0939\u0940\u0902 \u092e\u0941\u091d\u0915\u094b famous",
+      "original": "और बोल नहीं मुझको famous",
       "speaker": "Encore ABJ",
       "translation": "And don't call me 'famous'",
       "explanation": "He dislikes the label of fame, preferring a real connection over his celebrity status.",
       "annotations": []
     },
     {
-      "original": "\u0905\u092a\u0928\u0940 alter ego \u0924\u0947\u0930\u0947 \u0906\u0917\u0947 \u0906\u0928\u0947 \u0928 \u0926\u0942\u0902",
+      "original": "अपनी alter ego तेरे आगे आने न दूं",
       "speaker": "Encore ABJ",
       "translation": "I won't let my alter ego come before you",
       "explanation": "He separates his aggressive rapper persona (Encore ABJ) from his private self when with her.",
@@ -568,110 +603,124 @@ export const video_games: Song = {
       ]
     },
     {
-      "original": "\u092e\u0948\u0902 \u092c\u0938 \u092c\u0928\u0915\u0947 Abhijay \u0939\u0940 \u0916\u0941\u0936 \u0939\u0942\u0902",
+      "original": "मैं बस बनके Abhijay ही खुश हूं",
       "speaker": "Encore ABJ",
       "translation": "I'm happy just being Abhijay",
       "explanation": "Abhijay is Encore's real name; he finds happiness in his authentic identity.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "दिमाग़ को दिखती Seedhe Maut",
+          "keyword": "Seedhe Maut",
+          "type": "Reference",
+          "meaning": "Seedhe Maut is the name of the artist duo. Literally translates to 'Straight Death'."
+        }
+      ]
     },
     {
-      "original": "Double E \u0915\u094b \u092e\u094c\u0958\u093e \u0926\u0947 \u092e\u0924",
+      "original": "Double E को मौक़ा दे मत",
       "speaker": "Encore ABJ",
       "translation": "Don't give 'Double E' a chance",
       "explanation": "'Double E' refers to Encore, his stage persona which can be more intense or 'ruthless'.",
       "annotations": []
     },
     {
-      "original": "\u0915\u094d\u092f\u094b\u0902\u0915\u093f ABJ \u092e\u0947\u0902 \u0926\u0930\u094d\u0926 \u0939\u0948",
+      "original": "क्योंकि ABJ में दर्द है",
       "speaker": "Encore ABJ",
       "translation": "Because there is pain in ABJ",
       "explanation": "His artistic persona is built on his struggles and pain.",
       "annotations": []
     },
     {
-      "original": "Double E \u0928\u0939\u0940\u0902 \u0926\u0947\u0924\u093e fucks \u0939\u0948",
+      "original": "Double E नहीं देता fucks है",
       "speaker": "Encore ABJ",
       "translation": "Double E doesn't give a fuck",
       "explanation": "Encore (the rapper) is unapologetic and hardened.",
       "annotations": []
     },
     {
-      "original": "\u0914\u0930 \u092f\u0947 Encore back to back",
+      "original": "और ये Encore back to back",
       "speaker": "Encore ABJ",
       "translation": "And this Encore, back to back",
       "explanation": "Refers to his relentless work ethic and constant releases.",
       "annotations": []
     },
     {
-      "original": "\u092c\u0938 studio \u092e\u0947\u0902 \u092c\u0902\u0926 \u0939\u0948",
+      "original": "बस studio में बंद है",
       "speaker": "Encore ABJ",
       "translation": "Just locked in the studio",
-      "explanation": "The reality of an artist's life\u2014constant work in isolation.",
+      "explanation": "The reality of an artist's life—constant work in isolation.",
       "annotations": []
     },
     {
-      "original": "\u0938\u093e\u0932\u093e \u092e\u093e\u0930 \u0930\u0939\u093e \u0905\u0915\u0947\u0932\u093e\u092a\u0928",
+      "original": "साला मार रहा अकेलापन",
       "speaker": "Encore ABJ",
       "translation": "This loneliness is killing me",
       "explanation": "Vulnerability regarding the isolation that comes with his level of dedication.",
       "annotations": []
     },
     {
-      "original": "\u0939\u0948 studio \u092e\u0947\u0902 \u0905\u0915\u0947\u0932\u093e \u092d\u0902\u0921",
+      "original": "है studio में अकेला भंड",
       "speaker": "Encore ABJ",
       "translation": "I'm alone and high in the studio",
       "explanation": "Being intoxicated alone while working.",
       "annotations": [
         {
-          "keyword": "\u092d\u0902\u0921",
+          "keyword": "भंड",
           "type": "slang"
         }
       ]
     },
     {
-      "original": "\u0924\u0938\u094d\u0915\u0930\u0940 \u0959\u092f\u093e\u0932\u094b\u0902 \u0915\u0940",
+      "original": "तस्करी ख़यालों की",
       "speaker": "Encore ABJ",
       "translation": "Smuggling of thoughts",
-      "explanation": "Poetic way to describe his songwriting process\u2014dealing in illicit or deep ideas.",
+      "explanation": "Poetic way to describe his songwriting process—dealing in illicit or deep ideas.",
       "annotations": []
     },
     {
-      "original": "\u0930\u0939\u093e \u0905\u0915\u094d\u0937\u0930\u094b\u0902 \u0915\u093e \u092e\u0947\u0932\u093e \u092c\u0928",
+      "original": "रहा अक्षरों का मेला बन",
       "speaker": "Encore ABJ",
       "translation": "A fair of letters is forming",
       "explanation": "His lyrics coming together like a crowded, vibrant fair (mela).",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "और बोल नहीं मुझको famous",
+          "keyword": "famous",
+          "type": "Reference",
+          "meaning": "Expresses a lack of desire for fame, contrasting with typical aspirations in the music industry."
+        }
+      ]
     },
     {
-      "original": "\u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0930\u093e\u091c\u093e \u0918\u0942\u0930 \u0930\u0939\u093e \u0939\u0948 moon",
+      "original": "राजधानी राजा घूर रहा है moon",
       "speaker": "Encore ABJ",
       "translation": "The King of the capital is staring at the moon",
       "explanation": "Refers to himself as the King of Delhi (Rajdhani) in a moment of late-night reflection.",
       "annotations": []
     },
     {
-      "original": "\u0905\u092a\u0928\u0947 \u0939\u093e\u0925 \u092e\u0947\u0902 \u0924\u0932\u0935\u093e\u0930 \u0938\u0947 \u0935\u094b \u092a\u094b\u0902\u091b \u0930\u0939\u093e \u0939\u0948 \u0959\u0942\u0928",
+      "original": "अपने हाथ में तलवार से वो पोंछ रहा है ख़ून",
       "speaker": "Encore ABJ",
       "translation": "With a sword in his hand, he is wiping off the blood",
       "explanation": "Metaphor for the 'battles' he has fought in the rap game and the aftermath of success.",
       "annotations": []
     },
     {
-      "original": "\u0914\u0930 \u092f\u0939\u093e\u0901 \u0926\u093f\u0932 \u0915\u094b \u0926\u093f\u0916\u0924\u0940 Seedhe Maut",
+      "original": "और यहाँ दिल को दिखती Seedhe Maut",
       "speaker": "Encore ABJ",
       "translation": "And here, the heart sees Seedhe Maut",
       "explanation": "The heart only knows the brand/legacy they've built.",
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u092e\u093e\u095a \u0915\u094b \u0926\u093f\u0916\u0924\u093e doom",
+      "original": "दिमाग़ को दिखता doom",
       "speaker": "Encore ABJ",
       "translation": "The mind sees doom",
       "explanation": "The mental stress and dark thoughts that plague a successful artist.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0930 \u091c\u092c \u0924\u0941\u091d\u0938\u0947 \u092c\u093e\u0924\u0947\u0902 \u0915\u0930\u0924\u093e",
+      "original": "पर जब तुझसे बातें करता",
       "speaker": "Encore ABJ",
       "translation": "But when I talk to you",
       "explanation": "The shift that happens when he connects with his partner.",
@@ -692,21 +741,21 @@ export const video_games: Song = {
       "annotations": []
     },
     {
-      "original": "\u0938\u0941\u0928\u093e \u092b\u093f\u0930 \u0938\u0947",
+      "original": "सुना फिर से",
       "speaker": "Calm",
       "translation": "Hear it again",
       "explanation": "Hook repetition.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0942\u0902 bounce back \u0928\u0939\u0940\u0902",
+      "original": "करूं bounce back नहीं",
       "speaker": "Calm",
       "translation": "I don't bounce back",
       "explanation": "Hook repetition.",
       "annotations": []
     },
     {
-      "original": "\u092b\u093f\u0930 \u0939\u0942\u0902 wasted",
+      "original": "फिर हूं wasted",
       "speaker": "Calm",
       "translation": "I'm wasted again",
       "explanation": "Hook repetition.",
@@ -720,14 +769,14 @@ export const video_games: Song = {
       "annotations": []
     },
     {
-      "original": "\u0938\u0941\u092c\u0939 \u0938\u0947 rain",
+      "original": "सुबह से rain",
       "speaker": "Calm",
       "translation": "Rain since morning",
       "explanation": "Hook repetition.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0947 \u0935\u094b painting",
+      "original": "करे वो painting",
       "speaker": "Calm",
       "translation": "She is painting",
       "explanation": "Hook repetition.",
@@ -748,56 +797,56 @@ export const video_games: Song = {
       "annotations": []
     },
     {
-      "original": "Video game \u0939\u0948 \u095b\u093f\u0902\u0926\u0917\u0940",
+      "original": "Video game है ज़िंदगी",
       "speaker": "Hurricane",
       "translation": "Life is a video game",
       "explanation": "Outro repeating the central philosophy.",
       "annotations": []
     },
     {
-      "original": "\u0938\u091a \u0928 \u0922\u0942\u0902\u0922\u0947 \u092e\u0941\u091d\u0947",
+      "original": "सच न ढूंढे मुझे",
       "speaker": "Hurricane",
       "translation": "Truth doesn't find me",
       "explanation": "Outro repetition.",
       "annotations": []
     },
     {
-      "original": "\u092c\u0938 \u0932\u093f\u0916\u0942\u0902 \u092f\u0947 \u0959\u0924",
+      "original": "बस लिखूं ये ख़त",
       "speaker": "Hurricane",
       "translation": "Just write these letters",
       "explanation": "Outro repetition.",
       "annotations": []
     },
     {
-      "original": "\u092c\u0938 \u0932\u093f\u0916\u0942\u0902 \u092f\u0947 \u0936\u0947\u0930",
+      "original": "बस लिखूं ये शेर",
       "speaker": "Hurricane",
       "translation": "Just write these verses",
       "explanation": "Outro repetition.",
       "annotations": []
     },
     {
-      "original": "\u091c\u092c \u0915\u0930\u0942\u0902 press play",
+      "original": "जब करूं press play",
       "speaker": "Hurricane",
       "translation": "When I press play",
       "explanation": "Outro repetition.",
       "annotations": []
     },
     {
-      "original": "\u0939\u093e\u0901 \u0938\u092e\u091d\u093e \u0928\u0939\u0940\u0902 \u092a\u093e\u092f\u093e",
+      "original": "हाँ समझा नहीं पाया",
       "speaker": "Hurricane",
       "translation": "Yes, I couldn't explain",
       "explanation": "Outro repetition.",
       "annotations": []
     },
     {
-      "original": "\u0916\u0941\u0926 \u0915\u094b \u0915\u0948\u0938\u0947 \u0939\u0942\u0902 \u0905\u092d\u0940 \u0924\u0915 safe",
+      "original": "खुद को कैसे हूं अभी तक safe",
       "speaker": "Hurricane",
       "translation": "How I'm still safe",
       "explanation": "Outro repetition.",
       "annotations": []
     },
     {
-      "original": "\u0925\u093e \u0905\u091f\u0915\u093e \u0907\u0938 level \u092a\u0947 \u092c\u0939\u0941\u0924",
+      "original": "था अटका इस level पे बहुत",
       "speaker": "Hurricane",
       "translation": "I was stuck on this level for a long time",
       "explanation": "Outro repetition.",
@@ -816,5 +865,7 @@ export const video_games: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Introspective",
+  "summary": "\"Video Games\" explores themes of escapism, the superficiality of fame, and the artists' internal struggles and coping mechanisms in a world that often feels like a game. The lyrics delve into the artists' personal experiences, contrasting real-life challenges with the allure of a manufactured reality."
 };

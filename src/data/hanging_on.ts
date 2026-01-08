@@ -636,6 +636,6 @@ export const hanging_on: Song = {
       "Seedhe Maut"
     ]
   },
-  "vibe": "Reflective",
+  "vibe": "Introspective",
   "summary": "\"Hanging On\" explores the struggles and anxieties of life, family expectations, and the search for meaning and success in a difficult world. The artists grapple with internal conflicts, societal pressures, and the importance of love as a source of resilience."
 };

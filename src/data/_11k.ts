@@ -825,6 +825,6 @@ export const _11k: Song = {
       ]
     }
   ],
-  "vibe": "Braggadocio",
+  "vibe": "Aggressive",
   "summary": "\"11K\" is a confident and assertive track where Seedhe Maut showcases their financial success, lyrical skill, and independence within the Desi Hip Hop scene. They contrast themselves with competitors, emphasizing their self-made status and dominance."
 };

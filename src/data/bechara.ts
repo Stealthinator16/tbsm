@@ -430,6 +430,6 @@ export const bechara: Song = {
       "Seedhe Maut"
     ]
   },
-  "vibe": "Melancholic",
+  "vibe": "Introspective",
   "summary": "\"Bechara\" reflects on themes of loneliness, disillusionment, and the search for genuine connection in a world that often feels superficial. The artists express a sense of being lost and misunderstood, contrasting their authentic selves with the artificiality they perceive around them."
 };

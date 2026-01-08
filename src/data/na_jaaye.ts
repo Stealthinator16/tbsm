@@ -4,7 +4,7 @@ export const na_jaaye: Song = {
   "id": "na_jaaye",
   "title": "Na Jaaye",
   "slug": "na-jaaye",
-  "album": "\u2018\u0928\u2019 (Mixtape)",
+  "album": "‘न’ (Mixtape)",
   "releaseDate": "",
   "lyrics": [
     {
@@ -67,7 +67,14 @@ export const na_jaaye: Song = {
       "speaker": "Encore ABJ",
       "translation": "If she's determined to leave, then let her go.",
       "explanation": "A sense of resignation regarding a partner who has already mentally checked out of the relationship.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Thaan hi liya jaana to vo jaaye jaye",
+          "keyword": "Jaana",
+          "type": "Idiom",
+          "meaning": "If someone has made up their mind to leave, they will inevitably leave. Implies a sense of resignation."
+        }
+      ]
     },
     {
       "original": "Oy, oy, oy, oy",
@@ -142,7 +149,14 @@ export const na_jaaye: Song = {
       "speaker": "Calm",
       "translation": "This might be a new beginning for her.",
       "explanation": "Acknowledging that while things are ending for him, the other person is moving on to something new.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Me bhi saala vehmi mujhe khone do",
+          "keyword": "Vehmi",
+          "type": "Slang",
+          "meaning": "Saala vehmi translates to 'I'm also doubtful', expressing a sense of paranoia and insecurity about losing someone."
+        }
+      ]
     },
     {
       "original": "Par Yaha lage aaya sab khatam hai hone ko (Gaya)",
@@ -185,7 +199,7 @@ export const na_jaaye: Song = {
       "annotations": []
     },
     {
-      "original": "Tajurba bole peeche p\u0435 padni laat hai",
+      "original": "Tajurba bole peeche pе padni laat hai",
       "speaker": "Calm",
       "translation": "Experience says I'm going to get kicked in the back.",
       "explanation": "A metaphor for being betrayed or blindsided based on past experiences.",
@@ -199,7 +213,7 @@ export const na_jaaye: Song = {
       "annotations": []
     },
     {
-      "original": "Mila kya door hi reh hai m\u0435ri raaye pyaar se",
+      "original": "Mila kya door hi reh hai mеri raaye pyaar se",
       "speaker": "Calm",
       "translation": "What did we get? My advice is to just stay away kindly.",
       "explanation": "Suggesting that distance is better than a toxic connection.",
@@ -238,7 +252,14 @@ export const na_jaaye: Song = {
       "speaker": "Calm",
       "translation": "Since it's a matter of ego now...",
       "explanation": "The conflict has shifted from love to a battle of pride.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ego pe lagi baat hai to",
+          "keyword": "Ego",
+          "type": "Concept",
+          "meaning": "Indicates that the conflict is fueled by hurt pride and a clash of egos, escalating the situation."
+        }
+      ]
     },
     {
       "original": "Pehle se zyada karu me",
@@ -289,6 +310,12 @@ export const na_jaaye: Song = {
         {
           "keyword": "Lawde",
           "type": "Slang"
+        },
+        {
+          "text": "Dhool chaat",
+          "keyword": "Dhool chaat",
+          "type": "Slang",
+          "meaning": "Means 'eat dust' or 'bite the dust', a derogatory term implying defeat or humiliation."
         }
       ]
     },
@@ -297,7 +324,14 @@ export const na_jaaye: Song = {
       "speaker": "Calm",
       "translation": "How to bow down?",
       "explanation": "Asserting his refusal to submit or compromise his integrity.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Naate udde tuco jaise tukk ho jaise",
+          "keyword": "Tuco",
+          "type": "Reference",
+          "meaning": "Referring to Tuco Salamanca from Breaking Bad, known for being volatile and unpredictable. Implies relationships are breaking apart violently like his actions."
+        }
+      ]
     },
     {
       "original": "Itna ki",
@@ -318,7 +352,14 @@ export const na_jaaye: Song = {
       "speaker": "Calm",
       "translation": "Their own people.",
       "explanation": "The sting of betrayal is worse when it comes from friends or family.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Jhuko kaise",
+          "keyword": "Jhuko",
+          "type": "Metaphor",
+          "meaning": "Raises the question about compromising or submitting, possibly within the context of relationships or the music industry."
+        }
+      ]
     },
     {
       "original": "Thooko aise",
@@ -419,7 +460,14 @@ export const na_jaaye: Song = {
       "speaker": "Encore ABJ",
       "translation": "It is clearly evident in her eyes.",
       "explanation": "The truth remains visible despite words.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Big Mood",
+          "keyword": "Big Mood",
+          "type": "Slang",
+          "meaning": "Current online slang used to describe something relatable and a feeling"
+        }
+      ]
     },
     {
       "original": "Jayaz gussa kya hai (Thoda dheere)",
@@ -546,7 +594,14 @@ export const na_jaaye: Song = {
       "speaker": "Encore ABJ",
       "translation": "You were burnt behind my back, but I didn't even smell the smoke.",
       "explanation": "She was jealous or acting out secretly, but he was too busy/indifferent to notice.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Chui mui tu hi nahi",
+          "keyword": "Chui mui",
+          "type": "Metaphor",
+          "meaning": "A touch-me-not plant. You aren't the only sensitive person. "
+        }
+      ]
     },
     {
       "original": "Yuhi kahi soche log karu mai kneel nai",
@@ -699,7 +754,14 @@ export const na_jaaye: Song = {
       "speaker": "Encore ABJ",
       "translation": "People kiss you with one breath and piss on you with the next.",
       "explanation": "Graphic metaphor for extreme hypocrisy and fickle loyalty.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Jhoot bolu maut aa jaye",
+          "keyword": "Maut aa jaye",
+          "type": "Idiom",
+          "meaning": "A common expression meaning, 'I'll die if I lie.' Emphasizing the truthfulness of what is being said."
+        }
+      ]
     },
     {
       "original": "Tabhi aur pyar ki talwar se katt matt tu, ah!",
@@ -749,5 +811,7 @@ export const na_jaaye: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Introspective",
+  "summary": "Na Jaaye explores themes of heartbreak, betrayal, and self-reflection. The song navigates the complexities of a dissolving relationship and the emotional turmoil that follows, using vivid imagery and introspective lyrics."
 };

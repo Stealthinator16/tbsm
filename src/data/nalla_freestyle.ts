@@ -2,8 +2,8 @@ import { Song } from '../types';
 
 export const nalla_freestyle: Song = {
   "id": "nalla_freestyle",
-  "title": "\u0928alla Freestyle",
-  "slug": "\u0928alla-freestyle",
+  "title": "नalla Freestyle",
+  "slug": "नalla-freestyle",
   "album": "Singles & Features",
   "lyrics": [
     {
@@ -13,7 +13,7 @@ export const nalla_freestyle: Song = {
       "annotations": []
     },
     {
-      "original": "Yo, Aye SA, let's get it. Aanh, \u0928alle",
+      "original": "Yo, Aye SA, let's get it. Aanh, नalle",
       "translation": "Yo, Sez, let's go. Yeah, you useless bums.",
       "explanation": "Calm addresses the producer and insults the 'nalla' (useless/unemployed) rappers.",
       "annotations": [
@@ -24,6 +24,12 @@ export const nalla_freestyle: Song = {
         {
           "text": "Nalle",
           "type": "slang"
+        },
+        {
+          "text": "Itna roliye ab gaane sunke rona bhi ni aata (Fuck)",
+          "keyword": "Rona",
+          "type": "Metaphor",
+          "meaning": "They've endured so much hardship/criticism that they've become numb to it, implying resilience and a hardened exterior."
         }
       ]
     },
@@ -66,7 +72,14 @@ export const nalla_freestyle: Song = {
       "original": "Mujhe paise se pehle se chidd hai uss hi ne ujaada ghar aur tabhi to chhaapu me tere papa se bhi zyada",
       "translation": "I've hated money for a long time because it destroyed my home; and that's exactly why I'm making more than your father now.",
       "explanation": "A deep personal line about how financial instability affected his family, driving his hunger for wealth now.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Mujhe paise se pehle se chidd hai uss hi ne ujaada ghar aur tabhi to chhaapu me tere papa se bhi zyada",
+          "keyword": "Paise se chidd",
+          "type": "Personal",
+          "meaning": "Expresses a pre-existing dislike for money which has caused problems ('ujaada ghar'). 'Chhaapu me tere papa se bhi zyada' means 'I print/earn more than your dad', showcasing financial success despite the disdain for money."
+        }
+      ]
     },
     {
       "original": "Ye mare jaaye sheesh (Sheesh), Doom 3 (Doom)",
@@ -76,6 +89,12 @@ export const nalla_freestyle: Song = {
         {
           "text": "Doom 3",
           "type": "reference"
+        },
+        {
+          "text": "Ye mare jaaye sheesh (Sheesh), Doom 3 (Doom)",
+          "keyword": "Sheesh, Doom 3",
+          "type": "Reference",
+          "meaning": "'Sheesh' is a slang term expressing something is crazy or impressive. 'Doom 3' possibly refers to the violent video game, drawing a comparison to the competition's demise."
         }
       ]
     },
@@ -117,7 +136,14 @@ export const nalla_freestyle: Song = {
       "original": "Kabse ghiss raha hu, Inhe pata ni tha rap kya hai tabse likh raha hu",
       "translation": "I've been grinding for so long; I've been writing since before they even knew what rap was.",
       "explanation": "Asserting seniority and veteran status in the Delhi underground scene.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "launde pelne ko ready the aata bahar ab ni lauda wo keedo chup raho",
+          "keyword": "Pelne",
+          "type": "Slang",
+          "meaning": "'Pelne' means to defeat or dominate. They were ready to aggressively deal with anyone coming at them, and those dissing them are in hiding ('keedo chup raho')."
+        }
+      ]
     },
     {
       "original": "Peeche mude poora club jab me club me ghusta hu, Jo kare nafrat mere lund pe baj jao",
@@ -146,7 +172,20 @@ export const nalla_freestyle: Song = {
       "original": "Main aur Sa jaaye lekar ek ak to bata mujhe kaha kaha hain rapper ye part time hi rapper hain",
       "translation": "If Sez and I go out with an AK (metaphor for hits/skills), tell me where these rappers will hide? They're just part-timers.",
       "explanation": "Calling out the lack of dedication in the scene.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ma I made it, Khaate daal bhaat saath me laal maas aur saath aath rapper (Skkrrt)",
+          "keyword": "Laal Maas",
+          "type": "Cultural",
+          "meaning": "Laal Maas is a Rajasthani meat dish, implying they've achieved success ('Ma I made it') but still remain grounded and connected to their roots while bettering the competition"
+        },
+        {
+          "text": "Skkrrt",
+          "keyword": "Skkrrt",
+          "type": "Slang",
+          "meaning": "Onomatopoeia for the sound of tires screeching/drifting, often used to signify movement, speed, and leaving others behind."
+        }
+      ]
     },
     {
       "original": "Pa pa ye rapper the pataal me khelu me, Sattaal me feku agatha ki novel ye khaata ni kisi ka kisi ka kisi ka feel like a G",
@@ -160,6 +199,12 @@ export const nalla_freestyle: Song = {
         {
           "text": "Agatha",
           "type": "reference"
+        },
+        {
+          "text": "Whack ass rapper, Nalle papa k paise pe koode nakaam rapper",
+          "keyword": "Nalle",
+          "type": "Slang",
+          "meaning": "'Nalle' means useless or good-for-nothing. They're calling out other rappers as unsuccessful and reliant on their father's money."
         }
       ]
     },
@@ -173,7 +218,14 @@ export const nalla_freestyle: Song = {
       "original": "Badi baatein vada pav khaate launde feeke (Ohh)",
       "translation": "Big talk but they're just eating Vada Pav; these boys are tasteless/boring.",
       "explanation": "Contrasting big claims with a 'cheap' reality or lack of substance.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "paatal me khelu me, Sattaal me feku agatha ki novel ye khaata ni kisi ka kisi ka kisi ka feel like a G",
+          "keyword": "Pataal",
+          "type": "Metaphor",
+          "meaning": "'Pataal' is the underworld in Hindu mythology. Suggests that they are playing so deep or on a higher level of game that others can't follow and don't need support or any help for it."
+        }
+      ]
     },
     {
       "original": "[Bridge: Encore ABJ]",
@@ -223,6 +275,12 @@ export const nalla_freestyle: Song = {
         {
           "text": "Sasya",
           "type": "slang"
+        },
+        {
+          "text": "Seedhe maut ke bina kya jeewan, SM matter kare sangeen",
+          "keyword": "Sangeen",
+          "type": "Wordplay",
+          "meaning": "'Sangeen' means serious or grave. This is a statement of their importance and impact, implying that life is meaningless without Seedhe Maut."
         }
       ]
     },
@@ -230,7 +288,14 @@ export const nalla_freestyle: Song = {
       "original": "Jana tujhe door par tu thaak gaya, Darr gaya, Ghar ja, Jaa ni paya ghar kyuki, Bhool gaya ghar kya",
       "translation": "You wanted to go far but you got tired, got scared, go home. But you couldn't go home because you forgot what home is.",
       "explanation": "An attack on rappers who lose their identity or 'roots' while trying to chase fame.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Poora rap game taken liam neeson (Chee bhai cringe)",
+          "keyword": "Liam Neeson",
+          "type": "Reference",
+          "meaning": "Referencing Liam Neeson in 'Taken', implying they have complete control and dominance over the rap game."
+        }
+      ]
     },
     {
       "original": "Hatero ne sali moond li akal kya, Kare scene seedhe maut ki nakal",
@@ -246,6 +311,12 @@ export const nalla_freestyle: Song = {
         {
           "text": "Hafta",
           "type": "slang"
+        },
+        {
+          "text": "Rap game hai tekken jin kazama (What the fuck)",
+          "keyword": "Tekken, Jin Kazama",
+          "type": "Reference",
+          "meaning": "Referring to the fighting game 'Tekken' and character Jin Kazama, suggesting their rap game is a fierce and powerful battle."
         }
       ]
     },
@@ -253,7 +324,14 @@ export const nalla_freestyle: Song = {
       "original": "Tu girwi rakhe apna pen, Dekh agar hota mai zada kameena (Na, na) to keheta tujhe girvi rakh apni mem",
       "translation": "You're mortgaging your pen (skills). Look, if I were more of a jerk, I'd tell you to mortgage your girl.",
       "explanation": "A ruthless line about the 'debt' or lack of talent other rappers have.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Kabhi kabhi bakchodi me beaton ki hoti hatya, Sasya! Buss kya?!",
+          "keyword": "Bakchodi",
+          "type": "Slang",
+          "meaning": "Bakchodi means nonsense, suggesting that sometimes they carelessly destroy beats with their lyrics."
+        }
+      ]
     },
     {
       "original": "Jaane de gande iraado khayalo se reheta door sher rehene ki koshish hai kar raha saaf dil par uska ganda hain den",
@@ -275,7 +353,7 @@ export const nalla_freestyle: Song = {
     },
     {
       "original": "Flow, bars, ya fir live shows, take your pick. Tera saare boxes pe karte chalte tick",
-      "translation": "Flow, bars, or live shows\u2014take your pick. We check every single box.",
+      "translation": "Flow, bars, or live shows—take your pick. We check every single box.",
       "explanation": "Claiming they are the most well-rounded duo in the game.",
       "annotations": []
     },
@@ -287,7 +365,7 @@ export const nalla_freestyle: Song = {
     },
     {
       "original": "Main aur SA leke chale AK, Dekhe, sapere, sapole, savere, andhere, Bhatere, bhayanak",
-      "translation": "Me and Sez walking with an AK. Seen snake charmers, baby snakes, mornings, darkness\u2014plenty and terrifying.",
+      "translation": "Me and Sez walking with an AK. Seen snake charmers, baby snakes, mornings, darkness—plenty and terrifying.",
       "explanation": "Alliteration with 'S' sounds. 'Sapole' refers to 'snakes' or backstabbers in the industry.",
       "annotations": [
         {
@@ -300,10 +378,17 @@ export const nalla_freestyle: Song = {
       "original": "To aa mat, khuja matt yaha jaha hum khaate hai lode waha paka mat",
       "translation": "So don't come here, don't irritate me; don't annoy us where we're 'eating' (working/chilling).",
       "explanation": "Warning others to stay out of their space.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Girvi rakhe apna pen, Dekh agar hota mai zada kameena (Na, na) to keheta tujhe girvi rakh apni mem",
+          "keyword": "Kameena, Mem",
+          "type": "Slang",
+          "meaning": "'Kameena' is a rascal or nasty person. 'Mem' is a term for woman. Offering a pen to pawn, and joking about being nasty suggesting taking opponent's woman if they were even more ruthless."
+        }
+      ]
     },
     {
-      "original": "Gar calm bole \u201cle aa\u201d to mai lauu kayamat, Gar calm bole \u201ckha ja\u201d to ni koi salamat",
+      "original": "Gar calm bole “le aa” to mai lauu kayamat, Gar calm bole “kha ja” to ni koi salamat",
       "translation": "If Calm says 'bring it', I'll bring the apocalypse. If Calm says 'eat them', no one is safe.",
       "explanation": "Highlighting the brotherly bond and 'hitman' dynamic between the two.",
       "annotations": []
@@ -327,5 +412,7 @@ export const nalla_freestyle: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Aggressive",
+  "summary": "Seedhe Maut delivers a hard-hitting freestyle filled with boasts about their lyrical prowess, success, and dominance in the Desi Hip Hop scene, dismissing their competition as weak and irrelevant. They establish their authority and threaten anyone who challenges them."
 };

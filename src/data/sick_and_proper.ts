@@ -15,13 +15,13 @@ export const sick_and_proper: Song = {
       "annotations": []
     },
     {
-      "original": "\u0917\u0940\u0924\u093e \u092a\u0947 \u0939\u0948 \u0939\u093e\u0925 your honour, aan",
+      "original": "गीता पे है हाथ your honour, aan",
       "speaker": "Encore ABJ",
       "translation": "Hand on the Gita, Your Honor.",
       "explanation": "A reference to the practice of taking an oath in Indian courts; he's claiming that everything he says is the absolute truth.",
       "annotations": [
         {
-          "keyword": "\u0917\u0940\u0924\u093e",
+          "keyword": "गीता",
           "type": "Religious Text/Cultural Reference"
         }
       ]
@@ -35,11 +35,17 @@ export const sick_and_proper: Song = {
         {
           "keyword": "Spit game",
           "type": "Hip-hop Slang"
+        },
+        {
+          "text": "Spit game sick and proper, aan",
+          "keyword": "Sick and Proper",
+          "type": "Slang",
+          "meaning": "Means to be exceptionally good or impressive in their rapping and overall presentation."
         }
       ]
     },
     {
-      "original": "\u091a\u093e\u0939\u0947 \u092a\u0942\u0930\u093e scene \u0915\u0930\u0942\u0902 callout, \u0939\u093e\u0902",
+      "original": "चाहे पूरा scene करूं callout, हां",
       "speaker": "Encore ABJ",
       "translation": "Whether I call out the entire scene.",
       "explanation": "He is confident enough to challenge or criticize the entire Indian hip-hop community.",
@@ -55,7 +61,7 @@ export const sick_and_proper: Song = {
       ]
     },
     {
-      "original": "\u091a\u093e\u0939\u0947 \u092a\u0942\u0930\u093e \u0926\u093f\u0928 \u0915\u0930\u0942\u0902 ball out, yeah",
+      "original": "चाहे पूरा दिन करूं ball out, yeah",
       "speaker": "Encore ABJ",
       "translation": "Whether I flex and spend all day long.",
       "explanation": "'Ball out' means to live extravagantly or perform at a high level without limits.",
@@ -67,7 +73,7 @@ export const sick_and_proper: Song = {
       ]
     },
     {
-      "original": "Label \u092e\u0941\u091d\u0947 \u0915\u0930\u0947 deal offer, anh",
+      "original": "Label मुझे करे deal offer, anh",
       "speaker": "Encore ABJ",
       "translation": "Labels are offering me deals.",
       "explanation": "Major record labels are pursuing them due to their independent success.",
@@ -79,7 +85,7 @@ export const sick_and_proper: Song = {
       ]
     },
     {
-      "original": "\u0938\u093e\u0932\u094b \u0915\u094b \u0928\u093e \u091a\u093e\u0939\u093f\u090f \u092e\u0947\u0930\u0947 masters, \u0939\u093e\u0902",
+      "original": "सालो को ना चाहिए मेरे masters, हां",
       "speaker": "Encore ABJ",
       "translation": "Those guys don't deserve my masters.",
       "explanation": "'Masters' are the original recordings; Seedhe Maut prides itself on staying independent and owning their music.",
@@ -91,21 +97,21 @@ export const sick_and_proper: Song = {
       ]
     },
     {
-      "original": "\u092a\u0948\u0938\u093e \u0926\u0947\u0930\u093e \u0917\u093e\u0928\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u091c\u093f\u0924\u0928\u0947, \u0909\u0924\u0928\u093e \u0926\u0947\u0930\u093e \u092e\u0947\u0930\u0940 video \u0915\u093e sponsor, yeah",
+      "original": "पैसा देरा गानों के लिए जितने, उतना देरा मेरी video का sponsor, yeah",
       "speaker": "Encore ABJ",
       "translation": "The amount they offer for the songs is what my video sponsor pays.",
       "explanation": "He's flexing that a single brand deal for a video equals what a label would pay for an entire song/album.",
       "annotations": []
     },
     {
-      "original": "\u0907\u0928\u094d\u0939\u0947\u0902 \u092e\u0947\u0930\u093e game plan \u0938\u092e\u091d \u0928\u0939\u0940\u0902, \u0924\u0942 \u0938\u094b\u091a \u092e\u0924 \u0907\u0924\u0928\u0940 \u0924\u0947\u0930\u0940 \u0938\u092e\u091d \u0928\u0939\u0940\u0902",
+      "original": "इन्हें मेरा game plan समझ नहीं, तू सोच मत इतनी तेरी समझ नहीं",
       "speaker": "Encore ABJ",
       "translation": "They don't understand my game plan; don't think too hard, it's beyond your understanding.",
       "explanation": "He claims his strategy for success is too complex for his critics to grasp.",
       "annotations": []
     },
     {
-      "original": "Encore, \u0928\u093e\u092e \u092e\u0947\u0902 \u0939\u0948 double E \u091c\u0948\u0938\u0947 Eminem",
+      "original": "Encore, नाम में है double E जैसे Eminem",
       "speaker": "Encore ABJ",
       "translation": "Encore, there's a double E in the name just like Eminem.",
       "explanation": "A clever comparison using the 'E' in his name and the legendary rapper Eminem.",
@@ -117,61 +123,95 @@ export const sick_and_proper: Song = {
       ]
     },
     {
-      "original": "Game \u092e\u0947\u0902 \u0939\u0948 \u0917\u0902\u0926\u0917\u0940, \u0907\u0938 \u092a\u094b\u091a\u0947 \u092a\u0947 \u0939\u0948 chemical",
+      "original": "Game में है गंदगी, इस पोचे पे है chemical",
       "speaker": "Encore ABJ",
       "translation": "The game is dirty, and this mop has chemicals on it.",
       "explanation": "Metaphor: The rap scene is 'dirty' (low quality), and he is the cleaning agent (chemical) fixing it.",
       "annotations": [
         {
-          "keyword": "\u092a\u094b\u091a\u093e",
+          "keyword": "पोचा",
           "type": "Metaphor"
+        },
+        {
+          "text": "Encore, नाम में है double E जैसे Eminem",
+          "keyword": "Eminem",
+          "type": "Reference",
+          "meaning": "A direct comparison of Encore ABJ's rapping skills to the iconic rapper Eminem, suggesting high level of lyrical and technical skills."
         }
       ]
     },
     {
-      "original": "Hype \u0924\u0947\u0930\u0940 minimal, career \u0938\u0947 \u0924\u0947\u0930\u0947 \u092c\u095c\u0947 \u092e\u0947\u0930\u0947 genital",
+      "original": "Hype तेरी minimal, career से तेरे बड़े मेरे genital",
       "speaker": "Encore ABJ",
       "translation": "Your hype is minimal, my genitals are bigger than your career.",
       "explanation": "A classic aggressive boast insulting the opponent's lack of success.",
       "annotations": []
     },
     {
-      "original": "I've been a lyrical God, \u092c\u093f\u0932\u094d\u0932\u0940 \u0924\u0942 \u0939\u0948, \u092e\u0924 \u092d\u094b\u0902\u0915",
+      "original": "I've been a lyrical God, बिल्ली तू है, मत भोंक",
       "speaker": "Encore ABJ",
       "translation": "I've been a lyrical God; you're just a cat, don't bark.",
       "explanation": "He calls himself a god of lyrics while mocking an opponent for being a 'cat' trying to act like a 'dog' (barking).",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Hype तेरी minimal, career से तेरे बड़े मेरे genital",
+          "keyword": "Genital",
+          "type": "Metaphor",
+          "meaning": "A boastful and crude metaphor comparing their career growth/achievements to the size of their genitals, emphasizing their success."
+        }
+      ]
     },
     {
-      "original": "\u092e\u0947\u0930\u0947 \u0938\u0947 \u092c\u0930\u093e\u092c\u0930\u0940, will put you in a tough spot",
+      "original": "मेरे से बराबरी, will put you in a tough spot",
       "speaker": "Encore ABJ",
       "translation": "Trying to match me will put you in a tough spot.",
       "explanation": "A warning that competing with his skill level is a losing battle.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "I've been a lyrical God, बिल्ली तू है, मत भोंक",
+          "keyword": "Lyrical God",
+          "type": "Metaphor",
+          "meaning": "A claim to supreme skill and mastery in the art of rapping and lyricism."
+        }
+      ]
     },
     {
-      "original": "\u092c\u0902\u0926\u0940 \u092c\u094b\u0932\u0940, \"Cuffs on\"",
+      "original": "बंदी बोली, \"Cuffs on\"",
       "speaker": "Encore ABJ",
       "translation": "The girl said, 'Cuffs on.'",
       "explanation": "A sexual reference to handcuffs/BDSM roleplay.",
       "annotations": []
     },
     {
-      "original": "Future \u0915\u0940 \u0939\u0948 Seedhe Maut safest bet",
+      "original": "Future की है Seedhe Maut safest bet",
       "speaker": "Encore ABJ",
       "translation": "Seedhe Maut is the safest bet for the future.",
       "explanation": "They are the most reliable and successful duo to look out for in the long run.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "बंदी बोली, \"Cuffs on\"",
+          "keyword": "Cuffs on",
+          "type": "Slang",
+          "meaning": "Implies getting arrested or in trouble with the law as a consequence of their actions or lifestyle."
+        }
+      ]
     },
     {
-      "original": "\u0926\u093f\u0932 \u0915\u093e \u092c\u094b\u0932 \u092f\u093e \u092b\u093f\u0930 stay compressed",
+      "original": "दिल का बोल या फिर stay compressed",
       "speaker": "Encore ABJ",
       "translation": "Speak your heart or stay compressed.",
       "explanation": "Be authentic or stay silenced/suppressed.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Future की है Seedhe Maut safest bet",
+          "keyword": "Safest bet",
+          "type": "Slang",
+          "meaning": "Indicates Seedhe Maut's belief in their long-term success and reliability in the music industry."
+        }
+      ]
     },
     {
-      "original": "\u091c\u093e\u0928\u093e \u0939\u0948 \u0924\u094b \u091c\u093e, \u0924\u094b \u092b\u093f\u0930 stay undressed",
+      "original": "जाना है तो जा, तो फिर stay undressed",
       "speaker": "Encore ABJ",
       "translation": "If you want to go, then go; otherwise stay undressed.",
       "explanation": "Reference to a sexual encounter; either leave or stay naked.",
@@ -185,7 +225,7 @@ export const sick_and_proper: Song = {
       "annotations": []
     },
     {
-      "original": "\u0917\u0940\u0924\u093e \u092a\u0947 \u0939\u0948 \u0939\u093e\u0925 your honour (Woo)",
+      "original": "गीता पे है हाथ your honour (Woo)",
       "speaker": "Encore ABJ",
       "translation": "Hand on the Gita, Your Honor.",
       "explanation": "Repetition of the hook for emphasis.",
@@ -199,21 +239,21 @@ export const sick_and_proper: Song = {
       "annotations": []
     },
     {
-      "original": "\u091a\u093e\u0939\u0947 \u092a\u0942\u0930\u093e scene \u0915\u0930\u0942\u0902 callout",
+      "original": "चाहे पूरा scene करूं callout",
       "speaker": "Encore ABJ",
       "translation": "Whether I call out the entire scene.",
       "explanation": "Repetition of the hook.",
       "annotations": []
     },
     {
-      "original": "\u091a\u093e\u0939\u0947 \u092a\u0942\u0930\u093e \u0926\u093f\u0928 \u0915\u0930\u0942\u0902 ball out",
+      "original": "चाहे पूरा दिन करूं ball out",
       "speaker": "Encore ABJ",
       "translation": "Whether I ball out all day.",
       "explanation": "Repetition of the hook.",
       "annotations": []
     },
     {
-      "original": "\u0917\u0940\u0924\u093e \u092a\u0947 \u0939\u0948 \u0939\u093e\u0925 your honour",
+      "original": "गीता पे है हाथ your honour",
       "speaker": "Encore ABJ",
       "translation": "Hand on the Gita, Your Honor.",
       "explanation": "Chorus repetition.",
@@ -227,14 +267,14 @@ export const sick_and_proper: Song = {
       "annotations": []
     },
     {
-      "original": "\u091a\u093e\u0939\u0947 \u092a\u0942\u0930\u093e scene \u0915\u0930\u0942\u0902 callout",
+      "original": "चाहे पूरा scene करूं callout",
       "speaker": "Encore ABJ",
       "translation": "Calling out the entire scene.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u091a\u093e\u0939\u0947 \u092a\u0942\u0930\u093e \u0926\u093f\u0928 \u0915\u0930\u0942\u0902 ball out, yeah",
+      "original": "चाहे पूरा दिन करूं ball out, yeah",
       "speaker": "Encore ABJ",
       "translation": "Balling out all day.",
       "explanation": "Chorus repetition.",
@@ -248,38 +288,38 @@ export const sick_and_proper: Song = {
       "annotations": []
     },
     {
-      "original": "\u0915\u094b\u0908 \u0932\u0947\u0932\u094b \u092e\u0947\u0930\u093e \u0915\u093e\u0930\u094d\u0921 \u091c\u093e\u090a\u0902 all out",
+      "original": "कोई लेलो मेरा कार्ड जाऊं all out",
       "speaker": "Calm",
       "translation": "Someone take my card, I'm going all out.",
       "explanation": "Calm is ready to spend and give his 100% effort.",
       "annotations": []
     },
     {
-      "original": "\u0939\u0948 \u0932\u094c\u0902\u0921\u094b \u0915\u094b skills \u092a\u0947 no doubt",
+      "original": "है लौंडो को skills पे no doubt",
       "speaker": "Calm",
       "translation": "The boys have no doubt about their skills.",
       "explanation": "Extreme confidence in their technical ability.",
       "annotations": [
         {
-          "keyword": "\u0932\u094c\u0902\u0921\u0947",
+          "keyword": "लौंडे",
           "type": "Slang"
         }
       ]
     },
     {
-      "original": "\u091c\u094b \u092e\u0947\u0930\u0947 \u0938\u0947 \u0915\u093f\u0932\u0938\u0947, \u092e\u093e\u0902 \u091a\u0941\u0926\u093e\u0913",
+      "original": "जो मेरे से किलसे, मां चुदाओ",
       "speaker": "Calm",
       "translation": "Whoever is jealous of me, go f*** yourself.",
       "explanation": "A direct and aggressive dismissive insult to haters.",
       "annotations": [
         {
-          "keyword": "\u0915\u093f\u0932\u0938\u0947",
+          "keyword": "किलसे",
           "type": "Slang"
         }
       ]
     },
     {
-      "original": "\u0939\u0948\u0902'\u0917\u0940 \u092c\u094b\u0939\u094b\u0924 \u0916\u0941\u0902\u0926\u0938, \u0909\u095c\u0947 \u092d\u093e\u0908 nimbus",
+      "original": "हैं'गी बोहोत खुंदस, उड़े भाई nimbus",
       "speaker": "Calm",
       "translation": "There's a lot of resentment, but your brother flies on a Nimbus.",
       "explanation": "A reference to Dragon Ball's Nimbus cloud; Calm stays above the hate/resentment of others.",
@@ -287,32 +327,45 @@ export const sick_and_proper: Song = {
         {
           "keyword": "nimbus",
           "type": "Pop Culture Reference"
+        },
+        {
+          "text": "कोई लेलो मेरा कार्ड जाऊं all out",
+          "keyword": "All out",
+          "type": "Slang",
+          "meaning": "They're giving their performance and everything they have completely. A reference to the previous 'ball out' lines."
         }
       ]
     },
     {
-      "original": "\u0924\u0947\u0930\u093e \u092d\u093e\u0908 famous, \u091a\u0932\u0947 \u0938\u0939\u0940 business",
+      "original": "तेरा भाई famous, चले सही business",
       "speaker": "Calm",
       "translation": "Your brother is famous, business is going well.",
       "explanation": "Acknowledging their fame and financial stability.",
       "annotations": []
     },
     {
-      "original": "And I mean business \u091c\u092c",
+      "original": "And I mean business जब",
       "speaker": "Calm",
       "translation": "And I mean business when...",
       "explanation": "Indicating he is serious about his craft and professional affairs.",
       "annotations": []
     },
     {
-      "original": "ABJ \u0928\u0947 \u092d\u0947\u091c\u093e \u0917\u093e\u0928\u093e \u092c\u094b\u0932\u093e \u092e\u0941\u091d\u0947, \"Kill this\"",
+      "original": "ABJ ने भेजा गाना बोला मुझे, \"Kill this\"",
       "speaker": "Calm",
       "translation": "ABJ sent the song and told me, 'Kill this.'",
       "explanation": "Describing the collaborative process; ABJ challenged him to deliver a great verse.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "हैं'गी बोहोत खुंदस, उड़े भाई nimbus",
+          "keyword": "Nimbus",
+          "type": "Metaphor",
+          "meaning": "Implies they are rising above others, achieving a higher status like a nimbus cloud surrounding a holy figure."
+        }
+      ]
     },
     {
-      "original": "Bruce lee \u091c\u0948\u0938\u0947 in \u091c\u093e\u090a\u0902",
+      "original": "Bruce lee जैसे in जाऊं",
       "speaker": "Calm",
       "translation": "Entering like Bruce Lee.",
       "explanation": "Metaphor for entering the track with precision and power.",
@@ -324,52 +377,71 @@ export const sick_and_proper: Song = {
       ]
     },
     {
-      "original": "Homies \u092c\u094b\u0932\u0947 Ninja \u0939\u0942\u0902",
+      "original": "Homies बोले Ninja हूं",
       "speaker": "Calm",
       "translation": "The homies say I'm a Ninja.",
       "explanation": "Reference to his stealthy flow or possibly his Kawasaki Ninja bike.",
       "annotations": []
     },
     {
-      "original": "\u0924\u092d\u0940 \u091c\u093e\u0928\u0942 \u0915\u094d\u092f\u093e \u0939\u0948 \u092e\u0947\u0930\u093e \u0939\u0925\u093f\u092f\u093e\u0930, \u0915\u092e\u093f\u092f\u093e\u0902, \u0924\u092d\u0940 \u092f\u0939\u093e\u0902 \u0939\u0930 \u0926\u093f\u0928 \u0939\u0948",
+      "original": "तभी जानू क्या है मेरा हथियार, कमियां, तभी यहां हर दिन है",
       "speaker": "Calm",
       "translation": "That's when I know my weapon is my flaws; that's why every day here is...",
       "explanation": "Self-awareness: he uses his struggles and imperfections as his greatest strength/weapon.",
       "annotations": []
     },
     {
-      "original": "\u0936\u0928\u093f\u0935\u093e\u0930 \u092c\u095d\u093f\u092f\u093e, \u0915\u0932\u093f\u092f\u093e\u0902, \u091c\u0932\u0947 \u091c\u0948\u0938\u0940 \u0924\u0947\u0930\u0940 \u0917\u093e\u0902\u0921 \u091c\u0932\u0940 \u092f\u0939\u093e\u0902",
+      "original": "शनिवार बढ़िया, कलियां, जले जैसी तेरी गांड जली यहां",
       "speaker": "Calm",
       "translation": "Saturday is great, weed buds, burning just like you're jealous here.",
       "explanation": "Flexing his lifestyle (enjoying the weekend/weed) while mocking his haters' jealousy.",
       "annotations": [
         {
-          "keyword": "\u0915\u0932\u093f\u092f\u093e\u0902",
+          "keyword": "कलियां",
           "type": "Slang"
+        },
+        {
+          "text": "ABJ ने भेजा गाना बोला मुझे, \"Kill this\"",
+          "keyword": "Kill this",
+          "type": "Slang",
+          "meaning": "Meaning to completely succeed and excel at the song."
         }
       ]
     },
     {
-      "original": "\u0924\u0947\u0930\u0947 \u092c\u093e\u092a \u0939\u0948 \u0928\u0940 \u092f\u0939\u093e\u0902, \u0926\u0930\u093f\u092f\u093e money, \u092f\u093e \u0936\u0928\u093f \u0915\u0947 \u092d\u093e\u0930\u0940 \u0939\u094b\u0928\u0947 \u0915\u0940 \u0926\u093f\u0915\u094d\u0915\u0924",
+      "original": "तेरे बाप है नी यहां, दरिया money, या शनि के भारी होने की दिक्कत",
       "speaker": "Calm",
       "translation": "Your father isn't here, a river of money, or the trouble of Saturn being heavy.",
       "explanation": "A mix of flexing (river of money) and dismissing bad luck/astrology (Shani heavy).",
       "annotations": [
         {
-          "keyword": "\u0936\u0928\u093f",
+          "keyword": "शनि",
           "type": "Astrological Reference"
+        },
+        {
+          "text": "Bruce lee जैसे in जाऊं",
+          "keyword": "Bruce Lee",
+          "type": "Reference",
+          "meaning": "A direct comparison to Bruce Lee's prowess, emphasizing their quick and powerful lyrical delivery and skill in the rap game."
         }
       ]
     },
     {
-      "original": "\u0924\u0947\u0930\u093e \u092d\u093e\u0908 greatest ever (Greatest)",
+      "original": "तेरा भाई greatest ever (Greatest)",
       "speaker": "Encore ABJ, Calm & Encore ABJ",
       "translation": "Your brother is the greatest ever.",
       "explanation": "Asserting their position at the top of the rap game.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Homies बोले Ninja हूं",
+          "keyword": "Ninja",
+          "type": "Slang",
+          "meaning": "Indicates their stealth, skill and precision in the music scene."
+        }
+      ]
     },
     {
-      "original": "Top fragger, show stopper (\u0939\u093e\u0902)",
+      "original": "Top fragger, show stopper (हां)",
       "speaker": "Encore ABJ, Calm & Encore ABJ",
       "translation": "Top fragger, show stopper.",
       "explanation": "'Top fragger' is a gaming term (Valorant/CS) for the person with the most kills; they are the best in the 'game'.",
@@ -381,11 +453,18 @@ export const sick_and_proper: Song = {
       ]
     },
     {
-      "original": "Baby \u0939\u0942\u0902 \u092e\u0948\u0902 \u092c\u093f\u0932\u094d\u0915\u0941\u0932 honest (Honest)",
+      "original": "Baby हूं मैं बिल्कुल honest (Honest)",
       "speaker": "Encore ABJ, Calm & Encore ABJ",
       "translation": "Baby, I'm absolutely honest.",
       "explanation": "Claiming lyrical and personal authenticity.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "शनिवार बढ़िया, कलियां, जले जैसी तेरी गांड जली यहां",
+          "keyword": "Saturday",
+          "type": "Cultural",
+          "meaning": "Reference to the weekend, celebrating/partying in a carefree manner."
+        }
+      ]
     },
     {
       "original": "We go locked in, go all out (Leggo)",
@@ -395,26 +474,26 @@ export const sick_and_proper: Song = {
       "annotations": []
     },
     {
-      "original": "\u0924\u0947\u0930\u0947 \u0906\u0917\u0947 \u0916\u095c\u0947 \u0939\u0948 \u0926\u094b \u092f\u094b\u0926\u094d\u0927\u093e \u0939\u0948 (Woo)",
+      "original": "तेरे आगे खड़े है दो योद्धा है (Woo)",
       "speaker": "Encore ABJ, Calm & Encore ABJ",
       "translation": "Two warriors are standing in front of you.",
       "explanation": "Presenting the duo as fierce competitors/fighters in the scene.",
       "annotations": [
         {
-          "keyword": "\u092f\u094b\u0926\u094d\u0927\u093e",
+          "keyword": "योद्धा",
           "type": "Metaphor"
         }
       ]
     },
     {
-      "original": "\u0932\u094b\u0917 \u092c\u094b\u0932\u0947, \"Greatest ever\" (Ever)",
+      "original": "लोग बोले, \"Greatest ever\" (Ever)",
       "speaker": "Encore ABJ, Calm & Encore ABJ",
       "translation": "People say, 'Greatest ever.'",
       "explanation": "Reflecting the feedback they receive from their massive fanbase.",
       "annotations": []
     },
     {
-      "original": "\u091c\u0948\u0938\u0947 prime LA lakers (Lakers)",
+      "original": "जैसे prime LA lakers (Lakers)",
       "speaker": "Encore ABJ, Calm & Encore ABJ",
       "translation": "Like the prime LA Lakers.",
       "explanation": "Comparison to the dominance and success of the legendary basketball team.",
@@ -426,14 +505,14 @@ export const sick_and_proper: Song = {
       ]
     },
     {
-      "original": "Legacy \u0915\u093e sign \u0915\u0930\u0942\u0902 paper, \u0939\u093e\u0902",
+      "original": "Legacy का sign करूं paper, हां",
       "speaker": "Encore ABJ, Calm & Encore ABJ",
       "translation": "Signing papers for the legacy.",
       "explanation": "Doing business that ensures their long-term impact on the culture.",
       "annotations": []
     },
     {
-      "original": "\u0917\u0940\u0924\u093e \u092a\u0947 \u0939\u0948 \u0939\u093e\u0925 your honour",
+      "original": "गीता पे है हाथ your honour",
       "speaker": "Encore ABJ",
       "translation": "Hand on the Gita, Your Honor.",
       "explanation": "Outro repetition of the hook.",
@@ -447,21 +526,28 @@ export const sick_and_proper: Song = {
       "annotations": []
     },
     {
-      "original": "\u091a\u093e\u0939\u0947 \u092a\u0942\u0930\u093e scene \u0915\u0930\u0942\u0902 callout",
+      "original": "चाहे पूरा scene करूं callout",
       "speaker": "Encore ABJ",
       "translation": "Calling out the entire scene.",
       "explanation": "Outro repetition.",
       "annotations": []
     },
     {
-      "original": "\u091a\u093e\u0939\u0947 \u092a\u0942\u0930\u093e \u0926\u093f\u0928 \u0915\u0930\u0942\u0902 ball out",
+      "original": "चाहे पूरा दिन करूं ball out",
       "speaker": "Encore ABJ",
       "translation": "Balling out all day.",
       "explanation": "Outro repetition.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "जैसे prime LA lakers (Lakers)",
+          "keyword": "LA Lakers",
+          "type": "Reference",
+          "meaning": "Comparing themselves to the LA Lakers in their prime, implying dominance and success."
+        }
+      ]
     },
     {
-      "original": "\u0917\u0940\u0924\u093e \u092a\u0947 \u0939\u0948 \u0939\u093e\u0925 your honour",
+      "original": "गीता पे है हाथ your honour",
       "speaker": "Encore ABJ",
       "translation": "Hand on the Gita, Your Honor.",
       "explanation": "Outro repetition.",
@@ -475,14 +561,14 @@ export const sick_and_proper: Song = {
       "annotations": []
     },
     {
-      "original": "\u091a\u093e\u0939\u0947 \u092a\u0942\u0930\u093e scene \u0915\u0930\u0942\u0902 callout",
+      "original": "चाहे पूरा scene करूं callout",
       "speaker": "Encore ABJ",
       "translation": "Calling out the scene.",
       "explanation": "Outro repetition.",
       "annotations": []
     },
     {
-      "original": "\u091a\u093e\u0939\u0947 \u092a\u0942\u0930\u093e \u0926\u093f\u0928 \u0915\u0930\u0942\u0902 ball out, yeah",
+      "original": "चाहे पूरा दिन करूं ball out, yeah",
       "speaker": "Encore ABJ",
       "translation": "Balling out all day.",
       "explanation": "Final repetition to close the track.",
@@ -494,5 +580,7 @@ export const sick_and_proper: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Aggressive",
+  "summary": "\"Sick & Proper\" is a boastful track where Seedhe Maut asserts their dominance in the Desi Hip Hop scene, rapping about their lyrical prowess, business acumen, and overall superiority. They reject unfavorable label deals and emphasize their independence and self-belief."
 };

@@ -5,7 +5,7 @@ export const _101: Song = {
   "title": "101",
   "slug": "101",
   "album": "Sound of Resistance Vol. 1",
-  "vibe": "Assertive",
+  "vibe": "Aggressive",
   "lyrics": [
     {
       "original": "Kiski galti kiske sar pe",

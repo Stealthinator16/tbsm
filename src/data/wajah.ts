@@ -8,81 +8,81 @@ export const wajah: Song = {
   "releaseDate": "",
   "lyrics": [
     {
-      "original": "\u0915\u0935\u093f\u092f\u094b\u0902 \u0915\u0947 \u0918\u093e\u0935 \u092a\u0941\u0930\u093e\u0928\u0947",
+      "original": "कवियों के घाव पुराने",
       "speaker": "Chorus",
       "translation": "The old wounds of poets",
       "explanation": "Refers to the deep-seated emotional pain and past traumas that artists often use as fuel for their creativity.",
       "annotations": [
         {
-          "keyword": "\u0915\u0935\u093f\u092f\u094b\u0902",
+          "keyword": "कवियों",
           "type": "Noun",
           "meaning": "Poets"
         }
       ]
     },
     {
-      "original": "\u0905\u092c \u0909\u0928 \u0918\u093e\u0935 \u092e\u0947\u0902 \u0918\u0930 \u092c\u0938\u093e\u0915\u0947",
+      "original": "अब उन घाव में घर बसाके",
       "speaker": "Chorus",
       "translation": "Now making a home within those wounds",
       "explanation": "Suggests that the artist has become comfortable with their pain, using it as a foundation for their life and art.",
       "annotations": [
         {
-          "keyword": "\u0918\u0930 \u092c\u0938\u093e\u0915\u0947",
+          "keyword": "घर बसाके",
           "type": "Idiom",
           "meaning": "To settle down/make a home"
         }
       ]
     },
     {
-      "original": "\u092e\u0948\u0902 \u0916\u094b \u0928 \u0926\u0942\u0901 \u0935\u091c\u0939",
+      "original": "मैं खो न दूँ वजह",
       "speaker": "Chorus",
       "translation": "Lest I lose the reason",
       "explanation": "The artist fears losing the 'wajah' (purpose or reason) that keeps them grounded or motivated amidst fame and pain.",
       "annotations": [
         {
-          "keyword": "\u0935\u091c\u0939",
+          "keyword": "वजह",
           "type": "Noun",
           "meaning": "Reason/Purpose"
         }
       ]
     },
     {
-      "original": "\u0935\u091c\u0939",
+      "original": "वजह",
       "speaker": "Chorus",
       "translation": "The reason",
       "explanation": "Repetition for emphasis on finding purpose.",
       "annotations": []
     },
     {
-      "original": "\u0935\u091c\u0939",
+      "original": "वजह",
       "speaker": "Chorus",
       "translation": "The reason",
       "explanation": "Repetition for emphasis on finding purpose.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0948\u0902 \u0916\u094b \u0928 \u0926\u0942\u0901 \u0935\u091c\u0939",
+      "original": "मैं खो न दूँ वजह",
       "speaker": "Chorus",
       "translation": "Lest I lose the reason",
       "explanation": "The core theme of the song: holding onto one's drive.",
       "annotations": []
     },
     {
-      "original": "\u0935\u091c\u0939",
+      "original": "वजह",
       "speaker": "Chorus",
       "translation": "The reason",
       "explanation": "Repetition for emphasis.",
       "annotations": []
     },
     {
-      "original": "\u0935\u091c\u0939",
+      "original": "वजह",
       "speaker": "Chorus",
       "translation": "The reason",
       "explanation": "Repetition for emphasis.",
       "annotations": []
     },
     {
-      "original": "\u0935\u094b \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0924\u0940 \u092e\u0941\u091d\u0915\u094b IQ low",
+      "original": "वो जानना चाहती मुझको IQ low",
       "speaker": "OG Lucifer",
       "translation": "She wants to know me, but her IQ is low",
       "explanation": "Lucifer suggests that the women interested in him often lack the depth or intellect to truly understand his complex life.",
@@ -95,7 +95,7 @@ export const wajah: Song = {
       ]
     },
     {
-      "original": "Past life \u092e\u0947\u0930\u0940 wrong \u0914\u0930 dark life \u091c\u0948\u0938\u0947 Dwarka \u092e\u0947\u0902 \u0915\u093e\u0932\u0947 \u0930\u0916\u0924\u0947 stove",
+      "original": "Past life मेरी wrong और dark life जैसे Dwarka में काले रखते stove",
       "speaker": "OG Lucifer",
       "translation": "My past life was wrong and dark, like the soot-stained stoves in Dwarka",
       "explanation": "A gritty reference to Dwarka (Delhi sub-city). 'Kaale stove' (black stoves) refers to the residue from cooking drugs in trap houses, symbolizing a dark, criminal past.",
@@ -106,27 +106,33 @@ export const wajah: Song = {
           "meaning": "A neighborhood in South West Delhi"
         },
         {
-          "keyword": "\u0915\u093e\u0932\u0947 \u0930\u0916\u0924\u0947 stove",
+          "keyword": "काले रखते stove",
           "type": "Metaphor",
           "meaning": "Trap house cooking/Drug dealing reference"
+        },
+        {
+          "text": "Past life मेरी wrong और dark life जैसे Dwarka में काले रखते stove",
+          "keyword": "Dwarka में काले रखते stove",
+          "type": "Metaphor",
+          "meaning": "Dwarka, likely referring to a less desirable neighborhood, and \"kale rakhte stove\" (black blood on the stove) paints a picture of hardship, struggle, and potentially involvement in illegal or dangerous activities."
         }
       ]
     },
     {
-      "original": "\u0928\u093e \u091a\u093e\u0939\u093f\u090f \u0932\u093e\u0932\u091a\u0940 \u0939\u094b\u090f, \u0928\u093e \u091a\u093e\u0939\u093f\u090f \u092c\u093e\u0938\u0940 \u0930\u094b\u091f",
+      "original": "ना चाहिए लालची होए, ना चाहिए बासी रोट",
       "speaker": "OG Lucifer",
       "translation": "Don't want greedy people, don't want stale bread",
       "explanation": "He rejects opportunistic people and 'basi roti' (stale leftovers), symbolizing he only wants what is fresh, genuine, and earned.",
       "annotations": [
         {
-          "keyword": "\u092c\u093e\u0938\u0940 \u0930\u094b\u091f",
+          "keyword": "बासी रोट",
           "type": "Metaphor",
           "meaning": "Stale leftovers / Poor quality life"
         }
       ]
     },
     {
-      "original": "\u0914\u0930 \u092a\u094d\u092f\u093e\u0930 \u0928\u0939\u0940\u0902 \u092e\u093f\u0932\u093e \u0907\u0938 \u0926\u093f\u0932 \u0915\u094b \u0924\u094b \u0935\u094b \u092e\u093e\u0901\u0917\u0947 note",
+      "original": "और प्यार नहीं मिला इस दिल को तो वो माँगे note",
       "speaker": "OG Lucifer",
       "translation": "And since this heart didn't get love, it asks for money",
       "explanation": "A classic hip-hop trope where emotional neglect is compensated by the pursuit of wealth (currency notes).",
@@ -135,169 +141,188 @@ export const wajah: Song = {
           "keyword": "note",
           "type": "Slang",
           "meaning": "Currency/Money"
+        },
+        {
+          "text": "और प्यार नहीं मिला इस दिल को तो वो माँगे note",
+          "keyword": "माँगे note",
+          "type": "Slang",
+          "meaning": "Asking for 'note' implies the desire for money, suggesting that the artist values financial gain over finding love or emotional connection."
         }
       ]
     },
     {
-      "original": "\u092e\u0947\u0930\u0940 \u0915\u092e\u093f\u092f\u093e\u0901 \u0915\u0939\u0924\u0940 roooooooooooooo",
+      "original": "मेरी कमियाँ कहती roooooooooooooo",
       "speaker": "OG Lucifer",
       "translation": "My flaws keep howling 'rooooo'",
       "explanation": "The artist vocalizes the haunting nature of his insecurities and shortcomings.",
       "annotations": []
     },
     {
-      "original": "\u091c\u0948\u0938\u0947 \u092f\u0947 \u0916\u093e\u0938 \u0939\u0948 hold",
+      "original": "जैसे ये खास है hold",
       "speaker": "OG Lucifer",
       "translation": "Like this is something special, hold it",
       "explanation": "Telling the listener to cherish the moment or the verse as it is rare.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0947\u0930\u0947 \u0938\u093f\u0930 \u092a\u0947 \u0926\u093f\u0915\u094d\u0915\u0924 100 \u0915\u0930\u0924\u093e solve \u0915\u0930\u0924\u093e solve",
+      "original": "मेरे सिर पे दिक्कत 100 करता solve करता solve",
       "speaker": "OG Lucifer",
       "translation": "100 problems on my head, I keep solving them",
       "explanation": "Reflects the constant struggle and the resilient mindset of fixing issues as they arise.",
       "annotations": []
     },
     {
-      "original": "\u0925\u093e\u0932\u0940 \u0915\u0940 \u0915\u0940\u092e\u0924 \u0939\u0948 per plate",
+      "original": "थाली की कीमत है per plate",
       "speaker": "OG Lucifer",
       "translation": "The price of the plate is 'per plate'",
-      "explanation": "Street wisdom\u2014nothing comes for free, and everything has a specific cost in the game.",
+      "explanation": "Street wisdom—nothing comes for free, and everything has a specific cost in the game.",
       "annotations": []
     },
     {
-      "original": "\u0906\u0901\u0916\u094b\u0902 \u0915\u0940 \u0928\u092e\u0940 \u092e\u0947\u0902 \u0932\u092b\u094d\u091c\u093c \u0925\u0947",
+      "original": "आँखों की नमी में लफ्ज़ थे",
       "speaker": "OG Lucifer",
       "translation": "There were words in the moisture of my eyes",
       "explanation": "His tears contain stories and lyrics; his pain is his poetry.",
       "annotations": []
     },
     {
-      "original": "\u0915\u094b\u0908 \u0915\u0930\u0947 \u0924\u093e\u0930\u0940\u092b\u093c \u0924\u094b \u0921\u0930\u0924\u0947",
+      "original": "कोई करे तारीफ़ तो डरते",
       "speaker": "OG Lucifer",
       "translation": "If someone praises me, I get scared",
       "explanation": "A sign of hyper-vigilance or trauma where external validation feels like a trap or a precursor to betrayal.",
       "annotations": []
     },
     {
-      "original": "\u0905\u092b\u093c\u0930\u093e \u0924\u094b \u0909\u0920\u093e\u0924\u0947 \u0918\u0930 \u0938\u0947",
+      "original": "अफ़रा तो उठाते घर से",
       "speaker": "OG Lucifer",
       "translation": "Afra would pick them up from their homes",
       "explanation": "'Afra' likely refers to his crew or local muscle who would kidnap/retaliate against enemies.",
       "annotations": [
         {
-          "keyword": "\u0905\u092b\u093c\u0930\u093e",
+          "keyword": "अफ़रा",
           "type": "Slang",
           "meaning": "Potentially referring to local goons or a specific associate"
         }
       ]
     },
     {
-      "original": "\u0915\u0935\u093f\u092f\u094b\u0902 \u0915\u0947 \u0918\u093e\u0935 \u092a\u0941\u0930\u093e\u0928\u0947",
+      "original": "कवियों के घाव पुराने",
       "speaker": "Chorus",
       "translation": "The old wounds of poets",
       "explanation": "Returning to the central theme of artistic suffering.",
       "annotations": []
     },
     {
-      "original": "\u0905\u092c \u0909\u0928 \u0918\u093e\u0935 \u092e\u0947\u0902 \u0918\u0930 \u092c\u0938\u093e\u0915\u0947",
+      "original": "अब उन घाव में घर बसाके",
       "speaker": "Chorus",
       "translation": "Now making a home within those wounds",
       "explanation": "Living through the pain.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0948\u0902 \u0916\u094b \u0928 \u0926\u0942\u0901 \u0935\u091c\u0939",
+      "original": "मैं खो न दूँ वजह",
       "speaker": "Chorus",
       "translation": "Lest I lose the reason",
       "explanation": "Reiterating the importance of the initial drive.",
       "annotations": []
     },
     {
-      "original": "\u0935\u091c\u0939",
+      "original": "वजह",
       "speaker": "Chorus",
       "translation": "The reason",
       "explanation": "Repetition.",
       "annotations": []
     },
     {
-      "original": "\u0935\u091c\u0939",
+      "original": "वजह",
       "speaker": "Chorus",
       "translation": "The reason",
       "explanation": "Repetition.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0948\u0902 \u0916\u094b \u0928 \u0926\u0942\u0901 \u0935\u091c\u0939",
+      "original": "मैं खो न दूँ वजह",
       "speaker": "Chorus",
       "translation": "Lest I lose the reason",
       "explanation": "Repetition.",
       "annotations": []
     },
     {
-      "original": "\u0935\u091c\u0939",
+      "original": "वजह",
       "speaker": "Chorus",
       "translation": "The reason",
       "explanation": "Repetition.",
       "annotations": []
     },
     {
-      "original": "\u0935\u091c\u0939",
+      "original": "वजह",
       "speaker": "Chorus",
       "translation": "The reason",
       "explanation": "Repetition.",
       "annotations": []
     },
     {
-      "original": "\u0939\u094b\u0928\u0947 \u0926\u0942\u0901 \u0935\u091c\u0939 \u092e\u0948\u0902 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092a\u0940\u091b\u0947 \u0939\u0948 \u0938\u095b\u093e",
+      "original": "होने दूँ वजह मैं क्योंकि पीछे है सज़ा",
       "speaker": "Lil Bhavi",
       "translation": "I won't let it be the reason because punishment follows",
       "explanation": "If he lets his 'reason' (vulnerability/pain) take over, the consequences (punishment) in the streets or life are too high.",
       "annotations": []
     },
     {
-      "original": "\u0939\u0948\u0902 \u0938\u093e\u0930\u0947 \u092c\u0902\u0926\u0947 \u0936\u094d\u0930\u093e\u092a\u093f\u0924 \u091c\u094b \u092d\u0940 \u0930\u0939\u0924\u093e \u092e\u0947\u0930\u0947 \u0938\u093e\u0925",
+      "original": "हैं सारे बंदे श्रापित जो भी रहता मेरे साथ",
       "speaker": "Lil Bhavi",
       "translation": "Everyone who stays with me is cursed",
       "explanation": "Suggests a 'lone wolf' or 'troubled' aura where his associates end up facing hardships because of the life he leads.",
       "annotations": [
         {
-          "keyword": "\u0936\u094d\u0930\u093e\u092a\u093f\u0924",
+          "keyword": "श्रापित",
           "type": "Adjective",
           "meaning": "Cursed"
+        },
+        {
+          "text": "होने दूँ वजह मैं क्योंकि पीछे है सज़ा",
+          "keyword": "सज़ा",
+          "type": "Slang",
+          "meaning": "\"Saza\" means punishment. The line asks, 'What is the reason I am facing this punishment?' expressing feelings of being burdened or paying for past actions."
         }
       ]
     },
     {
-      "original": "\u092e\u0948\u0902 \u091c\u092c \u092d\u0940 \u0939\u093e\u0930\u0924\u093e \u092c\u093e\u0935\u0947 \u092e\u0947\u0930\u093e \u0916\u0941\u0926 \u0939\u0940 \u092c\u095d\u0924\u093e \u091c\u094d\u091e\u093e\u0928",
+      "original": "मैं जब भी हारता बावे मेरा खुद ही बढ़ता ज्ञान",
       "speaker": "Lil Bhavi",
       "translation": "Whenever I lose, brother, my own knowledge increases",
       "explanation": "Losing is seen as a lesson. 'Bawe' is a common Delhi/SM slang for 'brother' or 'dude'.",
       "annotations": [
         {
-          "keyword": "\u092c\u093e\u0935\u0947",
+          "keyword": "बावे",
           "type": "Slang",
           "meaning": "Brother/Dude (Delhi/Seedhe Maut slang)"
         }
       ]
     },
     {
-      "original": "\u092f\u0947 \u091a\u093e\u0915\u0942 \u091c\u0948\u0938\u0947 \u0915\u0932\u092e \u0914\u0930 \u092f\u0947 \u0936\u092c\u094d\u0926 \u0939\u0948\u0902 \u091c\u0948\u0938\u0947 \u092c\u093e\u0902\u0927",
+      "original": "ये चाकू जैसे कलम और ये शब्द हैं जैसे बांध",
       "speaker": "Lil Bhavi",
       "translation": "This pen is like a knife and these words are like a dam",
       "explanation": "His pen (writing) is sharp/lethal, and his words hold immense power or block the opposition.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "मैं जब भी हारता बावे मेरा खुद ही बढ़ता ज्ञान",
+          "keyword": "खुद ही बढ़ता ज्ञान",
+          "type": "Metaphor",
+          "meaning": "This line implies that even when the artist appears to be losing or failing, they are gaining knowledge and experience. This is self-acknowledgment and portrays a growth mindset. 'Khud hi banata gyaan' implies he carves his own wisdom."
+        }
+      ]
     },
     {
-      "original": "\u0915\u094d\u092f\u094b\u0902? \u0915\u094d\u092f\u094b\u0902? \u0915\u094d\u092f\u094b\u0902?",
+      "original": "क्यों? क्यों? क्यों?",
       "speaker": "Lil Bhavi",
       "translation": "Why? Why? Why?",
       "explanation": "Ad-libs questioning the reality of his situation.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0948\u0902 \u0930\u0939\u0924\u093e \u091c\u092c \u092d\u0940 sober \u092e\u0941\u091d\u0938\u0947 \u0939\u094b \u0928\u0939\u0940\u0902 \u0938\u0915\u0924\u093e \u092a\u094d\u092f\u093e\u0930",
+      "original": "मैं रहता जब भी sober मुझसे हो नहीं सकता प्यार",
       "speaker": "Lil Bhavi",
       "translation": "Whenever I am sober, I cannot love",
       "explanation": "Implies that his reality is too harsh to allow for soft emotions like love unless he is under some influence.",
@@ -310,127 +335,134 @@ export const wajah: Song = {
       ]
     },
     {
-      "original": "\u092e\u0948\u0902 \u0939\u0930 \u0926\u093f\u0928 \u0926\u0947\u0916\u0924\u093e \u0928\u095e\u0930\u0924 \u0907\u0938\u0932\u093f\u090f \u0906\u0901\u0916\u0947\u0902 \u0922\u0942\u0901\u0922\u0947 \u0959\u093e\u0930",
+      "original": "मैं हर दिन देखता नफ़रत इसलिए आँखें ढूँढे ख़ार",
       "speaker": "Lil Bhavi",
       "translation": "I see hatred every day, so my eyes look for enmity",
       "explanation": "He is conditioned to expect conflict ('Khaar') because of his environment.",
       "annotations": [
         {
-          "keyword": "\u0959\u093e\u0930",
+          "keyword": "ख़ार",
           "type": "Noun",
           "meaning": "Grudge/Enmity"
         }
       ]
     },
     {
-      "original": "\u0905\u092a\u094d\u0938\u0930\u093e \u0938\u0940 \u0930\u0939\u0924\u0940 \u092a\u0930 \u092e\u0947\u0930\u0940 \u0924\u0947\u091c\u093c\u0940 \u0939\u0948 \u0928\u091f\u0930\u093e\u091c",
+      "original": "अप्सरा सी रहती पर मेरी तेज़ी है नटराज",
       "speaker": "Lil Bhavi",
       "translation": "She looks like a celestial nymph, but my speed is Nataraj",
       "explanation": "Double entendre: Nataraj refers to Lord Shiva's dance of destruction and also the famous Nataraj pencils, implying he writes/moves fast.",
       "annotations": [
         {
-          "keyword": "\u0905\u092a\u094d\u0938\u0930\u093e",
+          "keyword": "अप्सरा",
           "type": "Mythology",
           "meaning": "Celestial nymph"
         },
         {
-          "keyword": "\u0928\u091f\u0930\u093e\u091c",
+          "keyword": "नटराज",
           "type": "Double Entendre",
           "meaning": "God of Dance (Shiva) / Nataraj Pencil (Speed of writing)"
         }
       ]
     },
     {
-      "original": "\u092e\u0948\u0902 \u092e\u0941\u0926\u094d\u0926\u093e \u091c\u092c \u092d\u0940 \u092b\u093e\u095c\u0924\u093e \u0909\u0928\u094d\u0939\u0947\u0902 \u0939\u094b\u0924\u093e \u0928\u093e \u0928\u0939\u0940\u0902 \u0906\u092d\u093e\u0938",
+      "original": "मैं मुद्दा जब भी फाड़ता उन्हें होता ना नहीं आभास",
       "speaker": "Lil Bhavi",
       "translation": "Whenever I tear into a topic, they don't even realize it",
       "explanation": "He addresses issues or 'fards' (shreds) the mic so effortlessly that opponents don't even see it coming.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0930 \u091c\u092c \u092f\u0947 \u091a\u093e\u0915\u0942 \u0918\u0941\u0938\u0924\u093e \u0926\u0947\u0924\u093e \u0935\u094b \u0905\u0939\u0938\u093e\u0938",
+      "original": "पर जब ये चाकू घुसता देता वो अहसास",
       "speaker": "Lil Bhavi",
       "translation": "But when this knife enters, it makes them feel it",
       "explanation": "Continuing the 'pen as a knife' metaphor; the impact of his lyrics is physically felt by those he targets.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "अप्सरा सी रहती पर मेरी तेज़ी है नटराज",
+          "keyword": "नटराज",
+          "type": "Reference",
+          "meaning": "Nataraja is a depiction of the Hindu god Shiva as the cosmic dancer. This could be interpreted as meaning the artist's 'tej' (aura, brilliance) is as powerful and eternal as Shiva's cosmic dance, or that his energy is destructive like Shiva's too."
+        }
+      ]
     },
     {
-      "original": "\u0915\u0935\u093f\u092f\u094b\u0902 \u0915\u0947 \u0918\u093e\u0935 \u092a\u0941\u0930\u093e\u0928\u0947",
+      "original": "कवियों के घाव पुराने",
       "speaker": "Chorus",
       "translation": "The old wounds of poets",
       "explanation": "Chorus reprise.",
       "annotations": []
     },
     {
-      "original": "\u0905\u092c \u0909\u0928 \u0918\u093e\u0935 \u092e\u0947\u0902 \u0918\u0930 \u092c\u0938\u093e\u0915\u0947",
+      "original": "अब उन घाव में घर बसाके",
       "speaker": "Chorus",
       "translation": "Now making a home within those wounds",
       "explanation": "Chorus reprise.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0948\u0902 \u0916\u094b \u0928 \u0926\u0942\u0901 \u0935\u091c\u0939",
+      "original": "मैं खो न दूँ वजह",
       "speaker": "Chorus",
       "translation": "Lest I lose the reason",
       "explanation": "Chorus reprise.",
       "annotations": []
     },
     {
-      "original": "\u0935\u091c\u0939",
+      "original": "वजह",
       "speaker": "Chorus",
       "translation": "The reason",
       "explanation": "Repetition.",
       "annotations": []
     },
     {
-      "original": "\u0935\u091c\u0939",
+      "original": "वजह",
       "speaker": "Chorus",
       "translation": "The reason",
       "explanation": "Repetition.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0948\u0902 \u0916\u094b \u0928 \u0926\u0942\u0901 \u0935\u091c\u0939",
+      "original": "मैं खो न दूँ वजह",
       "speaker": "Chorus",
       "translation": "Lest I lose the reason",
       "explanation": "Chorus reprise.",
       "annotations": []
     },
     {
-      "original": "\u0935\u091c\u0939",
+      "original": "वजह",
       "speaker": "Chorus",
       "translation": "The reason",
       "explanation": "Repetition.",
       "annotations": []
     },
     {
-      "original": "\u0935\u091c\u0939",
+      "original": "वजह",
       "speaker": "Chorus",
       "translation": "The reason",
       "explanation": "Repetition.",
       "annotations": []
     },
     {
-      "original": "\u0916\u091a\u094d\u091a\u0930\u094b\u0902 \u0915\u0947 \u0916\u094d\u0935\u093e\u092c \u092a\u0941\u0930\u093e\u0928\u0947",
+      "original": "खच्चरों के ख्वाब पुराने",
       "speaker": "Lil Bhavi",
       "translation": "The old dreams of donkeys/mules",
       "explanation": "A derogatory reference to mediocre people ('khacchar') who have outdated or unrealistic dreams without the talent to back them up.",
       "annotations": [
         {
-          "keyword": "\u0916\u091a\u094d\u091a\u0930\u094b\u0902",
+          "keyword": "खच्चरों",
           "type": "Slang/Metaphor",
           "meaning": "Mules (used for mediocre/stubborn people)"
         }
       ]
     },
     {
-      "original": "\u092e\u093f\u0932\u0947 \u0915\u0930\u094d\u092e\u094b\u0902 \u0915\u0940 \u0938\u095b\u093e, \u0938\u095b\u093e, \u0938\u095b\u093e",
+      "original": "मिले कर्मों की सज़ा, सज़ा, सज़ा",
       "speaker": "Lil Bhavi",
       "translation": "Received the punishment for deeds, punishment, punishment",
       "explanation": "The final word on karma; everyone eventually pays for their actions.",
       "annotations": [
         {
-          "keyword": "\u0915\u0930\u094d\u092e\u094b\u0902",
+          "keyword": "कर्मों",
           "type": "Noun",
           "meaning": "Deeds/Actions"
         }
@@ -442,5 +474,7 @@ export const wajah: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Introspective",
+  "summary": "\"Wajah\" delves into the artists' reflections on their past, struggles, and the reasons behind their current state of mind, touching upon themes of self-awareness and existential questioning."
 };

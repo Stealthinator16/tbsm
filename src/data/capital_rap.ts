@@ -1041,6 +1041,6 @@ export const capital_rap: Song = {
       "Seedhe Maut"
     ]
   },
-  "vibe": "Assertive",
+  "vibe": "Aggressive",
   "summary": "\"Capital Rap\" showcases Seedhe Maut's lyrical prowess and their rise in the Desi Hip Hop scene, contrasting their past struggles with their current success and flaunting their achievements. The song emphasizes their authenticity and dominance while dismissing their detractors."
 };

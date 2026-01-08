@@ -8,148 +8,154 @@ export const swah: Song = {
   "releaseDate": "",
   "lyrics": [
     {
-      "original": "\u0909\u0938\u0947 \u092a\u0930\u0947 \u0915\u0930, \u0935\u094b \u0935\u0947\u0932\u093e \u0939\u0948, \u0935\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे परे कर, वो वेला है, वेला है",
       "speaker": "Seedhe Maut",
       "translation": "Push him aside, he's just idle, he's a nobody.",
       "explanation": "Dismissing an opponent as 'vela' (unemployed/idle), implying they aren't worth the time or attention.",
       "annotations": [
         {
-          "keyword": "\u0935\u0947\u0932\u093e (Vela)",
+          "keyword": "वेला (Vela)",
           "type": "Slang"
         }
       ]
     },
     {
-      "original": "\u0909\u0938\u0947 \u092c\u094b\u0932, \u091a\u0932, \u0935\u094b \u091a\u0947\u0932\u093e \u0939\u0948, \u091a\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे बोल, चल, वो चेला है, चेला है",
       "speaker": "Seedhe Maut",
       "translation": "Tell him to move on, he's just a disciple, a follower.",
       "explanation": "Labeling the competition as a 'chela' (student/servant), asserting Seedhe Maut's position as the masters of the craft.",
       "annotations": [
         {
-          "keyword": "\u091a\u0947\u0932\u093e (Chela)",
+          "keyword": "चेला (Chela)",
           "type": "Noun"
         }
       ]
     },
     {
-      "original": "\u0915\u0930\u0942\u0901 \u0924\u0947\u0930\u0947 \u0918\u0930 \u0905\u0902\u0927\u0947\u0930\u093e-\u0927\u0947\u0930\u093e",
+      "original": "करूँ तेरे घर अंधेरा-धेरा",
       "speaker": "Seedhe Maut",
       "translation": "I'll bring darkness to your house.",
       "explanation": "A metaphor for ending an opponent's career or casting a shadow over their life/success.",
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u0916\u0947 rap game, \u0935\u094b \u092e\u0947\u0930\u093e, \u092e\u0947\u0930\u093e \u0939\u0948",
+      "original": "दिखे rap game, वो मेरा, मेरा है",
       "speaker": "Seedhe Maut",
       "translation": "I see the rap game, and it's mine, all mine.",
       "explanation": "A bold claim of ownership and dominance over the Indian Hip Hop scene.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092a\u0930\u0947 \u0915\u0930, \u0935\u094b \u0935\u0947\u0932\u093e \u0939\u0948, \u0935\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे परे कर, वो वेला है, वेला है",
       "speaker": "Seedhe Maut",
       "translation": "Push him aside, he's just idle, he's a nobody.",
       "explanation": "Repeated for emphasis on the insignificance of the person being addressed.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092c\u094b\u0932, \u091a\u0932, \u0935\u094b \u091a\u0947\u0932\u093e \u0939\u0948, \u091a\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे बोल, चल, वो चेला है, चेला है",
       "speaker": "Seedhe Maut",
       "translation": "Tell him to move on, he's just a disciple, a follower.",
       "explanation": "Reinforcing that the opponent lacks original leadership or skill.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0942\u0901 \u0924\u0947\u0930\u0947 \u0918\u0930 \u0905\u0902\u0927\u0947\u0930\u093e-\u0927\u0947\u0930\u093e",
+      "original": "करूँ तेरे घर अंधेरा-धेरा",
       "speaker": "Seedhe Maut",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Symbolizes total control and the ability to shut down opposition.",
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u0916\u0947 rap game, \u0935\u094b \u092e\u0947\u0930\u093e, \u092e\u0947\u0930\u093e \u0939\u0948",
+      "original": "दिखे rap game, वो मेरा, मेरा है",
       "speaker": "Seedhe Maut",
       "translation": "I see the rap game, and it's mine, all mine.",
       "explanation": "Confidence in their legacy and current market position.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092a\u0930\u0947 \u0915\u0930, \u0935\u094b vela \u0939\u0948, \u0935\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे परे कर, वो vela है, वेला है",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle, he's useless.",
       "explanation": "Chorus hook establishing the theme of dismissing mediocre competition.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092c\u094b\u0932, \u091a\u0932, \u0935\u094b \u091a\u0947\u0932\u093e \u0939\u0948, \u091a\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे बोल, चल, वो चेला है, चेला है",
       "speaker": "Chorus",
       "translation": "Tell him to go, he's just a follower.",
       "explanation": "The 'chela' reference contrasts with SM's 'Guru' status in the underground.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0942\u0901 \u0924\u0947\u0930\u0947 \u0918\u0930 \u0905\u0902\u0927\u0947\u0930\u093e-\u0927\u0947\u0930\u093e",
+      "original": "करूँ तेरे घर अंधेरा-धेरा",
       "speaker": "Chorus",
       "translation": "I'll plunge your house into darkness.",
       "explanation": "A lyrical threat of extinguishing the opponent's 'light' or fame.",
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u0916\u0947 rap game, \u0935\u094b \u092e\u0947\u0930\u093e, \u092e\u0947\u0930\u093e \u0939\u0948",
+      "original": "दिखे rap game, वो मेरा, मेरा है",
       "speaker": "Chorus",
       "translation": "The rap game belongs to me.",
       "explanation": "The central claim of the track's hook.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092a\u0930\u0947 \u0915\u0930, \u0935\u094b \u0935\u0947\u0932\u093e \u0939\u0948, \u0935\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे परे कर, वो वेला है, वेला है",
       "speaker": "Chorus",
       "translation": "Push him aside, he's just idle.",
       "explanation": "Repetition of the hook.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092c\u094b\u0932, \u091a\u0932, \u0935\u094b \u091a\u0947\u0932\u093e \u0939\u0948, \u091a\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे बोल, चल, वो चेला है, चेला है",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Repetition of the hook.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0942\u0901 \u0924\u0947\u0930\u0947 \u0918\u0930 \u0905\u0902\u0927\u0947\u0930\u093e-\u0927\u0947\u0930\u093e",
+      "original": "करूँ तेरे घर अंधेरा-धेरा",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Repetition of the hook.",
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u0916\u0947 rap game, \u0935\u094b \u092e\u0947\u0930\u093e, \u092e\u0947\u0930\u093e \u0939\u0948",
+      "original": "दिखे rap game, वो मेरा, मेरा है",
       "speaker": "Chorus",
       "translation": "The rap game belongs to me.",
       "explanation": "Repetition of the hook.",
       "annotations": []
     },
     {
-      "original": "Rap game \u092e\u0947\u0930\u093e \u0939\u0948, \u092d\u093e\u0917\u094b \u0926\u094b \u0936\u0947\u0930 \u0906\u090f",
+      "original": "Rap game मेरा है, भागो दो शेर आए",
       "speaker": "Calm & Encore ABJ",
-      "translation": "The rap game is mine, run\u2014two lions have arrived.",
+      "translation": "The rap game is mine, run—two lions have arrived.",
       "explanation": "Referring to the duo (Calm and Encore) as lions, a classic symbol of predators and kings in the jungle.",
       "annotations": [
         {
-          "keyword": "\u0926\u094b \u0936\u0947\u0930 (Do Sher)",
+          "keyword": "दो शेर (Do Sher)",
           "type": "Metaphor"
+        },
+        {
+          "text": "Rap game मेरा है, भागो दो शेर आए",
+          "keyword": "Rap game mera hai",
+          "type": "Assertion",
+          "meaning": "\"The rap game is mine\"; a bold claim of ownership and dominance in the scene."
         }
       ]
     },
     {
-      "original": "Lyrical \u092e\u0947\u0932\u093e \u0939\u0948, \u0924\u0947\u0930\u0947 \u092d\u093e\u0908 \u0938\u0947\u0928\u093e \u0939\u0948",
+      "original": "Lyrical मेला है, तेरे भाई सेना है",
       "speaker": "Calm & Encore ABJ",
       "translation": "It's a lyrical fair, your brother is an army.",
       "explanation": "Comparing their dense wordplay to a 'mela' (carnival) and asserting their strength is equal to a whole army.",
       "annotations": []
     },
     {
-      "original": "\u0935\u094b \u0915\u0930\u0947\u0902 \u092f\u0939\u093e\u0901 simp \u092c\u0939\u0941\u0924, \u091c\u093e\u0928\u0947 machine \u0939\u0942\u0901",
+      "original": "वो करें यहाँ simp बहुत, जाने machine हूँ",
       "speaker": "Calm & Encore ABJ",
       "translation": "They simp a lot here, they know I'm a machine.",
       "explanation": "Dismissing those who 'simp' (act submissively or obsessively) while calling himself a relentless rapping machine.",
@@ -161,14 +167,14 @@ export const swah: Song = {
       ]
     },
     {
-      "original": "\u0925\u094b\u095c\u093e \u0938\u093e fiend \u0939\u0942\u0901, \u0925\u094b\u095c\u093e \u0938\u093e \u092c\u0928\u0924\u093e \u0939\u0948",
+      "original": "थोड़ा सा fiend हूँ, थोड़ा सा बनता है",
       "speaker": "Calm & Encore ABJ",
       "translation": "I'm a bit of a fiend, and I'm entitled to be.",
       "explanation": "A 'fiend' usually refers to someone addicted or obsessed (often with work or substances); he says it's earned.",
       "annotations": []
     },
     {
-      "original": "Mens \u0939\u0948 certified, Afro Samurai",
+      "original": "Mens है certified, Afro Samurai",
       "speaker": "Calm & Encore ABJ",
       "translation": "My men are certified, like Afro Samurai.",
       "explanation": "Reference to the anime 'Afro Samurai,' symbolizing a lone, highly skilled, and lethal warrior.",
@@ -180,85 +186,98 @@ export const swah: Song = {
       ]
     },
     {
-      "original": "\u091c\u0940 \u0939\u093e\u0901 \u091c\u0940 \u0939\u093e\u0901, \u0924\u0942 \u092c\u0939\u0941\u0924 \u0939\u0940 \u0917\u0902\u0921\u0935\u093e \u0939\u0948",
+      "original": "जी हाँ जी हाँ, तू बहुत ही गंडवा है",
       "speaker": "Calm & Encore ABJ",
       "translation": "Yes, yes, you are a complete idiot.",
       "explanation": "'Ganduwa' is North Indian slang for an annoying, foolish, or untrustworthy person.",
       "annotations": [
         {
-          "keyword": "\u0917\u0902\u0921\u0935\u093e (Ganduwa)",
+          "keyword": "गंडवा (Ganduwa)",
           "type": "Slang"
+        },
+        {
+          "text": "जी हाँ जी हाँ, तू बहुत ही गंडवा है",
+          "keyword": "Gandu",
+          "type": "Slang",
+          "meaning": "A derogatory term, equivalent to calling someone an idiot or fool."
         }
       ]
     },
     {
-      "original": "\u092b\u0942\u0901\u0915\u0942\u0901 \u092c\u0938 \u091c\u094b\u091f\u0947, \u0927\u0941\u090f\u0901 \u092e\u0947\u0902 \u0915\u092e\u0930\u093e \u0939\u0948",
+      "original": "फूँकूँ बस जोटे, धुएँ में कमरा है",
       "speaker": "Calm & Encore ABJ",
       "translation": "I just smoke joints, the room is filled with smoke.",
       "explanation": "A typical Seedhe Maut reference to their lifestyle and weed culture.",
       "annotations": [
         {
-          "keyword": "\u091c\u094b\u091f\u0947 (Jote)",
+          "keyword": "जोटे (Jote)",
           "type": "Slang"
         }
       ]
     },
     {
-      "original": "\u092e\u0947\u0930\u0947 \u0938\u093e\u0925 blunt \u0939\u0948, \u092e\u0947\u0930\u0947 \u092a\u093e\u0938 Blunt \u0906\u090f",
+      "original": "मेरे साथ blunt है, मेरे पास Blunt आए",
       "speaker": "Calm & Encore ABJ",
       "translation": "I have a blunt with me, and more blunts come my way.",
       "explanation": "Wordplay on 'Blunt' (the weed cigar) and 'Blunt' (being honest/straightforward).",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "मेरे साथ blunt है, मेरे पास Blunt आए",
+          "keyword": "Blunt",
+          "type": "Slang",
+          "meaning": "Refers to a marijuana cigarette; indicates a relaxed or rebellious attitude. Could also imply a certain level of success or comfort."
+        }
+      ]
     },
     {
-      "original": "\u091c\u0940\u0930\u0947 \u092d\u093e\u0908 \u0938\u092a\u0928\u093e \u0939\u0948",
+      "original": "जीरे भाई सपना है",
       "speaker": "Calm & Encore ABJ",
       "translation": "Living the brotherly dream.",
       "explanation": "Expressing that their current life and success together is like a dream come true.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0939\u0932\u0947 \u092c\u093f\u0928 \u092c\u093e\u0924 \u091a\u093f\u092a\u0915\u0928\u093e \u092b\u093f\u0930 \u0939\u092e\u0938\u0947 \u092f\u0939\u093e\u0901 \u0915\u093e\u092f\u0915\u093e \u0915\u093f\u0932\u0938\u0928\u093e",
+      "original": "पहले बिन बात चिपकना फिर हमसे यहाँ कायका किलसना",
       "speaker": "Calm & Encore ABJ",
       "translation": "First you cling to us for no reason, then why do you get jealous here?",
       "explanation": "Criticizing people who try to get close to them for fame and then turn bitter or envious.",
       "annotations": [
         {
-          "keyword": "\u0915\u093f\u0932\u0938\u0928\u093e (Kilasna)",
+          "keyword": "किलसना (Kilasna)",
           "type": "Slang"
         }
       ]
     },
     {
-      "original": "\u0914\u0930 \u0939\u092e \u0939\u0940 \u0915\u094b \u0938\u0930\u0947\u0906\u092e \u0938\u093e\u0901\u092a \u0938\u093e \u0921\u0938\u0928\u093e",
+      "original": "और हम ही को सरेआम साँप सा डसना",
       "speaker": "Calm & Encore ABJ",
       "translation": "And then trying to bite us like a snake in public.",
       "explanation": "Referring to backstabbers who benefit from them and then criticize them publicly.",
       "annotations": []
     },
     {
-      "original": "\u0924\u094b \u092c\u0924\u093e \u092d\u093e\u0908 \u0915\u094d\u092f\u093e \u0939\u0948 \u095e\u093e\u092f\u0926\u093e \u092e\u0926\u0926 \u0915\u093e?",
+      "original": "तो बता भाई क्या है फ़ायदा मदद का?",
       "speaker": "Calm & Encore ABJ",
       "translation": "So tell me brother, what's the point of helping?",
       "explanation": "Questioning the value of altruism when people are ungrateful.",
       "annotations": []
     },
     {
-      "original": "\u0924\u094b \u092c\u0924\u093e \u092b\u093f\u0930 \u0915\u094d\u092f\u093e \u095e\u093e\u092f\u0926\u093e \u0905\u0926\u092c \u0915\u093e",
+      "original": "तो बता फिर क्या फ़ायदा अदब का",
       "speaker": "Calm & Encore ABJ",
       "translation": "Then tell me, what's the use of being respectful?",
       "explanation": "'Adab' means etiquette/respect. He asks why they should be polite if others are toxic.",
       "annotations": []
     },
     {
-      "original": "\u091c\u092c \u0926\u093f\u0932 \u092e\u0947\u0902 \u095b\u0939\u0930 \u092d\u0930\u0915\u0947 \u0924\u0942 \u091a\u0932\u0924\u093e \u0939\u0948 \u0932\u0947\u0915\u0947",
+      "original": "जब दिल में ज़हर भरके तू चलता है लेके",
       "speaker": "Calm & Encore ABJ",
       "translation": "When you walk around with a heart full of poison.",
       "explanation": "Addressing the hidden malice in their competitors/peers.",
       "annotations": []
     },
     {
-      "original": "\u0905\u092d\u0940 \u0926\u0947\u0916\u093e Singapore \u092e\u0947\u0902 R-H-C-P",
+      "original": "अभी देखा Singapore में R-H-C-P",
       "speaker": "Calm & Encore ABJ",
       "translation": "Just saw RHCP in Singapore.",
       "explanation": "Reference to the band Red Hot Chili Peppers. Seedhe Maut attended their concert in Singapore.",
@@ -270,21 +289,21 @@ export const swah: Song = {
       ]
     },
     {
-      "original": "\u0914\u0930 \u0905\u0917\u0932\u0947 \u092e\u0939\u0940\u0928\u0947 \u091c\u093e\u0930\u093e \u0939\u0948 \u0915\u0935\u093f Thailand album \u0916\u0924\u094d\u092e \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f",
+      "original": "और अगले महीने जारा है कवि Thailand album खत्म करने के लिए",
       "speaker": "Calm & Encore ABJ",
       "translation": "And next month the poet is going to Thailand to finish the album.",
       "explanation": "Mentioning their trip to Thailand to record their project (likely 'Lunch Break' or 'KSHMR' collaboration).",
       "annotations": []
     },
     {
-      "original": "\u0905\u0917\u0932\u0947 \u092e\u0939\u0940\u0928\u0947 \u0917\u093e\u0901\u0935 \u092e\u0947\u0902 \u091c\u093e\u0930\u093e \u0939\u0942\u0901 \u0928\u093e\u0928\u0940 \u0938\u0947 \u092e\u0948\u0902 \u092e\u093f\u0932\u0928\u0947",
+      "original": "अगले महीने गाँव में जारा हूँ नानी से मैं मिलने",
       "speaker": "Calm & Encore ABJ",
       "translation": "Next month I'm going to the village to meet my grandmother.",
       "explanation": "A grounded moment showing Encore ABJ's connection to his roots despite international travel.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0928\u0915\u0940 \u0915\u0939\u093e\u0928\u0940 \u0938\u0947 \u092c\u0928\u093e \u092e\u0948\u0902 \u0905\u092d\u093f\u091c\u092f \u0938\u0947 ABJ",
+      "original": "उनकी कहानी से बना मैं अभिजय से ABJ",
       "speaker": "Calm & Encore ABJ",
       "translation": "From her stories, I transformed from Abhijay to ABJ.",
       "explanation": "Encore's real name is Abhijay; he credits his storytelling ability to his grandmother's tales.",
@@ -296,40 +315,40 @@ export const swah: Song = {
       ]
     },
     {
-      "original": "\u0938\u0940\u0916\u0947\u0902",
+      "original": "सीखें",
       "speaker": "Calm & Encore ABJ",
       "translation": "Learn.",
       "explanation": "A command to other rappers to observe and learn how it's done.",
       "annotations": []
     },
     {
-      "original": "\u092f\u0947 \u091a\u0940\u095b \u092c\u094b\u0932\u0942\u0901 \u0926\u093e\u0935\u0947 \u0938\u0947 \u0915\u093f rapper'on \u0928\u0947 SM \u091c\u0948\u0938\u0947 show \u0928\u093e \u0915\u0930\u0947 \u0928\u093e \u0939\u0940 \u0915\u092d\u0940 \u0926\u0947\u0916\u0947",
+      "original": "ये चीज़ बोलूँ दावे से कि rapper'on ने SM जैसे show ना करे ना ही कभी देखे",
       "speaker": "Calm & Encore ABJ",
       "translation": "I say this with certainty that other rappers haven't done or even seen shows like SM's.",
       "explanation": "A flex on their high-energy, mosh-pit-heavy live performances which are legendary in DHH.",
       "annotations": []
     },
     {
-      "original": "\u092c\u091c\u094b",
+      "original": "बजो",
       "speaker": "Calm & Encore ABJ",
       "translation": "Play/Vibe.",
       "explanation": "Slang used to tell the audience to get loud or get involved.",
       "annotations": [
         {
-          "keyword": "\u092c\u091c\u094b (Bajo)",
+          "keyword": "बजो (Bajo)",
           "type": "Slang"
         }
       ]
     },
     {
-      "original": "\u0915\u091f\u094b, \u0905\u092a\u0928\u0947 \u0926\u094b \u092c\u093e\u092a \u0938\u0947 \u0928\u093e \u092d\u093f\u095c\u094b",
+      "original": "कटो, अपने दो बाप से ना भिड़ो",
       "speaker": "Encore ABJ",
       "translation": "Get lost, don't mess with your two fathers.",
       "explanation": "Positioning themselves as the 'fathers' (superiors) of the scene.",
       "annotations": []
     },
     {
-      "original": "\u0915\u091f\u0947 \u0924\u0947\u0930\u093e \u091c\u0948\u0938\u0947 B-roll",
+      "original": "कटे तेरा जैसे B-roll",
       "speaker": "Encore ABJ",
       "translation": "You get cut like B-roll footage.",
       "explanation": "B-roll is secondary footage often edited out or used for filler. He's saying the opponent is expendable.",
@@ -341,61 +360,61 @@ export const swah: Song = {
       ]
     },
     {
-      "original": "\u092a\u095c\u093e \u0939\u0930\u093e \u0906\u0927\u093e \u0915\u093f\u0932\u094b",
+      "original": "पड़ा हरा आधा किलो",
       "speaker": "Encore ABJ",
       "translation": "Half a kilo of 'green' lying here.",
       "explanation": "Reference to having a large quantity of marijuana.",
       "annotations": []
     },
     {
-      "original": "\u0938\u093e\u0930\u093e \u092e\u0947\u0930\u093e \u0939\u0948 \u092e\u0948\u0902",
+      "original": "सारा मेरा है मैं",
       "speaker": "Encore ABJ",
       "translation": "Everything is mine.",
       "explanation": "Reiterating total possession of success and resources.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0948\u0902 \u0908\u0902\u091f\u094b\u0902 \u0938\u0947 \u092c\u091c\u093e\u0926\u0942\u0901 \u0924\u0947\u0930\u093e \u092d\u0947\u091c\u093e",
+      "original": "मैं ईंटों से बजादूँ तेरा भेजा",
       "speaker": "Encore ABJ",
       "translation": "I'll crush your brain with bricks.",
       "explanation": "Aggressive imagery representing a 'hard' lyrical hit.",
       "annotations": []
     },
     {
-      "original": "\u092b\u093f\u0930 \u092a\u0942\u091b\u0942\u0901, \"\u0915\u094d\u092f\u093e \u0906\u092a \u0920\u0940\u0915 \u0939\u094b?\"",
+      "original": "फिर पूछूँ, \"क्या आप ठीक हो?\"",
       "speaker": "Encore ABJ",
       "translation": "Then I'll ask, \"Are you okay?\"",
       "explanation": "Sarcastic politeness after delivering a metaphorical or lyrical blow.",
       "annotations": []
     },
     {
-      "original": "\u0938\u094d\u0935\u093e\u0939\u093e!",
+      "original": "स्वाहा!",
       "speaker": "Calm",
       "translation": "Swah! (Consumed by fire)",
       "explanation": "The title track phrase. 'Swah' is said during a Havan when making an offering to fire. Here it means 'it's over' or 'burnt'.",
       "annotations": [
         {
-          "keyword": "\u0938\u094d\u0935\u093e\u0939\u093e (Swah)",
+          "keyword": "स्वाहा (Swah)",
           "type": "Cultural Reference"
         }
       ]
     },
     {
-      "original": "\u0907\u0928 \u0932\u094c\u0902\u0921\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0926\u0941\u0935\u093f\u0927\u093e",
+      "original": "इन लौंडों के लिए दुविधा",
       "speaker": "Calm",
       "translation": "A dilemma for these boys.",
       "explanation": "Seedhe Maut's existence and skill level create a problem for their competition.",
       "annotations": []
     },
     {
-      "original": "\u0939\u092e \u091c\u0940\u0924\u0947 \u0930\u094b\u095b",
+      "original": "हम जीते रोज़",
       "speaker": "Calm",
       "translation": "We win every day.",
       "explanation": "Constant success.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0947\u0902 \u092d\u093e\u0908 \u092e\u0941\u0901\u0939 \u092e\u0940\u0920\u093e, \u0939\u0948\u0902 \u0938\u093e\u0930\u0947 \u0932\u094b\u0917 terified luffy \u0914\u0930 levi \u0938\u0947 \u092a\u0942\u0930\u0940 \u0924\u0930\u0939 \u0924\u0947\u0930\u093e \u092d\u093e\u0908 \u0915\u0939\u0947",
+      "original": "करें भाई मुँह मीठा, हैं सारे लोग terified luffy और levi से पूरी तरह तेरा भाई कहे",
       "speaker": "Calm",
       "translation": "Bro, celebrate the victory, everyone is terrified; your brother is like Luffy and Levi.",
       "explanation": "References to 'Luffy' (One Piece) and 'Levi' (Attack on Titan), both powerful and feared anime characters.",
@@ -411,167 +430,174 @@ export const swah: Song = {
       ]
     },
     {
-      "original": "\u0938\u094d\u0935\u093e\u0939\u093e",
+      "original": "स्वाहा",
       "speaker": "Encore ABJ",
       "translation": "Swah.",
       "explanation": "The offering is complete; the competition is burnt.",
       "annotations": []
     },
     {
-      "original": "Rap \u0915\u0930\u0942\u0901, nah",
+      "original": "Rap करूँ, nah",
       "speaker": "Encore ABJ",
       "translation": "Do I just rap? No.",
       "explanation": "Implying what they do is more than just music.",
       "annotations": []
     },
     {
-      "original": "Spit fax \u0915\u0930\u0942\u0901, yuh",
+      "original": "Spit fax करूँ, yuh",
       "speaker": "Encore ABJ",
       "translation": "I spit facts, yeah.",
       "explanation": "Emphasizing truth and authenticity over mere rhyming.",
       "annotations": []
     },
     {
-      "original": "\u090f\u0915 verse \u0932\u0917\u093e\u090f \u0906\u0917",
+      "original": "एक verse लगाए आग",
       "speaker": "Encore ABJ",
       "translation": "One verse sets it on fire.",
       "explanation": "The impact of a single verse from them is enough to destroy the game.",
       "annotations": []
     },
     {
-      "original": "\u0914\u0930 \u0939\u0941\u090f \u0938\u092c \u0938\u094d\u0935\u093e\u0939\u093e",
+      "original": "और हुए सब स्वाहा",
       "speaker": "Encore ABJ",
       "translation": "And everyone was consumed by fire.",
       "explanation": "Everything is turned to ash by their bars.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092a\u0930\u0947 \u0915\u0930, \u0935\u094b \u0935\u0947\u0932\u093e \u0939\u0948, \u0935\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे परे कर, वो वेला है, वेला है",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092c\u094b\u0932, \u091a\u0932, \u0935\u094b \u091a\u0947\u0932\u093e \u0939\u0948, \u091a\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे बोल, चल, वो चेला है, चेला है",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0942\u0901 \u0924\u0947\u0930\u0947 \u0918\u0930 \u0905\u0902\u0927\u0947\u0930\u093e-\u0927\u0947\u0930\u093e",
+      "original": "करूँ तेरे घर अंधेरा-धेरा",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u0916\u0947 rap game, \u0935\u094b \u092e\u0947\u0930\u093e, \u092e\u0947\u0930\u093e \u0939\u0948",
+      "original": "दिखे rap game, वो मेरा, मेरा है",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092a\u0930\u0947 \u0915\u0930, \u0935\u094b \u0935\u0947\u0932\u093e \u0939\u0948, \u0935\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे परे कर, वो वेला है, वेला है",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "ये चीज़ बोलूँ दावे से कि rapper'on ने SM जैसे show ना करे ना ही कभी देखे",
+          "keyword": "SM",
+          "type": "Reference",
+          "meaning": "SM stands for Seedhe Maut themselves. They are saying their live shows are unmissable."
+        }
+      ]
     },
     {
-      "original": "\u0909\u0938\u0947 \u092c\u094b\u0932, \u091a\u0932, \u0935\u094b \u091a\u0947\u0932\u093e \u0939\u0948, \u091a\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे बोल, चल, वो चेला है, चेला है",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0942\u0901 \u0924\u0947\u0930\u0947 \u0918\u0930 \u0905\u0902\u0927\u0947\u0930\u093e-\u0927\u0947\u0930\u093e",
+      "original": "करूँ तेरे घर अंधेरा-धेरा",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u0916\u0947 rap game, \u0935\u094b \u092e\u0947\u0930\u093e, \u092e\u0947\u0930\u093e \u0939\u0948",
+      "original": "दिखे rap game, वो मेरा, मेरा है",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0948\u0930 \u0939\u0948 gas \u092a\u0947 \u092f\u0947 panda \u0939\u0948",
-      "speaker": "Calm \u0914\u0930 Encore ABJ",
+      "original": "पैर है gas पे ये panda है",
+      "speaker": "Calm और Encore ABJ",
       "translation": "Foot is on the gas, this is a panda.",
       "explanation": "Full speed ahead; reference to Kung Fu Panda (high energy/unexpected skill).",
       "annotations": []
     },
     {
       "original": "Kung fu",
-      "speaker": "Calm \u0914\u0930 Encore ABJ",
+      "speaker": "Calm और Encore ABJ",
       "translation": "Kung fu.",
       "explanation": "Continuing the martial arts/Panda theme.",
       "annotations": []
     },
     {
-      "original": "\u092c\u094b\u0932\u0947 rapper \u092e\u0948\u0902 Seedhe Maut \u0915\u093e lunch \u0939\u0942\u0901",
-      "speaker": "Calm \u0914\u0930 Encore ABJ",
+      "original": "बोले rapper मैं Seedhe Maut का lunch हूँ",
+      "speaker": "Calm और Encore ABJ",
       "translation": "Rappers say I'm Seedhe Maut's lunch.",
       "explanation": "Other rappers are so easy to beat that they are just a 'meal' for SM.",
       "annotations": []
     },
     {
-      "original": "\u0939\u093e\u0925 \u092e\u0947\u0902 magical pen \u0939\u0948 \u091c\u0948\u0938\u0947 \u0938\u0902\u091c\u0942",
-      "speaker": "Calm \u0914\u0930 Encore ABJ",
+      "original": "हाथ में magical pen है जैसे संजू",
+      "speaker": "Calm और Encore ABJ",
       "translation": "I have a magical pen in my hand like Sanju.",
       "explanation": "Reference to the show 'Shaka Laka Boom Boom' where Sanju's pencil made drawings come to life.",
       "annotations": [
         {
-          "keyword": "\u0938\u0902\u091c\u0942 (Sanju)",
+          "keyword": "संजू (Sanju)",
           "type": "Pop Culture Reference"
         }
       ]
     },
     {
-      "original": "\u092f\u0939\u093e\u0901 \u092a\u0947 \u092a\u0948\u0938\u094b\u0902 \u0915\u0940 \u0915\u092e\u0940 \u0928\u0939\u0940\u0902 \u0939\u0948, come through",
-      "speaker": "Calm \u0914\u0930 Encore ABJ",
+      "original": "यहाँ पे पैसों की कमी नहीं है, come through",
+      "speaker": "Calm और Encore ABJ",
       "translation": "There's no shortage of money here, come through.",
       "explanation": "Boasting about their financial success.",
       "annotations": []
     },
     {
       "original": "I do what I want to",
-      "speaker": "Calm \u0914\u0930 Encore ABJ",
+      "speaker": "Calm और Encore ABJ",
       "translation": "I do what I want to.",
       "explanation": "Total creative and personal freedom.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0941\u091d\u0947 \u092a\u0924\u093e \u0939\u0948 \u0915\u094c\u0928 \u0924\u0942",
-      "speaker": "Calm \u0914\u0930 Encore ABJ",
+      "original": "मुझे पता है कौन तू",
+      "speaker": "Calm और Encore ABJ",
       "translation": "I know who you are.",
       "explanation": "Implies he sees through the opponent's facade.",
       "annotations": []
     },
     {
-      "original": "Pass \u0915\u0930\u0947\u0902\u0917\u0947 \u091c\u093e\u092f\u0947\u0902\u0917\u0947 one-two",
-      "speaker": "Calm \u0914\u0930 Encore ABJ",
+      "original": "Pass करेंगे जायेंगे one-two",
+      "speaker": "Calm और Encore ABJ",
       "translation": "We'll pass and go one-two.",
       "explanation": "Reference to a quick 1-2 passing play in football/sports or just moving fast.",
       "annotations": []
     },
     {
-      "original": "\u092c\u0902\u0926\u0947 \u0907\u0924\u0928\u0947 check",
-      "speaker": "Calm \u0914\u0930 Encore ABJ",
+      "original": "बंदे इतने check",
+      "speaker": "Calm और Encore ABJ",
       "translation": "So many people, check them.",
       "explanation": "Verifying their squad or power.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0947\u0902 carry smell dank \u0915\u0930\u0947\u0902",
-      "speaker": "Calm \u0914\u0930 Encore ABJ",
+      "original": "करें carry smell dank करें",
+      "speaker": "Calm और Encore ABJ",
       "translation": "They carry it, it smells dank.",
       "explanation": "'Dank' refers to high-quality marijuana.",
       "annotations": [
@@ -583,55 +609,55 @@ export const swah: Song = {
     },
     {
       "original": "fanny pack",
-      "speaker": "Calm \u0914\u0930 Encore ABJ",
+      "speaker": "Calm और Encore ABJ",
       "translation": "Fanny pack.",
       "explanation": "Where they carry their gear/stash.",
       "annotations": []
     },
     {
-      "original": "H2SO4 \u092e\u093f\u0932\u093e chance, \u0915\u0930\u093e acid rap",
-      "speaker": "Calm \u0914\u0930 Encore ABJ",
+      "original": "H2SO4 मिला chance, करा acid rap",
+      "speaker": "Calm और Encore ABJ",
       "translation": "Got H2SO4, did acid rap.",
-      "explanation": "Wordplay: H2SO4 is sulfuric acid. They're doing 'acid rap'\u2014corrosive, burning bars.",
+      "explanation": "Wordplay: H2SO4 is sulfuric acid. They're doing 'acid rap'—corrosive, burning bars.",
       "annotations": []
     },
     {
-      "original": "(\u0913\u092f\u0947 \u092f\u0947 \u0926\u0947\u0916, \u092f\u0947 \u0926\u0947\u0916)",
-      "speaker": "Calm \u0914\u0930 Encore ABJ",
+      "original": "(ओये ये देख, ये देख)",
+      "speaker": "Calm और Encore ABJ",
       "translation": "(Hey look at this, look at this)",
       "explanation": "Directing attention to their skills or success.",
       "annotations": []
     },
     {
-      "original": "\u0907\u0928\u094d\u0939\u0947\u0902 \u0916\u0940\u0902\u091a\u0942\u0901 \u0917\u0932\u0947 \u092e\u0947\u0902 mic \u0915\u0940 \u0924\u093e\u0930 \u0932\u092a\u0947\u091f\u0915\u0947, uh",
+      "original": "इन्हें खींचूँ गले में mic की तार लपेटके, uh",
       "speaker": "Calm",
       "translation": "I'll pull them by wrapping the mic cord around their necks.",
       "explanation": "Violent imagery of dominance using their tool of trade (the mic).",
       "annotations": []
     },
     {
-      "original": "I wonder why ya\u2019ll still debating, uh",
+      "original": "I wonder why ya’ll still debating, uh",
       "speaker": "Calm",
       "translation": "I wonder why you're all still debating.",
       "explanation": "Asking why there's still a debate about who the best is.",
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u0916\u093e crown and it's up for the taking, uh",
+      "original": "दिखा crown and it's up for the taking, uh",
       "speaker": "Calm",
       "translation": "Saw the crown and it's up for the taking.",
       "explanation": "The throne of the rap game is available, and they are claiming it.",
       "annotations": []
     },
     {
-      "original": "Seedhe Maut \u092c\u093e\u0915\u0940 fuck all \u0939\u0948\u0902 \u0926\u094b \u0917\u0941\u0928\u093e",
+      "original": "Seedhe Maut बाकी fuck all हैं दो गुना",
       "speaker": "Calm",
       "translation": "Seedhe Maut is here, the rest are twice as useless.",
       "explanation": "Dismissing everyone else as inferior compared to SM.",
       "annotations": []
     },
     {
-      "original": "\u092f\u0947 R-R \u0905\u092a\u0928\u0947 \u092c\u093e\u092a \u0915\u094b \u0924\u0942 \u0938\u0941\u0928\u093e",
+      "original": "ये R-R अपने बाप को तू सुना",
       "speaker": "Encore ABJ",
       "translation": "Go tell your crying stories (RR) to your father.",
       "explanation": "'RR' (Randi Rona) is slang for constant whining/complaining.",
@@ -639,158 +665,171 @@ export const swah: Song = {
         {
           "keyword": "R-R",
           "type": "Slang"
+        },
+        {
+          "text": "स्वाहा",
+          "keyword": "Swaha",
+          "type": "Cultural",
+          "meaning": "A Sanskrit word used as a ritual offering during Hindu ceremonies; often said when something is consumed by fire. Here it could be a symbolic offering of their rivals to the fire of their skill."
         }
       ]
     },
     {
-      "original": "\u092f\u0939\u093e\u0901 \u091a\u093f\u0932\u094d\u0932\u093e\u090f \u092e\u0947\u0930\u0947 \u092a\u0947 \u0928\u093e, \u0935\u0939\u093e\u0901 \u0924\u0947\u0930\u093e \u092e\u0942\u0901\u0939 \u0916\u0941\u0932\u093e",
+      "original": "यहाँ चिल्लाए मेरे पे ना, वहाँ तेरा मूँह खुला",
       "speaker": "Encore ABJ",
       "translation": "Don't scream at me here, your mouth is wide open there.",
       "explanation": "Implying the opponent is shocked or powerless when confronted.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0948\u0902 \u0906\u091c\u093e \u0938\u0939\u0940 \u0915\u0930\u0942\u0901 \u0906\u0915\u0947 \u0924\u0947\u0930\u0940 \u0924\u0942-\u0924\u095c\u093e\u0915",
+      "original": "मैं आजा सही करूँ आके तेरी तू-तड़ाक",
       "speaker": "Encore ABJ",
       "translation": "I'll come and fix your disrespectful tone.",
       "explanation": "'Tu-tadaak' refers to using disrespectful language ('tu' instead of 'aap').",
       "annotations": []
     },
     {
-      "original": "\u092f\u0939\u093e\u0901 \u092e\u0947\u0930\u0947 \u0938\u092a\u0928\u0947 \u0939\u0940 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u092e\u0942\u0901\u0939 \u0938\u0947 \u092c\u093e\u0924",
+      "original": "यहाँ मेरे सपने ही करते हैं मूँह से बात",
       "speaker": "Encore ABJ",
       "translation": "Here, my dreams speak for themselves.",
       "explanation": "His reality is so successful he doesn't need to brag; the results speak.",
       "annotations": []
     },
     {
-      "original": "\u0938\u094d\u0935\u093e\u0939\u093e! \u0918\u0930 \u092e\u0947\u0902 \u0909\u095c\u0947 \u091c\u093e\u090f \u0927\u0941\u0906\u0901",
+      "original": "स्वाहा! घर में उड़े जाए धुआँ",
       "speaker": "Encore ABJ",
       "translation": "Swah! Smoke keeps rising in the house.",
       "explanation": "Smoke from the fire (success/joints) filling their space.",
       "annotations": []
     },
     {
-      "original": "\u092c\u0902\u0926\u0947 \u0938\u094b\u0930\u0947, no \u0916\u094d\u0935\u093e\u092c",
+      "original": "बंदे सोरे, no ख्वाब",
       "speaker": "Encore ABJ",
       "translation": "People are sleeping, no dreams.",
       "explanation": "Criticizing the lack of ambition in others.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "करें भाई मुँह मीठा, हैं सारे लोग terified luffy और levi से पूरी तरह तेरा भाई कहे",
+          "keyword": "Luffy and Levi",
+          "type": "Reference",
+          "meaning": "Refers to characters from popular anime series (One Piece and Attack on Titan respectively). Suggests that their lyrics and delivery are so powerful they terrify people, similar to how powerful Luffy and Levi are in their respective universes."
+        }
+      ]
     },
     {
-      "original": "\u0926\u094b\u0938\u094d\u0924 \u0939\u0948 [?], \u0907\u0928\u0915\u094b \u0926\u093f\u0916\u0947\u0902 \u0928 \u0916\u094d\u0935\u093e\u092c",
+      "original": "दोस्त है [?], इनको दिखें न ख्वाब",
       "speaker": "Encore ABJ",
       "translation": "Friends are... they don't see dreams.",
       "explanation": "Reflecting on people around him who lack vision.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0924\u093e\u0930\u0942\u0901 \u0924\u0947\u0930\u093e \u092d\u0942\u0924 \u0906\u091c",
+      "original": "उतारूँ तेरा भूत आज",
       "speaker": "Encore ABJ",
       "translation": "I'll exorcise your 'ghost' today.",
       "explanation": "'Bhoot utarna' means to knock someone's arrogance out of them.",
       "annotations": []
     },
     {
-      "original": "\u0938\u094d\u0935\u093e\u0939\u093e",
+      "original": "स्वाहा",
       "speaker": "Calm",
       "translation": "Swah.",
       "explanation": "The burning of the opponent's ego.",
       "annotations": []
     },
     {
-      "original": "\u090f\u0915 \u092a\u0932 \u092e\u0947\u0902 \u0915\u091f\u0947 \u091c\u093e\u090f \u091a\u0942\u0939\u093e",
+      "original": "एक पल में कटे जाए चूहा",
       "speaker": "Calm",
       "translation": "In a moment, the rat gets cut.",
       "explanation": "Rats (snitches/weaklings) are dealt with quickly.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0924\u093e \u0928\u0940 \u0915\u092c land \u0939\u0941\u0906",
+      "original": "पता नी कब land हुआ",
       "speaker": "Calm",
       "translation": "Don't know when it landed.",
       "explanation": "Referring to their sudden, high-impact arrival or success.",
       "annotations": []
     },
     {
-      "original": "\u0924\u0947\u0930\u0947 \u092d\u093e\u0908 \u0916\u0947\u0932\u0947 \u091c\u093e\u092f\u0947 \u091c\u0941\u0906",
+      "original": "तेरे भाई खेले जाये जुआ",
       "speaker": "Calm",
       "translation": "Your brother keeps gambling.",
       "explanation": "Taking risks in the industry to win big.",
       "annotations": []
     },
     {
-      "original": "\u0918\u0930 \u092e\u0947\u0902 \u0915\u0930\u0947 \u092e\u093e\u0901 \u0926\u0941\u0906",
+      "original": "घर में करे माँ दुआ",
       "speaker": "Calm",
       "translation": "At home, mother prays.",
       "explanation": "Attributing their success to their mother's blessings.",
       "annotations": []
     },
     {
-      "original": "\u0915\u093f \u0915\u0930\u0947 \u0926\u094b\u0928\u094b\u0902 \u092d\u093e\u0908 \u0938\u092c",
+      "original": "कि करे दोनों भाई सब",
       "speaker": "Calm",
       "translation": "That both brothers achieve everything.",
       "explanation": "Referring to Calm and Encore as brothers in arms.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092a\u0930\u0947 \u0915\u0930, \u0935\u094b \u0935\u0947\u0932\u093e \u0939\u0948, \u0935\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे परे कर, वो वेला है, वेला है",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092c\u094b\u0932, \u091a\u0932, \u0935\u094b \u091a\u0947\u0932\u093e \u0939\u0948, \u091a\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे बोल, चल, वो चेला है, चेला है",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0942\u0901 \u0924\u0947\u0930\u0947 \u0918\u0930 \u0905\u0902\u0927\u0947\u0930\u093e-\u0927\u0947\u0930\u093e",
+      "original": "करूँ तेरे घर अंधेरा-धेरा",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u0916\u0947 rap game, \u0935\u094b \u092e\u0947\u0930\u093e, \u092e\u0947\u0930\u093e \u0939\u0948",
+      "original": "दिखे rap game, वो मेरा, मेरा है",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092a\u0930\u0947 \u0915\u0930, \u0935\u094b \u0935\u0947\u0932\u093e \u0939\u0948, \u0935\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे परे कर, वो वेला है, वेला है",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092c\u094b\u0932, \u091a\u0932, \u0935\u094b \u091a\u0947\u0932\u093e \u0939\u0948, \u091a\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे बोल, चल, वो चेला है, चेला है",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0942\u0901 \u0924\u0947\u0930\u0947 \u0918\u0930 \u0905\u0902\u0927\u0947\u0930\u093e-\u0927\u0947\u0930\u093e",
+      "original": "करूँ तेरे घर अंधेरा-धेरा",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u0916\u0947 rap game, \u0935\u094b \u092e\u0947\u0930\u093e, \u092e\u0947\u0930\u093e \u0939\u0948",
+      "original": "दिखे rap game, वो मेरा, मेरा है",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u090f\u0915 \u0938\u0947 \u092d\u0932\u0947 \u0926\u094b, \u0926\u094b \u0938\u0947 \u092d\u0932\u0947 \u0924\u0940\u0928",
+      "original": "एक से भले दो, दो से भले तीन",
       "speaker": "Badshah",
       "translation": "Two are better than one, three are better than two.",
       "explanation": "Celebrating the collaboration between the duo and Badshah.",
@@ -804,115 +843,129 @@ export const swah: Song = {
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u092f\u093e \u0926\u093f\u0932\u094d\u0932\u0940 \u0915\u094b scene, \u0932\u094c\u0902\u0921\u094b\u0902 \u0915\u094b dream",
+      "original": "दिया दिल्ली को scene, लौंडों को dream",
       "speaker": "Badshah",
       "translation": "Gave Delhi its scene, and the kids their dream.",
       "explanation": "Claiming credit for building the Delhi hip-hop infrastructure and inspiring new artists.",
       "annotations": []
     },
     {
-      "original": "Hater'on \u0915\u094b mem\u0435, spotify \u0915\u094b stream",
+      "original": "Hater'on को memе, spotify को stream",
       "speaker": "Badshah",
       "translation": "Gave haters memes, and Spotify streams.",
       "explanation": "Haters talk (memes), but fans listen (streams). Both help him.",
       "annotations": []
     },
     {
-      "original": "\u0906\u0917 \u0906\u0917 \u0915\u0930 \u0930\u0939\u093e \u0925\u093e \u0924\u093f\u0932\u094d\u0932\u0940 \u0928\u093f\u0915\u0932\u0940",
+      "original": "आग आग कर रहा था तिल्ली निकली",
       "speaker": "Badshah",
       "translation": "He was shouting 'fire fire', but he turned out to be just a matchstick.",
       "explanation": "Diminishing an opponent who talks big but has a small impact.",
       "annotations": [
         {
-          "keyword": "\u0924\u093f\u0932\u094d\u0932\u0940 (Tilli)",
+          "keyword": "तिल्ली (Tilli)",
           "type": "Metaphor"
         }
       ]
     },
     {
-      "original": "\u092d\u094c\u0902\u0915 \u0930\u0939\u093e \u0925\u093e \u092c\u094b\u0939\u094b\u0924 \u0924\u0942 \u0924\u094b \u092c\u093f\u0932\u094d\u0932\u0940 \u0928\u093f\u0915\u0932\u0940",
+      "original": "भौंक रहा था बोहोत तू तो बिल्ली निकली",
       "speaker": "Badshah",
       "translation": "You were barking a lot, but you turned out to be a cat.",
       "explanation": "The 'dog' (barking) turns into a 'cat' (weak/scared) when faced with real power.",
       "annotations": []
     },
     {
-      "original": "\u0932\u094c\u095c\u0947 \u0915\u0940 \u0936\u0915\u094d\u0932 \u0915\u0947 \u0924\u0942 \u091d\u093f\u0932\u094d\u0932\u0940 \u0928\u093f\u0915\u0932\u0940",
+      "original": "लौड़े की शक्ल के तू झिल्ली निकली",
       "speaker": "Badshah",
       "translation": "You look like a d*ck and turned out to be just a thin membrane.",
       "explanation": "Harsh insult implying the opponent is fragile and useless.",
       "annotations": [
         {
-          "keyword": "\u091d\u093f\u0932\u094d\u0932\u0940 (Jhilli)",
+          "keyword": "झिल्ली (Jhilli)",
           "type": "Slang"
         }
       ]
     },
     {
-      "original": "\u0928\u0938 \u092e\u0947\u0930\u0940 \u0915\u093e\u091f\u0940 \u0909\u0938\u092e\u0947\u0902 \u0926\u093f\u0932\u094d\u0932\u0940 \u0928\u093f\u0915\u0932\u0940",
+      "original": "नस मेरी काटी उसमें दिल्ली निकली",
       "speaker": "Badshah",
       "translation": "Cut my vein, and Delhi will come out.",
       "explanation": "Showing his deep-rooted connection and loyalty to Delhi.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "H2SO4 मिला chance, करा acid rap",
+          "keyword": "Acid Rap",
+          "type": "Metaphor",
+          "meaning": "Implies their rap is corrosive and hard-hitting, like acid. H2SO4 (sulfuric acid) strengthens this metaphor."
+        }
+      ]
     },
     {
-      "original": "\u0928\u0939\u0940\u0902 \u0926\u093e\u0930\u0942 \u092a\u0940\u0924\u093e \u0939\u0948",
+      "original": "नहीं दारू पीता है",
       "speaker": "Badshah",
       "translation": "Doesn't drink alcohol.",
       "explanation": "Referring to his sober lifestyle, which is a common flex for him recently.",
       "annotations": []
     },
     {
-      "original": "\u0928\u0939\u0940\u0902 \u092e\u093e\u0932 \u092b\u0942\u0901\u0915\u0924\u093e \u0939\u0948",
+      "original": "नहीं माल फूँकता है",
       "speaker": "Badshah",
       "translation": "Doesn't smoke weed.",
       "explanation": "Contrast to SM's frequent weed references; Badshah stays clean.",
       "annotations": []
     },
     {
-      "original": "Underground \u092f\u093e commercial \u092c\u0938 \u0906\u0917 \u0925\u0942\u0915\u0924\u093e \u0939\u0948",
+      "original": "Underground या commercial बस आग थूकता है",
       "speaker": "Badshah",
       "translation": "Underground or commercial, he just spits fire.",
       "explanation": "Bridging the gap between two worlds of rap; his quality remains high in both.",
       "annotations": []
     },
     {
-      "original": "\u092c\u0947\u091f\u0947 \u0935\u0948\u0938\u0947 \u0924\u094b \u092d\u0908 \u0924\u0947\u0930\u093e \u092e\u0942\u0924\u0924\u093e \u0928\u0939\u0940\u0902",
+      "original": "बेटे वैसे तो भई तेरा मूतता नहीं",
       "speaker": "Badshah",
       "translation": "Son, otherwise your brother doesn't even bother to pee.",
       "explanation": "A crude way of saying he usually doesn't care to engage with small-time rappers.",
       "annotations": []
     },
     {
-      "original": "\u092b\u094d\u0930\u0940 \u092e\u0947\u0902 \u0932\u0947\u0915\u093f\u0928 \u091c\u092c \u092e\u0942\u0924\u0924\u093e \u0939\u0948 \u0924\u094b \u092c\u0938 \u0906\u0917 \u092e\u0942\u0924\u0924\u093e \u0939\u0948",
+      "original": "फ्री में लेकिन जब मूतता है तो बस आग मूतता है",
       "speaker": "Badshah",
       "translation": "But when he does it for free, he just pees fire.",
       "explanation": "Even his 'waste' (free verses/casual bars) is better than others' best work.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Seedhe Maut बाकी fuck all हैं दो गुना",
+          "keyword": "Seedhe Maut baki fuck all",
+          "type": "Assertion",
+          "meaning": "Seedhe Maut is all that matters; everyone else is irrelevant and not worth their time."
+        }
+      ]
     },
     {
-      "original": "Old school \u091c\u0948\u0938\u0947 DVD",
+      "original": "Old school जैसे DVD",
       "speaker": "Badshah",
       "translation": "Old school like a DVD.",
       "explanation": "Refers to his longevity in the game.",
       "annotations": []
     },
     {
-      "original": "\u0906\u091c\u0915\u0932 \u0926\u0947\u0916\u0942\u0901 \u0915\u093e\u095e\u0940 PPT",
+      "original": "आजकल देखूँ काफ़ी PPT",
       "speaker": "Badshah",
       "translation": "Nowadays I see a lot of PPTs.",
       "explanation": "Criticizing new rappers who are all 'presentation' (PPT) and no substance.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0948\u0938\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0905\u092c \u0915\u093e\u092e \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u093e",
+      "original": "पैसों के लिए अब काम नहीं करता",
       "speaker": "Badshah",
       "translation": "I don't work for money anymore.",
       "explanation": "He has reached a level of wealth where he only does what he likes.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0902\u092a\u0928\u0940 \u092e\u0947\u0902 \u0932\u0947\u0924\u093e \u0938\u0940\u0927\u093e equity",
+      "original": "कंपनी में लेता सीधा equity",
       "speaker": "Badshah",
       "translation": "I take direct equity in the company.",
       "explanation": "Business mogul flex: he takes ownership stakes rather than just fees.",
@@ -931,7 +984,7 @@ export const swah: Song = {
       "annotations": []
     },
     {
-      "original": "\u0926\u0938 \u0938\u093e\u0932 \u0938\u0947 \u092d\u0940 \u095b\u094d\u092f\u093e\u0926\u093e still the best in",
+      "original": "दस साल से भी ज़्यादा still the best in",
       "speaker": "Badshah",
       "translation": "More than ten years and still the best in the game.",
       "explanation": "Reflecting on his decade-long dominance in Indian music.",
@@ -945,189 +998,224 @@ export const swah: Song = {
       "annotations": []
     },
     {
-      "original": "\u0928\u093e\u092e Badshah \u091c\u0948\u0938\u0947 it was destined",
+      "original": "नाम Badshah जैसे it was destined",
       "speaker": "Badshah",
       "translation": "Name is Badshah, as if it were destined.",
       "explanation": "Badshah means 'King'. He feels his success was fate.",
       "annotations": []
     },
     {
-      "original": "Calm \u0938\u093e\u0925 \u0905\u092c \u0939\u094b\u0917\u0940 calamity",
+      "original": "Calm साथ अब होगी calamity",
       "speaker": "Badshah",
       "translation": "With Calm by my side, there will be a calamity.",
       "explanation": "Wordplay: Badshah + Calm = a disaster for the competition.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "यहाँ मेरे सपने ही करते हैं मूँह से बात",
+          "keyword": "Sapne",
+          "type": "Metaphor",
+          "meaning": "Here, 'dreams' likely refers to ambitions or goals. They state they make their dreams a reality with their words."
+        }
+      ]
     },
     {
-      "original": "\u0907\u0928\u0915\u094b \u0926\u0947\u0928\u0940 \u092a\u095c\u0947\u0917\u0940 therapy",
+      "original": "इनको देनी पड़ेगी therapy",
       "speaker": "Badshah",
       "translation": "They will need therapy.",
       "explanation": "His bars are so hard they will cause mental trauma to opponents.",
       "annotations": []
     },
     {
-      "original": "\u0924\u0942 psyche \u092c\u093f\u0928\u093e key with us",
+      "original": "तू psyche बिना key with us",
       "speaker": "Badshah",
       "translation": "You're a psyche without a key with us.",
       "explanation": "Wordplay on 'Psyche' and 'Key' (Sy-key). Also implying the opponent is lost.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "स्वाहा! घर में उड़े जाए धुआँ",
+          "keyword": "Swaha! Udhe dhuaan",
+          "type": "Imagery",
+          "meaning": "The word 'Swaha' is used as an offering. 'Udhe dhuaan' (smoke rises) creates an image of something being consumed or burned away."
+        }
+      ]
     },
     {
-      "original": "Between \u0924\u0947\u0930\u0940 \u0936\u0915\u094d\u0932",
+      "original": "Between तेरी शक्ल",
       "speaker": "Badshah",
       "translation": "Between your face.",
       "explanation": "Setup for the next line's joke.",
       "annotations": []
     },
     {
-      "original": "\u091c\u0948\u0938\u0947 nis \u0938\u0947 \u092a\u0939\u0932\u0947 pe",
+      "original": "जैसे nis से पहले pe",
       "speaker": "Badshah",
       "translation": "Like 'pe' before 'nis'.",
       "explanation": "Clever, cheeky wordplay on the word 'Penis' (P-E before N-I-S).",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "दोस्त है [?], इनको दिखें न ख्वाब",
+          "keyword": "Do dikhe na khwab",
+          "type": "Wordplay",
+          "meaning": "A clever play on words - they are saying that two friends (Seedhe Maut) are present but their competitors can't even 'dream' of matching them, implying their skill is unattainable by others in the rap game."
+        }
+      ]
     },
     {
-      "original": "\u0909\u0902\u0917\u0932\u0940 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u094b\u0902 \u0915\u093e \u0939\u093e\u0925 \u0924\u094b\u0921 \u0926\u093f\u092f\u093e",
+      "original": "उंगली करने वालों का हाथ तोड दिया",
       "speaker": "Badshah",
       "translation": "I broke the hands of those who tried to poke me.",
       "explanation": "'Ungli karna' means to provoke or annoy. He retaliated forcefully.",
       "annotations": []
     },
     {
-      "original": "\u0939\u0941\u0906 \u092e\u0924\u094d\u0925\u093e \u0959\u0930\u093e\u092c \u092e\u0948\u0902\u0928\u0947 \u0939\u093e\u0925 \u091b\u094b\u095c \u0926\u093f\u092f\u093e",
+      "original": "हुआ मत्था ख़राब मैंने हाथ छोड़ दिया",
       "speaker": "Badshah",
       "translation": "When I lost my cool, I let my hands go (started a fight).",
       "explanation": "Warning that he can get physical if provoked beyond a point.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0941\u091d\u0947 \u0926\u0947\u0916 \u0915\u0908 rapper'\u094b\u0902 \u0928\u0947 \u0915\u0932\u092e \u0909\u0920\u093e\u0908",
+      "original": "मुझे देख कई rapper'ों ने कलम उठाई",
       "speaker": "Badshah",
       "translation": "Seeing me, many rappers picked up the pen.",
       "explanation": "He inspired many to start rapping.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0941\u091d\u0947 \u0926\u0947\u0916 \u0915\u0908 rapper'\u094b\u0902 \u0928\u0947 \u0915\u093e\u092e \u091b\u094b\u095c \u0926\u093f\u092f\u093e",
+      "original": "मुझे देख कई rapper'ों ने काम छोड़ दिया",
       "speaker": "Badshah",
       "translation": "Seeing me, many rappers quit their jobs.",
       "explanation": "Double meaning: they quit their day jobs to rap, or they quit rapping because they couldn't match him.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092a\u0930\u0947 \u0915\u0930, \u0935\u094b \u0935\u0947\u0932\u093e \u0939\u0948, \u0935\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे परे कर, वो वेला है, वेला है",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092c\u094b\u0932, \u091a\u0932, \u0935\u094b \u091a\u0947\u0932\u093e \u0939\u0948, \u091a\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे बोल, चल, वो चेला है, चेला है",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0942\u0901 \u0924\u0947\u0930\u0947 \u0918\u0930 \u0905\u0902\u0927\u0947\u0930\u093e-\u0927\u0947\u0930\u093e",
+      "original": "करूँ तेरे घर अंधेरा-धेरा",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u0916\u0947 rap game, \u0935\u094b \u092e\u0947\u0930\u093e, \u092e\u0947\u0930\u093e \u0939\u0948",
+      "original": "दिखे rap game, वो मेरा, मेरा है",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092a\u0930\u0947 \u0915\u0930, \u0935\u094b \u0935\u0947\u0932\u093e \u0939\u0948, \u0935\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे परे कर, वो वेला है, वेला है",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092c\u094b\u0932, \u091a\u0932, \u0935\u094b \u091a\u0947\u0932\u093e \u0939\u0948, \u091a\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे बोल, चल, वो चेला है, चेला है",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0942\u0901 \u0924\u0947\u0930\u0947 \u0918\u0930 \u0905\u0902\u0927\u0947\u0930\u093e-\u0927\u0947\u0930\u093e",
+      "original": "करूँ तेरे घर अंधेरा-धेरा",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u0916\u0947 rap game, \u0935\u094b \u092e\u0947\u0930\u093e, \u092e\u0947\u0930\u093e \u0939\u0948",
+      "original": "दिखे rap game, वो मेरा, मेरा है",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092a\u0930\u0947 \u0915\u0930, \u0935\u094b \u0935\u0947\u0932\u093e \u0939\u0948, \u0935\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे परे कर, वो वेला है, वेला है",
+      "speaker": "Chorus",
+      "translation": "Push him aside, he's idle.",
+      "explanation": "Chorus repetition.",
+      "annotations": [
+        {
+          "text": "Badboy Seedhe Maut LV supreme",
+          "keyword": "LV supreme",
+          "type": "Reference",
+          "meaning": "Referring to the luxury brand Louis Vuitton x Supreme, symbolizing success and status. Badboy Seedhe Maut are associating themselves with this high-end lifestyle."
+        }
+      ]
+    },
+    {
+      "original": "उसे बोल, चल, वो चेला है, चेला है",
+      "speaker": "Chorus",
+      "translation": "Tell him to move, he's a follower.",
+      "explanation": "Chorus repetition.",
+      "annotations": []
+    },
+    {
+      "original": "करूँ तेरे घर अंधेरा-धेरा",
+      "speaker": "Chorus",
+      "translation": "I'll bring darkness to your house.",
+      "explanation": "Chorus repetition.",
+      "annotations": [
+        {
+          "text": "Hater'on को memе, spotify को stream",
+          "keyword": "Spotify ko stream",
+          "type": "Modern Reference",
+          "meaning": "Encouraging listeners to stream their music on Spotify rather than focus on the negativity from haters, turning criticism into memes."
+        }
+      ]
+    },
+    {
+      "original": "दिखे rap game, वो मेरा, मेरा है",
+      "speaker": "Chorus",
+      "translation": "The rap game is mine.",
+      "explanation": "Chorus repetition.",
+      "annotations": []
+    },
+    {
+      "original": "उसे परे कर, वो वेला है, वेला है",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092c\u094b\u0932, \u091a\u0932, \u0935\u094b \u091a\u0947\u0932\u093e \u0939\u0948, \u091a\u0947\u0932\u093e \u0939\u0948",
+      "original": "उसे बोल, चल, वो चेला है, चेला है",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0942\u0901 \u0924\u0947\u0930\u0947 \u0918\u0930 \u0905\u0902\u0927\u0947\u0930\u093e-\u0927\u0947\u0930\u093e",
+      "original": "करूँ तेरे घर अंधेरा-धेरा",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0926\u093f\u0916\u0947 rap game, \u0935\u094b \u092e\u0947\u0930\u093e, \u092e\u0947\u0930\u093e \u0939\u0948",
+      "original": "दिखे rap game, वो मेरा, मेरा है",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
       "annotations": []
     },
     {
-      "original": "\u0909\u0938\u0947 \u092a\u0930\u0947 \u0915\u0930, \u0935\u094b \u0935\u0947\u0932\u093e \u0939\u0948, \u0935\u0947\u0932\u093e \u0939\u0948",
-      "speaker": "Chorus",
-      "translation": "Push him aside, he's idle.",
-      "explanation": "Chorus repetition.",
-      "annotations": []
-    },
-    {
-      "original": "\u0909\u0938\u0947 \u092c\u094b\u0932, \u091a\u0932, \u0935\u094b \u091a\u0947\u0932\u093e \u0939\u0948, \u091a\u0947\u0932\u093e \u0939\u0948",
-      "speaker": "Chorus",
-      "translation": "Tell him to move, he's a follower.",
-      "explanation": "Chorus repetition.",
-      "annotations": []
-    },
-    {
-      "original": "\u0915\u0930\u0942\u0901 \u0924\u0947\u0930\u0947 \u0918\u0930 \u0905\u0902\u0927\u0947\u0930\u093e-\u0927\u0947\u0930\u093e",
-      "speaker": "Chorus",
-      "translation": "I'll bring darkness to your house.",
-      "explanation": "Chorus repetition.",
-      "annotations": []
-    },
-    {
-      "original": "\u0926\u093f\u0916\u0947 rap game, \u0935\u094b \u092e\u0947\u0930\u093e, \u092e\u0947\u0930\u093e \u0939\u0948",
-      "speaker": "Chorus",
-      "translation": "The rap game is mine.",
-      "explanation": "Chorus repetition.",
-      "annotations": []
-    },
-    {
-      "original": "\u092a\u0948\u0930 \u0939\u0948 gas \u092a\u0947 \u092f\u0947 panda \u0939\u0948",
+      "original": "पैर है gas पे ये panda है",
       "speaker": "Calm",
       "translation": "Foot is on the gas, this is a panda.",
       "explanation": "Reference to Kung Fu Panda (Po), someone who looks calm but is a master.",
@@ -1138,28 +1226,42 @@ export const swah: Song = {
       "speaker": "Calm",
       "translation": "Kung fu.",
       "explanation": "Martial arts theme continued.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Underground या commercial बस आग थूकता है",
+          "keyword": "Aag thukta hai",
+          "type": "Metaphor",
+          "meaning": "Means spitting fire, implying that Seedhe Maut is always dropping incredible bars whether the music is underground or commercial."
+        }
+      ]
     },
     {
-      "original": "\u092c\u094b\u0932\u0947 rapper \u092e\u0948\u0902 Seedhe Maut \u0915\u093e lunch \u0939\u0942\u0901",
+      "original": "बोले rapper मैं Seedhe Maut का lunch हूँ",
       "speaker": "Calm",
       "translation": "Rappers say I'm Seedhe Maut's lunch.",
       "explanation": "He devours other rappers easily.",
       "annotations": []
     },
     {
-      "original": "\u0939\u093e\u0925 \u092e\u0947\u0902 magical pen \u0939\u0948 \u091c\u0948\u0938\u0947 \u0938\u0902\u091c\u0942",
+      "original": "हाथ में magical pen है जैसे संजू",
       "speaker": "Calm",
       "translation": "I have a magical pen in my hand like Sanju.",
       "explanation": "His writing has 'magical' power, like the Shaka Laka Boom Boom pencil.",
       "annotations": []
     },
     {
-      "original": "\u092f\u0939\u093e\u0901 \u092a\u0947 \u092a\u0948\u0938\u094b\u0902 \u0915\u0940 \u0915\u092e\u0940 \u0928\u0939\u0940\u0902 \u0939\u0948 come through",
+      "original": "यहाँ पे पैसों की कमी नहीं है come through",
       "speaker": "Calm",
       "translation": "No shortage of money here, come through.",
       "explanation": "Invitation to see their success first hand.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Old school जैसे DVD",
+          "keyword": "Old school",
+          "type": "Reference",
+          "meaning": "Reference to the older, golden age style of hip-hop."
+        }
+      ]
     }
   ],
   "credits": {
@@ -1167,5 +1269,7 @@ export const swah: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Aggressive",
+  "summary": "\"Swah!\" is a hard-hitting track where Seedhe Maut asserts their dominance in the Desi Hip Hop scene. They boast about their lyrical skills, work ethic, and disregard for the competition, establishing themselves as forces to be reckoned with."
 };

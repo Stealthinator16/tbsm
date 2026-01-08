@@ -4,7 +4,7 @@ export const nadaan: Song = {
   "id": "nadaan",
   "title": "Nadaan",
   "slug": "nadaan",
-  "album": "\u2018\u0928\u2019 (Mixtape)",
+  "album": "‘न’ (Mixtape)",
   "releaseDate": "",
   "lyrics": [
     {
@@ -61,7 +61,14 @@ export const nadaan: Song = {
       "speaker": "Calm",
       "translation": "Leave it, there are no friends anyway",
       "explanation": "A realization that despite the people around her, she lacks genuine support or companionship.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Chodo to hai ni koi dost",
+          "keyword": "Dost (Friend)",
+          "type": "Cultural",
+          "meaning": "Highlights the theme of loneliness. 'Dost' is Hindi for friend, emphasizing the lack of genuine companionship."
+        }
+      ]
     },
     {
       "original": "Ab tera mann kare tu maare do neat",
@@ -158,7 +165,14 @@ export const nadaan: Song = {
       "speaker": "Encore ABJ",
       "translation": "Otherwise excuses are made",
       "explanation": "People often make excuses to avoid facing the reality of her suffering.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Mujhko basa lo khud me",
+          "keyword": "Basa lo",
+          "type": "Metaphor",
+          "meaning": "Implies the desire to be completely integrated or accepted by someone, filling a void within them."
+        }
+      ]
     },
     {
       "original": "Kahu toh sach to ro du",
@@ -172,14 +186,28 @@ export const nadaan: Song = {
       "speaker": "Encore ABJ",
       "translation": "You don't have a single friend here",
       "explanation": "Reinforcing the theme of isolation in her current environment.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Kahu toh sach to ro du",
+          "keyword": "Sach (Truth)",
+          "type": "Cultural",
+          "meaning": "Expresses the painfulness of truth and the desire to avoid it, hinting at a deep emotional wound. 'Sach' is Hindi for Truth."
+        }
+      ]
     },
     {
       "original": "Hai baate banane me 100 log yaha pe",
       "speaker": "Encore ABJ",
       "translation": "There are 100 people here to gossip/make things up",
       "explanation": "People are quick to talk and judge but slow to actually help.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Hai nai koi tera ek dost yaha pe",
+          "keyword": "Dost (Friend)",
+          "type": "Cultural",
+          "meaning": "Reinforces the theme of isolation, emphasizing the absence of true friendship in the protagonist's life. 'Dost' is Hindi for friend."
+        }
+      ]
     },
     {
       "original": "Har roz ek naya mehmaan",
@@ -247,7 +275,14 @@ export const nadaan: Song = {
       "speaker": "Encore ABJ",
       "translation": "You fell into pieces",
       "explanation": "The emotional and mental shattering caused by the abuse.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Fooke jotey",
+          "keyword": "Fooke Jotey",
+          "type": "Slang",
+          "meaning": "Literally translates to 'burnt shoes', metaphorically meaning someone who has been through a lot or has suffered hardships. This could also allude to someone who has run away from a bad situation."
+        }
+      ]
     },
     {
       "original": "Hai tu kaid",
@@ -367,7 +402,14 @@ export const nadaan: Song = {
       "speaker": "Encore ABJ",
       "translation": "Exhausted and defeated, she sits like a prisoner",
       "explanation": "The mental fatigue has turned her life into a metaphorical jail cell.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Nadaan hai par hai kayar nahi",
+          "keyword": "Nadaan, Kayar",
+          "type": "Cultural",
+          "meaning": "'Nadaan' means innocent or naive, while 'Kayar' means coward. The line suggests that despite being innocent and vulnerable, the person isn't a coward, implying resilience."
+        }
+      ]
     },
     {
       "original": "Androoni baatein paati seh bhi ni",
@@ -478,5 +520,7 @@ export const nadaan: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Introspective",
+  "summary": "\"Nadaan\" portrays the internal struggles and isolation of an innocent (nadaan) individual facing a harsh reality, struggling with loneliness, deceit, and inner turmoil. The song explores themes of vulnerability, seeking solace, and the difficulty of finding genuine connection amidst superficiality."
 };

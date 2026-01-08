@@ -6,7 +6,7 @@ export const chidiya_udd: Song = {
   "slug": "chidiya-udd",
   "album": "Nayaab",
   "releaseDate": "",
-  "vibe": "Introspective",
+  "vibe": "Dark",
   "lyrics": [
     {
       "original": "Sez on the beat boy",
@@ -41,6 +41,12 @@ export const chidiya_udd: Song = {
         {
           "keyword": "Jung",
           "type": "Noun (War)"
+        },
+        {
+          "text": "Ye chahte ho jaaye jung yaha ye chahte gudd",
+          "keyword": "Jung/Gudd",
+          "type": "Metaphor",
+          "meaning": "They want war (jung) but also sweetness (gudd), highlighting the contradictory desires and hypocrisy of those in power."
         }
       ]
     },
@@ -57,6 +63,12 @@ export const chidiya_udd: Song = {
         {
           "keyword": "Gull",
           "type": "Slang (Finished)"
+        },
+        {
+          "text": "Gobar danga dhaye narak hi kardo duniya gull",
+          "keyword": "Gobar danga",
+          "type": "Metaphor",
+          "meaning": "Cow dung (Gobar) implies something worthless and dirty, combined with riot (danga), suggesting the world is being destroyed by worthless conflicts and chaos."
         }
       ]
     },
@@ -81,18 +93,24 @@ export const chidiya_udd: Song = {
         {
           "keyword": "Dupki",
           "type": "Noun (Dip/Plunge)"
+        },
+        {
+          "text": "Li ek do dupki ganga me dhoe paap and",
+          "keyword": "Ganga",
+          "type": "Cultural",
+          "meaning": "Taking a dip in the Ganges river, a ritual meant to wash away sins, but used here sarcastically to highlight the superficiality of religious cleansing."
         }
       ]
     },
     {
-      "original": "Boy I\u2019m...",
+      "original": "Boy I’m...",
       "speaker": "Encore ABJ & Calm",
       "translation": "Boy, I'm...",
       "explanation": "Leading into the hook's conclusion.",
       "annotations": []
     },
     {
-      "original": "Boy I\u2019m good",
+      "original": "Boy I’m good",
       "speaker": "Encore ABJ & Calm",
       "translation": "Boy, I'm good.",
       "explanation": "The speaker feels 'clean' or untouched by their actions after a performative religious act.",
@@ -123,7 +141,7 @@ export const chidiya_udd: Song = {
       ]
     },
     {
-      "original": "Le ek do dupki ganga me dhoe paap and boy I\u2019m good",
+      "original": "Le ek do dupki ganga me dhoe paap and boy I’m good",
       "speaker": "Encore ABJ & Calm",
       "translation": "Take a couple of dips in the Ganges, wash away the sins, and boy I'm good.",
       "explanation": "Repetition of the theme of superficial religious redemption for serious social crimes.",
@@ -138,13 +156,25 @@ export const chidiya_udd: Song = {
         {
           "keyword": "Jeb",
           "type": "Slang (Bribe money)"
+        },
+        {
+          "text": "Thulle, dc yaar hai mera dalega ni jail me (na)",
+          "keyword": "Thulle",
+          "type": "Slang",
+          "meaning": "\"Thulle\" is a slang term for police. The line suggests influence and corruption, preventing imprisonment."
+        },
+        {
+          "text": "dc",
+          "keyword": "DC",
+          "type": "Reference",
+          "meaning": "Referring to a District Collector, a high-ranking government official, implying deep connections to power."
         }
       ]
     },
     {
       "original": "Thulle, dc yaar hai mera dalega ni jail me (na)",
       "speaker": "Calm",
-      "translation": "The cops\u2014well, the DC is my friend, he won't put me in jail.",
+      "translation": "The cops—well, the DC is my friend, he won't put me in jail.",
       "explanation": "'Thulle' is derogatory slang for police. 'DC' refers to the District Collector, showing the speaker's high-level connections.",
       "annotations": [
         {
@@ -162,21 +192,42 @@ export const chidiya_udd: Song = {
       "speaker": "Calm",
       "translation": "Rules can go take a hike (literally: go buy oil).",
       "explanation": "A common Hindi phrase 'tel lene jana' used to express total disregard for something.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Dharam bike sale me (hmm)",
+          "keyword": "Dharam",
+          "type": "Metaphor",
+          "meaning": "Religion (Dharam) is being sold cheaply, implying its devaluation and exploitation."
+        }
+      ]
     },
     {
       "original": "Dharam bike sale me (hmm)",
       "speaker": "Calm",
       "translation": "Religion is being sold on sale.",
       "explanation": "Criticizes how religion is commercialized or used as a tool for political/personal gain.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Economy du gerr mera",
+          "keyword": "Economy du gerr",
+          "type": "Slang",
+          "meaning": "Likely means boosting the economy. 'Gerr' (gear) implies movement and upward trajectory."
+        }
+      ]
     },
     {
       "original": "Economy du gerr mera",
       "speaker": "Calm",
       "translation": "I'll shift the economy's gear.",
       "explanation": "Implies the powerful manipulate the national economy like a vehicle for their own benefit.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Paisa ugge pedd pe (haath ka mail hai ji)",
+          "keyword": "Paisa ugge pedd pe",
+          "type": "Metaphor",
+          "meaning": "Money grows on trees, implying abundance and easy access to wealth for some. The 'haath ka mail hai ji' reinforces that money is easily acquired."
+        }
+      ]
     },
     {
       "original": "Paisa ugge pedd pe (haath ka mail hai ji)",
@@ -199,6 +250,12 @@ export const chidiya_udd: Song = {
         {
           "keyword": "Seth",
           "type": "Noun (Boss/Rich man)"
+        },
+        {
+          "text": "Evm se masti daaru deke karu bate me (haha)",
+          "keyword": "EVM",
+          "type": "Reference",
+          "meaning": "Referring to Electronic Voting Machines. The line implies rigging elections by bribing people with alcohol."
         }
       ]
     },
@@ -206,7 +263,7 @@ export const chidiya_udd: Song = {
       "original": "Evm se masti daaru deke karu bate me (haha)",
       "speaker": "Calm",
       "translation": "Messing with EVMs, distributing alcohol to buy votes.",
-      "explanation": "Points toward electoral malpractice\u2014tampering with Electronic Voting Machines and bribing poor voters with liquor.",
+      "explanation": "Points toward electoral malpractice—tampering with Electronic Voting Machines and bribing poor voters with liquor.",
       "annotations": [
         {
           "keyword": "EVM",
@@ -238,12 +295,19 @@ export const chidiya_udd: Song = {
       "speaker": "Calm",
       "translation": "This power comes from the desk.",
       "explanation": "Refers to bureaucratic or political power (the official's desk).",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ye power aati mej se",
+          "keyword": "Mej",
+          "type": "Metaphor",
+          "meaning": "Power comes from the table (mej), symbolizing the positions of authority and control."
+        }
+      ]
     },
     {
-      "original": "\u201cLado bc\u201d - adlib",
+      "original": "“Lado bc” - adlib",
       "speaker": "Calm",
-      "translation": "\u201cFight, you bastards\u201d",
+      "translation": "“Fight, you bastards”",
       "explanation": "An ad-lib representing the instigator watching the masses fight among themselves.",
       "annotations": [
         {
@@ -264,7 +328,14 @@ export const chidiya_udd: Song = {
       "speaker": "Calm",
       "translation": "Purity has gone for a walk.",
       "explanation": "Meaning integrity and purity are no longer present in the system.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Nakshekadam adolf k",
+          "keyword": "Adolf",
+          "type": "Reference",
+          "meaning": "Following in the footsteps of Adolf Hitler, highlighting the dangerous and destructive nature of the propaganda being spread."
+        }
+      ]
     },
     {
       "original": "Propoganda ki den ye",
@@ -305,7 +376,7 @@ export const chidiya_udd: Song = {
       "annotations": []
     },
     {
-      "original": "Lu ek do dupki ganga me dhoe paap and boy I\u2019m good",
+      "original": "Lu ek do dupki ganga me dhoe paap and boy I’m good",
       "speaker": "Calm",
       "translation": "I'll take a dip or two in the Ganges, wash my sins, and boy I'm good.",
       "explanation": "The persona concludes that no matter the evil, a ritualistic dip makes them 'good' again.",
@@ -347,14 +418,14 @@ export const chidiya_udd: Song = {
       "annotations": []
     },
     {
-      "original": "Boy I\u2019m...",
+      "original": "Boy I’m...",
       "speaker": "Encore ABJ & Calm",
       "translation": "Boy, I'm...",
       "explanation": "Hook repeat.",
       "annotations": []
     },
     {
-      "original": "Boy I\u2019m good",
+      "original": "Boy I’m good",
       "speaker": "Encore ABJ & Calm",
       "translation": "Boy, I'm good.",
       "explanation": "Hook repeat.",
@@ -375,7 +446,7 @@ export const chidiya_udd: Song = {
       "annotations": []
     },
     {
-      "original": "Le ek do dupki ganga me dhoe paap and boy I\u2019m good",
+      "original": "Le ek do dupki ganga me dhoe paap and boy I’m good",
       "speaker": "Encore ABJ & Calm",
       "translation": "Take a couple of dips in the Ganges, wash away the sins, and boy I'm good.",
       "explanation": "Hook repeat.",
@@ -394,6 +465,12 @@ export const chidiya_udd: Song = {
         {
           "keyword": "Kaudi",
           "type": "Slang (Penny/No money)"
+        },
+        {
+          "text": "Thulle ni hai yar vo seedhe denge daal jail me",
+          "keyword": "Thulle",
+          "type": "Slang",
+          "meaning": "\"Thulle\" is a slang term for police. Contradicts the first verse - now the speaker doesn't have connections and will be imprisoned."
         }
       ]
     },
@@ -513,7 +590,14 @@ export const chidiya_udd: Song = {
       "speaker": "Encore ABJ",
       "translation": "In the footsteps of the farmers.",
       "explanation": "Leading into the tragic reality of Indian agriculture.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Nakshekadam kisano ke",
+          "keyword": "Kisano",
+          "type": "Reference",
+          "meaning": "Following the footsteps of the farmers, contrasting this image with the previous reference to Adolf, and referencing farmer suicides. "
+        }
+      ]
     },
     {
       "original": "Lagalu faansi ped pe",
@@ -577,14 +661,14 @@ export const chidiya_udd: Song = {
       "annotations": []
     },
     {
-      "original": "Boy I\u2019m...",
+      "original": "Boy I’m...",
       "speaker": "Encore ABJ & Calm",
       "translation": "Boy, I'm...",
       "explanation": "Final hook repeat.",
       "annotations": []
     },
     {
-      "original": "Boy I\u2019m good",
+      "original": "Boy I’m good",
       "speaker": "Encore ABJ & Calm",
       "translation": "Boy, I'm good.",
       "explanation": "Final hook repeat.",
@@ -605,7 +689,7 @@ export const chidiya_udd: Song = {
       "annotations": []
     },
     {
-      "original": "Le ek do dupki ganga me dhoe paap and boy I\u2019m good",
+      "original": "Le ek do dupki ganga me dhoe paap and boy I’m good",
       "speaker": "Encore ABJ & Calm",
       "translation": "Take a couple of dips in the Ganges, wash away the sins, and boy I'm good.",
       "explanation": "Final hook repeat.",
@@ -617,5 +701,6 @@ export const chidiya_udd: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "summary": "Chidiya Udd critiques societal apathy and corruption, contrasting the superficial cleansing rituals with the deeply ingrained moral decay. The song explores themes of political manipulation, economic disparity, and the normalization of evil."
 };

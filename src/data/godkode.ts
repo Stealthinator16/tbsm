@@ -415,6 +415,6 @@ export const godkode: Song = {
       "Seedhe Maut"
     ]
   },
-  "vibe": "Anguished",
+  "vibe": "Introspective",
   "summary": "\"Godkode\" is a raw and emotional track where Seedhe Maut express their grief and anger over the loss of a friend, seemingly driven to suicide by online harassment and personal struggles. The song explores themes of helplessness, societal apathy, and the dark side of internet culture."
 };

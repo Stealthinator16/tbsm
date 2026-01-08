@@ -26,7 +26,7 @@ Input Lyrics (Sample):
 {lyrics_sample}
 
 Task:
-1. "vibe": Provide a short, 1-2 word descriptor of the song's vibe (e.g., "Aggressive", "Chill", "Storytelling", "Melodic", "Dark", "Hype").
+1. "vibe": Provide a short, 1-2 word descriptor of the song's vibe. Choose from EXACTLY these: ["Aggressive", "Chill", "Introspective", "Storytelling", "Hype", "Dark"].
 2. "brief": A short 1-2 sentence summary of what the song is about.
 3. "annotations": Enrich the lyrics with annotations. Focus on:
     - "text": The exact text from the lyric line to annotate.
@@ -120,8 +120,10 @@ def process_file(file_path):
 
         try:
             enriched_data = json.loads(response_text)
-        except:
-            print(f"Failed to parse AI response for {title}")
+        except Exception as e:
+            print(f"Failed to parse AI response for {title}: {e}")
+            print("Response text was:")
+            print(response_text[:500] + "...") 
             return
         
         # Merge Data
@@ -175,10 +177,30 @@ def process_file(file_path):
         print(f"Error processing {file_path}: {e}")
 
 if __name__ == "__main__":
-    files = glob.glob("src/data/*.ts")
-    files = [f for f in files if "index.ts" not in f and "albums.ts" not in f]
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--only-missing", action="store_true", help="Only process files missing vibe or summary")
+    parser.add_argument("--file", help="Process a specific file")
+    args = parser.parse_args()
+    
+    if args.file:
+        files = [args.file]
+    else:
+        files = glob.glob("src/data/*.ts")
+        files = [f for f in files if "index.ts" not in f and "albums.ts" not in f]
+    
     files.sort()
     
     print(f"Found {len(files)} song files.")
     for f in files:
+        if args.only_missing:
+            with open(f, "r", encoding="utf-8") as file_handle:
+                content = file_handle.read()
+                has_vibe = re.search(r'"vibe":\s*"(.*?)"', content)
+                has_summary = re.search(r'"summary":\s*"(.*?)"', content)
+                has_lyrics = re.search(r'"lyrics":\s*\[(.*?)\]', content, re.DOTALL)
+                
+                # If everything is already there, skip
+                if has_vibe and has_vibe.group(1) and has_summary and has_summary.group(1) and has_lyrics and has_lyrics.group(1).strip():
+                    continue
+        
         process_file(f)

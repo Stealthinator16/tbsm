@@ -37,7 +37,14 @@ export const toh_kya: Song = {
       "speaker": "Calm & Encore ABJ",
       "translation": "So what?",
       "explanation": "The hook's title/mantra; a nonchalant attitude showing SM isn't bothered by the competition.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Toh kya",
+          "keyword": "Toh Kya",
+          "type": "Slang",
+          "meaning": "Means 'So what?' or 'Who cares?' - expressing indifference and defiance."
+        }
+      ]
     },
     {
       "original": "Apan hawa me taire",
@@ -74,6 +81,12 @@ export const toh_kya: Song = {
         {
           "keyword": "Bait",
           "type": "Metaphor"
+        },
+        {
+          "text": "Behti hawa me bahe peeche paise ke aur hote bait",
+          "keyword": "Paise",
+          "type": "Metaphor",
+          "meaning": "They're saying that others follow the money instead of staying true to themselves."
         }
       ]
     },
@@ -82,7 +95,14 @@ export const toh_kya: Song = {
       "speaker": "Calm & Encore ABJ",
       "translation": "Brainwash!",
       "explanation": "Suggests that the industry or society manipulates people into a specific way of thinking.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Brainwash!",
+          "keyword": "Brainwash",
+          "type": "Slang",
+          "meaning": "Indicates being influenced by external pressures or societal norms."
+        }
+      ]
     },
     {
       "original": "Makan kiraye ka maari laat",
@@ -101,7 +121,14 @@ export const toh_kya: Song = {
       "speaker": "Calm & Encore ABJ",
       "translation": "Now a new house and a new gate.",
       "explanation": "Emphasizing their growth and newfound luxury.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Makan kiraye ka maari laat",
+          "keyword": "Makan kiraye ka",
+          "type": "Metaphor",
+          "meaning": "Symbolizes leaving behind their past struggles and rented accomodations to move onto better things."
+        }
+      ]
     },
     {
       "original": "Naya paintjob (Bitch!)",
@@ -122,7 +149,14 @@ export const toh_kya: Song = {
       "speaker": "Calm & Encore ABJ",
       "translation": "Now I'm a heavyweight.",
       "explanation": "They are now big players/heavy hitters in the Indian hip-hop scene.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Uthaya bhaar khudka bane hoshiyar",
+          "keyword": "Uthaya bhaar",
+          "type": "Metaphor",
+          "meaning": "Means they took responsibility for themselves and have become smarter."
+        }
+      ]
     },
     {
       "original": "Dara singh",
@@ -145,6 +179,12 @@ export const toh_kya: Song = {
         {
           "keyword": "Pyaade",
           "type": "Chess Term (Pawn)"
+        },
+        {
+          "text": "Chaal aisi pyaade se maara king",
+          "keyword": "Pyaade se maara king",
+          "type": "Metaphor",
+          "meaning": "Strategic and unexpected move that leads to victory like killing the king with a pawn in chess."
         }
       ]
     },
@@ -192,7 +232,7 @@ export const toh_kya: Song = {
       "annotations": []
     },
     {
-      "original": "Abhi me jaan k\u0435 chidda ra Jo hater hain saalo ke munh pe chamka ra bling (Chal hatt!)",
+      "original": "Abhi me jaan kе chidda ra Jo hater hain saalo ke munh pe chamka ra bling (Chal hatt!)",
       "speaker": "Calm",
       "translation": "Now I'm teasing on purpose; flashing my jewelry in the haters' faces.",
       "explanation": "Flaunting his success and wealth specifically to annoy those who doubted him.",
@@ -204,7 +244,7 @@ export const toh_kya: Song = {
       ]
     },
     {
-      "original": "D\u0435kha sab ok report",
+      "original": "Dеkha sab ok report",
       "speaker": "Calm",
       "translation": "Saw everything, it's 'OK report' (all good).",
       "explanation": "Delhi slang for something being perfect or verified.",
@@ -220,7 +260,14 @@ export const toh_kya: Song = {
       "speaker": "Calm",
       "translation": "Didn't like the appetizer, I'll take the whole thing, you just squeeze the lemon.",
       "explanation": "He's not satisfied with small wins; he wants the whole prize. 'Nimboo nichod' implies someone being sour/salty.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Aaya ni chakhne me swaad lunga poora tu nimboo nichodd",
+          "keyword": "Nimboo nichodd",
+          "type": "Metaphor",
+          "meaning": "Saying they will extract every benefit and take everything they can."
+        }
+      ]
     },
     {
       "original": "Keemat hai pata",
@@ -241,7 +288,14 @@ export const toh_kya: Song = {
       "speaker": "Calm",
       "translation": "But they can't afford Seedhe Maut.",
       "explanation": "A boast that most organizers or labels can't meet their standards or price tag.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Par Seedhe Maut inse ni hota afford",
+          "keyword": "Afford",
+          "type": "Slang",
+          "meaning": "Meaning that other rappers can't afford the quality or unique style of Seedhe Maut."
+        }
+      ]
     },
     {
       "original": "Badhi kattar hai zabaan to pohoche thais (Haa)",
@@ -252,6 +306,12 @@ export const toh_kya: Song = {
         {
           "keyword": "Kattar",
           "type": "Extreme/Sharp"
+        },
+        {
+          "text": "Badhi kattar hai zabaan to pohoche thais",
+          "keyword": "Kattar zabaan",
+          "type": "Metaphor",
+          "meaning": "Their words are so sharp and cutting that they reach the listener ('pohoche thais')."
         }
       ]
     },
@@ -260,7 +320,14 @@ export const toh_kya: Song = {
       "speaker": "Calm",
       "translation": "Sir, I am quite cocky, and that's okay.",
       "explanation": "Accepting his arrogance as a byproduct of his skill and status.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Hain janaab hum cocky theek",
+          "keyword": "Cocky",
+          "type": "Slang",
+          "meaning": "Admitting that they are indeed confident/arrogant."
+        }
+      ]
     },
     {
       "original": "Bin lakshya chalte launde tez",
@@ -294,8 +361,15 @@ export const toh_kya: Song = {
       "original": "Ab seeti bajti cooker me",
       "speaker": "Calm",
       "translation": "Now the whistle blows in the pressure cooker.",
-      "explanation": "A metaphor for 'cooking' hits, or simply domestic bliss\u2014having a kitchen where food is always ready.",
-      "annotations": []
+      "explanation": "A metaphor for 'cooking' hits, or simply domestic bliss—having a kitchen where food is always ready.",
+      "annotations": [
+        {
+          "text": "Ab seeti bajti cooker me",
+          "keyword": "Seeti bajti cooker me",
+          "type": "Metaphor",
+          "meaning": "Their success is building up like pressure in a cooker, about to explode or become even more prominent."
+        }
+      ]
     },
     {
       "original": "Naam likh ke dekhlo google pe (Jaa dekh)",
@@ -309,14 +383,28 @@ export const toh_kya: Song = {
       "speaker": "Calm",
       "translation": "Groupies don't fit in an Uber.",
       "explanation": "A flex about the sheer number of fans/groupies following them; they need a bigger vehicle.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Groupies fit ni hoti uber me",
+          "keyword": "Groupies",
+          "type": "Slang",
+          "meaning": "Referring to female fans; too many groupies to fit into a single Uber because of their success."
+        }
+      ]
     },
     {
       "original": "Badla swaad ni khaata thoker ab (Nahi)",
       "speaker": "Calm",
       "translation": "The taste has changed, I don't stumble anymore.",
       "explanation": "They've learned from past mistakes and their quality of life has improved.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Badla swaad ni khaata thoker ab",
+          "keyword": "Thoker",
+          "type": "Slang",
+          "meaning": "Meaning they don't make the same mistakes or stumble twice; they have learned from past experiences."
+        }
+      ]
     },
     {
       "original": "Durusti Daalu harr service ace",
@@ -327,6 +415,12 @@ export const toh_kya: Song = {
         {
           "keyword": "Ace",
           "type": "Sports Metaphor"
+        },
+        {
+          "text": "Durusti Daalu harr service ace",
+          "keyword": "Service ace",
+          "type": "Slang",
+          "meaning": "Reference to tennis: executing everything perfectly."
         }
       ]
     },
@@ -431,7 +525,14 @@ export const toh_kya: Song = {
       "speaker": "Calm & Encore ABJ",
       "translation": "Took my own weight, became smart.",
       "explanation": "Maturity through self-reliance.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Vishwaasghaati logo se milke",
+          "keyword": "Vishwaasghaati",
+          "type": "Cultural",
+          "meaning": "Hindi word for betrayers or people who break trust"
+        }
+      ]
     },
     {
       "original": "Ab heavy-weight (Rrraaa)",
@@ -470,6 +571,12 @@ export const toh_kya: Song = {
         {
           "keyword": "Vishwaasghaati",
           "type": "Formal Hindi (Traitor/Backstabber)"
+        },
+        {
+          "text": "Khalu mai jitni kasme bhi maa ki",
+          "keyword": "Kasme bhi maa ki",
+          "type": "Cultural",
+          "meaning": "Saying they would break even sacred promises made on their mother to describe the depth of hurt caused."
         }
       ]
     },
@@ -505,7 +612,7 @@ export const toh_kya: Song = {
       "original": "Bikhra hua kaanch fir kabhi jud paya nahi toh (Na)",
       "speaker": "Encore ABJ",
       "translation": "Broken glass can never be joined back again.",
-      "explanation": "A metaphor for broken trust\u2014once it's shattered, it's impossible to fix perfectly.",
+      "explanation": "A metaphor for broken trust—once it's shattered, it's impossible to fix perfectly.",
       "annotations": []
     },
     {
@@ -513,21 +620,42 @@ export const toh_kya: Song = {
       "speaker": "Encore ABJ",
       "translation": "So you are broken, and I am broken.",
       "explanation": "Acknowledging shared trauma or heartbreak between two people.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ego bahe baha hawa me",
+          "keyword": "Ego",
+          "type": "Metaphor",
+          "meaning": "People's egos are being carried away like the wind; inflated."
+        }
+      ]
     },
     {
       "original": "Funy hai kuch fizao me (Haa)",
       "speaker": "Encore ABJ",
       "translation": "There's something funny in the air.",
       "explanation": "A shift in mood; 'funny' could mean strange or literally amusing.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Peeche muda khada dikha rap game",
+          "keyword": "Rap game",
+          "type": "Metaphor",
+          "meaning": "They turned around and saw the entire rap game standing before them. Indicating respect/fear."
+        }
+      ]
     },
     {
       "original": "Ego bahe baha hawa me",
       "speaker": "Encore ABJ",
       "translation": "Ego flows away in the wind.",
       "explanation": "Letting go of pride to reach a state of peace.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Aake maine maare 5 rehepte",
+          "keyword": "Rehepte",
+          "type": "Slang",
+          "meaning": "Slaps. Showing dominance in the rap game."
+        }
+      ]
     },
     {
       "original": "Peeche muda khada dikha rap game",
@@ -545,6 +673,12 @@ export const toh_kya: Song = {
         {
           "keyword": "Rehepte",
           "type": "Slang (Slaps)"
+        },
+        {
+          "text": "Ye rapper hoke pamper beat pe hage",
+          "keyword": "Pamper beat pe hage",
+          "type": "Metaphor",
+          "meaning": "Rappers are ruining beats with their weak/childish flows; similar to a baby messing its diaper."
         }
       ]
     },
@@ -553,7 +687,14 @@ export const toh_kya: Song = {
       "speaker": "Encore ABJ",
       "translation": "That way.",
       "explanation": "Dismissing others or indicating his direction.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ye huggies ni pehente, rehende",
+          "keyword": "Huggies",
+          "type": "Reference",
+          "meaning": "They aren't even worth protecting with diapers; reinforces how weak the rappers are."
+        }
+      ]
     },
     {
       "original": "Ye rapper hoke pamper beat pe hage",
@@ -576,6 +717,12 @@ export const toh_kya: Song = {
         {
           "keyword": "Huggies",
           "type": "Brand Reference"
+        },
+        {
+          "text": "Ye hai slow-mo dard ye hai Max Payne",
+          "keyword": "Max Payne",
+          "type": "Reference",
+          "meaning": "Reference to the action video game, meaning the pain is prolonged and intense."
         }
       ]
     },
@@ -603,7 +750,14 @@ export const toh_kya: Song = {
       "speaker": "Encore ABJ",
       "translation": "One is your ego, and the other is your fanbase.",
       "explanation": "Comparing a rapper's inflated ego to their actual (likely small or undeserving) fanbase.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Abey chal!",
+          "keyword": "Abey chal",
+          "type": "Slang",
+          "meaning": "Means 'Oh, come on!' or 'Get out of here!' - expressing disbelief and dismissal."
+        }
+      ]
     },
     {
       "original": "Ek tere paao (Abey chal!) aur ek tera blanket",
@@ -621,13 +775,19 @@ export const toh_kya: Song = {
         {
           "keyword": "Chuninde",
           "type": "Formal Hindi (Chosen/Select)"
+        },
+        {
+          "text": "comprende?",
+          "keyword": "Comprende",
+          "type": "Slang",
+          "meaning": "Spanish for 'understand?'"
         }
       ]
     },
     {
       "original": "Jo ude, na ki bhaage, comprende?",
       "speaker": "Encore ABJ",
-      "translation": "Who fly, not just run\u2014understand?",
+      "translation": "Who fly, not just run—understand?",
       "explanation": "The central theme: SM flies while others just run. 'Comprende' is Spanish for 'understand'.",
       "annotations": [
         {
@@ -740,5 +900,6 @@ export const toh_kya: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "summary": "\"Toh Kya\" is a boastful track where Seedhe Maut asserts their dominance in the rap game, highlighting their journey from humble beginnings to success. They address haters and competition while emphasizing their unique style and unwavering self-belief."
 };

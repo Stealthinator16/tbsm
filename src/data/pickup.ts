@@ -8,13 +8,13 @@ export const pickup: Song = {
   "releaseDate": "",
   "lyrics": [
     {
-      "original": "Bigger-bigger \u092c\u0902\u0926\u0940 thicker, diggin' deeper, seven figure",
+      "original": "Bigger-bigger बंदी thicker, diggin' deeper, seven figure",
       "speaker": "Calm",
       "translation": "Bigger things, thicker girl, digging deeper, seven figures.",
       "explanation": "Calm flexes his high-status lifestyle, involving financial success and physical attractions.",
       "annotations": [
         {
-          "word": "\u092c\u0902\u0926\u0940",
+          "word": "बंदी",
           "type": "Slang"
         },
         {
@@ -24,7 +24,7 @@ export const pickup: Song = {
       ]
     },
     {
-      "original": "Kamakaze \u0915\u0930\u0947 heat up \u0932\u0941\u091f\u0947 \u091a\u0948\u0928 like it's a stick up",
+      "original": "Kamakaze करे heat up लुटे चैन like it's a stick up",
       "speaker": "Calm",
       "translation": "Doing Kamikaze, heating it up, stealing peace like it's a stick-up.",
       "explanation": "Refers to high-intensity energy (Kamikaze) that disrupts the scene like an armed robbery (stick-up).",
@@ -40,10 +40,10 @@ export const pickup: Song = {
       ]
     },
     {
-      "original": "Pickup pickup \u092a\u0948\u0938\u093e bitch \u0914\u0930 \u0928\u0936\u0947 \u0905\u092c \u092d\u0940 fuck my shit up",
+      "original": "Pickup pickup पैसा bitch और नशे अब भी fuck my shit up",
       "speaker": "Calm",
       "translation": "Picking up money and girls, and drugs still mess me up.",
-      "explanation": "A raw look at the vices of fame\u2014money and substances\u2014even while succeeding.",
+      "explanation": "A raw look at the vices of fame—money and substances—even while succeeding.",
       "annotations": [
         {
           "word": "Pickup",
@@ -56,7 +56,7 @@ export const pickup: Song = {
       ]
     },
     {
-      "original": "\u092e\u0939\u0902\u0917\u0940 ticket \u0935\u0939\u0940 \u0926\u094b\u0938\u094d\u0924 \u092e\u0939\u0902\u0917\u0947 \u0936\u094c\u0915 \u0914\u0930",
+      "original": "महंगी ticket वही दोस्त महंगे शौक और",
       "speaker": "Calm",
       "translation": "Expensive tickets, the same old friends, and expensive habits.",
       "explanation": "Despite the high costs of their new life, they stick with their original crew.",
@@ -68,14 +68,14 @@ export const pickup: Song = {
       ]
     },
     {
-      "original": "\u092e\u0939\u0902\u0917\u0940 liquor",
+      "original": "महंगी liquor",
       "speaker": "Calm",
       "translation": "Expensive liquor.",
       "explanation": "Refining tastes as they move up the social ladder.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0932\u092e \u0939\u0948 lais",
+      "original": "कलम है lais",
       "speaker": "Encore ABJ",
       "translation": "The pen is armed/equipped.",
       "explanation": "Encore uses 'lais' (armed) to describe his lyrical skills as weaponized.",
@@ -87,60 +87,60 @@ export const pickup: Song = {
       ]
     },
     {
-      "original": "Beato \u092a\u0947 lash out",
+      "original": "Beato पे lash out",
       "speaker": "Encore ABJ",
       "translation": "Lashing out on the beats.",
       "explanation": "Expressing intense aggression and flow over the production.",
       "annotations": []
     },
     {
-      "original": "\u0939\u0942\u0901 \u092e\u0948\u0902 \u0930\u0939\u0938\u094d\u092f",
+      "original": "हूँ मैं रहस्य",
       "speaker": "Encore ABJ",
       "translation": "I am a mystery.",
       "explanation": "Claiming a complex, unpredictable persona that others can't figure out.",
       "annotations": []
     },
     {
-      "original": "\u0938\u093e\u0925\u0940 \u0939\u0948 \u0926\u0948\u0924\u094d\u092f",
+      "original": "साथी है दैत्य",
       "speaker": "Encore ABJ",
       "translation": "My companion is a demon.",
       "explanation": "Referring to his partner Calm or his crew as powerful, unstoppable forces.",
       "annotations": [
         {
-          "word": "\u0926\u0948\u0924\u094d\u092f",
+          "word": "दैत्य",
           "type": "Mythological Metaphor"
         }
       ]
     },
     {
-      "original": "\u0928\u093e \u0915\u0930\u0942\u0901 mess",
+      "original": "ना करूँ mess",
       "speaker": "Encore ABJ",
       "translation": "I don't make a mess.",
       "explanation": "Maintaining precision in his work and street reputation.",
       "annotations": []
     },
     {
-      "original": "\u0938\u0941\u0928\u0947 \u0939\u0948 masses",
+      "original": "सुने है masses",
       "speaker": "Encore ABJ",
       "translation": "The masses listen.",
       "explanation": "Acknowledging their massive mainstream and underground following.",
       "annotations": []
     },
     {
-      "original": "\u092c\u095c\u093e \u0939\u0948 gap",
+      "original": "बड़ा है gap",
       "speaker": "Encore ABJ",
       "translation": "The gap is wide.",
       "explanation": "Indicating the skill distance between Seedhe Maut and other rappers.",
       "annotations": []
     },
     {
-      "original": "\u0915\u093e\u0932\u0940 \u0939\u0948 \u0939\u0936 \u0914\u0930 \u0939\u0930\u093e \u0939\u0948 cash",
+      "original": "काली है हश और हरा है cash",
       "speaker": "Encore ABJ",
       "translation": "The hash is black and the cash is green.",
       "explanation": "A color-coded reference to drugs and wealth.",
       "annotations": [
         {
-          "word": "\u0939\u0936",
+          "word": "हश",
           "type": "Drug Slang"
         }
       ]
@@ -154,6 +154,12 @@ export const pickup: Song = {
         {
           "word": "SM",
           "type": "Abbreviation"
+        },
+        {
+          "text": "काली है हश और हरा है cash",
+          "keyword": "Hash and Cash",
+          "type": "Cultural",
+          "meaning": "References to the illegal drug Hash (Hashish) and Money (Cash) and how those things are viewed in society."
         }
       ]
     },
@@ -162,10 +168,17 @@ export const pickup: Song = {
       "speaker": "Encore ABJ",
       "translation": "You can imagine.",
       "explanation": "Leaving the scale of their success to the listener's imagination.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "SM assassin",
+          "keyword": "SM",
+          "type": "Reference",
+          "meaning": "SM stands for Seedhe Maut, comparing themselves to assassins in the rap game."
+        }
+      ]
     },
     {
-      "original": "\u0915\u093f\u0924\u0928\u0947 \u0939\u0948 lakhs \u0914\u0930 \u0915\u093f\u0924\u0928\u0940 \u0939\u0948 back",
+      "original": "कितने है lakhs और कितनी है back",
       "speaker": "Encore ABJ",
       "translation": "How many lakhs (money) and how much support/backup.",
       "explanation": "Flexing both their wealth and their strong street support.",
@@ -177,7 +190,7 @@ export const pickup: Song = {
       ]
     },
     {
-      "original": "\u0915\u0930\u0947 \u092f\u0939\u093e\u0901 cap \u0924\u094b \u092a\u095c\u0947 \u092f\u0939\u093e\u0901 \u0930\u0939\u0947\u092a\u091f\u0947",
+      "original": "करे यहाँ cap तो पड़े यहाँ रहेपटे",
       "speaker": "Encore ABJ",
       "translation": "If you lie here, you'll get slapped.",
       "explanation": "Calling out fake rappers; 'cap' means lying, 'rehapte' is Delhi slang for slaps.",
@@ -187,7 +200,7 @@ export const pickup: Song = {
           "type": "Gen-Z Slang"
         },
         {
-          "word": "\u0930\u0939\u0947\u092a\u091f\u0947",
+          "word": "रहेपटे",
           "type": "Delhi Slang"
         }
       ]
@@ -207,33 +220,33 @@ export const pickup: Song = {
       "annotations": []
     },
     {
-      "original": "\u092a\u093e\u092a\u093e calling",
+      "original": "पापा calling",
       "speaker": "Encore ABJ",
       "translation": "Dad's calling.",
       "explanation": "The moment of realization or trouble when family intervenes in a wild lifestyle.",
       "annotations": []
     },
     {
-      "original": "\u0939\u094b\u0917\u0908 \u0926\u093f\u0915\u094d\u0915\u0924",
+      "original": "होगई दिक्कत",
       "speaker": "Encore ABJ",
       "translation": "There's a problem now.",
       "explanation": "The consequence of being caught or interrupted.",
       "annotations": []
     },
     {
-      "original": "\u091a\u0947\u092a\u0942 \u0932\u094c\u0902\u0921\u0947 \u0930\u0939\u0947 \u0939\u0948 \u091a\u093f\u092a\u0915",
+      "original": "चेपू लौंडे रहे है चिपक",
       "speaker": "Encore ABJ",
       "translation": "Clingy guys are sticking around.",
       "explanation": "Referring to 'clout-chasers' or annoying people trying to ride their success.",
       "annotations": [
         {
-          "word": "\u091a\u0947\u092a\u0942",
+          "word": "चेपू",
           "type": "Slang"
         }
       ]
     },
     {
-      "original": "\u0917\u090f \u092f\u0947 \u092e\u093f\u0928\u091f \u0938\u0947 \u092a\u0939\u0932\u0947 \u0928\u093f\u092a\u091f",
+      "original": "गए ये मिनट से पहले निपट",
       "speaker": "Encore ABJ",
       "translation": "They were finished in less than a minute.",
       "explanation": "Showing how easily they deal with opposition.",
@@ -243,11 +256,11 @@ export const pickup: Song = {
       "original": "I mean sit-up sit-up",
       "speaker": "Encore ABJ",
       "translation": "I mean sit-up, sit-up.",
-      "explanation": "A play on 'pickup'\u2014suggesting the competition should do sit-ups (discipline/punishment).",
+      "explanation": "A play on 'pickup'—suggesting the competition should do sit-ups (discipline/punishment).",
       "annotations": []
     },
     {
-      "original": "\u0915\u092e\u0930 \u0938\u0940\u0927\u0940 \u0915\u0930\u0915\u0947 kit-up",
+      "original": "कमर सीधी करके kit-up",
       "speaker": "Encore ABJ",
       "translation": "Straighten your back and gear up.",
       "explanation": "The phrase 'Kamar Seedhi' refers to Seedhe Maut's brand/motto of standing tall.",
@@ -259,64 +272,71 @@ export const pickup: Song = {
       ]
     },
     {
-      "original": "Game \u0939\u0948 \u0915\u093e\u0924\u093f\u0932 player \u0939\u0948 killer",
+      "original": "Game है कातिल player है killer",
       "speaker": "Encore ABJ",
       "translation": "The game is lethal, the player is a killer.",
       "explanation": "Confidence in their dominance in the rap industry.",
       "annotations": []
     },
     {
-      "original": "\u0928\u0939\u0940\u0902 \u0939\u092e iller \u0907\u0932\u094d\u092e \u0939\u0948 \u095e\u093f\u0915\u094d\u0930",
+      "original": "नहीं हम iller इल्म है फ़िक्र",
       "speaker": "Encore ABJ",
       "translation": "We aren't just 'ill', we have knowledge and concern.",
       "explanation": "Wordplay on 'iller' (dope) and 'Ilm' (knowledge/wisdom).",
       "annotations": [
         {
-          "word": "\u0907\u0932\u094d\u092e",
+          "word": "इल्म",
           "type": "Urdu"
         }
       ]
     },
     {
-      "original": "\u095e\u093f\u0915\u094d\u0930-\u095e\u093f\u0915\u094d\u0930 \u0915\u0930\u0947 \u092e\u093e\u0902 \u092c\u093e\u092a \u091c\u093e\u0928\u0924\u0947 \u0928\u0939\u0940\u0902 \u0939\u0948 \u092c\u0947\u091f\u093e \u0915\u093f\u0927\u0930",
+      "original": "फ़िक्र-फ़िक्र करे मां बाप जानते नहीं है बेटा किधर",
       "speaker": "Calm",
       "translation": "Parents worry, not knowing where their son is.",
       "explanation": "Reflecting the disconnect between their street/fame life and traditional home life.",
       "annotations": []
     },
     {
-      "original": "\u091c\u0940\u0924\u0924\u0947 \u091c\u093e\u0924\u0947 \u091c\u093f\u0927\u0930 \u091c\u094b\u091f\u0947 \u0926\u0947\u0916 \u0915\u0947 \u091c\u0928\u0924\u093e \u091c\u093e\u0924\u0940 \u092c\u093f\u0917\u095c",
+      "original": "जीतते जाते जिधर जोटे देख के जनता जाती बिगड़",
       "explanation": "Winning wherever we go, people lose it when they see the joints (or the style).",
       "speaker": "Calm",
       "translation": "We win wherever we go; the crowd goes wild seeing the 'jote' (joints).",
       "annotations": [
         {
-          "word": "\u091c\u094b\u091f\u0947",
+          "word": "जोटे",
           "type": "Drug Slang"
         }
       ]
     },
     {
-      "original": "Clique \u0939\u0948 lit \u0914\u0930 kick \u0939\u0948 \u091c\u092c \u0915\u094b\u0908 \u092a\u0942\u091b\u0947 can I click a pic \u0905\u092c",
+      "original": "Clique है lit और kick है जब कोई पूछे can I click a pic अब",
       "speaker": "Calm",
       "translation": "The clique is lit, and it's a thrill (kick) when people ask for pics.",
       "explanation": "The excitement of fame and being recognized in public.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Clique है lit और kick है जब कोई पूछे can I click a pic अब",
+          "keyword": "Clique",
+          "type": "Slang",
+          "meaning": "Referring to their group/crew. 'Lit' implies they are having a great time and are popular."
+        }
+      ]
     },
     {
-      "original": "\u0926\u092c\u0947 trigger \u092d\u093e\u0917\u0947 \u0917\u0940\u0926\u095c gun \u0939\u0948 bigger gun \u0939\u0948 \u0928\u093f\u0921\u0930",
+      "original": "दबे trigger भागे गीदड़ gun है bigger gun है निडर",
       "speaker": "Calm",
       "translation": "The trigger is pressed, cowards run; the gun is bigger and fearless.",
       "explanation": "Metaphorical 'gun' referring to their rap skills/voice scaring off rivals.",
       "annotations": [
         {
-          "word": "\u0917\u0940\u0926\u095c",
+          "word": "गीदड़",
           "type": "Metaphor"
         }
       ]
     },
     {
-      "original": "\u092e\u093f\u0932\u0942\u0901 \u092e\u0947\u0902 bag \u092e\u0947\u0902",
+      "original": "मिलूँ में bag में",
       "speaker": "Calm",
       "translation": "Find me in the bag.",
       "explanation": "Meaning he is focused on the money ('in his bag').",
@@ -328,7 +348,7 @@ export const pickup: Song = {
       ]
     },
     {
-      "original": "Pen \u0939\u0948 ghaint \u0914\u0930 gat \u0939\u0948 gap \u092f\u0947",
+      "original": "Pen है ghaint और gat है gap ये",
       "speaker": "Calm",
       "translation": "The pen is great and this gap is huge.",
       "explanation": "Flexing writing skills and the distance from the rest.",
@@ -340,47 +360,47 @@ export const pickup: Song = {
       ]
     },
     {
-      "original": "\u092c\u095d\u0942\u0901 \u092e\u0948\u0902 \u0906\u0917\u0947 \u0939\u0942\u0901 lap \u0914\u0930 rap \u092e\u0947\u0902",
+      "original": "बढ़ूँ मैं आगे हूँ lap और rap में",
       "speaker": "Calm",
       "translation": "I'm moving ahead in the lap and in rap.",
-      "explanation": "Racing metaphor\u2014he's laps ahead of others in the rap game.",
+      "explanation": "Racing metaphor—he's laps ahead of others in the rap game.",
       "annotations": []
     },
     {
-      "original": "\u092c\u0948\u0920\u093e \u0935\u093f\u0932\u093e\u092f\u0924 \u092e\u0947\u0902 \u091d\u093e\u0908 \u092e\u0947\u0902 jet \u092e\u0947\u0902",
+      "original": "बैठा विलायत में झाई में jet में",
       "speaker": "Calm",
       "translation": "Sitting abroad, in the haze, in a jet.",
       "explanation": "Flexing international travel and success.",
       "annotations": [
         {
-          "word": "\u0935\u093f\u0932\u093e\u092f\u0924",
+          "word": "विलायत",
           "type": "Urdu/Hindi"
         }
       ]
     },
     {
-      "original": "\u092c\u0948\u0920\u0947 \u092f\u0947 \u0935\u0947\u0939\u092e \u092e\u0947\u0902 \u095b\u0947\u0939\u0928 \u092e\u0947\u0902 \u0939\u092e \u0939\u0948\u0902",
+      "original": "बैठे ये वेहम में ज़ेहन में हम हैं",
       "speaker": "Calm",
       "translation": "They live in delusion, while we are in their heads.",
       "explanation": "Others are confused while SM dominates their thoughts and the scene.",
       "annotations": []
     },
     {
-      "original": "\u0938\u093e\u0925 \u0939\u0948\u0917\u093e \u0926\u0948\u0924\u094d\u092f \u092c\u0948\u0920\u0924\u0947 \u0910\u0902\u0920 \u092e\u0947\u0902",
+      "original": "साथ हैगा दैत्य बैठते ऐंठ में",
       "speaker": "Calm",
       "translation": "The demon is with me, we sit with pride/attitude.",
       "explanation": "Confidence and having powerful friends/energy.",
       "annotations": []
     },
     {
-      "original": "Hurricane beato \u092a\u0947 he got our back then",
+      "original": "Hurricane beato पे he got our back then",
       "speaker": "Calm",
       "translation": "Hurricane is on the beats, he had our back then.",
       "explanation": "Shoutout to the producer 'Hurricane' for his support.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0948\u0938\u0947 \u0928\u093e \u092b\u091f\u0942 \u092f\u0947 \u095b\u092c\u093e\u0928 \u0939\u0948 Mac10",
+      "original": "कैसे ना फटू ये ज़बान है Mac10",
       "speaker": "Calm",
       "translation": "How can I not explode? This tongue is a Mac-10.",
       "explanation": "Comparing his rapid-fire delivery to a submachine gun.",
@@ -392,7 +412,7 @@ export const pickup: Song = {
       ]
     },
     {
-      "original": "Dl91 \u0939\u092e \u0939\u0948\u0902 \u0938\u092d\u0940 \u0938\u0947 \u092c\u0947\u0939\u0924\u0930",
+      "original": "Dl91 हम हैं सभी से बेहतर",
       "speaker": "Calm",
       "translation": "DL-91 (West Delhi), we are better than everyone.",
       "explanation": "Representing his area code in Delhi.",
@@ -404,35 +424,56 @@ export const pickup: Song = {
       ]
     },
     {
-      "original": "Bigger-bigger \u092c\u0902\u0926\u0940 thicker, diggin' deeper, seven figure",
+      "original": "Bigger-bigger बंदी thicker, diggin' deeper, seven figure",
       "speaker": "CALM",
       "translation": "Bigger things, thicker girl, digging deeper, seven figures.",
       "explanation": "Chorus repetition: Flexing lifestyle and wealth.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Hurricane beato पे he got our back then",
+          "keyword": "Hurricane Beato",
+          "type": "Reference",
+          "meaning": "Referring to the producer, acknowledging his crucial role."
+        }
+      ]
     },
     {
-      "original": "Kamakaze \u0915\u0930\u0947 heat up \u0932\u0941\u091f\u0947 \u091a\u0948\u0928 like it's a stick up",
+      "original": "Kamakaze करे heat up लुटे चैन like it's a stick up",
       "speaker": "CALM",
       "translation": "Doing Kamikaze, heating it up, stealing peace like a stick-up.",
       "explanation": "Chorus repetition: High intensity energy.",
       "annotations": []
     },
     {
-      "original": "Pickup pickup \u092a\u0948\u0938\u093e bitch \u0914\u0930 \u0928\u0936\u0947 \u0905\u092c \u092d\u0940 fuck my shit up",
+      "original": "Pickup pickup पैसा bitch और नशे अब भी fuck my shit up",
       "speaker": "CALM",
       "translation": "Picking up money and girls, and drugs still mess me up.",
       "explanation": "Chorus repetition: Vices and success.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "कैसे ना फटू ये ज़बान है Mac10",
+          "keyword": "Mac10",
+          "type": "Slang",
+          "meaning": "Mac 10 is a submachine gun. Alluding to their power."
+        }
+      ]
     },
     {
-      "original": "\u092e\u0939\u0902\u0917\u0940 tick\u0435t \u0935\u0939\u0940 \u0926\u094b\u0938\u094d\u0924 \u092e\u0939\u0902\u0917\u0947 \u0936\u094c\u0915 \u0914\u0930",
+      "original": "महंगी tickеt वही दोस्त महंगे शौक और",
       "speaker": "CALM",
       "translation": "Expensive tickets, same friends, expensive habits.",
       "explanation": "Chorus repetition: Loyalty and luxury.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Dl91 हम हैं सभी से बेहतर",
+          "keyword": "DL91",
+          "type": "Reference",
+          "meaning": "Referring to the album title. DL-91 represents Delhi (DL) and 1991 as the year the both artists were born. Representing their unique sound and experience."
+        }
+      ]
     },
     {
-      "original": "\u092e\u0939\u0902\u0917\u0940 liquor",
+      "original": "महंगी liquor",
       "speaker": "CALM",
       "translation": "Expensive liquor.",
       "explanation": "Chorus repetition.",
@@ -446,41 +487,41 @@ export const pickup: Song = {
       "annotations": []
     },
     {
-      "original": "\u092a\u093e\u092a\u093e calling",
+      "original": "पापा calling",
       "speaker": "Encore ABJ",
       "translation": "Dad's calling.",
       "explanation": "Refrain: Home reality vs Street life.",
       "annotations": []
     },
     {
-      "original": "\u0939\u094b\u0917\u0908 \u0926\u093f\u0915\u094d\u0915\u0924",
+      "original": "होगई दिक्कत",
       "speaker": "Encore ABJ",
       "translation": "There's a problem now.",
       "explanation": "Refrain.",
       "annotations": []
     },
     {
-      "original": "\u091a\u0947\u092a\u0942 \u0932\u094c\u0902\u0921\u0947 \u0930\u0939\u0947 \u0939\u0948 \u091a\u093f\u092a\u0915",
+      "original": "चेपू लौंडे रहे है चिपक",
       "speaker": "Encore ABJ",
       "translation": "Clingy guys are sticking around.",
       "explanation": "Refrain: Dealing with fake people.",
       "annotations": []
     },
     {
-      "original": "\u0917\u092f\u0947 \u092f\u0947 \u092e\u093f\u0928\u091f \u0938\u0947 \u092a\u0939\u0932\u0947 \u0928\u093f\u092a\u091f",
+      "original": "गये ये मिनट से पहले निपट",
       "speaker": "Encore ABJ",
       "translation": "They were finished in less than a minute.",
       "explanation": "Refrain: Quick disposal of haters.",
       "annotations": []
     },
     {
-      "original": "\u092c\u093f\u0915\u091f \u092c\u093f\u0915\u091f baawe dragon \u0915\u093e\u091f\u0947 ticket",
+      "original": "बिकट बिकट baawe dragon काटे ticket",
       "speaker": "OG Lucifer",
       "translation": "It's tough/intense, bro, the dragon punches the ticket.",
       "explanation": "Lucifer uses 'Bikat' (intense) and refers to smoking or fire-spitting rhymes.",
       "annotations": [
         {
-          "word": "\u092c\u093f\u0915\u091f",
+          "word": "बिकट",
           "type": "Slang"
         },
         {
@@ -490,129 +531,129 @@ export const pickup: Song = {
       ]
     },
     {
-      "original": "Sick \u0939\u0948 business \u0926\u0947\u0924\u093e \u0907\u095b\u094d\u095b\u0924 \u0915 \u0916 \u0917 \u0928\u093e \u0916 \u0916\u092a\u093f\u091f\u0930",
+      "original": "Sick है business देता इज़्ज़त क ख ग ना ख खपिटर",
       "speaker": "OG Lucifer",
       "translation": "The business is sick, it gives respect; I don't care for the basics.",
       "explanation": "His grind brings respect, and he's beyond the beginners (K-Kh-G).",
       "annotations": []
     },
     {
-      "original": "\u091c\u0928\u0939\u093f\u0924 \u092e\u0947\u0902 \u0930\u0916\u0940 \u0939\u0948 \u091c\u093e\u0928\u0915\u093e\u0930\u0940",
+      "original": "जनहित में रखी है जानकारी",
       "speaker": "OG Lucifer",
       "translation": "The information is kept in public interest.",
       "explanation": "Playing on government 'public interest' notices, but for street knowledge.",
       "annotations": []
     },
     {
-      "original": "Baaw\u0435 \u0939\u0935\u093e\u092c\u093e\u091c\u0940 \u092a\u0942\u0930\u0940 \u0916\u093e\u0928\u0926\u093e\u0928\u0940",
+      "original": "Baawе हवाबाजी पूरी खानदानी",
       "speaker": "OG Lucifer",
       "translation": "Bro, the flexing is ancestral.",
       "explanation": "He comes from a lineage of being 'the man' or confident.",
       "annotations": [
         {
-          "word": "\u0939\u0935\u093e\u092c\u093e\u091c\u0940",
+          "word": "हवाबाजी",
           "type": "Slang"
         }
       ]
     },
     {
-      "original": "\u091a\u095d\u0940 \u0927\u0902\u0927\u0947 \u0915\u0947 \u0915\u0902\u0927\u0947 \u092a\u0947 \u0908\u092e\u093e\u0928\u0926\u093e\u0930\u0940",
+      "original": "चढ़ी धंधे के कंधे पे ईमानदारी",
       "speaker": "OG Lucifer",
       "translation": "Honesty is riding on the shoulder of the business.",
       "explanation": "Maintaining integrity even in a shady or tough business.",
       "annotations": []
     },
     {
-      "original": "\u0932\u0917\u0940 \u0917\u093e\u0901\u0927\u0940 \u092a\u0947 \u092a\u091f\u094d\u091f\u0940 \u092a\u0947 \u0935\u094b \u0917\u093e\u0902\u0927\u093e\u0930\u0940",
+      "original": "लगी गाँधी पे पट्टी पे वो गांधारी",
       "speaker": "OG Lucifer",
       "translation": "The blindfold is on Gandhi (money), she is Gandhari.",
       "explanation": "Brilliant wordplay: Gandhi is on currency notes; being blind to everything for money, like Gandhari.",
       "annotations": [
         {
-          "word": "\u0917\u093e\u0901\u0927\u0940",
+          "word": "गाँधी",
           "type": "Metaphor"
         },
         {
-          "word": "\u0917\u093e\u0902\u0927\u093e\u0930\u0940",
+          "word": "गांधारी",
           "type": "Mythological Reference"
         }
       ]
     },
     {
-      "original": "\u0924\u0947\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u0935\u093e\u0939\u0940 \u0915\u0930\u0947 kamikaze \u092e\u0947\u0928\u0947 \u0915\u093e\u0932\u0947 \u0915\u093e\u0902\u0921 \u0915\u0930\u0947 \u0915\u093e\u0932\u0915\u093e\u091c\u0940",
+      "original": "तेरी कार्यवाही करे kamikaze मेने काले कांड करे कालकाजी",
       "speaker": "OG Lucifer",
       "translation": "Your actions are kamikaze; I did dark deeds in Kalkaji.",
       "explanation": "Referring to his past or street reputation in the Kalkaji area of Delhi.",
       "annotations": [
         {
-          "word": "\u0915\u093e\u0932\u0915\u093e\u091c\u0940",
+          "word": "कालकाजी",
           "type": "Location"
         }
       ]
     },
     {
-      "original": "\u0935\u093e\u0926\u093e",
+      "original": "वादा",
       "speaker": "OG Lucifer",
       "translation": "Promise.",
       "explanation": "Emphasis on his word.",
       "annotations": []
     },
     {
-      "original": "\u0935\u093e\u0926\u093e \u0915\u093f\u092f\u093e \u0915\u092d\u0940 \u091f\u0932\u0924\u093e \u0928\u0939\u0940\u0902",
+      "original": "वादा किया कभी टलता नहीं",
       "speaker": "OG Lucifer",
       "translation": "A promise made is never broken.",
-      "explanation": "Street code\u2014loyalty and keeping one's word.",
+      "explanation": "Street code—loyalty and keeping one's word.",
       "annotations": []
     },
     {
-      "original": "\u0924\u0942 \u0938\u093e\u092e\u0928\u0947 \u0938\u0947 \u092e\u0940\u0920\u093e \u092c\u0938 \u092e\u093e\u0930 \u0924\u093e\u0932\u0940",
+      "original": "तू सामने से मीठा बस मार ताली",
       "speaker": "OG Lucifer",
       "translation": "You are sweet to my face, just clap along.",
       "explanation": "Calling out two-faced people who act like fans but are fake.",
       "annotations": []
     },
     {
-      "original": "Area \u0939\u0948 \u0917\u0928\u094d\u0926\u093e \u0924\u094b \u0936\u0930\u0940\u0930 \u0938\u0947 \u092c\u093e\u0902\u0938 \u0906\u0924\u0940",
+      "original": "Area है गन्दा तो शरीर से बांस आती",
       "speaker": "OG Lucifer",
       "translation": "If the area is dirty, the body stinks.",
       "explanation": "Environment shapes a person; reflecting the grit of his neighborhood.",
       "annotations": [
         {
-          "word": "\u092c\u093e\u0902\u0938",
+          "word": "बांस",
           "type": "Slang"
         }
       ]
     },
     {
-      "original": "\u0909\u0938 \u0917\u0932\u0940 \u0915\u0940 \u092d\u093e\u092d\u0940 \u0915\u0940 \u091f\u093e\u0902\u0917 \u0920\u093e \u0926\u0940",
+      "original": "उस गली की भाभी की टांग ठा दी",
       "speaker": "OG Lucifer",
       "translation": "Lifted the leg of that alley's sister-in-law.",
       "explanation": "Aggressive, crude street talk flexing sexual dominance or neighborhood status.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0947\u0928\u0947 \u092a\u093f \u0928\u0939\u0940\u0902 \u092c\u0938 \u092c\u094b\u0924\u0932 \u0938\u0947 gargle \u0915\u0940",
+      "original": "मेने पि नहीं बस बोतल से gargle की",
       "speaker": "OG Lucifer",
       "translation": "I didn't drink, I just gargled with the bottle.",
-      "explanation": "Flexing excess\u2014having so much alcohol he doesn't even need to drink it properly.",
+      "explanation": "Flexing excess—having so much alcohol he doesn't even need to drink it properly.",
       "annotations": []
     },
     {
-      "original": "\u091c\u092c \u092a\u0948\u0938\u0947 \u0909\u095c\u093e\u0928\u0947 \u0924\u094b calm \u092d\u093e\u0908 \u092e\u093e\u0928\u0924\u093e \u0928\u0939\u0940\u0902",
+      "original": "जब पैसे उड़ाने तो calm भाई मानता नहीं",
       "speaker": "OG Lucifer",
       "translation": "When it's time to blow money, Calm doesn't stop.",
       "explanation": "Acknowledging Calm's habit of spending big.",
       "annotations": []
     },
     {
-      "original": "Old school \u092a\u0939\u0932\u0947 \u095e\u094b\u0928 china \u0925\u093e micromax",
+      "original": "Old school पहले फ़ोन china था micromax",
       "speaker": "OG Lucifer",
       "translation": "Old school, the first phone was a China Micromax.",
       "explanation": "Humble beginnings before the current wealth.",
       "annotations": []
     },
     {
-      "original": "\u0915\u091f\u0940 \u092a\u0924\u0902\u0917 \u0924\u0947\u0930\u093e Kai Po Che!",
+      "original": "कटी पतंग तेरा Kai Po Che!",
       "speaker": "OG Lucifer",
       "translation": "Like a cut kite, Kai Po Che!",
       "explanation": "Victory shout in kite-flying; saying he's cut the competition down.",
@@ -624,89 +665,103 @@ export const pickup: Song = {
       ]
     },
     {
-      "original": "\u092a\u0939\u0932\u0947 \u0939\u0925\u093f\u092f\u093e\u0930 less \u0905\u092c \u092c\u0928 \u0930\u0939\u093e \u0915\u0941\u091b \u0924\u0947\u0930\u093e \u092d\u093e\u0908 fresh",
+      "original": "पहले हथियार less अब बन रहा कुछ तेरा भाई fresh",
       "speaker": "OG Lucifer",
       "translation": "First I was 'less' on weapons, now your brother is becoming something fresh.",
       "explanation": "Growth from being unarmed/weak to a fresh, successful status.",
       "annotations": []
     },
     {
-      "original": "\u0906\u0936\u093f\u0958 \u0939\u0942\u0901 \u0930\u0902\u0917\u094b\u0902 \u0915\u093e \u0917\u0932\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u0926\u093f\u0916\u0924\u093e \u0930\u0902\u0917 \u0930\u0948\u0932\u0940",
+      "original": "आशिक़ हूँ रंगों का गलियों में दिखता रंग रैली",
       "speaker": "OG Lucifer",
       "translation": "I'm a lover of colors; I see color rallies in the streets.",
       "explanation": "Poetic take on the vibrant, chaotic life of the streets.",
       "annotations": []
     },
     {
-      "original": "\u0907\u0938 matter \u092e\u0947\u0902 metal \u0939\u0948 baawe \u0924\u0942 matter pistol \u0932\u0917\u0947 \u092a\u0942\u0930\u0940 \u0917\u0902\u0921\u092e\u093e\u0930\u0940",
+      "original": "इस matter में metal है baawe तू matter pistol लगे पूरी गंडमारी",
       "speaker": "OG Lucifer",
       "translation": "There's metal (guns) in this matter, bro; you look like a pistol, looks like a real struggle.",
       "explanation": "Warning about the seriousness of the 'matter' (conflict).",
       "annotations": [
         {
-          "word": "\u0917\u0902\u0921\u092e\u093e\u0930\u0940",
+          "word": "गंडमारी",
           "type": "Vulgar Slang"
         }
       ]
     },
     {
-      "original": "\u0935\u094b \u092e\u0947\u0930\u0947 \u0939\u0940 \u0959\u093e\u0938 \u091c\u094b \u091c\u093e\u0924\u0947 \u0939\u0948 rally \u092e\u0947\u0902 \u092c\u0928\u093e\u0926\u0947 \u0924\u0941\u091d\u0947 \u092d\u0940 \u092e\u0902\u0924\u094d\u0930\u0940",
+      "original": "वो मेरे ही ख़ास जो जाते है rally में बनादे तुझे भी मंत्री",
       "speaker": "OG Lucifer",
       "translation": "My close ones go to rallies, they could make you a minister.",
       "explanation": "Boasting about political connections and local influence.",
       "annotations": []
     },
     {
-      "original": "\u0906\u0924\u0940 \u0939\u0948 \u092a\u093e\u0938 \u0935\u094b groupie \u0926\u0947\u0916 rupees \u0924\u094b baawe \u092e\u0947\u0930\u0947 \u0932\u0923\u094d\u0921 \u092a\u0947 \u0920\u0923\u094d\u0921 \u092c\u091c\u0940",
+      "original": "आती है पास वो groupie देख rupees तो baawe मेरे लण्ड पे ठण्ड बजी",
       "speaker": "OG Lucifer",
       "translation": "The groupie comes close seeing the money, but I'm cold to it.",
       "explanation": "Being indifferent to shallow attention from gold-diggers.",
       "annotations": []
     },
     {
-      "original": "\u0926\u0947\u0916\u0947\u0902\u0917\u0947 \u092c\u093e\u092f\u0947 \u092d\u093e\u0917\u0947\u0917\u093e bye \u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0915\u092e \u0938\u0928\u0938\u0928\u0940",
+      "original": "देखेंगे बाये भागेगा bye राजधानी कम सनसनी",
       "speaker": "OG Lucifer",
       "translation": "We'll see, you'll run away saying bye; less of a train, more of a sensation.",
       "explanation": "Wordplay on Rajdhani (the fast train) and their sensational rise.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "बिकट बिकट baawe dragon काटे ticket",
+          "keyword": "Baawe Dragon",
+          "type": "Slang",
+          "meaning": "\"Baawe\" is Delhi slang, roughly translating to \"bro\" or \"dude.\" The term \"Dragon\" refers to a powerful or influential person."
+        }
+      ]
     },
     {
-      "original": "No family ties \u092c\u0938 family guy \u092e\u0947\u0930\u0947 \u0905\u0902\u0936 \u092c\u0948\u0920\u0947 \u0915\u0930\u0947 \u0905\u0928\u0936\u0928 \u0939\u0940",
+      "original": "No family ties बस family guy मेरे अंश बैठे करे अनशन ही",
       "speaker": "OG Lucifer",
       "translation": "No family ties, just a family guy; my offspring sit on a hunger strike.",
       "explanation": "Likely referring to his 'sons' (subordinate rappers) struggling or waiting for him.",
       "annotations": []
     },
     {
-      "original": "\u092f\u0947 \u092e\u0941\u0901\u0939 \u092a\u0947 \u092e\u0940\u0920\u0947 clap clap clap",
+      "original": "ये मुँह पे मीठे clap clap clap",
       "speaker": "OG Lucifer",
       "translation": "These people are sweet to your face, clap clap clap.",
       "explanation": "Sarcastic applause for the fakes and sycophants.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Baawе हवाबाजी पूरी खानदानी",
+          "keyword": "Hawabazi",
+          "type": "Slang",
+          "meaning": "Someone who likes to show off, or is arrogant. Bawe = Bro/Mate/Fellow man"
+        }
+      ]
     },
     {
-      "original": "\u0938\u0924\u094d\u0930\u093e \u0915\u0947 \u0938\u0924\u094d\u0924\u0930 \u0905\u092c fact facts",
+      "original": "सत्रा के सत्तर अब fact facts",
       "speaker": "OG Lucifer",
       "translation": "From 17 to 70 now, facts only.",
       "explanation": "Referring to growth in age, percentage, or numbers.",
       "annotations": []
     },
     {
-      "original": "\u0914\u0930 \u092e\u093f\u0932\u0924\u0940 \u0930\u094b\u091f\u0940 \u0909\u0938\u0915\u094b \u091c\u093f\u0938\u0915\u0947 \u092e\u0941\u0901\u0939 \u092e\u0947\u0902 \u0928\u0939\u0940\u0902 \u0926\u093e\u0902\u0924",
+      "original": "और मिलती रोटी उसको जिसके मुँह में नहीं दांत",
       "speaker": "OG Lucifer",
       "translation": "And the bread goes to those who have no teeth.",
       "explanation": "Proverbial: Sometimes the ones who can't use a resource are the ones given it.",
       "annotations": []
     },
     {
-      "original": "\u0914\u0930 \u0916\u094b\u0932\u0947 \u0927\u094b\u0924\u0940 \u0905\u092b\u0930\u093e \u0924\u0942 \u0924\u094b \u0909\u0924\u0930\u0947 \u0914\u0915\u093e\u0924",
+      "original": "और खोले धोती अफरा तू तो उतरे औकात",
       "speaker": "OG Lucifer",
       "translation": "Opening the dhoti; your real status is being exposed.",
       "explanation": "Metaphor for exposing someone's true, often lowly, nature.",
       "annotations": []
     },
     {
-      "original": "\u0907\u0915\u0939\u0924\u094d\u0924\u0930 \u0907\u0915\u094d\u092f\u093e\u0928\u0935\u0947 4Life",
+      "original": "इकहत्तर इक्यानवे 4Life",
       "speaker": "OG Lucifer",
       "translation": "71, 91 for life.",
       "explanation": "Shoutout to Delhi area codes (DL-71, DL-91) representing their hoods.",
@@ -718,14 +773,14 @@ export const pickup: Song = {
       ]
     },
     {
-      "original": "Bigger-bigger \u092c\u0902\u0926\u0940 thicker, diggin' deeper, seven figure",
+      "original": "Bigger-bigger बंदी thicker, diggin' deeper, seven figure",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Bigger things, thicker girl, digging deeper, seven figures.",
       "explanation": "Chorus by both SM members.",
       "annotations": []
     },
     {
-      "original": "Kamakaze \u0915\u0930\u0947 heat up \u0932\u0941\u091f\u0947 \u091a\u0948\u0928 like it's a stick up",
+      "original": "Kamakaze करे heat up लुटे चैन like it's a stick up",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Doing Kamikaze, heating it up, stealing peace like a stick-up.",
       "explanation": "Chorus by both SM members.",
@@ -739,49 +794,49 @@ export const pickup: Song = {
       "annotations": []
     },
     {
-      "original": "\u092a\u093e\u092a\u093e calling",
+      "original": "पापा calling",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Dad's calling.",
       "explanation": "Outro Hook.",
       "annotations": []
     },
     {
-      "original": "\u0939\u094b\u0917\u0908 \u0926\u093f\u0915\u094d\u0915\u0924",
+      "original": "होगई दिक्कत",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "There's a problem now.",
       "explanation": "Outro Hook.",
       "annotations": []
     },
     {
-      "original": "\u091a\u0947\u092a\u0942 \u0932\u094c\u0902\u0921\u0947 \u0930\u0939\u0947 \u0939\u0948 \u091a\u093f\u092a\u0915",
+      "original": "चेपू लौंडे रहे है चिपक",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Clingy guys are sticking around.",
       "explanation": "Outro Hook.",
       "annotations": []
     },
     {
-      "original": "\u0917\u092f\u0947 \u092f\u0947 \u092e\u093f\u0928\u091f \u0938\u0947 \u092a\u0939\u0932\u0947 \u0928\u093f\u092a\u091f",
+      "original": "गये ये मिनट से पहले निपट",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "They were finished in less than a minute.",
       "explanation": "Outro Hook.",
       "annotations": []
     },
     {
-      "original": "Pickup pickup \u092a\u0948\u0938\u093e bitch \u0914\u0930 \u0928\u0936\u0947 \u0905\u092c \u092d\u0940 fuck my shit up",
+      "original": "Pickup pickup पैसा bitch और नशे अब भी fuck my shit up",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Picking up money and girls, and drugs still mess me up.",
       "explanation": "Full Chorus Outro.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0939\u0902\u0917\u0940 ticket \u0935\u0939\u0940 \u0926\u094b\u0938\u094d\u0924 \u092e\u0939\u0902\u0917\u0947 \u0936\u094c\u0915 \u0914\u0930",
+      "original": "महंगी ticket वही दोस्त महंगे शौक और",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Expensive tickets, same friends, expensive habits.",
       "explanation": "Loyalty flex.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0939\u0902\u0917\u0940 liquor",
+      "original": "महंगी liquor",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Expensive liquor.",
       "explanation": "Final outro line.",
@@ -795,25 +850,32 @@ export const pickup: Song = {
       "annotations": []
     },
     {
-      "original": "\u0915\u092e\u0930 \u0938\u0940\u0927\u0940 \u0915\u0930\u0915\u0947 kit-up",
+      "original": "कमर सीधी करके kit-up",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Straighten your back and gear up.",
       "explanation": "Reference to the Seedhe Maut name/mentality.",
       "annotations": []
     },
     {
-      "original": "Game \u0939\u0948 \u0915\u093e\u0924\u093f\u0932 player \u0939\u0948 killer",
+      "original": "Game है कातिल player है killer",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "The game is lethal, the player is a killer.",
       "explanation": "Final declaration of dominance.",
       "annotations": []
     },
     {
-      "original": "\u0928\u0939\u0940\u0902 \u0939\u092e iller \u0907\u0932\u094d\u092e \u0939\u0948 \u095e\u093f\u0915\u094d\u0930",
+      "original": "नहीं हम iller इल्म है फ़िक्र",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "We aren't just 'ill', we have knowledge and concern.",
       "explanation": "Ending on a note of wisdom and consciousness.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "ये मुँह पे मीठे clap clap clap",
+          "keyword": "Clap",
+          "type": "Metaphor",
+          "meaning": "Mocking someone, saying they are talking sweetly/flattering someone to their face but doing/saying something else behind their back."
+        }
+      ]
     }
   ],
   "credits": {
@@ -821,5 +883,7 @@ export const pickup: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Hype",
+  "summary": "\"Pickup\" is a high-energy track by Seedhe Maut, characterized by rapid-fire flows and boasts about their success, skills, and dominance in the Desi Hip Hop scene. The lyrics are filled with wordplay and cultural references, creating a raw and unfiltered sound."
 };

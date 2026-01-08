@@ -445,6 +445,6 @@ export const first_place: Song = {
       "Seedhe Maut"
     ]
   },
-  "vibe": "Confident",
+  "vibe": "Aggressive",
   "summary": "\"First Place\" is a boastful track where Seedhe Maut asserts their dominance and success in the Desi Hip Hop scene. They dismiss competition and emphasize their self-reliance and unique status."
 };

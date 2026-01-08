@@ -6,7 +6,7 @@ export const dehshat: Song = {
   "slug": "dehshat",
   "album": "Bayaan",
   "releaseDate": "",
-  "vibe": "Menacing",
+  "vibe": "Aggressive",
   "lyrics": [
     {
       "original": "Sez on the beat boy",

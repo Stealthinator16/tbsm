@@ -27,6 +27,12 @@ export const shakti_aur_kshama: Song = {
           "keyword": "Kshama",
           "type": "noun",
           "meaning": "Forgiveness"
+        },
+        {
+          "text": "Mere pass do shashtra mai chunu kya shakti ya kshama",
+          "keyword": "Shakti aur Kshama",
+          "type": "Metaphor",
+          "meaning": "I have two weapons (or principles): power and forgiveness. Which should I choose?"
         }
       ]
     },
@@ -145,14 +151,14 @@ export const shakti_aur_kshama: Song = {
       "annotations": []
     },
     {
-      "original": "Jis din hua paida maa roi thi unhe thi chahiye \u0435k beti par hua main",
+      "original": "Jis din hua paida maa roi thi unhe thi chahiye еk beti par hua main",
       "speaker": "Calm",
       "translation": "The day I was born, my mother cried; she wanted a daughter, but it was me.",
       "explanation": "A deeply personal and vulnerable line about feeling unwanted or failing expectations from birth.",
       "annotations": []
     },
     {
-      "original": "Baap pe tha karza aya ghar mer\u0435 koi leke",
+      "original": "Baap pe tha karza aya ghar merе koi leke",
       "speaker": "Calm",
       "translation": "My father was in debt, and someone came to our house for it.",
       "explanation": "Describes the reality of living with financial instability and the threat of creditors.",
@@ -180,7 +186,7 @@ export const shakti_aur_kshama: Song = {
     {
       "original": "Ye duniya hai krur, shakti ya kshama kya lagta hai chuna us bande ne",
       "speaker": "Calm",
-      "translation": "This world is cruel; what do you think that guy chose\u2014power or forgiveness?",
+      "translation": "This world is cruel; what do you think that guy chose—power or forgiveness?",
       "explanation": "Asking the listener to judge his past actions based on the harsh environment he grew up in.",
       "annotations": [
         {
@@ -194,8 +200,15 @@ export const shakti_aur_kshama: Song = {
       "original": "Aur pehle thi jitni bhi shakti bas mangi thi bapu ne kshama us lamhe pe",
       "speaker": "Calm",
       "translation": "Whatever power we had before, my father just ended up asking for forgiveness at that moment.",
-      "explanation": "A tragic reversal where the father\u2019s 'Shakti' failed, leaving him only with 'Kshama' (begging for mercy).",
-      "annotations": []
+      "explanation": "A tragic reversal where the father’s 'Shakti' failed, leaving him only with 'Kshama' (begging for mercy).",
+      "annotations": [
+        {
+          "text": "Ye duniya hai krur, shakti ya kshama kya lagta hai chuna us bande ne",
+          "keyword": "krur",
+          "type": "Descriptive",
+          "meaning": "Cruel; emphasizing the harsh realities of the world."
+        }
+      ]
     },
     {
       "original": "Launda tha bullakad, hounga me yaha par, ye kabhi nahi socha tha sapne me",
@@ -216,7 +229,14 @@ export const shakti_aur_kshama: Song = {
       "speaker": "Calm",
       "translation": "Watching business deals shift hands, and watching loved ones die inside every day.",
       "explanation": "Observing the cutthroat nature of the world and the slow emotional death of people close to him.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Launda tha bullakad, hounga me yaha par, ye kabhi nahi socha tha sapne me",
+          "keyword": "bullakad",
+          "type": "Slang",
+          "meaning": "A forgetful or clumsy person; meaning he never imagined he'd reach this point."
+        }
+      ]
     },
     {
       "original": "Aayi hampe jab shakti to jalte hue, shakti thi zyada toh kshama se darte hue",
@@ -317,7 +337,7 @@ export const shakti_aur_kshama: Song = {
       "original": "Kshama deti hai unko hi shobha jinki swamini bani shakti",
       "speaker": "Encore Abj",
       "translation": "Forgiveness only suits those who have mastered power.",
-      "explanation": "Another reference to the poem\u2014mercy is a virtue of the strong, not an excuse for the weak.",
+      "explanation": "Another reference to the poem—mercy is a virtue of the strong, not an excuse for the weak.",
       "annotations": []
     },
     {
@@ -366,7 +386,7 @@ export const shakti_aur_kshama: Song = {
       "original": "Galio me sickest se clubo me hojata tha nervous aur hogya career hit wicket",
       "speaker": "Encore Abj",
       "translation": "The 'sickest' player in the streets, but I'd get nervous in clubs, and my career ended in a 'hit wicket'.",
-      "explanation": "Using a cricket metaphor ('hit wicket'\u2014getting out by your own mistake) to describe how his nerves ruined his sports career.",
+      "explanation": "Using a cricket metaphor ('hit wicket'—getting out by your own mistake) to describe how his nerves ruined his sports career.",
       "annotations": [
         {
           "keyword": "Hit Wicket",
@@ -380,14 +400,28 @@ export const shakti_aur_kshama: Song = {
       "speaker": "Encore Abj",
       "translation": "But while I stayed true to everyone, people there only stayed true to those...",
       "explanation": "Reflecting on the lack of loyalty and the conditional nature of support in his old circles.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Vidya Ram Dhari Singh Dinkar ki",
+          "keyword": "Ram Dhari Singh Dinkar",
+          "type": "Reference",
+          "meaning": "Reference to the famous Indian poet Ramdhari Singh Dinkar, alluding to his powerful and nationalistic poetry."
+        }
+      ]
     },
     {
       "original": "Jo khele unse behtar, ye kya hai bakwas bhai, Jo unse uppar banaye unhi ko baap bhai",
       "speaker": "Encore Abj",
       "translation": "...who played better than them. What nonsense, brother! Whoever is above them, they treat like a god.",
       "explanation": "Criticizing people who only respect power or success rather than character.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Kavi kehna chahte hai mafi kayaro ke muh se acchi nahi lagti",
+          "keyword": "Kayar",
+          "type": "Reference",
+          "meaning": "Coward. Referring to a quote or the general theme of Dinkar's poem that forgiveness doesn't suit a coward."
+        }
+      ]
     },
     {
       "original": "Kahani mei chupi ek seekh hai, logo ko lagta hai ke wo hai uppar jab rakhte hai auro ko wo khudse neeche, kshama ko shakti ki need hai",
@@ -429,14 +463,28 @@ export const shakti_aur_kshama: Song = {
       "speaker": "Encore Abj",
       "translation": "So we don't keep anyone below us.",
       "explanation": "Because they are powerful, they choose to be humble and not look down on others.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Landmine hu mai you can run but you can't hide",
+          "keyword": "Landmine",
+          "type": "Metaphor",
+          "meaning": "Comparing himself to a landmine, suggesting he's dangerous and unavoidable."
+        }
+      ]
     },
     {
       "original": "Aur uppar ho aisa koi vyakti nahi bana",
       "speaker": "Encore Abj",
       "translation": "And no man has been born who is above us.",
       "explanation": "While they don't look down on others, they don't allow anyone to dominate them either.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Manguide uppar ha sabhi se buy a land slide",
+          "keyword": "Manguide",
+          "type": "Slang",
+          "meaning": "Play on words of the word magnitude implying they are so high above the rest, you need to buy a landslide to reach them."
+        }
+      ]
     },
     {
       "original": "Maaru say push ups aur kho jau bhakti mai",
@@ -478,7 +526,14 @@ export const shakti_aur_kshama: Song = {
       "speaker": "Encore ABJ",
       "translation": "I have two weapons with me; should I choose power or forgiveness?",
       "explanation": "Final hook repetition.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Jo unse uppar banaye unhi ko baap bhai",
+          "keyword": "Baap",
+          "type": "Slang",
+          "meaning": "Respect the person who makes you better, or who elevates you. 'Baap' is slang for a superior figure."
+        }
+      ]
     }
   ],
   "credits": {
@@ -486,5 +541,7 @@ export const shakti_aur_kshama: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Introspective",
+  "summary": "\"Shakti Aur Kshama\" explores the internal conflict between power and forgiveness, delving into personal struggles, societal observations, and the artists' journey to find balance. It touches upon themes of childhood trauma, family history, and the pursuit of excellence in their craft."
 };

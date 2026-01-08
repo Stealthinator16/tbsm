@@ -28,6 +28,12 @@ export const nayaab: Song = {
         {
           "keyword": "Sez",
           "type": "Person/Producer"
+        },
+        {
+          "text": "Darwaza khat khataya gate sez ne khola",
+          "keyword": "Sez on the Beat",
+          "type": "Reference",
+          "meaning": "Referring to the first encounter/collaboration with producer Sez on the Beat, a pivotal moment in their career."
         }
       ]
     },
@@ -88,7 +94,14 @@ export const nayaab: Song = {
       "speaker": "Encore ABJ & Calm",
       "translation": "Didn't record the whole thing.",
       "explanation": "They couldn't finish their planned recordings due to time or budget constraints.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Shor hora nazdeek",
+          "keyword": "Shor",
+          "type": "Metaphor",
+          "meaning": "Referring to the building buzz and attention around their music."
+        }
+      ]
     },
     {
       "original": "Shor hora nazdeek",
@@ -190,11 +203,18 @@ export const nayaab: Song = {
       "annotations": []
     },
     {
-      "original": "Wo keht\u0435 Faayeda zyada ni jab fayeda bate 3 aur p\u0435",
+      "original": "Wo kehtе Faayeda zyada ni jab fayeda bate 3 aur pе",
       "speaker": "Encore ABJ & Calm",
       "translation": "They say there's not much profit when it's split three ways.",
       "explanation": "Critics claimed a trio (Encore, Calm, Sez) wouldn't make much money after splitting earnings.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Wo kehtе Faayeda zyada ni jab fayeda bate 3 aur pе",
+          "keyword": "Faayeda",
+          "type": "Cultural",
+          "meaning": "They are talking about how splitting profits 3 ways is less beneficial than keeping it themselves"
+        }
+      ]
     },
     {
       "original": "Lekin fayeda rehta zyada jab hai teeno hi dost",
@@ -242,6 +262,12 @@ export const nayaab: Song = {
         {
           "keyword": "Mausambi",
           "type": "Metaphor/Fruit"
+        },
+        {
+          "text": "aushadi hai dhaus me hai mosh bhi ye rapper mausambi hain juice",
+          "keyword": "Mausambi Juice",
+          "type": "Metaphor",
+          "meaning": "Comparing other rappers to watered down juice, implying they lack substance compared to Seedhe Maut."
         }
       ]
     },
@@ -275,6 +301,12 @@ export const nayaab: Song = {
         {
           "keyword": "Flex",
           "type": "Slang"
+        },
+        {
+          "text": "Backstage vanity",
+          "keyword": "Backstage vanity",
+          "type": "Cultural",
+          "meaning": "Referencing the superficial aspect of fame and the superficiality of other artist's priorities when on tour."
         }
       ]
     },
@@ -289,7 +321,7 @@ export const nayaab: Song = {
       "original": "Online hype ki ni offline guarantee (Ha-ha)",
       "speaker": "Encore ABJ & Calm",
       "translation": "Online hype doesn't guarantee offline success.",
-      "explanation": "A rapper might have followers, but they can't sell tickets to a real show\u2014unlike Seedhe Maut.",
+      "explanation": "A rapper might have followers, but they can't sell tickets to a real show—unlike Seedhe Maut.",
       "annotations": []
     },
     {
@@ -320,7 +352,14 @@ export const nayaab: Song = {
       "speaker": "Encore ABJ & Calm",
       "translation": "The tracks diverged but the three of us kept running in the same direction.",
       "explanation": "Even as their lives changed, the vision of the SM-Sez trio remained united.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "mannequin hai dhairya ni na plan abhi to panic hi karoge ji kehdaalo jee ka jeete ji",
+          "keyword": "Mannequin",
+          "type": "Metaphor",
+          "meaning": "Comparing other rappers to mannequins, implying they are lifeless, lack originality and panic under pressure."
+        }
+      ]
     },
     {
       "original": "Hai ittefaq se rachne chal pade hain likhne  itehaas ek aur",
@@ -340,5 +379,7 @@ export const nayaab: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Introspective",
+  "summary": "Nayaab is a reflective track where Seedhe Maut recounts their journey from their initial collaborations with Sez on the Beat in 2016 to establishing themselves in the Desi Hip Hop scene. They emphasize their organic growth, the importance of their friendship, and their disregard for superficial fame."
 };

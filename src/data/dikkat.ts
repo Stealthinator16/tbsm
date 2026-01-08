@@ -593,6 +593,6 @@ export const dikkat: Song = {
       "Seedhe Maut"
     ]
   },
-  "vibe": "Confident",
+  "vibe": "Aggressive",
   "summary": "\"Dikkat\" is a boastful track where Seedhe Maut asserts their dominance in the Desi Hip Hop scene, dismissing any challenges or competition. They emphasize their lyrical prowess, success, and nonchalant attitude towards obstacles."
 };

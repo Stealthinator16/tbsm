@@ -6,7 +6,7 @@ export const choti_soch: Song = {
   "slug": "choti-soch",
   "album": "Nayaab",
   "releaseDate": "",
-  "vibe": "Confrontational",
+  "vibe": "Aggressive",
   "lyrics": [
     {
       "original": "Ye",

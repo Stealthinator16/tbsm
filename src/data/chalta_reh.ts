@@ -6,7 +6,7 @@ export const chalta_reh: Song = {
   "slug": "chalta-reh",
   "album": "Bayaan",
   "releaseDate": "",
-  "vibe": "Motivational",
+  "vibe": "Hype",
   "lyrics": [
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",

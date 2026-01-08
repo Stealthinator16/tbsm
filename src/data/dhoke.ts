@@ -690,6 +690,6 @@ export const dhoke: Song = {
       "Seedhe Maut"
     ]
   },
-  "vibe": "Reflective",
+  "vibe": "Introspective",
   "summary": "\"Dhoke\" explores themes of betrayal, disillusionment, and the struggles of navigating relationships and personal challenges. The lyrics delve into the pain of being deceived by loved ones and the search for solace amidst chaos and conflicting emotions."
 };

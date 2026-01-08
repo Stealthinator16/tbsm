@@ -6,7 +6,7 @@ export const asal_g: Song = {
   "slug": "asal-g",
   "album": "Lunch Break",
   "releaseDate": "",
-  "vibe": "Confident",
+  "vibe": "Aggressive",
   "lyrics": [
     {
       "original": "असल G",

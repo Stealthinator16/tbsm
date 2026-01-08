@@ -5,7 +5,7 @@ export const edokdog_skit: Song = {
   "title": "Edokdog (skit)",
   "slug": "edokdog-skit",
   "album": "Bayaan",
-  "vibe": "Conversational",
+  "vibe": "Chill",
   "lyrics": [
     {
       "original": "[Skit / Dialogue]",

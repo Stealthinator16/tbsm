@@ -6,7 +6,7 @@ export const maina: Song = {
   "slug": "maina",
   "album": "Nayaab",
   "releaseDate": "",
-  "vibe": "Melancholic",
+  "vibe": "Introspective",
   "lyrics": [
     {
       "original": "Maina tu gaade agar",

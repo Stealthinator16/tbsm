@@ -5,7 +5,7 @@ export const jolly_skit: Song = {
   "title": "Jolly (skit)",
   "slug": "jolly-skit",
   "album": "Bayaan",
-  "vibe": "Humorous",
+  "vibe": "Chill",
   "lyrics": [
     {
       "original": "[Skit / Dialogue]",

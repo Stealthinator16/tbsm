@@ -1341,6 +1341,6 @@ export const barsaat: Song = {
       "Seedhe Maut"
     ]
   },
-  "vibe": "Melancholic",
+  "vibe": "Introspective",
   "summary": "\"Barsaat\" explores themes of emotional turmoil, lost love, and the artists' struggles and reflections amidst the backdrop of personal and creative evolution. The song uses the metaphor of rain to represent both cleansing and sorrow, mirroring the complexities of life in Delhi."
 };

@@ -591,6 +591,6 @@ export const i_dont_miss_that_life: Song = {
       "Seedhe Maut"
     ]
   },
-  "vibe": "Reflective",
+  "vibe": "Introspective",
   "summary": "\"I Don't Miss That Life\" is a song about Seedhe Maut reflecting on their past struggles and growth, highlighting their detachment from a life filled with vices and hardships. They emphasize their current focus on success and a more positive outlook."
 };

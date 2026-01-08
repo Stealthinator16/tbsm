@@ -81,14 +81,28 @@ export const pushpak_vimaan: Song = {
       "speaker": "Seedhe Maut",
       "translation": "This is something I've dealt with before.",
       "explanation": "Refers to handling fame, haters, or industry pressure previously.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Something i've dealt with before",
+          "keyword": "Dealt with before",
+          "type": "Reference",
+          "meaning": "Suggests that they've handled similar situations/challenges previously in their career, implying experience and resilience."
+        }
+      ]
     },
     {
       "original": "Ye lodu log hume sikhaare udaana yaha ghar chahiye",
       "speaker": "Seedhe Maut",
       "translation": "These idiots are trying to teach us how to fly, but we just want a home.",
       "explanation": "Critique of people giving unsolicited advice. He prioritizes real-world stability (buying a house) over fake 'highs'.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ye lodu log hume sikhaare udaana yaha ghar chahiye",
+          "keyword": "Lodu",
+          "type": "Slang",
+          "meaning": "\"Lodu\" is a derogatory Hindi slang word meaning foolish or stupid person."
+        }
+      ]
     },
     {
       "original": "Bhai ko ek aur \"bread\"",
@@ -107,7 +121,14 @@ export const pushpak_vimaan: Song = {
       "speaker": "Seedhe Maut",
       "translation": "They need another ghostwriter.",
       "explanation": "Calling out rappers who don't write their own lyrics, contrasting them with SM's authenticity.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Inhe chahiye ghost writer ek aur",
+          "keyword": "Ghost writer",
+          "type": "Reference",
+          "meaning": "Implying that other rappers need help writing their lyrics, suggesting a lack of originality and skill."
+        }
+      ]
     },
     {
       "original": "Yaha Khosle ko ghosla do ek aur",
@@ -118,6 +139,12 @@ export const pushpak_vimaan: Song = {
         {
           "keyword": "Khosla Ka Ghosla",
           "type": "Reference"
+        },
+        {
+          "text": "Yaha Khosle ko ghosla do ek aur",
+          "keyword": "Khosle ka Ghosla",
+          "type": "Reference",
+          "meaning": "A reference to the Bollywood movie \"Khosla ka Ghosla\", which is about reclaiming what's rightfully yours. Here it could mean giving Khosle (a person) back what is their right i.e. a 'ghosla' or place to stay/live."
         }
       ]
     },
@@ -126,7 +153,14 @@ export const pushpak_vimaan: Song = {
       "speaker": "Seedhe Maut",
       "translation": "These mfs are useless.",
       "explanation": "Direct dismissal of his peers or competitors.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ye bhosdike bekaar hain",
+          "keyword": "Bhosdike",
+          "type": "Slang",
+          "meaning": "A very offensive Hindi slang word, a curse word implying worthlessness."
+        }
+      ]
     },
     {
       "original": "Dost ni par they call me calm lekin they call me baap too",
@@ -229,6 +263,12 @@ export const pushpak_vimaan: Song = {
         {
           "keyword": "Jota",
           "type": "Slang"
+        },
+        {
+          "text": "Yo ravi ka jota sambhaalke ah",
+          "keyword": "Ravi ka jota",
+          "type": "Slang",
+          "meaning": "This is a colloquial reference to being a bootlicker or sycophant. \"Jota\" means shoe, so it literally means holding onto someone's shoe (doing favors)."
         }
       ]
     },
@@ -244,14 +284,28 @@ export const pushpak_vimaan: Song = {
       "speaker": "Seedhe Maut",
       "translation": "Everyone is about to get played/called out by Calm.",
       "explanation": "Warning that he is about to go off on his verse.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Bajne sab jaare hain Calm k yaha",
+          "keyword": "Calm",
+          "type": "Reference",
+          "meaning": "\"Calm\" is one half of Seedhe Maut, therefore meaning everything that is going on is according to Calm."
+        }
+      ]
     },
     {
       "original": "Game me mai meta lau paisa lau leke jau upar",
       "speaker": "Seedhe Maut",
       "translation": "I bring the 'meta' to the game, bring money, and take it higher.",
       "explanation": "Meta refers to the most effective tactic/style. He defines the current state of DHH.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Game me mai meta lau paisa lau leke jau upar",
+          "keyword": "Meta",
+          "type": "Slang",
+          "meaning": "\"Meta\" here means 'I am the best strategy/player'. Also means that they are changing how the hip-hop game is played and bringing in the money and going to the top."
+        }
+      ]
     },
     {
       "original": "I dont need to dumb it down likhe jau fook kar",
@@ -286,7 +340,14 @@ export const pushpak_vimaan: Song = {
       "speaker": "Seedhe Maut",
       "translation": "Brother has the biggest bag (money) in the room.",
       "explanation": "Boasting about being the highest-paid artists in the room.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "High jack kara game uh",
+          "keyword": "High jack",
+          "type": "Slang",
+          "meaning": "\"High jack\" is used in place of 'hijack', meaning that they've taken over/dominated the game."
+        }
+      ]
     },
     {
       "original": "Jaaye off the top of the dome",
@@ -378,14 +439,28 @@ export const pushpak_vimaan: Song = {
       "speaker": "Seedhe Maut",
       "translation": "They think they're Tarzan by swinging on their father's pubes.",
       "explanation": "A brutal metaphor for artists who only have status because of their father's influence/nepotism.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Rapper hai kamare paisa 100 ki gaand choomkar",
+          "keyword": "Gaand choomkar",
+          "type": "Slang",
+          "meaning": "Extremely crude slang indicating that the rappers are bootlicking or sucking up to people to get money."
+        }
+      ]
     },
     {
       "original": "Bande hai udharan chutiyape ke saboot par",
       "speaker": "Seedhe Maut",
       "translation": "These guys are living proof of stupidity.",
       "explanation": "Calling out the lack of sense in his competitors.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Samjhe khudko tarzan apne baap ki jhaantein jhoolkar",
+          "keyword": "Tarzan",
+          "type": "Reference",
+          "meaning": "Comparing someone to Tarzan while hanging from their father's pubic hair is an insult meaning someone is not self made and still relying on their father to make a career for them. It also implies they are not as independent or skilled as they believe."
+        }
+      ]
     },
     {
       "original": "Cmon",
@@ -500,7 +575,14 @@ export const pushpak_vimaan: Song = {
       "speaker": "Seedhe Maut",
       "translation": "I brought a new era.",
       "explanation": "Claiming to be the catalyst for the new wave of Indian Hip Hop.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Sale beman hai sab",
+          "keyword": "Beman",
+          "type": "Slang",
+          "meaning": "\"Beman\" is Hindi for 'dishonest' or 'without integrity'."
+        }
+      ]
     },
     {
       "original": "Banate rahio bahana",
@@ -518,6 +600,12 @@ export const pushpak_vimaan: Song = {
         {
           "keyword": "Majama",
           "type": "Slang"
+        },
+        {
+          "text": "Tera bhai khole katana",
+          "keyword": "Katana",
+          "type": "Reference",
+          "meaning": "Katana is a sword, in this context means he is bringing out his weapons i.e. talent/lyrics/skills to take down competition."
         }
       ]
     },
@@ -533,7 +621,14 @@ export const pushpak_vimaan: Song = {
       "speaker": "Seedhe Maut",
       "translation": "She told me to come every day.",
       "explanation": "Bragging about his popularity with women.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Yaha khamakha ki baatein 'naw pooch' jaise kurama",
+          "keyword": "Naw Pooch",
+          "type": "Reference",
+          "meaning": "Naw Pooch is a reference to the cartoon character and a play on the words 'na pooch' meaning 'don't ask'."
+        }
+      ]
     },
     {
       "original": "Aur aye jab bhi rose lana",
@@ -666,6 +761,12 @@ export const pushpak_vimaan: Song = {
         {
           "keyword": "Pind",
           "type": "Slang"
+        },
+        {
+          "text": "Industry dekhu aur lage 'the fuck is a fair play'",
+          "keyword": "Fair Play",
+          "type": "Metaphor",
+          "meaning": "Commenting on the exploitative side of the music industry. Implying the lack of a fairground for artists."
         }
       ]
     },
@@ -723,14 +824,28 @@ export const pushpak_vimaan: Song = {
       "speaker": "Seedhe Maut",
       "translation": "Sharma was cut down, you fool.",
       "explanation": "Likely a local reference or wordplay on being sharp/cutting through people.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Saray pasay sada gana gontha",
+          "keyword": "Saray pasay sada gana gontha",
+          "type": "Cultural",
+          "meaning": "This is Punjabi and translates to: 'All the money, always singing songs'."
+        }
+      ]
     },
     {
       "original": "Tu sanu khan ya meh pesa komontha chop the dhana the maharaja",
       "speaker": "Seedhe Maut",
       "translation": "You eat us or I earn money, chop the grain like a Maharaja.",
       "explanation": "Living life king-size and reaping the rewards of his labor.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Pukky peekay usi rola pontha",
+          "keyword": "Pukky peekay usi rola pontha",
+          "type": "Cultural",
+          "meaning": "This is Punjabi and translates to: 'Getting drunk and making the same noise'."
+        }
+      ]
     },
     {
       "original": "Smokin on some zaza big bag para",
@@ -741,6 +856,12 @@ export const pushpak_vimaan: Song = {
         {
           "keyword": "Zaza",
           "type": "Slang"
+        },
+        {
+          "text": "Gian Singh tha Munda goonda",
+          "keyword": "Gian Singh tha Munda goonda",
+          "type": "Cultural",
+          "meaning": "This is Punjabi and translates to: 'Gian Singh, that boy was a thug'."
         }
       ]
     },
@@ -762,5 +883,7 @@ export const pushpak_vimaan: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Aggressive",
+  "summary": "\"Pushpak Vimaan\" is a hard-hitting track where Seedhe Maut asserts their dominance in the Desi Hip Hop scene, flexing their lyrical prowess and dismissing their competition as inferior. The song is filled with metaphors and boasts about their success, contrasting it with the struggles and inauthenticity of others in the industry."
 };

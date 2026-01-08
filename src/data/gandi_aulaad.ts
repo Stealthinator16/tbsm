@@ -10,7 +10,7 @@ export const gandi_aulaad: Song = {
       "Calm"
     ]
   },
-  "vibe": "Confessional",
+  "vibe": "Introspective",
   "lyrics": [
     {
       "original": "Tu Kare roll roll",

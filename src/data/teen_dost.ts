@@ -174,11 +174,11 @@ export const teen_dost: Song = {
       "original": "Soya kahi utha airport pe",
       "speaker": "Calm",
       "translation": "Slept somewhere, woke up at the airport",
-      "explanation": "Describes the disorienting nature of a touring artist's life\u2014constantly traveling.",
+      "explanation": "Describes the disorienting nature of a touring artist's life—constantly traveling.",
       "annotations": []
     },
     {
-      "original": "Tour khatam gaya zen mod\u0435 me",
+      "original": "Tour khatam gaya zen modе me",
       "speaker": "Calm",
       "translation": "Tour ended, went into Zen mode",
       "explanation": "Taking a peaceful break to recharge after the exhaustion of performing.",
@@ -202,7 +202,7 @@ export const teen_dost: Song = {
       ]
     },
     {
-      "original": "Aay\u0435 ghar Dono gaand todd ke",
+      "original": "Aayе ghar Dono gaand todd ke",
       "speaker": "Calm",
       "translation": "Both came home after working their asses off",
       "explanation": "Emphasis on the extreme physical and mental effort put into their shows.",
@@ -256,7 +256,14 @@ export const teen_dost: Song = {
       "speaker": "Calm",
       "translation": "Today three friends will win",
       "explanation": "Chorus hook.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Teeno bhai yaha been ballin'",
+          "keyword": "Ballin'",
+          "type": "Slang",
+          "meaning": "Ballin' means living a luxurious, successful lifestyle."
+        }
+      ]
     },
     {
       "original": "Karegi team toast",
@@ -343,7 +350,14 @@ export const teen_dost: Song = {
       "speaker": "Calm",
       "translation": "When we didn't have proper shoes",
       "explanation": "Recalling a time of financial hardship.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ab harr din friday tight hu flight hai 5 star life ye mere liye naya nahi hai",
+          "keyword": "Friday, Tight, Flight, 5 star life",
+          "type": "Slang, Metaphor",
+          "meaning": "Every day feels like Friday, they are intoxicated ('tight'), and their lives are luxurious, indicating a new normal of success."
+        }
+      ]
     },
     {
       "original": "Sab school gaye bus me ladke wapas aaye Tractor me dabb k",
@@ -430,6 +444,12 @@ export const teen_dost: Song = {
         {
           "keyword": "Gaand fatt jaegi",
           "type": "Slang (Terrified/Screwed)"
+        },
+        {
+          "text": "Ma dekho bete ne tabahi ki hai kaisi pehle jaisa ganda time nahi hai ye",
+          "keyword": "Tabahi",
+          "type": "Slang",
+          "meaning": "Tabahi means destruction/chaos, but in this context, it signifies the overwhelming success the artist has achieved."
         }
       ]
     },
@@ -480,6 +500,12 @@ export const teen_dost: Song = {
         {
           "keyword": "Gadar",
           "type": "Slang (Rebel/Impressive)"
+        },
+        {
+          "text": "Kuch saal bolte the Sez ki chat pe baithke ki rap shit kaam kara ni to gaand fatt jaegi",
+          "keyword": "Gaand fatt jaegi",
+          "type": "Slang",
+          "meaning": "Gaand fatt jaegi is a very informal, crude phrase meaning 'they would be screwed/in big trouble' if their rap career didn't take off."
         }
       ]
     },
@@ -539,7 +565,7 @@ export const teen_dost: Song = {
       "original": "Lakh rupee rahe tax me bhar",
       "speaker": "Encore ABJ",
       "translation": "Paying lakhs of rupees in taxes",
-      "explanation": "A massive flex in Indian Hip Hop\u2014earning enough to pay significant taxes.",
+      "explanation": "A massive flex in Indian Hip Hop—earning enough to pay significant taxes.",
       "annotations": []
     },
     {
@@ -585,7 +611,14 @@ export const teen_dost: Song = {
       "speaker": "Calm",
       "translation": "Today three friends will win",
       "explanation": "Final chorus loop.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Sid pe khud ka ghar",
+          "keyword": "Sid",
+          "type": "Reference",
+          "meaning": "Refers to Siddhant Sharma, one half of Seedhe Maut, having his own house as a mark of success."
+        }
+      ]
     },
     {
       "original": "Karegi team toast",
@@ -613,14 +646,28 @@ export const teen_dost: Song = {
       "speaker": "Calm",
       "translation": "Today three friends will win",
       "explanation": "Final chorus loop.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Cult shit SM x Sez rhenge bajte bajte bajte",
+          "keyword": "Cult shit",
+          "type": "Slang",
+          "meaning": "Cult shit signifies something that's highly appreciated and followed by a devoted fan base. SM refers to Seedhe Maut."
+        }
+      ]
     },
     {
       "original": "Karegi team toast",
       "speaker": "Calm",
       "translation": "The team will raise a toast",
       "explanation": "Final chorus loop.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Tujhe shaq hai to lunn pe bajj be",
+          "keyword": "Lunn pe bajj be",
+          "type": "Slang",
+          "meaning": "An extremely vulgar expression meaning 'if you doubt us, go f*** yourself'. A very aggressive and disrespectful way to dismiss doubters."
+        }
+      ]
     },
     {
       "original": "Teen din kiye teen shows",
@@ -642,5 +689,7 @@ export const teen_dost: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Hype",
+  "summary": "\"Teen Dost\" celebrates the success and journey of Seedhe Maut and Sez on the Beat, reminiscing about their struggles and highlighting their current achievements as a trio, emphasizing their bond and shared victories. It's a testament to their hard work and unique position in the Desi Hip Hop scene."
 };

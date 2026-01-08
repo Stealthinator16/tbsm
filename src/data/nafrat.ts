@@ -4,7 +4,7 @@ export const nafrat: Song = {
   "id": "nafrat",
   "title": "Nafrat",
   "slug": "nafrat",
-  "album": "\u2018\u0928\u2019 (Mixtape)",
+  "album": "‘न’ (Mixtape)",
   "releaseDate": "",
   "lyrics": [
     {
@@ -35,6 +35,12 @@ export const nafrat: Song = {
         {
           "word": "Sandeh",
           "type": "Hindi word (Doubt)"
+        },
+        {
+          "text": "Wo kare nafrat kabhi nahi sandeh",
+          "keyword": "Nafrat",
+          "type": "Statement",
+          "meaning": "They hate without a doubt. Sets the tone of certainty regarding the animosity felt by others."
         }
       ]
     },
@@ -109,7 +115,14 @@ export const nafrat: Song = {
       "speaker": "Encore ABJ & Calm & Encore ABJ",
       "translation": "I drank a whole bottle in your name, oof.",
       "explanation": "Repeating the theme of substance use to numb the emotions of the past.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Tere naam piya khamba ek oof",
+          "keyword": "Khamba",
+          "type": "Slang",
+          "meaning": "\"Khamba\" refers to a bottle of alcohol, suggesting drinking in someone's name, either in celebration or to drown sorrows related to that person."
+        }
+      ]
     },
     {
       "original": "Tera dost mere naam pe uchalta hai oof",
@@ -122,7 +135,7 @@ export const nafrat: Song = {
       "original": "Faada mene tere naam ka ek parcha hai, uh",
       "speaker": "Encore ABJ & Calm & Encore ABJ",
       "translation": "I tore up a page in your name, uh.",
-      "explanation": "A symbol of finality\u2014ending the 'chapter' or the connection.",
+      "explanation": "A symbol of finality—ending the 'chapter' or the connection.",
       "annotations": []
     },
     {
@@ -317,7 +330,7 @@ export const nafrat: Song = {
       "annotations": []
     },
     {
-      "original": "Maut aae mujhe vaha tu bole \u201cBaby hota hai\u201d",
+      "original": "Maut aae mujhe vaha tu bole “Baby hota hai”",
       "speaker": "Encore ABJ",
       "translation": "Where death comes for me, you just say 'Baby, it happens'.",
       "explanation": "Contrasting his life-or-death struggles with her extreme indifference or dismissiveness.",
@@ -371,7 +384,14 @@ export const nafrat: Song = {
       "speaker": "Encore ABJ",
       "translation": "You interrupted/stopped me again.",
       "explanation": "Complaining about constant interference or nagging.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Jigre me bahe daaru, no bile",
+          "keyword": "Jigre",
+          "type": "Slang",
+          "meaning": "\"Jigre\" means courage or heart. So the line says they are drinking alcohol and have no bitterness."
+        }
+      ]
     },
     {
       "original": "Use meri jeb pe bharosa hai",
@@ -446,6 +466,12 @@ export const nafrat: Song = {
         {
           "word": "Aar paar",
           "type": "Idiom (From one side to the other/Extreme)"
+        },
+        {
+          "text": "Tere peeche teen-chaar diye maar waar",
+          "keyword": "Maar waar",
+          "type": "Slang",
+          "meaning": "\"Maar waar\" implies conflict, fighting, or taking risks for someone. 'Teen-chaar' suggests a small group or a few people."
         }
       ]
     },
@@ -458,6 +484,12 @@ export const nafrat: Song = {
         {
           "word": "Gang gang",
           "type": "Slang (Crew/Street-cred)"
+        },
+        {
+          "text": "Tu bhi maare meri kare pyar seedhe aar paar",
+          "keyword": "Aar paar",
+          "type": "Metaphor",
+          "meaning": "Means that the love and hurt goes right through them. No holding back."
         }
       ]
     },
@@ -466,7 +498,14 @@ export const nafrat: Song = {
       "speaker": "Encore ABJ",
       "translation": "Ayy SA, let's get it.",
       "explanation": "Shoutout to the producer to bring the energy back for the final chorus.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Launde saath to karu gang gang lekin laachaar",
+          "keyword": "Gang Gang",
+          "type": "Slang",
+          "meaning": "\"Gang gang\" refers to being with the crew/friends. 'Lachaar' means helpless/vulnerable. Even when surrounded by people, they still feel helpless."
+        }
+      ]
     },
     {
       "original": "Wo kare nafrat kabhi nahi sandeh",
@@ -544,5 +583,7 @@ export const nafrat: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Aggressive",
+  "summary": "\"Nafrat\" explores themes of animosity, betrayal, and the complex relationship between the artists and those around them. It delves into feelings of resentment, broken trust, and the struggle to navigate personal relationships amidst external pressures."
 };

@@ -4,14 +4,14 @@ export const namastute: Song = {
   "id": "namastute",
   "title": "Namastute",
   "slug": "namastute",
-  "album": "\u2018\u0928\u2019 (Mixtape)",
+  "album": "‘न’ (Mixtape)",
   "vibe": "Aggressive",
   "lyrics": [
     {
       "original": "Kalam jale, dard dukhe, marham bane",
       "speaker": "Encore ABJ",
       "translation": "The pen burns, the pain aches, it becomes the balm.",
-      "explanation": "Encore describes the process of writing lyrics as a form of therapy\u2014transforming his internal suffering into art that heals.",
+      "explanation": "Encore describes the process of writing lyrics as a form of therapy—transforming his internal suffering into art that heals.",
       "annotations": [
         {
           "keyword": "Kalam",
@@ -71,6 +71,12 @@ export const namastute: Song = {
         {
           "keyword": "Rakshas",
           "type": "Vocabulary (Demon)"
+        },
+        {
+          "text": "Hun main nahi devta kadachit kholun jab muh sab bole aaya rakshas",
+          "keyword": "Devta/Rakshas",
+          "type": "Metaphor",
+          "meaning": "They are not a god (devta), but when they open their mouth (rap), everyone says a demon (rakshas) has arrived. This suggests their lyrics are powerful, destructive, and perhaps unconventional."
         }
       ]
     },
@@ -83,6 +89,12 @@ export const namastute: Song = {
         {
           "keyword": "Plastic",
           "type": "Slang (Fake)"
+        },
+        {
+          "text": "Hun main nahi plastic, sunun bas Pac",
+          "keyword": "Pac",
+          "type": "Reference",
+          "meaning": "They are not fake (plastic) and only listen to Tupac Shakur, referencing a legendary and influential rapper known for his authenticity and social commentary."
         }
       ]
     },
@@ -105,7 +117,14 @@ export const namastute: Song = {
       "speaker": "Encore ABJ",
       "translation": "I gave a Ted Talk, they just watch TikTok.",
       "explanation": "A critique of the intellectual gap between his lyricism and the low-effort content consumed by the masses.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Di Ted Talk vo dekhe Tik Tok bas",
+          "keyword": "Ted Talk/Tik Tok",
+          "type": "Contrast",
+          "meaning": "Contrasting intellectual content (Ted Talk) with superficial entertainment (Tik Tok) to highlight the shallowness of their competitors."
+        }
+      ]
     },
     {
       "original": "(Teri thoot bigaad dunga)",
@@ -180,6 +199,12 @@ export const namastute: Song = {
         {
           "keyword": "Hafta",
           "type": "Slang (Weekly tax/extortion)"
+        },
+        {
+          "text": "Du mai tujhe hafta, Shanidan, chote baat meri maan",
+          "keyword": "Hafta/Shanidan",
+          "type": "Slang/Cultural",
+          "meaning": "'Hafta' is slang for extortion money or protection money. 'Shanidan' is a donation given to appease Shani. The line implies either you pay your dues (respect) to them, or give donations to appease Shani (god)."
         }
       ]
     },
@@ -263,13 +288,20 @@ export const namastute: Song = {
       "speaker": "Encore ABJ",
       "translation": "Tightened my own screws even without a screwdriver.",
       "explanation": "Metaphor for self-improvement and fixing his life through sheer will and no help.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Flyer pe MGK saath, kiya Lace Up",
+          "keyword": "MGK/Lace Up",
+          "type": "Reference",
+          "meaning": "They are referencing Machine Gun Kelly (MGK) and his mixtape 'Lace Up', implying they are at a similar level of success or recognition, having their name on flyers alongside established artists."
+        }
+      ]
     },
     {
       "original": "Flyer pe MGK saath, kiya Lace Up",
       "speaker": "Encore ABJ",
       "translation": "On the flyer with MGK, I 'Laced Up'.",
-      "explanation": "Seedhe Maut opened for Machine Gun Kelly in India. 'Lace Up' is MGK\u2019s famous slogan.",
+      "explanation": "Seedhe Maut opened for Machine Gun Kelly in India. 'Lace Up' is MGK’s famous slogan.",
       "annotations": [
         {
           "keyword": "Lace Up",
@@ -285,7 +317,7 @@ export const namastute: Song = {
       "annotations": []
     },
     {
-      "original": "Jaana hai jisko jaaye jaani don\u2019t (Wait up)",
+      "original": "Jaana hai jisko jaaye jaani don’t (Wait up)",
       "speaker": "Encore ABJ",
       "translation": "Whoever wants to leave can go, don't (Wait up).",
       "explanation": "He doesn't care about people leaving his circle or his life.",
@@ -324,6 +356,12 @@ export const namastute: Song = {
         {
           "keyword": "Peshkash",
           "type": "Vocabulary (Presentation)"
+        },
+        {
+          "text": "Naam sunke fat'ti Yakuza",
+          "keyword": "Yakuza",
+          "type": "Reference",
+          "meaning": "The Yakuza is a Japanese mafia. Their name is so fearsome that even the Yakuza would be intimidated."
         }
       ]
     },
@@ -339,14 +377,28 @@ export const namastute: Song = {
       "speaker": "Calm",
       "translation": "So I said calmly, 'Whoo-sa' (Psych).",
       "explanation": "'Whoo-sa' is a reference to the movie Bad Boys (breathing to calm down). 'Psych' reveals he is actually still aggressive.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Hunt ho jaaye bas jal jaayega choolah",
+          "keyword": "Choolah",
+          "type": "Metaphor",
+          "meaning": "If they get hunted (targeted), all that will happen is their opponent's kitchen (choolah) will burn down. The 'choolah' here symbolizes their source of sustenance or livelihood, which will be destroyed if they are challenged."
+        }
+      ]
     },
     {
       "original": "Naam sunke fat'ti Yakuza",
       "speaker": "Calm",
       "translation": "Hearing the name, even the Yakuza are scared.",
       "explanation": "Hyperbolic flex about the crew's fearsome reputation.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Michelin star chef Khanna, nuska dunga curry ka rukja",
+          "keyword": "Michelin star chef Khanna",
+          "type": "Reference",
+          "meaning": "Referencing Michelin-starred chef Vikas Khanna, suggesting they are masters of their craft (rap) and will provide a recipe (strategy) for success in their own way, like a special curry."
+        }
+      ]
     },
     {
       "original": "Haan nikle sabka jaloos aaj",
@@ -393,7 +445,14 @@ export const namastute: Song = {
       "speaker": "Calm",
       "translation": "We also know those petty ways.",
       "explanation": "They are aware of the 'dirty games' of the industry but choose not to play them.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Unse zyada vafaadaar gully ka kutta",
+          "keyword": "Gully ka kutta",
+          "type": "Metaphor",
+          "meaning": "A street dog is more loyal than these two-faced people. 'Gully ka kutta' is also a reference to Indian street culture."
+        }
+      ]
     },
     {
       "original": "Bichaare khush hain fodd ke phoonk bomb",
@@ -425,6 +484,12 @@ export const namastute: Song = {
         {
           "keyword": "Jalebi",
           "type": "Metaphor/Slang"
+        },
+        {
+          "text": "Ye chupe khaata, baap ka pension aadha",
+          "keyword": "Baap ka pension",
+          "type": "Social Commentary",
+          "meaning": "They are secretly spending their father's pension money. This criticizes those who are not self-reliant and depend on their parents' hard-earned money."
         }
       ]
     },
@@ -454,7 +519,14 @@ export const namastute: Song = {
       "speaker": "Calm",
       "translation": "They only have one bland trick: Tic-Tac-Toe.",
       "explanation": "'Zero-Kaata' is a simple child's game; he's saying their skills are basic and predictable.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Tera clout mera lund pe (Laude!)",
+          "keyword": "Clout",
+          "type": "Slang",
+          "meaning": "'Clout' refers to influence or fame. They're saying their opponent's clout means nothing to them, using a crude expression for emphasis."
+        }
+      ]
     },
     {
       "original": "Jo bole, \"Rap se paise kaise laayega?\"",
@@ -468,7 +540,14 @@ export const namastute: Song = {
       "speaker": "Calm",
       "translation": "My shoes are more expensive than their rent.",
       "explanation": "A direct flex regarding their financial success and status.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Seedhe Maut cheat code maarliya ratta",
+          "keyword": "Cheat code",
+          "type": "Metaphor",
+          "meaning": "They have found the cheat code (shortcut) to success in the rap game, implying they've mastered the formula while others struggle."
+        }
+      ]
     },
     {
       "original": "Ye chupe khaata, baap ka pension aadha",
@@ -482,7 +561,14 @@ export const namastute: Song = {
       "speaker": "Calm",
       "translation": "They have no real worries, they only know how to chew on their pens.",
       "explanation": "Implies they have no real-life struggle or actual songwriting ability.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ab jisko lalkaarna (Senpai!), humein to aajao kaksha",
+          "keyword": "Senpai/Kaksha",
+          "type": "Reference",
+          "meaning": "'Senpai' is a Japanese term for a senior or mentor. 'Kaksha' means classroom in Hindi. This is an invitation to challenge or battle them; come to their 'classroom' (realm) if you dare challenge the 'senpai'."
+        }
+      ]
     },
     {
       "original": "Khaali the bas hum dono thi lagi jab tabhi ni banta ab kisi ka haq jamaana",
@@ -563,5 +649,6 @@ export const namastute: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "summary": "\"Namastute\" is a boastful track where Seedhe Maut asserts their dominance in the Desi Hip Hop scene, dismissing their competition as inferior. They blend aggressive wordplay with cultural and philosophical references to solidify their position at the top."
 };

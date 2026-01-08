@@ -1,6 +1,9 @@
 import os
 import argparse
 import lyricsgenius
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Setup Genius API
 # The user needs a GENIUS_ACCESS_TOKEN env variable
@@ -27,14 +30,34 @@ def fetch_album_lyrics(album_name: str, artist_name: str = "Seedhe Maut"):
     os.makedirs(output_dir, exist_ok=True)
     
     for track in album.tracks:
-        song = genius.search_song(track.song.title, artist_name)
+        try:
+            # Handle different versions of lyricsgenius
+            if isinstance(track, tuple) and len(track) > 1:
+                track_obj = track[1]
+                if hasattr(track_obj, 'title'):
+                    title = track_obj.title
+                else:
+                    title = str(track_obj)
+            elif hasattr(track, 'song'):
+                title = track.song.title
+            elif hasattr(track, 'title'):
+                title = track.title
+            else:
+                title = str(track)
+                
+            print(f"Fetching: {title}...")
+            song = genius.search_song(title, artist_name)
+        except Exception as e:
+            print(f"Error fetching track: {e}")
+            continue
+
         if song:
             filename = f"{output_dir}/{song.title.lower().replace(' ', '_').replace('/', '-')}.txt"
             with open(filename, "w", encoding="utf-8") as f:
                 f.write(song.lyrics)
             print(f"Saved: {song.title}")
         else:
-            print(f"Could not find lyrics for: {track.song.title}")
+            print(f"Could not find lyrics for: {title}")
             
     print(f"\nAll lyrics saved to {output_dir}")
 

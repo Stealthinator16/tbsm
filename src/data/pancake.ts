@@ -241,7 +241,14 @@ export const pancake: Song = {
       "speaker": "Calm",
       "translation": "And how many fanpages should I block?",
       "explanation": "A humorous take on the overwhelming number of fan accounts or possibly obsessive fans.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Bawe chahiye rupees aur ab AP do",
+          "keyword": "Bawe",
+          "type": "Slang",
+          "meaning": "\"Bawe\" is a Delhi slang term for guys or friends. They need money (rupees) and AP (presumably another slang, or possibly a reference to a person named AP) should provide."
+        }
+      ]
     },
     {
       "original": "Suprabhat gotta let shit go",
@@ -252,6 +259,12 @@ export const pancake: Song = {
         {
           "keyword": "Suprabhat",
           "type": "Hindi (Good Morning)"
+        },
+        {
+          "text": "Halke me lena ni sharma aur negi ko",
+          "keyword": "Sharma aur Negi",
+          "type": "Reference",
+          "meaning": "Sharma and Negi are the two members of Seedhe Maut. They're warning against underestimating them."
         }
       ]
     },
@@ -276,14 +289,28 @@ export const pancake: Song = {
       "speaker": "Calm",
       "translation": "Don't take Sharma and Negi lightly.",
       "explanation": "Refers to the real names of the duo: Siddhant Sharma (Calm) and Abhijay Negi (Encore ABJ).",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Do dyaju gaye naini ko",
+          "keyword": "Dyaju",
+          "type": "Reference",
+          "meaning": "\"Dyaju\" seems to be a Kumaoni word that represents brother-in-law or male friend. \"Naini\" likely refers to Nainital. Implying some rappers are sent home packing to Nainital"
+        }
+      ]
     },
     {
       "original": "Khaake kuch rapper",
       "speaker": "Calm",
       "translation": "After 'eating' (outshining) some rappers...",
       "explanation": "Common hip-hop trope of 'consuming' or defeating competition.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Bal haiga sabu ka chacha ki gehri soch",
+          "keyword": "Bal haiga sabu ka chacha",
+          "type": "Slang",
+          "meaning": " Delhi slang indicating someone who tries to be overly smart or cunning but ultimately lacks depth, like a superficial understanding gained from a distant relative (chacha)."
+        }
+      ]
     },
     {
       "original": "Do dyaju gaye naini ko",
@@ -298,6 +325,12 @@ export const pancake: Song = {
         {
           "keyword": "Naini",
           "type": "Place (Nainital)"
+        },
+        {
+          "text": "Kare ye me me par asal me haini goat",
+          "keyword": "GOAT",
+          "type": "Slang",
+          "meaning": "\"GOAT\" stands for Greatest Of All Time. They're saying others try to act like they are the best, but they are not."
         }
       ]
     },
@@ -482,7 +515,14 @@ export const pancake: Song = {
       "speaker": "Encore ABJ",
       "translation": "She just wants quality time with me.",
       "explanation": "Encore addresses the struggle of balancing a relationship with his career.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Launde hai kehete ye kalam hai aushadi",
+          "keyword": "Kalam",
+          "type": "Metaphor",
+          "meaning": "\"Kalam\" meaning pen, used as metonymy representing their writing/lyrics, is referred to as medicine because of its profound impact on listeners."
+        }
+      ]
     },
     {
       "original": "Par mai busy hu I gotta be",
@@ -552,6 +592,12 @@ export const pancake: Song = {
         {
           "keyword": "Jigra",
           "type": "Slang (Courage/Heart)"
+        },
+        {
+          "text": "Mai girta ni bc chalaang marta hu",
+          "keyword": "bc",
+          "type": "Slang",
+          "meaning": "Abbreviation for \"behenchod\", a common abusive slang in India. Emphasizes the defiance of failure."
         }
       ]
     },
@@ -757,5 +803,7 @@ export const pancake: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Aggressive",
+  "summary": "\"Pancake\" is a peek into the daily grind of Seedhe Maut, highlighting their work ethic, struggles with maintaining relationships amidst their hustle, and a general disdain for those they deem unworthy. It's a declaration of their success and a warning to those who underestimate them."
 };

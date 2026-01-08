@@ -932,6 +932,6 @@ export const class_sikh_maut: Song = {
       "Seedhe Maut"
     ]
   },
-  "vibe": "Confrontational",
+  "vibe": "Aggressive",
   "summary": "\"Class-Sikh Maut\" is a hard-hitting track where Seedhe Maut assert their dominance in the Desi Hip Hop scene, blending introspective observations with aggressive boasts about their skills and success. They critique the industry and other rappers while solidifying their unique position."
 };

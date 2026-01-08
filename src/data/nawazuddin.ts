@@ -4,7 +4,7 @@ export const nawazuddin: Song = {
   "id": "nawazuddin",
   "title": "Nawazuddin",
   "slug": "nawazuddin",
-  "album": "\u2018\u0928\u2019 (Mixtape)",
+  "album": "‘न’ (Mixtape)",
   "releaseDate": "",
   "lyrics": [
     {
@@ -85,6 +85,12 @@ export const nawazuddin: Song = {
         {
           "keyword": "Loha lena",
           "type": "Idiom"
+        },
+        {
+          "text": "Loha le laundo se jaise luhar",
+          "keyword": "Lohar",
+          "type": "Simile",
+          "meaning": "Comparing themselves to a blacksmith (lohar), implying they extract strength or value from their peers, like a blacksmith works with iron."
         }
       ]
     },
@@ -96,7 +102,7 @@ export const nawazuddin: Song = {
       "annotations": []
     },
     {
-      "original": "Usne suna aur vo boli \u201cKYA?!!\u201d",
+      "original": "Usne suna aur vo boli “KYA?!!”",
       "speaker": "Calm & Encore ABJ",
       "translation": "She heard it and she said 'WHAT?!!'",
       "explanation": "A reaction to their status or a surprising statement they made.",
@@ -111,6 +117,12 @@ export const nawazuddin: Song = {
         {
           "keyword": "Mamooli",
           "type": "Theme"
+        },
+        {
+          "text": "Usne suna aur vo boli “KYA?!!”",
+          "keyword": "KYA",
+          "type": "Slang",
+          "meaning": "Hindi slang meaning 'What?!', expressing surprise or disbelief."
         }
       ]
     },
@@ -119,7 +131,14 @@ export const nawazuddin: Song = {
       "speaker": "Calm & Encore ABJ",
       "translation": "Ordinary.",
       "explanation": "Ad-lib emphasizing the word 'ordinary'.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Kya lagta hu banda me mamooli?",
+          "keyword": "Mamooli",
+          "type": "Slang",
+          "meaning": "Hindi slang for 'ordinary' or 'insignificant.' The central theme revolves around defying this label."
+        }
+      ]
     },
     {
       "original": "Vo soche ke bande me maamooli",
@@ -156,6 +175,12 @@ export const nawazuddin: Song = {
         {
           "keyword": "Ghante se",
           "type": "Slang"
+        },
+        {
+          "text": "To aati hai dhamkiya kanooni",
+          "keyword": "Dhamkiya Kanooni",
+          "type": "Reference",
+          "meaning": "They are getting legal threats because of their art, indicating their rising influence and potentially controversial content."
         }
       ]
     },
@@ -171,14 +196,28 @@ export const nawazuddin: Song = {
       "speaker": "Calm & Encore ABJ",
       "translation": "When arteries get scraped.",
       "explanation": "A metaphor for pouring out raw, painful emotions into their music.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Jab chilti hai arteries",
+          "keyword": "Chilti hai arteries",
+          "type": "Metaphor",
+          "meaning": "A violent image implying their words or actions are so impactful that they cause severe damage."
+        }
+      ]
     },
     {
       "original": "Launde banare monopoly",
       "speaker": "Calm & Encore ABJ",
       "translation": "The boys are building a monopoly.",
       "explanation": "Seedhe Maut is dominating the DHH scene without competition.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Launde banare monopoly",
+          "keyword": "Monopoly",
+          "type": "Metaphor",
+          "meaning": "Asserting that they are dominating the rap scene and establishing a monopoly-like control."
+        }
+      ]
     },
     {
       "original": "Khareedu ghar inke fir get the fuck off my property",
@@ -202,7 +241,7 @@ export const nawazuddin: Song = {
       "annotations": []
     },
     {
-      "original": "Mujhe ghoort\u0435 ni bahar",
+      "original": "Mujhe ghoortе ni bahar",
       "speaker": "Calm",
       "translation": "They wouldn't stare at me outside.",
       "explanation": "Referring to being recognized in public.",
@@ -216,7 +255,7 @@ export const nawazuddin: Song = {
       "annotations": []
     },
     {
-      "original": "Mera tax return aata firr \u0435k peti se bhi kamm",
+      "original": "Mera tax return aata firr еk peti se bhi kamm",
       "speaker": "Calm",
       "translation": "My tax return would have been less than a 'peti' (1 Lakh).",
       "explanation": "Flexing his income; 'Peti' is slang for 1 Lakh rupees.",
@@ -232,7 +271,14 @@ export const nawazuddin: Song = {
       "speaker": "Calm",
       "translation": "My head doesn't spin (I don't lose my cool).",
       "explanation": "Remaining grounded despite the chaos of fame.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Mera tax return aata firr еk peti se bhi kamm",
+          "keyword": "еk peti",
+          "type": "Slang",
+          "meaning": "Hindi slang for a box, referring to a considerable amount of money (usually more than 100,000 INR). His tax return is LESS than that, mocking those who believe he's rich."
+        }
+      ]
     },
     {
       "original": "Shayad bhoolta ni gharr",
@@ -272,14 +318,28 @@ export const nawazuddin: Song = {
       "speaker": "Calm",
       "translation": "I seem ordinary to her while I write this verse in a pool.",
       "explanation": "Contrast between her low perception of him and his actual luxury life.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Usse lagu me mamuli likhu pool me ye verse",
+          "keyword": "Mamuli",
+          "type": "Slang",
+          "meaning": "Again reiterating the theme of being seen as ordinary but writing powerful verses even in luxurious settings (the pool)."
+        }
+      ]
     },
     {
       "original": "Jab",
       "speaker": "Calm",
       "translation": "When",
       "explanation": "Lead-in to the next line.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Girenge daat tees",
+          "keyword": "Daat Tees",
+          "type": "Slang",
+          "meaning": "All 32 teeth will fall out. A threat of violence."
+        }
+      ]
     },
     {
       "original": "Girenge daat tees",
@@ -293,7 +353,14 @@ export const nawazuddin: Song = {
       "speaker": "Calm",
       "translation": "I'll be found in Maldives.",
       "explanation": "Enjoying success and vacations while enemies suffer.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ye sui poore waqt rahe chaar bees pe par",
+          "keyword": "Chaar bees",
+          "type": "Slang",
+          "meaning": "Refers to Section 420 of the Indian Penal Code, dealing with fraud/cheating. Implying someone is always fraudulent or deceptive."
+        }
+      ]
     },
     {
       "original": "Ye sui poore waqt rahe chaar bees pe par",
@@ -304,6 +371,12 @@ export const nawazuddin: Song = {
         {
           "keyword": "Chaar bees",
           "type": "Slang"
+        },
+        {
+          "text": "Khali maal kheechte ni dono khaal kheechte hain dushmano ke lahu se ye zabaan seenchte hain",
+          "keyword": "Khaal Kheechte hain",
+          "type": "Metaphor",
+          "meaning": "They don't just consume drugs, they 'peel the skin' metaphorically meaning they inflict severe damage and humiliation on their enemies and nourish their words with the blood of their enemies."
         }
       ]
     },
@@ -311,8 +384,15 @@ export const nawazuddin: Song = {
       "original": "Khali maal kheechte ni dono khaal kheechte hain dushmano ke lahu se ye zabaan seenchte hain",
       "speaker": "Calm",
       "translation": "We don't just pull joints, we pull skin; we irrigate this tongue with the blood of enemies.",
-      "explanation": "Hyper-violent imagery to show they are more than just stoners\u2014they are fierce lyricists.",
-      "annotations": []
+      "explanation": "Hyper-violent imagery to show they are more than just stoners—they are fierce lyricists.",
+      "annotations": [
+        {
+          "text": "Bakayarou tujhe Mamuli lagu me kaha se bata kuch kara tabhi to launde puraane bhi chide bada lu maze me kabhi kabaar ni pasand inhe ye zara me chada seedi to peeche se dase",
+          "keyword": "Bakayarou",
+          "type": "Slang",
+          "meaning": "A Japanese word (bakayaro) meaning idiot or fool."
+        }
+      ]
     },
     {
       "original": "Bakayarou tujhe Mamuli lagu me kaha se bata kuch kara tabhi to launde puraane bhi chide bada lu maze me kabhi kabaar ni pasand inhe ye zara me chada seedi to peeche se dase",
@@ -375,6 +455,12 @@ export const nawazuddin: Song = {
         {
           "keyword": "Vidhaayak",
           "type": "Metaphor"
+        },
+        {
+          "text": "Nahi chaapa hota article ek gq ne humaara",
+          "keyword": "GQ",
+          "type": "Reference",
+          "meaning": "Referring to their feature in GQ Magazine, signifying their recognition and success in the mainstream media."
         }
       ]
     },
@@ -383,7 +469,14 @@ export const nawazuddin: Song = {
       "speaker": "Calm",
       "translation": "Their faces look like a movie worth watching.",
       "explanation": "The shock or jealousy on the faces of others is entertaining to him.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Rap game me hain do vidhaayak",
+          "keyword": "Vidhaayak",
+          "type": "Metaphor",
+          "meaning": "Hindi for 'legislator' or 'creator.' They are the creators/legislators of the rap game."
+        }
+      ]
     },
     {
       "original": "Aur aisi lagi bhook hume ki chati poori plate apni par aake karu khaana teri bhi Plate se gayaab",
@@ -411,7 +504,14 @@ export const nawazuddin: Song = {
       "speaker": "Encore ABJ",
       "translation": "I said you're too talkative.",
       "explanation": "Dismissing her opinion as mere chatter.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Seedhe maut blah",
+          "keyword": "Seedhe Maut",
+          "type": "Signature",
+          "meaning": "Their signature tag."
+        }
+      ]
     },
     {
       "original": "Karne ki mere ko judge",
@@ -432,7 +532,14 @@ export const nawazuddin: Song = {
       "speaker": "Encore ABJ",
       "translation": "I proved my capability through art.",
       "explanation": "He lets his work speak for his talent.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Karne ki mere ko judge",
+          "keyword": "Judge",
+          "type": "Slang",
+          "meaning": "Slang term for critically evaluating or assessing someone."
+        }
+      ]
     },
     {
       "original": "Jaise nawazuddin",
@@ -455,6 +562,12 @@ export const nawazuddin: Song = {
         {
           "keyword": "Ganguly",
           "type": "Cricket Reference"
+        },
+        {
+          "text": "Jaise nawazuddin",
+          "keyword": "Nawazuddin",
+          "type": "Reference",
+          "meaning": "Referring to Nawazuddin Siddiqui, the Bollywood actor known for his unconventional looks and success after initial struggles, drawing a parallel to their own journey."
         }
       ]
     },
@@ -463,7 +576,20 @@ export const nawazuddin: Song = {
       "speaker": "Encore ABJ",
       "translation": "Switch up.",
       "explanation": "Indicates a change in flow or topic.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Vo apni T shirt utaare ghumaari, vo ganguly",
+          "keyword": "Ganguly",
+          "type": "Reference",
+          "meaning": "A reference to Sourav Ganguly, former captain of Indian cricket team. It is an allusion to an iconic scene where he took off his t-shirt to celebrate a win."
+        },
+        {
+          "text": "Vo apni T shirt utaare ghumaari",
+          "keyword": "Ghumaari",
+          "type": "Slang",
+          "meaning": "Hindi slang for being arrogant or cocky. The girl is arrogant."
+        }
+      ]
     },
     {
       "original": "Abhi yahi thi ab vo kaha pe gai",
@@ -503,7 +629,14 @@ export const nawazuddin: Song = {
       "speaker": "Encore ABJ",
       "translation": "She's driving the Maruti after lying to her dad.",
       "explanation": "Depicting the classic Indian middle-class rebellion.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Haseen shakal hai paaro si",
+          "keyword": "Paaro",
+          "type": "Reference",
+          "meaning": "Referring to 'Paro' from the classic Indian movie Devdas, symbolizing beauty and perhaps tragedy or unrequited love."
+        }
+      ]
     },
     {
       "original": "Hai figure jaise nashpati aur dress peheni jamuni (uhh)",
@@ -528,6 +661,12 @@ export const nawazuddin: Song = {
         {
           "keyword": "Bhaw khana",
           "type": "Slang"
+        },
+        {
+          "text": "Khari itna bhaw use khud bhi ni pachra",
+          "keyword": "Bhaw",
+          "type": "Slang",
+          "meaning": "Slang for 'attitude' or 'airs.' The girl acts too pricey."
         }
       ]
     },
@@ -540,6 +679,12 @@ export const nawazuddin: Song = {
         {
           "keyword": "Dhappa",
           "type": "Game Slang"
+        },
+        {
+          "text": "Chikni mitti bolke karti hai bagal se dhappa",
+          "keyword": "Chikni mitti",
+          "type": "Slang",
+          "meaning": "Slang for someone who is slippery or hard to get hold of; someone who can't be trusted."
         }
       ]
     },
@@ -566,6 +711,12 @@ export const nawazuddin: Song = {
         {
           "keyword": "Ghar ka bhedi",
           "type": "Mythological Idiom"
+        },
+        {
+          "text": "Dhata lanka ghr ka bhedi",
+          "keyword": "Dhata lanka ghr ka bhedi",
+          "type": "Reference",
+          "meaning": "Allusion to the epic Ramayana. Ravana lost Lanka because of a traitor in his own house. Someone who betrays from within."
         }
       ]
     },
@@ -581,7 +732,14 @@ export const nawazuddin: Song = {
       "speaker": "Encore ABJ",
       "translation": "The public gives more love than what I asked from you.",
       "explanation": "Fan love outweighs the validation he sought from a romantic interest.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Dil pe mara tala ki sada liya bannd haweli",
+          "keyword": "Bannd haweli",
+          "type": "Metaphor",
+          "meaning": "Metaphor comparing his heart to a locked and abandoned mansion, suggesting emotional isolation and guardedness."
+        }
+      ]
     },
     {
       "original": "Timepass mai ni kabhi bola use banja meri",
@@ -602,7 +760,14 @@ export const nawazuddin: Song = {
       "speaker": "Encore ABJ",
       "translation": "I'm not serious; if it's just a 'trip', tell me beforehand.",
       "explanation": "Setting boundaries for their relationship.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Par ab vo chep jaise fevicol",
+          "keyword": "Fevicol",
+          "type": "Reference",
+          "meaning": "Fevicol is a popular brand of glue in India. She's sticking to him like glue."
+        }
+      ]
     },
     {
       "original": "20 pe mamooli, 25 pe i have it all",
@@ -682,7 +847,7 @@ export const nawazuddin: Song = {
       "annotations": []
     },
     {
-      "original": "Usne suna aur vo boli \u201cKYA?!!\u201d",
+      "original": "Usne suna aur vo boli “KYA?!!”",
       "speaker": "Calm & Encore ABJ",
       "translation": "She heard it and said 'WHAT?!!'",
       "explanation": "Hook repeat.",
@@ -764,5 +929,7 @@ export const nawazuddin: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Aggressive",
+  "summary": "\"Nawazuddin\" is a boastful track where Seedhe Maut asserts their dominance and rejects the notion of being ordinary. They showcase their lyrical prowess and dismiss those who underestimate them, drawing a parallel to Nawazuddin Siddiqui's rise to fame."
 };

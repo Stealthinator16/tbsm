@@ -6,7 +6,7 @@ export const dum_ghutte: Song = {
   "slug": "dum-ghutte",
   "album": "Nayaab",
   "releaseDate": "",
-  "vibe": "Depressive",
+  "vibe": "Introspective",
   "lyrics": [
     {
       "original": "Sez on the beat boy!",

@@ -4,9 +4,9 @@ export const no_enema: Song = {
   "id": "no_enema",
   "title": "No Enema",
   "slug": "no-enema",
-  "album": "\u2018\u0928\u2019 (Mixtape)",
+  "album": "‘न’ (Mixtape)",
   "releaseDate": "",
-  "vibe": "Chill",
+  "vibe": "Hype",
   "lyrics": [
     {
       "original": "Asaani se toote ye Papad hai bagal me ebow to jote bhi chaalu hai",
@@ -57,6 +57,12 @@ export const no_enema: Song = {
         {
           "keyword": "khamba",
           "type": "slang"
+        },
+        {
+          "text": "Tu maare kharrate me maaru karate kick Mo pe stash hai Uday pe khamba",
+          "keyword": "Uday pe khamba",
+          "type": "Reference",
+          "meaning": "Potentially refers to Uday Shetty from the Bollywood film 'Welcome', known for his gangster persona. 'Khamba' means a bottle of alcohol, so implies drinking with the persona"
         }
       ]
     },
@@ -77,7 +83,7 @@ export const no_enema: Song = {
     {
       "original": "Akkad bakkad bambey yaha ni lena pangey khaali peeli kaale peele hoge peele khade nake pe aur pehle peeli mene ooo",
       "speaker": "Calm",
-      "translation": "Don't mess with us here; for no reason, the cops (black and yellow) will catch you at the checkpoint, and I\u2019ve already smoked/drank up.",
+      "translation": "Don't mess with us here; for no reason, the cops (black and yellow) will catch you at the checkpoint, and I’ve already smoked/drank up.",
       "explanation": "Uses a nursery rhyme intro to transition into a warning about 'kaale peele' (cops in Delhi/Mumbai) at the 'naka' (checkpoint).",
       "annotations": [
         {
@@ -87,6 +93,12 @@ export const no_enema: Song = {
         {
           "keyword": "nake",
           "type": "slang"
+        },
+        {
+          "text": "Akkad bakkad bambey yaha ni lena pangey khaali peeli kaale peele hoge peele khade nake pe aur pehle peeli mene ooo",
+          "keyword": "Akkad Bakkad Bambey Bo",
+          "type": "Cultural",
+          "meaning": "A reference to a children's counting rhyme, often used to make a random decision. Here, it's juxtaposed with a warning against causing trouble. 'Peele khade nake pe' is referring to standing at police checkpoints while drunk."
         }
       ]
     },
@@ -201,7 +213,20 @@ export const no_enema: Song = {
       "speaker": "Calm",
       "translation": "If you get them too high, they get paranoid and ask me where the cops are.",
       "explanation": "Mocking people who can't handle their smoke and get anxious about the law.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Dilli ghustei tera bhai plug",
+          "keyword": "Plug",
+          "type": "Slang",
+          "meaning": "Means a connection or source for something, often drugs. In this context, it means the rapper is well-connected in Delhi."
+        },
+        {
+          "text": "Aankhein laal meri cyclops",
+          "keyword": "Cyclops",
+          "type": "Reference",
+          "meaning": "Referencing Cyclops from X-Men, known for his red laser beam eyes. The red eyes imply being high from smoking."
+        }
+      ]
     },
     {
       "original": "Seedhi baat hai inki baato pe ruchi na kisiko to aake yaha bhund matt chaat",
@@ -224,6 +249,12 @@ export const no_enema: Song = {
         {
           "keyword": "jhatu",
           "type": "slang"
+        },
+        {
+          "text": "Seedhi baat hai inki baato pe ruchi na kisiko to aake yaha bhund matt chaat",
+          "keyword": "Bhund matt chaat",
+          "type": "Slang",
+          "meaning": "A very vulgar slang term meaning 'don't be a kiss-ass' or 'don't try to suck up'. Used to express strong disapproval."
         }
       ]
     },
@@ -300,7 +331,14 @@ export const no_enema: Song = {
       "speaker": "Ebow",
       "translation": "My composure/sang-froid just gets colder.",
       "explanation": "'Sang Froid' means calmness under pressure; Ebow is becoming more detached and ruthless.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Hare ram harkat aflatoon",
+          "keyword": "Aflatoon",
+          "type": "Slang",
+          "meaning": "Means someone is extremely talented, unique, or exceptional. 'Hare Ram' is added to emphasize the greatness."
+        }
+      ]
     },
     {
       "original": "2, 2 Chip all on my shoulder",
@@ -317,7 +355,7 @@ export const no_enema: Song = {
       "annotations": []
     },
     {
-      "original": "I ain\u2019t tryna talk shit out this ain\u2019t Oprah",
+      "original": "I ain’t tryna talk shit out this ain’t Oprah",
       "speaker": "Ebow",
       "translation": "I'm not looking for a heart-to-heart; this isn't an Oprah interview.",
       "explanation": "He prefers action or violence over talking through problems like a talk show.",
@@ -338,28 +376,28 @@ export const no_enema: Song = {
       "annotations": []
     },
     {
-      "original": "Thinkin that we\u2019d let it slide Roller coaster",
+      "original": "Thinkin that we’d let it slide Roller coaster",
       "speaker": "Ebow",
       "translation": "Thinking we'd let it pass? It's a wild ride.",
       "explanation": "Warning that there will be ups and downs (consequences) for those who cross them.",
       "annotations": []
     },
     {
-      "original": "Ain\u2019t too many got hardcore like me",
+      "original": "Ain’t too many got hardcore like me",
       "speaker": "Ebow",
       "translation": "Not many are as tough or authentic as I am.",
       "explanation": "Asserting his 'hardcore' credentials in the rap game.",
       "annotations": []
     },
     {
-      "original": "Thinkin\u2019 I\u2019m a give it to em that\u2019s a Doner",
+      "original": "Thinkin’ I’m a give it to em that’s a Doner",
       "speaker": "Ebow",
       "translation": "Thinking I'll serve it to them? That's a 'Doner' (kebab/done).",
       "explanation": "A play on 'Doner Kebab' and 'Done for'.",
       "annotations": []
     },
     {
-      "original": "Think I\u2019m a keep my eye locked on a bag",
+      "original": "Think I’m a keep my eye locked on a bag",
       "speaker": "Ebow",
       "translation": "I'll keep my focus on the money.",
       "explanation": "'The bag' is slang for money or financial goals.",
@@ -384,7 +422,14 @@ export const no_enema: Song = {
       "speaker": "Ebow",
       "translation": "Slice through like a guillotine.",
       "explanation": "Using sharp imagery to describe his lyrical cutting power.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "You man must be stuck on that Coca",
+          "keyword": "Coca",
+          "type": "Slang",
+          "meaning": "Referring to cocaine or the lifestyle associated with cocaine use."
+        }
+      ]
     },
     {
       "original": "Your demeanour Idi Amin",
@@ -398,14 +443,28 @@ export const no_enema: Song = {
       "speaker": "Ebow",
       "translation": "You'll get kicked out/brushed off like in the song Billie Jean.",
       "explanation": "Referencing the Michael Jackson lyric 'The kid is not my son'.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ain’t too many got hardcore like me",
+          "keyword": "hardcore",
+          "type": "Slang",
+          "meaning": "Referring to toughness and experience."
+        }
+      ]
     },
     {
       "original": "I live the dream, I make moves I came with the team",
       "speaker": "Ebow",
       "translation": "I'm living the life, making progress with my crew.",
       "explanation": "Emphasizing loyalty and success.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Thinkin’ I’m a give it to em that’s a Doner",
+          "keyword": "Doner",
+          "type": "Slang",
+          "meaning": "A doner kebab - commonly used in the UK to mean a fool."
+        }
+      ]
     },
     {
       "original": "Flow for days like a river stream",
@@ -419,7 +478,14 @@ export const no_enema: Song = {
       "speaker": "Ebow",
       "translation": "Those guys act clumsy and foolish like Mr. Bean.",
       "explanation": "Insulting the coordination or intelligence of others.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Til I find me that Lisa that Mona",
+          "keyword": "Lisa that Mona",
+          "type": "Reference",
+          "meaning": "Implies finding two valuable things like the famous artworks Lisa and Mona Lisa."
+        }
+      ]
     },
     {
       "original": "Nowadays, I twist the green to medicate",
@@ -429,14 +495,14 @@ export const no_enema: Song = {
       "annotations": []
     },
     {
-      "original": "But it\u2019s hard to levitate while I bear the weight",
+      "original": "But it’s hard to levitate while I bear the weight",
       "speaker": "Ebow",
       "translation": "It's hard to feel high/free while carrying heavy burdens.",
       "explanation": "The struggle between seeking escapism and dealing with life's responsibilities.",
       "annotations": []
     },
     {
-      "original": "De- Glare the hate of these brers that\u2019s fake",
+      "original": "De- Glare the hate of these brers that’s fake",
       "speaker": "Ebow",
       "translation": "Ignore the hateful stares of these fake brothers.",
       "explanation": "'Brer' is London slang for 'brother' or 'man'.",
@@ -444,25 +510,38 @@ export const no_enema: Song = {
         {
           "keyword": "brers",
           "type": "slang"
+        },
+        {
+          "text": "You get turfed just like Billie Jean",
+          "keyword": "Turfed",
+          "type": "Slang",
+          "meaning": "means to be removed or kicked out and Billie Jean referring to the song is a Michael Jackson reference."
         }
       ]
     },
     {
-      "original": "And won\u2019t share the plat, or share the take",
+      "original": "And won’t share the plat, or share the take",
       "speaker": "Ebow",
       "translation": "They won't share the platform or the earnings.",
       "explanation": "Complaining about gatekeepers or greedy people in the industry.",
       "annotations": []
     },
     {
-      "original": "That\u2019s a move I dare you make",
+      "original": "That’s a move I dare you make",
       "speaker": "Ebow",
       "translation": "I dare you to try that move.",
       "explanation": "A challenge to his adversaries.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Flow for days like a river stream",
+          "keyword": "Flow",
+          "type": "Metaphor",
+          "meaning": "Flow, in hip-hop context, refers to the rhythm and delivery of the rap. Here, it's being compared to a river stream to show the rapper's consistency and skill."
+        }
+      ]
     },
     {
-      "original": "Yam ya food and i\u2019ll flare the place",
+      "original": "Yam ya food and i’ll flare the place",
       "speaker": "Ebow",
       "translation": "Eat your food (steal your sustenance) and I'll light the place up.",
       "explanation": "'Yam' is UK slang for eating; 'flare' suggests shooting or burning down.",
@@ -474,14 +553,14 @@ export const no_enema: Song = {
       ]
     },
     {
-      "original": "Trapped in room there\u2019s no air to waste",
+      "original": "Trapped in room there’s no air to waste",
       "speaker": "Ebow",
       "translation": "Trapped in a room with no air to spare.",
       "explanation": "A metaphor for a high-pressure, suffocating situation.",
       "annotations": []
     },
     {
-      "original": "Besides I\u2019m that goon you don\u2019t dare to chase",
+      "original": "Besides I’m that goon you don’t dare to chase",
       "speaker": "Ebow",
       "translation": "Moreover, I'm the kind of guy you shouldn't pursue.",
       "explanation": "Warning others not to come after him.",
@@ -495,7 +574,7 @@ export const no_enema: Song = {
       "annotations": []
     },
     {
-      "original": "It\u2019s all clear I\u2019m that good",
+      "original": "It’s all clear I’m that good",
       "speaker": "Ebow",
       "translation": "It's obvious that I'm this skilled.",
       "explanation": "Confidence in his talent.",
@@ -600,7 +679,14 @@ export const no_enema: Song = {
       "speaker": "Encore ABJ",
       "translation": "Hunger like Krishna (for butter), flow as smooth as butter.",
       "explanation": "A play on Lord Krishna's love for butter ('makhkhan') to describe his smooth rapping style.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Khule jab thoot to zeus bhi moot deta",
+          "keyword": "Zeus",
+          "type": "Reference",
+          "meaning": "Zeus refers to the king of gods from Greek mythology, means the rapper's words are very powerful and that even Zeus would be scared of him."
+        }
+      ]
     },
     {
       "original": "Trap gang saath puri satsang",
@@ -619,7 +705,14 @@ export const no_enema: Song = {
       "speaker": "Encore ABJ",
       "translation": "The father is worth 100k, not some random guy named Lakhan.",
       "explanation": "Possibly a reference to his earnings or status vs. average people.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Pare hatt loot pe choot mai ni sehta",
+          "keyword": "loot pe choot",
+          "type": "Slang",
+          "meaning": "Means he's against betrayal."
+        }
+      ]
     },
     {
       "original": "Hi ram ye log hai ya lassan",
@@ -652,7 +745,20 @@ export const no_enema: Song = {
       "speaker": "Encore ABJ",
       "translation": "Song drops and everyone runs away crying.",
       "explanation": "'Pee-pee' refers to the sound of whimpering or small-time noises.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Bhook jaise krishna, flow jaise makhkhann",
+          "keyword": "Krishna",
+          "type": "Reference",
+          "meaning": "Means his hunger for success is like Krishna's craving. Also refers to the Hindu god."
+        },
+        {
+          "text": "Bhook jaise krishna, flow jaise makhkhann",
+          "keyword": "Makhkhann",
+          "type": "Metaphor",
+          "meaning": "Flow is compared to butter which means smooth and effortless"
+        }
+      ]
     },
     {
       "original": "Fruity flow bite Kare leech jaise leechi",
@@ -715,7 +821,14 @@ export const no_enema: Song = {
       "speaker": "Encore ABJ",
       "translation": "Don't cling to me.",
       "explanation": "Warning people not to be 'chipku' (clingy) or try to use his fame.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Liya tune teer hi",
+          "keyword": "Teer",
+          "type": "Metaphor",
+          "meaning": "Means that they took a risk by involving with him."
+        }
+      ]
     },
     {
       "original": "Sardard yaha 56 hai boss",
@@ -736,7 +849,14 @@ export const no_enema: Song = {
       "speaker": "Encore ABJ",
       "translation": "Graffiti with a pen on paper pages, boss.",
       "explanation": "Comparing his lyricism to complex and vibrant street art.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Lagti apsara si maa chudae Kiki",
+          "keyword": "apsara",
+          "type": "Reference",
+          "meaning": "Apsara is a celestial being, this line refers to how beautiful she is and then the person doesn't care."
+        }
+      ]
     },
     {
       "original": "Kissani ni Kari par haiga yaha bhatera sauce",
@@ -855,7 +975,14 @@ export const no_enema: Song = {
       "speaker": "Chorus",
       "translation": "Big talk like an extraordinary genius.",
       "explanation": "The signature Seedhe Maut aura.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Gayab tameez (jadoodar)",
+          "keyword": "jadoodar",
+          "type": "Slang",
+          "meaning": "means magical"
+        }
+      ]
     },
     {
       "original": "Blackout blackout blackout",
@@ -900,7 +1027,7 @@ export const no_enema: Song = {
       "annotations": []
     },
     {
-      "original": "Back on the ends for a minute then I\u2019m back out",
+      "original": "Back on the ends for a minute then I’m back out",
       "speaker": "PAV4N",
       "translation": "Back in the neighborhood for a bit, then leaving again.",
       "explanation": "'The ends' is UK slang for one's neighborhood.",
@@ -948,7 +1075,7 @@ export const no_enema: Song = {
       "original": "Count dough in the ricks no extravaganza",
       "speaker": "PAV4N",
       "translation": "Counting money in a rickshaw, no need for fancy displays.",
-      "explanation": "A grounded image of wealth in India\u2014money in an auto-rickshaw.",
+      "explanation": "A grounded image of wealth in India—money in an auto-rickshaw.",
       "annotations": []
     },
     {
@@ -959,18 +1086,32 @@ export const no_enema: Song = {
       "annotations": []
     },
     {
-      "original": "Now I\u2019m on the Sealink tryna holler at Nandini",
+      "original": "Now I’m on the Sealink tryna holler at Nandini",
       "speaker": "PAV4N",
       "translation": "Now I'm on the Bandra-Worli Sea Link trying to talk to Nandini.",
       "explanation": "A classic Mumbai vibe; cruising the Sea Link and flirting.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Mawhem ponch-ke, Switch to the padmini",
+          "keyword": "Padmini",
+          "type": "Reference",
+          "meaning": "Padmini refers to the Premier Padmini car, a popular car in Mumbai during the 80s and 90s. It shows the shift in status/ride."
+        }
+      ]
     },
     {
       "original": "Bollywood gyal wanna know so they @ttin me",
       "speaker": "PAV4N",
       "translation": "Bollywood girls are curious, so they are mentioning me on social media.",
       "explanation": "Claiming attention from mainstream celebrities.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Now I’m on the Sealink tryna holler at Nandini",
+          "keyword": "Sealink",
+          "type": "Reference",
+          "meaning": "The Bandra-Worli Sea Link in Mumbai, showing the rise in his lifestyle."
+        }
+      ]
     },
     {
       "original": "Hit em with the like got the follow back casually",
@@ -994,14 +1135,21 @@ export const no_enema: Song = {
       "annotations": []
     },
     {
-      "original": "I\u2019m headed to back to lower Parel",
+      "original": "I’m headed to back to lower Parel",
       "speaker": "PAV4N",
       "translation": "I'm heading back to Lower Parel.",
       "explanation": "A commercial/nightlife hub in Mumbai.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Kam was like ney yaar tel her Go to hell",
+          "keyword": "ney yaar tel her Go to hell",
+          "type": "Slang",
+          "meaning": "Means he's not interested."
+        }
+      ]
     },
     {
-      "original": "Got my ting shotgun strappin\u2019 the L..",
+      "original": "Got my ting shotgun strappin’ the L..",
       "speaker": "PAV4N",
       "translation": "Got my girl in the passenger seat rolling a large joint (L).",
       "explanation": "'L' refers to an L-shaped joint, which is extra large.",
@@ -1024,7 +1172,14 @@ export const no_enema: Song = {
       "speaker": "PAV4N",
       "translation": "Tell me the location.",
       "explanation": "Asking for coordinates for a meet-up.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Got my ting shotgun strappin’ the L..",
+          "keyword": "Shotgun",
+          "type": "Slang",
+          "meaning": "Means girlfriend is ready with the weapon for defense"
+        }
+      ]
     },
     {
       "original": "Button dhubao",
@@ -1067,7 +1222,7 @@ export const no_enema: Song = {
       "annotations": []
     },
     {
-      "original": "\u2019undher tho ao\u2019",
+      "original": "’undher tho ao’",
       "speaker": "PAV4N",
       "translation": "Come inside.",
       "explanation": "Inviting someone in.",
@@ -1081,24 +1236,24 @@ export const no_enema: Song = {
       "annotations": []
     },
     {
-      "original": "Wax off wax on cognac straps on now she backin\u2019 the long",
+      "original": "Wax off wax on cognac straps on now she backin’ the long",
       "speaker": "PAV4N",
       "translation": "Wax off, wax on, cognac and straps on, now she's taking the long one.",
       "explanation": "A mix of Karate Kid references and explicit sexual imagery.",
       "annotations": []
     },
     {
-      "original": "She backin\u2019 it good she got me hittin it strong",
+      "original": "She backin’ it good she got me hittin it strong",
       "speaker": "PAV4N",
       "translation": "She's handling it well, and I'm going in strong.",
       "explanation": "Continued sexual bravado.",
       "annotations": []
     },
     {
-      "original": "She got me givin\u2019 it the biggun while she singing my song",
+      "original": "She got me givin’ it the biggun while she singing my song",
       "speaker": "PAV4N",
       "translation": "I'm going big while she's singing my track.",
-      "explanation": "The ultimate ego boost\u2014someone singing your song during intimacy.",
+      "explanation": "The ultimate ego boost—someone singing your song during intimacy.",
       "annotations": []
     },
     {
@@ -1147,5 +1302,6 @@ export const no_enema: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "summary": "\"No Enema\" is a hard-hitting track featuring rapid-fire flows and boasts of lyrical prowess. The song blends Hindi and English verses, touching upon themes of dominance, street life, and rejecting superficiality."
 };

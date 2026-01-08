@@ -10,233 +10,266 @@ export const pnp: Song = {
       "Sez on the Beat"
     ]
   },
-  "vibe": "Storytelling",
+  "vibe": "Introspective",
   "lyrics": [
     {
-      "original": "\u091a\u0932\u094b \u090f\u0915 \u0915\u093e\u092e \u0915\u0930\u094b: \u0921\u0942\u092c \u092e\u0930\u094b",
+      "original": "चलो एक काम करो: डूब मरो",
       "speaker": "Seedhe Maut",
       "translation": "Go do one thing: drown yourself.",
       "explanation": "A harsh, dismissive opening directed at fake friends or critics. 'Doob Maro' is a common Hindi idiom used to express contempt.",
       "annotations": [
         {
-          "keyword": "\u0921\u0942\u092c \u092e\u0930\u094b (Doob Maro)",
+          "keyword": "डूब मरो (Doob Maro)",
           "type": "Idiom"
+        },
+        {
+          "text": "चलो एक काम करो: डूब मरो",
+          "keyword": "डूब मरो",
+          "type": "Slang",
+          "meaning": "Roughly translates to 'Let's do something: Dube Maro', likely referring to smoking marijuana. 'Dube' refers to a joint or cannabis, and 'Maro' means to consume."
         }
       ]
     },
     {
-      "original": "\u0915\u0939\u0924\u0947 \u0925\u0947 \u092e\u0947\u0930\u0947 \u0932\u093f\u090f \u091c\u093e\u0928 \u092d\u0940 \u0926\u0947 \u0926\u094b\u0917\u0947 \u0924\u094b \u0905\u092c \u0921\u0942\u092c \u092e\u0930\u094b",
+      "original": "कहते थे मेरे लिए जान भी दे दोगे तो अब डूब मरो",
       "speaker": "Seedhe Maut",
       "translation": "You said you'd give your life for me, so now go drown yourself.",
       "explanation": "Calling out the hypocrisy of people who made grand promises of loyalty but failed to stand by him.",
       "annotations": []
     },
     {
-      "original": "\u092c\u093e\u092a \u0928\u0947 \u091a\u0932\u093e \u0926\u0940 \u092e\u0947\u0930\u0940 \u092c\u093e\u0924 \u0915\u0939\u0940\u0902 \u0914\u0930 \u0924\u094b \u0905\u092c \u091c\u093e\u0913 \u091c\u093e\u0915\u0947 \u0914\u0930 \u0915\u0939\u0940\u0902 \u0915\u0942\u0926 \u092e\u093e\u0930\u094b",
+      "original": "बाप ने चला दी मेरी बात कहीं और तो अब जाओ जाके और कहीं कूद मारो",
       "speaker": "Seedhe Maut",
       "translation": "My father has arranged my marriage elsewhere, so go jump off somewhere else now.",
       "explanation": "A reference to the classic Indian excuse used to end relationships (parents' interference), used here sarcastically to tell someone to get lost.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0941\u091d\u0947 \u095e\u094b\u0928 \u092e\u0924 \u0915\u0930\u0928\u093e",
+      "original": "मुझे फ़ोन मत करना",
       "speaker": "Seedhe Maut",
       "translation": "Don't call me.",
       "explanation": "A direct boundary being set to cut off toxic communication.",
       "annotations": []
     },
     {
-      "original": "\u0939\u0948 \u092e\u0947\u0930\u093e \u092e\u0924\u094d\u0925\u093e \u0959\u0930\u093e\u092c",
+      "original": "है मेरा मत्था ख़राब",
       "speaker": "Seedhe Maut",
       "translation": "My head is in a bad place / I'm losing my mind.",
       "explanation": "'Mattha kharab' is Delhi slang for being highly irritated or mentally exhausted.",
       "annotations": [
         {
-          "keyword": "\u092e\u0924\u094d\u0925\u093e \u0959\u0930\u093e\u092c (Mattha kharab)",
+          "keyword": "मत्था ख़राब (Mattha kharab)",
           "type": "Slang"
         }
       ]
     },
     {
-      "original": "\u0932\u0947\u0915\u093f\u0928 \u0914\u0930 \u0928\u0939\u0940\u0902 \u0932\u095c\u0928\u093e",
+      "original": "लेकिन और नहीं लड़ना",
       "speaker": "Seedhe Maut",
       "translation": "But I don't want to fight anymore.",
       "explanation": "Expressing emotional fatigue and a desire for peace over conflict.",
       "annotations": []
     },
     {
-      "original": "\u0928\u093e \u0924\u0941\u091d\u0938\u0947 \u0928\u0947 \u0924\u0947\u0930\u0940 \u092a\u0940\u091b\u0947 \u0914\u0930 \u0915\u093f\u0938\u0940 \u0938\u0947",
+      "original": "ना तुझसे ने तेरी पीछे और किसी से",
       "speaker": "Seedhe Maut",
       "translation": "Not with you, nor with anyone else behind you.",
       "explanation": "Total detachment from the person and their entire social circle or drama.",
       "annotations": []
     },
     {
-      "original": "\u0924\u0942 \u0939\u0941\u0908 \u092a\u0940\u091b\u0947 \u0915\u094d\u092f\u0942\u0901\u0915\u093f \u0906\u0917\u0947 \u092e\u0947\u0930\u0947 \u0906\u092f\u093e \u092e\u0947\u0930\u093e \u0915\u0930\u094d\u092e\u093e",
+      "original": "तू हुई पीछे क्यूँकि आगे मेरे आया मेरा कर्मा",
       "speaker": "Seedhe Maut",
       "translation": "You fell behind because my karma came to the forefront.",
       "explanation": "Suggests that his hard work or destiny (Karma) propelled him forward, leaving the past and toxic people behind.",
       "annotations": []
     },
     {
-      "original": "\u0924\u0942 \u0939\u0948 \u0915\u094c\u0928?",
+      "original": "तू है कौन?",
       "speaker": "Seedhe Maut",
       "translation": "Who even are you?",
       "explanation": "A dismissive rhetorical question, treating the person as a stranger to diminish their importance.",
       "annotations": []
     },
     {
-      "original": "\u0938\u093e\u0932\u093e \u0915\u093f\u0938\u0915\u0940 \u0938\u0941\u0928\u0942\u0902 \u092e\u0948\u0902!",
+      "original": "साला किसकी सुनूं मैं!",
       "speaker": "Seedhe Maut",
       "translation": "Dammit, who should I listen to!",
       "explanation": "Reflects internal confusion and frustration with conflicting advice or external noise.",
       "annotations": []
     },
     {
-      "original": "\u0917\u095c\u0947 \u092e\u0941\u0930\u094d\u0926\u0947 \u0909\u0916\u093e\u095c\u0947 \u0924\u092d\u0940 whiskey \u091a\u0941\u0928\u0942\u0902 \u092e\u0948\u0902",
+      "original": "गड़े मुर्दे उखाड़े तभी whiskey चुनूं मैं",
       "speaker": "Seedhe Maut",
       "translation": "I dig up old skeletons, that's why I choose whiskey.",
       "explanation": "He drinks to cope with past traumas or memories that he can't help but revisit. 'Gade murde ukhadna' means to bring up old issues.",
       "annotations": [
         {
-          "keyword": "\u0917\u095c\u0947 \u092e\u0941\u0930\u094d\u0926\u0947 \u0909\u0916\u093e\u095c\u0947 (Gade murde ukhade)",
+          "keyword": "गड़े मुर्दे उखाड़े (Gade murde ukhade)",
           "type": "Idiom"
+        },
+        {
+          "text": "गड़े मुर्दे उखाड़े तभी whiskey चुनूं मैं",
+          "keyword": "whiskey",
+          "type": "Reference",
+          "meaning": "Drinking whiskey when feeling down or upset, a common coping mechanism."
         }
       ]
     },
     {
-      "original": "\u0914\u0930 \u0939\u0948 \u0915\u094c\u0928 \u0915\u094d\u092f\u094b\u0902 \u0928\u093e \u0924\u0941\u092e \u0921\u0942\u092c \u092e\u0930\u094b",
+      "original": "और है कौन क्यों ना तुम डूब मरो",
       "speaker": "Seedhe Maut",
       "translation": "And who else is there? Why don't you just drown.",
       "explanation": "Reiterating the dismissive refrain against those who claim to matter.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "और है कौन क्यों ना तुम डूब मरो",
+          "keyword": "डूब मरो",
+          "type": "Slang",
+          "meaning": "Reiterates the use of cannabis ('dube') as a means of escape or coping. 'Why don't you also smoke up?'"
+        }
+      ]
     },
     {
-      "original": "\u0906\u091c \u0939\u0948 \u0915\u0941\u091b \u0905\u0932\u0917 \u090f\u0915 \u0930\u0942\u092a \u0915\u0932 \u0939\u094b",
+      "original": "आज है कुछ अलग एक रूप कल हो",
       "speaker": "Seedhe Maut",
       "translation": "Today is something different, tomorrow it will be another form.",
       "explanation": "Reflects the instability of life or the two-faced nature of people in his environment.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0942\u0930\u093e \u0918\u0930 \u092c\u094b\u0932\u0947 \u092c\u094b\u0932\u0947 \u0930\u0947\u0939\u0928 \u0926\u0947",
+      "original": "पूरा घर बोले बोले रेहन दे",
       "speaker": "Seedhe Maut",
       "translation": "The whole family says, 'Let it be.'",
       "explanation": "Facing pressure from family to quit music or avoid the path he has chosen.",
       "annotations": []
     },
     {
-      "original": "\u092b\u093f\u0930 \u0926\u0947\u0916 \u0932\u0947 \u0926\u093f\u0932 \u092c\u094b\u0932\u0947 \u0938\u0947\u0939\u092e \u0915\u0947",
+      "original": "फिर देख ले दिल बोले सेहम के",
       "speaker": "Seedhe Maut",
       "translation": "Then look, the heart speaks while shivering with fear.",
       "explanation": "Acknowledging the deep-seated anxiety and vulnerability beneath a tough exterior.",
       "annotations": []
     },
     {
-      "original": "\u092c\u0902\u0926 \u092e\u0924 \u0915\u0930 \u0930\u0939\u0928\u093e \u0924\u0942 \u0935\u0939\u092e \u092e\u0947\u0902",
+      "original": "बंद मत कर रहना तू वहम में",
       "speaker": "Seedhe Maut",
       "translation": "Don't stop, but don't live in a delusion.",
       "explanation": "Advice to keep grinding while staying grounded and avoiding the 'vaham' (delusion) of false success.",
       "annotations": []
     },
     {
-      "original": "\u092f\u0947 \u0915\u093f\u0927\u0930 \u0925\u093e plan \u092e\u0947\u0902?",
+      "original": "ये किधर था plan में?",
       "speaker": "Seedhe Maut",
       "translation": "Where was this in the plan?",
       "explanation": "Surprised by the unexpected turns life has taken, for better or worse.",
       "annotations": []
     },
     {
-      "original": "\u091c\u093e\u092f\u0947 \u0938\u092c \u0928\u093e \u092c\u093f\u0916\u0930 \u0939\u0948, \u095e\u093f\u0915\u094d\u0930 \u092f\u0947 \u095b\u0947\u0939\u0928 \u092e\u0947\u0902",
+      "original": "जाये सब ना बिखर है, फ़िक्र ये ज़ेहन में",
       "speaker": "Seedhe Maut",
       "translation": "The worry in my mind is that everything might fall apart.",
       "explanation": "The constant 'imposter syndrome' or fear of losing the success he's built.",
       "annotations": []
     },
     {
-      "original": "\u0924\u0947\u0930\u0940 \u092e\u0947\u0930\u0940 \u092e\u0941\u0932\u093e\u0915\u093e\u0924 \u0917\u095b\u092c \u0925\u0940",
+      "original": "तेरी मेरी मुलाकात गज़ब थी",
       "speaker": "Seedhe Maut",
       "translation": "Our meeting was extraordinary.",
       "explanation": "Acknowledging that the past relationship was intense and significant.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "ये किधर था plan में?",
+          "keyword": "plan",
+          "type": "Slang",
+          "meaning": "Referring to either being high or scheming. The term 'plan' is being used colloquially to mean being high or having a particular agenda."
+        }
+      ]
     },
     {
-      "original": "\u0935\u0947 \u092a\u094d\u092f\u093e\u0930 \u0925\u093e, \u092b\u093f\u0930 \u092f\u093e \u0924\u093e\u0932\u093e\u092c \u0925\u0940?",
+      "original": "वे प्यार था, फिर या तालाब थी?",
       "speaker": "Seedhe Maut",
       "translation": "Was that love, or just a craving?",
       "explanation": "Questioning if the connection was genuine love or just an addiction/need ('Talab').",
       "annotations": [
         {
-          "keyword": "\u0924\u093e\u0932\u093e\u092c (Talab)",
+          "keyword": "तालाब (Talab)",
           "type": "Slang/Contextual"
         }
       ]
     },
     {
-      "original": "\u0936\u0915 \u0906\u091c \u092d\u0940 \u0939\u0948 \u0932\u0947\u0915\u093f\u0928 \u090f\u0915 \u092c\u093e\u0924",
+      "original": "शक आज भी है लेकिन एक बात",
       "speaker": "Seedhe Maut",
       "translation": "There's still doubt today, but one thing...",
       "explanation": "An admission that unresolved questions still haunt him.",
       "annotations": []
     },
     {
-      "original": "\u0939\u0948 \u0915\u0947 \u0924\u0947\u0930\u0947 \u092c\u093f\u0928\u093e \u0930\u0942\u0939 \u092e\u0947\u0930\u0940 \u091c\u093e\u092f\u0947 \u0915\u0932\u092a \u0938\u0940",
+      "original": "है के तेरे बिना रूह मेरी जाये कलप सी",
       "speaker": "Seedhe Maut",
       "translation": "Is that without you, my soul feels agonized.",
       "explanation": "'Kalap' refers to a state of grieving or deep yearning, showing the emotional weight of separation.",
       "annotations": []
     },
     {
-      "original": "\u092c\u094b\u0932\u0947 \u091a\u093e\u0939\u093f\u092f\u0947 \u0924\u0941\u091d\u0947 \u0915\u094d\u092f\u093e? (\u0915\u0941\u091b \u0928\u0939\u0940\u0902)",
+      "original": "बोले चाहिये तुझे क्या? (कुछ नहीं)",
       "speaker": "Seedhe Maut",
       "translation": "They ask, 'What do you want?' (Nothing).",
       "explanation": "Feeling a sense of nihilism or emptiness where no material thing can satisfy him.",
       "annotations": []
     },
     {
-      "original": "\u092c\u094b\u0932\u0947 \u091a\u093e\u0939\u093f\u092f\u0947 \u0924\u0941\u091d\u0947 \u0915\u094d\u092f\u093e? (\u0915\u0941\u091b \u0928\u0939\u0940\u0902, \u0915\u0941\u091b \u0928\u0939\u0940\u0902)",
+      "original": "बोले चाहिये तुझे क्या? (कुछ नहीं, कुछ नहीं)",
       "speaker": "Seedhe Maut",
       "translation": "They ask, 'What do you want?' (Nothing, nothing).",
       "explanation": "Repetition emphasizing the void he feels.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "है के तेरे बिना रूह मेरी जाये कलप सी",
+          "keyword": "रूह",
+          "type": "Metaphor",
+          "meaning": "Feeling soulless or empty ('bina rooh'). Suggests a sense of disconnect and existential questioning."
+        }
+      ]
     },
     {
-      "original": "\u092f\u0947 \u0917\u0940\u0924 \u092c\u0928\u093e \u0915\u094d\u092f\u0942\u0901\u0915\u0940 \u0924\u0942 \u0939\u0948 \u0938\u0902\u0917 \u0928\u0940 \u092e\u0947\u0930\u0947",
+      "original": "ये गीत बना क्यूँकी तू है संग नी मेरे",
       "speaker": "Seedhe Maut",
       "translation": "This song exists because you aren't with me.",
       "explanation": "Art as a product of absence and heartbreak.",
       "annotations": []
     },
     {
-      "original": "\u092f\u0947 \u092e\u0947\u0930\u0947 \u0932\u093f\u090f \u0915\u094b\u0908 \u0938\u0902\u0917\u0940\u0924 \u0928\u0908",
+      "original": "ये मेरे लिए कोई संगीत नई",
       "speaker": "Seedhe Maut",
       "translation": "This isn't just music to me.",
       "explanation": "Rapping is his lifestyle and survival, not just a creative pursuit.",
       "annotations": []
     },
     {
-      "original": "\u091c\u094b \u092d\u0940 \u0926\u0947\u0916\u093e \u092e\u0948\u0902\u0928\u0947 \u092c\u094b\u0932\u093e \u092f\u0939\u093e\u0901 \u0905\u092c",
+      "original": "जो भी देखा मैंने बोला यहाँ अब",
       "speaker": "Chorus",
       "translation": "Whatever I saw, I've spoken it here now.",
-      "explanation": "Refers to the authenticity of his lyrics\u2014he raps about his lived reality.",
+      "explanation": "Refers to the authenticity of his lyrics—he raps about his lived reality.",
       "annotations": []
     },
     {
-      "original": "\u092c\u093e\u0924\u0947\u0902 \u0915\u0930\u0947 \u0938\u092c",
+      "original": "बातें करे सब",
       "speaker": "Chorus",
       "translation": "Everyone just talks.",
       "explanation": "Critiquing those who talk big but don't take action.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u0939\u093e\u0901 \u0939\u0948\u092e?",
+      "original": "करने वाले कहाँ हैम?",
       "speaker": "Chorus",
       "translation": "Where are the ones who actually do something?",
       "explanation": "Questioning the presence of real achievers in a crowd of talkers.",
       "annotations": []
     },
     {
-      "original": "Fanne khan \u092f\u0947 \u092c\u0928\u0947",
+      "original": "Fanne khan ये बने",
       "speaker": "Chorus",
       "translation": "They pretend to be big shots.",
       "explanation": "'Fanne Khan' is a term for someone who thinks they are a hero or superior to others.",
@@ -248,35 +281,35 @@ export const pnp: Song = {
       ]
     },
     {
-      "original": "\u091c\u094b \u092d\u0940 \u0926\u0947\u0916\u093e \u092e\u0948\u0902\u0928\u0947 \u092c\u094b\u0932\u093e \u092f\u0939\u093e\u0901 \u0905\u092c",
+      "original": "जो भी देखा मैंने बोला यहाँ अब",
       "speaker": "Chorus",
       "translation": "Whatever I saw, I've spoken it here now.",
       "explanation": "Reiteration of his commitment to truth in his music.",
       "annotations": []
     },
     {
-      "original": "\u092c\u093e\u0924\u0947\u0902 \u0915\u0930\u0947 \u0938\u092c",
+      "original": "बातें करे सब",
       "speaker": "Chorus",
       "translation": "Everyone just talks.",
       "explanation": "Dismissing the noise of the crowd.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u0939\u093e\u0901 \u0939\u0948\u0902?",
+      "original": "करने वाले कहाँ हैं?",
       "speaker": "Chorus",
       "translation": "Where are the ones who actually do something?",
       "explanation": "Seeking substance over style.",
       "annotations": []
     },
     {
-      "original": "Fanne khan \u092f\u0947 \u092c\u0928\u0947",
+      "original": "Fanne khan ये बने",
       "speaker": "Chorus",
       "translation": "They pretend to be big shots.",
       "explanation": "Mocking the fake bravado of others.",
       "annotations": []
     },
     {
-      "original": "\u0932\u0947\u0915\u0947 \u0921\u0942\u092c\u093e \u092e\u0941\u091d\u0947 \u092a\u0948\u0938\u093e, \u0928\u0936\u093e, \u092a\u094d\u092f\u093e\u0930",
+      "original": "लेके डूबा मुझे पैसा, नशा, प्यार",
       "speaker": "Chorus",
       "translation": "Money, intoxication, and love were my downfall.",
       "explanation": "The core theme of the song (PnP). These three elements are portrayed as both a motivation and a trap.",
@@ -288,87 +321,87 @@ export const pnp: Song = {
       ]
     },
     {
-      "original": "\u092a\u0948\u0938\u093e, \u0928\u0936\u093e, \u092a\u094d\u092f\u093e\u0930, \u092a\u0948\u0938\u093e, \u0928\u0936\u093e",
+      "original": "पैसा, नशा, प्यार, पैसा, नशा",
       "speaker": "Chorus",
       "translation": "Money, intoxication, love, money, intoxication.",
       "explanation": "The repetitive cycle of these distractions.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0948\u0938\u093e, \u0928\u0936\u093e, \u092a\u094d\u092f\u093e\u0930, \u092a\u0948\u0938\u093e, \u0928\u0936\u093e",
+      "original": "पैसा, नशा, प्यार, पैसा, नशा",
       "speaker": "Chorus",
       "translation": "Money, intoxication, love, money, intoxication.",
       "explanation": "The overwhelming nature of these three desires.",
       "annotations": []
     },
     {
-      "original": "\u0932\u0947\u0915\u0947 \u0921\u0942\u092c\u093e \u092e\u0941\u091d\u0947 \u092a\u0948\u0938\u093e, \u0928\u0936\u093e, \u092a\u094d\u092f\u093e\u0930",
+      "original": "लेके डूबा मुझे पैसा, नशा, प्यार",
       "speaker": "Chorus",
       "translation": "Money, intoxication, and love were my downfall.",
       "explanation": "Acknowledging the personal cost of pursuing these things.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0948\u0938\u093e, \u0928\u0936\u093e, \u092a\u094d\u092f\u093e\u0930, \u092a\u0948\u0938\u093e, \u0928\u0936\u093e",
+      "original": "पैसा, नशा, प्यार, पैसा, नशा",
       "speaker": "Chorus",
       "translation": "Money, intoxication, love, money, intoxication.",
       "explanation": "Refining the central hook of the track.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0948\u0938\u093e, \u0928\u0936\u093e, \u092a\u094d\u092f\u093e\u0930, \u092a\u0948\u0938\u093e, \u0928\u0936\u093e",
+      "original": "पैसा, नशा, प्यार, पैसा, नशा",
       "speaker": "Chorus",
       "translation": "Money, intoxication, love, money, intoxication.",
       "explanation": "Musical emphasis on the three 'P's.",
       "annotations": []
     },
     {
-      "original": "\u0932\u0947\u0915\u0947 \u0921\u0942\u092c\u093e \u092e\u0941\u091d\u0947",
+      "original": "लेके डूबा मुझे",
       "speaker": "Chorus",
       "translation": "They took me down.",
       "explanation": "Accepting the weight of his choices.",
       "annotations": []
     },
     {
-      "original": "\u092f\u0947 \u0905\u0938\u0930 \u0939\u0948 \u0938\u0902\u0917\u0924\u0940 \u0915\u093e",
+      "original": "ये असर है संगती का",
       "speaker": "Chorus",
       "translation": "This is the effect of the company I keep.",
       "explanation": "Recognizing how the people around him influence his habits and downfalls.",
       "annotations": []
     },
     {
-      "original": "\u092f\u0947 \u0905\u0938\u0930 \u0939\u0948 \u092e\u0928\u0917\u0930\u094d\u0926\u0940 \u0915\u093e",
+      "original": "ये असर है मनगर्दी का",
       "speaker": "Chorus",
       "translation": "This is the effect of doing as I please.",
       "explanation": "'Man-gardi' implies acting on every whim or being reckless.",
       "annotations": [
         {
-          "keyword": "\u092e\u0928\u0917\u0930\u094d\u0926\u0940 (Man-gardi)",
+          "keyword": "मनगर्दी (Man-gardi)",
           "type": "Slang"
         }
       ]
     },
     {
-      "original": "\u092f\u0947 \u0926\u0932-\u0926\u0932 \u0939\u0948 (\u0926\u0932-\u0926\u0932 \u0939\u0948) \u0915\u0930 \u092e\u0938\u094d\u0924\u0940 \u091c\u093e",
+      "original": "ये दल-दल है (दल-दल है) कर मस्ती जा",
       "speaker": "Chorus",
       "translation": "This is quicksand (it's quicksand), keep having fun anyway.",
       "explanation": "Life or the industry is a trap (quicksand), but he suggests moving through it with a carefree attitude.",
       "annotations": [
         {
-          "keyword": "\u0926\u0932-\u0926\u0932 (Dal-dal)",
+          "keyword": "दल-दल (Dal-dal)",
           "type": "Metaphor"
         }
       ]
     },
     {
-      "original": "\u092f\u0947 \u0938\u0902\u0917\u093e\u0924 \u0939\u0940 \u091d\u0902\u091d\u091f \u0939\u0948 \u0939\u093e\u0901",
+      "original": "ये संगात ही झंझट है हाँ",
       "speaker": "Chorus",
       "translation": "This companionship itself is a mess, yeah.",
       "explanation": "Suggesting that social ties often bring more trouble than peace.",
       "annotations": []
     },
     {
-      "original": "\u0906\u0902\u0916\u0947\u0902 \u0916\u094b\u0932\u0940 \u092e\u0948\u0902\u0928\u0947 winning",
+      "original": "आंखें खोली मैंने winning",
       "speaker": "Chorus",
       "translation": "I opened my eyes and I was winning.",
       "explanation": "A sudden shift to a success-oriented mindset or realizing he has finally made it.",
@@ -387,315 +420,329 @@ export const pnp: Song = {
       ]
     },
     {
-      "original": "\u092a\u0948\u0938\u093e \u0915\u093e\u092c\u0942 \u0915\u0930\u0947 \u0910\u0938\u0940 \u0930\u0916\u0940 ringtone",
+      "original": "पैसा काबू करे ऐसी रखी ringtone",
       "speaker": "Chorus",
       "translation": "I have a ringtone that keeps my money in check.",
       "explanation": "Metaphor for staying disciplined and grounded despite financial gains.",
       "annotations": []
     },
     {
-      "original": "\u0926\u0947\u0916\u093e \u092a\u095d\u0947 \u091c\u093e\u0913, \u092a\u095d\u0947 \u091c\u093e\u0913",
+      "original": "देखा पढ़े जाओ, पढ़े जाओ",
       "speaker": "Chorus",
       "translation": "I saw, just keep reading, keep reading.",
       "explanation": "Could refer to 'reading the room' or staying educated/aware.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "99 not out inning",
+          "keyword": "99 not out inning",
+          "type": "Metaphor",
+          "meaning": "A cricket reference. Being '99 not out' is a frustrating situation, just one run short of a century. Here, it represents being close to success but not quite reaching it."
+        }
+      ]
     },
     {
-      "original": "\u0927\u0924\u094d\u0924 \u0925\u094b\u095c\u093e \u092a\u095d\u093c\u0947 \u091c\u093e\u0913",
+      "original": "धत्त थोड़ा पढ़़े जाओ",
       "speaker": "Chorus",
       "translation": "Damn, just keep reading a bit more.",
       "explanation": "Encouraging persistence in learning the ways of the world.",
       "annotations": []
     },
     {
-      "original": "\u091c\u093e\u0913 \u0914\u0930 \u091c\u093e\u0915\u0947 \u0939\u0930\u0947 \u0932\u093e\u0913",
+      "original": "जाओ और जाके हरे लाओ",
       "speaker": "Chorus",
       "translation": "Go and bring back the greens.",
       "explanation": "'Hare' (green) is slang for money (specifically currency notes).",
       "annotations": [
         {
-          "keyword": "\u0939\u0930\u0947 (Hare)",
+          "keyword": "हरे (Hare)",
           "type": "Slang"
+        },
+        {
+          "text": "देखा नन्ही जानो को कुचलते Bomb गिरे TV पे",
+          "keyword": "Bomb",
+          "type": "Reference",
+          "meaning": "Referring to the 1993 Bombay bombings and the general state of unrest at the time. 'Bombs falling on TV' implies social upheaval and chaos."
         }
       ]
     },
     {
-      "original": "\u0926\u0947\u0916\u093e \u0928\u0928\u094d\u0939\u0940 \u091c\u093e\u0928\u094b \u0915\u094b \u0915\u0941\u091a\u0932\u0924\u0947 Bomb \u0917\u093f\u0930\u0947 TV \u092a\u0947",
+      "original": "देखा नन्ही जानो को कुचलते Bomb गिरे TV पे",
       "speaker": "Chorus",
       "translation": "Saw innocent lives being crushed, bombs falling on TV.",
       "explanation": "A moment of social consciousness, contrasting his personal life with global suffering seen on news.",
       "annotations": []
     },
     {
-      "original": "\u0939\u0948 \u092d\u0947\u091c\u093e \u0932\u0947\u0915\u093f\u0928 \u0928\u0936\u0947 \u092e\u0947\u0902 \u0939\u0940 \u0927\u0941\u0924\u094d\u0924",
+      "original": "है भेजा लेकिन नशे में ही धुत्त",
       "speaker": "Chorus",
       "translation": "I have a brain, but it's completely intoxicated.",
       "explanation": "He has the intellect to understand the world, but chooses to numb it with substances.",
       "annotations": []
     },
     {
-      "original": "\u0939\u0948 \u0926\u0947\u0916\u093e \u092e\u0948\u0902\u0928\u0947 \u0928\u0939\u0940\u0902 \u091c\u093e\u0928\u094b \u0915\u094b \u092e\u091a\u0932\u0924\u0947",
+      "original": "है देखा मैंने नहीं जानो को मचलते",
       "speaker": "Chorus",
       "translation": "I've seen it, didn't see the souls thriving.",
       "explanation": "Observations of a bleak reality where life is more about survival than joy.",
       "annotations": []
     },
     {
-      "original": "\u0906\u0917\u0947 \u0936\u0940\u0936\u0947 \u0915\u0947 \u0926\u093f\u0916\u093e\u0935\u0947 \u0915\u0947",
+      "original": "आगे शीशे के दिखावे के",
       "speaker": "Chorus",
       "translation": "In front of the mirror of pretension.",
       "explanation": "Critiquing the superficiality and fake personas people adopt.",
       "annotations": []
     },
     {
-      "original": "\u091a\u0932\u093e\u0935\u0948 \u092e\u0947\u0902 \u0939\u0948 \u0916\u094b \u0935\u094b \u0930\u0939\u0940 \u0938\u0941\u0916",
+      "original": "चलावै में है खो वो रही सुख",
       "speaker": "Chorus",
       "translation": "Lost in the facade, peace is disappearing.",
       "explanation": "Chasing illusions leads to the loss of genuine happiness.",
       "annotations": []
     },
     {
-      "original": "\u0939\u0948 \u092f\u0947 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u094d\u092f\u093e \u091a\u0940\u095b?",
+      "original": "है ये दुनिया क्या चीज़?",
       "speaker": "Chorus",
       "translation": "What kind of thing is this world?",
       "explanation": "Philosophical questioning of the strange nature of human society.",
       "annotations": []
     },
     {
-      "original": "\u0928\u0939\u0940\u0902 \u091b\u0941\u091f\u094d\u091f\u0947 \u0928\u0938\u0940\u092c",
+      "original": "नहीं छुट्टे नसीब",
       "speaker": "Chorus",
       "translation": "Fate doesn't change easily.",
       "explanation": "The struggle of trying to overcome one's predetermined circumstances.",
       "annotations": []
     },
     {
-      "original": "\u0939\u092e \u0938\u0941\u0916 \u0938\u0947 \u0917\u0930\u0940\u092c",
+      "original": "हम सुख से गरीब",
       "speaker": "Chorus",
       "translation": "We are poor in terms of happiness.",
-      "explanation": "A powerful oxymoron\u2014having everything material but lacking peace of mind.",
+      "explanation": "A powerful oxymoron—having everything material but lacking peace of mind.",
       "annotations": []
     },
     {
-      "original": "\u0916\u093e\u0932\u0940 \u0926\u0941\u0916 \u0915\u0947 \u0915\u0930\u0940\u092c",
+      "original": "खाली दुख के करीब",
       "speaker": "Chorus",
       "translation": "Only close to sorrow.",
       "explanation": "The persistent feeling of melancholy despite success.",
       "annotations": []
     },
     {
-      "original": "\u0939\u0948 \u092f\u0947 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u094d\u092f\u093e \u091a\u0940\u095b?",
+      "original": "है ये दुनिया क्या चीज़?",
       "speaker": "Chorus",
       "translation": "What kind of thing is this world?",
       "explanation": "Repeating the existential query.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u094b \u092e\u093f\u091f\u094d\u091f\u0940 \u092a\u0932\u0940\u0924",
+      "original": "करो मिट्टी पलीत",
       "speaker": "Chorus",
       "translation": "Ruin your reputation/Destroy it all.",
       "explanation": "'Mitti paleet' means to humiliate or make a mess of something, often used here to describe self-sabotage.",
       "annotations": [
         {
-          "keyword": "\u092e\u093f\u091f\u094d\u091f\u0940 \u092a\u0932\u0940\u0924 (Mitti Paleet)",
+          "keyword": "मिट्टी पलीत (Mitti Paleet)",
           "type": "Idiom"
         }
       ]
     },
     {
-      "original": "\u0930\u0939\u094b \u095b\u093f\u0926\u094d\u0926\u0940 \u0914\u0930 \u0922\u0940\u091f",
+      "original": "रहो ज़िद्दी और ढीट",
       "speaker": "Chorus",
       "translation": "Stay stubborn and obstinate.",
       "explanation": "Encouraging a resilient, unyielding attitude necessary for survival in Delhi/the scene.",
       "annotations": []
     },
     {
-      "original": "\u0930\u0939\u0947 \u091d\u0941\u0915 \u0915\u0947 \u0928\u093e \u092a\u0940\u0920",
+      "original": "रहे झुक के ना पीठ",
       "speaker": "Chorus",
       "translation": "Don't keep your back bowed down.",
       "explanation": "Advice to maintain self-respect and never surrender.",
       "annotations": []
     },
     {
-      "original": "\u0939\u0948 \u0905\u091c\u0940\u092c \u092f\u0947",
+      "original": "है अजीब ये",
       "speaker": "Chorus",
       "translation": "This is strange.",
       "explanation": "A simple observation of the absurdity of life.",
       "annotations": []
     },
     {
-      "original": "\u0916\u093e\u0930\u093e \u092a\u093e\u0928\u0940, \u0916\u093e\u0930\u093e \u0938\u094c\u0926\u093e scene",
+      "original": "खारा पानी, खारा सौदा scene",
       "speaker": "Chorus",
       "translation": "Salty water, bitter deals in the scene.",
       "explanation": "Describes the hip-hop industry ('scene') as harsh, bitter, and difficult to swallow.",
       "annotations": []
     },
     {
-      "original": "\u0925\u093e \u092e\u0948\u0902 \u0967\u0967 \u0915\u093e \u0916\u093f\u0932\u094c\u0928\u093e \u0925\u093e \u095b\u092e\u0940\u0930",
+      "original": "था मैं ११ का खिलौना था ज़मीर",
       "speaker": "Chorus",
       "translation": "I was 11, and my conscience was just a toy.",
       "explanation": "Suggests a loss of innocence or the corruption of morals at a very young age.",
       "annotations": []
     },
     {
-      "original": "\u092e\u0947\u0930\u093e \u091b\u093e\u0924\u093e \u0915\u0939\u093e \u0925\u093e \u092c\u093e\u0930\u093f\u0936 \u0925\u0940 \u091c\u092c",
+      "original": "मेरा छाता कहा था बारिश थी जब",
       "speaker": "Chorus",
       "translation": "Where was my umbrella when it was raining?",
       "explanation": "Metaphor for lacking protection or support during hard times.",
       "annotations": []
     },
     {
-      "original": "\u092d\u0940\u0917\u0928\u0947 \u0915\u0940 \u092c\u093e\u0930\u0940 \u0906\u092f\u0940 \u092f\u093e\u0930\u0940 \u0906\u092f\u0940 \u0915\u093e\u092e",
+      "original": "भीगने की बारी आयी यारी आयी काम",
       "speaker": "Chorus",
       "translation": "When it was time to get drenched, friendship came to the rescue.",
       "explanation": "Highlighting how friends (specifically the bond between Calm and Encore) provided support when no one else did.",
       "annotations": []
     },
     {
-      "original": "\u0905\u092d\u0940 \u0917\u093e\u095c\u0940 gear \u092e\u0947\u0902 nike \u092a\u0948\u0930 \u092e\u0947\u0902 \u0928\u093e\u092e",
+      "original": "अभी गाड़ी gear में nike पैर में नाम",
       "speaker": "Chorus",
       "translation": "Now the car is in gear, Nikes on my feet, and I have a name.",
       "explanation": "Symbols of current success: momentum, high-end fashion, and fame.",
       "annotations": []
     },
     {
-      "original": "\u0924\u092d\u0940 \u091c\u093e\u0928\u0947 \u091c\u0928\u0924\u093e \u0917\u093e\u0928\u0947 \u0921\u093e\u0932\u0947 \u091c\u093e\u0928",
+      "original": "तभी जाने जनता गाने डाले जान",
       "speaker": "Chorus",
       "translation": "That's why the public knows us; the songs have soul.",
       "explanation": "Connecting their popularity to the raw emotion and life they put into their music.",
       "annotations": []
     },
     {
-      "original": "\u0924\u0947\u0930\u0940 \u0930\u093e\u0917 \u092e\u0947\u0902 \u0928\u0938 \u092e\u0947\u0902 \u092e\u0947\u0902 \u0939\u0942\u0901 \u0924\u0942 \u0917\u0941\u0932\u093e\u092e",
+      "original": "तेरी राग में नस में में हूँ तू गुलाम",
       "speaker": "Chorus",
       "translation": "I'm in your veins and nerves, you're a slave (to the music).",
       "explanation": "A boast about the addictive and immersive quality of their art.",
       "annotations": []
     },
     {
-      "original": "\u092c\u0938 \u092e\u093e\u0902\u0917\u0942 \u0925\u094b\u095c\u093e \u0927\u094d\u092f\u093e\u0928",
+      "original": "बस मांगू थोड़ा ध्यान",
       "speaker": "Chorus",
       "translation": "I just ask for a little attention.",
       "explanation": "The basic desire of an artist: to be heard and understood.",
       "annotations": []
     },
     {
-      "original": "\u091c\u094b \u092d\u0940 \u0926\u0947\u0916\u093e \u092e\u0948\u0902\u0928\u0947",
+      "original": "जो भी देखा मैंने",
       "speaker": "Chorus",
       "translation": "Whatever I saw...",
       "explanation": "Referring back to the observations that form his lyrics.",
       "annotations": []
     },
     {
-      "original": "\u092c\u094b\u0932\u0948 \u092f\u0939\u093e\u0901 \u0905\u092c",
+      "original": "बोलै यहाँ अब",
       "speaker": "Chorus",
       "translation": "I've said it here now.",
       "explanation": "The song as a final statement.",
       "annotations": []
     },
     {
-      "original": "\u092c\u093e\u0924\u0947\u0902 \u0915\u0930\u0947 \u0938\u092c",
+      "original": "बातें करे सब",
       "speaker": "Chorus",
       "translation": "Everyone talks.",
       "explanation": "Reiterating the gap between talkers and doers.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u0939\u093e\u0901 \u0939\u0948\u0902?",
+      "original": "करने वाले कहाँ हैं?",
       "speaker": "Chorus",
       "translation": "Where are the ones who actually do something?",
       "explanation": "Final call for authenticity.",
       "annotations": []
     },
     {
-      "original": "Fanne khan \u092f\u0947 \u092c\u0928\u0947",
+      "original": "Fanne khan ये बने",
       "speaker": "Chorus",
       "translation": "They pretend to be big shots.",
       "explanation": "Closing on a critique of pretenders.",
       "annotations": []
     },
     {
-      "original": "\u091c\u094b \u092d\u0940 \u0926\u0947\u0916\u093e \u092e\u0948\u0902\u0928\u0947",
+      "original": "जो भी देखा मैंने",
       "speaker": "Chorus",
       "translation": "Whatever I saw...",
       "explanation": "The cycle of experience and expression.",
       "annotations": []
     },
     {
-      "original": "\u092c\u094b\u0932\u093e \u092f\u0939\u093e\u0901 \u0905\u092c",
+      "original": "बोला यहाँ अब",
       "speaker": "Chorus",
       "translation": "I've spoken here now.",
       "explanation": "His truth is out.",
       "annotations": []
     },
     {
-      "original": "\u092c\u093e\u0924\u0947\u0902 \u0915\u0930\u0947 \u0938\u092c",
+      "original": "बातें करे सब",
       "speaker": "Chorus",
       "translation": "Everyone talks.",
       "explanation": "Echoing the theme of societal noise.",
       "annotations": []
     },
     {
-      "original": "\u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u0939\u093e\u0901 \u0939\u0948\u0902?",
+      "original": "करने वाले कहाँ हैं?",
       "speaker": "Chorus",
       "translation": "Where are the ones who actually do something?",
       "explanation": "Searching for realness.",
       "annotations": []
     },
     {
-      "original": "Fanne khan \u092f\u0947 \u092c\u0928\u0947",
+      "original": "Fanne khan ये बने",
       "speaker": "Chorus",
       "translation": "They pretend to be big shots.",
       "explanation": "Dismissing the fake.",
       "annotations": []
     },
     {
-      "original": "\u0932\u0947\u0915\u0947 \u0921\u0942\u092c\u093e \u092e\u0941\u091d\u0947 \u092a\u0948\u0938\u093e, \u0928\u0936\u093e, \u092a\u094d\u092f\u093e\u0930",
+      "original": "लेके डूबा मुझे पैसा, नशा, प्यार",
       "speaker": "Chorus",
       "translation": "Money, intoxication, and love were my downfall.",
       "explanation": "The definitive chorus line summarizing the song's soul.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0948\u0938\u093e, \u0928\u0936\u093e, \u092a\u094d\u092f\u093e\u0930, \u092a\u0948\u0938\u093e, \u0928\u0936\u093e",
+      "original": "पैसा, नशा, प्यार, पैसा, नशा",
       "speaker": "Chorus",
       "translation": "Money, intoxication, love, money, intoxication.",
       "explanation": "The hypnotic repeat of his vices/distractions.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0948\u0938\u093e, \u0928\u0936\u093e, \u092a\u094d\u092f\u093e\u0930, \u092a\u0948\u0938\u093e, \u0928\u0936\u093e",
+      "original": "पैसा, नशा, प्यार, पैसा, नशा",
       "speaker": "Chorus",
       "translation": "Money, intoxication, love, money, intoxication.",
       "explanation": "The rhythmic chant of PnP.",
       "annotations": []
     },
     {
-      "original": "\u0932\u0947\u0915\u0947 \u0921\u0942\u092c\u093e \u092e\u0941\u091d\u0947 \u092a\u0948\u0938\u093e, \u0928\u0936\u093e, \u092a\u094d\u092f\u093e\u0930",
+      "original": "लेके डूबा मुझे पैसा, नशा, प्यार",
       "speaker": "Chorus",
       "translation": "Money, intoxication, and love were my downfall.",
       "explanation": "Admitting to being 'drowned' by these three elements.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0948\u0938\u093e, \u0928\u0936\u093e, \u092a\u094d\u092f\u093e\u0930, \u092a\u0948\u0938\u093e, \u0928\u0936\u093e",
+      "original": "पैसा, नशा, प्यार, पैसा, नशा",
       "speaker": "Chorus",
       "translation": "Money, intoxication, love, money, intoxication.",
       "explanation": "Final rhythmic sequence.",
       "annotations": []
     },
     {
-      "original": "\u092a\u0948\u0938\u093e, \u0928\u0936\u093e, \u092a\u094d\u092f\u093e\u0930, \u092a\u0948\u0938\u093e, \u0928\u0936\u093e",
+      "original": "पैसा, नशा, प्यार, पैसा, नशा",
       "speaker": "Chorus",
       "translation": "Money, intoxication, love, money, intoxication.",
       "explanation": "Closing out the hook.",
       "annotations": []
     },
     {
-      "original": "\u0932\u0947\u0915\u0947 \u0921\u0942\u092c\u093e \u092e\u0941\u091d\u0947",
+      "original": "लेके डूबा मुझे",
       "speaker": "Chorus",
       "translation": "They took me down.",
       "explanation": "The ultimate realization of being overwhelmed by PnP.",
       "annotations": []
     }
-  ]
+  ],
+  "summary": "\"Pnp\" delves into themes of duality, questioning identity, and the struggles between personal desires and societal expectations, while grappling with substance use and the search for meaning."
 };

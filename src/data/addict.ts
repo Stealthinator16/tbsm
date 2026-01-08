@@ -671,6 +671,6 @@ export const addict: Song = {
       "Seedhe Maut"
     ]
   },
-  "vibe": "Obsessive",
+  "vibe": "Introspective",
   "summary": "\"Addict\" delves into Seedhe Maut's relentless passion and dedication to their rap game, portraying their addiction to the craft and the sacrifices they make. It also touches upon their dominance in the scene and dismisses their competition."
 };

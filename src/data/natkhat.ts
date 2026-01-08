@@ -4,7 +4,7 @@ export const natkhat: Song = {
   "id": "natkhat",
   "title": "Natkhat",
   "slug": "natkhat",
-  "album": "\u2018\u0928\u2019 (Mixtape)",
+  "album": "‘न’ (Mixtape)",
   "releaseDate": "",
   "lyrics": [
     {
@@ -64,7 +64,14 @@ export const natkhat: Song = {
       "speaker": "Calm",
       "translation": "I have friends, and there are haters; there's no shortage of haters, but I want...",
       "explanation": "Acknowledging the balance between support and envy in the scene.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Yaar hain jo saale hater hain padhi ni kami hatero ki par mujhe chahiye",
+          "keyword": "Saale",
+          "type": "Slang",
+          "meaning": "Another Hindi slang term, often used as an insult but can also be used informally among friends. Here it is directed at the haters."
+        }
+      ]
     },
     {
       "original": "Ek aur hater",
@@ -124,7 +131,7 @@ export const natkhat: Song = {
       "original": "To banu me seedhe keanu",
       "speaker": "Calm",
       "translation": "Then I straight-up become Keanu.",
-      "explanation": "Reference to Keanu Reeves as John Wick\u2014silent, deadly, and unstoppable.",
+      "explanation": "Reference to Keanu Reeves as John Wick—silent, deadly, and unstoppable.",
       "annotations": [
         {
           "keyword": "keanu",
@@ -152,7 +159,7 @@ export const natkhat: Song = {
       ]
     },
     {
-      "original": "Muh soojega par tu kaise na kaise bol\u0435ga sorry tabhi rehn de (Abey inn chutiyo ko kitna bola hai yaar, ab\u0435y rehn de)",
+      "original": "Muh soojega par tu kaise na kaise bolеga sorry tabhi rehn de (Abey inn chutiyo ko kitna bola hai yaar, abеy rehn de)",
       "speaker": "Calm",
       "translation": "Your face will swell, but somehow you'll end up saying sorry, so just let it be. (How many times have I told these idiots, just let it be).",
       "explanation": "A dismissal of unworthy opponents who talk big but fold under pressure.",
@@ -196,7 +203,14 @@ export const natkhat: Song = {
       "speaker": "Calm",
       "translation": "The ashtray stays full all the time.",
       "explanation": "Reference to their lifestyle and the long studio sessions involving smoking.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ek aur ek gyaara chale do do paitre",
+          "keyword": "Ek aur ek gyaara",
+          "type": "Idiom",
+          "meaning": "A Hindi idiom meaning 'one and one makes eleven,' implying that unity or working together amplifies strength."
+        }
+      ]
     },
     {
       "original": "Tabhi bhai",
@@ -456,7 +470,7 @@ export const natkhat: Song = {
       "annotations": []
     },
     {
-      "original": "Vo puchte hai \u201cjeetega kitna? \u201c",
+      "original": "Vo puchte hai “jeetega kitna? “",
       "speaker": "Calm & Encore ABJ",
       "translation": "They ask, 'How much will you win?'",
       "explanation": "The industry's curiosity about their peak.",
@@ -513,11 +527,17 @@ export const natkhat: Song = {
       "original": "Tha Peg wo bada lekin Jager dali thodi aur",
       "speaker": "Calm",
       "translation": "The peg was large, but I added a bit more Jager.",
-      "explanation": "Referencing J\u00e4germeister; symbolic of wanting more even when already high.",
+      "explanation": "Referencing Jägermeister; symbolic of wanting more even when already high.",
       "annotations": [
         {
           "keyword": "jager",
           "type": "brand"
+        },
+        {
+          "text": "Bars likhu phone pe, use bolte jail break!",
+          "keyword": "Jail Break",
+          "type": "Metaphor",
+          "meaning": "Using 'jailbreak' in the context of writing bars on a phone, referring to the act of bypassing restrictions, often illegal modifications to a phone and creating very creative or unexpected lyrics."
         }
       ]
     },
@@ -587,7 +607,14 @@ export const natkhat: Song = {
       "speaker": "Encore ABJ",
       "translation": "My 'favorite' is on my d***.",
       "explanation": "A vulgar way of saying he doesn't care about being anyone's favorite or about others' rankings.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Daru bakra eid se",
+          "keyword": "Bakra Eid",
+          "type": "Reference",
+          "meaning": "Juxtaposing alcohol ('daru') with Bakra Eid (a Muslim festival of sacrifice) to create a contrasting and potentially provocative image. It implies a disregard for traditional norms and a rebellious attitude."
+        }
+      ]
     },
     {
       "original": "Bars likhu phone pe, use bolte jail break!",
@@ -618,7 +645,14 @@ export const natkhat: Song = {
       "speaker": "Encore ABJ",
       "translation": "This style isn't on sale.",
       "explanation": "You can't just buy or acquire his unique flow/skill.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Mere hatero ko soonghu 15ft se",
+          "keyword": "Soonghu",
+          "type": "Slang",
+          "meaning": "Using the word 'Soonghu' (smell) is an exaggerated and demeaning way to say he can detect his haters from a distance. Implies the haters are weak and easily detectable."
+        }
+      ]
     },
     {
       "original": "Teri beat aur flow jaise paani aur tel",
@@ -632,7 +666,14 @@ export const natkhat: Song = {
       "speaker": "Encore ABJ",
       "translation": "It's a piece of cake (child's play).",
       "explanation": "Asserting that rapping at this level is easy for him.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Mere haath me eenth aur aim tere teeth pe",
+          "keyword": "Eenth aur aim tere teeth pe",
+          "type": "Metaphor",
+          "meaning": "A very violent and direct metaphor, it implies that he's holding a brick (Eenth) in his hand and aiming it directly at the person's teeth. Very threatening."
+        }
+      ]
     },
     {
       "original": "Araam se pelte",
@@ -862,7 +903,7 @@ export const natkhat: Song = {
       "annotations": []
     },
     {
-      "original": "Vo puchte hai \u201cjeetega kitna? \u201c",
+      "original": "Vo puchte hai “jeetega kitna? “",
       "speaker": "Calm & Encore ABJ",
       "translation": "They ask, 'How much will you win?'",
       "explanation": "Closing question from the industry/fans.",
@@ -881,5 +922,7 @@ export const natkhat: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "vibe": "Aggressive",
+  "summary": "\"Natkhat\" is a hard-hitting track where Seedhe Maut flexes their lyrical prowess, confidence, and ambition, demanding more success and recognition while dismissing haters and asserting their dominance in the scene. They blend street smarts with sharp wordplay, showcasing their hunger for more. "
 };

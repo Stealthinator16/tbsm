@@ -4,9 +4,9 @@ export const nazarbhattu_freestyle: Song = {
   "id": "nazarbhattu_freestyle",
   "title": "Nazarbhattu Freestyle",
   "slug": "nazarbhattu-freestyle",
-  "album": "\u2018\u0928\u2019 (Mixtape)",
+  "album": "‘न’ (Mixtape)",
   "releaseDate": "",
-  "vibe": "Chill",
+  "vibe": "Introspective",
   "lyrics": [
     {
       "original": "Go, wooo",
@@ -53,7 +53,14 @@ export const nazarbhattu_freestyle: Song = {
       "speaker": "Encore ABJ",
       "translation": "In the words of a boy from the dairy farm",
       "explanation": "A reference to Encore's family background and roots in rural/semi-urban areas where dairy farming is common.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Hai dairy farm wale launde ki zabani",
+          "keyword": "Dairy Farm",
+          "type": "Reference",
+          "meaning": "Likely refers to the area/neighborhood they grew up in, possibly Tilak Nagar. It establishes their origin story and roots."
+        }
+      ]
     },
     {
       "original": "Jebon me hai paisa fir bhi rakhte lawde pe ambani kyun? (Kyun)",
@@ -64,6 +71,12 @@ export const nazarbhattu_freestyle: Song = {
         {
           "keyword": "Lawde pe",
           "type": "Slang/Idiom"
+        },
+        {
+          "text": "Jebon me hai paisa fir bhi rakhte lawde pe ambani kyun?",
+          "keyword": "Ambani",
+          "type": "Metaphor",
+          "meaning": "Despite having money (achieving some success), they don't care about flaunting wealth or being like a rich person (implied reference to Mukesh Ambani). They remain grounded."
         }
       ]
     },
@@ -110,14 +123,28 @@ export const nazarbhattu_freestyle: Song = {
       "speaker": "Encore ABJ",
       "translation": "How?",
       "explanation": "A rhetorical bridge to the next point about systemic issues.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Vo bole usko tax de!",
+          "keyword": "Tax",
+          "type": "Social Commentary",
+          "meaning": "Critique of the taxation system, highlighting how even the poor are burdened."
+        }
+      ]
     },
     {
       "original": "Vo bole usko tax de! (Wooooh)",
       "speaker": "Encore ABJ",
       "translation": "They tell him to pay tax!",
       "explanation": "Direct commentary on how the government demands taxes even from the struggling masses.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Kala paisa! All facts! No caps bey!",
+          "keyword": "No caps",
+          "type": "Slang",
+          "meaning": "\"No cap\" means no lie, everything they say is factual."
+        }
+      ]
     },
     {
       "original": "Kala paisa! All facts! No caps bey!",
@@ -164,7 +191,14 @@ export const nazarbhattu_freestyle: Song = {
       "speaker": "Encore ABJ",
       "translation": "Anyway",
       "explanation": "A transition word to move to the next thought.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Har haan me haan milane waale launde hote hai gair",
+          "keyword": "Gair",
+          "type": "Slang",
+          "meaning": "\"Gair\" means outsider or not genuine. They are saying that people who agree with everything are not trustworthy"
+        }
+      ]
     },
     {
       "original": "Har ek din aur har ek waqt se bair",
@@ -199,6 +233,12 @@ export const nazarbhattu_freestyle: Song = {
         {
           "keyword": "Samvidhaan",
           "type": "Noun"
+        },
+        {
+          "text": "Inki ego trip me bhara mera desh rakt",
+          "keyword": "Desh Rakt",
+          "type": "Metaphor",
+          "meaning": "The ego trips and power plays of people in power are causing harm to the country (metaphorically spilling its blood)."
         }
       ]
     },
@@ -214,14 +254,34 @@ export const nazarbhattu_freestyle: Song = {
       "speaker": "Encore ABJ",
       "translation": "Whoever clashes with me will leave humiliated",
       "explanation": "Standard hip-hop bravado warning opponents.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Kalam tod - dev dutt!",
+          "keyword": "Kalam tod",
+          "type": "Slang",
+          "meaning": "\"Kalam Tod\" means writing with intense passion and power. It suggests writing so well that you break your pen."
+        },
+        {
+          "text": "Kalam tod - dev dutt!",
+          "keyword": "Dev Dutt",
+          "type": "Reference",
+          "meaning": "A possible reference to a mythological figure, but more likely wordplay alluding to how skilled they are with their pen/writing."
+        }
+      ]
     },
     {
       "original": "Mai khoonkhaar peshkash",
       "speaker": "Encore ABJ",
       "translation": "I am a ferocious presentation",
       "explanation": "Describing his lethal lyrical delivery.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Haatho ke dumm pe cycle leke chaand pe",
+          "keyword": "Chaand pe",
+          "type": "Metaphor",
+          "meaning": "Achieving the impossible through hard work. Going to the moon is symbolic of great achievements."
+        }
+      ]
     },
     {
       "original": "Kalam tod - dev dutt!",
@@ -232,11 +292,17 @@ export const nazarbhattu_freestyle: Song = {
         {
           "keyword": "Kalam tod",
           "type": "Idiom"
+        },
+        {
+          "text": "Ek lance, aur ek neil- mere dono arm strong hai",
+          "keyword": "Arm Strong",
+          "type": "Wordplay/Reference",
+          "meaning": "A clever wordplay using Lance Armstrong (cyclist) and Neil Armstrong (astronaut) to convey they are strong (both physically and metaphorically in their craft)."
         }
       ]
     },
     {
-      "original": "Haatho ke dumm p\u0435 cycle leke chaand p\u0435",
+      "original": "Haatho ke dumm pе cycle leke chaand pе",
       "speaker": "Encore ABJ",
       "translation": "On the strength of my hands, taking a cycle to the moon",
       "explanation": "A reference to India's space program (ISRO) origins and a metaphor for achieving greatness from humble beginnings.",
@@ -245,7 +311,7 @@ export const nazarbhattu_freestyle: Song = {
     {
       "original": "Ek lance, aur ek neil- mere dono arm strong hai (Hands up, aah)",
       "speaker": "Encore ABJ",
-      "translation": "One Lance, and one Neil\u2014both my arms are strong",
+      "translation": "One Lance, and one Neil—both my arms are strong",
       "explanation": "A genius triple entendre: 1. Lance Armstrong (cyclist), 2. Neil Armstrong (astronaut), 3. His physical 'arms' are 'strong'.",
       "annotations": [
         {
@@ -292,7 +358,14 @@ export const nazarbhattu_freestyle: Song = {
       "speaker": "Calm",
       "translation": "Now I have everything, but I don't know why something still stings",
       "explanation": "Addressing the 'imposter syndrome' or the emptiness that sometimes follows fame.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Hu swaarthee thoda me aankhon me teri to mujhe kya ma chudu chomu me karu jo lage sahi mujhe na suni kisi ki na sununga aage me thoda sa",
+          "keyword": "Ma chudu chomu",
+          "type": "Slang",
+          "meaning": "A dismissive phrase indicating that the speaker is unbothered by the listener's perspective or opinion."
+        }
+      ]
     },
     {
       "original": "Deta ni kisi ko time aur ab",
@@ -306,7 +379,14 @@ export const nazarbhattu_freestyle: Song = {
       "speaker": "Calm",
       "translation": "Old friends don't recognize me (Not at all)",
       "explanation": "How fame has changed him or how people's perception of him has shifted.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Tilaknagar se GQ (Haan)",
+          "keyword": "GQ",
+          "type": "Metaphor",
+          "meaning": "Comparing their journey from their neighborhood (Tilaknagar) to being 'GQ' which means being fashionable and successful. It signifies their rise."
+        }
+      ]
     },
     {
       "original": "Hu swaarthee thoda me aankhon me teri to mujhe kya ma chudu chomu me karu jo lage sahi mujhe na suni kisi ki na sununga aage me thoda sa",
@@ -395,14 +475,28 @@ export const nazarbhattu_freestyle: Song = {
       "speaker": "Calm",
       "translation": "I don't lie to myself",
       "explanation": "Maintaining self-integrity.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Koi maara ni teer ukhaada ni jhaat",
+          "keyword": "Teer ukhaada ni jhaat",
+          "type": "Slang/Figurative",
+          "meaning": "Saying that they haven't achieved anything extraordinary, implying humility and continuous self-improvement."
+        }
+      ]
     },
     {
       "original": "Tab mere me tha ni darr (Nahi)",
       "speaker": "Calm",
       "translation": "Back then, I had no fear",
       "explanation": "The 'nothing to lose' attitude of a newcomer.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Ki bolu me goat hu par abhi time hai",
+          "keyword": "GOAT",
+          "type": "Slang",
+          "meaning": "\"GOAT\" means Greatest Of All Time. He acknowledges the aspiration but believes it's not yet time to claim that title."
+        }
+      ]
     },
     {
       "original": "Ab sochu me jaau na doob (Hey)",
@@ -518,7 +612,7 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": []
     },
     {
-      "original": "Wo boli \u201caaj hi\u201d",
+      "original": "Wo boli “aaj hi”",
       "speaker": "Encore ABJ",
       "translation": "She said 'today itself'",
       "explanation": "Encore repeating the bridge/hook for emphasis.",
@@ -551,5 +645,6 @@ export const nazarbhattu_freestyle: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "summary": "Seedhe Maut reflects on their journey, from humble beginnings to success in the music industry, touching on societal issues and personal changes while maintaining their signature raw honesty."
 };

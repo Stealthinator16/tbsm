@@ -4,14 +4,14 @@ export const nanchaku: Song = {
   "id": "nanchaku",
   "title": "Nanchaku",
   "slug": "nanchaku",
-  "album": "\u2018\u0928\u2019 (Mixtape)",
+  "album": "‘न’ (Mixtape)",
   "vibe": "Aggressive",
   "lyrics": [
     {
       "original": "Khokle khoke",
       "speaker": "Encore ABJ",
       "translation": "Empty millions / Hollow boxes",
-      "explanation": "A wordplay on 'khoke' which means millions in slang and also hollow boxes. He\u2019s calling out rappers with fake wealth or empty personalities.",
+      "explanation": "A wordplay on 'khoke' which means millions in slang and also hollow boxes. He’s calling out rappers with fake wealth or empty personalities.",
       "annotations": [
         {
           "word": "Khoke",
@@ -94,6 +94,12 @@ export const nanchaku: Song = {
         {
           "word": "Sholey",
           "type": "Pun"
+        },
+        {
+          "text": "Jai-veeru jode jo likhe vo sholey",
+          "keyword": "Jai-Veeru, Sholay",
+          "type": "Reference",
+          "meaning": "Refers to the iconic duo from the classic Bollywood film 'Sholay', implying a strong partnership and impactful writing style."
         }
       ]
     },
@@ -114,10 +120,17 @@ export const nanchaku: Song = {
       "speaker": "Encore ABJ",
       "translation": "Whoever talks too much",
       "explanation": "A warning to those who talk big without substance or those who snitch/gossip.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Jo jyada mu khole",
+          "keyword": "mu khole",
+          "type": "Slang",
+          "meaning": "Those who talk too much or run their mouths."
+        }
+      ]
     },
     {
-      "original": "Yaha chante\u205fni\u205ftole\u205fbas tole hai\u205ftole",
+      "original": "Yaha chante ni tole bas tole hai tole",
       "speaker": "Encore ABJ",
       "translation": "No picking or choosing, we just weigh the goods",
       "explanation": "A reference to drug deals or quality control; they deal in bulk ('tole' as in weight units like Tola).",
@@ -129,7 +142,7 @@ export const nanchaku: Song = {
       ]
     },
     {
-      "original": "To le karle\u205fagni mehsoos",
+      "original": "To le karle agni mehsoos",
       "speaker": "Encore ABJ",
       "translation": "So here, feel the fire",
       "explanation": "Inviting the listener to feel the intensity of his bars/verse.",
@@ -178,7 +191,14 @@ export const nanchaku: Song = {
       "speaker": "Encore ABJ",
       "translation": "Don't try anything stupid",
       "explanation": "A warning to enemies or rivals.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Vo rakhti hai sheh se mehfooz",
+          "keyword": "Sheh",
+          "type": "Reference",
+          "meaning": "A chess reference indicating protection from threats, like the 'king' being kept safe."
+        }
+      ]
     },
     {
       "original": "Launde yaha jaate hai marr katt",
@@ -192,7 +212,14 @@ export const nanchaku: Song = {
       "speaker": "Encore ABJ",
       "translation": "I've got 67 murders on my head",
       "explanation": "Hyperbolic claim of lyrical dominance. He 'kills' every track. 67 is also a reference to his pin code or a specific crew number.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Launde yaha jaate hai marr katt",
+          "keyword": "Marr Katt",
+          "type": "Slang",
+          "meaning": "People here die fighting or struggling, often involving violence."
+        }
+      ]
     },
     {
       "original": "Lala kya jeena hai darkar?",
@@ -218,7 +245,14 @@ export const nanchaku: Song = {
       "speaker": "Encore ABJ",
       "translation": "Burning with jealousy and rotting among friends",
       "explanation": "Describing people who are toxic and stuck in the same place due to their mindset.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Auro se jalke yaaro me sadkar",
+          "keyword": "Jalke, Sadkar",
+          "type": "Metaphor",
+          "meaning": "Being jealous of others and rotting internally with friends (due to envy or negativity)."
+        }
+      ]
     },
     {
       "original": "Aage ni badhte karke bad bad",
@@ -236,6 +270,12 @@ export const nanchaku: Song = {
         {
           "word": "Billi",
           "type": "Idiom"
+        },
+        {
+          "text": "billi nikli hajj par",
+          "keyword": "Billi, Hajj",
+          "type": "Metaphor",
+          "meaning": "An absurd situation, like a cat going on a pilgrimage (Hajj), implying something unexpected and out of character is happening."
         }
       ]
     },
@@ -243,7 +283,7 @@ export const nanchaku: Song = {
       "original": "Nigla use vaha pe ek ajgar",
       "speaker": "Encore ABJ",
       "translation": "A python swallowed it there",
-      "explanation": "Continuing the metaphor\u2014there's always a bigger fish (or snake) to humble the hypocrite.",
+      "explanation": "Continuing the metaphor—there's always a bigger fish (or snake) to humble the hypocrite.",
       "annotations": []
     },
     {
@@ -258,7 +298,14 @@ export const nanchaku: Song = {
       "speaker": "Encore ABJ",
       "translation": "And nothing is greater than your deeds",
       "explanation": "Stressing the importance of Karma/actions.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "auro pe chadhkar",
+          "keyword": "Chadhkar",
+          "type": "Metaphor",
+          "meaning": "Rising by stepping over others, a criticism of exploiting people for personal gain."
+        }
+      ]
     },
     {
       "original": "Bachenge baal ni sar par",
@@ -307,7 +354,14 @@ export const nanchaku: Song = {
       "speaker": "Encore ABJ",
       "translation": "Both of you are uneducated",
       "explanation": "Dismissing both the rival and his associates.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "dono hi anpadh",
+          "keyword": "Anpadh",
+          "type": "Slang",
+          "meaning": "Uneducated; both are ignorant or clueless."
+        }
+      ]
     },
     {
       "original": "Mai  thama hasi",
@@ -432,7 +486,7 @@ export const nanchaku: Song = {
       "annotations": []
     },
     {
-      "original": "Buzzer kara beat maara gaand faad 3 \u201cKobe\u201d",
+      "original": "Buzzer kara beat maara gaand faad 3 “Kobe”",
       "speaker": "Calm",
       "translation": "Beat the buzzer with a 'Kobe' 3-pointer",
       "explanation": "A basketball reference. Like Kobe Bryant, he hits the winning shot under pressure.",
@@ -466,7 +520,7 @@ export const nanchaku: Song = {
       "original": "Baraabri to bar maar tees",
       "speaker": "Calm",
       "translation": "...Compete? Then spit thirty bars",
-      "explanation": "He\u2019s saying his 16 bars are so dense that an opponent would need 30 bars to match the quality.",
+      "explanation": "He’s saying his 16 bars are so dense that an opponent would need 30 bars to match the quality.",
       "annotations": []
     },
     {
@@ -482,11 +536,18 @@ export const nanchaku: Song = {
       ]
     },
     {
-      "original": "\u201cUhh pencil\u201d",
+      "original": "“Uhh pencil”",
       "speaker": "Calm",
       "translation": "Uhh, pencil",
       "explanation": "The setup for the joke.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Gaand faad di",
+          "keyword": "Gaand faad di",
+          "type": "Slang",
+          "meaning": "Completely blew everyone away; destroyed the competition."
+        }
+      ]
     },
     {
       "original": "Papa ko kaise karega cancel",
@@ -500,7 +561,14 @@ export const nanchaku: Song = {
       "speaker": "Calm",
       "translation": "This is years of hard work, it won't vanish. Without me, the party won't even start.",
       "explanation": "Confidence in his legacy and his essential role in the hip-hop scene.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Buzzer kara beat maara gaand faad 3 “Kobe”",
+          "keyword": "Kobe",
+          "type": "Reference",
+          "meaning": "Referring to Kobe Bryant, implying a game winning shot or performance, and continuing the previous line's intensity."
+        }
+      ]
     },
     {
       "original": "Jaa le jitna lena tujhe twitter pe action",
@@ -621,7 +689,7 @@ export const nanchaku: Song = {
       "original": "Pasand hai aaj bhi woh, lekin woh rand",
       "speaker": "MC Stan",
       "translation": "I still like her, but she's a...",
-      "explanation": "Stan\u2019s typical unfiltered and often controversial way of talking about past relationships.",
+      "explanation": "Stan’s typical unfiltered and often controversial way of talking about past relationships.",
       "annotations": []
     },
     {
@@ -667,7 +735,14 @@ export const nanchaku: Song = {
       "speaker": "MC Stan",
       "translation": "I was waiting for you",
       "explanation": "Stan's delivery style here is very staccato.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Freedom of speech ki bhi maa chod di hai",
+          "keyword": "Maa chod di hai",
+          "type": "Slang",
+          "meaning": "A vulgar expression signifying the severe limitation or suppression of freedom of speech."
+        }
+      ]
     },
     {
       "original": "Kabhi nahi, jhukata",
@@ -727,7 +802,7 @@ export const nanchaku: Song = {
       "original": "Button nai chabata",
       "speaker": "MC Stan",
       "translation": "I don't chew buttons",
-      "explanation": "'Button' is slang for MDMA/pills. He\u2019s claiming he doesn't do those specific drugs.",
+      "explanation": "'Button' is slang for MDMA/pills. He’s claiming he doesn't do those specific drugs.",
       "annotations": [
         {
           "word": "Button",
@@ -754,7 +829,14 @@ export const nanchaku: Song = {
       "speaker": "MC Stan",
       "translation": "Fuck the world, I hide from the world",
       "explanation": "Stan expressing his antisocial or hermit-like tendencies despite his fame.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Lawde bole repetitive mere flow ko jo",
+          "keyword": "Lawde",
+          "type": "Slang",
+          "meaning": "Used to dismiss those who criticize their flow as repetitive."
+        }
+      ]
     },
     {
       "original": "Bazaar mei, dikhata",
@@ -775,7 +857,14 @@ export const nanchaku: Song = {
       "speaker": "MC Stan",
       "translation": "Mistakes will happen, bro, I'm only human",
       "explanation": "A rare moment of vulnerability/humanizing himself.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Gaand todd di hai",
+          "keyword": "Gaand todd di hai",
+          "type": "Slang",
+          "meaning": "Similar to 'Gaand faad di,' but possibly even more intense. Signifies utterly dominating something."
+        }
+      ]
     },
     {
       "original": "Kya bolta pasha, bhot hogayeli nasha",
@@ -796,7 +885,14 @@ export const nanchaku: Song = {
       "speaker": "MC Stan",
       "translation": "The dressing was hard, full of shine",
       "explanation": "Refers to his flashy, 'new-money' or high-fashion style. 'Zhag mag' means shiny.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Muh pe inke thooku kya, khaya mene pan",
+          "keyword": "Pan",
+          "type": "Cultural",
+          "meaning": "A reference to chewing 'paan' (betel leaf), which stains the saliva red. The line implies spitting red saliva (pan) on his rivals - a sign of disrespect and aggression."
+        }
+      ]
     },
     {
       "original": "Opps la mi zhavnar, sanglyan ni bhaga",
@@ -1000,5 +1096,6 @@ export const nanchaku: Song = {
     "writtenBy": [
       "Seedhe Maut"
     ]
-  }
+  },
+  "summary": "Nanchaku is a raw, aggressive track where Seedhe Maut showcases their lyrical prowess and dominance in the Desi Hip Hop scene. The song is filled with metaphors, boasts, and dismissive remarks aimed at their rivals, solidifying their position at the top."
 };

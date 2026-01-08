@@ -6,7 +6,7 @@ export const ice: Song = {
   "slug": "ice",
   "album": "Kshama",
   "releaseDate": "",
-  "vibe": "Reflective",
+  "vibe": "Introspective",
   "lyrics": [
     {
       "original": "Seedhe Maut you know for the while",

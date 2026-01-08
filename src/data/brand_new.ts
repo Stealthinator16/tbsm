@@ -6,7 +6,7 @@ export const brand_new: Song = {
   "slug": "brand-new",
   "album": "Lunch Break",
   "releaseDate": "",
-  "vibe": "Confident",
+  "vibe": "Aggressive",
   "lyrics": [
     {
       "original": "Body bag ek, mahange mic do, Gucci bag teen",

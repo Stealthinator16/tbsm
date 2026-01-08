@@ -437,6 +437,6 @@ export const lunch_break: Song = {
       ]
     }
   ],
-  "vibe": "Confident",
+  "vibe": "Aggressive",
   "summary": "Seedhe Maut asserts their dominance in the Desi Hip Hop scene, highlighting their work ethic and independent status. The song is a boastful declaration of their present success and future ambitions, dismissing competition and maintaining their authenticity."
 };

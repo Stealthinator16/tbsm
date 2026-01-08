@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import { getAllVibes, getSongsByVibe, getVibeStats } from '../../utils/vibes';
 import Link from 'next/link';
-import { ArrowLeft, Play, Zap, Cloud, Brain, BookOpen } from 'lucide-react';
+import { ArrowLeft, Play, Zap, Cloud, Brain, BookOpen, Flame, Moon } from 'lucide-react';
 
 export default function VibesPage() {
     const vibes = getAllVibes();
@@ -18,6 +18,8 @@ export default function VibesPage() {
             case 'Chill': return <Cloud className="w-6 h-6" />;
             case 'Introspective': return <Brain className="w-6 h-6" />;
             case 'Storytelling': return <BookOpen className="w-6 h-6" />;
+            case 'Hype': return <Flame className="w-6 h-6" />;
+            case 'Dark': return <Moon className="w-6 h-6" />;
             default: return <Play className="w-6 h-6" />;
         }
     };
@@ -28,6 +30,8 @@ export default function VibesPage() {
             case 'Chill': return 'from-cyan-500 via-blue-500 to-indigo-600';
             case 'Introspective': return 'from-purple-600 via-indigo-600 to-violet-800';
             case 'Storytelling': return 'from-emerald-500 via-green-600 to-teal-700';
+            case 'Hype': return 'from-yellow-400 via-orange-500 to-red-600';
+            case 'Dark': return 'from-zinc-800 via-stone-900 to-black';
             default: return 'from-zinc-500 to-zinc-700';
         }
     };
@@ -60,8 +64,8 @@ export default function VibesPage() {
                             key={vibe}
                             onClick={() => setSelectedVibe(vibe)}
                             className={`relative overflow-hidden group rounded-xl aspect-[4/3] flex flex-col items-center justify-center border transition-all duration-300 ${selectedVibe === vibe
-                                    ? 'border-white scale-105 shadow-2xl z-10'
-                                    : 'border-zinc-800 hover:border-zinc-600 hover:scale-[1.02]'
+                                ? 'border-white scale-105 shadow-2xl z-10'
+                                : 'border-zinc-800 hover:border-zinc-600 hover:scale-[1.02]'
                                 }`}
                         >
                             {/* Background Gradient */}
