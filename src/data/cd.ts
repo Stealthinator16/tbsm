@@ -1,0 +1,709 @@
+import { Song } from '../types';
+
+export const cd: Song = {
+  "id": "cd",
+  "title": "CD",
+  "slug": "cd",
+  "album": "DL91 FM",
+  "releaseDate": "",
+  "lyrics": [
+    {
+      "original": "मैं आता वहाँ से जहाँपे लौंडे भरते रपट",
+      "speaker": "Encore ABJ",
+      "translation": "I come from a place where the boys file police reports.",
+      "explanation": "Encore describes his roots in gritty Delhi neighborhoods where police cases (Rapat) and street altercations are a daily reality.",
+      "annotations": [
+        {
+          "keyword": "रपट",
+          "type": "slang"
+        },
+        {
+          "keyword": "लौंडे",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "प्यार है जैसे पानी तो यहाँ लौंडे बन गए cactus",
+      "speaker": "Encore ABJ",
+      "translation": "If love is like water, then the boys here have become cacti.",
+      "explanation": "A metaphor for survival: just as a cactus adapts to live without water, these boys have become hardened to survive without love or softness.",
+      "annotations": [
+        {
+          "keyword": "cactus",
+          "type": "metaphor"
+        }
+      ]
+    },
+    {
+      "original": "Jackie Chan सा लड़ना आता है पर फिर भी actor",
+      "speaker": "Encore ABJ",
+      "translation": "I know how to fight like Jackie Chan, but I'm still an actor.",
+      "explanation": "He claims real-life toughness but acknowledges that being a rapper involves a level of performance or public image.",
+      "annotations": [
+        {
+          "keyword": "Jackie Chan",
+          "type": "reference"
+        }
+      ]
+    },
+    {
+      "original": "Bible आती काम ना यहाँ survival करता matter",
+      "speaker": "Encore ABJ",
+      "translation": "The Bible doesn't help here; only survival matters.",
+      "explanation": "In the streets, religious scriptures or morality take a backseat to the raw necessity of staying alive.",
+      "annotations": [
+        {
+          "text": "Bible आती काम ना यहाँ survival करता matter",
+          "keyword": "Bible",
+          "type": "Metaphor",
+          "meaning": "Suggesting that religious texts are irrelevant in their world; survival and street smarts are what truly matter."
+        }
+      ]
+    },
+    {
+      "original": "रहते अलग sector लेकिन पैसा common factor",
+      "speaker": "Encore ABJ",
+      "translation": "We live in different sectors, but money is the common factor.",
+      "explanation": "Refers to Delhi's sector-based urban planning. Despite different backgrounds, everyone is united by the hustle for wealth.",
+      "annotations": [
+        {
+          "keyword": "sector",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "original": "Check the jazba जब भी आता booth में",
+      "speaker": "Encore ABJ",
+      "translation": "Check the passion whenever I enter the booth.",
+      "explanation": "A flex on his unmatched energy and intensity during recording sessions.",
+      "annotations": [
+        {
+          "keyword": "jazba",
+          "type": "vocabulary"
+        }
+      ]
+    },
+    {
+      "original": "Opps हैं बेटे, दिखता प्यार है इनकी माँ के रूप में",
+      "speaker": "Encore ABJ",
+      "translation": "They are enemies, son; the only love they get is from their mothers.",
+      "explanation": "A cold line suggesting his enemies are so unlikable or weak that only their mothers could love them.",
+      "annotations": [
+        {
+          "keyword": "Opps",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "पिताजी से क्षमा माँग",
+      "speaker": "Encore ABJ",
+      "translation": "Ask your father for forgiveness.",
+      "explanation": "Telling his rivals to repent for their failures or for the shame they bring to their families.",
+      "annotations": []
+    },
+    {
+      "original": "शर्मसार गंदा काम",
+      "speaker": "Encore ABJ",
+      "translation": "Shameful, dirty work.",
+      "explanation": "Commenting on the low-quality effort or lifestyle of his competition.",
+      "annotations": []
+    },
+    {
+      "original": "लौंडे लगे bitch, इन कन्याओं का करूँ कन्यादान",
+      "speaker": "Encore ABJ",
+      "translation": "These guys act like bitches; I'll perform the 'Kanyadaan' for these girls.",
+      "explanation": "Emasculating his rivals by calling them girls and saying he'll 'give them away' like in a wedding ritual.",
+      "annotations": [
+        {
+          "keyword": "कन्यादान",
+          "type": "cultural reference"
+        }
+      ]
+    },
+    {
+      "original": "फ़ज़ूलों side हो, money count लगे Manikarnika",
+      "speaker": "OG Lucifer",
+      "translation": "Useless people step aside; my money counting sounds like Manikarnika.",
+      "explanation": "Reference to the Queen of Jhansi or the burning ghats; implying his wealth is legendary or powerful as fire.",
+      "annotations": [
+        {
+          "keyword": "Manikarnika",
+          "type": "reference"
+        },
+        {
+          "text": "लौंडे लगे bitch, इन कन्याओं का करूँ कन्यादान",
+          "keyword": "कन्यादान",
+          "type": "Cultural",
+          "meaning": "Kanyadaan is a Hindu wedding ritual where the father gives away his daughter. Here they are using it to say they are giving away these girls."
+        }
+      ]
+    },
+    {
+      "original": "मेरी बात नशा है पानी का (flood), मेरी झाँट लगे तुझे money plant",
+      "speaker": "OG Lucifer",
+      "translation": "My words are like a flood; even my waste looks like a money plant to you.",
+      "explanation": "An extreme flex suggesting that even his most trivial parts are more valuable than the listener's entire life.",
+      "annotations": [
+        {
+          "keyword": "money plant",
+          "type": "metaphor"
+        },
+        {
+          "text": "फ़ज़ूलों side हो, money count लगे Manikarnika",
+          "keyword": "Manikarnika",
+          "type": "Reference",
+          "meaning": "Manikarnika Ghat is a famous cremation ground in Varanasi. This is a dark metaphor where the artist equates the abundance of money to the quantity of bodies cremated."
+        }
+      ]
+    },
+    {
+      "original": "Gyat gyat",
+      "speaker": "OG Lucifer",
+      "translation": "Gyat gyat.",
+      "explanation": "Internet slang used to express excitement or reaction to something impressive.",
+      "annotations": [
+        {
+          "keyword": "Gyat",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "वो bitch area की Kareena",
+      "speaker": "OG Lucifer",
+      "translation": "That girl is the Kareena (Kapoor) of the area.",
+      "explanation": "Comparing a local girl to the famous Bollywood diva to denote her popularity or attitude.",
+      "annotations": [
+        {
+          "keyword": "Kareena",
+          "type": "reference"
+        },
+        {
+          "text": "Gyat gyat",
+          "keyword": "Gyat",
+          "type": "Slang",
+          "meaning": "A slang term, short for 'God damn, you're thick', typically used to express attraction, particularly to a woman's backside."
+        }
+      ]
+    },
+    {
+      "original": "ये cash रखता हँसी ना, area का लंगड़ा संविधान",
+      "speaker": "OG Lucifer",
+      "translation": "This cash brings no laughter; it's the crippled constitution of the area.",
+      "explanation": "Money is a serious, grim matter, and it dictates the broken laws of the street.",
+      "annotations": [
+        {
+          "text": "वो bitch area की Kareena",
+          "keyword": "Kareena",
+          "type": "Reference",
+          "meaning": "Likely referencing Kareena Kapoor, implying that area is as desirable or sought after as the actress. Can also be a reference to the designer Kareena area."
+        }
+      ]
+    },
+    {
+      "original": "Rep करूँ 91, तेरे मुँह पे बनता 92",
+      "speaker": "OG Lucifer",
+      "translation": "I represent 91, and I'll leave a 92 on your face.",
+      "explanation": "+91 is India's country code. '92' likely refers to a slap or a punch that leaves a mark.",
+      "annotations": [
+        {
+          "keyword": "91",
+          "type": "code"
+        }
+      ]
+    },
+    {
+      "original": "Villa करता bargain पर Thane में देता blinddate",
+      "speaker": "OG Lucifer",
+      "translation": "Bargaining for a villa but setting up blind dates in the police station.",
+      "explanation": "Wordplay on 'Thane' (Mumbai district) and 'Thana' (Police station).",
+      "annotations": [
+        {
+          "keyword": "Thane",
+          "type": "wordplay"
+        }
+      ]
+    },
+    {
+      "original": "ज़िंदगी के ना मायने, तभी migraine देता mind games",
+      "speaker": "OG Lucifer",
+      "translation": "Life has no meaning, which is why mind games cause migraines.",
+      "explanation": "Reflecting on existential dread and the stress of street politics.",
+      "annotations": []
+    },
+    {
+      "original": "तेरा घर का मौसम change करूँ, बावै गलियाँ बोले Tansen",
+      "speaker": "OG Lucifer",
+      "translation": "I'll change the weather in your house; bro, the streets call me Tansen.",
+      "explanation": "Tansen was a legendary singer said to control weather with music. Lucifer claims his voice/influence has similar power.",
+      "annotations": [
+        {
+          "keyword": "Tansen",
+          "type": "reference"
+        },
+        {
+          "keyword": "बावै",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "तोड़ेगी कैसे रखे भाई पे बावै चार दिल",
+      "speaker": "Calm",
+      "translation": "How will she break it? Bro has four hearts.",
+      "explanation": "Calm claims to be heartless or to have so many backups that a single heartbreak can't affect him.",
+      "annotations": []
+    },
+    {
+      "original": "कह रही थी दो हैं, लेकिन मैंने देखे चार till",
+      "speaker": "Calm",
+      "translation": "She said there were two, but I saw four until now.",
+      "explanation": "Likely referring to girls, luxury items, or hits, mocking someone's false claims.",
+      "annotations": []
+    },
+    {
+      "original": "अंदर से bitch हैं, internet पे कहते बाहर मिल",
+      "speaker": "Calm",
+      "translation": "They are soft inside but act tough on the internet, saying 'meet me outside'.",
+      "explanation": "Calling out keyboard warriors who are only brave behind a screen.",
+      "annotations": []
+    },
+    {
+      "original": "मैं नहीं देता fuck about your page, I'm in my car still",
+      "speaker": "Calm",
+      "translation": "I don't give a fuck about your page; I'm still in my car.",
+      "explanation": "Calm is unbothered by social media noise; he's busy enjoying his success.",
+      "annotations": []
+    },
+    {
+      "original": "CEO, rap money made me बहुत rich",
+      "speaker": "Calm",
+      "translation": "CEO, rap money made me very rich.",
+      "explanation": "A direct boast about the financial success of Seedhe Maut and their independent label.",
+      "annotations": []
+    },
+    {
+      "original": "है गेम में काफी soft kids, नहीं देखे इन्होंने moshpits",
+      "speaker": "Calm",
+      "translation": "There are many soft kids in the game; they haven't seen real moshpits.",
+      "explanation": "Criticizing new rappers who lack the experience and grit of real live underground hip-hop culture.",
+      "annotations": [
+        {
+          "keyword": "moshpits",
+          "type": "concert culture"
+        }
+      ]
+    },
+    {
+      "original": "हूँ in the cockpit, वो करना चाहती lock lip",
+      "speaker": "Calm",
+      "translation": "I'm in the cockpit; she wants to lock lips.",
+      "explanation": "He is in the pilot's seat (in control), and his status makes him attractive.",
+      "annotations": []
+    },
+    {
+      "original": "बस देखा bandi lost it, है ताकत ऐसी cosmic",
+      "speaker": "Calm",
+      "translation": "Just saw the girl lose it; the power is cosmic.",
+      "explanation": "His aura or performance is so intense that it overwhelms the crowd.",
+      "annotations": []
+    },
+    {
+      "original": "इकहत्तर और छियानवे",
+      "speaker": "Lil Bhavi",
+      "translation": "71 and 96.",
+      "explanation": "References to specific area codes or bus routes in Delhi, common in local hip-hop.",
+      "annotations": []
+    },
+    {
+      "original": "ठूँठ पे छाप दूँ बानवे",
+      "speaker": "Lil Bhavi",
+      "translation": "I'll print 92 on the tree stump.",
+      "explanation": "Referring to marking territory or a specific gang/group identification.",
+      "annotations": [
+        {
+          "text": "CEO, rap money made me बहुत rich",
+          "keyword": "CEO",
+          "type": "Metaphor",
+          "meaning": "Indicating their success and control over their career in the rap industry, akin to being a CEO of their own enterprise."
+        }
+      ]
+    },
+    {
+      "original": "यहाँ चूड़ा गुस्से पे पहले है बातों का समय बाद में (Ok है)",
+      "speaker": "Lil Bhavi",
+      "translation": "Here, aggression comes first; talk comes later.",
+      "explanation": "Bhavi uses 'Chuda' as a subverted identity, emphasizing a 'shoot first' street mentality.",
+      "annotations": [
+        {
+          "keyword": "चूड़ा",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "Aadhaar नहीं है धार पे, गायब करता वार से",
+      "speaker": "Lil Bhavi",
+      "translation": "No ID on the blade's edge; I make them disappear with one strike.",
+      "explanation": "Wordplay on 'Aadhaar' (ID) and 'Dhaar' (blade sharpness).",
+      "annotations": [
+        {
+          "keyword": "Aadhaar",
+          "type": "wordplay"
+        },
+        {
+          "text": "हूँ in the cockpit, वो करना चाहती lock lip",
+          "keyword": "cockpit",
+          "type": "Metaphor",
+          "meaning": "Being in the cockpit symbolizes being in control and at the helm of a situation. Lock lip referring to not snitching or telling secrets."
+        }
+      ]
+    },
+    {
+      "original": "ये बंदे bitches बन गए, अब वो चाहते puppy गाल पे",
+      "speaker": "Lil Bhavi",
+      "translation": "These guys became bitches; now they want a kiss on the cheek.",
+      "explanation": "Mocking the softness and lack of masculinity in his rivals.",
+      "annotations": [
+        {
+          "text": "बस देखा bandi lost it, है ताकत ऐसी cosmic",
+          "keyword": "cosmic",
+          "type": "Slang",
+          "meaning": "Can mean very good, or excellent. Usually referring to something out of this world."
+        }
+      ]
+    },
+    {
+      "original": "Murder है सर पे, कितने बावै उतनी बढ़ती इज़्ज़त",
+      "speaker": "Lil Bhavi",
+      "translation": "Murder charge on the head; the more brothers I have, the more respect I get.",
+      "explanation": "Describing a street hierarchy where criminal reputation and crew size command respect.",
+      "annotations": []
+    },
+    {
+      "original": "हम हादसों में गंदे बावै, बाकी तेरी किस्मत",
+      "speaker": "Lil Bhavi",
+      "translation": "We are bad news in accidents, bro; the rest is your luck.",
+      "explanation": "If you cross them, violence is inevitable; survival is just a matter of luck.",
+      "annotations": []
+    },
+    {
+      "original": "Rekha ग़रीब ही थी तो बदली Dilli, बदली किस्मत",
+      "speaker": "Lil Bhavi",
+      "translation": "If the poverty line was low, Delhi changed and so did luck.",
+      "explanation": "Wordplay on the name 'Rekha' and the 'Poverty Line' (Gareebi Rekha), reflecting on his rise from struggle.",
+      "annotations": [
+        {
+          "keyword": "Rekha",
+          "type": "wordplay"
+        }
+      ]
+    },
+    {
+      "original": "सिर्फ केवल सपने नहीं, ये चूड़ा लान है दोनों bigger",
+      "speaker": "Lil Bhavi",
+      "translation": "It's not just dreams; this clan is bigger.",
+      "explanation": "Boasting about the scale of his ambitions and his community.",
+      "annotations": []
+    },
+    {
+      "original": "Aahh",
+      "speaker": "Bhaskar",
+      "translation": "Aahh.",
+      "explanation": "An ad-lib used to set the mood for his verse.",
+      "annotations": [
+        {
+          "text": "Aadhaar नहीं है धार पे, गायब करता वार से",
+          "keyword": "Aadhaar",
+          "type": "Cultural",
+          "meaning": "Aadhaar is a unique identity number in India. This line implies that they are making people disappear, more powerful than the government."
+        }
+      ]
+    },
+    {
+      "original": "Topi रखता सिर पे जबसे करता rap",
+      "speaker": "Bhaskar",
+      "translation": "I've worn a cap since I started rapping.",
+      "explanation": "Referring to the classic hip-hop aesthetic of wearing a fitted or snapback cap.",
+      "annotations": []
+    },
+    {
+      "original": "Young बावै no.1 they know the best",
+      "speaker": "Bhaskar",
+      "translation": "Young bro is number one; they know who's the best.",
+      "explanation": "Self-proclamation of his top position in the scene.",
+      "annotations": [
+        {
+          "text": "Murder है सर पे, कितने बावै उतनी बढ़ती इज़ज़त",
+          "keyword": "Murder",
+          "type": "Metaphor",
+          "meaning": "Expressing dominance through lyrical skill, suggesting they 'murder' the competition with their rhymes."
+        }
+      ]
+    },
+    {
+      "original": "ग़लत है number तभी they don’t call me",
+      "speaker": "Bhaskar",
+      "translation": "They have the wrong number, that's why they don't call me.",
+      "explanation": "A clever way to say that rivals can't reach his level or are too afraid to contact him.",
+      "annotations": []
+    },
+    {
+      "original": "सुन",
+      "speaker": "Bhaskar",
+      "translation": "Listen.",
+      "explanation": "Demanding attention for the upcoming lines.",
+      "annotations": []
+    },
+    {
+      "original": "Dilli cheat करा, तोड़ा मेरा promise",
+      "speaker": "Bhaskar",
+      "translation": "Delhi cheated and broke its promise to me.",
+      "explanation": "Reflecting on the hardships and broken dreams that come with living in a cold metropolis.",
+      "annotations": [
+        {
+          "text": "Rekha ग़रीब ही थी तो बदली Dilli, बदली किस्मत",
+          "keyword": "Rekha",
+          "type": "Reference",
+          "meaning": "Referencing the actress Rekha, implying even a respected and established figure has to adapt or change in Dilli (Delhi) due to its ever-evolving nature and demanding environment. Badalti Kismat meaning changing fate."
+        }
+      ]
+    },
+    {
+      "original": "Fame जबसे ना same",
+      "speaker": "Bhaskar",
+      "translation": "Since the fame arrived, things aren't the same.",
+      "explanation": "How popularity changes one's life and relationships.",
+      "annotations": []
+    },
+    {
+      "original": "पैरों पे चमके Nike",
+      "speaker": "Bhaskar",
+      "translation": "Nike shining on my feet.",
+      "explanation": "Flexing his expensive footwear.",
+      "annotations": []
+    },
+    {
+      "original": "और मुँह पे चमके blade",
+      "speaker": "Bhaskar",
+      "translation": "And a blade shining on my face.",
+      "explanation": "Signifying street toughness or a scar earned through conflict.",
+      "annotations": []
+    },
+    {
+      "original": "मैं जबसे कर रहा rhyming, जब पकड़ी इन्होंने slate",
+      "speaker": "Bhaskar",
+      "translation": "I've been rhyming since they first picked up a writing slate.",
+      "explanation": "Bhaskar claims seniority over new rappers who were still in school when he started.",
+      "annotations": []
+    },
+    {
+      "original": "सीधा cash लेता ATM से, PayTM से hate",
+      "speaker": "Bhaskar",
+      "translation": "I take cash directly from the ATM; I hate PayTM.",
+      "explanation": "A preference for hard cash, often associated with untraceable street transactions.",
+      "annotations": [
+        {
+          "keyword": "PayTM",
+          "type": "reference"
+        }
+      ]
+    },
+    {
+      "original": "Double cup syrup, बावै goo",
+      "speaker": "Ab 17",
+      "translation": "Double cup syrup, bro, it's sticky.",
+      "explanation": "Reference to lean culture (syrup mixed in a double cup).",
+      "annotations": [
+        {
+          "keyword": "Double cup",
+          "type": "drug culture"
+        }
+      ]
+    },
+    {
+      "original": "मैं PayTM को troll कर रहा जबसे खोला phone",
+      "speaker": "Ab 17",
+      "translation": "I've been trolling PayTM since I opened my phone.",
+      "explanation": "Continuing the anti-digital payment theme from the previous verse.",
+      "annotations": []
+    },
+    {
+      "original": "Apraadh बता रहे बंदे जो भी चीज़ें कर रहा post",
+      "speaker": "Ab 17",
+      "translation": "People are calling the things I post crimes.",
+      "explanation": "His lifestyle or social media presence is so raw that it's viewed as illegal by outsiders.",
+      "annotations": []
+    },
+    {
+      "original": "ये music कर रहा brain wash, तो बावै कह रहा go",
+      "speaker": "Ab 17",
+      "translation": "This music is brainwashing you, so bro is saying 'go'.",
+      "explanation": "His music is so infectious it takes over the listener's mind.",
+      "annotations": []
+    },
+    {
+      "original": "बावै go",
+      "speaker": "Ab 17",
+      "translation": "Bro, go.",
+      "explanation": "A rhythmic chant to keep the flow moving.",
+      "annotations": []
+    },
+    {
+      "original": "Couple of hand bags मैं कह रहा फिर भी go",
+      "speaker": "Ab 17",
+      "translation": "A couple of hand bags, but I'm still saying 'go'.",
+      "explanation": "Likely referring to carrying money or contraband.",
+      "annotations": []
+    },
+    {
+      "original": "Sеven up crash कर रहा बावै, pick no bone",
+      "speaker": "Ab 17",
+      "translation": "Mixing Seven Up, bro; don't start a fight.",
+      "explanation": "Seven Up is used to mix lean. 'Pick no bone' means don't look for trouble.",
+      "annotations": []
+    },
+    {
+      "original": "जो दिख रहा bad day, उससे करना चाह रहा over",
+      "speaker": "Ab 17",
+      "translation": "Trying to get over what looks like a bad day.",
+      "explanation": "Dealing with life's struggles and trying to move forward.",
+      "annotations": []
+    },
+    {
+      "original": "वफ़ाही दे रही passion, बस steps कर रहा follow",
+      "speaker": "Ab 17",
+      "translation": "Passion gives me loyalty; I'm just following the steps.",
+      "explanation": "Remaining true to his craft and following the path to success.",
+      "annotations": []
+    },
+    {
+      "original": "हारा मैं कभी ना, कबीला phase 3",
+      "speaker": "GhAatak",
+      "translation": "I never lost; Tribe Phase 3.",
+      "explanation": "Ghaatak refers to his crew (Kabeela) and likely a specific location or development stage (Phase 3).",
+      "annotations": []
+    },
+    {
+      "original": "टंगा तू बकरा है बली का, बैठ दी",
+      "speaker": "GhAatak",
+      "translation": "You're hanging like a sacrificial goat; sit down.",
+      "explanation": "An insult comparing the rival to a helpless animal about to be slaughtered.",
+      "annotations": []
+    },
+    {
+      "original": "पैसे से आता ना सलीका Seth जी",
+      "speaker": "GhAatak",
+      "translation": "Manners don't come with money, Mr. Businessman.",
+      "explanation": "Critiquing wealthy people who lack respect or street smarts.",
+      "annotations": []
+    },
+    {
+      "original": "बना जो झूठा बस काली का taste",
+      "speaker": "GhAatak",
+      "translation": "He who became a liar will taste Kali's wrath.",
+      "explanation": "Reference to Goddess Kali; implying liars will face divine or deadly justice.",
+      "annotations": [
+        {
+          "keyword": "काली",
+          "type": "mythology"
+        }
+      ]
+    },
+    {
+      "original": "खेलने का दिल से वो तरीका देख रही",
+      "speaker": "GhAatak",
+      "translation": "She is watching the way I play with heart.",
+      "explanation": "Referring to a woman observing his genuine and passionate approach to life.",
+      "annotations": []
+    },
+    {
+      "original": "बनता अब आगे है Khalifa एक नहीं",
+      "speaker": "GhAatak",
+      "translation": "It's not just one leader rising now.",
+      "explanation": "Declaring that multiple greats are emerging from their collective.",
+      "annotations": [
+        {
+          "keyword": "Khalifa",
+          "type": "reference"
+        }
+      ]
+    },
+    {
+      "original": "पाँव रखूँ, बढ़ जाता ज़मीन का rate भी",
+      "speaker": "GhAatak",
+      "translation": "Wherever I step, the land value increases.",
+      "explanation": "An ultimate flex of influence—his presence makes anything more valuable.",
+      "annotations": []
+    },
+    {
+      "original": "क़ब्ज़ा लूँ Meerut से तेरा मैं खेत",
+      "speaker": "GhAatak",
+      "translation": "I'll take over your farm in Meerut.",
+      "explanation": "Asserting dominance over territory, specifically mentioning the tough city of Meerut.",
+      "annotations": [
+        {
+          "keyword": "Meerut",
+          "type": "location"
+        },
+        {
+          "text": "वफ़ाही दे रही passion, बस steps कर रहा follow",
+          "keyword": "steps",
+          "type": "Slang",
+          "meaning": "Indicating they are moving forward with their plans, taking necessary action to achieve their goals. They just keep grinding and moving."
+        }
+      ]
+    },
+    {
+      "original": "काम सारा heavy weight, बावै में ना pair etiquettes",
+      "speaker": "GhAatak",
+      "translation": "All my work is heavyweight; bro, I have no manners.",
+      "explanation": "His impact is massive, and he doesn't care for social niceties or 'stepping' lightly.",
+      "annotations": [
+        {
+          "text": "हारा मैं कभी ना, कबीला phase 3",
+          "keyword": "Phase 3",
+          "type": "Reference",
+          "meaning": "Likely referring to the third phase of something significant or impactful, hinting that they are progressing to a more advanced or challenging stage in their career or life."
+        }
+      ]
+    },
+    {
+      "original": "हर move है अपना deliberate, भरेगा बावै pen ही पेट",
+      "speaker": "GhAatak",
+      "translation": "Every move is deliberate; bro, the pen will fill my stomach.",
+      "explanation": "He is calculated, and his writing (lyrics) is his livelihood.",
+      "annotations": []
+    },
+    {
+      "original": "मिलने पे माफ़ी बस माँगे ये डल्ले delicate",
+      "speaker": "GhAatak",
+      "translation": "These delicate snitches only ask for forgiveness when we meet.",
+      "explanation": "Rivals act tough online but beg for mercy when confronted in person.",
+      "annotations": [
+        {
+          "keyword": "डल्ले",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "जो चल रही जेबें खिंची blade, मौत में तेरी ready made",
+      "speaker": "GhAatak",
+      "translation": "Pockets are ready with blades; your death is ready-made.",
+      "explanation": "A final warning of immediate violence for anyone who crosses him.",
+      "annotations": []
+    }
+  ],
+  "credits": {
+    "producedBy": [],
+    "writtenBy": [
+      "Seedhe Maut"
+    ]
+  },
+  "vibe": "Aggressive",
+  "summary": "CD is a boastful track where Seedhe Maut showcases their lyrical prowess and dominance in the Desi Hip Hop scene. They rap about their skills, success, and dismissing their competition."
+};

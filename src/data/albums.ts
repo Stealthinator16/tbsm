@@ -1,0 +1,205 @@
+import { Album } from '../types';
+
+export const albums: Album[] = [
+  {
+    "id": "dl91-fm",
+    "title": "DL91 FM",
+    "slug": "dl91-fm",
+    "releaseYear": 2025,
+    "coverArt": "https://images.genius.com/7a7aeaf5af52ecf14c13b1ca09242672.1000x1000x1.png",
+    "songs": [
+      "cd",
+      "akela",
+      "dl91_fm",
+      "pickup",
+      "maar_kaat",
+      "video_games",
+      "ktmn",
+      "bechara",
+      "kilas",
+      "pancake",
+      "wajah",
+      "madira",
+      "guldasta",
+      "rahat",
+      "capital_rap",
+      "bin_tere",
+      "barsaat",
+      "cha_chi",
+      "sike",
+      "aadat",
+      "el_matador",
+      "banda_down",
+      "bas_jhut",
+      "dhoke",
+      "dil_se",
+      "mp3",
+      "abaad",
+      "addict",
+      "mud",
+      "kehne_do"
+    ]
+  },
+  {
+    "id": "kshama",
+    "title": "Kshama",
+    "slug": "kshama",
+    "releaseYear": 2024,
+    "coverArt": "https://images.genius.com/a6662e8accc80d7403b42b8cd3bb1328.1000x1000x1.png",
+    "songs": [
+      "moon_comes_up",
+      "brahamachari",
+      "shakti_aur_kshama",
+      "ice",
+      "gourmet_shit",
+      "red",
+      "round_3",
+      "naraaz"
+    ]
+  },
+  {
+    "id": "shakti",
+    "title": "SHAKTI",
+    "slug": "shakti",
+    "releaseYear": 2024,
+    "coverArt": "https://images.genius.com/dcb26244813687d9b0820ed1ed148f3b.1000x1000x1.png",
+    "songs": [
+      "khush_nahi",
+      "soi_nahi",
+      "naksha",
+      "raat_ki_raani"
+    ]
+  },
+  {
+    "id": "lunch-break",
+    "title": "Lunch Break",
+    "slug": "lunch-break",
+    "releaseYear": 2023,
+    "coverArt": "https://images.genius.com/2796bb670394d0cee1014739773c995f.1000x1000x1.jpg",
+    "songs": [
+      "pain",
+      "_11k",
+      "peace_of_mind",
+      "champions",
+      "lunch_break",
+      "focused_sedated",
+      "khoon",
+      "kavi",
+      "luka_chippi",
+      "brand_new",
+      "akatsuki",
+      "off_beat",
+      "fanne_khan",
+      "joint_in_the_booth",
+      "kehna_chahte_hain",
+      "hausla",
+      "asal_g",
+      "i_dont_miss_that_life",
+      "baat_aisi_ghar_jaisi",
+      "pushpak_vimaan",
+      "khatta_flow",
+      "kya_challa",
+      "khauf",
+      "taakat",
+      "sick_and_proper",
+      "first_place",
+      "naam_kaam_sheher",
+      "dikkat",
+      "w",
+      "swah"
+    ]
+  },
+  {
+    "id": "nayaab",
+    "title": "Nayaab",
+    "slug": "nayaab",
+    "releaseYear": 2022,
+    "coverArt": "https://images.genius.com/67b32746962542c64470f0f441e75ab3.1000x1000x1.jpg",
+    "songs": [
+      "hoshiyaar",
+      "gandi_aulaad",
+      "nayaab",
+      "choti_soch",
+      "teen_dost",
+      "anaadi",
+      "toh_kya",
+      "rajdhani",
+      "kohra",
+      "khoj",
+      "dum_ghutte",
+      "batti",
+      "jua",
+      "marne_ke_baad_bhi",
+      "maina",
+      "godkode",
+      "chidiya_udd"
+    ]
+  },
+  {
+    "id": "‘न’-mixtape",
+    "title": "‘न’ (Mixtape)",
+    "slug": "na-mixtape",
+    "releaseYear": 2021,
+    "coverArt": "https://images.genius.com/855b187ebe6410db091f94806b605d67.1000x1000x1.jpg",
+    "songs": [
+      "na_jaaye",
+      "no_enema",
+      "natkhat",
+      "nawazuddin",
+      "nafrat",
+      "naamcheen",
+      "nazarbhattu_freestyle",
+      "nadaan",
+      "namastute",
+      "nanchaku"
+    ]
+  },
+  {
+    "id": "bayaan",
+    "title": "Bayaan",
+    "slug": "bayaan",
+    "releaseYear": 2018,
+    "coverArt": "https://images.genius.com/81256a6ecf68d8f2822037394ebee51b.960x960x1.jpg",
+    "songs": [
+      "intro",
+      "jolly_skit",
+      "pnp",
+      "uss_din",
+      "gehraiyaan",
+      "chalta_reh",
+      "dehshat",
+      "pankh",
+      "kyu",
+      "edokdog_skit",
+      "meri_baggi",
+      "shaktimaan"
+    ]
+  },
+  {
+    "id": "2-ka-pahada---ep",
+    "title": "2 Ka Pahada - EP",
+    "slug": "2-ka-pahada---ep",
+    "releaseYear": 2017,
+    "coverArt": "https://images.genius.com/2e03bb40caeda220896db4fc7da3fb1d.500x500x1.jpg",
+    "songs": [
+      "royalty",
+      "kashmakush",
+      "hanging_on",
+      "stay_calm",
+      "class_sikh_maut",
+      "seedhe_maut_anthem",
+      "keh_chuka_pt_1"
+    ]
+  },
+  {
+    "id": "singles",
+    "title": "Singles",
+    "slug": "singles",
+    "releaseYear": 0,
+    "coverArt": "",
+    "songs": [
+      "101",
+      "nalla_freestyle"
+    ]
+  }
+];

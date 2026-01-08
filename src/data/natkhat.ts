@@ -1,0 +1,885 @@
+import { Song } from '../types';
+
+export const natkhat: Song = {
+  "id": "natkhat",
+  "title": "Natkhat",
+  "slug": "natkhat",
+  "album": "\u2018\u0928\u2019 (Mixtape)",
+  "releaseDate": "",
+  "lyrics": [
+    {
+      "original": "Aanh! Check one",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "Aanh! Check one.",
+      "explanation": "Standard mic check and intro ad-lib to set the vibe.",
+      "annotations": []
+    },
+    {
+      "original": "Oye Time kya hora hain?",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "Hey, what time is it?",
+      "explanation": "A common trope in SM songs to establish the 'time' for their arrival or dominance.",
+      "annotations": []
+    },
+    {
+      "original": "Time bata behnchod!",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "Tell me the time, motherf***er!",
+      "explanation": "Aggressive opening, typical of the Delhi hip-hop energy.",
+      "annotations": [
+        {
+          "keyword": "behnchod",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "Henh!",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "Henh!",
+      "explanation": "A signature grunt/ad-lib used by Seedhe Maut.",
+      "annotations": []
+    },
+    {
+      "original": "Aisi beato ki shuru se laga lene me",
+      "speaker": "Calm",
+      "translation": "I've been destroying beats like these since the beginning.",
+      "explanation": "Calm claims he has mastered this specific high-tempo production style from the start.",
+      "annotations": []
+    },
+    {
+      "original": "Sabhi kuch haiga mere pe naato se leke khaana bhi chahne waalo ka pyaar hai be",
+      "speaker": "Calm",
+      "translation": "I have everything, from connections to food, and the love of my fans.",
+      "explanation": "A flex about having both material success and a loyal fanbase.",
+      "annotations": [
+        {
+          "keyword": "naato",
+          "type": "vocabulary"
+        }
+      ]
+    },
+    {
+      "original": "Yaar hain jo saale hater hain padhi ni kami hatero ki par mujhe chahiye",
+      "speaker": "Calm",
+      "translation": "I have friends, and there are haters; there's no shortage of haters, but I want...",
+      "explanation": "Acknowledging the balance between support and envy in the scene.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur hater",
+      "speaker": "Calm",
+      "translation": "One more hater.",
+      "explanation": "Calm feeds off the negativity; more haters signify more success.",
+      "annotations": []
+    },
+    {
+      "original": "Dekh aur jeetu",
+      "speaker": "Calm",
+      "translation": "Watch me win more.",
+      "explanation": "A confident assertion of his winning streak.",
+      "annotations": []
+    },
+    {
+      "original": "Karu take off dekh kar",
+      "speaker": "Calm",
+      "translation": "Watch me take off.",
+      "explanation": "Metaphor for his career trajectory and success reaching new heights.",
+      "annotations": []
+    },
+    {
+      "original": "Agar chep aur hoga",
+      "speaker": "Calm",
+      "translation": "If you get any clingier/annoying...",
+      "explanation": "Warning people who try to ride their wave or act fake.",
+      "annotations": [
+        {
+          "keyword": "chep",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "To lu 6 baar kehkar",
+      "speaker": "Calm",
+      "translation": "Then I'll school you 6 times after announcing it.",
+      "explanation": "Likely a reference to the 'Kehkar Lena' (insulting someone openly) trope, amplified.",
+      "annotations": []
+    },
+    {
+      "original": "Ek chedd aur karu",
+      "speaker": "Calm",
+      "translation": "I'll make one more hole.",
+      "explanation": "Aggressive imagery, implying shooting or puncturing the ego of an opponent.",
+      "annotations": []
+    },
+    {
+      "original": "Tera vyavahar galat",
+      "speaker": "Calm",
+      "translation": "Your behavior is wrong.",
+      "explanation": "Calling out the lack of respect or 'tameez' in the industry.",
+      "annotations": []
+    },
+    {
+      "original": "To banu me seedhe keanu",
+      "speaker": "Calm",
+      "translation": "Then I straight-up become Keanu.",
+      "explanation": "Reference to Keanu Reeves as John Wick\u2014silent, deadly, and unstoppable.",
+      "annotations": [
+        {
+          "keyword": "keanu",
+          "type": "pop-culture reference"
+        }
+      ]
+    },
+    {
+      "original": "Ni puchunga papa kon hai",
+      "speaker": "Calm",
+      "translation": "I won't ask who your father is.",
+      "explanation": "Ignoring the typical Delhi 'Do you know who my father is?' threat.",
+      "annotations": []
+    },
+    {
+      "original": "Bas pelenge dono bohot hi",
+      "speaker": "Calm",
+      "translation": "Both of us will just beat you up bad.",
+      "explanation": "'Dono' refers to the duo, Seedhe Maut (Calm and Encore).",
+      "annotations": [
+        {
+          "keyword": "pelenge",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "Muh soojega par tu kaise na kaise bol\u0435ga sorry tabhi rehn de (Abey inn chutiyo ko kitna bola hai yaar, ab\u0435y rehn de)",
+      "speaker": "Calm",
+      "translation": "Your face will swell, but somehow you'll end up saying sorry, so just let it be. (How many times have I told these idiots, just let it be).",
+      "explanation": "A dismissal of unworthy opponents who talk big but fold under pressure.",
+      "annotations": []
+    },
+    {
+      "original": "Jaha dekhu waha Lage hue 6-7 camera",
+      "speaker": "Calm",
+      "translation": "Wherever I look, there are 6-7 cameras.",
+      "explanation": "Referring to the constant surveillance of fame or literal vlogs/media around them.",
+      "annotations": []
+    },
+    {
+      "original": "Rehn de",
+      "speaker": "Calm",
+      "translation": "Leave it.",
+      "explanation": "A dismissive catchphrase used throughout the track.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur ek gyaara chale do do paitre",
+      "speaker": "Calm",
+      "translation": "One and one makes eleven; we use double the tactics.",
+      "explanation": "Plays on the Hindi idiom 'Ek aur ek gyarah' (unity is strength) representing the duo's power.",
+      "annotations": [
+        {
+          "keyword": "paitre",
+          "type": "vocabulary"
+        }
+      ]
+    },
+    {
+      "original": "Dono bhai plan pe",
+      "speaker": "Calm",
+      "translation": "Both brothers are on the plan.",
+      "explanation": "Sticking to the vision they set for their collective growth.",
+      "annotations": []
+    },
+    {
+      "original": "Poore time Bhari rahe poori wo ashtray",
+      "speaker": "Calm",
+      "translation": "The ashtray stays full all the time.",
+      "explanation": "Reference to their lifestyle and the long studio sessions involving smoking.",
+      "annotations": []
+    },
+    {
+      "original": "Tabhi bhai",
+      "speaker": "Calm",
+      "translation": "That's why, brother...",
+      "explanation": "Connecting the lifestyle to the outcome/warning.",
+      "annotations": []
+    },
+    {
+      "original": "Mat de meri misaal",
+      "speaker": "Encore ABJ",
+      "translation": "Don't give my example.",
+      "explanation": "Encore doesn't want to be the 'poster boy' for traditional morality.",
+      "annotations": [
+        {
+          "keyword": "misaal",
+          "type": "vocabulary"
+        }
+      ]
+    },
+    {
+      "original": "Ye bole ke mai raha bache bigaad",
+      "speaker": "Encore ABJ",
+      "translation": "They say I'm spoiling the kids.",
+      "explanation": "Critics often claim SM's lyrics or lifestyle are a bad influence on youth.",
+      "annotations": []
+    },
+    {
+      "original": "Mai bas poochu sawal",
+      "speaker": "Encore ABJ",
+      "translation": "I'm just asking questions.",
+      "explanation": "He positions his art as a mirror to society rather than a bad influence.",
+      "annotations": []
+    },
+    {
+      "original": "Ye Dil pe lage to karte bawal",
+      "speaker": "Encore ABJ",
+      "translation": "If it hits their heart, they create a scene.",
+      "explanation": "When the truth hurts, people get offended and start controversies.",
+      "annotations": [
+        {
+          "keyword": "bawal",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "Mai ni karta vakalat",
+      "speaker": "Encore ABJ",
+      "translation": "I don't play lawyer.",
+      "explanation": "He doesn't defend himself or others; he just speaks his truth.",
+      "annotations": [
+        {
+          "keyword": "vakalat",
+          "type": "vocabulary"
+        }
+      ]
+    },
+    {
+      "original": "Insta nahi hai aap ki adalat",
+      "speaker": "Encore ABJ",
+      "translation": "Instagram isn't 'Aap Ki Adalat'.",
+      "explanation": "Reference to the famous TV show; Instagram shouldn't be used for public trials or judgment.",
+      "annotations": [
+        {
+          "keyword": "aap ki adalat",
+          "type": "pop-culture reference"
+        }
+      ]
+    },
+    {
+      "original": "Balak kare na baap se bagawat",
+      "speaker": "Encore ABJ",
+      "translation": "A child shouldn't rebel against his father.",
+      "explanation": "Asserting his 'father' status in the rap game relative to newcomers.",
+      "annotations": []
+    },
+    {
+      "original": "Le salah, reh salafat",
+      "speaker": "Encore ABJ",
+      "translation": "Take advice, stay respectful.",
+      "explanation": "A warning to stay in one's lane and maintain decorum.",
+      "annotations": [
+        {
+          "keyword": "salafat",
+          "type": "vocabulary"
+        }
+      ]
+    },
+    {
+      "original": "Bigade tabiyat fatafat",
+      "speaker": "Encore ABJ",
+      "translation": "The health/vibe deteriorates quickly.",
+      "explanation": "Implying that things turn ugly fast when he gets serious.",
+      "annotations": []
+    },
+    {
+      "original": "Jo maare taane patapat",
+      "speaker": "Encore ABJ",
+      "translation": "Those who throw taunts rapidly.",
+      "explanation": "Referring to critics or rappers who take shots at them.",
+      "annotations": []
+    },
+    {
+      "original": "Mehnat ke baadal labalab",
+      "speaker": "Encore ABJ",
+      "translation": "Clouds of hard work are overflowing.",
+      "explanation": "Metaphor for the immense effort they've put in, ready to 'rain' rewards.",
+      "annotations": [
+        {
+          "keyword": "labalab",
+          "type": "vocabulary"
+        }
+      ]
+    },
+    {
+      "original": "Paiso ki barish chapachap",
+      "speaker": "Encore ABJ",
+      "translation": "The rain of money is splashing.",
+      "explanation": "Visualizing the financial success resulting from their hard work.",
+      "annotations": []
+    },
+    {
+      "original": "Nahi hai koi humse bada satya",
+      "speaker": "Encore ABJ",
+      "translation": "There is no bigger truth than us.",
+      "explanation": "Asserting that Seedhe Maut is the most authentic thing in the scene.",
+      "annotations": [
+        {
+          "keyword": "satya",
+          "type": "reference"
+        }
+      ]
+    },
+    {
+      "original": "Naa hai koi tujhse bada fattu",
+      "speaker": "Encore ABJ",
+      "translation": "And there's no bigger coward than you.",
+      "explanation": "Direct insult to the opposition.",
+      "annotations": [
+        {
+          "keyword": "fattu",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "Tu ghoom lekin baat ko ghuma aur mai aur calm top 2 bura maan, bhulna matt",
+      "speaker": "Encore ABJ",
+      "translation": "You can wander, but don't twist the facts; Calm and I are Top 2, feel bad if you want, but don't forget it.",
+      "explanation": "Reiterating their dominance as the best duo/rappers in the country.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur khata",
+      "speaker": "Chorus",
+      "translation": "One more account.",
+      "explanation": "Refers to opening another bank account or adding to his wealth.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur chahiye chahiye",
+      "speaker": "Chorus",
+      "translation": "I want one more, I want it.",
+      "explanation": "Highlighting the 'insatiable hunger' theme of the song.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur khata",
+      "speaker": "Chorus",
+      "translation": "One more account.",
+      "explanation": "Repetition for emphasis on financial accumulation.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur wajah",
+      "speaker": "Chorus",
+      "translation": "One more reason.",
+      "explanation": "A reason to celebrate, to work, or to win.",
+      "annotations": []
+    },
+    {
+      "original": "Ek Aur Aur",
+      "speaker": "Chorus",
+      "translation": "One more, and more.",
+      "explanation": "Building the momentum of greed/ambition.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur chacha",
+      "speaker": "Chorus",
+      "translation": "One more 'Uncle'.",
+      "explanation": "Likely referring to 'big players' or older figures in the industry they are surpassing.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur chahiye jeb aur khata",
+      "speaker": "Chorus",
+      "translation": "I want one more pocket and account.",
+      "explanation": "More space to hold his growing wealth.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur wajah",
+      "speaker": "Chorus",
+      "translation": "One more reason.",
+      "explanation": "Searching for more motivation.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur chahiye",
+      "speaker": "Chorus",
+      "translation": "I want one more.",
+      "explanation": "The core mantra of the song.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "One more.",
+      "explanation": "Joint vocal for impact.",
+      "annotations": []
+    },
+    {
+      "original": "Mujhe ghar chahiye ek aur",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "I want one more house.",
+      "explanation": "Manifesting real estate growth.",
+      "annotations": []
+    },
+    {
+      "original": "Mast deal chahiye ek aur",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "I want one more great deal.",
+      "explanation": "Referring to brand deals or business contracts.",
+      "annotations": []
+    },
+    {
+      "original": "Hain jootey padhe 20 chahiye ek aur",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "I have 20 pairs of shoes, but I want one more.",
+      "explanation": "A classic sneakerhead flex.",
+      "annotations": []
+    },
+    {
+      "original": "Bhooka hu plate chaiye ek aur",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "I'm hungry, I want one more plate.",
+      "explanation": "Metaphor for hunger for success.",
+      "annotations": []
+    },
+    {
+      "original": "Pet bhara, pet chaiye ek aur",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "Stomach is full, but I want one more stomach.",
+      "explanation": "Hyperbole representing endless greed for achievement.",
+      "annotations": []
+    },
+    {
+      "original": "Vo puchte hai \u201cjeetega kitna? \u201c",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "They ask, 'How much will you win?'",
+      "explanation": "The industry's curiosity about their peak.",
+      "annotations": []
+    },
+    {
+      "original": "Bolta hu...",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "I say...",
+      "explanation": "Leading into the answer.",
+      "annotations": []
+    },
+    {
+      "original": "Chahiye mujhe moti aur",
+      "speaker": "Calm",
+      "translation": "I want it even thicker/more.",
+      "explanation": "Could refer to money stacks or influence.",
+      "annotations": []
+    },
+    {
+      "original": "Chadi choti aur",
+      "speaker": "Calm",
+      "translation": "Climbing higher peaks.",
+      "explanation": "Referring to the top of the charts or industry mountain.",
+      "annotations": []
+    },
+    {
+      "original": "Aur agli chain uthuange jo hogi wo moti aur",
+      "speaker": "Calm",
+      "translation": "And the next chain I buy will be even thicker.",
+      "explanation": "Flexing jewelry as a marker of rising wealth.",
+      "annotations": []
+    },
+    {
+      "original": "Yaha kari jyoti aur",
+      "speaker": "Calm",
+      "translation": "I spread the light/fire here.",
+      "explanation": "Bringing energy or 'enlightenment' to the scene.",
+      "annotations": []
+    },
+    {
+      "original": "Ye cologne dior",
+      "speaker": "Calm",
+      "translation": "This cologne is Dior.",
+      "explanation": "A flex on luxury lifestyle choices.",
+      "annotations": [
+        {
+          "keyword": "dior",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "original": "Tha Peg wo bada lekin Jager dali thodi aur",
+      "speaker": "Calm",
+      "translation": "The peg was large, but I added a bit more Jager.",
+      "explanation": "Referencing J\u00e4germeister; symbolic of wanting more even when already high.",
+      "annotations": [
+        {
+          "keyword": "jager",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "original": "Nahi chahiye dhoke aur",
+      "speaker": "Calm",
+      "translation": "I don't want any more betrayals.",
+      "explanation": "A rare moment of vulnerability regarding fake people.",
+      "annotations": []
+    },
+    {
+      "original": "To chalein dough ki aur",
+      "speaker": "Calm",
+      "translation": "So let's move toward the 'dough' (money).",
+      "explanation": "Wordplay on 'dough' as slang for money.",
+      "annotations": [
+        {
+          "keyword": "dough",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "Poora mahina bhara lekin upar chahiye 2 gig aur",
+      "speaker": "Calm",
+      "translation": "The whole month is booked, but I want 2 more gigs.",
+      "explanation": "Demonstrating their hectic and profitable touring schedule.",
+      "annotations": []
+    },
+    {
+      "original": "Ye kare notice aur",
+      "speaker": "Calm",
+      "translation": "They notice me more.",
+      "explanation": "Growing public attention.",
+      "annotations": []
+    },
+    {
+      "original": "Choda showbiz aur",
+      "speaker": "Calm",
+      "translation": "I left the showbiz vibe.",
+      "explanation": "Possibly rejecting the superficial 'fake' side of entertainment for real rap.",
+      "annotations": []
+    },
+    {
+      "original": "Aur ab ni bache zyada kutte jo yaha bhoke aur",
+      "speaker": "Calm",
+      "translation": "And now there aren't many dogs left to bark here.",
+      "explanation": "Silencing the competition/critics.",
+      "annotations": []
+    },
+    {
+      "original": "Encore khaaja",
+      "speaker": "Calm",
+      "translation": "Encore, eat them up.",
+      "explanation": "Calm passing the metaphorical mic back to Encore.",
+      "annotations": []
+    },
+    {
+      "original": "Ha bol tera kon hai favourite",
+      "speaker": "Encore ABJ",
+      "translation": "Yeah, tell me who is your favorite?",
+      "explanation": "A rhetorical question challenging the listener's preferences.",
+      "annotations": []
+    },
+    {
+      "original": "Lunnd pe favorite",
+      "speaker": "Encore ABJ",
+      "translation": "My 'favorite' is on my d***.",
+      "explanation": "A vulgar way of saying he doesn't care about being anyone's favorite or about others' rankings.",
+      "annotations": []
+    },
+    {
+      "original": "Bars likhu phone pe, use bolte jail break!",
+      "speaker": "Encore ABJ",
+      "translation": "I write bars on my phone; they call that a jailbreak!",
+      "explanation": "High-level wordplay: 'Bars' (jail) and writing them on a phone (iPhone jailbreaking).",
+      "annotations": [
+        {
+          "keyword": "jailbreak",
+          "type": "pun"
+        }
+      ]
+    },
+    {
+      "original": "Dhaapna mushkil baap ko",
+      "speaker": "Encore ABJ",
+      "translation": "It's hard to copy the father.",
+      "explanation": "Asserting that his style is original and impossible to imitate.",
+      "annotations": [
+        {
+          "keyword": "dhaapna",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "Ni style ye sale pe",
+      "speaker": "Encore ABJ",
+      "translation": "This style isn't on sale.",
+      "explanation": "You can't just buy or acquire his unique flow/skill.",
+      "annotations": []
+    },
+    {
+      "original": "Teri beat aur flow jaise paani aur tel",
+      "speaker": "Encore ABJ",
+      "translation": "Your beat and flow are like water and oil.",
+      "explanation": "Simile meaning the opponent's rap doesn't match the music (lack of rhythm).",
+      "annotations": []
+    },
+    {
+      "original": "Baayein haath ka khel",
+      "speaker": "Encore ABJ",
+      "translation": "It's a piece of cake (child's play).",
+      "explanation": "Asserting that rapping at this level is easy for him.",
+      "annotations": []
+    },
+    {
+      "original": "Araam se pelte",
+      "speaker": "Encore ABJ",
+      "translation": "I destroy them with ease.",
+      "explanation": "Effortless dominance.",
+      "annotations": []
+    },
+    {
+      "original": "Haath ki feel le",
+      "speaker": "Encore ABJ",
+      "translation": "Feel the touch of my hand.",
+      "explanation": "Could refer to the 'weight' of his writing or a literal slap to reality.",
+      "annotations": []
+    },
+    {
+      "original": "Likhu chattan pe keel se",
+      "speaker": "Encore ABJ",
+      "translation": "I write on a rock with a nail.",
+      "explanation": "Metaphor for his words being permanent and carved in stone.",
+      "annotations": []
+    },
+    {
+      "original": "To ye shabd pathar ki lakeere",
+      "speaker": "Encore ABJ",
+      "translation": "So these words are set in stone.",
+      "explanation": "Continuing the metaphor; his lyrics are undeniable truths.",
+      "annotations": []
+    },
+    {
+      "original": "Du na tujhe fuck bhi free me",
+      "speaker": "Encore ABJ",
+      "translation": "I wouldn't even give you a 'fuck' for free.",
+      "explanation": "He values his time and energy too much to even acknowledge haters without profit.",
+      "annotations": []
+    },
+    {
+      "original": "Daru bakra eid se",
+      "speaker": "Encore ABJ",
+      "translation": "I'm as scared as a goat on Bakra Eid.",
+      "explanation": "Sarcasm: He's the one doing the 'slaughtering' in the rap game.",
+      "annotations": [
+        {
+          "keyword": "bakra eid",
+          "type": "reference"
+        }
+      ]
+    },
+    {
+      "original": "Tere chakra weak hai",
+      "speaker": "Encore ABJ",
+      "translation": "Your chakras are weak.",
+      "explanation": "Spiritual jab, implying the opponent lacks energy and balance.",
+      "annotations": []
+    },
+    {
+      "original": "Mere hatero ko soonghu 15ft se",
+      "speaker": "Encore ABJ",
+      "translation": "I can smell my haters from 15 feet away.",
+      "explanation": "Heightened intuition regarding fake people.",
+      "annotations": []
+    },
+    {
+      "original": "Fir door se phenk ke maaru agla geet",
+      "speaker": "Encore ABJ",
+      "translation": "Then I throw my next song at them from a distance.",
+      "explanation": "His songs are the weapons he uses to silence critics.",
+      "annotations": []
+    },
+    {
+      "original": "Mere haath me eenth aur aim tere teeth pe",
+      "speaker": "Encore ABJ",
+      "translation": "I have a brick in my hand and my aim is at your teeth.",
+      "explanation": "Aggressive imagery representing a direct hit to the opponent's mouthpiece.",
+      "annotations": []
+    },
+    {
+      "original": "Daale aag ye ghee me par mai aag hu ghee me",
+      "speaker": "Encore ABJ",
+      "translation": "They add ghee to the fire, but I am the fire in the ghee.",
+      "explanation": "Wordplay on the idiom 'Aag mein ghee daalna'; he is the source of the intensity.",
+      "annotations": []
+    },
+    {
+      "original": "Fasad ki jadd hu teri family tree pe",
+      "speaker": "Encore ABJ",
+      "translation": "I'm the root of the conflict in your family tree.",
+      "explanation": "Hyperbole about how his existence/success bothers his rivals and their lineage.",
+      "annotations": []
+    },
+    {
+      "original": "Bol hai jo ji mein",
+      "speaker": "Encore ABJ",
+      "translation": "Speak what's in your heart.",
+      "explanation": "Challenging opponents to be honest.",
+      "annotations": []
+    },
+    {
+      "original": "Agar dumm hai G me",
+      "speaker": "Encore ABJ",
+      "translation": "If you have the guts (G).",
+      "explanation": "'G' stands for 'G****' or 'Guts'.",
+      "annotations": []
+    },
+    {
+      "original": "Mujhe sune shakal aisi ki chabali neem hai",
+      "speaker": "Encore ABJ",
+      "translation": "They listen to me with a face like they've chewed neem.",
+      "explanation": "Neem is bitter; his truth is hard for haters to swallow.",
+      "annotations": [
+        {
+          "keyword": "neem",
+          "type": "vocabulary"
+        }
+      ]
+    },
+    {
+      "original": "Ye niyahati feind hai, aanh",
+      "speaker": "Encore ABJ",
+      "translation": "This is an absolute fiend, aanh.",
+      "explanation": "Calling himself or his style addictive and wild.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur khata",
+      "speaker": "Chorus",
+      "translation": "One more account.",
+      "explanation": "Repetition of the hook.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur chahiye chahiye",
+      "speaker": "Chorus",
+      "translation": "I want one more, I want it.",
+      "explanation": "Repetition of the hook.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur khata",
+      "speaker": "Chorus",
+      "translation": "One more account.",
+      "explanation": "Repetition of the hook.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur wajah",
+      "speaker": "Chorus",
+      "translation": "One more reason.",
+      "explanation": "Repetition of the hook.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur aur",
+      "speaker": "Chorus",
+      "translation": "One more and more.",
+      "explanation": "Repetition of the hook.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur chacha",
+      "speaker": "Chorus",
+      "translation": "One more uncle.",
+      "explanation": "Repetition of the hook.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur chahiye jeb aur khata",
+      "speaker": "Chorus",
+      "translation": "I want one more pocket and account.",
+      "explanation": "Repetition of the hook.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur wajah",
+      "speaker": "Chorus",
+      "translation": "One more reason.",
+      "explanation": "Repetition of the hook.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur chahiye",
+      "speaker": "Chorus",
+      "translation": "I want one more.",
+      "explanation": "Repetition of the hook.",
+      "annotations": []
+    },
+    {
+      "original": "Ek aur",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "One more.",
+      "explanation": "Final emphasis on the greed/hunger theme.",
+      "annotations": []
+    },
+    {
+      "original": "Mujhe ghar chahiye ek aur",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "I want one more house.",
+      "explanation": "Ending with material aspirations.",
+      "annotations": []
+    },
+    {
+      "original": "Mast deal chahiye ek aur",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "I want one more great deal.",
+      "explanation": "Focusing on business growth.",
+      "annotations": []
+    },
+    {
+      "original": "Hain jootey padhe 20 chahiye ek aur",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "I have 20 pairs of shoes, I want one more.",
+      "explanation": "Sneaker culture reference.",
+      "annotations": []
+    },
+    {
+      "original": "Bhooka hu plate chaiye ek aur",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "I'm hungry, I want one more plate.",
+      "explanation": "The metaphor of hunger.",
+      "annotations": []
+    },
+    {
+      "original": "Pet bhara, pet chaiye ek aur",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "Stomach full, but I want one more stomach.",
+      "explanation": "Final hyperbole on their limitless ambition.",
+      "annotations": []
+    },
+    {
+      "original": "Vo puchte hai \u201cjeetega kitna? \u201c",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "They ask, 'How much will you win?'",
+      "explanation": "Closing question from the industry/fans.",
+      "annotations": []
+    },
+    {
+      "original": "Bolta hu...",
+      "speaker": "Calm & Encore ABJ",
+      "translation": "I say...",
+      "explanation": "Fading out on the thought of endless success.",
+      "annotations": []
+    }
+  ],
+  "credits": {
+    "producedBy": [],
+    "writtenBy": [
+      "Seedhe Maut"
+    ]
+  }
+};

@@ -1,0 +1,563 @@
+import { Song } from '../types';
+
+export const cha_chi: Song = {
+  "id": "cha_chi",
+  "title": "Cha Chi",
+  "slug": "cha-chi",
+  "album": "DL91 FM",
+  "releaseDate": "",
+  "lyrics": [
+    {
+      "original": "भूलूं मैं तुझे है सवाल ही नहीं",
+      "speaker": "Calm",
+      "translation": "There's no question of me ever forgetting you.",
+      "explanation": "Calm starts the hook by emphasizing that certain memories or people are permanently etched in his mind, for better or worse.",
+      "annotations": [
+        {
+          "keyword": "सवाल ही नहीं",
+          "type": "phrase"
+        }
+      ]
+    },
+    {
+      "original": "और ये मुलाक़ात अधूरी ही रही",
+      "speaker": "Calm",
+      "translation": "And this encounter remained incomplete.",
+      "explanation": "Refers to a sense of unfinished business or a relationship that never reached its conclusion.",
+      "annotations": [
+        {
+          "keyword": "मुलाक़ात",
+          "type": "noun"
+        }
+      ]
+    },
+    {
+      "original": "प्यार लेले दिल से कोई कंजूसी नहीं",
+      "speaker": "Calm",
+      "translation": "Take all the love from my heart, there's no stinginess here.",
+      "explanation": "He is offering his emotions fully without holding back, contrasting his sincerity with the world's transactional nature.",
+      "annotations": [
+        {
+          "keyword": "कंजूसी",
+          "type": "slang/trait"
+        }
+      ]
+    },
+    {
+      "original": "जो मारे इस मन को वो बन्दूक ही नहीं",
+      "speaker": "Calm",
+      "translation": "The gun that can kill this spirit hasn't been made yet.",
+      "explanation": "A boast about his mental fortitude; his 'man' (mind/soul) is invincible to external threats.",
+      "annotations": [
+        {
+          "keyword": "मन",
+          "type": "noun"
+        }
+      ]
+    },
+    {
+      "original": "चाची के चूचे पे चटनी गिरायी",
+      "speaker": "OG Lucifer",
+      "translation": "Spilled chutney on the auntie's chest.",
+      "explanation": "A provocative, raw, and surreal line typical of OG Lucifer's shock-value style in the underground scene.",
+      "annotations": [
+        {
+          "keyword": "चूचे",
+          "type": "slang"
+        },
+        {
+          "text": "चाची के चूचे पे चटनी गिरायी",
+          "keyword": "Cha Chi",
+          "type": "Slang",
+          "meaning": "Could refer to 'Charsi', a slang term for a drug addict, or someone under the influence, implying a reliance on substances or unhealthy coping mechanisms."
+        }
+      ]
+    },
+    {
+      "original": "चाचे को पता नहीं चाची कब आयी",
+      "speaker": "OG Lucifer",
+      "translation": "The uncle has no clue when the auntie arrived.",
+      "explanation": "Implying a sense of secrecy or infidelity within the domestic setting described in the song.",
+      "annotations": [
+        {
+          "keyword": "चाचे",
+          "type": "noun"
+        }
+      ]
+    },
+    {
+      "original": "और चाहती वो fame तभी सोने को आयी",
+      "speaker": "OG Lucifer",
+      "translation": "She wants fame, that's why she came to sleep over.",
+      "explanation": "A commentary on 'clout-chasers' who use intimacy as a ladder to gain popularity in the hip-hop scene.",
+      "annotations": [
+        {
+          "keyword": "fame",
+          "type": "english loanword"
+        }
+      ]
+    },
+    {
+      "original": "इस छाती को चीरे कोई सवाल ही नहीं",
+      "speaker": "OG Lucifer",
+      "translation": "There’s no question of anyone being able to tear through this chest.",
+      "explanation": "Reiterating invincibility, suggesting his heart/chest is too tough to be broken.",
+      "annotations": []
+    },
+    {
+      "original": "पापा के आगे कोई चालाकी नहीं",
+      "speaker": "Calm",
+      "translation": "No cleverness works in front of 'Papa'.",
+      "explanation": "Calm refers to himself or a father figure as the ultimate authority whom you cannot trick.",
+      "annotations": [
+        {
+          "keyword": "चालाकी",
+          "type": "noun"
+        }
+      ]
+    },
+    {
+      "original": "यहाँ पैसे की इज़्ज़त है कला की नहीं",
+      "speaker": "Calm",
+      "translation": "Money is respected here, not art.",
+      "explanation": "A cynical observation on the industry where commercial success is valued over actual talent (Kala).",
+      "annotations": [
+        {
+          "keyword": "कला",
+          "type": "noun"
+        }
+      ]
+    },
+    {
+      "original": "है Greatest कौन ऊँगली पे गिनेगा BK",
+      "speaker": "Calm",
+      "translation": "Who is the greatest? Bhaskar will count them on his fingers.",
+      "explanation": "BK refers to Bhaskar (the producer/artist). He implies the list of true 'greats' is so small it can be counted on one hand.",
+      "annotations": [
+        {
+          "keyword": "BK",
+          "type": "proper noun"
+        },
+        {
+          "text": "है Greatest कौन ऊँगली पे गिनेगा BK",
+          "keyword": "Greatest",
+          "type": "Reference",
+          "meaning": "BK refers to Encore ABJ (Abhishek Bisht), claiming his position as one of the greats within the Desi Hip Hop scene. Its confident self-proclamation."
+        }
+      ]
+    },
+    {
+      "original": "हमसे कोई तेज़ है कोई सवाल ही नहीं",
+      "speaker": "Calm",
+      "translation": "Is anyone faster/better than us? No question about it.",
+      "explanation": "Classic Seedhe Maut confidence, asserting their dominance in the rap game.",
+      "annotations": [
+        {
+          "keyword": "तेज़",
+          "type": "adjective"
+        }
+      ]
+    },
+    {
+      "original": "मेरी धड़कने कह रही बस दवा की need",
+      "speaker": "Ab 17",
+      "translation": "My heartbeats are saying I just need medicine.",
+      "explanation": "Ab 17 brings a more melodic, vulnerable vibe, suggesting he is coping with pain through medication or substances.",
+      "annotations": [
+        {
+          "keyword": "दवा",
+          "type": "noun"
+        }
+      ]
+    },
+    {
+      "original": "ज़ख़्म लेरा दिल मेरा दो दिन की feel",
+      "speaker": "Ab 17",
+      "translation": "My heart is taking wounds, it's just a two-day feeling.",
+      "explanation": "Suggesting that the pain is sharp but perhaps fleeting, or he's becoming numb to it.",
+      "annotations": [
+        {
+          "keyword": "ज़ख़्म",
+          "type": "noun"
+        }
+      ]
+    },
+    {
+      "original": "शिकायत ना तुझसे जा तेरी हुई जीत",
+      "speaker": "Ab 17",
+      "translation": "I have no complaints against you; go, you won.",
+      "explanation": "Surrendering in an argument or a relationship, letting the other person 'win' for the sake of peace.",
+      "annotations": [
+        {
+          "keyword": "जीत",
+          "type": "noun"
+        }
+      ]
+    },
+    {
+      "original": "मै बातों को downer पे कर रहा repeat",
+      "speaker": "Ab 17",
+      "translation": "I'm repeating my thoughts while on downers.",
+      "explanation": "Downers refer to depressant drugs; he's stuck in a loop of negative thoughts while intoxicated.",
+      "annotations": [
+        {
+          "keyword": "downer",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "DL91 यहाँ पे शैतान हैं सब",
+      "speaker": "Calm",
+      "translation": "DL91, everyone here is a devil.",
+      "explanation": "DL91 is an RTO code for Rohini/North-West Delhi. Calm is repping his area and its tough reputation.",
+      "annotations": [
+        {
+          "keyword": "DL91",
+          "type": "location/code"
+        },
+        {
+          "text": "मैं बातों को downer पे कर रहा repeat",
+          "keyword": "Downer",
+          "type": "Metaphor",
+          "meaning": "Refers to using substances (or perhaps negative thought patterns) to numb emotional pain or escape reality."
+        }
+      ]
+    },
+    {
+      "original": "बाप को दी गाड़ी पर चलाते नहीं",
+      "speaker": "Calm",
+      "translation": "Bought a car for my father, but he doesn't drive it.",
+      "explanation": "A sign of success—being able to provide luxury for parents, even if they are too humble to use it.",
+      "annotations": [
+        {
+          "text": "DL91 यहाँ पे शैतान हैं सब",
+          "keyword": "DL91",
+          "type": "Reference",
+          "meaning": "DL91 refers to Delhi's area code, indicating a specific locality and adding a personal touch to the song."
+        }
+      ]
+    },
+    {
+      "original": "करूँ ये कैसे यहाँ हैरान हैं सब",
+      "speaker": "Calm",
+      "translation": "Everyone is shocked at how I'm doing this.",
+      "explanation": "People are surprised by his unconventional path to success and his lyrical prowess.",
+      "annotations": [
+        {
+          "keyword": "हैरान",
+          "type": "adjective"
+        }
+      ]
+    },
+    {
+      "original": "भूलूं मैं बुरा वक़्त सवाल ही नहीं",
+      "speaker": "Calm",
+      "translation": "Me forgetting the bad times? No question about it.",
+      "explanation": "He keeps his past struggles in mind to stay grounded and motivated.",
+      "annotations": []
+    },
+    {
+      "original": "ना मुझे कोई शिकायत",
+      "speaker": "Ab17",
+      "translation": "I have no complaints.",
+      "explanation": "Expressing a state of acceptance or indifference.",
+      "annotations": []
+    },
+    {
+      "original": "तू रोज़ करे झगड़े मै रोज़ करूँ tieup",
+      "speaker": "Ab17",
+      "translation": "You pick fights every day, I make deals every day.",
+      "explanation": "Contrasting the other person's petty drama with his professional growth and 'tie-ups' (collaborations).",
+      "annotations": [
+        {
+          "keyword": "tieup",
+          "type": "business slang"
+        }
+      ]
+    },
+    {
+      "original": "मुसीबतें बस देना चाहरी dialog",
+      "speaker": "Ab17",
+      "translation": "Troubles just want to give me a dialogue.",
+      "explanation": "Personifying problems as if they are trying to engage him in a cinematic confrontation.",
+      "annotations": [
+        {
+          "keyword": "dialog",
+          "type": "noun"
+        }
+      ]
+    },
+    {
+      "original": "ना ढूंढे तू मुझे कभी बातों मे सही",
+      "speaker": "Ab17",
+      "translation": "Don't ever look for me to be right in our conversations.",
+      "explanation": "He's stopped trying to prove his point or be the 'good guy' in the relationship.",
+      "annotations": []
+    },
+    {
+      "original": "भूलूं मैं तुझे है सवाल ही नहीं",
+      "speaker": "Calm",
+      "translation": "Forgetting you isn't even a possibility.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "और ये मुलाक़ात अधूरी ही रही",
+      "speaker": "Calm",
+      "translation": "And this meeting remained incomplete.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "प्यार लेले दिल से कोई कंजूसी नहीं",
+      "speaker": "Calm",
+      "translation": "Take all the love, no holding back.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "जो मारे इस मन को वो बन्दूक ही नहीं",
+      "speaker": "Calm",
+      "translation": "No gun can kill this spirit.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "चाची के चूचे पे चटनी गिरायी",
+      "speaker": "OG Lucifer",
+      "translation": "Spilled chutney on the auntie's chest.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "चाचे को पता नहीं चाची कब आयी",
+      "speaker": "OG Lucifer",
+      "translation": "Uncle doesn't know when auntie arrived.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "और चाहती वो fame तभी सोने को आयी",
+      "speaker": "OG Lucifer",
+      "translation": "She wants fame, that's why she's here.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "इस छाती को चीरे कोई सवाल ही नहीं",
+      "speaker": "OG Lucifer",
+      "translation": "Tearing through this chest is impossible.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "रहे मरने के बाद भी ये दादागिरी",
+      "speaker": "OG Lucifer",
+      "translation": "This dominance will remain even after death.",
+      "explanation": "Claiming his legacy and 'street cred' will outlast his life.",
+      "annotations": [
+        {
+          "keyword": "दादागिरी",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "तू होगा पैदल मे कंधो पे sleep",
+      "speaker": "OG Lucifer",
+      "translation": "You'll be walking while I sleep on shoulders.",
+      "explanation": "A dark metaphor; 'sleeping on shoulders' refers to being carried in a funeral procession—implying he'll be a legend even in death while the rival is struggling on foot.",
+      "annotations": []
+    },
+    {
+      "original": "धक धक धक धक जरुरी जैसे तू धड़कन मे दिल",
+      "speaker": "OG Lucifer",
+      "translation": "Thump, thump... you're as necessary as a heart is to a beat.",
+      "explanation": "A rare moment of intensity, though in this dark context, it feels more obsessive than romantic.",
+      "annotations": []
+    },
+    {
+      "original": "आँखों मे दर्द है तू छुपाती रही",
+      "speaker": "Bhaskar and OG Lucifer",
+      "translation": "There's pain in your eyes that you kept hiding.",
+      "explanation": "Observing the internal struggle of the person they are addressing.",
+      "annotations": []
+    },
+    {
+      "original": "उलझे हुए मांझे को  सुलझाती नहीं",
+      "speaker": "Bhaskar and OG Lucifer",
+      "translation": "You don't untangle the knotted kite-string.",
+      "explanation": "Metaphor for someone who lets problems pile up instead of solving them.",
+      "annotations": [
+        {
+          "keyword": "मांझे",
+          "type": "metaphor"
+        }
+      ]
+    },
+    {
+      "original": "दे आराम तू है चारपाई मेरी",
+      "speaker": "Bhaskar and OG Lucifer",
+      "translation": "Give me rest, you are my woven cot.",
+      "explanation": "Describing the person as a source of comfort/home (charpai).",
+      "annotations": [
+        {
+          "keyword": "चारपाई",
+          "type": "noun"
+        }
+      ]
+    },
+    {
+      "original": "तेरी जुबान मे है धार तभी जान जाए मेरी",
+      "speaker": "Bhaskar and OG Lucifer",
+      "translation": "Your tongue is so sharp, it takes my life.",
+      "explanation": "Referring to the cutting words or 'sharpness' of the person's personality.",
+      "annotations": [
+        {
+          "keyword": "धार",
+          "type": "metaphor"
+        }
+      ]
+    },
+    {
+      "original": "हाथ क्यों उठाऊं जब तू नज़रो से गिरी",
+      "speaker": "Bhaskar and OG Lucifer",
+      "translation": "Why should I raise a hand when you've already fallen in my eyes?",
+      "explanation": "A powerful line about lost respect. He won't resort to violence because the person is no longer worth the effort.",
+      "annotations": [
+        {
+          "text": "हाथ क्यों उठाऊं जब तू नज़रो से गिरी",
+          "keyword": "नज़रो से गिरी",
+          "type": "Metaphor",
+          "meaning": "Metaphorically suggesting how pride precedes a fall. The line expresses disillusionment, noting that boasting can lead to a downfall."
+        }
+      ]
+    },
+    {
+      "original": "Dairy की भाभी daily dilemma मे ही देती",
+      "speaker": "Bhaskar and OG Lucifer",
+      "translation": "The sister-in-law from the dairy keeps me in a daily dilemma.",
+      "explanation": "Local street-level storytelling. 'Dairy' likely refers to a specific spot in their neighborhood.",
+      "annotations": [
+        {
+          "text": "Dairy की भाभी daily dilemma में ही देती",
+          "keyword": "Daily Dilemma",
+          "type": "Reference",
+          "meaning": "Referencing their internal thoughts and struggles of day to day life, the difficulties of creating art. Also points to internal conflicts."
+        }
+      ]
+    },
+    {
+      "original": "मेने तेरी जैसी हसीना बस cinema मे देखी",
+      "speaker": "Bhaskar and OG Lucifer",
+      "translation": "I've only seen beauties like you in the cinema.",
+      "explanation": "Comparing the person's looks or dramatic nature to a movie character.",
+      "annotations": []
+    },
+    {
+      "original": "लिबाज है बस आज का मेरे प्यार बिलकुल 80",
+      "speaker": "Bhaskar and OG Lucifer",
+      "translation": "Clothes are just for today, but my love is pure 80.",
+      "explanation": "'80' likely refers to 80-proof (purity/strength) or a specific local slang for high quality.",
+      "annotations": [
+        {
+          "keyword": "80",
+          "type": "slang"
+        }
+      ]
+    },
+    {
+      "original": "तेरी जैसी हसीना बस पैसो मे झुकेगी",
+      "speaker": "Bhaskar and OG Lucifer",
+      "translation": "A beauty like you will only bow down for money.",
+      "explanation": "Accusing the person of being materialistic.",
+      "annotations": []
+    },
+    {
+      "original": "जो सपने देखे महलो के वो पैदल ना चलेगी",
+      "speaker": "Bhaskar and OG Lucifer",
+      "translation": "Those who dream of palaces won't walk on foot.",
+      "explanation": "Someone with high ambitions (or greed) will avoid a life of struggle/poverty at any cost.",
+      "annotations": []
+    },
+    {
+      "original": "पर गरीबी की धुल तेरी चेहरे पे दिखेगी",
+      "speaker": "Bhaskar and OG Lucifer",
+      "translation": "But the dust of poverty will still show on your face.",
+      "explanation": "Suggesting that no matter how much she chases wealth, her humble/struggling origins are visible.",
+      "annotations": []
+    },
+    {
+      "original": "मै देदू सारे जवाब पर तू सवाल ही करेगी",
+      "speaker": "Bhaskar and OG Lucifer",
+      "translation": "I could give all the answers, but you'll just keep questioning.",
+      "explanation": "Highlighting a toxic cycle of doubt in a relationship.",
+      "annotations": []
+    },
+    {
+      "original": "भूलूं मैं तुझे है सवाल ही नहीं",
+      "speaker": "Calm",
+      "translation": "Forgetting you? No way.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "और ये मुलाक़ात अधूरी ही रही",
+      "speaker": "Calm",
+      "translation": "And this meeting remained incomplete.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "प्यार लेले दिल से कोई कंजूसी नहीं",
+      "speaker": "Calm",
+      "translation": "Take all the love, no holding back.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "जो मारे इस मन को वो बन्दूक ही नहीं",
+      "speaker": "Calm",
+      "translation": "No gun can kill this soul.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "चाची के चूचे पे चटनी गिरायी",
+      "speaker": "OG Lucifer",
+      "translation": "Spilled chutney on the auntie's chest.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "चाचे को पता नहीं चाची कब आयी",
+      "speaker": "OG Lucifer",
+      "translation": "Uncle doesn't know when auntie arrived.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "और चाहती वो fame तभी सोने को आयी",
+      "speaker": "OG Lucifer",
+      "translation": "She wants fame, that's why she's here.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    },
+    {
+      "original": "इस छाती को चीरे कोई सवाल ही नहीं",
+      "speaker": "OG Lucifer",
+      "translation": "Tearing through this chest is impossible.",
+      "explanation": "Chorus repeat.",
+      "annotations": []
+    }
+  ],
+  "credits": {
+    "producedBy": [],
+    "writtenBy": [
+      "Seedhe Maut"
+    ]
+  },
+  "vibe": "Introspective",
+  "summary": "\"Cha Chi\" delves into themes of disillusionment, artistic integrity, and the pressures of fame, questioning the pursuit of superficial validation and grappling with internal struggles."
+};
