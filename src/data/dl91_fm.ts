@@ -15,11 +15,13 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Bandi",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Girl\", used informally. (Hindi)"
         },
         {
           "keyword": "Klesh",
-          "type": "Hindi Slang"
+          "type": "Slang",
+          "meaning": "\"Conflict\" or \"trouble\". She brings conflict home. (Hindi)"
         },
         {
           "text": "बन्दी तू ज़िद्दी मेरे घर पे क्लेश लाए",
@@ -37,7 +39,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Left/Right",
-          "type": "Metaphor"
+          "type": "Figurative",
+          "meaning": "Figurative; she does the opposite of what's expected."
         }
       ]
     },
@@ -49,7 +52,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Fake likes",
-          "type": "Social Media Slang"
+          "type": "Social Commentary",
+          "meaning": "Craving validation through social media likes."
         }
       ]
     },
@@ -61,7 +65,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Safe life",
-          "type": "Contextual"
+          "type": "Social Commentary",
+          "meaning": "A conventional, risk-averse lifestyle; she doesn't live one."
         }
       ]
     },
@@ -73,7 +78,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Hype",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Exaggerated publicity or excitement; something superficial."
         }
       ]
     },
@@ -85,7 +91,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Khai",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "\"Eats\". Refers to enjoying life to the fullest, indulging in experiences. (Hindi)"
         }
       ]
     },
@@ -97,7 +104,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Date",
-          "type": "Social Context"
+          "type": "Common Term",
+          "meaning": "A romantic outing."
         }
       ]
     },
@@ -109,7 +117,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Wait",
-          "type": "Relationship Trope"
+          "type": "Common Term",
+          "meaning": "To make someone wait; creating anticipation."
         }
       ]
     },
@@ -121,7 +130,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Dick ride",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "To support someone for personal gain, often insincerely."
         }
       ]
     },
@@ -133,7 +143,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Khachchar",
-          "type": "Insult/Slang"
+          "type": "Slang",
+          "meaning": "\"Mule\". Someone who carries weight/burden of others. (Hindi)"
         }
       ]
     },
@@ -145,7 +156,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Style",
-          "type": "Contextual"
+          "type": "Common Term",
+          "meaning": "Personal aesthetic, unique way of expressing oneself."
         },
         {
           "text": "Crime से है नाता और न ज़्यादा मेरा स्टाइल",
@@ -163,7 +175,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Big life",
-          "type": "Metaphor for Success"
+          "type": "Slang",
+          "meaning": "Living a luxurious and successful life."
         }
       ]
     },
@@ -175,7 +188,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "5 tip",
-          "type": "Narrative Device"
+          "type": "Slang",
+          "meaning": "Giving unsolicited advice, often unwanted."
         }
       ]
     },
@@ -187,7 +201,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Greedy/Selfish/Lazy",
-          "type": "Adjective"
+          "type": "Descriptive",
+          "meaning": "Describes negative qualities - greedy, selfish, lazy. (Hindi)"
         },
         {
           "text": "लालची, स्वार्थी, आलसी — fuck this shit",
@@ -205,7 +220,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "8x8",
-          "type": "Wordplay/Slang"
+          "type": "Figurative",
+          "meaning": "Refers to something being broken into many pieces (8x8=64)."
         }
       ]
     },
@@ -217,11 +233,13 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Bakchod",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Foolish\" or \"Idiotic\". (Hindi)"
         },
         {
           "keyword": "Aukaat",
-          "type": "Hindi term for Status/Worth"
+          "type": "Slang",
+          "meaning": "\"Status\" or \"Standing\". (Hindi)"
         }
       ]
     },
@@ -240,7 +258,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Sukoon",
-          "type": "Urdu/Hindi for Peace"
+          "type": "Common Term",
+          "meaning": "\"Peace\" or \"Comfort\". Provides peace in chaos. (Hindi)"
         }
       ]
     },
@@ -259,7 +278,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Havas",
-          "type": "Urdu/Hindi for Lust"
+          "type": "Common Term",
+          "meaning": "\"Lust\". Less love and more lust, according to him. (Hindi)"
         }
       ]
     },
@@ -271,7 +291,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Zakhm",
-          "type": "Metaphor"
+          "type": "Figurative",
+          "meaning": "\"Wound\". Her wound is where others get a scar. (Hindi)"
         }
       ]
     },
@@ -290,7 +311,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Ego",
-          "type": "Psychological term"
+          "type": "Common Term",
+          "meaning": "Sense of self-importance."
         }
       ]
     },
@@ -302,7 +324,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Khaar khaana",
-          "type": "Idiom"
+          "type": "Slang",
+          "meaning": "\"To be jealous\". Might be jealous if you talk about your health. (Hindi)"
         }
       ]
     },
@@ -314,7 +337,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Meow Meow",
-          "type": "Drug Slang"
+          "type": "Slang/Drug Reference",
+          "meaning": "Street name for Mephedrone, a stimulant drug."
         }
       ]
     },
@@ -326,7 +350,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Downtown",
-          "type": "Contextual"
+          "type": "Place/Reference",
+          "meaning": "The central commercial area of a city; specifically referring to Delhi."
         }
       ]
     },
@@ -352,11 +377,13 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Seedhe",
-          "type": "Wordplay"
+          "type": "Brand/Reference",
+          "meaning": "Direct, straightforward. Seedhe Maut means 'straight death'."
         },
         {
           "keyword": "Full stop",
-          "type": "Metaphor for Death/Ending"
+          "type": "Common Term",
+          "meaning": "An abrupt end; finishing something completely."
         }
       ]
     },
@@ -368,7 +395,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Area ki dhool",
-          "type": "Metaphor for Hood/Streets"
+          "type": "Slang",
+          "meaning": "\"Dust of the area\". Something common, ordinary, or low-status. (Hindi)"
         },
         {
           "text": "हँस के देती pussy जब वो नशे करती meow meow",
@@ -386,7 +414,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Moonwalk",
-          "type": "Reference"
+          "type": "Pop Culture Reference",
+          "meaning": "A dance move popularized by Michael Jackson, known for its gliding motion."
         }
       ]
     },
@@ -468,7 +497,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Laat",
-          "type": "Hindi for Addiction/Kick"
+          "type": "Common Term",
+          "meaning": "\"Habit\" or \"Addiction\". She has more habit than your ciggy. (Hindi)"
         }
       ]
     },
@@ -487,11 +517,13 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Delhi",
-          "type": "Metaphor for Smog/Confusion"
+          "type": "Place",
+          "meaning": "The capital city of India; often used to represent the Indian hip-hop scene."
         },
         {
           "keyword": "GhAatak",
-          "type": "Name Wordplay"
+          "type": "Slang",
+          "meaning": "\"Deadly\", \"Lethal\". You are deadlier than me. (Hindi)"
         }
       ]
     },
@@ -503,7 +535,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Maut",
-          "type": "Wordplay/Reference"
+          "type": "Common Term",
+          "meaning": "\"Death\". Taking death on the head. (Hindi)"
         }
       ]
     },
@@ -536,7 +569,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Ash/Aish",
-          "type": "Hindi Slang for Luxury"
+          "type": "Slang",
+          "meaning": "Performing actions that give you pleasure. Ash is also sometimes slang for weed."
         }
       ]
     },
@@ -548,11 +582,13 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Chikna Ghada",
-          "type": "Idiom"
+          "type": "Slang",
+          "meaning": "\"Slippery pot\". Someone who doesn't take criticism. (Hindi)"
         },
         {
           "keyword": "Titli",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "\"Butterfly\". Flighty or superficial. (Hindi)"
         }
       ]
     },
@@ -564,7 +600,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Bawe",
-          "type": "Delhi Slang for Brother/Friend"
+          "type": "Slang",
+          "meaning": "Someone who lives a gangster lifestyle. (Hindi)"
         }
       ]
     },
@@ -611,7 +648,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Goli dena",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"To trick or deceive\". Meaning she doesn't want to meet you. (Hindi)"
         }
       ]
     },
@@ -623,7 +661,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Bhoot",
-          "type": "Insult/Metaphor"
+          "type": "Figurative",
+          "meaning": "\"Ghost\". Now you are quiet like smoke, she's a ghost to you. (Hindi)"
         }
       ]
     },
@@ -712,7 +751,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Bheja",
-          "type": "Slang"
+          "type": "Common Term",
+          "meaning": "\"Brain\". She is running in your brain day and night. (Hindi)"
         }
       ]
     },
@@ -773,7 +813,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Natkhat",
-          "type": "Hindi Adjective"
+          "type": "Descriptive",
+          "meaning": "\"Naughty\", \"Mischievous\". (Hindi)"
         },
         {
           "text": "भूलूँ सारी दिक्कत when I’m smoking that bud",
@@ -791,7 +832,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "In my bag",
-          "type": "Hip-Hop Slang"
+          "type": "Slang",
+          "meaning": "Focused on my goals, making money, and not caring about distractions."
         },
         {
           "text": "सोचूँ about that cash when I’m spilling that blood",
@@ -809,7 +851,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "Bud",
-          "type": "Slang for Marijuana"
+          "type": "Slang",
+          "meaning": "Slang for marijuana or weed."
         }
       ]
     },
@@ -863,7 +906,8 @@ export const dl91_fm: Song = {
       "annotations": [
         {
           "keyword": "GOAT",
-          "type": "Acronym/Slang"
+          "type": "Slang",
+          "meaning": "Greatest Of All Time."
         }
       ]
     },

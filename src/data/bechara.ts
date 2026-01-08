@@ -22,7 +22,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "ग्रह",
-          "type": "noun"
+          "type": "Hindi",
+          "meaning": "Planet. In this context, it likely means 'the whole world' or 'everything'."
         }
       ]
     },
@@ -41,7 +42,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "शहर",
-          "type": "noun"
+          "type": "Hindi",
+          "meaning": "City. In this context, it likely means 'the whole city' or 'everywhere'."
         }
       ]
     },
@@ -60,7 +62,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "जाने जान",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "Darling, or beloved. A term of endearment, used here sarcastically."
         }
       ]
     },
@@ -72,7 +75,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "परछाई",
-          "type": "metaphor"
+          "type": "Hindi",
+          "meaning": "Shadow. Implying the person is just a shadow of someone else or something else."
         }
       ]
     },
@@ -98,7 +102,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "बेचारा",
-          "type": "title_reference"
+          "type": "Hindi",
+          "meaning": "Poor thing, helpless, or unfortunate. Used to describe someone in a pitiable situation."
         },
         {
           "text": "थक चुका है बेचारा",
@@ -130,11 +135,13 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "GOAT",
-          "type": "acronym"
+          "type": "Slang",
+          "meaning": "Greatest Of All Time. Used to assert their skill and dominance in rap."
         },
         {
           "keyword": "sheep",
-          "type": "metaphor"
+          "type": "Slang",
+          "meaning": "Followers, people who blindly follow trends or other people. Contrasting with the GOAT."
         },
         {
           "text": "मैं pen का हूँ GOAT पर वो दिल से थी sheep",
@@ -152,7 +159,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "note",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "A bank note or money. Could also imply taking notice of something."
         },
         {
           "text": "मैं गिन रहा था note पर वो गिन रही थी seeds",
@@ -177,7 +185,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "चोचले",
-          "type": "slang"
+          "type": "Hindi/Slang",
+          "meaning": "Messed up, Chaos, Turmoil."
         }
       ]
     },
@@ -189,7 +198,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "घोंसले",
-          "type": "metaphor"
+          "type": "Hindi/Slang",
+          "meaning": "Bastard/A**hole. An insult."
         }
       ]
     },
@@ -208,7 +218,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "भोसड़े",
-          "type": "slang"
+          "type": "Hindi/Slang",
+          "meaning": "Referring to rappers as 'MC's/Microphone controllers"
         },
         {
           "text": "No pain, show fees, propane, Rolex",
@@ -226,7 +237,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "चोमू",
-          "type": "slang"
+          "type": "Hindi/Slang",
+          "meaning": "Naive, Innocent, or Simple-minded."
         }
       ]
     },
@@ -252,7 +264,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "कलम",
-          "type": "noun"
+          "type": "Hindi",
+          "meaning": "Pen, used here to represent their writing ability and craft."
         }
       ]
     },
@@ -264,7 +277,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "हवाबाज़ी",
-          "type": "slang"
+          "type": "Hindi/Slang",
+          "meaning": "Airy, someone who talks big but doesn't have substance."
         }
       ]
     },
@@ -283,7 +297,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "किस्से",
-          "type": "noun"
+          "type": "Hindi",
+          "meaning": "Stories, narratives, or tales. Could imply gossip or untrue stories."
         }
       ]
     },
@@ -323,7 +338,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "लपकती",
-          "type": "verb"
+          "type": "Hindi",
+          "meaning": "Hiding or concealing something."
         }
       ]
     },
@@ -342,7 +358,8 @@ export const bechara: Song = {
       "annotations": [
         {
           "keyword": "मतलबी",
-          "type": "adjective"
+          "type": "Hindi",
+          "meaning": "Selfish, concerned only with oneself."
         }
       ]
     },

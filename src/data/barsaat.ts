@@ -15,7 +15,8 @@ export const barsaat: Song = {
       "annotations": [
         {
           "keyword": "बरसात",
-          "type": "Noun"
+          "type": "Metaphor",
+          "meaning": "Rain; but in this context, used metaphorically to describe an overwhelming influx of something, likely problems or difficulties. 'This is rain indeed'."
         }
       ]
     },
@@ -132,7 +133,8 @@ export const barsaat: Song = {
       "annotations": [
         {
           "keyword": "आपा",
-          "type": "Slang/Noun"
+          "type": "Culture",
+          "meaning": "Aapa (Hindi) means 'father' or 'elder brother'. Here, it likely signifies someone dependable and always present, never lost."
         }
       ]
     },
@@ -179,7 +181,8 @@ export const barsaat: Song = {
       "annotations": [
         {
           "keyword": "Louis",
-          "type": "Brand"
+          "type": "Reference",
+          "meaning": "Reference to the luxury brand Louis Vuitton. The artist claims he doesn't need Louis, implying he doesn't need superficial status symbols."
         }
       ]
     },
@@ -219,7 +222,8 @@ export const barsaat: Song = {
       "annotations": [
         {
           "keyword": "नापाक",
-          "type": "Adjective"
+          "type": "Slang",
+          "meaning": "Napaak (Hindi/Urdu) means 'impure' or 'unclean'. The artist is stating they are impure but special in their own way."
         }
       ]
     },
@@ -231,7 +235,8 @@ export const barsaat: Song = {
       "annotations": [
         {
           "keyword": "घास",
-          "type": "Slang (Weed)"
+          "type": "Slang",
+          "meaning": "Ghaas (Hindi) means 'grass'. Saying 'I don't smoke grass' is a way of saying 'I don't smoke weed'."
         }
       ]
     },
@@ -502,7 +507,8 @@ export const barsaat: Song = {
       "annotations": [
         {
           "keyword": "डल्ली",
-          "type": "Slang (Darling/Dear)"
+          "type": "Place",
+          "meaning": "Dilli (Hindi) is Delhi, the capital city of India. Saying 'Delhi in my eyes' could be a metaphor about his perspective and influence within his circle."
         }
       ]
     },
@@ -549,7 +555,8 @@ export const barsaat: Song = {
       "annotations": [
         {
           "keyword": "लालटेन",
-          "type": "Noun (Lantern)"
+          "type": "Metaphor",
+          "meaning": "Lalten (Hindi) means lantern. This is a metaphor suggesting that when darkness falls, he will keep burning bright."
         }
       ]
     },
@@ -610,7 +617,8 @@ export const barsaat: Song = {
       "annotations": [
         {
           "keyword": "सैलाब",
-          "type": "Noun (Flood)"
+          "type": "Metaphor",
+          "meaning": "Sailaab (Hindi/Urdu) means 'flood'. This is metaphorical, saying 'floods of love' alluding to overwhelming affection and support."
         }
       ]
     },
@@ -720,7 +728,8 @@ export const barsaat: Song = {
       "annotations": [
         {
           "keyword": "Chanel",
-          "type": "Brand"
+          "type": "Reference",
+          "meaning": "Reference to the luxury brand Chanel, likely referring to their perfume or bags. Used here as a status symbol."
         }
       ]
     },
@@ -739,7 +748,8 @@ export const barsaat: Song = {
       "annotations": [
         {
           "keyword": "बावे",
-          "type": "Delhi Slang (Bro/Dude)"
+          "type": "Slang",
+          "meaning": "Bhaav (Hindi) means 'attitude' or 'airs'. Saying 'giving bhaav' is similar to 'acting pricey/superior'. In this context 'bhaav kar raha cancel' implies arrogance is not tolerated."
         }
       ]
     },
@@ -842,7 +852,8 @@ export const barsaat: Song = {
       "annotations": [
         {
           "keyword": "Type shit",
-          "type": "Hip Hop Slang"
+          "type": "Slang",
+          "meaning": "A common slang term in hip-hop. Referring to something as a style or quality. Can be used in diverse contexts but mostly as a reference to a specific type of music/behavior"
         }
       ]
     },
@@ -1162,7 +1173,8 @@ export const barsaat: Song = {
       "annotations": [
         {
           "keyword": "ग़ालिब",
-          "type": "Historical/Poet"
+          "type": "Reference",
+          "meaning": "Mirza Ghalib was a famous Urdu poet. Referring to him as 'Ghalib, Mirza' is a way of acknowledging him and suggesting that the artist is channeling a similar depth of emotion and poetic skill."
         }
       ]
     },

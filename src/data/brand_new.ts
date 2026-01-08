@@ -16,11 +16,13 @@ export const brand_new: Song = {
       "annotations": [
         {
           "keyword": "Body bag",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Likely a metaphor for eliminating competition or signifying something of high value that comes at a cost. It can also imply the rapper is deadly/very good at his craft."
         },
         {
           "keyword": "Gucci",
-          "type": "brand"
+          "type": "Brand",
+          "meaning": "A luxury brand, used to symbolize wealth and status."
         },
         {
           "text": "Body bag ek, mahange mic do, Gucci bag teen",
@@ -51,11 +53,13 @@ export const brand_new: Song = {
       "annotations": [
         {
           "keyword": "Chhoti Gold",
-          "type": "brand/slang"
+          "type": "Brand/Slang",
+          "meaning": "\"Chhoti Gold\" translates to \"Small Gold.\" It is likely a brand name of shoes or a particular style. It represents expensive footwear."
         },
         {
           "keyword": "jote",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "\"Jote\" translates to \"shoes\" or \"pair of shoes\" in Hindi."
         }
       ]
     },
@@ -102,7 +106,8 @@ export const brand_new: Song = {
       "annotations": [
         {
           "keyword": "kicks",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Slang for shoes, often referring to sneakers or stylish footwear."
         }
       ]
     },
@@ -114,7 +119,8 @@ export const brand_new: Song = {
       "annotations": [
         {
           "keyword": "shoonya",
-          "type": "literal"
+          "type": "Hindi/Slang",
+          "meaning": "\"Shoonya\" means \"zero\" in Hindi. \"Saat-aath shoony\" (seven-eight zeros) refers to a very large amount of money on the next paycheck/cheque."
         }
       ]
     },
@@ -140,7 +146,8 @@ export const brand_new: Song = {
       "annotations": [
         {
           "keyword": "Keymaker",
-          "type": "pop-culture"
+          "type": "Slang",
+          "meaning": "Someone who can open any door or opportunity; a resourceful and influential person. Can also mean literally someone who makes keys."
         }
       ]
     },
@@ -173,7 +180,8 @@ export const brand_new: Song = {
       "annotations": [
         {
           "keyword": "C major",
-          "type": "musical-term"
+          "type": "Reference",
+          "meaning": "C major is a musical key. Here, it's used as a metaphor to describe the fees being charged as harmonious/melodious (expensive and well-deserved)."
         },
         {
           "text": "mera skillset, G, kare cremation",
@@ -219,7 +227,8 @@ export const brand_new: Song = {
       "annotations": [
         {
           "keyword": "Jett",
-          "type": "gaming-reference"
+          "type": "Reference",
+          "meaning": "Reference to the Valorant character Jett. This likens the rapper to a dominant and fast-paced player who eliminates \"gatekeepers\" (those who try to stop progress)."
         }
       ]
     },
@@ -251,11 +260,13 @@ export const brand_new: Song = {
       "annotations": [
         {
           "keyword": "Pirlo",
-          "type": "football-reference"
+          "type": "Reference",
+          "meaning": "Andrea Pirlo is a famous Italian footballer known for his playmaking abilities. The rapper likens himself to Pirlo, meaning he is the one making the moves and setting up opportunities."
         },
         {
           "keyword": "baj mat",
-          "type": "slang"
+          "type": "Hindi/Slang",
+          "meaning": "\"Zyada baj mat\" translates to \"Don't act too smart\" or \"Don't try too hard.\" It's a warning to not overestimate yourself or challenge the rapper."
         }
       ]
     },
@@ -330,7 +341,8 @@ export const brand_new: Song = {
       "annotations": [
         {
           "keyword": "bars",
-          "type": "wordplay"
+          "type": "Slang",
+          "meaning": "Refers to rap verses and lyrics. The rapper compares his bars to an inspector, meaning that his lyrics are meticulously crafted and command respect/are law-abiding."
         }
       ]
     },
@@ -412,7 +424,8 @@ export const brand_new: Song = {
       "annotations": [
         {
           "keyword": "pilla",
-          "type": "insult"
+          "type": "Hindi/Slang",
+          "meaning": "\"Pilla\" translates to \"puppy\" or \"dog\" in Hindi. Here it's used derogatorily to refer to someone as weak, inexperienced, and easily manipulated."
         }
       ]
     },

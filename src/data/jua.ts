@@ -15,7 +15,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "Sez on the beat",
-          "type": "Producer Tag"
+          "type": "Reference",
+          "meaning": "A producer tag. Sez is a well-known Indian hip-hop producer."
         },
         {
           "text": "Sez on the beat boy",
@@ -47,7 +48,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "Bada haath",
-          "type": "Slang/Idiom"
+          "type": "Slang",
+          "meaning": "Literal translation: 'Big Hand'. Meaning: To try and make a big move or gain a large advantage, often aggressively."
         }
       ]
     },
@@ -66,7 +68,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "patte",
-          "type": "Slang (Cards)"
+          "type": "Culture",
+          "meaning": "Literal translation: 'Cards'. Refers to playing cards in gambling."
         }
       ]
     },
@@ -78,7 +81,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "satte",
-          "type": "Noun (Betting)"
+          "type": "Culture",
+          "meaning": "Literal translation: 'Bet'. Here it refers to gambling and the stakes involved."
         },
         {
           "text": "Jaan lage satte pe",
@@ -110,7 +114,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "Kismat",
-          "type": "Noun (Fate/Luck)"
+          "type": "Culture",
+          "meaning": "Literal translation: 'Destiny' or 'Fate'. Used to imply that someone is carelessly squandering a privileged life."
         }
       ]
     },
@@ -122,7 +127,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "g i joe",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "Referring to the action figures G.I. Joe which are reminiscent of soldiers/fighters and here represents a powerful position from which he wins money when gambling."
         }
       ]
     },
@@ -134,7 +140,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "aeb",
-          "type": "Urdu/Hindi (Vice/Flaw)"
+          "type": "Culture",
+          "meaning": "Literal translation: 'Vice'. Means a bad habit or addiction, in this context gambling."
         },
         {
           "text": "Dilaaye g i joe jeete jab bhi cash",
@@ -187,7 +194,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "gehne girvi",
-          "type": "Cultural Reference"
+          "type": "Culture",
+          "meaning": "Literal translation: 'Jewels mortgaged'. It means to pawn or sell jewelry as collateral for a loan, often in desperate circumstances."
         }
       ]
     },
@@ -206,11 +214,13 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "Jua",
-          "type": "Noun (Gambling)"
+          "type": "Culture",
+          "meaning": "Literal translation: 'Gambling'. The central theme of the song."
         },
         {
           "keyword": "Latt",
-          "type": "Noun (Addiction)"
+          "type": "Culture",
+          "meaning": "Literal translation: 'Addiction'. Refers to the addictive nature of gambling."
         }
       ]
     },
@@ -222,11 +232,13 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "Kua",
-          "type": "Metaphor (Well)"
+          "type": "Metaphor",
+          "meaning": "Literal translation: 'Well'. Used metaphorically to represent a bottomless pit."
         },
         {
           "keyword": "Talab",
-          "type": "Noun (Craving)"
+          "type": "Culture",
+          "meaning": "Literal translation: 'Craving' or 'Desire'. Strong desire or urge, in this context for gambling."
         },
         {
           "text": "Gire case jo peeche padhe fеku muh pe paise bolu aage kahio matt",
@@ -279,7 +291,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "majboori",
-          "type": "Noun (Compulsion)"
+          "type": "Culture",
+          "meaning": "Literal translation: 'Compulsion' or 'Helplessness'. Describes a situation where someone feels forced into something."
         }
       ]
     },
@@ -312,7 +325,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "Tevar",
-          "type": "Slang (Attitude)"
+          "type": "Culture",
+          "meaning": "Literal translation: 'Attitude' or 'Expression'. In this context, it refers to the confidence and swagger one might have at a roulette table."
         },
         {
           "text": "Poore tevar aage roulette table",
@@ -344,7 +358,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "taash",
-          "type": "Noun (Playing Cards)"
+          "type": "Culture",
+          "meaning": "Literal translation: 'Cards'. Refers to playing cards, often associated with gambling."
         }
       ]
     },
@@ -391,7 +406,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "nashe",
-          "type": "Noun (Addictions)"
+          "type": "Culture",
+          "meaning": "Literal translation: 'Intoxicants' or 'Drugs'. Refers to bad habits and harmful intoxications."
         }
       ]
     },
@@ -466,7 +482,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "Namastute",
-          "type": "Sanskrit/Greeting"
+          "type": "Culture",
+          "meaning": "A respectful greeting, showing honor or reverence. Here, potentially used sarcastically or to emphasize the gravity of the situation."
         }
       ]
     },
@@ -485,7 +502,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "launda",
-          "type": "Slang (Guy/Boy)"
+          "type": "Slang",
+          "meaning": "Literal translation: 'Boy' or 'Guy'. Colloquially used to refer to a young man or dude."
         }
       ]
     },
@@ -504,7 +522,8 @@ export const jua: Song = {
       "annotations": [
         {
           "keyword": "satta baji",
-          "type": "Noun (Betting)"
+          "type": "Culture",
+          "meaning": "Literal translation: 'Gambling'. Same meaning as 'Jua', emphasizing the act of betting."
         }
       ]
     },

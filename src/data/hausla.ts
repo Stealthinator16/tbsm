@@ -16,7 +16,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "Hurricane",
-          "type": "Metaphor"
+          "type": "Metaphor",
+          "meaning": "A powerful and destructive force; here, likely used metaphorically to describe a tumultuous situation or feeling."
         }
       ]
     },
@@ -28,7 +29,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "ख्वाब (Khwaab)",
-          "type": "Noun/Urdu"
+          "type": "Hindi",
+          "meaning": "Dream (English translation).  Represents aspirations and desires."
         }
       ]
     },
@@ -40,7 +42,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "रातें (Raatein)",
-          "type": "Noun"
+          "type": "Hindi",
+          "meaning": "Nights (English translation). Likely referring to sleepless, painful nights."
         }
       ]
     },
@@ -52,11 +55,13 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "वार (Waar)",
-          "type": "Noun/Attack"
+          "type": "Hindi",
+          "meaning": "Attack/Strike (English translation). Represents an offensive move or challenge."
         },
         {
           "keyword": "हार (Haar)",
-          "type": "Noun/Defeat"
+          "type": "Hindi",
+          "meaning": "Loss/Defeat (English translation). Represents the consequence of the attack."
         }
       ]
     },
@@ -68,7 +73,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "हौसला (Hausla)",
-          "type": "Noun/Morale"
+          "type": "Hindi",
+          "meaning": "Courage/Hope/Moral (English translation). The will to keep fighting or going on."
         },
         {
           "text": "बचा हौसला भी नहीं है",
@@ -86,7 +92,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "दाव पे (Daav pe)",
-          "type": "Idiom/Gambling"
+          "type": "Hindi",
+          "meaning": "At stake/On the line (English translation).  Everything is being risked."
         }
       ]
     },
@@ -98,7 +105,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "बज्जी (Bajji)",
-          "type": "Slang/Noun"
+          "type": "Slang",
+          "meaning": "A gamble/bet (English). Could mean a risky endeavor or a chance taken."
         }
       ]
     },
@@ -110,7 +118,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "मुँह की खाना",
-          "type": "Idiom"
+          "type": "Slang",
+          "meaning": "Someone betrayed."
         }
       ]
     },
@@ -122,7 +131,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "हताश (Hataash)",
-          "type": "Adjective/Despondent"
+          "type": "Hindi",
+          "meaning": "Desperate/Hopeless (English translation). Feeling defeated and without hope."
         },
         {
           "text": "मेरा luck down है, मैं कुछ वक्त से इतना हूँ हताश",
@@ -140,7 +150,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "राज़ (Raaz)",
-          "type": "Noun/Secret"
+          "type": "Hindi",
+          "meaning": "Secret (English translation). A hidden truth or feeling."
         }
       ]
     },
@@ -152,7 +163,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "श्रापित (Shraapit)",
-          "type": "Adjective/Cursed"
+          "type": "Hindi",
+          "meaning": "Cursed (English translation). Feeling burdened by misfortune."
         }
       ]
     },
@@ -164,7 +176,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "Artist",
-          "type": "Noun"
+          "type": "General",
+          "meaning": "A creative individual who expresses themselves through art; in this context, someone who turns pain into art."
         },
         {
           "text": "लगे मुझको सही में श्रापित",
@@ -196,7 +209,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "गाड़ी (Gaadi)",
-          "type": "Metaphor/Train"
+          "type": "Hindi",
+          "meaning": "Car (English translation). Used metaphorically to represent something being abandoned or left behind."
         }
       ]
     },
@@ -215,7 +229,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "Pep talk",
-          "type": "Noun/Encouragement"
+          "type": "General",
+          "meaning": "Words of encouragement and motivation."
         }
       ]
     },
@@ -227,7 +242,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "Flippin'",
-          "type": "Slang/Losing temper"
+          "type": "Slang",
+          "meaning": "Going crazy/losing it. Losing control emotionally."
         }
       ]
     },
@@ -239,7 +255,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "Cookin'",
-          "type": "Slang/Producing"
+          "type": "Slang",
+          "meaning": "Planning/Plotting something, or preparing something intensely."
         }
       ]
     },
@@ -258,7 +275,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "गम (Gam)",
-          "type": "Noun/Sorrow"
+          "type": "Hindi",
+          "meaning": "Sorrow/Sadness/Grief (English translation). Refers to internal pain and suffering."
         }
       ]
     },
@@ -270,7 +288,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "लत (Lat)",
-          "type": "Noun/Addiction"
+          "type": "Hindi",
+          "meaning": "Addiction/Habit (English translation). Something one cannot give up."
         }
       ]
     },
@@ -282,7 +301,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "कमीना (Kameena)",
-          "type": "Slang/Mean"
+          "type": "Hindi",
+          "meaning": "Scoundrel/Wicked (English translation). Suggests the speaker acknowledges their own flaws or negative qualities."
         }
       ]
     },
@@ -294,7 +314,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "हकीकत (Haqeeqat)",
-          "type": "Noun/Truth"
+          "type": "Hindi",
+          "meaning": "Reality/Truth (English translation).  Questioning what is real or true."
         }
       ]
     },
@@ -306,7 +327,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "पहेली (Paheli)",
-          "type": "Noun/Puzzle"
+          "type": "Hindi",
+          "meaning": "Riddle/Puzzle (English translation). Life is a tough and confusing riddle."
         }
       ]
     },
@@ -332,7 +354,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "टकराएं (Takrayein)",
-          "type": "Verb/Collide"
+          "type": "Hindi",
+          "meaning": "Collide/Clash (English translation). Asking why do we clash/collide?"
         }
       ]
     },
@@ -344,7 +367,8 @@ export const hausla: Song = {
       "annotations": [
         {
           "keyword": "अटकना (Atakna)",
-          "type": "Verb/Stuck"
+          "type": "Hindi",
+          "meaning": "To get stuck (English translation).  Why get stuck?"
         }
       ]
     },

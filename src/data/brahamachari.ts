@@ -12,8 +12,16 @@ export const brahamachari: Song = {
       "translation": "Seedhe Maut, street-bred kamikazes.",
       "explanation": "Combining their brand name with 'sadakchhaap' (street-level) and 'kamikaze' (suicidal pilots), implying they are raw, reckless, and unstoppable.",
       "annotations": [
-        "Sadakchhaap (Slang)",
-        "Kamikaze (Metaphor)",
+        {
+          "keyword": "Sadakchhaap (Slang)",
+          "meaning": "Street smart, raw, and unrefined; representing their authentic, unfiltered style.",
+          "type": "Slang"
+        },
+        {
+          "keyword": "Kamikaze (Metaphor)",
+          "meaning": "Describing something as highly dangerous or impactful, suggesting they are fearlessly attacking the rap game.",
+          "type": "Metaphor"
+        },
         {
           "text": "Seedhe maut sadakchhaap kamikaze",
           "keyword": "Kamikaze",
@@ -34,8 +42,16 @@ export const brahamachari: Song = {
       "translation": "Before Louis Vuitton, Ghaffar was my Louis.",
       "explanation": "Ghaffar Market in Delhi is famous for high-quality fakes. Before he was rich, he wore knock-offs from Ghaffar.",
       "annotations": [
-        "Louis (Brand)",
-        "Ghaffar (Location/Delhi Slang)",
+        {
+          "keyword": "Louis (Brand)",
+          "meaning": "A luxury brand, often associated with high fashion and status.",
+          "type": "Brand"
+        },
+        {
+          "keyword": "Ghaffar (Location/Delhi Slang)",
+          "meaning": "A bustling market in Delhi known for affordable goods and first copies; representing their humble beginnings before luxury.",
+          "type": "Place/Delhi Slang"
+        },
         {
           "text": "Louis se pehle louis tha mere liye ghaffar hi",
           "keyword": "Ghaffar",
@@ -50,7 +66,11 @@ export const brahamachari: Song = {
       "translation": "I hadn't heard of calamari before rap.",
       "explanation": "A flex on his social mobility; he only experienced high-end dining (like eating squid) after becoming a successful rapper.",
       "annotations": [
-        "Calamari (Lifestyle Symbol)"
+        {
+          "keyword": "Calamari (Lifestyle Symbol)",
+          "meaning": "A type of seafood (squid); representing something luxurious or unfamiliar to them before their success in rap.",
+          "type": "Lifestyle Symbol"
+        }
       ]
     },
     {
@@ -59,8 +79,16 @@ export const brahamachari: Song = {
       "translation": "Everyone is loaded, and all my friends are from Jamnapaar.",
       "explanation": "'Loaded' can mean having money or being armed. 'Jamnapari' refers to people from East Delhi, known for being gritty and tough.",
       "annotations": [
-        "Loaded (Double Entendre)",
-        "Jamnapari (Regional Demonym)",
+        {
+          "keyword": "Loaded (Double Entendre)",
+          "meaning": "Having money/influence (literal meaning 'loaded'), also a play on words implying their friends are high on life and/or substances.",
+          "type": "Double Entendre"
+        },
+        {
+          "keyword": "Jamnapari (Regional Demonym)",
+          "meaning": "People from the Yamuna River region (often associated with Delhi/UP); emphasizing their local roots and connections.",
+          "type": "Regional Demonym"
+        },
         {
           "text": "Saare loaded saare dost hain jamnapari",
           "keyword": "Jamnapari",
@@ -82,7 +110,11 @@ export const brahamachari: Song = {
       "translation": "The celibates of rap; it’s not wise to clash with us.",
       "explanation": "'Brahmachari' (celibate/monk) suggests they are solely devoted to the craft of rap, making them dangerous opponents.",
       "annotations": [
-        "Brahmachaari (Metaphor/Title)",
+        {
+          "keyword": "Brahmachaari (Metaphor/Title)",
+          "meaning": "Someone who is celibate or dedicated to a specific discipline (rap in this case); suggesting their deep commitment and focus on their craft.",
+          "type": "Metaphor/Title"
+        },
         {
           "text": "Rap ke brahmachaari, Bhidna nahi hai samajhdaari",
           "keyword": "Brahmachari",
@@ -97,7 +129,11 @@ export const brahamachari: Song = {
       "translation": "The authorities of rap; the bosses say this is a heavy mistake.",
       "explanation": "They assert their dominance as the ones in charge of the scene, warning others that opposing them is a major error.",
       "annotations": [
-        "Adhikaari (Authority)"
+        {
+          "keyword": "Adhikaari (Authority)",
+          "meaning": "Authority figure; they are being called authorities in rap, but someone is saying that is wrong.",
+          "type": "Authority"
+        }
       ]
     },
     {
@@ -106,7 +142,11 @@ export const brahamachari: Song = {
       "translation": "The world is empty, other rappers call us oppressive.",
       "explanation": "To them, the competition feels non-existent ('empty'), and rivals complain that SM’s dominance is unfair or tyrannical.",
       "annotations": [
-        "Atyachaari (Oppressor)"
+        {
+          "keyword": "Atyachaari (Oppressor)",
+          "meaning": "Oppressor; other rappers are calling them oppressors.",
+          "type": "Oppressor"
+        }
       ]
     },
     {
@@ -115,8 +155,16 @@ export const brahamachari: Song = {
       "translation": "I'm not sorry, the ball went out like a bounce; see the businessman minting money in Indian Rap.",
       "explanation": "A cricket metaphor for hitting a boundary. He acknowledges how business-minded people are now flocking to DHH because SM made it profitable.",
       "annotations": [
-        "Tappa (Cricket Slang)",
-        "Vyapaari (Businessman)"
+        {
+          "keyword": "Tappa (Cricket Slang)",
+          "meaning": "Bounce; a term from cricket, referring to how the ball bounces, in this context, they hit it so hard, its gone out the stadium.",
+          "type": "Cricket Slang"
+        },
+        {
+          "keyword": "Vyapaari (Businessman)",
+          "meaning": "Businessman; someone who makes money.",
+          "type": "Businessman"
+        }
       ]
     },
     {
@@ -125,7 +173,11 @@ export const brahamachari: Song = {
       "translation": "There is a massive skill gap between us; I'm playing the long game.",
       "explanation": "Calm claims his technical ability is far superior to others and he is built for a long-term career (lambi paari).",
       "annotations": [
-        "Lambi paari (Metaphor)",
+        {
+          "keyword": "Lambi paari (Metaphor)",
+          "meaning": "A long innings in cricket; suggesting they are in it for the long haul and have a lasting career.",
+          "type": "Metaphor"
+        },
         {
           "text": "I'm not sorry ball gayi bahar wo jaise tappa maari",
           "keyword": "Tappa Maari",
@@ -140,7 +192,11 @@ export const brahamachari: Song = {
       "translation": "The ones who betray are the ones who live here; the gardeners here are corrupt, gold and silver fall from the trees.",
       "explanation": "A commentary on the industry/Delhi scene where insiders act dishonestly because there is so much money ('gold and silver') to be grabbed.",
       "annotations": [
-        "Maali (Gardener/Metaphor for Gatekeepers)",
+        {
+          "keyword": "Maali (Gardener/Metaphor for Gatekeepers)",
+          "meaning": "Gardener; those who control the flow of the resources in Indian Hip Hop, and they are corrupt.",
+          "type": "Gardener/Metaphor for Gatekeepers"
+        },
         {
           "text": "Hindustani rap me chhaape paisa dekh vyapaari",
           "keyword": "Vyapaari",
@@ -197,8 +253,16 @@ export const brahamachari: Song = {
       "translation": "Even when we had no money, we weren't beggars; these boys carry their own responsibilities.",
       "explanation": "Encore emphasizes their self-reliance and dignity even during their 'broke' days.",
       "annotations": [
-        "Bhikaari (Beggar)",
-        "Zimmedaari (Responsibility)"
+        {
+          "keyword": "Bhikaari (Beggar)",
+          "meaning": "Beggar (Hindi); implying they've always been self-sufficient and not reliant on handouts.",
+          "type": "Slang"
+        },
+        {
+          "keyword": "Zimmedaari (Responsibility)",
+          "meaning": "Responsibility (Hindi); highlighting their self-reliance and accountability.",
+          "type": "Responsibility"
+        }
       ]
     },
     {
@@ -207,8 +271,16 @@ export const brahamachari: Song = {
       "translation": "I have two bad habits—being nasty and being high.",
       "explanation": "'Gandibaazi' refers to raw/aggressive behavior or lyrics; 'Bhandibaazi' refers to his habit of getting intoxicated (Bhand).",
       "annotations": [
-        "Gandibaazi (Slang)",
-        "Bhandibaazi (Slang)"
+        {
+          "keyword": "Gandibaazi (Slang)",
+          "meaning": "Acting recklessly or carelessly.",
+          "type": "Slang"
+        },
+        {
+          "keyword": "Bhandibaazi (Slang)",
+          "meaning": "Being high on marijuana or other substances.",
+          "type": "Slang"
+        }
       ]
     },
     {
@@ -217,7 +289,11 @@ export const brahamachari: Song = {
       "translation": "On the beats, he gets his 'ball' (ego/head) ripped like a ball for no reason.",
       "explanation": "A crude metaphor for absolutely destroying a beat or an opponent with his flow.",
       "annotations": [
-        "Gaind (Ball/Slang)"
+        {
+          "keyword": "Gaind (Ball/Slang)",
+          "meaning": "Ball; referring to being made a fool of on a beat, getting played.",
+          "type": "Ball/Slang"
+        }
       ]
     },
     {
@@ -226,7 +302,11 @@ export const brahamachari: Song = {
       "translation": "When the time comes, a slash on the face, all for a hundred bucks.",
       "explanation": "Describing the ruthless nature of the streets where violence can happen for very little money.",
       "annotations": [
-        "Cheera (Slash/Cut)"
+        {
+          "keyword": "Cheera (Slash/Cut)",
+          "meaning": "Cut; all for getting money.",
+          "type": "Slash/Cut"
+        }
       ]
     },
     {
@@ -235,7 +315,11 @@ export const brahamachari: Song = {
       "translation": "Now there’s Japanese liquor and double cups for my friends.",
       "explanation": "Shows his progression to expensive alcohol (like Japanese Whiskey) and the 'double cup' culture (often associated with lean/party lifestyle).",
       "annotations": [
-        "Double Cup (Hip Hop Culture)"
+        {
+          "keyword": "Double Cup (Hip Hop Culture)",
+          "meaning": "A hip-hop term for drinking lean (codeine syrup mixed with soda) in two cups.",
+          "type": "Hip Hop Culture"
+        }
       ]
     },
     {
@@ -244,7 +328,11 @@ export const brahamachari: Song = {
       "translation": "The only difference now is that we've gone from the earth to the sky.",
       "explanation": "A classic 'started from the bottom' line, indicating their massive rise in stature.",
       "annotations": [
-        "Falak (Sky/Heaven)"
+        {
+          "keyword": "Falak (Sky/Heaven)",
+          "meaning": "Sky/Heaven (Hindi); suggesting they've risen from humble beginnings to great heights.",
+          "type": "Sky/Heaven"
+        }
       ]
     },
     {
@@ -302,7 +390,11 @@ export const brahamachari: Song = {
       "translation": "Loaded packs.",
       "explanation": "Likely referring to packs of drugs or money.",
       "annotations": [
-        "Pax (Slang for Packs)"
+        {
+          "keyword": "Pax (Slang for Packs)",
+          "meaning": "Slang for packages, likely referring to drugs.",
+          "type": "Slang for Packs"
+        }
       ]
     },
     {
@@ -311,9 +403,21 @@ export const brahamachari: Song = {
       "translation": "Just cash, loaded hash, smoking for the buzz; listen brothers, chest out. Damn! My habits have been bad from the start, always involved in trouble. I've been lethal (Ghaatak) from the start, never peaceful. Did things in a way that I lost track of time.",
       "explanation": "GhAatak describes his chaotic, aggressive lifestyle and his namesake (Ghaatak means lethal) character.",
       "annotations": [
-        "Baawe (Delhi Slang for Bro)",
-        "Kaand (Trouble/Crime)",
-        "Ghaatak (Lethal/Name)"
+        {
+          "keyword": "Baawe (Delhi Slang for Bro)",
+          "meaning": "Bro (Delhi slang); addressing their close friends and associates.",
+          "type": "Delhi Slang for Bro"
+        },
+        {
+          "keyword": "Kaand (Trouble/Crime)",
+          "meaning": "Trouble, crime (Hindi); suggesting they have a history of getting into trouble.",
+          "type": "Trouble/Crime"
+        },
+        {
+          "keyword": "Ghaatak (Lethal/Name)",
+          "meaning": "Lethal, dangerous (Hindi); also a name of Encore ABJ.",
+          "type": "Lethal/Name"
+        }
       ]
     },
     {
@@ -322,7 +426,11 @@ export const brahamachari: Song = {
       "translation": "I'd give my life for my brothers; I don't care about the consequences, we'll see what happens!",
       "explanation": "Loyalty to his circle and a fearless attitude towards the future.",
       "annotations": [
-        "Jaan haazir (Idiom for Loyalty)"
+        {
+          "keyword": "Jaan haazir (Idiom for Loyalty)",
+          "meaning": "Willing to give their life for their brothers; emphasizing loyalty and brotherhood.",
+          "type": "Idiom for Loyalty"
+        }
       ]
     },
     {
@@ -331,8 +439,16 @@ export const brahamachari: Song = {
       "translation": "Shady people kiss my feet every day; I don't sit where the vibe isn't right. I told them many times but they didn't listen, the police took the car. Not letting it go, no peaceful evenings, holding breaths. These kids start shouting at their fathers once they start earning.",
       "explanation": "A mix of street stories (police trouble) and a critique of the younger generation's arrogance after getting a bit of success.",
       "annotations": [
-        "Thaane (Police Station)",
-        "Vibe (Slang)"
+        {
+          "keyword": "Thaane (Police Station)",
+          "meaning": "Police stations (Hindi); they are constantly going to police stations.",
+          "type": "Police Station"
+        },
+        {
+          "keyword": "Vibe (Slang)",
+          "meaning": "The feeling or atmosphere of a place or situation; implying a positive and comfortable environment.",
+          "type": "Slang"
+        }
       ]
     },
     {
@@ -396,8 +512,16 @@ export const brahamachari: Song = {
       "translation": "Hey, where is the problem? We cause heavy accidents.",
       "explanation": "Raga starts with his signature aggressive delivery, implying his presence causes chaos/damage.",
       "annotations": [
-        "Dikkat (Problem)",
-        "Durghatna (Accident/Metaphor)"
+        {
+          "keyword": "Dikkat (Problem)",
+          "meaning": "Problem (Hindi).",
+          "type": "Problem"
+        },
+        {
+          "keyword": "Durghatna (Accident/Metaphor)",
+          "meaning": "Accident (Hindi); they cause accidents.",
+          "type": "Accident/Metaphor"
+        }
       ]
     },
     {
@@ -406,7 +530,11 @@ export const brahamachari: Song = {
       "translation": "Who is about to get their ass kicked?",
       "explanation": "A very aggressive Delhi slang term used to intimidate opponents.",
       "annotations": [
-        "Bhund (Slang for Butt/Ass)"
+        {
+          "keyword": "Bhund (Slang for Butt/Ass)",
+          "meaning": "Butt/Ass; Whose ass is about to burst?",
+          "type": "Slang for Butt/Ass"
+        }
       ]
     },
     {
@@ -415,7 +543,11 @@ export const brahamachari: Song = {
       "translation": "Who is the witness? The one whose miserable state I’m about to cause!",
       "explanation": "Implying that anyone watching will only see the victim's downfall.",
       "annotations": [
-        "Durdasha (Misery/Bad state)"
+        {
+          "keyword": "Durdasha (Misery/Bad state)",
+          "meaning": "Misery, bad state (Hindi); Whose misery are we going to create?",
+          "type": "Misery/Bad state"
+        }
       ]
     },
     {
@@ -431,7 +563,11 @@ export const brahamachari: Song = {
       "translation": "Who needs a vasectomy?",
       "explanation": "Extreme insult; implying he will stop the opponent's 'offspring' (their legacy or followers) from existing.",
       "annotations": [
-        "Nasbandi (Vasectomy/Insult)"
+        {
+          "keyword": "Nasbandi (Vasectomy/Insult)",
+          "meaning": "Vasectomy (Hindi); slang to say whose manhood will be taken.",
+          "type": "Vasectomy/Insult"
+        }
       ]
     },
     {
@@ -440,7 +576,11 @@ export const brahamachari: Song = {
       "translation": "Whose generations do I need to erase?",
       "explanation": "Escalating the threat to the opponent's entire lineage.",
       "annotations": [
-        "Pushtein (Generations)"
+        {
+          "keyword": "Pushtein (Generations)",
+          "meaning": "Generations (Hindi); Whose generations are we going to erase?",
+          "type": "Generations"
+        }
       ]
     },
     {
@@ -456,8 +596,16 @@ export const brahamachari: Song = {
       "translation": "Expanded the business, talent is heavier than luck, so all listeners are 'heavy' (impressed). The hitlist isn't coming from a whistle, it's coming from my pencil. No problem.",
       "explanation": "He credits his success to talent over luck and says his lyrics ('pencil') are what 'kill' the competition, not just street violence.",
       "annotations": [
-        "Hunar (Talent)",
-        "Hitlist (Metaphor)"
+        {
+          "keyword": "Hunar (Talent)",
+          "meaning": "Talent (Hindi); their talent has spread everywhere.",
+          "type": "Talent"
+        },
+        {
+          "keyword": "Hitlist (Metaphor)",
+          "meaning": "Metaphor; a list of hits, they do not need to whistle.",
+          "type": "Metaphor"
+        }
       ]
     },
     {
@@ -466,7 +614,11 @@ export const brahamachari: Song = {
       "translation": "No problem, started the bike/car and hit it directly.",
       "explanation": "'Self' refers to a self-start on a vehicle. It means he gets straight to the action without hesitation.",
       "annotations": [
-        "Self (Vehicle Slang)"
+        {
+          "keyword": "Self (Vehicle Slang)",
+          "meaning": "Starter motor; turning on the vehicle, they will attack.",
+          "type": "Vehicle Slang"
+        }
       ]
     },
     {

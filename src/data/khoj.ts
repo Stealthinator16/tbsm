@@ -15,7 +15,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Bezubaan",
-          "type": "Urdu/Hindi word for voiceless"
+          "type": "Hindi/Literal",
+          "meaning": "Speechless; unable to speak or express oneself."
         }
       ]
     },
@@ -76,7 +77,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Nawjawan",
-          "type": "Youth/Young man"
+          "type": "Hindi/Literal",
+          "meaning": "Young person; youth."
         },
         {
           "text": "In sab ki maa ki choot",
@@ -94,7 +96,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Maa ki choot",
-          "type": "Profanity/Slang"
+          "type": "Slang/Vulgar",
+          "meaning": "A highly offensive and vulgar Hindi slur, expressing extreme anger or dismissal. Literally translates to \"mother's vagina.\""
         }
       ]
     },
@@ -120,7 +123,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Daag",
-          "type": "Stain/Scar"
+          "type": "Hindi/Literal",
+          "meaning": "Stain; blemish; mark of disgrace."
         }
       ]
     },
@@ -132,7 +136,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Begunah",
-          "type": "Innocent"
+          "type": "Hindi/Literal",
+          "meaning": "Innocent; not guilty."
         }
       ]
     },
@@ -200,7 +205,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Bhasm",
-          "type": "Ash/Destroyed"
+          "type": "Hindi/Literal",
+          "meaning": "Ashes; reduced to ashes; destroyed."
         }
       ]
     },
@@ -247,7 +253,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Sthagit",
-          "type": "Postponed/Halted"
+          "type": "Hindi/Literal",
+          "meaning": "Postponed; suspended; put on hold."
         }
       ]
     },
@@ -273,7 +280,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Sakhat",
-          "type": "Hard/Tough"
+          "type": "Hindi/Literal",
+          "meaning": "Hard; tough; congealed."
         }
       ]
     },
@@ -348,7 +356,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Luft",
-          "type": "Pleasure/Joy"
+          "type": "Hindi/Literal",
+          "meaning": "Pleasure; enjoyment; fun (often in a cynical way, implying taking pleasure in others' pain)."
         }
       ]
     },
@@ -395,7 +404,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Spit Dope",
-          "type": "Delhi Rap Platform"
+          "type": "Slang",
+          "meaning": "To deliver excellent and impressive rap lyrics; spitting fire."
         }
       ]
     },
@@ -414,7 +424,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Vispot",
-          "type": "Explosion"
+          "type": "Hindi/Literal",
+          "meaning": "Explosion; outburst; significant impact."
         }
       ]
     },
@@ -440,7 +451,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Santusht",
-          "type": "Satisfied"
+          "type": "Hindi/Literal",
+          "meaning": "Satisfied; content."
         },
         {
           "text": "Apna baap hu me ditto",
@@ -458,7 +470,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Pinnak",
-          "type": "Delhi Slang for high/obsessive state"
+          "type": "Hindi/Slang",
+          "meaning": "State of intoxication; high from drugs or alcohol."
         }
       ]
     },
@@ -561,7 +574,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Besharam",
-          "type": "Shameless"
+          "type": "Hindi/Literal",
+          "meaning": "Shameless; without shame or embarrassment."
         }
       ]
     },
@@ -587,7 +601,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Bedhadak",
-          "type": "Without hesitation"
+          "type": "Hindi/Literal",
+          "meaning": "Fearlessly; boldly; without hesitation."
         }
       ]
     },
@@ -613,7 +628,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Veere",
-          "type": "Brother/Friend (Punjabi/Delhi slang)"
+          "type": "Slang/Culture",
+          "meaning": "Brother; a term of endearment and camaraderie, common in Punjabi and used in Hindi."
         }
       ]
     },
@@ -709,7 +725,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Bhussi bhar dena",
-          "type": "Slang for destroying/crushing"
+          "type": "Slang",
+          "meaning": "To fill with husk; To beat someone up badly, making them useless like husk. This is violent slang."
         },
         {
           "text": "bhussi bhar dete hai",
@@ -748,7 +765,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Sutli",
-          "type": "Jute twine used in firecrackers"
+          "type": "Hindi/Literal",
+          "meaning": "Jute twine or rope; suggesting someone is holding onto something insignificant or weak."
         }
       ]
     },
@@ -760,7 +778,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Pataka",
-          "type": "Firecracker"
+          "type": "Hindi/Slang",
+          "meaning": "Firecracker; someone explosive or attention-grabbing."
         }
       ]
     },
@@ -779,7 +798,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Fooljhadi",
-          "type": "Sparkler (Firework)"
+          "type": "Hindi/Slang",
+          "meaning": "Sparkler; implying someone is insignificant or harmless."
         },
         {
           "text": "nunusa mufali",
@@ -797,7 +817,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Mufali",
-          "type": "Peanut"
+          "type": "Hindi/Slang",
+          "meaning": "Peanut; implying someone is small, insignificant, or easily crushed."
         }
       ]
     },
@@ -830,7 +851,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Chuttad",
-          "type": "Slang for buttocks/idiot"
+          "type": "Slang/Vulgar",
+          "meaning": "Buttocks; implying someone is useless, lazy or a fool. Generally a derogatory term."
         }
       ]
     },
@@ -863,7 +885,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Karigar",
-          "type": "Craftsman"
+          "type": "Hindi/Literal",
+          "meaning": "Artisan; craftsman; implying someone is skilled or adept, perhaps sarcastically."
         }
       ]
     },
@@ -889,7 +912,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Khaaye jaan",
-          "type": "Idiom for nagging/bothering"
+          "type": "Hindi/Slang",
+          "meaning": "To be a nuisance; to constantly bother or irritate someone."
         }
       ]
     },
@@ -908,7 +932,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Sattar",
-          "type": "Traditional game (Seven Stones)"
+          "type": "Hindi/Number",
+          "meaning": "Seventy; Could be part of a larger number play, or used for emphasis, boasting of a high score or level."
         }
       ]
     },
@@ -976,7 +1001,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Hauz Khas",
-          "type": "Delhi locality/Nightlife hub"
+          "type": "Place/Reference",
+          "meaning": "A neighborhood in Delhi, known for its urban village vibe, historical monuments, cafes, and nightlife. Symbolizes a carefree or youthful phase."
         }
       ]
     },
@@ -1009,7 +1035,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Shabdkosh",
-          "type": "Dictionary"
+          "type": "Hindi/Literal",
+          "meaning": "Dictionary; vocabulary. Suggesting being superior in vocabulary"
         }
       ]
     },
@@ -1021,7 +1048,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Santosh",
-          "type": "Satisfaction"
+          "type": "Hindi/Literal",
+          "meaning": "Satisfaction; contentment."
         }
       ]
     },
@@ -1033,7 +1061,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Sankoch",
-          "type": "Hesitation/Doubt"
+          "type": "Hindi/Literal",
+          "meaning": "Hesitation; reluctance; shyness."
         }
       ]
     },
@@ -1052,7 +1081,8 @@ export const khoj: Song = {
       "annotations": [
         {
           "keyword": "Ankush",
-          "type": "Constraint/Control"
+          "type": "Hindi/Literal",
+          "meaning": "Restraint; control; curb."
         }
       ]
     },

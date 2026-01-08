@@ -15,11 +15,13 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Galti",
-          "type": "Noun/Mistake"
+          "type": "Hindi (Fault/Mistake)",
+          "meaning": "Fault; whose fault is it?"
         },
         {
           "keyword": "Sar",
-          "type": "Body Part/Head"
+          "type": "Hindi (Head)",
+          "meaning": "Head; Whose fault will be blamed on whom?"
         }
       ]
     },
@@ -31,11 +33,13 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Jalti",
-          "type": "Slang/Jealousy"
+          "type": "Hindi (Jealous)",
+          "meaning": "Jealous; Who is jealous of whom?"
         },
         {
           "keyword": "Banti",
-          "type": "Slang/Rapport"
+          "type": "Hindi (To Get Along)",
+          "meaning": "To Get Along; Who do they get along with?"
         }
       ]
     },
@@ -54,7 +58,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Bandi",
-          "type": "Slang/Girlfriend"
+          "type": "Hindi (Girlfriend)",
+          "meaning": "Girlfriend; Doesn't matter whose girlfriend she is."
         }
       ]
     },
@@ -73,11 +78,13 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Daaka",
-          "type": "Noun/Robbery"
+          "type": "Hindi (Raid/Heist)",
+          "meaning": "Raid/Heist; They raided and the crew is loaded."
         },
         {
           "keyword": "Maala Maal",
-          "type": "Adjective/Rich"
+          "type": "Hindi (Rich)",
+          "meaning": "Loaded/Rich; The crew became rich after the heist."
         },
         {
           "text": "Daaka Daala maala maal hai crew",
@@ -95,7 +102,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Shaakal",
-          "type": "Pop Culture/Villain"
+          "type": "Pop Culture Reference",
+          "meaning": "Referring to the cartoon character 'Shakal' from the show 'Art Attack' alluding to him coming with the tools to make something."
         },
         {
           "text": "Shaakal aaya shakalaka boom",
@@ -113,11 +121,13 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Tiki Taka",
-          "type": "Football Tactics"
+          "type": "Sports Reference",
+          "meaning": "A style of play in football characterized by short passing and movement, working the ball through various channels, and maintaining possession."
         },
         {
           "keyword": "Kaka",
-          "type": "Athlete"
+          "type": "Sports Reference",
+          "meaning": "Likely referring to the Brazilian footballer Kaká; Skillfully cutting through the competition like Kaká."
         }
       ]
     },
@@ -129,11 +139,13 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Bhaala",
-          "type": "Weapon/Spear"
+          "type": "Hindi (Spear)",
+          "meaning": "Spear; Brought a spear."
         },
         {
           "keyword": "Yabadabadoo",
-          "type": "Pop Culture"
+          "type": "Pop Culture Reference",
+          "meaning": "Catchphrase from The Flintstones; Adds a playful, almost primal energy to the line."
         },
         {
           "text": "Laaya saath me bhaala yabadabadoo",
@@ -165,7 +177,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Pille",
-          "type": "Slang/Pups"
+          "type": "Hindi/Slang",
+          "meaning": "Puppies; Used to refer to young and inexperienced individuals. In this context, could also be referring to 'bitches' or 'hoes'"
         },
         {
           "text": "Kaale dhabbe paale, Hum pille",
@@ -190,7 +203,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Bhes",
-          "type": "Noun/Disguise"
+          "type": "Hindi (Disguise)",
+          "meaning": "Disguises; They have many disguises."
         }
       ]
     },
@@ -202,7 +216,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Shuriken",
-          "type": "Weapon/Ninja Star"
+          "type": "Culture (Japanese)",
+          "meaning": "A concealed weapon (ninja star); They are precise and accurate with their attacks."
         }
       ]
     },
@@ -214,11 +229,13 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Ken/Ryu",
-          "type": "Gaming/Street Fighter"
+          "type": "Pop Culture Reference (Gaming)",
+          "meaning": "Characters from Street Fighter; A reference to powerful fighters, suggesting aggression and strength."
         },
         {
           "keyword": "Shoryuken",
-          "type": "Gaming/Move"
+          "type": "Pop Culture Reference (Gaming)",
+          "meaning": "A special move from Street Fighter; Implies unleashing a powerful attack."
         },
         {
           "text": "Ken aur Ryu bhare Shoryuken",
@@ -236,7 +253,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Supersonic",
-          "type": "Festival"
+          "type": "Slang",
+          "meaning": "Extremely fast; They went from yellow (intoxicated) to supersonic very quickly."
         }
       ]
     },
@@ -269,7 +287,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Nizamuddin",
-          "type": "Location/Delhi"
+          "type": "Place",
+          "meaning": "A locality in Delhi, India; Mentioning places in Delhi to showcase how far they have come."
         }
       ]
     },
@@ -336,11 +355,13 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Hotbox",
-          "type": "Slang/Smoking"
+          "type": "Slang",
+          "meaning": "Smoking weed in a confined space, creating a smoky environment."
         },
         {
           "keyword": "Stone Cold",
-          "type": "Pop Culture"
+          "type": "Pop Culture Reference",
+          "meaning": "Referencing Stone Cold Steve Austin; A cold and emotionless flow."
         }
       ]
     },
@@ -352,7 +373,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Ghamand",
-          "type": "Noun/Pride"
+          "type": "Hindi (Arrogance)",
+          "meaning": "Arrogance; They have arrogance."
         }
       ]
     },
@@ -469,7 +491,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Sadak Shiksha",
-          "type": "Metaphor/Street Smart"
+          "type": "Hindi (Street Smarts/Education)",
+          "meaning": "Street education; Their education happened on the streets."
         }
       ]
     },
@@ -481,7 +504,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "BT",
-          "type": "Slang/Bad Trip"
+          "type": "Slang",
+          "meaning": "Back to that (BT); Meaning not to return to a certain state or place."
         }
       ]
     },
@@ -619,7 +643,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Maradona",
-          "type": "Athlete"
+          "type": "Sports/Historical Reference",
+          "meaning": "Referring to Diego Maradona's 'Hand of God' goal; Implies doing something unfairly to win."
         }
       ]
     },
@@ -666,7 +691,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Thoot",
-          "type": "Slang/Face"
+          "type": "Hindi (Spit)",
+          "meaning": "Spit; Showing disrespect by spitting on someone's face."
         },
         {
           "text": "Mat kar, pari pana",
@@ -726,7 +752,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Parvardigaar",
-          "type": "Noun/God/Provider"
+          "type": "Hindi/Urdu (God)",
+          "meaning": "God; Seedhe Maut is your protector."
         },
         {
           "text": "Shah Jahan",
@@ -800,7 +827,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Ghodi",
-          "type": "Slang/Submission"
+          "type": "Hindi (Horse)",
+          "meaning": "Horse; Jumping on top of people while playing leap frog."
         },
         {
           "text": "Faeda kya choomke",
@@ -824,7 +852,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Jazbati",
-          "type": "Adjective/Emotional"
+          "type": "Hindi (Emotional)",
+          "meaning": "Emotional; Used to be emotional."
         }
       ]
     },
@@ -878,7 +907,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Bhaav Khaana",
-          "type": "Idiom/Acting Superior"
+          "type": "Hindi (Acting Expensive)",
+          "meaning": "To act pricey/high maintenance; They don't know if they want to act pricey or maintain a relationship."
         }
       ]
     },
@@ -911,7 +941,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Quarter",
-          "type": "Slang/Alcohol"
+          "type": "Slang",
+          "meaning": "Alcohol Bottle/Liquor; Refers to being drunk and not caring about relationships."
         }
       ]
     },
@@ -979,11 +1010,13 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Dolo",
-          "type": "Medicine"
+          "type": "Slang",
+          "meaning": "Speaking clearly as if on Dolo (paracetamol) when usually sick."
         },
         {
           "keyword": "Zoro/Piccolo",
-          "type": "Anime"
+          "type": "Pop Culture Reference (Anime)",
+          "meaning": "Characters from One Piece and Dragon Ball Z; The line uses them as an example of someone to depend on when in reality, that shouldn't be the case."
         }
       ]
     },
@@ -1058,7 +1091,8 @@ export const _101: Song = {
       "annotations": [
         {
           "keyword": "Shaolin",
-          "type": "Martial Arts"
+          "type": "Culture/Place",
+          "meaning": "Refers to the Shaolin Monastery, known for its Kung Fu monks. Implies discipline, skill, and mastery."
         }
       ]
     },
@@ -1210,7 +1244,7 @@ export const _101: Song = {
           "text": "Dolo se bolu me zoro se sick hu me Zorro se",
           "keyword": "Zorro",
           "type": "Reference",
-          "meaning": "Reference to the masked vigilante Zorro, signifying being skillful and secretive and also sick. "
+          "meaning": "Reference to the masked vigilante Zorro, signifying being skillful and secretive and also sick."
         }
       ]
     },

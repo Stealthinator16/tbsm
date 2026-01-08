@@ -15,7 +15,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Baitha",
-          "type": "state"
+          "type": "Hindi",
+          "meaning": "Hindi for 'sitting'. In this context, it means 'I am sitting' or 'I am in a state of being'."
         }
       ]
     },
@@ -41,7 +42,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Nami",
-          "type": "metaphor"
+          "type": "Hindi",
+          "meaning": "Hindi for 'moisture' or 'humidity'. Figuratively, it could refer to vulnerability, freshness, or emotional depth."
         }
       ]
     },
@@ -60,7 +62,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Sek lo",
-          "type": "metaphor"
+          "type": "Hindi",
+          "meaning": "Hindi for 'warm up'. In this context, it's used metaphorically to mean 'cherish', 'appreciate', or 'make the most of' their songs."
         }
       ]
     },
@@ -100,7 +103,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Katei",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Hindi slang, short for 'zara bhi nahi' or 'bilkul nahi'. Means 'not at all', 'absolutely not'."
         }
       ]
     },
@@ -112,7 +116,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Aisa vaisa",
-          "type": "idiom"
+          "type": "Hindi",
+          "meaning": "Hindi for 'like that', 'ordinary' or 'mediocre'. The speaker is asserting they are not ordinary."
         }
       ]
     },
@@ -145,7 +150,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Behra",
-          "type": "metaphor"
+          "type": "Hindi",
+          "meaning": "Hindi for 'deaf'. Used metaphorically to indicate someone is ignoring or not understanding."
         }
       ]
     },
@@ -171,7 +177,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Aag",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "Hindi for 'fire'. Used metaphorically to represent intensity, passion, or impactful words."
         }
       ]
     },
@@ -190,7 +197,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Mashaal",
-          "type": "metaphor"
+          "type": "Hindi",
+          "meaning": "Hindi for 'torch'. Representing guidance, enlightenment, or a burning passion that inspires conversation and action."
         }
       ]
     },
@@ -202,7 +210,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Score",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "To achieve success or gain something, usually in the context of a competition or challenge."
         }
       ]
     },
@@ -214,7 +223,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Crush",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "To destroy or overcome something completely. Also can be used to describe achieving a goal."
         }
       ]
     },
@@ -226,7 +236,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Roll",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "To move forward or continue despite obstacles. Also, a reference to rolling a joint."
         },
         {
           "text": "Roll kar, zindagi ke parde girte neeche",
@@ -250,7 +261,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Bhole",
-          "type": "cultural_reference"
+          "type": "Culture",
+          "meaning": "Referring to 'Bholenath', another name for the Hindu God Shiva. Used in a spiritual context, inviting one to lose themselves in dreams while chanting the deity's name."
         }
       ]
     },
@@ -318,7 +330,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Doobie",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Slang for a marijuana cigarette or joint."
         }
       ]
     },
@@ -337,7 +350,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Loony",
-          "type": "vocabulary"
+          "type": "Slang",
+          "meaning": "Crazy or insane. Used to describe a state of mind or behavior."
         }
       ]
     },
@@ -391,7 +405,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Trippin'",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Slang for hallucinating or experiencing altered perception, often due to drug use. Also used to express bewilderment or disbelief."
         }
       ]
     },
@@ -444,7 +459,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Hashish",
-          "type": "substance"
+          "type": "Slang",
+          "meaning": "A drug made from cannabis."
         }
       ]
     },
@@ -456,11 +472,13 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Plugs",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Slang for a drug dealer or supplier."
         },
         {
           "keyword": "Tol",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Slang/abbreviation of 'total'. 'I got that total sir' meaning 'I have the total amount of drugs, sir'."
         }
       ]
     },
@@ -493,7 +511,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Beat it",
-          "type": "wordplay"
+          "type": "Slang",
+          "meaning": "An expression indicating that the speaker has overcome those who doubted them."
         }
       ]
     },
@@ -526,7 +545,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Tass se mass",
-          "type": "idiom"
+          "type": "Hindi",
+          "meaning": "Hindi idiom meaning 'to not budge' or 'to not move an inch'. Indicates a firm stance or unwavering position."
         }
       ]
     },
@@ -559,7 +579,8 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Jharna",
-          "type": "metaphor"
+          "type": "Hindi",
+          "meaning": "Hindi for 'waterfall'. Used metaphorically, likely representing a flow of thoughts, emotions, or experiences."
         },
         {
           "text": "Yun tass se mass na",
@@ -577,11 +598,13 @@ export const kashmakush: Song = {
       "annotations": [
         {
           "keyword": "Kash",
-          "type": "wordplay"
+          "type": "Hindi",
+          "meaning": "Hindi for 'puff', often referring to taking a drag from a cigarette or joint. Here, referring to addiction or escapism."
         },
         {
           "keyword": "Kashti",
-          "type": "metaphor"
+          "type": "Hindi",
+          "meaning": "Hindi for 'boat'. Here, it represents a life or journey that is sinking due to the problems mentioned."
         }
       ]
     },

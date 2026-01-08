@@ -22,7 +22,8 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "भारी",
-          "type": "Slang/Metaphor"
+          "type": "Slang",
+          "meaning": "Bhaari means heavy or impressive. In this context, it signifies that Seedhe Maut are a force to be reckoned with; they are a 'heavy' or powerful duo."
         },
         {
           "text": "बन्दे हैं first place, दो लौंडे भारी हैं दस पे",
@@ -40,7 +41,8 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "नमस्ते",
-          "type": "Greeting"
+          "type": "Culture",
+          "meaning": "Namaste is a respectful greeting, meaning 'I bow to you'. Here, it's used sarcastically, implying Seedhe Maut is superior to others in the rap game."
         }
       ]
     },
@@ -52,7 +54,8 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "worst case",
-          "type": "English Slang"
+          "type": "Expression",
+          "meaning": "Even in the worst-case scenario, they won't be number two, indicating their confidence and dominance."
         }
       ]
     },
@@ -71,7 +74,8 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "cult",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "Refers to the dedicated fanbase of Seedhe Maut. They are self-sufficient and don't need external validation or allies."
         }
       ]
     },
@@ -90,7 +94,8 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "सगा",
-          "type": "Hindi Term"
+          "type": "Slang",
+          "meaning": "Saga means relative or kin. Implying that their friend is like family to them."
         }
       ]
     },
@@ -102,7 +107,8 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "डस",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "DS, likely short for Diss. It means someone is questioning whether you can diss them."
         }
       ]
     },
@@ -121,7 +127,8 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "खाई",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "Khaaye means 'to eat'. The line questions if someone will get eaten up (defeated) if they come at Seedhe Maut."
         }
       ]
     },
@@ -140,7 +147,8 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "बकचोदी",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Bakchodi means nonsense or bullshit. They are not here for foolishness, focusing on making money instead."
         }
       ]
     },
@@ -166,7 +174,8 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "झाई",
-          "type": "Hindi Term"
+          "type": "Slang",
+          "meaning": "Jhaai can mean show-off or flaunt. It implies that they can show off/ flaunt it."
         }
       ]
     },
@@ -185,11 +194,13 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "Ali",
-          "type": "Person"
+          "type": "Reference",
+          "meaning": "Referring to Muhammad Ali, the legendary boxer. It symbolizes their dominance and skill in the rap game, comparing themselves to a boxing great."
         },
         {
           "keyword": "Tyson",
-          "type": "Person"
+          "type": "Reference",
+          "meaning": "Referring to Mike Tyson, another legendary boxer known for his aggressive style and power. Reinforces their image of being a force to be reckoned with."
         }
       ]
     },
@@ -222,7 +233,8 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "जोटा",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Jhoota means liar. The line suggests people lie to cope with difficult situations, while Seedhe Maut speaks the truth."
         }
       ]
     },
@@ -297,7 +309,8 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "थाली में छेद",
-          "type": "Idiom"
+          "type": "Culture",
+          "meaning": "Thaali Mein Chhed Karna - This is an Indian idiom referring to being ungrateful or biting the hand that feeds you. In context, it's directed towards those who are disloyal or create problems in their own community."
         }
       ]
     },
@@ -309,7 +322,8 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "ग़द्दार",
-          "type": "Hindi Term"
+          "type": "Slang",
+          "meaning": "Ghaddar means traitor. Reinforcing the theme of loyalty and betrayal, stating that these individuals are traitors."
         }
       ]
     },
@@ -363,7 +377,8 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "BT",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "BT is likely shorthand for 'been there', indicating they've already experienced the challenges and are not easily impressed."
         },
         {
           "text": "मैं जिन बन्दों से यहाँ था उसे बचा रहा",
@@ -381,11 +396,13 @@ export const first_place: Song = {
       "annotations": [
         {
           "keyword": "करम",
-          "type": "Hindi Term"
+          "type": "Culture",
+          "meaning": "Karam refers to your actions or deeds, often with implications of karma. Implying they are focused on positive actions."
         },
         {
           "keyword": "रीति-रिवाज़",
-          "type": "Hindi Term"
+          "type": "Culture",
+          "meaning": "Riti-Rivaj means customs or traditions. Saying that others should stick to traditions, implying they themselves are breaking the mold."
         }
       ]
     },

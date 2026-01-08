@@ -15,7 +15,8 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Khauf",
-          "type": "Urdu/Hindi"
+          "type": "Culture",
+          "meaning": "Fear; The feeling of being afraid or intimidated. (Hindi word)"
         }
       ]
     },
@@ -27,7 +28,8 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Saap",
-          "type": "Slang (Snakes/Fakes)"
+          "type": "Culture",
+          "meaning": "Snake; Used metaphorically to refer to deceitful or dangerous people. (Hindi word)"
         }
       ]
     },
@@ -39,7 +41,8 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Rashan",
-          "type": "Hindi (Rations/Resources)"
+          "type": "Culture",
+          "meaning": "Ration; In this context, it likely implies being hungry or desperate, metaphorically 'eyes set on ration'. (Hindi word)"
         }
       ]
     },
@@ -58,7 +61,8 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Shrap",
-          "type": "Hindi (Curse)"
+          "type": "Culture",
+          "meaning": "Curse; Something bad or negative is bound to happen to someone. (Hindi word)"
         }
       ]
     },
@@ -91,11 +95,13 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "BT",
-          "type": "Slang (Bad Trip/Stress)"
+          "type": "Slang",
+          "meaning": "Before; short form for 'Before Taxes' implying they were better before or already at the top"
         },
         {
           "keyword": "Dallo",
-          "type": "Slang (Pimps/Sell-outs)"
+          "type": "Place",
+          "meaning": "Delhi; Slang term for people from Delhi. (Hindi word)"
         },
         {
           "text": "हूं पहले से BT में shut up (दल्लों)",
@@ -120,11 +126,13 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Bhadvo",
-          "type": "Slang (Losers/Pimps)"
+          "type": "Slang",
+          "meaning": "Pimp; used as derogatory slang. (Hindi word)"
         },
         {
           "keyword": "Kabar",
-          "type": "Hindi (Grave)"
+          "type": "Culture",
+          "meaning": "Grave; refers to burying the competition (Hindi word)"
         }
       ]
     },
@@ -171,7 +179,8 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Aukaat",
-          "type": "Hindi (Status/Capacity)"
+          "type": "Culture",
+          "meaning": "Status; Standing; Capacity; They don't have the same potential or status. (Hindi word)"
         }
       ]
     },
@@ -183,7 +192,8 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Decap",
-          "type": "Person (Music Producer)"
+          "type": "Slang",
+          "meaning": "Decapitation; Headless; Used to describe a hard-hitting beat or flow."
         }
       ]
     },
@@ -195,7 +205,8 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Encara Messi",
-          "type": "Pop Culture (Football)"
+          "type": "Reference",
+          "meaning": "Keep going Messi; A comparison to the legendary soccer player, implying skill and relentless performance."
         }
       ]
     },
@@ -207,11 +218,13 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "B-Rabbit",
-          "type": "Pop Culture (Eminem)"
+          "type": "Reference",
+          "meaning": "Reference to the character from the movie 8 Mile, about a rapper trying to prove himself."
         },
         {
           "keyword": "T-Bag",
-          "type": "Gaming Slang"
+          "type": "Slang",
+          "meaning": "Slang for sexual act of dipping scrotum into the face."
         },
         {
           "text": "भाई है mic पे बोले encara Messi",
@@ -284,7 +297,8 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Sauce",
-          "type": "Slang (Style/Swag)"
+          "type": "Slang",
+          "meaning": "Essence; Style; 'Your sauce isn't good enough to appeal to me'"
         },
         {
           "text": "तेरा भाई सीधे मौत दिखाए शीशा कवि",
@@ -386,7 +400,8 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Jhatu",
-          "type": "Slang (Worthless/Idiot)"
+          "type": "Slang",
+          "meaning": "Pubic hair; Implies they have nothing to offer or are worthless (Hindi word)."
         },
         {
           "text": "नाम रखा calm करु काम जैसे demigod",
@@ -439,7 +454,8 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Hitopadesha",
-          "type": "Sanskrit Text"
+          "type": "Culture",
+          "meaning": "An ancient Indian collection of interrelated animal fables in Sanskrit verse and prose, arranged within a frame story."
         }
       ]
     },
@@ -570,11 +586,13 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Aryabhatta",
-          "type": "Person (Mathematician)"
+          "type": "Reference",
+          "meaning": "An ancient Indian mathematician and astronomer who is credited with the invention of zero."
         },
         {
           "keyword": "Shunya",
-          "type": "Hindi (Zero)"
+          "type": "Culture",
+          "meaning": "Zero; Emphasizing how they turned nothing into something.(Hindi word)"
         }
       ]
     },
@@ -621,7 +639,8 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Raga",
-          "type": "Person (Rapper)"
+          "type": "Reference",
+          "meaning": "Another rapper in the Indian hip hop scene, potentially a reference to a competitor or peer."
         }
       ]
     },
@@ -640,7 +659,8 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Liu Kang",
-          "type": "Pop Culture (Mortal Kombat)"
+          "type": "Reference",
+          "meaning": "Reference to a character in the Mortal Kombat game; comparison in rap battle/gameplay."
         }
       ]
     },
@@ -652,7 +672,8 @@ export const khauf: Song = {
       "annotations": [
         {
           "keyword": "Binnes",
-          "type": "Slang (Business)"
+          "type": "Slang",
+          "meaning": "Best in the business; trying to establish dominance."
         }
       ]
     },

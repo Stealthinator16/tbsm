@@ -15,7 +15,8 @@ export const baat_aisi_ghar_jaisi: Song = {
       "annotations": [
         {
           "keyword": "SA",
-          "type": "Name/Producer"
+          "type": "Reference",
+          "meaning": "Short for 'Siddhant Adlakha', one half of the Seedhe Maut duo."
         }
       ]
     },
@@ -62,7 +63,8 @@ export const baat_aisi_ghar_jaisi: Song = {
       "annotations": [
         {
           "keyword": "Is side",
-          "type": "Metaphor/Concept"
+          "type": "Slang",
+          "meaning": "\"This side\", likely referring to their crew, their side of the city (Delhi), or their style/approach to music."
         }
       ]
     },
@@ -88,7 +90,8 @@ export const baat_aisi_ghar_jaisi: Song = {
       "annotations": [
         {
           "keyword": "Ghar jaisi",
-          "type": "Theme"
+          "type": "Idiom",
+          "meaning": "\"Like home\", meaning comfortable, familiar, and authentic. They present their music as genuine and relatable."
         },
         {
           "text": "बात ऐसी घर जैसी",
@@ -134,11 +137,13 @@ export const baat_aisi_ghar_jaisi: Song = {
       "annotations": [
         {
           "keyword": "Bhund faad",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Potentially meaning groundbreaking, extremely good, or mind-blowing writing. 'Bhund' is slang (potentially vulgar) which when combined with 'faad' amplifies the strength/impact."
         },
         {
           "keyword": "Likhari",
-          "type": "Slang/Occupation"
+          "type": "Language",
+          "meaning": "\"Writer\" in Hindi. They are emphasizing that they are 'bhund faad' writers."
         },
         {
           "text": "इस side रहते भुंड फाड़ लिखारी",
@@ -184,7 +189,8 @@ export const baat_aisi_ghar_jaisi: Song = {
       "annotations": [
         {
           "keyword": "Bhussi",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Husk\" or \"chaff\". Could mean that they are full of something worthless or that they are high. It could also mean that there is more beneath the surface and they are filled with potential."
         }
       ]
     },
@@ -357,7 +363,8 @@ export const baat_aisi_ghar_jaisi: Song = {
       "annotations": [
         {
           "keyword": "Likhari",
-          "type": "Slang"
+          "type": "Language",
+          "meaning": "\"Writer\" in Hindi. Plural form to imply multiple writers."
         },
         {
           "text": "साहिर लुधियानवी, निदा फ़ाज़ली (Yeah!)",
@@ -389,11 +396,13 @@ export const baat_aisi_ghar_jaisi: Song = {
       "annotations": [
         {
           "keyword": "Sahir Ludhianvi",
-          "type": "Poet"
+          "type": "Reference",
+          "meaning": "A very famous and respected Urdu poet and lyricist from India."
         },
         {
           "keyword": "Nida Fazli",
-          "type": "Poet"
+          "type": "Reference",
+          "meaning": "A very famous and respected Indian Urdu poet known for his simple and relatable language."
         }
       ]
     },

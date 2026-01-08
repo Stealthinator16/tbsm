@@ -15,11 +15,13 @@ export const akela: Song = {
       "annotations": [
         {
           "keyword": "दिल्ली",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "Delhi: A major metropolitan city and the capital of India."
         },
         {
           "keyword": "देहरादून",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "Dehradun: A city in the Himalayan foothills, known for its scenic beauty."
         }
       ]
     },
@@ -31,7 +33,8 @@ export const akela: Song = {
       "annotations": [
         {
           "keyword": "अकेला",
-          "type": "Theme"
+          "type": "Language",
+          "meaning": "Akela: Hindi for 'alone'."
         },
         {
           "text": "बहुत लोग मेरे आस पास पर अकेला हूँ",
@@ -56,7 +59,8 @@ export const akela: Song = {
       "annotations": [
         {
           "keyword": "baller",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Baller: Someone successful, wealthy, and living a lavish lifestyle."
         }
       ]
     },
@@ -75,7 +79,8 @@ export const akela: Song = {
       "annotations": [
         {
           "keyword": "setting",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Setting: A romantic or sexual encounter/rendezvous."
         }
       ]
     },
@@ -108,11 +113,13 @@ export const akela: Song = {
       "annotations": [
         {
           "keyword": "इज़हार",
-          "type": "Urdu Word"
+          "type": "Language",
+          "meaning": "Izhhaar: Hindi for 'to express' or 'to declare'."
         },
         {
           "keyword": "capping",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Capping: Slang for lying or exaggerating."
         }
       ]
     },
@@ -124,7 +131,8 @@ export const akela: Song = {
       "annotations": [
         {
           "keyword": "पटाखा",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Patakha: Hindi for 'firecracker'. In this context, it refers to an attractive woman."
         }
       ]
     },
@@ -178,7 +186,8 @@ export const akela: Song = {
       "annotations": [
         {
           "keyword": "बावे",
-          "type": "Slang/SM Signature"
+          "type": "Slang",
+          "meaning": "Baave: Hindi slang, short for 'bhaav', meaning giving importance or attention to someone. In this context, it means staying away from giving attention or engaging with someone."
         }
       ]
     },
@@ -253,7 +262,8 @@ export const akela: Song = {
       "annotations": [
         {
           "keyword": "stu",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Stu: Short for 'studio'."
         }
       ]
     },
@@ -286,11 +296,13 @@ export const akela: Song = {
       "annotations": [
         {
           "keyword": "butcher",
-          "type": "Reference"
+          "type": "Slang",
+          "meaning": "Butcher: Someone who is skilled and ruthless in their craft, likely referring to rapping ability."
         },
         {
           "keyword": "fly god",
-          "type": "Reference"
+          "type": "Reference",
+          "meaning": "Fly God: A term popularized by rapper Westside Gunn, referring to someone who is stylish, confident, and on top of their game."
         }
       ]
     },
@@ -323,7 +335,8 @@ export const akela: Song = {
       "annotations": [
         {
           "keyword": "hype",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hype: Intense excitement or promotion surrounding someone or something."
         }
       ]
     },
@@ -335,7 +348,8 @@ export const akela: Song = {
       "annotations": [
         {
           "keyword": "dough",
-          "type": "Slang/Money"
+          "type": "Slang",
+          "meaning": "Dough: Slang for money."
         }
       ]
     },
@@ -444,7 +458,8 @@ export const akela: Song = {
       "annotations": [
         {
           "keyword": "lowkey",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Lowkey: Doing something discreetly or subtly."
         }
       ]
     },
@@ -533,7 +548,8 @@ export const akela: Song = {
       "annotations": [
         {
           "keyword": "बाटली",
-          "type": "Slang/Bottle"
+          "type": "Language",
+          "meaning": "Baatli: Hindi for 'bottle'."
         }
       ]
     },
@@ -608,7 +624,8 @@ export const akela: Song = {
       "annotations": [
         {
           "keyword": "हातिम",
-          "type": "Cultural Reference"
+          "type": "Reference",
+          "meaning": "Haatim: Could be a reference to Haatim Tai, known for generosity and being alone in his actions, or could mean 'final'. In this context, it leans towards being alone and resolute."
         }
       ]
     },

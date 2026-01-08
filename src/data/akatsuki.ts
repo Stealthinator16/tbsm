@@ -15,7 +15,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "दुखी",
-          "type": "Emotion"
+          "type": "Hindi",
+          "meaning": "\"Dukhi\" means sad or sorrowful in Hindi. The line suggests the speaker was sad, a little sad, and not even asleep."
         }
       ]
     },
@@ -27,11 +28,13 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "जोटे",
-          "type": "Slang (Joints)"
+          "type": "Hindi",
+          "meaning": "\"Jhoothe\" means liar or fake in Hindi. The line indicates that these are not even liars and are being given false hope."
         },
         {
           "keyword": "कोई नहीं",
-          "type": "Song Reference"
+          "type": "Hindi",
+          "meaning": "\"Koi Nahi\" means 'no one' in Hindi."
         }
       ]
     },
@@ -43,7 +46,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "फूँकूँ",
-          "type": "Slang (To smoke)"
+          "type": "Slang",
+          "meaning": "\"Foonkun\" Likely a play on words phonetically sounding like 'Funkin' (as in funking around or messing with)."
         }
       ]
     },
@@ -83,7 +87,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "Akatsuki",
-          "type": "Anime Reference"
+          "type": "Reference",
+          "meaning": "A criminal organization in the anime series Naruto, known for their distinctive red cloud patterned robes and their goal of world domination. Here, it's likely used metaphorically to represent a crew or collective of individuals with a shared ambition or potentially a rebellious and powerful nature."
         }
       ]
     },
@@ -109,7 +114,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "सर्वोत्तम",
-          "type": "Hindi (Supreme/Best)"
+          "type": "Hindi",
+          "meaning": "\"Sarvottam\" means best or supreme in Hindi. The line means that only these supreme people are around now."
         },
         {
           "text": "Akatsuki jaise nikle launde khooni",
@@ -134,7 +140,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "Almighty push",
-          "type": "Anime Reference (Pain's technique)"
+          "type": "Reference",
+          "meaning": "A powerful technique used by Pain/Nagato in the anime Naruto. In this context, it implies having immense power or influence to push away obstacles or opponents."
         },
         {
           "text": "Sarvottam yeh launde tabhi",
@@ -179,7 +186,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "कांड",
-          "type": "Slang (Incident/Crime)"
+          "type": "Hindi",
+          "meaning": "\"Kaand\" means 'incident' or 'mischief' in Hindi. In the context of the lyrics, it indicates they are always up to something."
         },
         {
           "text": "Toh jaake yeh pain likhaai mein ghum, banaaye yeh bhai ko dusht",
@@ -197,7 +205,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "परमाणु",
-          "type": "Hindi (Atomic/Nuke)"
+          "type": "Hindi",
+          "meaning": "\"Parmanu\" means atom in Hindi. Here, the speaker is eluding to atomic energy and is a creative force."
         }
       ]
     },
@@ -265,7 +274,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "Sasori",
-          "type": "Anime Reference"
+          "type": "Reference",
+          "meaning": "A character from Naruto who is a master puppeteer. It's used here to imply that many rappers are like puppets, controlled by others, while the speaker identifies with Sasori as the one pulling the strings."
         },
         {
           "text": "man-child",
@@ -297,7 +307,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "opps",
-          "type": "Slang (Opposition)"
+          "type": "Slang",
+          "meaning": "A slang term short for 'opponents'."
         }
       ]
     },
@@ -323,7 +334,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "Kakuzu",
-          "type": "Anime Reference"
+          "type": "Reference",
+          "meaning": "A character from Naruto who has multiple hearts and can extend his life by stealing others' hearts. Metaphorically, it's used here to represent someone who is resilient and has many lives or chances."
         },
         {
           "text": "Sasori",
@@ -341,7 +353,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "Itachi",
-          "type": "Anime Reference"
+          "type": "Reference",
+          "meaning": "A complex and powerful character from Naruto, known for his skill and tragic backstory. In this context, it suggests the speaker is perhaps misunderstood or carries a burden, masking their true feelings."
         }
       ]
     },
@@ -381,7 +394,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "Baka",
-          "type": "Japanese Slang"
+          "type": "Slang",
+          "meaning": "\"Baka\" means idiot or fool in Japanese."
         }
       ]
     },
@@ -428,7 +442,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "ठस",
-          "type": "Slang (Useless/Dull)"
+          "type": "Slang",
+          "meaning": "\"Thos\" is slang for useless in Hindi. It is being used here to insinuate that the rappers are useless."
         }
       ]
     },
@@ -440,7 +455,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "खुंदस",
-          "type": "Slang (Anger/Irritation)"
+          "type": "Hindi",
+          "meaning": "\"Khundas\" means anger or frustration in Hindi. The lyrics express the speaker's rage and intent to inflict pain on those who wronged their mother"
         }
       ]
     },
@@ -543,7 +559,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "Nagato/Pain",
-          "type": "Anime Reference"
+          "type": "Reference",
+          "meaning": "Nagato is the real name of Pain from the anime Naruto. Pain is the alias. He is the leader of Akatsuki. A powerful character who believes in bringing peace through pain."
         }
       ]
     },
@@ -590,7 +607,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "Rail",
-          "type": "Slang (To dominate/thrash)"
+          "type": "Slang",
+          "meaning": "Referring to doing lines of drugs"
         }
       ]
     },

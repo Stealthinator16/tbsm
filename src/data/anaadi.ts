@@ -15,7 +15,8 @@ export const anaadi: Song = {
       "annotations": [
         {
           "keyword": "Sez on the beat",
-          "type": "Producer Tag"
+          "type": "Reference",
+          "meaning": "Sez is a well-known Indian hip-hop producer. This is his producer tag, indicating he produced the beat for the song."
         }
       ]
     },
@@ -27,7 +28,8 @@ export const anaadi: Song = {
       "annotations": [
         {
           "keyword": "Nakhre",
-          "type": "Slang/Noun - tantrums"
+          "type": "Culture",
+          "meaning": "Hindi for 'tantrums' or 'airs'. The artist is saying he won't tolerate tantrums."
         }
       ]
     },
@@ -46,7 +48,8 @@ export const anaadi: Song = {
       "annotations": [
         {
           "keyword": "Tappe",
-          "type": "Slang - hits/slaps"
+          "type": "Slang",
+          "meaning": "Hindi slang referring to a beating or physical assault, specifically referring to being hit on the head."
         }
       ]
     },
@@ -100,7 +103,8 @@ export const anaadi: Song = {
       "annotations": [
         {
           "keyword": "Tooti gaand",
-          "type": "Slang - to be in deep trouble/beaten"
+          "type": "Slang",
+          "meaning": "Hindi slang for a severe beating or harsh consequences if his actions are discovered."
         }
       ]
     },
@@ -119,7 +123,8 @@ export const anaadi: Song = {
       "annotations": [
         {
           "keyword": "Anaadi",
-          "type": "Keyword - novice/inexperienced"
+          "type": "Culture",
+          "meaning": "Hindi for 'novice' or 'beginner'. The artist is called a novice, but doesn't take it as an insult."
         }
       ]
     },
@@ -152,7 +157,8 @@ export const anaadi: Song = {
       "annotations": [
         {
           "keyword": "Ghar ka na ghaatka",
-          "type": "Idiom - belonging nowhere"
+          "type": "Culture",
+          "meaning": "Hindi proverb meaning 'belonging neither to the home nor to the ghat (cremation ground)'. It implies being useless or unwanted everywhere."
         }
       ]
     },
@@ -241,7 +247,8 @@ export const anaadi: Song = {
       "annotations": [
         {
           "keyword": "Naak ni katwaani",
-          "type": "Idiom - not to lose reputation"
+          "type": "Culture",
+          "meaning": "Hindi for 'don't want to get my nose cut off'. This is an idiom referring to not wanting to be disgraced or lose face."
         }
       ]
     },
@@ -274,7 +281,8 @@ export const anaadi: Song = {
       "annotations": [
         {
           "keyword": "Catch up",
-          "type": "Wordplay"
+          "type": "Slang",
+          "meaning": "In this context, it means to improve or make progress to reach the same level as others, specifically regarding academics."
         }
       ]
     },
@@ -384,7 +392,8 @@ export const anaadi: Song = {
       "annotations": [
         {
           "keyword": "Jallad",
-          "type": "Noun - executioner/cruel person"
+          "type": "Culture",
+          "meaning": "Hindi for 'executioner' or 'hangman'. The artist is being perceived as a ruthless or dangerous individual."
         }
       ]
     },
@@ -543,7 +552,8 @@ export const anaadi: Song = {
       "annotations": [
         {
           "keyword": "Saanp lotna",
-          "type": "Idiom - to be very jealous"
+          "type": "Culture",
+          "meaning": "Hindi idiom meaning 'snakes writhing inside', representing intense jealousy or envy."
         }
       ]
     },
@@ -590,7 +600,8 @@ export const anaadi: Song = {
       "annotations": [
         {
           "keyword": "Khed",
-          "type": "Formal/Hindi - Regret"
+          "type": "Culture",
+          "meaning": "Hindi for 'regret' or 'sorry'. Used here to express condolences for the loss of life in a car accident."
         }
       ]
     },

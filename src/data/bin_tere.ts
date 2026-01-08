@@ -36,7 +36,8 @@ export const bin_tere: Song = {
       "annotations": [
         {
           "keyword": "संदेह",
-          "type": "vocabulary"
+          "type": "Hindi",
+          "meaning": "Doubt; suspicion."
         }
       ]
     },
@@ -48,7 +49,8 @@ export const bin_tere: Song = {
       "annotations": [
         {
           "keyword": "बंदी",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "A drop, often referring to a raindrop. Here, likely metaphorically referring to someone rare and precious."
         }
       ]
     },
@@ -60,7 +62,8 @@ export const bin_tere: Song = {
       "annotations": [
         {
           "keyword": "खोका",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "A child, kid, or young person."
         },
         {
           "text": "तरपे, उड़ा दूँ खोका",
@@ -85,7 +88,8 @@ export const bin_tere: Song = {
       "annotations": [
         {
           "keyword": "योद्धा",
-          "type": "vocabulary"
+          "type": "Hindi",
+          "meaning": "A warrior; a fighter."
         },
         {
           "text": "न जानती वो, हूँ मैं योद्धा",
@@ -117,7 +121,8 @@ export const bin_tere: Song = {
       "annotations": [
         {
           "keyword": "रोज़गार",
-          "type": "vocabulary"
+          "type": "Hindi",
+          "meaning": "Someone who provides livelihood or employment; an employer."
         }
       ]
     },
@@ -206,7 +211,8 @@ export const bin_tere: Song = {
       "annotations": [
         {
           "keyword": "ain time",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Referring to old or past times; nostalgia."
         }
       ]
     },
@@ -350,7 +356,8 @@ export const bin_tere: Song = {
       "annotations": [
         {
           "keyword": "Dalli",
-          "type": "slang"
+          "type": "Place",
+          "meaning": "A shortened, colloquial form of Delhi, the capital city of India."
         }
       ]
     },
@@ -502,7 +509,8 @@ export const bin_tere: Song = {
       "annotations": [
         {
           "keyword": "बावे",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "Hundred"
         }
       ]
     },

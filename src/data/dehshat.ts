@@ -16,7 +16,8 @@ export const dehshat: Song = {
       "annotations": [
         {
           "word": "Sez on the beat",
-          "type": "Producer Tag"
+          "type": "Reference",
+          "meaning": "Sez on the beat is the producer tag of Sez, a well-known Indian music producer, indicating he produced the track."
         }
       ]
     },
@@ -32,7 +33,8 @@ export const dehshat: Song = {
         },
         {
           "word": "फालतू",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Jo bole faltu le lo khope mein (khope mein)\": Whoever speaks nonsense/rubbish, take them in the head (in the head). It's a threat of violence/disrespect."
         },
         {
           "text": "जो बोले फालतू ले लो खोपचे में (खोपचे में)",
@@ -50,7 +52,8 @@ export const dehshat: Song = {
       "annotations": [
         {
           "word": "हाथी",
-          "type": "Metaphor"
+          "type": "Metaphor",
+          "meaning": "\"Yahan chale haathi, kutte bhaunkte rahe\": Here elephants walk (majestically), dogs keep barking.  Meaning that Seedhe Maut are at a higher level and the haters are just barking dogs"
         }
       ]
     },
@@ -62,7 +65,8 @@ export const dehshat: Song = {
       "annotations": [
         {
           "word": "सालों",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Chaunkte rahe seekho saalo chaunkte rahe (chaunkte rahe)\": Keep getting startled, learn, you fools, keep getting startled (keep getting startled). Indicating that their actions are unpredictable and shocking to others"
         }
       ]
     },
@@ -85,7 +89,8 @@ export const dehshat: Song = {
         },
         {
           "word": "दहशत",
-          "type": "Title"
+          "type": "Slang",
+          "meaning": "\"Jhanda gaada boondein faandi dehshat hai (Yo)\": The flag is planted, crossed the drops, it's terror (Yo).  Meaning they've established their dominance and bring terror with their music. 'Boondein faandi' could also mean breaking through obstacles. 'Jhanda Gaadna' is an idiom for staking your claim, establishing your territory"
         }
       ]
     },
@@ -101,7 +106,8 @@ export const dehshat: Song = {
         },
         {
           "word": "झंटू",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Inko aata nahi ghanta ko jhantu vehem hai had hai\": They don't know anything, they are just delusional idiots; this is too much.  A dismissive statement about their competition or haters."
         },
         {
           "text": "झंडा गाड़ा बूंदें फांदी दहशत है (Yo)",
@@ -123,7 +129,8 @@ export const dehshat: Song = {
         },
         {
           "word": "खंभा",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Peete BP ka khamba aur rehte sehmat hain (kyun)\": They drink from the pillar of BP (Blood Pressure) and remain agreeable (why?). It likely implies they consume something (possibly alcohol or something else that affects blood pressure) to become compliant and conform to someones idea."
         }
       ]
     },
@@ -139,7 +146,8 @@ export const dehshat: Song = {
         },
         {
           "word": "रद्द",
-          "type": "Noun"
+          "type": "Slang",
+          "meaning": "\"Inse bhidega toh kaka rahega radd hai\": If you mess with them, you will be canceled/rejected, uncle."
         },
         {
           "text": "पीते BP का खंभा और रहते सहमत हैं (क्यूँ)",
@@ -161,7 +169,8 @@ export const dehshat: Song = {
         },
         {
           "word": "add जा",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Yeh bass sample hai, BT hai toh add jaa\": This is a bass sample, if it's BT (Booty) then get added to it.  It is a playful sexual innuendo."
         },
         {
           "text": "इनसे भिड़ेगा तो काका रहेम रद्द है",
@@ -319,7 +328,8 @@ export const dehshat: Song = {
       "annotations": [
         {
           "word": "हेटरो",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Aaj haters ko bhi hai mujhpe naaz\": Even haters are proud of me today. Signifying achieving a level of success that gains the respect even of detractors."
         },
         {
           "text": "लेकिन अब ज़बान चखे वक़त",
@@ -414,7 +424,8 @@ export const dehshat: Song = {
       "annotations": [
         {
           "word": "जेंगा",
-          "type": "Game Metaphor"
+          "type": "Metaphor",
+          "meaning": "\"Chal ek galti chaal aur girega khel hai yeh Jenga\": Make one mistake, another move and you'll fall; this game is Jenga. Referring to how precarious success is; make one wrong move and you could lose it all."
         }
       ]
     },
@@ -475,7 +486,8 @@ export const dehshat: Song = {
       "annotations": [
         {
           "word": "दोजो",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Khojoge toh mein jo dojhoge toh mein\": If you search, it's me; if you blame, it's me. A boast about their ubiquity and influence, whether good or bad."
         }
       ]
     },
@@ -487,7 +499,8 @@ export const dehshat: Song = {
       "annotations": [
         {
           "word": "गोटी",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Baitha leke puri sena ko aankhon se khelunga goti mein\": Sitting with my entire army, I'll play the goti(game piece/pawn) with my eyes (control everything with ease). Showing a level of control, strategy, and power."
         }
       ]
     },
@@ -499,7 +512,8 @@ export const dehshat: Song = {
       "annotations": [
         {
           "word": "loco",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Gogo mein top hoon mein loco bhi toh kabhi sochun\": I'm on top in Google, also loco (crazy), so sometimes I think. Showcasing intellect and top positioning (in search results) mixed with a wild side."
         }
       ]
     },
@@ -515,7 +529,8 @@ export const dehshat: Song = {
         },
         {
           "word": "भोज",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "\"Ki ghonchu se rokhenge kaise khud bhoj hain jo waise bhi (yuh)\": How will the stupid stop us? They are a burden themselves anyway (yuh).  Calling out the competition as inept and a hindrance."
         }
       ]
     },
@@ -527,7 +542,8 @@ export const dehshat: Song = {
       "annotations": [
         {
           "word": "peak",
-          "type": "English Term"
+          "type": "Slang",
+          "meaning": "\"Theek hai yeh bass theek hai kya mera yeh peak hai (na)\": It's alright this bass is alright what is this my peak? Is this my best?(no). The phrase is used to emphasize their excellence. It's a rhetorical question implying they haven't even reached their full potential."
         }
       ]
     },
@@ -539,7 +555,8 @@ export const dehshat: Song = {
       "annotations": [
         {
           "word": "Elite",
-          "type": "Noun"
+          "type": "Slang",
+          "meaning": "\"Elite hi league hai alag geek hai bajane ki wajah\": The league is only Elite, I'm a different kind of geek, the reason for playing. It is used to show that there is no competition for them in music."
         }
       ]
     },

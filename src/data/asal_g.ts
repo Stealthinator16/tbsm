@@ -16,11 +16,13 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Asal",
-          "type": "Urdu/Hindi Slang (Real/Original)"
+          "type": "Hindi/Slang",
+          "meaning": "\"Real\" or \"Genuine\" (Hindi). Used to emphasize authenticity and being true to oneself."
         },
         {
           "keyword": "G",
-          "type": "Hip-hop Slang (Gangster/OG)"
+          "type": "Slang",
+          "meaning": "Short for \"Gangster\" or \"Original Gangster.\" In this context, it signifies someone who is authentic, respected, and influential in their field."
         },
         {
           "text": "असल G",
@@ -87,7 +89,8 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Sar tek",
-          "type": "Cultural Idiom (Bowing/Showing respect)"
+          "type": "Hindi",
+          "meaning": "\"Keep your head down\" or \"bow your head\" (Hindi). A sign of respect or submission, or possibly a warning to stay low."
         }
       ]
     },
@@ -99,7 +102,8 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Baap",
-          "type": "Slang (Master/Superior)"
+          "type": "Hindi/Slang",
+          "meaning": "\"Fathers\" or \"The OGs\" (Hindi). Implying they are the best or the originators of the game."
         },
         {
           "text": "बाप लोग खड़े हैं, best in business",
@@ -117,7 +121,8 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Ghat",
-          "type": "Cultural Metaphor (Death/Cremation ground)"
+          "type": "Hindi/Culture",
+          "meaning": "\"Ghat\" translates to \"riverbank\" or \"steps leading to a river\" (Hindi). Symbolically referring to a place where things happen or deals go down, perhaps illicitly."
         }
       ]
     },
@@ -129,11 +134,13 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Punch",
-          "type": "Double Entendre (Punchline/Physical strike)"
+          "type": "Slang",
+          "meaning": "A clever or impactful line in rap; a verbal strike. In this context, implying they have powerful lyrics."
         },
         {
           "keyword": "Dwarka",
-          "type": "Location (SM's neighborhood)"
+          "type": "Place",
+          "meaning": "Likely refers to Dwarka in Delhi, implying where they are from or where they get their 'punch' (impactful lyrics) from."
         }
       ]
     },
@@ -152,11 +159,13 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Sadakchaap",
-          "type": "Slang (Street-bred/Commoner)"
+          "type": "Hindi/Slang",
+          "meaning": "\"Street smart\" or \"street style\" (Hindi). Represents a raw, unfiltered, and authentic approach."
         },
         {
           "keyword": "Sarhad",
-          "type": "Noun (Border)"
+          "type": "Hindi",
+          "meaning": "\"Border\" or \"Boundary\" (Hindi). Could symbolize pushing limits or venturing into dangerous/uncharted territory."
         }
       ]
     },
@@ -189,7 +198,8 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Nanha munha",
-          "type": "Idiom (Small child)"
+          "type": "Hindi",
+          "meaning": "\"Small child\" or \"Innocent child\" (Hindi). Used sarcastically to imply someone is naive or inexperienced."
         }
       ]
     },
@@ -208,7 +218,8 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Cheese",
-          "type": "Slang (Money)"
+          "type": "Slang",
+          "meaning": "Slang for money or wealth."
         }
       ]
     },
@@ -255,7 +266,8 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Chapad",
-          "type": "Noun (Meat cleaver/Machete)"
+          "type": "Hindi",
+          "meaning": "\"Silent\" or \"Hush\" (Hindi). Suggesting keeping things discreet or secretive."
         }
       ]
     },
@@ -267,7 +279,8 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Ghamandi",
-          "type": "Adjective (Arrogant)"
+          "type": "Hindi",
+          "meaning": "\"Arrogant\" or \"Proud\" (Hindi). Describing themselves as being perceived as arrogant by others who misunderstand them."
         }
       ]
     },
@@ -279,7 +292,8 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Ghisu",
-          "type": "Slang (To grind/Work hard)"
+          "type": "Hindi/Slang",
+          "meaning": "\"Overused\" or \"Worn out\" (Hindi). Suggesting that someone is unoriginal or repetitive."
         }
       ]
     },
@@ -298,7 +312,8 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Nakalchi",
-          "type": "Noun (Copycat)"
+          "type": "Hindi/Slang",
+          "meaning": "\"Copycat\" (Hindi). Criticizing others for imitating their style or work."
         }
       ]
     },
@@ -310,7 +325,8 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Booker T",
-          "type": "Pop Culture (Wrestler)"
+          "type": "Reference",
+          "meaning": "Refers to Booker T. Huffman, a professional wrestler known for his signature 'Spinaroonie' move. Here, it means doing unique and impressive moves."
         }
       ]
     },
@@ -371,11 +387,13 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "King Kai",
-          "type": "Pop Culture (Anime)"
+          "type": "Reference",
+          "meaning": "A character from Dragon Ball Z, who is a master and teaches others. Here used as a metaphor for teaching others how to be successful."
         },
         {
           "keyword": "Cake",
-          "type": "Slang (Money)"
+          "type": "Slang",
+          "meaning": "Slang term for money or success."
         }
       ]
     },
@@ -387,11 +405,13 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Wake n bake",
-          "type": "Slang (Cannabis use)"
+          "type": "Slang",
+          "meaning": "To smoke marijuana immediately upon waking up."
         },
         {
           "keyword": "Paper plane",
-          "type": "Metaphor (Joint)"
+          "type": "Slang",
+          "meaning": "Chasing money; similar to \"paper chasing\". The \"paper plane\" perhaps represents the journey or the ambition to acquire wealth."
         }
       ]
     },
@@ -466,7 +486,8 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "9k",
-          "type": "Pop Culture (Anime/Meme)"
+          "type": "Reference",
+          "meaning": "A reference to the Dragon Ball Z anime series, indicating an extremely high power level, far beyond what is considered normal. Here it implies that their skills or influence are immense."
         }
       ]
     },
@@ -723,7 +744,8 @@ export const asal_g: Song = {
       "annotations": [
         {
           "keyword": "Galeez",
-          "type": "Slang (Filthy/Raw)"
+          "type": "Hindi/Slang",
+          "meaning": "\"Filthy\" or \"Dirty\" (Hindi). In this context, it implies that he is raw, unfiltered, and perhaps controversial, which attracts both love and hate."
         }
       ]
     },

@@ -15,7 +15,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "Seedhe Maut",
-          "type": "Artist Name"
+          "type": "Artist",
+          "meaning": "The name of the Delhi-based Hindi hip-hop duo consisting of Encore ABJ and Calm."
         }
       ]
     },
@@ -55,11 +56,13 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "96",
-          "type": "Area Code"
+          "type": "Place",
+          "meaning": "Reference to Delhi. '96' likely alludes to the postal index number (PIN) code starting with 110096 for areas in Delhi."
         },
         {
           "keyword": "झांझ",
-          "type": "Instrument"
+          "type": "Slang",
+          "meaning": "Crowded or bustling place. (Hindi: Jhannj)"
         }
       ]
     },
@@ -141,7 +144,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "हरे आम",
-          "type": "Metaphor"
+          "type": "Culture",
+          "meaning": "Green mangoes. Suggests that everyone is after easy or obvious opportunities. (Hindi: Hare Aam)"
         }
       ]
     },
@@ -153,7 +157,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "हरे राम",
-          "type": "Spiritual Reference"
+          "type": "Culture",
+          "meaning": "Green Rama. Could be interpreted as everything is in God's/Rama's hands, or everything is good. (Hindi: Hare Ram)"
         },
         {
           "text": "बंदे करते hate, उन्हें करना है आराम",
@@ -171,7 +176,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "उड़ता बाण",
-          "type": "Idiom"
+          "type": "Slang",
+          "meaning": "A misplaced arrow. Suggests someone is not performing as expected or is an outlier. (Hindi: Udata Baan)"
         },
         {
           "text": "सब्र का नहीं हैं खा रहे, सब चबा रहे हरे आम",
@@ -203,7 +209,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "Calm",
-          "type": "Artist Name/Pun"
+          "type": "Artist",
+          "meaning": "One half of the hip-hop duo Seedhe Maut."
         }
       ]
     },
@@ -215,7 +222,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "फ़न्ने ख़ान",
-          "type": "Slang"
+          "type": "Reference",
+          "meaning": "Fanne Khan is reference to a Bollywood movie name. Here, it is used to describe people who are trying to be something they are not, particularly by copying others."
         }
       ]
     },
@@ -241,7 +249,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "हराम",
-          "type": "Religious Term/Slang"
+          "type": "Culture",
+          "meaning": "Forbidden or unlawful according to Islamic law. Used to describe something that is considered wrong or taboo."
         },
         {
           "text": "ये बाहर से line'ein copy करके समझे फ़न्ने ख़ान",
@@ -308,7 +317,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "ख़ून पीना",
-          "type": "Idiom"
+          "type": "Slang",
+          "meaning": "Drinking blood. A metaphor for taking advantage of someone, exploiting them, or getting something from them by force/unfair means. (Hindi: Khoon Peena)"
         },
         {
           "text": "Idol ये तेरे मूर्ति से",
@@ -326,7 +336,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "चूतिये",
-          "type": "Expletive"
+          "type": "Slang",
+          "meaning": "Lies or liars. (Hindi: Jhootheye)"
         }
       ]
     },
@@ -352,7 +363,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "सीधे मौत",
-          "type": "Artist Name/Double Entendre"
+          "type": "Slang",
+          "meaning": "Straight Death. Indicating that the rhymes are delivered directly and without holding back. (Hindi: Seedhe Maut)"
         }
       ]
     },
@@ -462,7 +474,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "sauce",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang for having the special ingredient/style/swag that makes something great."
         },
         {
           "text": "था ABJ का वो गाना वो बोला \"जमा कर\"",
@@ -508,7 +521,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "Meen",
-          "type": "Album/Persona"
+          "type": "Slang",
+          "meaning": "Delhi slang meaning 'I' or 'Me'."
         }
       ]
     },
@@ -555,7 +569,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "Full Power",
-          "type": "Crew Name"
+          "type": "Slang",
+          "meaning": "This is typically used to describe that they are at the peak of their performance, and ready to dominate. Can also refer to their collaborative and familial relationship."
         },
         {
           "text": "पहले भी कहा है, scene पे चले command",
@@ -678,7 +693,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "sus",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Short for suspicious. Implying that other people's actions are questionable or deceitful."
         }
       ]
     },
@@ -718,7 +734,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "Sick",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang meaning excellent, amazing, or impressive."
         }
       ]
     },
@@ -793,7 +810,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "W",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Short for 'Win'. Indicates a success or victory."
         },
         {
           "text": "है हाथ में Martini हम बैठे at the top, I love the view",
@@ -867,7 +885,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "झंडे गाड़",
-          "type": "Idiom"
+          "type": "Slang",
+          "meaning": "Ragged clothes, old clothes. Implying they were already giving this style long ago. (Hindi: Jhande Gad)"
         }
       ]
     },
@@ -879,7 +898,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "dementor",
-          "type": "Pop Culture Reference"
+          "type": "Reference",
+          "meaning": "Reference to the Harry Potter series. Dementors are creatures that suck the happiness out of people. Here, used metaphorically to describe those who try to bring others down or drain their energy."
         }
       ]
     },
@@ -891,7 +911,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "ज़मींदार",
-          "type": "Status Symbol"
+          "type": "Slang",
+          "meaning": "Landlord or someone who owns land. In this context, implying that they are dominant and own the rap game. (Hindi: Zamindar)"
         },
         {
           "text": "\"कोशिश करो\", बोला coach, \"अगर मारोगे सौ तभी goal होगा एक बार\"",
@@ -909,7 +930,8 @@ export const fanne_khan: Song = {
       "annotations": [
         {
           "keyword": "कट्टा",
-          "type": "Slang (Gun)"
+          "type": "Culture",
+          "meaning": "What all stories shall I tell, after taking the pen? (Hindi: Kisse Kahani)"
         }
       ]
     },

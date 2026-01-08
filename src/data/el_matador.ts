@@ -16,7 +16,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "लहर",
-          "type": "Metaphor (Wave/Trend)"
+          "type": "Language",
+          "meaning": "Lehar means 'wave' in Hindi. Here, it likely refers to riding a jet ski on waves."
         }
       ]
     },
@@ -28,7 +29,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "sensi",
-          "type": "Gaming Slang (Sensitivity)"
+          "type": "Slang",
+          "meaning": "Slang for high-quality marijuana."
         }
       ]
     },
@@ -40,7 +42,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "senti",
-          "type": "Slang (Sentimental)"
+          "type": "Slang",
+          "meaning": "Short for 'sentimental'. The artist is saying they aren't getting emotional or sentimental, but maintaining contact with family."
         }
       ]
     },
@@ -66,7 +69,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "भड़वे",
-          "type": "Slang (Sellouts/Pimps)"
+          "type": "Language",
+          "meaning": "Bhadwe (Hindi) is a derogatory term, essentially meaning 'pimp' or someone who enables exploitation. Here, it's used as an insult directed towards someone claiming to be better than they are."
         }
       ]
     },
@@ -85,7 +89,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "goat",
-          "type": "Acronym (Greatest of All Time)"
+          "type": "Slang",
+          "meaning": "An acronym for 'Greatest Of All Time'. It's used to describe someone highly skilled or successful."
         }
       ]
     },
@@ -97,7 +102,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "macklemore",
-          "type": "Reference (US Rapper)"
+          "type": "Reference",
+          "meaning": "Refers to the rapper Macklemore, whose popularity peaked around 2013. Implying the artist cracked the code to success as Macklemore did."
         }
       ]
     },
@@ -109,7 +115,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "capping",
-          "type": "Slang (Lying)"
+          "type": "Slang",
+          "meaning": "Slang for lying or exaggerating."
         }
       ]
     },
@@ -121,7 +128,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "El Matador",
-          "type": "Metaphor (Bullfighter)"
+          "type": "Reference",
+          "meaning": "Spanish for 'The Bullfighter'. Refers to a skilled bullfighter, and in this context, represents the artist's dominance and skill in rap."
         }
       ]
     },
@@ -147,7 +155,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "M",
-          "type": "Drug Slang (MDMA)"
+          "type": "Slang",
+          "meaning": "Likely refers to MDMA (Ecstasy/Molly), a psychoactive drug."
         },
         {
           "text": "मैं ढूंढू दिल और दिमाग वो जहाँ ढूंढे tattoo gold chain",
@@ -165,7 +174,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "Fendi",
-          "type": "Brand"
+          "type": "Culture",
+          "meaning": "Italian luxury fashion brand, often associated with wealth and status. Used here to denote people trying to show that they are rich."
         },
         {
           "text": "गन्दी M और सस्ता cocaine",
@@ -246,7 +256,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "baawe",
-          "type": "Delhi Slang (Brother/Homie)"
+          "type": "Slang",
+          "meaning": "A slang word for 'bhai' which means brother or homie. Used in a casual way."
         }
       ]
     },
@@ -286,7 +297,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "sort scene",
-          "type": "Slang (Fixing things)"
+          "type": "Slang",
+          "meaning": "To sort something out, meaning to organize, resolve, or deal with something efficiently."
         }
       ]
     },
@@ -326,7 +338,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "दल्ले",
-          "type": "Slang (Sellouts/Pimps)"
+          "type": "Slang",
+          "meaning": "Dalle is an adjective which means that a person is 'jobless'."
         },
         {
           "text": "Beato पे चढ़ता तो करता Autopsy",
@@ -386,7 +399,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "उस्ताद",
-          "type": "Title (Master/Teacher)"
+          "type": "Language",
+          "meaning": "Ustaad (Hindi/Urdu) means 'master' or 'expert'."
         }
       ]
     },
@@ -426,11 +440,13 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "जोटे",
-          "type": "Slang (Joints/Marijuana)"
+          "type": "Slang",
+          "meaning": "Jhote (Hindi) literally translates to 'buffaloes.' In this context, it likely refers to the roughness or tough experiences he endured."
         },
         {
           "keyword": "CRPF",
-          "type": "Reference (Police Force)"
+          "type": "Acronym",
+          "meaning": "Central Reserve Police Force, India's largest Central Armed Police Force."
         }
       ]
     },
@@ -477,7 +493,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "भंडी",
-          "type": "Slang (High/Intoxicated)"
+          "type": "Language",
+          "meaning": "Bhandi (Hindi) is a very derogatory and disrespectful term. It's a strong insult."
         }
       ]
     },
@@ -510,7 +527,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "Salman",
-          "type": "Reference (Salman Khan)"
+          "type": "Reference",
+          "meaning": "Refers to the Bollywood actor Salman Khan, implying that the artist destroys competition easily."
         }
       ]
     },
@@ -550,7 +568,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "ताड़",
-          "type": "Slang (Ogling/Staring)"
+          "type": "Language",
+          "meaning": "Tadh (Hindi) means 'stare'."
         }
       ]
     },
@@ -562,7 +581,8 @@ export const el_matador: Song = {
       "annotations": [
         {
           "keyword": "TBSM",
-          "type": "Acronym (SM Catchphrase)"
+          "type": "Acronym",
+          "meaning": "Likely refers to the phrase 'Thodi bohot sharam hai mujhmein', loosely translating to 'I have some shame'."
         }
       ]
     }

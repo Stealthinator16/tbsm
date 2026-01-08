@@ -15,7 +15,8 @@ export const dhoke: Song = {
       "annotations": [
         {
           "word": "Dhoke",
-          "type": "Thematic"
+          "type": "Hindi",
+          "meaning": "Dhoke, khari hai tu apno se\" translates to \"Deceit/Betrayal, you originate from your own people."
         }
       ]
     },
@@ -34,7 +35,8 @@ export const dhoke: Song = {
       "annotations": [
         {
           "word": "Khoke",
-          "type": "Slang/Pun"
+          "type": "Hindi",
+          "meaning": "Khoke, paari hai tu khud yaha khoke\" translates to \"Having lost, you are winning after losing yourself here."
         }
       ]
     },
@@ -130,7 +132,8 @@ export const dhoke: Song = {
       "annotations": [
         {
           "word": "Jote",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "Aaja mere paas aur jala jote\" translates to \"Come to me and burn shoes"
         }
       ]
     },
@@ -226,7 +229,8 @@ export const dhoke: Song = {
       "annotations": [
         {
           "word": "Baave",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "Dost ne diya thappad bave sar pe, do case\" translates to \"Friend slapped twice on the head, two cases"
         }
       ]
     },
@@ -238,7 +242,8 @@ export const dhoke: Song = {
       "annotations": [
         {
           "word": "PCR",
-          "type": "Terminology"
+          "type": "Common Abbreviations & Slang",
+          "meaning": "PCR refers to Police Control Room. Road rage means anger issues when driving."
         },
         {
           "text": "दोस्त ने दिया थप्पड़ बावे सर पे दो case",
@@ -270,7 +275,8 @@ export const dhoke: Song = {
       "annotations": [
         {
           "word": "Daali",
-          "type": "Slang"
+          "type": "Drugs",
+          "meaning": "Cocaine is a strong stimulant most frequently used as a recreational drug."
         },
         {
           "text": "खत्म करी सारी बातें चालू ghost face",
@@ -288,7 +294,8 @@ export const dhoke: Song = {
       "annotations": [
         {
           "word": "Demon Slayer",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "\"Demon Slayer\" refers to someone or something that aggressively defeats or overcomes harmful influences."
         },
         {
           "text": "डाली का हूँ आशिक़ पर वो लगे cocaine",
@@ -341,7 +348,8 @@ export const dhoke: Song = {
       "annotations": [
         {
           "word": "Trap life",
-          "type": "Hip-hop term"
+          "type": "Slang",
+          "meaning": "Trap life\" generally refers to a lifestyle associated with selling drugs or living in a dangerous environment, often characterized by struggle and hardship. \"Nails hai uske done\" translates to \"her nails are done (manicured)"
         },
         {
           "text": "वो fashion star और काली लगती मुझको, करती cure",
@@ -527,7 +535,8 @@ export const dhoke: Song = {
       "annotations": [
         {
           "word": "Katta",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "Tu na jane woh dard jab woh katta khali ho raha\" translates to \"You don't know that pain when it empties/diminishes."
         }
       ]
     },
@@ -539,7 +548,8 @@ export const dhoke: Song = {
       "annotations": [
         {
           "word": "Bhola",
-          "type": "Slang"
+          "type": "Hindi & Slang",
+          "meaning": "\"Maine shuru kare nashe, daali do rupaye ka bhola\" translates to \"I started doing drugs, adding two rupees worth of 'bhola'\". 'Bhola' is a slang term for marijuana/weed/cannabis."
         }
       ]
     },

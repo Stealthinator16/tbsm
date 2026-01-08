@@ -15,7 +15,8 @@ export const kehne_do: Song = {
       "annotations": [
         {
           "keyword": "Jazbaat",
-          "type": "Urdu/Hindi noun (Emotions)"
+          "type": "Culture",
+          "meaning": "Feelings, emotions. (Hindi word)"
         }
       ]
     },
@@ -34,7 +35,8 @@ export const kehne_do: Song = {
       "annotations": [
         {
           "keyword": "Darkhwast",
-          "type": "Urdu noun (Request/Petition)"
+          "type": "Culture",
+          "meaning": "Request, application. (Hindi/Urdu word)"
         },
         {
           "text": "अब दिल भी कर रहा है दरख्वास्त (कि)",
@@ -101,7 +103,8 @@ export const kehne_do: Song = {
       "annotations": [
         {
           "keyword": "Bajo",
-          "type": "DHH Slang (Make noise/Perform)"
+          "type": "Culture",
+          "meaning": "Play (music). Referring to playing the bass. (Hindi word)"
         }
       ]
     },
@@ -197,7 +200,8 @@ export const kehne_do: Song = {
       "annotations": [
         {
           "keyword": "50 Cent",
-          "type": "Rapper/Currency Reference"
+          "type": "Reference",
+          "meaning": "Referring to the American rapper 50 Cent, implying someone isn't as wealthy or influential."
         }
       ]
     },
@@ -244,7 +248,8 @@ export const kehne_do: Song = {
       "annotations": [
         {
           "keyword": "Dalli",
-          "type": "Slang (Delhi)"
+          "type": "Place",
+          "meaning": "Referring to Delhi, the capital city of India, suggesting where the speaker is."
         }
       ]
     },
@@ -347,7 +352,8 @@ export const kehne_do: Song = {
       "annotations": [
         {
           "keyword": "Bawe",
-          "type": "Slang (Bro/Dude)"
+          "type": "Culture",
+          "meaning": "Smoke, fumes. (Hindi word)"
         }
       ]
     },
@@ -359,7 +365,8 @@ export const kehne_do: Song = {
       "annotations": [
         {
           "keyword": "Pinak",
-          "type": "Slang (State of intoxication)"
+          "type": "Slang",
+          "meaning": "Possibly referring to 'Pinnacle', the highest point. Implies his words are the ultimate truth."
         }
       ]
     },
@@ -371,7 +378,8 @@ export const kehne_do: Song = {
       "annotations": [
         {
           "keyword": "Vedic",
-          "type": "Metaphor (Herbal/Weed)"
+          "type": "Culture",
+          "meaning": "Likely referencing ancient Indian/Hindu traditions or scriptures. Could be about a traditional or historical scene."
         }
       ]
     },
@@ -453,7 +461,8 @@ export const kehne_do: Song = {
       "annotations": [
         {
           "keyword": "Bankai",
-          "type": "Anime Reference (Bleach)"
+          "type": "Reference",
+          "meaning": "Referring to Bankai, a powerful transformation in the anime series Bleach, used to describe the speaker's power."
         },
         {
           "text": "धुआँ धुआँ बादल बावे chimney जैसे हम",
@@ -499,7 +508,8 @@ export const kehne_do: Song = {
       "annotations": [
         {
           "keyword": "Trapstar",
-          "type": "Hip-hop Archetype"
+          "type": "Slang",
+          "meaning": "A term referring to someone involved in drug dealing and the associated lifestyle. The artist is stating he is not one."
         }
       ]
     },
@@ -707,7 +717,8 @@ export const kehne_do: Song = {
       "annotations": [
         {
           "keyword": "Bhussi",
-          "type": "Slang (Intensity/Dominance)"
+          "type": "Culture",
+          "meaning": "Husk, chaff. Meaning something worthless or of low quality. (Hindi word)"
         }
       ]
     },
@@ -810,7 +821,8 @@ export const kehne_do: Song = {
       "annotations": [
         {
           "keyword": "BT",
-          "type": "Slang (Bad Trip/Stress)"
+          "type": "Slang",
+          "meaning": "BT likely refers to 'Bitch'."
         }
       ]
     },

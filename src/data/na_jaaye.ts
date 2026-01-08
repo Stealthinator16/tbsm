@@ -54,7 +54,7 @@ export const na_jaaye: Song = {
       "original": "Ya hai, ek andar keeda usko khaae jaae",
       "speaker": "Encore ABJ",
       "translation": "Or is there a worm inside, eating away at her?",
-      "explanation": " 'Keeda' refers to an obsession, an insecurity, or a restless urge that ruins peace of mind.",
+      "explanation": "'Keeda' refers to an obsession, an insecurity, or a restless urge that ruins peace of mind.",
       "annotations": [
         {
           "keyword": "Keeda",
@@ -599,7 +599,7 @@ export const na_jaaye: Song = {
           "text": "Chui mui tu hi nahi",
           "keyword": "Chui mui",
           "type": "Metaphor",
-          "meaning": "A touch-me-not plant. You aren't the only sensitive person. "
+          "meaning": "A touch-me-not plant. You aren't the only sensitive person."
         }
       ]
     },

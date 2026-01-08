@@ -15,7 +15,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "Fuckin up",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Messing up, making mistakes."
         }
       ]
     },
@@ -27,7 +28,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "up",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Likely shortened form of a word to rhyme with another in the line, can be seen as 'enough'."
         },
         {
           "text": "लगता है खुद से ही डर क्यूँ है शक काफी देर से हूँ up",
@@ -45,7 +47,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "साथ",
-          "type": "noun"
+          "type": "Hindi",
+          "meaning": "Saath: With, alongside."
         }
       ]
     },
@@ -127,7 +130,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "झूट",
-          "type": "noun"
+          "type": "Hindi",
+          "meaning": "Jhoot: Lie, Untruth."
         }
       ]
     },
@@ -160,7 +164,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "मज़बूत",
-          "type": "adjective"
+          "type": "Hindi",
+          "meaning": "Majboot: Strong, sturdy, solid."
         }
       ]
     },
@@ -186,7 +191,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "कूद",
-          "type": "verb"
+          "type": "Hindi",
+          "meaning": "Khud: Self, own."
         }
       ]
     },
@@ -205,7 +211,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "मशरूफ",
-          "type": "urdu_word"
+          "type": "Hindi",
+          "meaning": "Mashroof: Busy, occupied."
         }
       ]
     },
@@ -224,11 +231,13 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "भण्ड",
-          "type": "slang"
+          "type": "Hindi Slang",
+          "meaning": "Bhand: Fool, Idiot, someone easily manipulated."
         },
         {
           "keyword": "numb",
-          "type": "english_slang"
+          "type": "Slang",
+          "meaning": "Emotionally or physically deadened or unresponsive."
         }
       ]
     },
@@ -240,7 +249,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "खत्ते",
-          "type": "noun"
+          "type": "Hindi",
+          "meaning": "Khatte: Sour, bitter."
         },
         {
           "text": "I mean, हूँ मैं मशरूफ मशरूफ",
@@ -272,7 +282,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "रट्टे",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "Ratte: Repeating something without understanding."
         },
         {
           "text": "लेकिन यादें करे तेरी मुझे numb थोड़ा भण्ड तैरे दिल मेरा बोलू मत डूब मत डूब",
@@ -290,11 +301,13 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "जप",
-          "type": "metaphor"
+          "type": "Hindi",
+          "meaning": "Jap: Chanting, repetition of a mantra or name."
         },
         {
           "keyword": "मत्थे",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "Matthe: Forehead, head."
         },
         {
           "text": "कूड़े जैसे खो चूका था खत्ते में",
@@ -319,7 +332,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "आधे",
-          "type": "double_entendre"
+          "type": "Hindi",
+          "meaning": "Aadhe: Half."
         }
       ]
     },
@@ -331,7 +345,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "लाठी",
-          "type": "noun"
+          "type": "Hindi",
+          "meaning": "Laathi: A stick, baton."
         }
       ]
     },
@@ -343,7 +358,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "skating",
-          "type": "metaphor"
+          "type": "Slang",
+          "meaning": "Moving swiftly and effortlessly, gliding (in this context, through life or situations)."
         }
       ]
     },
@@ -397,7 +413,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "कसूर",
-          "type": "urdu_word"
+          "type": "Hindi",
+          "meaning": "Kasoor: Fault, blame, mistake."
         }
       ]
     },
@@ -409,7 +426,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "मशहूर",
-          "type": "adjective"
+          "type": "Hindi",
+          "meaning": "Mashhoor: Famous, well-known."
         }
       ]
     },
@@ -456,7 +474,8 @@ export const bas_jhut: Song = {
       "annotations": [
         {
           "keyword": "all ears",
-          "type": "idiom"
+          "type": "Idiom",
+          "meaning": "Paying close attention, ready to listen."
         }
       ]
     },

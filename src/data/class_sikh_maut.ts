@@ -15,7 +15,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Pehle",
-          "type": "Hindi"
+          "type": "Language",
+          "meaning": "Before (Urdu/Hindi). The phrase emphasizes doing something even before the initial expectation; ahead of time."
         }
       ]
     },
@@ -27,7 +28,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Nehle pe dehle",
-          "type": "Idiom"
+          "type": "Idiom",
+          "meaning": "Tit for tat. An idiom meaning to outdo someone's actions with a stronger counter-action; one-upmanship."
         }
       ]
     },
@@ -46,7 +48,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Lai",
-          "type": "Slang/Technical"
+          "type": "Language",
+          "meaning": "Rhythm or beat (Hindi). In this context, it suggests advising someone to say something in rhythm or with flow."
         }
       ]
     },
@@ -65,7 +68,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Sena",
-          "type": "Hindi"
+          "type": "Language",
+          "meaning": "Army (Hindi). Here, it represents the artist's crew, team, or supporters."
         }
       ]
     },
@@ -84,7 +88,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Behna",
-          "type": "Double Entendre"
+          "type": "Language",
+          "meaning": "To flow (Hindi). In this context, it means 'you swim, we learn to flow', representing different levels of experience. Possibly also phonetically alluding to 'behen', meaning sister, in a derogatory way."
         }
       ]
     },
@@ -103,7 +108,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Shakaal",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "Refers to the iconic villain 'Shakaal' from the Bollywood movie *Shaan*. It implies a monstrous, evil appearance."
         }
       ]
     },
@@ -150,7 +156,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Kiwaad",
-          "type": "Hindi/Urdu"
+          "type": "Language",
+          "meaning": "Door (Hindi). Asking someone to open the door, possibly metaphorically to opportunity or access."
         }
       ]
     },
@@ -190,7 +197,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Betaal",
-          "type": "Mythology/Folklore"
+          "type": "Mythology",
+          "meaning": "A mythical creature/spirit from Indian folklore, often depicted as a corpse possessed by a spirit.  It symbolizes being haunted or possessed by something, in this case, possibly ambition or a dark side."
         }
       ]
     },
@@ -237,7 +245,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Fattu",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Coward (Hindi slang). Used to describe someone who is scared or lacks courage."
         }
       ]
     },
@@ -326,7 +335,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Fappable",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "A slang term, derived from 'fap', referring to something or someone considered sexually attractive or arousing."
         }
       ]
     },
@@ -436,7 +446,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Juice",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang for influence, power, or respect.  Having 'the juice' means possessing authority or sway."
         }
       ]
     },
@@ -497,7 +508,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Dodos",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "Refers to the extinct dodo bird, often used as a metaphor for someone who is unintelligent, foolish, or out of touch."
         }
       ]
     },
@@ -579,7 +591,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Sachhi",
-          "type": "Punjabi"
+          "type": "Language",
+          "meaning": "True or Truth (Punjabi). 'Sachhi ae gal' translates to 'This is true'."
         }
       ]
     },
@@ -619,7 +632,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Khap",
-          "type": "Punjabi Slang"
+          "type": "Language",
+          "meaning": "Trouble or disturbance (Punjabi). 'Paunde khap' means 'to create trouble'."
         }
       ]
     },
@@ -638,7 +652,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Suroor",
-          "type": "Urdu/Punjabi"
+          "type": "Language",
+          "meaning": "Intoxication or bliss (Urdu/Hindi). 'Chade suroor' means 'intoxication rises/happens', and 'tutte gurur' means 'ego breaks'."
         }
       ]
     },
@@ -712,7 +727,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Saad",
-          "type": "Punjabi Slang"
+          "type": "Language",
+          "meaning": "Burn (Punjabi). 'Saad de' translates to 'burn it'."
         }
       ]
     },
@@ -801,7 +817,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Duniyadari",
-          "type": "Urdu/Hindi/Punjabi"
+          "type": "Culture",
+          "meaning": "Worldly ways or understanding of the world (Hindi).  It refers to the practical knowledge and experiences one gains from navigating the world and its complexities."
         }
       ]
     },
@@ -813,7 +830,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Kaali",
-          "type": "Punjabi"
+          "type": "Language",
+          "meaning": "Hurry or rush (Punjabi). 'Mainu ni kaali' translates to 'I am not in a hurry'."
         }
       ]
     },
@@ -825,7 +843,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Hauli",
-          "type": "Punjabi"
+          "type": "Language",
+          "meaning": "Slowly (Punjabi). 'Hauli hauli ho jo sab' translates to 'everything will happen slowly'."
         }
       ]
     },
@@ -907,7 +926,8 @@ export const class_sikh_maut: Song = {
       "annotations": [
         {
           "keyword": "Atal",
-          "type": "Hindi/Punjabi"
+          "type": "Language",
+          "meaning": "Steadfast, Immovable or unwavering (Hindi). Used to encourage someone to remain firm and resolute."
         }
       ]
     },

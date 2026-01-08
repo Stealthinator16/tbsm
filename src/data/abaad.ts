@@ -15,7 +15,8 @@ export const abaad: Song = {
       "annotations": [
         {
           "keyword": "बातें सौ",
-          "type": "idiom"
+          "type": "Language",
+          "meaning": "\"Baatein Sau\" translates to \"a hundred things/talks.\" In this context, it implies a lot is going on in their minds or lives."
         }
       ]
     },
@@ -48,7 +49,8 @@ export const abaad: Song = {
       "annotations": [
         {
           "keyword": "fucks",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Used as an expletive to express dismissal or disagreement. Similar to 'I don't give a fuck'."
         },
         {
           "text": "Encore पे देने को है fucks नहीं दो",
@@ -66,7 +68,8 @@ export const abaad: Song = {
       "annotations": [
         {
           "keyword": "धक्के",
-          "type": "metaphor"
+          "type": "Language",
+          "meaning": "\"Dhake\" translates to \"shoves\" or \"kicks.\" Here, it probably refers to the struggles or hard knocks of life."
         }
       ]
     },
@@ -99,7 +102,8 @@ export const abaad: Song = {
       "annotations": [
         {
           "keyword": "गांड",
-          "type": "profanity"
+          "type": "Slang",
+          "meaning": "\"Gaand mein ghusa lo\" translates to \"shove it up your ass.\" It's a crude way of saying they don't care about someone's apologies."
         }
       ]
     },
@@ -139,7 +143,8 @@ export const abaad: Song = {
       "annotations": [
         {
           "keyword": "भेजा",
-          "type": "slang"
+          "type": "Language",
+          "meaning": "\"Bheja\" translates to \"brain.\" Here, it's likely used to mean they're losing their mind or are extremely frustrated."
         }
       ]
     },
@@ -172,7 +177,8 @@ export const abaad: Song = {
       "annotations": [
         {
           "keyword": "अमर",
-          "type": "proper noun"
+          "type": "Language",
+          "meaning": "\"Amar\" translates to \"immortal.\" Used sarcastically or ironically, indicating that they are far from immortal. Shabash is used to congratulate someone on a good job or sarcasm."
         }
       ]
     },
@@ -198,7 +204,8 @@ export const abaad: Song = {
       "annotations": [
         {
           "keyword": "जांबाज",
-          "type": "vocabulary"
+          "type": "Language",
+          "meaning": "\"Jaambaaz\" translates to \"daredevil\" or \"one who risks their life.\" This could be interpreted as a boast about their fearless attitude."
         }
       ]
     },
@@ -314,7 +321,8 @@ export const abaad: Song = {
       "annotations": [
         {
           "keyword": "बावे",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Baave\" likely means they are \"mad\" or have lost their sanity."
         },
         {
           "text": "खुशियों में माँ, मैंने नाराज़ की बहुत",
@@ -388,7 +396,8 @@ export const abaad: Song = {
       "annotations": [
         {
           "keyword": "masking",
-          "type": "wordplay"
+          "type": "Slang",
+          "meaning": "Using tape as a literal or figurative mask to maintain the persona that all is good."
         }
       ]
     },
@@ -568,7 +577,8 @@ export const abaad: Song = {
       "annotations": [
         {
           "keyword": "डल्ले",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Dalle\" is a very derogatory slang term, usually translated as \"pimp\" or a morally corrupt individual. In this context it is likely used as an insult to the listener."
         }
       ]
     },
@@ -608,7 +618,8 @@ export const abaad: Song = {
       "annotations": [
         {
           "keyword": "शाश्वत",
-          "type": "vocabulary"
+          "type": "Language",
+          "meaning": "\"Shashvat\" translates to \"eternal\" or \"everlasting\". In this context, it likely refers to wanting to leave a lasting impact."
         }
       ]
     },
@@ -662,7 +673,8 @@ export const abaad: Song = {
       "annotations": [
         {
           "keyword": "पापी पेट",
-          "type": "idiom"
+          "type": "Culture",
+          "meaning": "\"Paapi pet\" literally translates to \"sinful stomach.\" It refers to the need to earn a living, even if it means doing things one might regret."
         }
       ]
     },

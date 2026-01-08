@@ -47,7 +47,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "ग्यारह हज़ार",
-          "type": "currency"
+          "type": "Slang",
+          "meaning": "\"Gyarah Hazaar Rupaye pade hain aap pe?\" - \"Do you have 11,000 rupees on you?\" It's a question implying the person being addressed is broke or doesn't have much money."
         },
         {
           "text": "ग्यारह हज़ार रुपये",
@@ -100,11 +101,13 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "peeti",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Peeti uthayi hai\" - Have had to lift/pick up (related to dealing with consequences or handling a task)."
         },
         {
           "keyword": "bar",
-          "type": "hip-hop term"
+          "type": "Hip Hop Term",
+          "meaning": "In rap context, 'bar' means a line in a verse. Here, it means they've had to struggle for even 16 bars (lines)."
         }
       ]
     },
@@ -151,7 +154,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "penmanship",
-          "type": "vocabulary"
+          "type": "Hip Hop Term",
+          "meaning": "Refers to the quality and style of handwriting; in rap, it refers to the quality of lyrics and writing skills."
         }
       ]
     },
@@ -163,7 +167,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "let it rip",
-          "type": "idiom"
+          "type": "Slang",
+          "meaning": "To 'let it rip' means to unleash or release something with full force; in this context, it means to deliver a powerful rap verse."
         }
       ]
     },
@@ -175,7 +180,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "Warzone",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "A popular online multiplayer game, often chaotic and intense."
         },
         {
           "text": "When I let it rip, तेरी bae कहे \"Damn!\"",
@@ -193,7 +199,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "Verdansk",
-          "type": "pop-culture reference"
+          "type": "Reference",
+          "meaning": "A map from the Call of Duty: Warzone game."
         }
       ]
     },
@@ -205,7 +212,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "Django",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Reference to the movie *Django Unchained*, meaning they're taking down the competition ruthlessly, and combo/ downright implies that this is something you do well."
         },
         {
           "text": "game बना Warzone",
@@ -223,7 +231,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "जोटे",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Jootay cheene bouncer tera\" - \"Your bouncer's shoes were snatched.\". Indicating they took someone's status/power away."
         },
         {
           "text": "आजा मेरे शहर Verdansk",
@@ -275,7 +284,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "Benz",
-          "type": "brand"
+          "type": "Culture",
+          "meaning": "Short for Mercedes-Benz, a luxury car brand. It represents wealth and status."
         }
       ]
     },
@@ -287,7 +297,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "जलाते गैंड",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Jalate gand\" - \"Burning asses\". It implies the brothers/crew are creating envy and anger in others through their success."
         },
         {
           "text": "मिलूँगा या नहीं depends",
@@ -333,7 +344,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "घुसंड",
-          "type": "regional slang"
+          "type": "Slang",
+          "meaning": "\"Ghusand\" - A hard punch or blow. Suggests the artist is delivering impactful and hard-hitting lyrics."
         },
         {
           "text": "है बोहोद महंगा ये pen",
@@ -407,7 +419,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "ETH",
-          "type": "crypto"
+          "type": "Reference",
+          "meaning": "Likely refers to Ethereum, a cryptocurrency. Represents modern wealth and investments."
         }
       ]
     },
@@ -419,7 +432,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "Louis",
-          "type": "brand"
+          "type": "Culture",
+          "meaning": "Short for Louis Vuitton, a luxury brand, specifically referring to a T-shirt. Represents high fashion and wealth."
         }
       ]
     },
@@ -438,11 +452,13 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "हलवों",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Halwo ki shaklein kyu apne aap suji\" - \"Why are you swelling up like you ate too many sweets?\". Its an insult, comparing someone to someone who ate all the sweets in the party and got fat."
         },
         {
           "keyword": "सूजी",
-          "type": "pun"
+          "type": "Slang",
+          "meaning": "Suji refers to semolina flour used for making sweets. The context implies the person has become round/fat."
         }
       ]
     },
@@ -524,7 +540,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "रहपटे",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Rah pate pe\" - \"I'm on the right path.\" They are reaffirming their focus and commitment."
         }
       ]
     },
@@ -557,7 +574,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "बंदी",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Laundo ke khamkhan bandi ke jhagdon se\" - \"Away from unnecessary fights between guys because of girls.\" Describes distancing themselves from trivial issues."
         }
       ]
     },
@@ -597,7 +615,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "लौड़े पे बजो",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Launde pe baje\" - \"Let's ride on the guy/hit him\". A threat of violence or confrontation."
         }
       ]
     },
@@ -616,7 +635,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "फुद्दु",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"In fuddu se londo ko bharu bhi na\" - \"I wouldn't even fill these idiots\". Suggests the speaker is confident in their own abilities, superiority."
         }
       ]
     },
@@ -656,7 +676,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "माल",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Raha gaya thoda maal jeb mein\" - \"A little bit of money remained in my pocket.\" Represents the struggle and the little they have."
         }
       ]
     },
@@ -703,7 +724,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "कंटाल",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Kantaal hai dude\" - Its like having a thorn in your side, or being annoyed by something in your ear. It means annoyance at other rappers."
         }
       ]
     },
@@ -722,7 +744,8 @@ export const _11k: Song = {
       "annotations": [
         {
           "keyword": "भुस्सी",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Londe dono bhare bhussi\" - \"Both the guys are full of nonsense\". It means they are both spewing garbage or lies."
         }
       ]
     },

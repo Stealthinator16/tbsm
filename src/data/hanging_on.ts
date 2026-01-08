@@ -43,7 +43,8 @@ export const hanging_on: Song = {
       "annotations": [
         {
           "keyword": "mask",
-          "type": "Metaphor"
+          "type": "Figurative",
+          "meaning": "Figurative mask, representing a facade or persona one puts on to hide their true feelings or vulnerabilities."
         }
       ]
     },
@@ -251,7 +252,8 @@ export const hanging_on: Song = {
       "annotations": [
         {
           "keyword": "Seedi",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "Hindi for 'ladder'. Represents the steps or path towards achieving one's hopes and dreams."
         },
         {
           "text": "Apno ki aankhon mein girega kaun",
@@ -276,7 +278,8 @@ export const hanging_on: Song = {
       "annotations": [
         {
           "keyword": "Tarasha",
-          "type": "Urdu/Hindi"
+          "type": "Hindi",
+          "meaning": "Hindi for 'sculpted' or 'carved'. Implies that something has been carefully crafted or shaped over time, likely referring to their art or themselves."
         }
       ]
     },
@@ -351,7 +354,8 @@ export const hanging_on: Song = {
       "annotations": [
         {
           "keyword": "Tatt",
-          "type": "Hindi"
+          "type": "Slang/Hindi",
+          "meaning": "A colloquial shortening of 'tattva', meaning 'element' or 'essence'. Here, it suggests he creates elements/essences from words, implying powerful and meaningful lyrics."
         }
       ]
     },
@@ -370,7 +374,8 @@ export const hanging_on: Song = {
       "annotations": [
         {
           "keyword": "Kaafila",
-          "type": "Urdu"
+          "type": "Hindi/Urdu",
+          "meaning": "Hindi/Urdu for 'caravan' or 'group of travelers'. In this context, it represents a group of people supporting or accompanying him on his journey."
         }
       ]
     },
@@ -410,7 +415,8 @@ export const hanging_on: Song = {
       "annotations": [
         {
           "keyword": "Gaaliyon",
-          "type": "Double Entendre"
+          "type": "Hindi",
+          "meaning": "Hindi for 'abuses' or 'curse words'. He is metaphorically measuring life's path with curses, suggesting hardship, frustration, and anger along the way."
         }
       ]
     },
@@ -422,7 +428,8 @@ export const hanging_on: Song = {
       "annotations": [
         {
           "keyword": "Laapata",
-          "type": "Hindi"
+          "type": "Hindi",
+          "meaning": "Hindi for 'missing' or 'lost'. Expresses a feeling of being lost or disconnected from oneself or their surroundings."
         }
       ]
     },
@@ -448,7 +455,8 @@ export const hanging_on: Song = {
       "annotations": [
         {
           "keyword": "Bhateri",
-          "type": "Haryanvi/Hindi Slang"
+          "type": "Hindi",
+          "meaning": "Hindi for 'plenty' or 'a lot'. Implies the speaker is searching for a large amount of happiness."
         },
         {
           "text": "Par ABJ",
@@ -501,7 +509,8 @@ export const hanging_on: Song = {
       "annotations": [
         {
           "keyword": "BC",
-          "type": "Slang"
+          "type": "Slang/Curse",
+          "meaning": "Short for 'Behenchod', a common Hindi/Punjabi swear word often used as a general expletive similar to 'fuck'."
         }
       ]
     },
@@ -513,7 +522,8 @@ export const hanging_on: Song = {
       "annotations": [
         {
           "keyword": "Chakhne",
-          "type": "Hindi"
+          "type": "Hindi/Cultural",
+          "meaning": "Hindi for 'to taste' or 'to sample'. It is often used in context of snacks served with drinks. Here, it is used metaphorically to imply tasting sweet things, but the implication is that there is underlying bitterness or that the sweetness is fleeting."
         }
       ]
     },

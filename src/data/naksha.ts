@@ -174,7 +174,7 @@ export const naksha: Song = {
           "text": "Kalyan Puri भाई बैठा एक और Khichripur में है scam करे दूसरा (Scam)",
           "keyword": "Kalyan Puri, Khichripur",
           "type": "Reference",
-          "meaning": "References to specific locales in East Delhi, highlighting the environment they grew up in. "
+          "meaning": "References to specific locales in East Delhi, highlighting the environment they grew up in."
         }
       ]
     },
@@ -305,7 +305,7 @@ export const naksha: Song = {
           "text": "East side मेरे दोस्तों की धरती है, लौंडे असली पर कपड़े नकली",
           "keyword": "लौंडे",
           "type": "Slang",
-          "meaning": "Referencing the 'launde' (boys) again. 'Asli par kapde nakli' (fake clothes but real identity). "
+          "meaning": "Referencing the 'launde' (boys) again. 'Asli par kapde nakli' (fake clothes but real identity)."
         }
       ]
     },

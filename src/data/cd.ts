@@ -15,11 +15,13 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "रपट",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Rapat (रपट) in this context likely means 'slick' or 'smooth', implying a smooth operation or flow."
         },
         {
           "keyword": "लौंडे",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Launde (लौंडे) means 'boys' or 'guys'."
         }
       ]
     },
@@ -31,7 +33,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "cactus",
-          "type": "metaphor"
+          "type": "Metaphor",
+          "meaning": "Referring to a dry and harsh environment, like a desert where a cactus thrives, implying resilience in tough conditions."
         }
       ]
     },
@@ -43,7 +46,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "Jackie Chan",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Reference to the famous martial artist and actor, Jackie Chan, implying agility and action."
         }
       ]
     },
@@ -69,7 +73,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "sector",
-          "type": "context"
+          "type": "Figurative",
+          "meaning": "Sector refers to different areas or fields, but finding a common ground or 'factor' with others despite differences."
         }
       ]
     },
@@ -81,7 +86,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "jazba",
-          "type": "vocabulary"
+          "type": "Culture",
+          "meaning": "Jazba (जज़्बा) means 'passion' or 'enthusiasm'."
         }
       ]
     },
@@ -93,7 +99,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "Opps",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Opps\" is slang for opponents or enemies."
         }
       ]
     },
@@ -119,7 +126,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "कन्यादान",
-          "type": "cultural reference"
+          "type": "Culture",
+          "meaning": "Kanyadaan (कन्यादान) refers to the Hindu ritual of giving away a daughter in marriage. Here, it's used sarcastically, perhaps implying they are giving away something undesirable (the 'bitches')."
         }
       ]
     },
@@ -131,7 +139,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "Manikarnika",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Manikarnika is a famous ghat in Varanasi where cremations take place. Here, it's used in the context of counting money, perhaps implying they have so much that it's like dealing with the dead (a dark metaphor)."
         },
         {
           "text": "लौंडे लगे bitch, इन कन्याओं का करूँ कन्यादान",
@@ -149,7 +158,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "money plant",
-          "type": "metaphor"
+          "type": "Metaphor",
+          "meaning": "Money plant is a common houseplant believed to bring wealth. Here, the artist is saying they are growing money like a money plant, implying financial success."
         },
         {
           "text": "फ़ज़ूलों side हो, money count लगे Manikarnika",
@@ -167,7 +177,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "Gyat",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Gyat\" is internet slang, especially on platforms like TikTok, used as an exclamation to express strong attraction or admiration, typically towards a woman's physique."
         }
       ]
     },
@@ -179,7 +190,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "Kareena",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Reference to Bollywood actress Kareena Kapoor, implying a desirable or high-class area."
         },
         {
           "text": "Gyat gyat",
@@ -211,7 +223,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "91",
-          "type": "code"
+          "type": "Culture",
+          "meaning": "91 is the country code for India. It is used to represent their origin."
         }
       ]
     },
@@ -223,7 +236,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "Thane",
-          "type": "wordplay"
+          "type": "Place",
+          "meaning": "Thane is a city near Mumbai. Likely implying a location where deals or meetings take place."
         }
       ]
     },
@@ -242,11 +256,13 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "Tansen",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Tansen was a legendary musician in the court of Akbar. Implies the artist's voice is so powerful it changes the atmosphere."
         },
         {
           "keyword": "बावै",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Baawre (बावरे) means 'crazy' or 'mad'."
         }
       ]
     },
@@ -293,7 +309,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "moshpits",
-          "type": "concert culture"
+          "type": "Culture",
+          "meaning": "Moshpits are energetic and chaotic areas at concerts. Implies the artist's music is too intense for 'soft kids'."
         }
       ]
     },
@@ -340,7 +357,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "चूड़ा",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Chuda (चूड़ा) usually refers to bangles worn by married women but here, it is used in the context to describe the things which one keeps hidden from the others."
         }
       ]
     },
@@ -352,7 +370,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "Aadhaar",
-          "type": "wordplay"
+          "type": "Culture",
+          "meaning": "Aadhaar is a 12-digit individual identification number issued by the Unique Identification Authority of India. Here, it's used metaphorically to imply they don't have a solid foundation or identity and make things disappear."
         },
         {
           "text": "हूँ in the cockpit, वो करना चाहती lock lip",
@@ -398,7 +417,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "Rekha",
-          "type": "wordplay"
+          "type": "Reference",
+          "meaning": "Rekha is likely a reference to the Bollywood actress, but used in the context of poverty. Implying that a poor person can change their destiny in Delhi."
         }
       ]
     },
@@ -508,7 +528,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "PayTM",
-          "type": "reference"
+          "type": "Culture",
+          "meaning": "PayTM is a popular Indian digital payments platform. 'Hate PayTM' suggests they prefer cash transactions or dislike the digital payment system."
         }
       ]
     },
@@ -520,7 +541,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "Double cup",
-          "type": "drug culture"
+          "type": "Slang",
+          "meaning": "Double cup is a slang term (often associated with lean) referring to using two cups for a drink, typically codeine cough syrup mixed with soda. Implies drug use."
         }
       ]
     },
@@ -609,7 +631,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "काली",
-          "type": "mythology"
+          "type": "Slang",
+          "meaning": "Kaali (काली) means 'black'. Implies something negative or undesirable."
         }
       ]
     },
@@ -628,7 +651,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "Khalifa",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Khalifa likely refers to Mia Khalifa, a former adult film star. Implies a high level of confidence or performance."
         }
       ]
     },
@@ -647,7 +671,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "Meerut",
-          "type": "location"
+          "type": "Place",
+          "meaning": "Meerut is a city in Uttar Pradesh, India, known for its sports goods industry. Implying the artist is importing something real from Meerut (perhaps guns)."
         },
         {
           "text": "वफ़ाही दे रही passion, बस steps कर रहा follow",
@@ -686,7 +711,8 @@ export const cd: Song = {
       "annotations": [
         {
           "keyword": "डल्ले",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Delicate in this context likely implies that they are only asking for things with ease."
         }
       ]
     },

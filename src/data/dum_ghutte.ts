@@ -16,7 +16,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Sez on the beat",
-          "type": "Producer Tag"
+          "type": "Reference",
+          "meaning": "Sez on the Beat is a well-known music producer in the Indian Hip Hop scene. The phrase is a producer tag, announcing his involvement in the song's production."
         }
       ]
     },
@@ -28,7 +29,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Dum ghute",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "\"Suffocation\" or \"feeling suffocated\". It's the central theme of the song, representing the feeling of being trapped and overwhelmed."
         }
       ]
     },
@@ -172,7 +174,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Thos",
-          "type": "Adjective"
+          "type": "Hindi",
+          "meaning": "\"Solid\" or \"hard\" (English). It describes the heart being unyielding and resilient to pain."
         }
       ]
     },
@@ -184,7 +187,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Bhaide",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Brothers\" or close friends. Implies a very tight-knit and exclusive group."
         }
       ]
     },
@@ -203,7 +207,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "10th k boards",
-          "type": "Cultural Reference"
+          "type": "Culture",
+          "meaning": "Refers to the 10th grade board exams in India, which are a significant academic milestone. The comparison highlights the feeling that there's always more to do and learn, mirroring the immense syllabus."
         }
       ]
     },
@@ -215,11 +220,13 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Sez ki tond",
-          "type": "Inside Joke"
+          "type": "Reference",
+          "meaning": "\"Sez's belly.\" It's a self-deprecating reference, suggesting something is expanding or growing (like the pain being discussed)."
         },
         {
           "keyword": "Drishtikone",
-          "type": "Hindi Vocabulary"
+          "type": "Hindi",
+          "meaning": "\"Perspective\" or \"point of view.\" It relates to the evolving mindset and viewpoint as pain increases."
         }
       ]
     },
@@ -231,7 +238,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Vilom",
-          "type": "Wordplay"
+          "type": "Hindi",
+          "meaning": "\"Antonym\" or \"opposite.\" If he claims to be right, the opposite of right is where he truly is. This indicates the self doubt even when he portrays confidence."
         },
         {
           "text": "Bakaeti khush na rakh paaye",
@@ -249,7 +257,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Thassa",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "To forcefully stuff or cram something in. In this context, it describes suppressing or silencing others."
         }
       ]
     },
@@ -268,7 +277,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Sage",
-          "type": "Hindi Term"
+          "type": "Hindi",
+          "meaning": "Close relatives. Can mean brothers, siblings, or blood relations."
         }
       ]
     },
@@ -280,7 +290,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Bakaeti",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "Exaggerated talk or boasting; empty talk; bluff"
         }
       ]
     },
@@ -376,7 +387,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Namuna",
-          "type": "Hindi Term"
+          "type": "Hindi",
+          "meaning": "\"Sample\" or \"example.\" Likely referring to a project they consider less than ideal or not fully realized."
         }
       ]
     },
@@ -395,7 +407,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Tat",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "Bank or Shore"
         }
       ]
     },
@@ -526,7 +539,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Kuue",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "\"Well.\" The phrase depicts betrayal after an act of kindness. Helping someone only to harm them later."
         }
       ]
     },
@@ -545,7 +559,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Abhijay",
-          "type": "Personal Reference"
+          "type": "Reference",
+          "meaning": "Abhijay is Encore ABJ of Seedhe Maut. There's no space or room for him."
         }
       ]
     },
@@ -571,7 +586,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Kutti cheez",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Dog-like thing\" or \"awful thing.\" Describing the music business as harsh and unforgiving."
         },
         {
           "text": "Charas sharab",
@@ -589,7 +605,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Patta",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "\"Address\" or \"clue.\" This line is asking for some help or guidance in navigating the difficulties of the music industry."
         }
       ]
     },
@@ -615,7 +632,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Chaar minar",
-          "type": "Wordplay"
+          "type": "Place",
+          "meaning": "A famous historical monument located in Hyderabad, India. It may be used here to suggest being tall, prominent, and possibly isolated/lonely."
         }
       ]
     },
@@ -669,7 +687,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Charas",
-          "type": "Slang"
+          "type": "Culture",
+          "meaning": "A type of cannabis, specifically the resin extracted from the cannabis plant. It represents escapism or coping mechanisms."
         }
       ]
     },
@@ -716,7 +735,8 @@ export const dum_ghutte: Song = {
       "annotations": [
         {
           "keyword": "Nirantar",
-          "type": "Hindi Vocabulary"
+          "type": "Hindi",
+          "meaning": "Continuous or constant effort. Highlighting that consistent hard work leads to benefits."
         }
       ]
     },

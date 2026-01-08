@@ -16,7 +16,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Sez on the beat",
-          "type": "Producer Tag"
+          "type": "Reference",
+          "meaning": "Sez is a popular Indian music producer known for his work in the hip-hop scene. This is a producer tag indicating he produced the beat."
         }
       ]
     },
@@ -28,7 +29,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Chidiya Udd",
-          "type": "Game/Metaphor"
+          "type": "Idiom",
+          "meaning": "Literally translates to 'Bird Fly'. Metaphorically represents a situation where something valuable has been lost or taken away, often unnoticed or while people are distracted."
         }
       ]
     },
@@ -40,7 +42,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Jung",
-          "type": "Noun (War)"
+          "type": "Hindi",
+          "meaning": "Hindi for 'war'. Here, it refers to a desire for conflict or chaos."
         },
         {
           "text": "Ye chahte ho jaaye jung yaha ye chahte gudd",
@@ -58,11 +61,13 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Gobar",
-          "type": "Slang/Political Reference"
+          "type": "Hindi",
+          "meaning": "Hindi for 'cow dung'. Used figuratively to represent something worthless, dirty, or chaotic."
         },
         {
           "keyword": "Gull",
-          "type": "Slang (Finished)"
+          "type": "Hindi",
+          "meaning": "Hindi for 'gone' or 'finished'. In this context, it means to destroy or make the world disappear."
         },
         {
           "text": "Gobar danga dhaye narak hi kardo duniya gull",
@@ -80,7 +85,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Pishaach",
-          "type": "Noun (Demon/Ghoul)"
+          "type": "Hindi",
+          "meaning": "Hindi for 'demon' or 'evil spirit'. Refers to someone who indulges in sinful activities."
         }
       ]
     },
@@ -92,7 +98,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Dupki",
-          "type": "Noun (Dip/Plunge)"
+          "type": "Hindi/Culture",
+          "meaning": "Hindi for 'dip' or 'submerge'. Referring to taking a dip in the Ganga river to wash away sins, but ineffectively."
         },
         {
           "text": "Li ek do dupki ganga me dhoe paap and",
@@ -124,7 +131,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Chug gayi khet",
-          "type": "Idiom"
+          "type": "Idiom",
+          "meaning": "Hindi idiom meaning 'the bird has eaten the field'. Represents a situation where something valuable has been lost due to negligence or inaction."
         }
       ]
     },
@@ -136,7 +144,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Pashchyataap",
-          "type": "Noun (Repentance)"
+          "type": "Hindi",
+          "meaning": "Hindi for 'repentance' or 'remorse'. The verse implies that the 'sinners' or 'evil doers' aren't even repenting for their sins, and going about being satanic."
         }
       ]
     },
@@ -155,7 +164,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Jeb",
-          "type": "Slang (Bribe money)"
+          "type": "Hindi",
+          "meaning": "Hindi for 'pocket'."
         },
         {
           "text": "Thulle, dc yaar hai mera dalega ni jail me (na)",
@@ -179,11 +189,13 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Thulle",
-          "type": "Slang (Police)"
+          "type": "Slang",
+          "meaning": "Slang for 'police' in the Delhi region of India. Often used in a derogatory way."
         },
         {
           "keyword": "DC",
-          "type": "Designation (District Collector)"
+          "type": "Reference",
+          "meaning": "Likely refers to the Deputy Commissioner of Police, a high-ranking police official. Implying influence to avoid jail."
         }
       ]
     },
@@ -237,7 +249,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Haath ka mail",
-          "type": "Idiom"
+          "type": "Idiom",
+          "meaning": "Hindi idiom meaning 'dirt on the hand'. Suggests that money is easily acquired and not very valuable."
         }
       ]
     },
@@ -249,7 +262,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Seth",
-          "type": "Noun (Boss/Rich man)"
+          "type": "Hindi",
+          "meaning": "Hindi for 'boss', 'owner' or 'wealthy merchant'. The speaker claims to be in charge."
         },
         {
           "text": "Evm se masti daaru deke karu bate me (haha)",
@@ -267,7 +281,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "EVM",
-          "type": "Abbreviation (Voting Machine)"
+          "type": "Reference",
+          "meaning": "Electronic Voting Machine. Here it suggests manipulating the system (elections) through bribery (alcohol)."
         }
       ]
     },
@@ -286,7 +301,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Niwaala",
-          "type": "Noun (Morsel/Bite)"
+          "type": "Hindi",
+          "meaning": "Hindi for 'morsel' or 'bite of food'. Used metaphorically to mean someone's opportunity or livelihood that has been taken away."
         }
       ]
     },
@@ -312,7 +328,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "bc",
-          "type": "Expletive"
+          "type": "Slang",
+          "meaning": "Abbreviation for 'behenchod', a common Hindi swear word. It is used as an ad-lib."
         }
       ]
     },
@@ -352,7 +369,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Nakshekadam",
-          "type": "Noun (Footsteps)"
+          "type": "Hindi/Urdu",
+          "meaning": "Hindi/Urdu for 'footsteps'. Implying following in the footsteps of someone, in this case, Adolf Hitler."
         }
       ]
     },
@@ -364,7 +382,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Radneeti",
-          "type": "Noun (Strategy/Politics)"
+          "type": "Hindi",
+          "meaning": "Hindi for 'strategy'. Implies their strategy is successful."
         }
       ]
     },
@@ -460,11 +479,13 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Bail gaadi",
-          "type": "Noun (Bullock cart)"
+          "type": "Hindi",
+          "meaning": "Hindi for 'bullock cart'. Used to represent being slow and outdated, especially financially."
         },
         {
           "keyword": "Kaudi",
-          "type": "Slang (Penny/No money)"
+          "type": "Hindi",
+          "meaning": "Hindi for 'cowrie shell'. Historically used as currency, now represents having no money at all."
         },
         {
           "text": "Thulle ni hai yar vo seedhe denge daal jail me",
@@ -517,7 +538,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Fareb",
-          "type": "Noun (Deception)"
+          "type": "Hindi/Urdu",
+          "meaning": "Hindi/Urdu for 'deceit' or 'fraud'."
         }
       ]
     },
@@ -529,7 +551,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Chunawo",
-          "type": "Noun (Elections)"
+          "type": "Hindi",
+          "meaning": "Hindi for 'elections'."
         }
       ]
     },
@@ -555,7 +578,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Finyl",
-          "type": "Noun (Chemical/Suicide reference)"
+          "type": "Reference",
+          "meaning": "Likely a misspelling of 'Vinyl'. Referring to a vinyl record on the table, representing musical artistry and possibly a vintage or classic aesthetic."
         }
       ]
     },
@@ -574,7 +598,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Masumiyat",
-          "type": "Noun (Innocence)"
+          "type": "Hindi",
+          "meaning": "Hindi for 'innocence'. Innocence is gone for a 'saer' or walk."
         }
       ]
     },
@@ -595,7 +620,7 @@ export const chidiya_udd: Song = {
           "text": "Nakshekadam kisano ke",
           "keyword": "Kisano",
           "type": "Reference",
-          "meaning": "Following the footsteps of the farmers, contrasting this image with the previous reference to Adolf, and referencing farmer suicides. "
+          "meaning": "Following the footsteps of the farmers, contrasting this image with the previous reference to Adolf, and referencing farmer suicides."
         }
       ]
     },
@@ -607,7 +632,8 @@ export const chidiya_udd: Song = {
       "annotations": [
         {
           "keyword": "Faansi",
-          "type": "Noun (Hanging/Suicide)"
+          "type": "Hindi",
+          "meaning": "Hindi for 'hanging'. Used to imply desperation, suicidal thoughts, or a metaphorical end."
         }
       ]
     },

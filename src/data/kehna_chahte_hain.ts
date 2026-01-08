@@ -15,7 +15,8 @@ export const kehna_chahte_hain: Song = {
       "annotations": [
         {
           "keyword": "कह नहीं पा रहा",
-          "type": "phrase"
+          "type": "Hindi Phrase",
+          "meaning": "Saying what they are unable to express directly or are hesitant to say."
         }
       ]
     },
@@ -69,7 +70,8 @@ export const kehna_chahte_hain: Song = {
       "annotations": [
         {
           "keyword": "कवि (Kavi)",
-          "type": "noun"
+          "type": "Hindi Word",
+          "meaning": "Poet; someone who expresses themselves through poetry."
         }
       ]
     },
@@ -81,7 +83,8 @@ export const kehna_chahte_hain: Song = {
       "annotations": [
         {
           "keyword": "period",
-          "type": "slang/context"
+          "type": "Slang",
+          "meaning": "In this context, 'period' likely refers to a specific timeframe or phase the person is going through in life, possibly a challenging or reflective one."
         },
         {
           "text": "भाई, क्या हुआ उस period में?",
@@ -134,7 +137,8 @@ export const kehna_chahte_hain: Song = {
       "annotations": [
         {
           "keyword": "अबे यार",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "A casual Hindi expression, similar to \"Oh man!\" or \"Dude!\", used to express surprise or emphasis."
         }
       ]
     },
@@ -160,7 +164,8 @@ export const kehna_chahte_hain: Song = {
       "annotations": [
         {
           "keyword": "गा के (Gaa ke)",
-          "type": "verb"
+          "type": "Hindi Phrase",
+          "meaning": "To listen by singing. Meaning if you can't say it, sing it."
         }
       ]
     },
@@ -186,7 +191,8 @@ export const kehna_chahte_hain: Song = {
       "annotations": [
         {
           "keyword": "fam",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Short for \"family\"; used to address a close group of friends, fans, or associates."
         }
       ]
     },
@@ -254,7 +260,8 @@ export const kehna_chahte_hain: Song = {
       "annotations": [
         {
           "keyword": "Seedhe Maut",
-          "type": "artist name"
+          "type": "Reference",
+          "meaning": "The name of the hip-hop duo performing the song. It's their moniker and brand."
         }
       ]
     },

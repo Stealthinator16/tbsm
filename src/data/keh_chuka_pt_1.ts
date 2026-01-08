@@ -14,11 +14,13 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Jaban",
-          "type": "Slang/Metaphor"
+          "type": "Hindi",
+          "meaning": "Tongue; in this context, referring to the use of abusive language."
         },
         {
           "keyword": "Jehrile khayalat",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "Poisonous thoughts; negative and harmful ideas."
         }
       ]
     },
@@ -30,11 +32,13 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Atit",
-          "type": "Vocabulary"
+          "type": "Hindi",
+          "meaning": "Past; memories of the past."
         },
         {
           "keyword": "Bediya",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "Chains; metaphorical chains of past memories holding him back."
         }
       ]
     },
@@ -46,7 +50,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Thak chuka",
-          "type": "Phrase"
+          "type": "Hindi",
+          "meaning": "Tired; exhausted from staying awake at night."
         }
       ]
     },
@@ -58,7 +63,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Taag ke",
-          "type": "Dialect/Slang"
+          "type": "Hindi",
+          "meaning": "Staring; watching intently, possibly implying a sense of loneliness or contemplation."
         }
       ]
     },
@@ -70,11 +76,13 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Jasbato",
-          "type": "Vocabulary"
+          "type": "Hindi",
+          "meaning": "Emotions; broken emotions."
         },
         {
           "keyword": "Hawalat",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "Jail; prison; metaphorical prison of broken emotions."
         }
       ]
     },
@@ -86,7 +94,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Bhaag rha",
-          "type": "Phrase"
+          "type": "Hindi",
+          "meaning": "Running away; escaping from people."
         }
       ]
     },
@@ -98,7 +107,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Apne aapse",
-          "type": "Reflexive"
+          "type": "Hindi",
+          "meaning": "From himself; escaping from his own self, his problems, or his thoughts."
         }
       ]
     },
@@ -110,7 +120,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Sunn",
-          "type": "Condition"
+          "type": "Hindi",
+          "meaning": "Numb; a feeling of emotional numbness or emptiness in his chest."
         }
       ]
     },
@@ -122,11 +133,13 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Sharab me dhut",
-          "type": "Idiom"
+          "type": "Hindi",
+          "meaning": "Drunk on alcohol; intoxicated with alcohol."
         },
         {
           "keyword": "Sudh-Budh",
-          "type": "Compound Word"
+          "type": "Hindi",
+          "meaning": "Sense; Consciousness; implying a loss of awareness and control due to intoxication."
         }
       ]
     },
@@ -138,7 +151,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Kadwi sacchai",
-          "type": "Phrase"
+          "type": "Hindi",
+          "meaning": "Bitter truth; harsh reality of life."
         }
       ]
     },
@@ -157,7 +171,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Astin ka saanp",
-          "type": "Idiom"
+          "type": "Idiom",
+          "meaning": "Snake in the sleeve; A hidden enemy disguised as a friend."
         }
       ]
     },
@@ -169,7 +184,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Ghut ghut ke",
-          "type": "Idiom"
+          "type": "Hindi",
+          "meaning": "Suffocatingly; living a life of quiet desperation and suppressed emotions."
         }
       ]
     },
@@ -181,11 +197,13 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Churi",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "Knife; betrayal. Giving someone a knife means betraying them."
         },
         {
           "keyword": "Chain ki saans",
-          "type": "Idiom"
+          "type": "Hindi",
+          "meaning": "Sigh of relief; finding peace after causing pain to someone."
         },
         {
           "text": "Wo sala pyar usme churi deke chain ki saans le",
@@ -203,7 +221,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Jamana",
-          "type": "Vocabulary"
+          "type": "Hindi",
+          "meaning": "World; the society."
         }
       ]
     },
@@ -215,11 +234,13 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Lajmi",
-          "type": "Vocabulary"
+          "type": "Hindi",
+          "meaning": "Natural; obvious."
         },
         {
           "keyword": "Ghabrana",
-          "type": "Condition"
+          "type": "Hindi",
+          "meaning": "To panic; to feel anxious"
         }
       ]
     },
@@ -238,7 +259,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Dikhawa",
-          "type": "Vocabulary"
+          "type": "Hindi",
+          "meaning": "Showoff; facade; something that seems unreal or fake."
         }
       ]
     },
@@ -250,7 +272,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Tarana",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "Melody; a song"
         }
       ]
     },
@@ -269,7 +292,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Nark",
-          "type": "Vocabulary"
+          "type": "Hindi",
+          "meaning": "Hell; fearing punishment in the afterlife."
         }
       ]
     },
@@ -281,7 +305,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Saitan",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "Satan; Devil"
         }
       ]
     },
@@ -293,7 +318,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Keh chuka",
-          "type": "Title Reference"
+          "type": "Hindi",
+          "meaning": "Said; spoken; meaning he has said all that he could."
         },
         {
           "text": "Saitan ka chehra use jana pehchana na laage",
@@ -311,7 +337,8 @@ export const keh_chuka_pt_1: Song = {
       "annotations": [
         {
           "keyword": "Seh chuka",
-          "type": "Vocabulary"
+          "type": "Hindi",
+          "meaning": "Endured; suffered; meaning he has endured as much as he could."
         }
       ]
     },

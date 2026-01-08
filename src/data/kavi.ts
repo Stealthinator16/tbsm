@@ -44,7 +44,8 @@ export const kavi: Song = {
       "annotations": [
         {
           "word": "कवि (Kavi)",
-          "type": "Noun/Identity"
+          "type": "Word",
+          "meaning": "\"Samajha kya tu, kavi keh raha hai kya?\" translates to \"Do you understand what I'm saying, what is the poet saying?\". Here Kavi means Poet."
         },
         {
           "text": "समझा क्या तू, कवि केह रहा है क्या? (Shit!)",
@@ -62,7 +63,8 @@ export const kavi: Song = {
       "annotations": [
         {
           "word": "ज़बान (Zuban)",
-          "type": "Metaphor"
+          "type": "Word",
+          "meaning": "\"Pahda na tu jo, woh hai meri zubaan\". Translation: If you can't recite (the multiplication table), then that is my language. Zubaan means language/tongue."
         },
         {
           "text": "पढ़ा ना तू जो, वो है मेरी ज़बान (मेरी ज़बान)",
@@ -87,7 +89,8 @@ export const kavi: Song = {
       "annotations": [
         {
           "word": "असमंजस (Asmanjas)",
-          "type": "Vocabulary"
+          "type": "Word",
+          "meaning": "\"Khudko ghaseeta kone tak, ab khae hai Asamanjas\" translates to \"Dragged myself to the corner, now consuming confusion\". Asamajhas means confusion or dilemma."
         }
       ]
     },
@@ -99,7 +102,8 @@ export const kavi: Song = {
       "annotations": [
         {
           "word": "कुआं या खाई",
-          "type": "Idiom"
+          "type": "Word",
+          "meaning": "\"Nahi pata ke pale mein mere kuaan ya khai\" translates to \"I don't know if in my skirt (or lap) there is a well or ditch. Kuaan means well, khai means ditch."
         },
         {
           "text": "नही पता के पाले में मेरे कुआं या खाई",
@@ -152,7 +156,8 @@ export const kavi: Song = {
       "annotations": [
         {
           "word": "ज़िक्र (Zikr)",
-          "type": "Urdu Vocabulary"
+          "type": "Word",
+          "meaning": "\"Jaga kabhi buri jagah hoga zikr nahi\" translates to \"If I wake up at a bad place there will be no mention of it.\" Zikr means mention."
         }
       ]
     },
@@ -192,7 +197,8 @@ export const kavi: Song = {
       "annotations": [
         {
           "word": "मर्तबा (Martaba)",
-          "type": "Urdu Vocabulary"
+          "type": "Word",
+          "meaning": "\"Chaha kehna maine tujhse hai ye kitti martaba\" translates to \"I wanted to tell you this, how many times?\". Martaba means times or instances."
         }
       ]
     },
@@ -267,7 +273,8 @@ export const kavi: Song = {
       "annotations": [
         {
           "word": "लोमड़ी (Lomdi)",
-          "type": "Metaphor"
+          "type": "Word",
+          "meaning": "\"Jo the woh saare laundi barabar\" translates to \"Those who were, were all equal to women\". Laundi can mean a female servant or a woman."
         }
       ]
     },
@@ -286,7 +293,8 @@ export const kavi: Song = {
       "annotations": [
         {
           "word": "भोसड़ी-के",
-          "type": "Slang/Expletive"
+          "type": "Slang",
+          "meaning": "\"Jab ye bhosdi-ke bhage jab ho god mein ek aafat\" translates to \"When these motherfuckers run away when there is a disaster in the lap\". Bhosdi-ke is a common Hindi/Urdu slur, meaning motherfucker. Aafat means disaster."
         }
       ]
     },
@@ -319,7 +327,8 @@ export const kavi: Song = {
       "annotations": [
         {
           "word": "घिसूँ गांड",
-          "type": "Slang/Idiom"
+          "type": "Slang",
+          "meaning": "Main ghissu gaand taki aage jaake saare ho thik\" translates to \"I'll grind my ass until I get ahead, so everything will be alright."
         }
       ]
     },
@@ -345,7 +354,8 @@ export const kavi: Song = {
       "annotations": [
         {
           "word": "Paan Singh",
-          "type": "Pop Culture Reference"
+          "type": "Reference",
+          "meaning": "\"Hoon hero maa ki aankhon mein, main Paan Singh chacha\" translates to \"I'm a hero in my mother's eyes, I'm Paan Singh uncle.\" Paan Singh Tomar was a real-life Indian athlete turned bandit, whose story was told in a critically acclaimed movie."
         }
       ]
     },

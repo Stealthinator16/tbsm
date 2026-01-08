@@ -16,7 +16,8 @@ export const gehraiyaan: Song = {
       "annotations": [
         {
           "keyword": "Bhai",
-          "type": "Slang/Term of Endearment"
+          "type": "Culture",
+          "meaning": "\"Brother\" - A term of endearment or informal address, often used between friends or acquaintances. (Hindi)"
         },
         {
           "text": "Hello, भाई कहा है कैसी है तेरा तो कुछ पाता ही नहीं है भाई",
@@ -34,7 +35,8 @@ export const gehraiyaan: Song = {
       "annotations": [
         {
           "keyword": "Bande",
-          "type": "Slang (Referring to crew/friends)"
+          "type": "Slang",
+          "meaning": "\"Guys\" or \"Men\" - Used to refer to people, often in a casual manner. (Hindi)"
         }
       ]
     },
@@ -109,7 +111,8 @@ export const gehraiyaan: Song = {
       "annotations": [
         {
           "keyword": "Rishabh",
-          "type": "Proper Noun (Calm's real name)"
+          "type": "Reference",
+          "meaning": "A person's name, likely someone they need to contact."
         }
       ]
     },
@@ -212,7 +215,8 @@ export const gehraiyaan: Song = {
       "annotations": [
         {
           "keyword": "Khurafat",
-          "type": "Urdu/Hindi word for Mischief"
+          "type": "Slang",
+          "meaning": "\"Mischief\" or \"Nonsense\" - Often used to describe playful or foolish acts. (Hindi)"
         }
       ]
     },
@@ -294,7 +298,8 @@ export const gehraiyaan: Song = {
       "annotations": [
         {
           "keyword": "Chutiya",
-          "type": "Slang (Idiot/Fool)"
+          "type": "Slang",
+          "meaning": "\"Idiot\" or \"Fool\" - A derogatory term used to insult someone. (Hindi)"
         }
       ]
     },
@@ -348,7 +353,8 @@ export const gehraiyaan: Song = {
       "annotations": [
         {
           "keyword": "Louis",
-          "type": "Brand (Louis Vuitton)"
+          "type": "Reference",
+          "meaning": "Likely referring to the luxury brand Louis Vuitton, used as a status symbol or a sign of extravagance."
         },
         {
           "text": "टेकने को राजी पर आखिर मे",
@@ -373,7 +379,8 @@ export const gehraiyaan: Song = {
       "annotations": [
         {
           "keyword": "Aukat",
-          "type": "Status/Capacity/Worth"
+          "type": "Slang",
+          "meaning": "\"Status\" or \"Worth\" - Refers to one's social standing or financial capabilities. (Hindi)"
         }
       ]
     },
@@ -406,7 +413,8 @@ export const gehraiyaan: Song = {
       "annotations": [
         {
           "keyword": "Kaat",
-          "type": "Slang (To ditch/betray/scam)"
+          "type": "Slang",
+          "meaning": "\"Cut\" - Could refer to severing ties or eliminating something. (Hindi)"
         }
       ]
     },
@@ -432,7 +440,8 @@ export const gehraiyaan: Song = {
       "annotations": [
         {
           "keyword": "Jhaat",
-          "type": "Vulgar Slang (Literal: pubic hair; Context: 'don't care' or 'petty')"
+          "type": "Slang",
+          "meaning": "A vulgar slang term, indicating worthlessness or insignificance. (Hindi)"
         }
       ]
     },
@@ -467,7 +476,7 @@ export const gehraiyaan: Song = {
           "text": "ध्यान से कोमल ये रुई सी बस",
           "keyword": "रुई सी बस",
           "type": "Metaphor",
-          "meaning": "Referring to life as just soul, nothing materialistic "
+          "meaning": "Referring to life as just soul, nothing materialistic"
         }
       ]
     },
@@ -598,7 +607,8 @@ export const gehraiyaan: Song = {
       "annotations": [
         {
           "keyword": "Jaan",
-          "type": "Term of endearment (Life/Love)"
+          "type": "Culture",
+          "meaning": "\"Life\" or \"Dear\" - In this context, it suggests a lack of familiarity or understanding of someone's life. (Hindi)"
         }
       ]
     },
@@ -715,7 +725,8 @@ export const gehraiyaan: Song = {
       "annotations": [
         {
           "keyword": "Gila Shikwa",
-          "type": "Urdu phrase for Grudges/Complaints"
+          "type": "Culture",
+          "meaning": "\"Complaints\" or \"Grievances\" - Expressing the absence of any hard feelings or issues with someone. (Hindi)"
         }
       ]
     },
@@ -755,7 +766,8 @@ export const gehraiyaan: Song = {
       "annotations": [
         {
           "keyword": "Ghar vs Makaan",
-          "type": "Poetic Metaphor"
+          "type": "Culture",
+          "meaning": "\"House vs Home\" - 'Ghar' signifies a place filled with love and emotion, while 'Makaan' is just a building or structure. (Hindi)"
         }
       ]
     },
@@ -781,7 +793,8 @@ export const gehraiyaan: Song = {
       "annotations": [
         {
           "keyword": "Heer",
-          "type": "Literary Reference"
+          "type": "Reference",
+          "meaning": "Referring to the legendary tragic lover from Punjabi folklore, Heer Ranjha. Symbolizes a deep, passionate love."
         }
       ]
     },

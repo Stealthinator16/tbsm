@@ -15,7 +15,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "maar gae",
-          "type": "verb"
+          "type": "Hindi",
+          "meaning": "They killed (my friend). Hindi: 'Maar gaye' means 'they killed'."
         },
         {
           "text": "Ye mere dost ko maar gae",
@@ -33,7 +34,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "be",
-          "type": "slang/filler"
+          "type": "Slang",
+          "meaning": "Bro, or Dude. Used informally when talking to someone. Hindi slang."
         }
       ]
     },
@@ -45,11 +47,13 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "cheen",
-          "type": "verb"
+          "type": "Hindi",
+          "meaning": "Snatched away. Hindi: 'Cheen' means 'to snatch'."
         },
         {
           "keyword": "aankh ke aage",
-          "type": "idiom"
+          "type": "Idiom",
+          "meaning": "Right in front of my eyes. Hindi idiom meaning something happened directly in one's view."
         }
       ]
     },
@@ -61,7 +65,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "naak ki seedh",
-          "type": "idiom"
+          "type": "Idiom",
+          "meaning": "Directly in front of me, in my line of sight. Hindi idiom."
         }
       ]
     },
@@ -73,7 +78,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "ghaseetke",
-          "type": "verb"
+          "type": "Hindi",
+          "meaning": "Dragging. To pull someone forcefully."
         }
       ]
     },
@@ -99,7 +105,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "ghaas",
-          "type": "slang (marijuana)"
+          "type": "Metaphor",
+          "meaning": "Hiding his pain and sorrow. 'Ghaas' seems to be used metaphorically to hide/cover the pain."
         }
       ]
     },
@@ -111,7 +118,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "dard",
-          "type": "noun"
+          "type": "Hindi",
+          "meaning": "Pain. Hindi: 'Dard' means 'pain'."
         }
       ]
     },
@@ -123,11 +131,13 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "nabalik",
-          "type": "adjective"
+          "type": "Hindi",
+          "meaning": "Minor or underage. Hindi: 'Nabalik' means 'minor'."
         },
         {
           "keyword": "bebasi",
-          "type": "noun"
+          "type": "Hindi",
+          "meaning": "Helplessness. Hindi: 'Bebasi' means 'helplessness'."
         }
       ]
     },
@@ -153,7 +163,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "jal gai gaand",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Got jealous/angry/frustrated. Vulgar Hindi slang."
         }
       ]
     },
@@ -165,7 +176,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "inaam",
-          "type": "noun (bounty)"
+          "type": "Hindi",
+          "meaning": "Put a bounty on my head. Hindi: 'Inaam' means 'reward/bounty'."
         },
         {
           "text": "Saalo ne rakh dala sar pe inaam",
@@ -183,7 +195,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "haivaan",
-          "type": "noun"
+          "type": "Hindi",
+          "meaning": "Monsters or beasts. Hindi: 'Haivaan' means 'monster'."
         }
       ]
     },
@@ -195,7 +208,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "praan",
-          "type": "noun (life force)"
+          "type": "Hindi",
+          "meaning": "Life force or soul. Hindi: 'Praan' means 'life'."
         }
       ]
     },
@@ -207,7 +221,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "admin",
-          "type": "noun"
+          "type": "Slang",
+          "meaning": "Referring to the administrator of a Hip Hop related page (most likely on social media). Used to express anger towards the admin."
         },
         {
           "text": "Aur us hiphop page ke admin ki chudegi maa zaroor hai",
@@ -225,11 +240,13 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "choora bhonka",
-          "type": "idiom (backstabbed)"
+          "type": "Idiom",
+          "meaning": "Stabbed in the back. 'Choora bhonka' translates to 'stabbed with a dagger'."
         },
         {
           "keyword": "vajood",
-          "type": "noun"
+          "type": "Hindi",
+          "meaning": "Existence or Identity. Hindi: 'Vajood' means 'existence'."
         },
         {
           "text": "Choora bhonka uspе jiski vaja se hai tera vajood",
@@ -247,7 +264,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "clip uchali",
-          "type": "phrase"
+          "type": "Hindi",
+          "meaning": "Released the clip intentionally. 'Clip uchali' means 'to release/throw a clip'."
         }
       ]
     },
@@ -259,11 +277,13 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "grudge",
-          "type": "noun"
+          "type": "English",
+          "meaning": "A feeling of resentment or ill-will; holding a grudge."
         },
         {
           "keyword": "ujaad di",
-          "type": "verb"
+          "type": "Hindi",
+          "meaning": "Ruined a life. Hindi: 'Ujaad di' means 'ruined/destroyed'."
         }
       ]
     },
@@ -275,11 +295,13 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "FIR",
-          "type": "acronym"
+          "type": "Legal",
+          "meaning": "First Information Report. A formal complaint lodged with the police."
         },
         {
           "keyword": "peshi",
-          "type": "noun (hearing)"
+          "type": "Legal",
+          "meaning": "Court hearing. Hindi: 'Peshi' means 'court appearance'."
         }
       ]
     },
@@ -298,7 +320,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "faasi",
-          "type": "noun (hanging)"
+          "type": "Hindi",
+          "meaning": "Hanged himself. Hindi: 'Faasi' means 'hanging'."
         }
       ]
     },
@@ -310,7 +333,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "kha gaya",
-          "type": "idiom (usurped)"
+          "type": "Metaphor",
+          "meaning": "Consumed/destroyed the home. Metaphorically referring to loss or devastation."
         }
       ]
     },
@@ -329,7 +353,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "sar pe haath",
-          "type": "idiom"
+          "type": "Idiom",
+          "meaning": "Kode has no support or guardian ('Sar pe haath nahi hai'). It implies helplessness or lack of guidance."
         },
         {
           "text": "Sar pe haath nahi hai kode ke",
@@ -368,7 +393,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "suicidal",
-          "type": "adjective"
+          "type": "Psychological",
+          "meaning": "Having suicidal thoughts/tendencies."
         },
         {
           "text": "Suicidal tha hamesha bas hiphop ne rakha tha hold pe",
@@ -386,7 +412,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "mol",
-          "type": "noun (value)"
+          "type": "Hindi",
+          "meaning": "Value or worth. Hindi: 'Mol' means 'value'."
         },
         {
           "text": "Par ab chin chuka hai vo bhi, to ab in saanso ka kya mol hai?",
@@ -404,7 +431,8 @@ export const godkode: Song = {
       "annotations": [
         {
           "keyword": "Godkode",
-          "type": "portmanteau"
+          "type": "Reference",
+          "meaning": "A reference to the rapper's persona and state of mind, possibly a state of desolation and anger which is also the title of the song."
         }
       ]
     }

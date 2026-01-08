@@ -16,11 +16,13 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "joint",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "A marijuana cigarette."
         },
         {
           "keyword": "booth",
-          "type": "location"
+          "type": "Place",
+          "meaning": "A recording studio."
         }
       ]
     },
@@ -32,11 +34,13 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "make a point",
-          "type": "idiom"
+          "type": "Idiom",
+          "meaning": "To emphasize or clearly demonstrate something."
         },
         {
           "keyword": "shoot",
-          "type": "metaphor"
+          "type": "Slang",
+          "meaning": "To perform exceptionally well, especially in rapping, or to defeat opponents."
         }
       ]
     },
@@ -48,11 +52,13 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "moves",
-          "type": "slang"
+          "type": "Hindi Slang",
+          "meaning": "Moves - refers to actions or strategies; in this context, probably bold or confident actions."
         },
         {
           "keyword": "tu-tu-tu",
-          "type": "onomatopoeia"
+          "type": "Onomatopoeia",
+          "meaning": "Sound of gunfire, possibly implying they are figuratively 'shooting' their competition down with their rap."
         }
       ]
     },
@@ -64,11 +70,13 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "fees",
-          "type": "context"
+          "type": "Slang",
+          "meaning": "Fees - likely refers to the high 'price' others will pay for underestimating them, or perhaps actual financial earnings."
         },
         {
           "keyword": "screw loose",
-          "type": "idiom"
+          "type": "Slang",
+          "meaning": "Means someone is crazy or mentally unstable."
         }
       ]
     },
@@ -87,7 +95,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "tu-tu-tu",
-          "type": "onomatopoeia"
+          "type": "Onomatopoeia",
+          "meaning": "Sound of gunfire, possibly implying they are figuratively 'shooting' their competition down with their rap."
         }
       ]
     },
@@ -141,11 +150,13 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "pange",
-          "type": "slang"
+          "type": "Hindi Slang",
+          "meaning": "Trouble; don't mess with me"
         },
         {
           "keyword": "cuckoo",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Crazy, out of touch with reality."
         }
       ]
     },
@@ -157,7 +168,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "Shifu",
-          "type": "pop-culture"
+          "type": "Reference",
+          "meaning": "Reference to the Kung Fu Panda character; implying he's a master or leader of the rap scene."
         }
       ]
     },
@@ -169,7 +181,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "gaddi",
-          "type": "slang"
+          "type": "Hindi Slang",
+          "meaning": "Stack of currency notes (2000 Rupee notes)."
         },
         {
           "text": "दूं note'on की गड्डी, और बेटा बहुत great है",
@@ -187,7 +200,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "nazar",
-          "type": "cultural"
+          "type": "Culture",
+          "meaning": "Evil eye; a curse or negative energy cast by someone's jealousy or envy."
         }
       ]
     },
@@ -199,7 +213,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "Megatron",
-          "type": "pop-culture"
+          "type": "Reference",
+          "meaning": "Reference to the Transformer; implying being powerful and destructive to other rappers."
         }
       ]
     },
@@ -211,7 +226,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "keeper",
-          "type": "pun"
+          "type": "Slang",
+          "meaning": "A goalkeeper, someone who defends and prevents others from scoring; here, implying he's good at defending against haters."
         },
         {
           "text": "पैर है ये goal पर और बंदी का keeper हूँ",
@@ -229,7 +245,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "T-Pain",
-          "type": "artist-ref"
+          "type": "Reference",
+          "meaning": "A famous American rapper and singer known for his heavy use of autotune; implies using autotune or having a distinct vocal style."
         }
       ]
     },
@@ -241,7 +258,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "sabertooth",
-          "type": "metaphor"
+          "type": "Reference",
+          "meaning": "An extinct type of prehistoric cat with long saber teeth; implying being rare, fierce, and dangerous."
         }
       ]
     },
@@ -281,7 +299,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "tai-tai phiss",
-          "type": "idiom"
+          "type": "Slang",
+          "meaning": "Slang; possibly aggressive or dominant attitude."
         },
         {
           "text": "राजा बेटा मेरे आगे, ताई-ताई फिस",
@@ -306,7 +325,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "joint",
-          "type": "pun"
+          "type": "Slang",
+          "meaning": "A marijuana cigarette. Also implies it should be discreet."
         },
         {
           "text": "Joint है तो करें ना तेरा भाई miss",
@@ -338,7 +358,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "jota",
-          "type": "slang"
+          "type": "Hindi Slang",
+          "meaning": "A small amount, implies minimal effort."
         }
       ]
     },
@@ -434,11 +455,13 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "dogla",
-          "type": "slang"
+          "type": "Hindi Slang",
+          "meaning": "Two-faced, fake."
         },
         {
           "keyword": "mootu",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Won't pee on you"
         }
       ]
     },
@@ -450,7 +473,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "chhuachhoot",
-          "type": "social-ref"
+          "type": "Culture",
+          "meaning": "Untouchability (discrimination based on caste)."
         },
         {
           "text": "दोगला बालक है तू, तू, तू तेरे ना मूतूँ",
@@ -475,7 +499,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "Kabaddi",
-          "type": "sport-ref"
+          "type": "Culture",
+          "meaning": "A contact sport popular in India."
         },
         {
           "text": "आया मैं हूँ तू-तू-तू",
@@ -563,7 +588,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "Off-white",
-          "type": "brand"
+          "type": "Reference",
+          "meaning": "A brand of clothing; implying being fashionable or luxurious."
         }
       ]
     },
@@ -582,7 +608,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "vrat",
-          "type": "cultural"
+          "type": "Culture",
+          "meaning": "Fasting"
         },
         {
           "text": "तेरा verse सुना, not nice",
@@ -600,7 +627,8 @@ export const joint_in_the_booth: Song = {
       "annotations": [
         {
           "keyword": "ball out",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "To live lavishly."
         },
         {
           "text": "मेरे verse पे वो व्रत तोड़ें, how exciting",

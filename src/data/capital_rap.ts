@@ -15,7 +15,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "DL91",
-          "type": "Location/Identity"
+          "type": "Reference",
+          "meaning": "Likely a reference to Delhi (DL) and potentially a radio frequency. Could be a fictional radio station name."
         }
       ]
     },
@@ -27,11 +28,13 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "Whack",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang meaning bad, terrible, or unoriginal. In Hindi: *bekaar*."
         },
         {
           "keyword": "Cap",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang meaning to lie or exaggerate."
         }
       ]
     },
@@ -43,11 +46,13 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "Gat",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang for a gun."
         },
         {
           "keyword": "Ghaint",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Punjabi slang meaning awesome, cool, or excellent."
         }
       ]
     },
@@ -59,7 +64,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "Dhande",
-          "type": "Slang"
+          "type": "Culture",
+          "meaning": "Hindi for 'business' or 'work'."
         }
       ]
     },
@@ -85,7 +91,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "Nashe",
-          "type": "Slang"
+          "type": "Culture",
+          "meaning": "Hindi for 'intoxication' or 'drugs'."
         }
       ]
     },
@@ -104,7 +111,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "Rolie",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Short for Rolex, a luxury watch brand, often used as a symbol of wealth."
         },
         {
           "text": "मै कल तक था dead आज Rolie की flex",
@@ -178,7 +186,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "Ghaas",
-          "type": "Idiom"
+          "type": "Slang",
+          "meaning": "Hindi for 'grass', likely referring to marijuana."
         }
       ]
     },
@@ -246,7 +255,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": " छत्तीसवा chamber",
-          "type": "Pop Culture Ref"
+          "type": "Culture",
+          "meaning": "A space created by the artist's own efforts and dedication. 'Chhatisva' roughly translates to 'thirty-sixth' which can be interpreted as something special or unique.  Implies a level up."
         }
       ]
     },
@@ -258,7 +268,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "स्वयंवर",
-          "type": "Cultural Ref"
+          "type": "Culture",
+          "meaning": "Hindi for 'volunteer'. Meaning someone who chooses to do something of their own free will."
         }
       ]
     },
@@ -305,11 +316,13 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "baawe",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Common term used by Seedhe Maut, and within their community. Meaning is not direct, implies authenticity, originality, or being 'real'. Often symbolizes brotherhood or belonging."
         },
         {
           "keyword": "Sez",
-          "type": "Artist"
+          "type": "Reference",
+          "meaning": "Refers to Sez on the Beat, a well-known Indian hip-hop producer who has frequently collaborated with Seedhe Maut."
         }
       ]
     },
@@ -370,11 +383,13 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "scalp dem",
-          "type": "Song Reference"
+          "type": "Slang",
+          "meaning": "Slang for defeating or dominating someone, often in a competitive context."
         },
         {
           "keyword": "हाय राम",
-          "type": "Song Reference"
+          "type": "Culture",
+          "meaning": "Hindi expression, similar to 'Oh God!' or 'Lord have mercy!' expressing surprise or emphasis."
         }
       ]
     },
@@ -386,7 +401,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "वेल्ले",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "A filler word, doesn't really add to the meaning. Sometimes used in Delhi slang."
         },
         {
           "text": "आज भी है वही legedary duo लेकिन साडे वेल्ले लौण्डो को यहांपे घंटे का नहीं काम",
@@ -474,7 +490,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "चापड़",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hindi, meaning 'printed' or 'stamped'. In this context, it likely refers to the lasting impact or impression they are making."
         }
       ]
     },
@@ -486,7 +503,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "baawe",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Common term used by Seedhe Maut, and within their community. Meaning is not direct, implies authenticity, originality, or being 'real'. Often symbolizes brotherhood or belonging."
         }
       ]
     },
@@ -498,11 +516,13 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "Ice",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang for diamonds or expensive jewelry."
         },
         {
           "keyword": "lean",
-          "type": "Drug"
+          "type": "Slang",
+          "meaning": "A drink made by mixing prescription-strength cough syrup (containing codeine or promethazine) with a soft drink, typically Sprite. It's known for its sedative and euphoric effects and is often associated with trap culture."
         }
       ]
     },
@@ -514,7 +534,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "Trap",
-          "type": "Genre/Lifestyle"
+          "type": "Genre/Slang",
+          "meaning": "Refers to Trap music/culture but can also refer to a difficult or dangerous situation."
         }
       ]
     },
@@ -533,7 +554,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "Baawe",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Common term used by Seedhe Maut, and within their community. Meaning is not direct, implies authenticity, originality, or being 'real'. Often symbolizes brotherhood or belonging."
         }
       ]
     },
@@ -552,7 +574,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "bad bitch",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang term for a confident, attractive, and independent woman."
         }
       ]
     },
@@ -564,7 +587,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "Prestige",
-          "type": "Brand"
+          "type": "Slang",
+          "meaning": "Refers to high status, reputation, or luxury, potentially hinting at expensive alcohol (like a Prestige liquor)."
         }
       ]
     },
@@ -597,7 +621,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "Narcos",
-          "type": "Pop Culture Ref"
+          "type": "Reference",
+          "meaning": "A reference to the Netflix series 'Narcos,' which depicts the drug trade, suggesting a lifestyle of dealing or hustling."
         }
       ]
     },
@@ -616,7 +641,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "कश",
-          "type": "Slang"
+          "type": "Culture",
+          "meaning": "Hindi for 'cash' or 'money'."
         }
       ]
     },
@@ -733,7 +759,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "चिराग",
-          "type": "Location Ref"
+          "type": "Culture",
+          "meaning": "Hindi for 'lamp' or 'light'. In this context, it likely refers to shining brightly or standing out."
         }
       ]
     },
@@ -794,11 +821,13 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "Kendrick",
-          "type": "Artist"
+          "type": "Reference",
+          "meaning": "Reference to Kendrick Lamar, a highly respected and influential American rapper known for his conscious lyrics and storytelling."
         },
         {
           "keyword": "Wayne",
-          "type": "Artist"
+          "type": "Reference",
+          "meaning": "Reference to Lil Wayne, a highly influential American rapper known for his unique flow and wordplay."
         }
       ]
     },
@@ -908,7 +937,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "Whip",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang for a car, usually a nice or expensive one."
         }
       ]
     },
@@ -934,7 +964,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "Capital",
-          "type": "Wordplay"
+          "type": "Slang",
+          "meaning": "Referring to wealth, assets, and resources. Also a play on words relating to the name of the song."
         }
       ]
     },
@@ -960,7 +991,8 @@ export const capital_rap: Song = {
       "annotations": [
         {
           "keyword": "ratchet",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang term originally used negatively, but can now be used playfully to describe someone who is street-smart, unconventional, or unapologetically themselves."
         }
       ]
     },

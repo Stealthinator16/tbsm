@@ -308,7 +308,7 @@ export const pancake: Song = {
           "text": "Bal haiga sabu ka chacha ki gehri soch",
           "keyword": "Bal haiga sabu ka chacha",
           "type": "Slang",
-          "meaning": " Delhi slang indicating someone who tries to be overly smart or cunning but ultimately lacks depth, like a superficial understanding gained from a distant relative (chacha)."
+          "meaning": "Delhi slang indicating someone who tries to be overly smart or cunning but ultimately lacks depth, like a superficial understanding gained from a distant relative (chacha)."
         }
       ]
     },

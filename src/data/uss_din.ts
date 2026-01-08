@@ -363,7 +363,7 @@ export const uss_din: Song = {
           "text": "ये noobie सा खूनी रे, छूरी से दूर",
           "keyword": "Noobie",
           "type": "Slang",
-          "meaning": "Using \"noobie\" to highlight the contrast of how far they've come (from a 'noob' to a skilled artist). "
+          "meaning": "Using \"noobie\" to highlight the contrast of how far they've come (from a 'noob' to a skilled artist)."
         }
       ]
     },

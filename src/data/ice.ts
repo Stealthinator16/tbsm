@@ -16,7 +16,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "Seedhe Maut",
-          "type": "Artist Name"
+          "type": "Reference",
+          "meaning": "Seedhe Maut is the name of the hip-hop duo performing the song. It translates to 'straight death'."
         }
       ]
     },
@@ -28,7 +29,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "ice",
-          "type": "Slang (Diamonds/Jewelry)"
+          "type": "Slang",
+          "meaning": "'Ice' refers to diamonds or expensive jewelry, a common trope in hip-hop representing wealth and status."
         }
       ]
     },
@@ -40,7 +42,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "banger",
-          "type": "Slang (Hit song)"
+          "type": "Slang",
+          "meaning": "A 'banger' is a popular and energetic song, likely referring to the track they are creating."
         }
       ]
     },
@@ -52,7 +55,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "Blinkit",
-          "type": "Brand"
+          "type": "Reference",
+          "meaning": "Blinkit is an online delivery service in India. Here, it means they are casually ordering a PlayStation 5."
         },
         {
           "text": "हम मंगवारि blinkit से PlayStation 5",
@@ -77,7 +81,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "LV",
-          "type": "Brand (Louis Vuitton)"
+          "type": "Reference",
+          "meaning": "LV stands for Louis Vuitton, a luxury brand. It suggests hiding a knife within a Louis Vuitton product."
         }
       ]
     },
@@ -103,7 +108,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "fam",
-          "type": "Slang (Family/Friends)"
+          "type": "Slang",
+          "meaning": "'Fam' is short for family, referring to close friends or crew."
         }
       ]
     },
@@ -129,7 +135,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "झांझ",
-          "type": "Slang (Intoxicated)"
+          "type": "Culture",
+          "meaning": "'Jhaanjh' translates to 'cymbals'. It likely refers to a chaotic or noisy environment where the 'gang' sits."
         }
       ]
     },
@@ -141,7 +148,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "cook",
-          "type": "Slang (Making music)"
+          "type": "Slang",
+          "meaning": "'Cook' means to create or produce something, in this context it means planning something."
         }
       ]
     },
@@ -153,7 +161,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "shook",
-          "type": "Slang (Scared/Unsettled)"
+          "type": "Slang",
+          "meaning": "'Shook' means nervous, intimidated, or fearful. The line signifies that they have the hip-hop scene scared."
         },
         {
           "text": "करते जाए plan और cook",
@@ -171,7 +180,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "लवड़े पे",
-          "type": "Vulgar Slang (Don't care)"
+          "type": "Slang",
+          "meaning": "'Lavde pe' literally means 'on the dick'. It's a vulgar Hindi expression meaning 'I don't care about the fame'."
         }
       ]
     },
@@ -190,7 +200,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "बावे",
-          "type": "Delhi Slang (Bro/Homie)"
+          "type": "Culture",
+          "meaning": "'Baave' translates to 'wind'. Used to describe how things/he himself have changed over time."
         }
       ]
     },
@@ -202,7 +213,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "झांटू",
-          "type": "Slang (Useless/Shitty)"
+          "type": "Slang",
+          "meaning": "'Jhaantu' translates to 'pubic hair'. It is used as a demeaning term towards venues which don't pay the artists."
         }
       ]
     },
@@ -221,7 +233,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "फेंके",
-          "type": "Slang (Bragging/Lying)"
+          "type": "Slang",
+          "meaning": "'Phenke' translates to 'thrown'. Used to describe something or someone is cast aside."
         }
       ]
     },
@@ -233,7 +246,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "चेले",
-          "type": "Noun (Disciples)"
+          "type": "Culture",
+          "meaning": "'Chele' translates to 'disciples' or 'followers'."
         }
       ]
     },
@@ -252,7 +266,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "कवि",
-          "type": "Noun (Poet)"
+          "type": "Culture",
+          "meaning": "'Kavi' translates to 'poet'. It's used sarcastically in the lines, saying that 'poets' here do not say what they mean."
         }
       ]
     },
@@ -271,7 +286,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "beamer",
-          "type": "Slang (BMW)"
+          "type": "Reference",
+          "meaning": "Beamer refers to a BMW car, often used as a status symbol."
         }
       ]
     },
@@ -332,7 +348,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "W",
-          "type": "Slang (Win)"
+          "type": "Slang",
+          "meaning": "'W' likely stands for 'win'. It means the group and their fans 'win' and 'rise'. It also makes a reference to 'WagonR', the car."
         }
       ]
     },
@@ -358,7 +375,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "फटरी",
-          "type": "Slang (Scared)"
+          "type": "Slang",
+          "meaning": "'Phatari' translates to 'firecracker'. Used to describe they are a loud explosion."
         }
       ]
     },
@@ -384,7 +402,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "reservation",
-          "type": "Political/Social term"
+          "type": "Culture",
+          "meaning": "Reservation is a system of affirmative action in India. Referring to the confusion to it in school."
         }
       ]
     },
@@ -403,7 +422,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "स्तोत्र",
-          "type": "Noun (Hymn/Lineage)"
+          "type": "Culture",
+          "meaning": "'Stotra' translates to 'hymn'. Wondering why you want to know his 'hymn'."
         }
       ]
     },
@@ -415,7 +435,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "गोत्र",
-          "type": "Noun (Clan/Lineage)"
+          "type": "Culture",
+          "meaning": "'Gotra' translates to 'clan'. Questioning your curiosity about his 'clan'."
         }
       ]
     },
@@ -427,7 +448,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "मोक्ष",
-          "type": "Noun (Salvation)"
+          "type": "Culture",
+          "meaning": "'Moksh' translates to 'salvation'. To be 'salvated' from the cycle of Karma."
         }
       ]
     },
@@ -460,7 +482,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "नेता जी",
-          "type": "Historical Reference"
+          "type": "Slang",
+          "meaning": "'Neta ji' translates to 'leader'. Saying the person isnt a 'leader' but a 'boss'"
         },
         {
           "text": "ना है तू पौत्र मेरा तो जानना क्यों चाहता है स्तोत्र मेरा?",
@@ -478,7 +501,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "घंटा",
-          "type": "Slang (Nothing/Don't care)"
+          "type": "Slang",
+          "meaning": "'Ghanta' translates to 'bell'. Saying the person is not an 'afsos' or 'regret'."
         }
       ]
     },
@@ -525,7 +549,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "अछूत",
-          "type": "Double Entendre (Untouchable)"
+          "type": "Culture",
+          "meaning": "'Achoot' translates to 'untouchable'. Indicating the Seedhe Maut are the only two 'untouchables' in the industry."
         }
       ]
     },

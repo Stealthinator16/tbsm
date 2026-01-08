@@ -20,7 +20,8 @@ export const intro: Song = {
       "annotations": [
         {
           "keyword": "Sarita",
-          "type": "Proper Noun"
+          "type": "Culture",
+          "meaning": "\"Sarita\" is a common Indian name, likely used here as a generic name when asking if someone has seen her kids."
         },
         {
           "text": "मेघा, क्या तुमने सरिता के बच्चों को देखा है?",
@@ -38,7 +39,8 @@ export const intro: Song = {
       "annotations": [
         {
           "keyword": "Bane phir rahe",
-          "type": "Slang/Phrase"
+          "type": "Slang",
+          "meaning": "\"Bane phir rahe\" translates to \"pretending to be\" or \"acting like\". In this context, it means many people are acting like rappers these days."
         },
         {
           "text": "Rapper बने फिर रहे हैं आज कल",
@@ -56,7 +58,8 @@ export const intro: Song = {
       "annotations": [
         {
           "keyword": "Raat-raat bhar",
-          "type": "Phrase"
+          "type": "Descriptive",
+          "meaning": "\"Raat-raat bhar\" translates to \"all night long\". They play music all night long quietly."
         }
       ]
     },
@@ -68,7 +71,8 @@ export const intro: Song = {
       "annotations": [
         {
           "keyword": "Gaali-galoch",
-          "type": "Noun/Slang"
+          "type": "Descriptive",
+          "meaning": "\"Gaali-galoch\" translates to \"swearing\" or \"abusive language\". The speaker is questioning if the music contains swearing. The literal English translation is cussing."
         }
       ]
     },
@@ -80,7 +84,8 @@ export const intro: Song = {
       "annotations": [
         {
           "keyword": "Zamane",
-          "type": "Noun"
+          "type": "Descriptive",
+          "meaning": "\"Zamane\" translates to \"times\" or \"era\". The speaker is implying that they used to do such acts (cussing) in their time."
         }
       ]
     },
@@ -92,7 +97,8 @@ export const intro: Song = {
       "annotations": [
         {
           "keyword": "Waah",
-          "type": "Exclamation"
+          "type": "Expression",
+          "meaning": "\"Waah\" is an expression of appreciation or admiration, similar to \"wow\" or \"amazing\"."
         }
       ]
     },
@@ -104,7 +110,8 @@ export const intro: Song = {
       "annotations": [
         {
           "keyword": "Rap wale",
-          "type": "Genre Reference"
+          "type": "General",
+          "meaning": "\"Rap wale\" translates to \"rap people\" or \"those who rap\". It refers to rap songs, indicating the speaker doesn't want children listening to rap music."
         }
       ]
     }

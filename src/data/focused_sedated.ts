@@ -48,7 +48,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "Dennis the Menace",
-          "type": "Pop Culture Reference"
+          "type": "Reference",
+          "meaning": "A mischievous and trouble-making character. The artist is comparing himself to this character, implying he is also causing trouble or being rebellious."
         }
       ]
     },
@@ -60,7 +61,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "chemist",
-          "type": "Metaphor"
+          "type": "Metaphor",
+          "meaning": "He is saying his pen (writing) is like a chemist - concocting a cure for the pain in his heart. In other words, writing is his therapy or remedy."
         }
       ]
     },
@@ -72,7 +74,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "tetanus",
-          "type": "Slang/Simile"
+          "type": "Metaphor",
+          "meaning": "Implies that the beat is infectious and dangerous, like a tetanus infection from a bite. Could also indicate the beat is sharp and biting."
         }
       ]
     },
@@ -84,7 +87,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "apprentice",
-          "type": "Term"
+          "type": "Figurative",
+          "meaning": "He is a student or follower, implying he has learned from the best and is now skilled."
         }
       ]
     },
@@ -124,7 +128,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "Mendis",
-          "type": "Cricket Reference"
+          "type": "Reference",
+          "meaning": "Likely refers to a Sri Lankan cricketer known for spin bowling, such as Ajantha Mendis or Jeewan Mendis. The artist is saying his flow has a lot of spin, unpredictability, or variety."
         }
       ]
     },
@@ -136,7 +141,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "सोने की लंका",
-          "type": "Mythological Reference"
+          "type": "Hindi - Slang",
+          "meaning": "Needs a girl made of gold, meaning someone of high value, status or worth."
         }
       ]
     },
@@ -176,7 +182,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "शब्दकोश",
-          "type": "Vocabulary"
+          "type": "Hindi - Metaphor",
+          "meaning": "Packing a dictionary. Meaning, he has a large vocabulary and is good with words."
         }
       ]
     },
@@ -223,7 +230,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "बकचोदी",
-          "type": "Slang"
+          "type": "Hindi - Slang",
+          "meaning": "Full of nonsense. He is saying his competitors or others are filled with nonsense."
         }
       ]
     },
@@ -235,7 +243,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "ADHD",
-          "type": "Medical Term"
+          "type": "Medical - Slang",
+          "meaning": "Attention Deficit Hyperactivity Disorder. He is saying that like children with ADHD their focus is messed up."
         }
       ]
     },
@@ -317,7 +326,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "मुठभेड़",
-          "type": "Term"
+          "type": "Hindi - Metaphor",
+          "meaning": "Collision of heads/ideas. Meaning the thoughts in his mind are clashing or conflicting."
         }
       ]
     },
@@ -329,7 +339,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "पुलाव",
-          "type": "Metaphor"
+          "type": "Hindi - Metaphor",
+          "meaning": "Rice dish, often implying something bland or undesirable. He's asking why he should be bland/plain or conform when he's already on fire (doing well)."
         }
       ]
     },
@@ -348,7 +359,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "टपली",
-          "type": "Slang"
+          "type": "Hindi - Slang",
+          "meaning": "Referring to 'tapli', which is a light slap on the head. This implies they will all be taught a lesson."
         }
       ]
     },
@@ -360,7 +372,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "Ghajini",
-          "type": "Pop Culture Reference"
+          "type": "Reference",
+          "meaning": "Refers to the Bollywood movie 'Ghajini' where the protagonist suffers from short-term memory loss. He's saying he doesn't remember the past or his pain, or chooses to forget it."
         }
       ]
     },
@@ -442,7 +455,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "Truman",
-          "type": "Film Reference"
+          "type": "Reference",
+          "meaning": "Refers to 'The Truman Show', a movie where the protagonist discovers his life is a reality TV show. The artist feels like his life is being watched or is fake."
         }
       ]
     },
@@ -461,7 +475,8 @@ export const focused_sedated: Song = {
       "annotations": [
         {
           "keyword": "Hadouken",
-          "type": "Gaming Reference"
+          "type": "Reference",
+          "meaning": "A special move from the video game 'Street Fighter'. He is saying he is feeling powerful and about to unleash something intense."
         },
         {
           "text": "बजे lo-fi shit, I'm fucking brain dead",

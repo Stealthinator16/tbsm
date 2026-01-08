@@ -23,7 +23,8 @@ export const choti_soch: Song = {
       "annotations": [
         {
           "keyword": "Choti soch",
-          "type": "Metaphor"
+          "type": "Culture",
+          "meaning": "Small-mindedness; a narrow or limited perspective. (Hindi: छोटी सोच)"
         }
       ]
     },
@@ -35,7 +36,8 @@ export const choti_soch: Song = {
       "annotations": [
         {
           "keyword": "Khuli chhoot",
-          "type": "Slang"
+          "type": "Culture",
+          "meaning": "Complete freedom or unrestricted access. (Hindi: खुली छूट)"
         }
       ]
     },
@@ -47,7 +49,8 @@ export const choti_soch: Song = {
       "annotations": [
         {
           "keyword": "Andha paisa",
-          "type": "Idiom"
+          "type": "Slang",
+          "meaning": "Excessive or unaccounted-for money, often implying ill-gotten gains or wealth without proper management. (Hindi: अंधा पैसा)"
         }
       ]
     },
@@ -59,7 +62,8 @@ export const choti_soch: Song = {
       "annotations": [
         {
           "keyword": "Tadi",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "A strong, assertive attitude; swagger or arrogance. Implies showing off."
         }
       ]
     },
@@ -246,7 +250,8 @@ export const choti_soch: Song = {
       "annotations": [
         {
           "keyword": "Thooko ni",
-          "type": "Metaphor"
+          "type": "Idiom",
+          "meaning": "Don't spit where you eat; don't disrespect or betray the source of your sustenance or success. (Hindi: थूको नहीं)"
         }
       ]
     },
@@ -258,11 +263,13 @@ export const choti_soch: Song = {
       "annotations": [
         {
           "keyword": "Nootan",
-          "type": "Vocabulary"
+          "type": "Culture",
+          "meaning": "New or fresh; implying the money is constantly being replenished or is readily available. (Hindi: नूतन)"
         },
         {
           "keyword": "Tootan",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Shortage or lack; the absence of a scarcity of funds in this context. (Hindi: टूटन)"
         }
       ]
     },
@@ -302,7 +309,8 @@ export const choti_soch: Song = {
       "annotations": [
         {
           "keyword": "Chonch",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Beak; here used figuratively to mean a big mouth or someone who talks a lot and interferes."
         }
       ]
     },
@@ -314,7 +322,8 @@ export const choti_soch: Song = {
       "annotations": [
         {
           "keyword": "Thoot",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Snout; similar to 'chonch', but can also imply a stupid or foolish person."
         }
       ]
     },
@@ -354,7 +363,8 @@ export const choti_soch: Song = {
       "annotations": [
         {
           "keyword": "Doot",
-          "type": "Vocabulary"
+          "type": "Culture",
+          "meaning": "Messenger; implies that the truth is being delivered. (Hindi: दूत)"
         }
       ]
     },
@@ -415,11 +425,13 @@ export const choti_soch: Song = {
       "annotations": [
         {
           "keyword": "Aastik",
-          "type": "Person"
+          "type": "Reference",
+          "meaning": "Believer; here, likely referring to a person named Aastik who has a question. (Hindi: आस्तिक)"
         },
         {
           "keyword": "Kode",
-          "type": "Person"
+          "type": "Slang",
+          "meaning": "Harsh or strict (Hindi: कोडे)"
         }
       ]
     },
@@ -501,7 +513,8 @@ export const choti_soch: Song = {
       "annotations": [
         {
           "keyword": "Shashi",
-          "type": "Title"
+          "type": "Slang",
+          "meaning": "Potentially a wordplay on 'shashtri', a surname, or a slang for something stylish or cool, depending on the preceding lyrics which are unavailable. Without more context of the lines before this, it is hard to be certain about its meaning."
         }
       ]
     }

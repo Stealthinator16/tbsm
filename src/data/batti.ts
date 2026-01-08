@@ -15,7 +15,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Sez",
-          "type": "Producer"
+          "type": "Reference",
+          "meaning": "Sez is a popular Indian music producer. This line means that the beat is produced by Sez."
         }
       ]
     },
@@ -27,7 +28,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Mom ki batti",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "Slang for getting 'knocked out' or rendered unconscious; implying someone has been silenced or overpowered."
         }
       ]
     },
@@ -39,7 +41,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Guddi",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Referring to someone's ego, pride, or arrogance. 'Guddi suj gi' means their ego is inflated or has been bruised."
         },
         {
           "text": "Jhatole laundo ki guddi suj gi",
@@ -57,7 +60,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Panauti",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hindi word for 'bad omen' or 'jinx.' 'Panauti put gi' means the bad luck has been removed or is gone."
         }
       ]
     },
@@ -69,7 +73,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Bhussi",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hindi word for 'husk' or 'chaff.' Here, it means filled them with nonsense, trash or useless information."
         }
       ]
     },
@@ -102,7 +107,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Tuthdi",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang for jaw. The line means 'I will break your jaw'."
         }
       ]
     },
@@ -121,7 +127,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Fanne khan",
-          "type": "Idiom"
+          "type": "Slang",
+          "meaning": "Referring to someone who thinks highly of themselves and their skills, but in reality, they are not that great. It is a sarcastic remark used for someone who is acting overly confident."
         }
       ]
     },
@@ -133,7 +140,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "36 kaam",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "It refers to having a lot of work or responsibilities."
         }
       ]
     },
@@ -166,7 +174,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "7 khoon maaf",
-          "type": "Idiom"
+          "type": "Idiom",
+          "meaning": "Hindi idiom meaning 'to be absolved of all sins' or 'to be above the law.' It implies they can get away with anything."
         }
       ]
     },
@@ -178,7 +187,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Kantaap",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slap. The line means that the person got slapped hard."
         }
       ]
     },
@@ -190,7 +200,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Saanp soongh",
-          "type": "Idiom"
+          "type": "Idiom",
+          "meaning": "Hindi idiom meaning 'speechless' or 'lost for words,' as if a snake bit them and they were paralyzed."
         }
       ]
     },
@@ -202,7 +213,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Blue line baso",
-          "type": "Context"
+          "type": "Reference",
+          "meaning": "Refers to the old Delhi's Blue Line buses, which were known for being overcrowded, dangerous, and unreliable. It suggests humble beginnings and struggling times."
         },
         {
           "text": "Blue line baso me chalte the staff",
@@ -248,7 +260,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "jhaat samaan",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "An expletive phrase meaning they don't care about the person or what they are talking about."
         }
       ]
     },
@@ -267,7 +280,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Bayaan",
-          "type": "Album"
+          "type": "Slang",
+          "meaning": "Statement or declaration. It refers to first musical expressions/works of Seedhe Maut."
         }
       ]
     },
@@ -279,7 +293,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Deen dayal",
-          "type": "Place"
+          "type": "Reference",
+          "meaning": "Reference to Deen Dayal Upadhyaya Hospital, a government hospital in Delhi. It implies sending someone to a place where they will be taken care of poorly."
         }
       ]
     },
@@ -326,7 +341,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "BT",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Short form for 'Bhenchod', a common Hindi swear word. Used here to express frustration or anger."
         }
       ]
     },
@@ -338,7 +354,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Kalko",
-          "type": "Place"
+          "type": "Slang",
+          "meaning": "It refers to tomorrow, here it means when Seedhe Maut get angry they will be disrespectful."
         },
         {
           "text": "Hasta la vista bt maatha peeta bohot abhi bande bhi peetne padh gaye kya maa",
@@ -356,7 +373,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Baawe",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang for a 'dude', 'guy', or 'bro,' typically used in Delhi. 'Baawe chal utha baste' means 'Dude, pick up your bags and let's go.'"
         }
       ]
     },
@@ -431,7 +449,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Rakam",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hindi word for money or payment. It means 'My feet go where the money is.'"
         }
       ]
     },
@@ -471,7 +490,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Rapat",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hindi word for a police report or complaint. In this context, it means someone is selling goods illegally in their name, leading to potential legal trouble."
         }
       ]
     },
@@ -559,7 +579,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Pinnak",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Drunk or intoxicated. 'Pinnak mai ghoome bunde short temper' translates to 'Wandering around drunk, short-tempered guys.'"
         }
       ]
     },
@@ -578,7 +599,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Bhasad",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hindi word for chaos or trouble. 'Bhasad bulaake dalle karu tera show cancel' means 'I'll cause chaos and get your show cancelled, pimp.'"
         }
       ]
     },
@@ -688,7 +710,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Dabdaba",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hindi word for dominance or influence. Means their dominance is visible everywhere."
         }
       ]
     },
@@ -728,7 +751,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Baatcheet",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hindi word for conversation or talk. 'Dilli waali baatcheet chale saara din' means 'Delhi-style conversations happen all day long.'"
         }
       ]
     },
@@ -768,7 +792,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Loha",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hindi word for iron or metal. Here it refers to selling low quality metal for higher price."
         }
       ]
     },
@@ -801,7 +826,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Pudiya",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Small packet, usually containing drugs. Refers to them not caring about money."
         }
       ]
     },
@@ -1009,7 +1035,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Dilli 71",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "Refers to Delhi, specifically incorporating '71' (Likely representing code number/pincode). It emphasizes their Delhi roots and identity."
         }
       ]
     },
@@ -1035,7 +1062,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Ghaas",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hindi word for grass, often used as slang for marijuana. It suggests they have a supply of drugs."
         }
       ]
     }

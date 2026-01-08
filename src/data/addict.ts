@@ -15,7 +15,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "बन्दी (Bandi)",
-          "type": "Slang (Girlfriend)"
+          "type": "Slang/Hindi",
+          "meaning": "\"Bandi\" (Hindi: बन्दी) means 'girl' or 'girlfriend'. In this context, it means the girl is calling him."
         }
       ]
     },
@@ -27,7 +28,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "BT",
-          "type": "Slang (Bad Trip)"
+          "type": "Slang",
+          "meaning": "\"BT\" likely stands for 'Big Trouble'. He's saying his friend can solve big troubles."
         }
       ]
     },
@@ -102,7 +104,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "Lab",
-          "type": "Slang (Studio)"
+          "type": "Slang",
+          "meaning": "\"Lab\" refers to being intensely focused and working hard, as if in a laboratory."
         }
       ]
     },
@@ -128,7 +131,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "Smack",
-          "type": "Slang (Heroin)"
+          "type": "Slang",
+          "meaning": "\"Smack\" here means being heavily addicted or under the influence, possibly referring to heroin."
         }
       ]
     },
@@ -140,7 +144,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "Line",
-          "type": "Slang (Drug dose)"
+          "type": "Slang",
+          "meaning": "\"Line\" likely refers to a line of cocaine or other drug to be snorted."
         }
       ]
     },
@@ -194,7 +199,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "Kathakali",
-          "type": "Pop Culture (Classical Dance)"
+          "type": "Culture",
+          "meaning": "\"Kathakali\" is a major form of classical Indian dance. Here it means that they are dancing with fire."
         }
       ]
     },
@@ -290,7 +296,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "Red Zone",
-          "type": "Slang (Restricted/Dangerous area)"
+          "type": "Slang",
+          "meaning": "\"Red Zone\" signifies a dangerous or high-risk area, often associated with conflict or high crime rates. Delhi is his red zone."
         }
       ]
     },
@@ -302,11 +309,13 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "Salty",
-          "type": "Slang (Jealous)"
+          "type": "Slang",
+          "meaning": "\"Salty\" means bitter or resentful, possibly implying that his enemies or haters are salty about his success."
         },
         {
           "keyword": "Wet",
-          "type": "Slang (Aroused)"
+          "type": "Slang",
+          "meaning": "\"Wet\" is likely slang for aroused, referring to the women."
         }
       ]
     },
@@ -353,7 +362,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "SM",
-          "type": "Abbreviation (Seedhe Maut)"
+          "type": "Abbreviation",
+          "meaning": "\"SM\" is Seedhe Maut. They are aiming at your neck, challenging the listener or other rappers."
         },
         {
           "text": "मौत हूँ दिल्ली, बना red zone",
@@ -371,7 +381,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "IDC",
-          "type": "Abbreviation (I Don't Care)"
+          "type": "Abbreviation",
+          "meaning": "\"IDC\" stands for 'I Don't Care'."
         },
         {
           "text": "Salty लौण्डे, dead shawties बहुत ही wet",
@@ -409,7 +420,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "Rollie",
-          "type": "Slang (Rolex)"
+          "type": "Slang",
+          "meaning": "\"Rollie\" is slang for a Rolex watch, a symbol of wealth and status."
         }
       ]
     },
@@ -421,7 +433,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "FL",
-          "type": "Software (FL Studio)"
+          "type": "Abbreviation",
+          "meaning": "\"FL\" probably refers to FL Studio, a popular digital audio workstation (DAW) used for music production."
         }
       ]
     },
@@ -433,7 +446,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "Death Note",
-          "type": "Pop Culture (Anime)"
+          "type": "Reference",
+          "meaning": "\"Death Note\" is a reference to the popular Japanese manga and anime series of the same name, where a notebook can be used to kill anyone whose name is written in it. Here it means that both of them are filling the death note."
         }
       ]
     },
@@ -473,7 +487,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "Shenron",
-          "type": "Pop Culture (Dragon Ball)"
+          "type": "Reference",
+          "meaning": "\"Shenron\" refers to a dragon from the Dragon Ball series that grants wishes when all seven Dragon Balls are collected. Here, he is saying that they grant wishes."
         }
       ]
     },
@@ -573,7 +588,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "91",
-          "type": "Symbol (India/Delhi code)"
+          "type": "Place",
+          "meaning": "\"91\" is the country code for India. In this context, it likely refers to the Indian hip-hop scene or their specific area code in Delhi."
         },
         {
           "text": "gotta light it up हा तभी दोनों कवि भरे death note",
@@ -605,7 +621,8 @@ export const addict: Song = {
       "annotations": [
         {
           "keyword": "Stu",
-          "type": "Slang (Studio)"
+          "type": "Slang",
+          "meaning": "\"Stu\" likely refers to a music studio. He's saying he's an addict to the studio."
         }
       ]
     },

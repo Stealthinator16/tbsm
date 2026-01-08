@@ -20,7 +20,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Sez on the beat",
-          "type": "Producer Tag"
+          "type": "Reference",
+          "meaning": "A producer tag, indicating that the music was produced by Sez. Sez is a very famous music producer in the Indian Hip Hop scene."
         },
         {
           "text": "Sez on the beat boy",
@@ -38,7 +39,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Dhanda",
-          "type": "Slang/Colloquial (Work/Business)"
+          "type": "Hindi",
+          "meaning": "Work or business."
         }
       ]
     },
@@ -85,7 +87,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Tarasha",
-          "type": "Urdu/Hindi (Sculpted/Carved)"
+          "type": "Hindi",
+          "meaning": "Sculpted or shaped. Figuratively, it means God has uniquely created or molded you."
         }
       ]
     },
@@ -111,7 +114,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Kalesh",
-          "type": "Slang (Conflict/Drama/Chaos)"
+          "type": "Hindi",
+          "meaning": "Trouble, conflict, or drama."
         }
       ]
     },
@@ -123,7 +127,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Hoshiyaar",
-          "type": "Adjective (Alert/Smart/Cautious)"
+          "type": "Hindi",
+          "meaning": "Be careful, cautious, or alert."
         }
       ]
     },
@@ -184,7 +189,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Sampati",
-          "type": "Hindi (Wealth/Assets)"
+          "type": "Hindi",
+          "meaning": "Wealth or property. In the context it is used sarcastically to ask if people are motivated by pity or wealth."
         }
       ]
     },
@@ -210,7 +216,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Halke me",
-          "type": "Idiom (To take lightly/Undervalue)"
+          "type": "Hindi",
+          "meaning": "To take lightly or underestimate something."
         }
       ]
     },
@@ -264,7 +271,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Nikhathu",
-          "type": "Colloquial (Useless/Unemployed/Lazy)"
+          "type": "Hindi",
+          "meaning": "Useless or worthless"
         }
       ]
     },
@@ -290,7 +298,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Halak",
-          "type": "Urdu (Throat/Gullet)"
+          "type": "Hindi",
+          "meaning": "Throat. The phrase 'dard hai halak tak' suggests deep emotional or physical pain that reaches the throat."
         }
       ]
     },
@@ -309,7 +318,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Alfaaz",
-          "type": "Urdu (Words)"
+          "type": "Hindi",
+          "meaning": "Words."
         }
       ]
     },
@@ -503,7 +513,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Ghaayal",
-          "type": "Hindi (Wounded/Injured)"
+          "type": "Hindi",
+          "meaning": "Wounded or injured, both physically and emotionally."
         }
       ]
     },
@@ -543,7 +554,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Lagaam",
-          "type": "Hindi (Reins/Restraint)"
+          "type": "Hindi",
+          "meaning": "Reins or control. 'Bhari hai na do lagaam' implies someone/something is uncontrollable."
         },
         {
           "text": "Adarmkhori me luft hai",
@@ -575,7 +587,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Ghuspaith",
-          "type": "Hindi (Infiltration/Intrusion)"
+          "type": "Hindi",
+          "meaning": "Infiltration or intrusion."
         }
       ]
     },
@@ -601,7 +614,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Chust",
-          "type": "Slang (Active/Sharp/Tight)"
+          "type": "Hindi",
+          "meaning": "Sharp, alert, or quick-witted."
         }
       ]
     },
@@ -613,7 +627,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Luft",
-          "type": "Urdu/Hindi (Pleasure/Enjoyment)"
+          "type": "Hindi",
+          "meaning": "Pleasure or enjoyment."
         }
       ]
     },
@@ -625,7 +640,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Lupt",
-          "type": "Hindi (Hidden/Immersed)"
+          "type": "Hindi",
+          "meaning": "Engrossed or absorbed."
         }
       ]
     },
@@ -637,7 +653,8 @@ export const hoshiyaar: Song = {
       "annotations": [
         {
           "keyword": "Dusht",
-          "type": "Hindi (Wicked/Evil)"
+          "type": "Hindi",
+          "meaning": "Evil or wicked"
         }
       ]
     },

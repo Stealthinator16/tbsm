@@ -15,7 +15,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Hurricane",
-          "type": "Producer Tag"
+          "type": "Slang",
+          "meaning": "Describing something as highly destructive, chaotic, or impactful, like a hurricane. It can also refer to a powerful force or energy."
         }
       ]
     },
@@ -27,7 +28,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Dikkat",
-          "type": "Urdu/Hindi word for Problem"
+          "type": "Hindi",
+          "meaning": "\"Problem\" or \"trouble\" in Hindi."
         }
       ]
     },
@@ -39,11 +41,13 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Scooty",
-          "type": "Vehicle"
+          "type": "Slang",
+          "meaning": "Refers to riding around on a Scooty (a type of motor scooter)."
         },
         {
           "keyword": "Lit up",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang term meaning \"amazing,\" \"cool,\" \"exciting,\" or \"energetic.\""
         },
         {
           "text": "मैं घूमूँ Scooty'on में, है दिल्ली मेरा घर, it's lit up",
@@ -61,7 +65,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Diya",
-          "type": "Object (Oil Lamp)"
+          "type": "Hindi",
+          "meaning": "\"Diya\" means lamp or earthen lamp in Hindi."
         }
       ]
     },
@@ -114,11 +119,13 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Bakchod",
-          "type": "Slang (Nonsense talkers/Friends)"
+          "type": "Slang",
+          "meaning": "Someone who talks nonsense, a fool, or an idiot. It's a derogatory term."
         },
         {
           "keyword": "Nidar",
-          "type": "Adjective (Fearless)"
+          "type": "Hindi",
+          "meaning": "\"Fearless\" in Hindi. Someone who is brave and doesn't get afraid easily."
         }
       ]
     },
@@ -130,7 +137,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Bikkat",
-          "type": "Slang (Sales/Volume of business)"
+          "type": "Slang",
+          "meaning": "Likely a misspelling of \"Dikkat\" (problem/trouble) to fit the rhyme, or a play on words to emphasize the magnitude of the 'Dikkat'."
         }
       ]
     },
@@ -142,7 +150,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Oonch-Neech",
-          "type": "Social Concept (Inequality)"
+          "type": "Hindi",
+          "meaning": "\"Ups and downs\" or \"inequality\" in Hindi. Referring to the social or economic disparities in society."
         }
       ]
     },
@@ -154,7 +163,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "BT",
-          "type": "Slang (Bad Trip/Stress)"
+          "type": "Slang",
+          "meaning": "Likely short for \"Bitch\". Used as a derogatory term for a woman."
         },
         {
           "text": "होती BT सोचके हैं बोहूत लालची",
@@ -172,7 +182,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Maalchi",
-          "type": "Slang (One who deals in goods/money)"
+          "type": "Slang",
+          "meaning": "Someone who provides or asks for monetary gains as their primary focus of their creative output."
         }
       ]
     },
@@ -184,7 +195,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Kranti",
-          "type": "Noun (Revolution)"
+          "type": "Hindi",
+          "meaning": "\"Revolution\" in Hindi. Questioning the lack of real change or impact."
         }
       ]
     },
@@ -203,11 +215,13 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "CP",
-          "type": "Location (Connaught Place)"
+          "type": "Place",
+          "meaning": "Connaught Place, a prominent commercial and business center in Delhi."
         },
         {
           "keyword": "My Bar",
-          "type": "Specific Landmark"
+          "type": "Reference",
+          "meaning": "A popular bar/restaurant, often used a reference point."
         }
       ]
     },
@@ -219,11 +233,13 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Cypher",
-          "type": "Hip Hop Term"
+          "type": "Hip Hop Culture",
+          "meaning": "A gathering of rappers to showcase their skills, often in a freestyle format."
         },
         {
           "keyword": "Bars",
-          "type": "Hip Hop Term (Lyrical depth)"
+          "type": "Hip Hop Culture",
+          "meaning": "Refers to rap lyrics, verses, or clever wordplay."
         }
       ]
     },
@@ -270,7 +286,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "BT",
-          "type": "Slang (Bad Trip)"
+          "type": "Slang",
+          "meaning": "Likely short for \"Bitch\". Used as a derogatory term for a woman."
         }
       ]
     },
@@ -338,11 +355,13 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Gs",
-          "type": "Slang (Gangsters/Friends)"
+          "type": "Slang",
+          "meaning": "Short for \"Gangsters\" or \"Original Gangsters\". Used to refer to close friends or crew members who are seen as tough and loyal."
         },
         {
           "keyword": "Chilla",
-          "type": "Delhi Slang (The scene/What's up)"
+          "type": "Hindi",
+          "meaning": "Scream or Shout, why are you yelling"
         }
       ]
     },
@@ -354,7 +373,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "SM",
-          "type": "Artist Abbreviation"
+          "type": "Reference",
+          "meaning": "Short for Seedhe Maut, the name of the rap duo."
         }
       ]
     },
@@ -422,7 +442,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Jang",
-          "type": "Noun (War)"
+          "type": "Hindi",
+          "meaning": "\"War\" in Hindi. Implying that writing lyrics is a battle."
         }
       ]
     },
@@ -441,11 +462,13 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Thulla",
-          "type": "Slang (Police)"
+          "type": "Slang",
+          "meaning": "Slang for a police officer, often used in a derogatory way."
         },
         {
           "keyword": "Rishwat",
-          "type": "Noun (Bribe)"
+          "type": "Hindi",
+          "meaning": "\"Bribe\" in Hindi. The line suggests that they are seeking bribes or are corrupt."
         }
       ]
     },
@@ -464,7 +487,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Badappan",
-          "type": "Noun (Greatness/Maturity)"
+          "type": "Hindi",
+          "meaning": "Bigger/Larger. Used to imply an inflated ego, status or wealth."
         }
       ]
     },
@@ -476,7 +500,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Neta",
-          "type": "Noun (Politician)"
+          "type": "Hindi",
+          "meaning": "\"Politician\" in Hindi. Implying dishonesty or greed."
         }
       ]
     },
@@ -488,7 +513,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Ganwar",
-          "type": "Slang/Noun (Illiterate)"
+          "type": "Hindi",
+          "meaning": "\"Uneducated\" or \"illiterate\" in Hindi. Used to criticize the incompetence of the government."
         }
       ]
     },
@@ -507,7 +533,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Lode lagana",
-          "type": "Slang (To get screwed/destroyed)"
+          "type": "Slang",
+          "meaning": "A crude Hindi phrase meaning \"to not care about\" or \"to disregard\". Also means to use something for your own advantage without caring about the damage."
         }
       ]
     },
@@ -540,7 +567,8 @@ export const dikkat: Song = {
       "annotations": [
         {
           "keyword": "Khafa",
-          "type": "Adjective (Upset/Angry)"
+          "type": "Hindi",
+          "meaning": "\"Upset\" or \"annoyed\" in Hindi. Suggesting that God is unhappy with him, but he doesn't care."
         }
       ]
     },

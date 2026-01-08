@@ -20,11 +20,13 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "kalle",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "Alone, single. (Hindi)"
         },
         {
           "keyword": "daitya",
-          "type": "word"
+          "type": "Hindi",
+          "meaning": "Demon, evil being. (Hindi)"
         },
         {
           "text": "Nahi chahiye koi hain kalle daitya (Rakshas)",
@@ -42,11 +44,13 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "bhadwe",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "An abusive term, often used as an insult.  Equivalent to 'pimp' or worse."
         },
         {
           "keyword": "smacky",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Implies that the rappers being referred to are weak, or of low quality."
         }
       ]
     },
@@ -58,7 +62,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "vocal",
-          "type": "music term"
+          "type": "Music Term",
+          "meaning": "Refers to pre-recorded vocals being played during a live performance, implying a lack of genuine talent."
         }
       ]
     },
@@ -70,7 +75,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "randi rone",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Crying and complaining unnecessarily, often in a public or attention-seeking manner. (Hindi)"
         }
       ]
     },
@@ -82,7 +88,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "dhindora",
-          "type": "idiom"
+          "type": "Hindi",
+          "meaning": "Making a public announcement or spreading news widely. (Hindi)"
         }
       ]
     },
@@ -129,7 +136,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "vanity",
-          "type": "context"
+          "type": "Slang",
+          "meaning": "Writing a song out of pride or excessive admiration of oneself."
         }
       ]
     },
@@ -141,7 +149,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "whack",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Bad, terrible, not good."
         },
         {
           "text": "Thak chuka chup hoke whack launde bohot",
@@ -166,7 +175,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "talli",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "Drunk, intoxicated. (Hindi)"
         }
       ]
     },
@@ -199,7 +209,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "sauce",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Style, swag, appeal, what makes someone cool and desirable."
         }
       ]
     },
@@ -225,11 +236,13 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "sumdi",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "In the crowd. (Hindi)"
         },
         {
           "keyword": "gaand faad",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "To absolutely destroy, dominate, or impress greatly."
         }
       ]
     },
@@ -269,11 +282,13 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "byju",
-          "type": "brand"
+          "type": "Reference",
+          "meaning": "Reference to the online learning platform Byju's, implying Seedhe Maut are educators or masters of rap."
         },
         {
           "keyword": "tycoon",
-          "type": "word"
+          "type": "General",
+          "meaning": "A wealthy and powerful businessperson or industrialist."
         }
       ]
     },
@@ -306,7 +321,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "drip",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "An extremely stylish and attractive appearance."
         }
       ]
     },
@@ -318,7 +334,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "flex",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "To show off wealth, status, or abilities."
         }
       ]
     },
@@ -330,11 +347,13 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "sehwag",
-          "type": "person"
+          "type": "Reference",
+          "meaning": "Reference to Virender Sehwag, a famous Indian cricketer known for his aggressive batting style. Comparing their partnership and energy to Sehwag."
         },
         {
           "keyword": "gautam gambhir",
-          "type": "person"
+          "type": "Reference",
+          "meaning": "Reference to Gautam Gambhir, a famous Indian cricketer. Comparing their partnership and energy to Gambhir."
         }
       ]
     },
@@ -346,7 +365,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "zameer",
-          "type": "word"
+          "type": "Hindi",
+          "meaning": "Conscience, moral compass. (Hindi)"
         }
       ]
     },
@@ -358,7 +378,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "badheer",
-          "type": "word"
+          "type": "Hindi",
+          "meaning": "Deaf, unable to hear or understand. (Hindi)"
         }
       ]
     },
@@ -370,7 +391,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "hustle",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Working hard to achieve success, especially financially."
         }
       ]
     },
@@ -389,7 +411,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "loofah",
-          "type": "word"
+          "type": "Object",
+          "meaning": "A scrubbing sponge used in the shower, implying something is irritating or unwanted."
         }
       ]
     },
@@ -450,7 +473,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "kafir",
-          "type": "word"
+          "type": "Religion",
+          "meaning": "Someone who denies or conceals the truth; infidel."
         }
       ]
     },
@@ -504,7 +528,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "FD",
-          "type": "financial term"
+          "type": "Financial",
+          "meaning": "Fixed Deposit, a type of savings account in India, often implying reliance on parental wealth."
         }
       ]
     },
@@ -537,7 +562,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "kaleshi",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "Argumentative, quarrelsome. (Hindi)"
         }
       ]
     },
@@ -591,7 +617,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "jamnapari",
-          "type": "location/identity"
+          "type": "Slang",
+          "meaning": "An expression used for 'something original', not fake or pretentious"
         }
       ]
     },
@@ -603,7 +630,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "chole kulche",
-          "type": "food"
+          "type": "Culture",
+          "meaning": "A popular North Indian street food, implying they are consuming and mastering the beat with ease."
         }
       ]
     },
@@ -671,7 +699,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "laps",
-          "type": "metaphor"
+          "type": "Slang",
+          "meaning": "Number of rounds. Implies a huge difference in the skill or experience levels."
         }
       ]
     },
@@ -690,7 +719,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "baawe",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Slang term, often deragatory. Equivalent to the term 'dude' or 'man'. (Hindi)"
         }
       ]
     },
@@ -702,7 +732,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "gaandfaad",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Extremely impressive, amazing, or outstanding merchandise."
         }
       ]
     },
@@ -728,7 +759,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "neha dhupiya",
-          "type": "pop culture"
+          "type": "Reference",
+          "meaning": "Reference to Neha Dhupia, an Indian actress, and her famous quote on a reality show, implying they make their own choices."
         }
       ]
     },
@@ -740,7 +772,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "kantaap",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "Powerful and dangerous, like a slap. (Hindi)"
         }
       ]
     },
@@ -752,7 +785,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "bhaichung bhootiya",
-          "type": "person/wordplay"
+          "type": "Reference",
+          "meaning": "Reference to Baichung Bhutia, a famous Indian footballer known for his powerful shots, implying they bring power."
         }
       ]
     },
@@ -764,11 +798,13 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "shoib akhtar",
-          "type": "person"
+          "type": "Reference",
+          "meaning": "Reference to Shoaib Akhtar, a Pakistani cricketer known for his fast bowling, implying their flow is dangerously fast."
         },
         {
           "keyword": "bruce lee",
-          "type": "person"
+          "type": "Reference",
+          "meaning": "Reference to Bruce Lee, a martial artist known for his fluid and powerful movements, implying their flow is smooth and impactful."
         }
       ]
     },
@@ -794,7 +830,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "broski",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Brother, friend (slang)."
         },
         {
           "text": "Par tatte rehte baawe mesha laude ke neeche",
@@ -832,7 +869,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "aladdin",
-          "type": "character"
+          "type": "Reference",
+          "meaning": "Reference to Aladdin, a fictional character, implying they are at the top and magical."
         }
       ]
     },
@@ -872,7 +910,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "baawe",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Slang term, often deragatory. Equivalent to the term 'dude' or 'man'. (Hindi)"
         },
         {
           "text": "Ball karun hard jaise bhaichung bhootiya",
@@ -939,7 +978,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "hatapai",
-          "type": "word"
+          "type": "Hindi",
+          "meaning": "A physical altercation, scuffle, or fight. (Hindi)"
         },
         {
           "text": "mann mei Hera phiri isilye tu close nai",
@@ -992,7 +1032,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "buh",
-          "type": "ad-lib"
+          "type": "Slang",
+          "meaning": "Sound of a gun, threat or disrespect."
         }
       ]
     },
@@ -1018,7 +1059,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "chaapte",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "To profit, earn, or make money. (Hindi)"
         }
       ]
     },
@@ -1044,7 +1086,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "biness",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Business."
         }
       ]
     },
@@ -1070,7 +1113,8 @@ export const champions: Song = {
       "annotations": [
         {
           "keyword": "bachkaand",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Ugly children.  Implies the rappers are terrible and immature."
         }
       ]
     },

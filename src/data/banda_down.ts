@@ -15,11 +15,13 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Toofan",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "Hindi for 'storm' or 'hurricane'. Used to describe something powerful and overwhelming."
         },
         {
           "keyword": "Naao",
-          "type": "Object"
+          "type": "Hindi",
+          "meaning": "Hindi for 'boat'. Here, it likely refers to navigating through the 'storm' or difficulties."
         }
       ]
     },
@@ -31,7 +33,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Bhai",
-          "type": "Slang/Relation"
+          "type": "Hindi/Slang",
+          "meaning": "Hindi for 'brother'. A common term of endearment or respect in India, used to address friends or associates."
         },
         {
           "text": "भाई पे है भरोसा I can't let em down",
@@ -98,7 +101,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Andha",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "Hindi for 'blind'. Used metaphorically to describe ignorance or being unaware of something."
         }
       ]
     },
@@ -110,7 +114,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Banda",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "Hindi for 'guy' or 'man'."
         },
         {
           "text": "हा कोई रोक लो हो रहा है बंदा down",
@@ -177,7 +182,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Bawe",
-          "type": "Delhi Slang"
+          "type": "Slang",
+          "meaning": "Slang, likely derived from 'bawa' which means money/wealth."
         }
       ]
     },
@@ -217,7 +223,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Euthanize",
-          "type": "Vocabulary"
+          "type": "Medical/Figurative",
+          "meaning": "To painlessly kill someone suffering from an incurable disease/injury. In this context, it refers to eliminating something undesirable."
         }
       ]
     },
@@ -243,7 +250,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Dawai",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "Hindi for 'medicine'. Seedhe Maut is suggesting that their music is a cure."
         }
       ]
     },
@@ -269,7 +277,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Laadle",
-          "type": "Endearment/Sarcasm"
+          "type": "Hindi",
+          "meaning": "Hindi for 'spoiled' or 'pampered'."
         },
         {
           "text": "खाते खौफ हमसे सारे गम है सिट्टी-पिट्ठी",
@@ -287,7 +296,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Bheja",
-          "type": "Slang for Brain"
+          "type": "Hindi",
+          "meaning": "Hindi for 'brain'."
         },
         {
           "text": "लेते loss नहीं हम पूरी रात है litty",
@@ -319,7 +329,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Mitti",
-          "type": "Metaphor for Death/Dust"
+          "type": "Hindi",
+          "meaning": "Hindi for 'soil' or 'earth'. Implying everyone ends up in the ground, a reflection on mortality."
         }
       ]
     },
@@ -331,11 +342,13 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Khauf",
-          "type": "Fear"
+          "type": "Hindi",
+          "meaning": "Hindi for 'fear' or 'terror'."
         },
         {
           "keyword": "Sitti-pitti",
-          "type": "Idiom"
+          "type": "Hindi Idiom",
+          "meaning": "A Hindi idiom that translates to 'stammering'. It implies being nervous, anxious, or losing one's composure."
         }
       ]
     },
@@ -347,7 +360,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Litty",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang for something awesome, cool, or exciting."
         }
       ]
     },
@@ -359,7 +373,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Dl91",
-          "type": "Area Reference"
+          "type": "Place",
+          "meaning": "DL-91 is the pin code for Janakpuri, Delhi. It is a reference to the area."
         }
       ]
     },
@@ -490,7 +505,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Dalli/Dilli",
-          "type": "City"
+          "type": "Place/Slang",
+          "meaning": "Slang for 'Delhi', the capital city of India."
         }
       ]
     },
@@ -523,7 +539,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Daaru",
-          "type": "Alcohol"
+          "type": "Hindi",
+          "meaning": "Hindi for 'alcohol' or 'liquor'."
         },
         {
           "text": "तूने block करा गया landline",
@@ -576,7 +593,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Dopamine",
-          "type": "Scientific Metaphor"
+          "type": "Scientific",
+          "meaning": "A neurotransmitter associated with pleasure and reward. Here, it refers to the feeling of satisfaction or happiness."
         }
       ]
     },
@@ -602,7 +620,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Cook",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang for cooking drugs, or making music."
         }
       ]
     },
@@ -635,7 +654,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Cyanide",
-          "type": "Metaphor"
+          "type": "Scientific/Figurative",
+          "meaning": "A highly poisonous chemical. Here, it's used metaphorically to represent something deadly or harmful."
         }
       ]
     },
@@ -668,11 +688,13 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Plug",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang for a supplier of drugs or other illicit goods."
         },
         {
           "keyword": "Thaiya",
-          "type": "Haryanvi/Delhi Slang for Place"
+          "type": "Slang",
+          "meaning": "Means Ready."
         }
       ]
     },
@@ -691,7 +713,8 @@ export const banda_down: Song = {
       "annotations": [
         {
           "keyword": "Nitro",
-          "type": "Metaphor"
+          "type": "Scientific/Metaphorical",
+          "meaning": "Short for Nitrous Oxide, a chemical compound used to increase engine power. Metaphorically used for high energy and speed."
         }
       ]
     },

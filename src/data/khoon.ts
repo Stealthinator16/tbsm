@@ -156,7 +156,7 @@ export const khoon: Song = {
           "text": "अभी तो अंदर भरी कला को निकालूँ मैं निचोड़ के",
           "keyword": "निचोड़",
           "type": "Slang",
-          "meaning": " निचोड़ (Nichod) - The essence. Here, the rapper is talking about extracting the essence from his art"
+          "meaning": "निचोड़ (Nichod) - The essence. Here, the rapper is talking about extracting the essence from his art"
         }
       ]
     },
@@ -240,7 +240,7 @@ export const khoon: Song = {
       "original": "कुत्ता बना या कुत्ता आए भर के",
       "speaker": "Encore ABJ",
       "translation": "I either humiliate them or they come at me like dogs.",
-      "explanation": " 'Kutta banana' is slang for dominating or thrashing someone. He's talking about street dominance.",
+      "explanation": "'Kutta banana' is slang for dominating or thrashing someone. He's talking about street dominance.",
       "annotations": [
         {
           "keyword": "kutta bana",
@@ -434,7 +434,7 @@ export const khoon: Song = {
           "text": "ਸ਼ਿਲਾਲ਼ੋਂਗ ‘ਚ ਮੈਂ ਪੱਟੀਆਾਂ, ਬੂਟੀਆਾਂ ਖਾਸ",
           "keyword": "ਬੂਟੀਆਾਂ ਖਾਸ",
           "type": "Slang",
-          "meaning": " खासी (khaasi). Means 'a lot of'. This line basically means the rapper has a lot of girls."
+          "meaning": "खासी (khaasi). Means 'a lot of'. This line basically means the rapper has a lot of girls."
         }
       ]
     },
@@ -452,7 +452,7 @@ export const khoon: Song = {
           "text": "Kilvish Tamraj, ਮੇਰਾ ਭੂਤੀਆ ਸ਼ਰਾਪ",
           "keyword": "Kilvish Tamraj",
           "type": "Reference",
-          "meaning": "Reference to the villain Kilvish from the Indian TV show Shaktimaan. He is associating himself with something evil. Booze is his shrap, or curse. "
+          "meaning": "Reference to the villain Kilvish from the Indian TV show Shaktimaan. He is associating himself with something evil. Booze is his shrap, or curse."
         }
       ]
     },

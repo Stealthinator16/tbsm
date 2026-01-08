@@ -15,7 +15,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "आदत",
-          "type": "Theme"
+          "type": "Hindi",
+          "meaning": "\"Aadat\" translates to \"Habit\" in English. It refers to a recurring behavior or something one is accustomed to."
         }
       ]
     },
@@ -48,7 +49,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "खेल",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "\"Khel\" translates to \"Game\" or \"Play\" in English. Here it implies that life is a game."
         }
       ]
     },
@@ -60,7 +62,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "bold",
-          "type": "Wordplay"
+          "type": "Slang",
+          "meaning": "Confident and fearless."
         }
       ]
     },
@@ -72,7 +75,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "cap",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "To lie or exaggerate."
         }
       ]
     },
@@ -98,11 +102,13 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "joint",
-          "type": "Lifestyle"
+          "type": "Slang",
+          "meaning": "Slang term for a Marijuana cigarette/roll."
         },
         {
           "keyword": "studio",
-          "type": "Career"
+          "type": "Place",
+          "meaning": "A place for recording music."
         }
       ]
     },
@@ -121,7 +127,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "toxic",
-          "type": "Slang"
+          "type": "Adjective",
+          "meaning": "Harmful or unhealthy, often referring to a relationship."
         },
         {
           "text": "सबकुछ all rap",
@@ -139,7 +146,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "horlicks",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "A malted milk hot drink, implying false promises made like a product advertised for unrealistic benefits."
         },
         {
           "text": "बंदी है अच्छी पर relationship है toxic",
@@ -157,7 +165,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "john wick",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "Reference to the action movie character John Wick, known for his ruthlessness and combat skills, suggesting a feeling of being dangerous or vengeful."
         },
         {
           "text": "बस करते झूठे वादे just like horlicks",
@@ -175,11 +184,13 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "Akon",
-          "type": "Artist Reference"
+          "type": "Reference",
+          "meaning": "Reference to the singer Akon, possibly alluding to his success despite past struggles or 'criminal' background"
         },
         {
           "keyword": "convict",
-          "type": "Wordplay"
+          "type": "Noun",
+          "meaning": "A person found guilty of a criminal offense."
         },
         {
           "text": "मेरा कुत्ता मर गया feeling just like john wick",
@@ -239,11 +250,13 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "Icedout",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Jewelry covered in diamonds"
         },
         {
           "keyword": "इबादत",
-          "type": "Urdu"
+          "type": "Hindi",
+          "meaning": "\"Ibaadat\" translates to \"Worship\" in English. It refers to deep admiration"
         }
       ]
     },
@@ -255,7 +268,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "Baawe",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Referring to an idiot or fool."
         },
         {
           "text": "Icedout पर भूला ना करना इबादत",
@@ -273,7 +287,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "foil",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "Unclear, potentially meaning to expose or reveal a story or secret."
         }
       ]
     },
@@ -305,11 +320,13 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "foil",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "Unclear, potentially meaning that the rapper's luck has run out."
         },
         {
           "keyword": "लकीरे",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "\"Lakeere\" translates to \"Lines\" in English. In this context, it likely refers to the lines of fate."
         },
         {
           "text": "Camino साथ खड़ा है मेरे I बस bowling",
@@ -348,7 +365,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "double cup",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Two cups stacked together, typically filled with a drug concoction, often codeine syrup"
         }
       ]
     },
@@ -486,7 +504,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "moshpit",
-          "type": "Culture"
+          "type": "Culture",
+          "meaning": "A chaotic and energetic dance environment where people push and slam into each other."
         }
       ]
     },
@@ -512,7 +531,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "Gucci",
-          "type": "Brand"
+          "type": "Brand",
+          "meaning": "A luxury Italian fashion brand."
         }
       ]
     },
@@ -538,11 +558,13 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "जोटो",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "\"Jooton\" translates to \"Shoes\" in English."
         },
         {
           "keyword": "noto",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang for money or cash."
         }
       ]
     },
@@ -554,7 +576,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "गोट",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "\"Gaanton\" translates to \"Songs\" in English."
         },
         {
           "text": "आदत है toxic हूँ आदत है खोने की लोग",
@@ -572,7 +595,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "BT",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "\"BT\" could mean \"Buri Tarah\" which translates to \"Badly\" in English."
         }
       ]
     },
@@ -584,7 +608,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "BK",
-          "type": "Person"
+          "type": "Abbreviation",
+          "meaning": "Potentially referring to Burger King. Could imply indulging in fast food while in the studio."
         },
         {
           "text": "आदत है सुनने की गोट",

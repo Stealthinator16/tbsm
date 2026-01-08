@@ -15,7 +15,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "D-L-9-1",
-          "type": "Location/Identity"
+          "type": "Place",
+          "meaning": "Likely refers to Delhi-91, indicating the area or neighborhood Seedhe Maut is from."
         }
       ]
     },
@@ -27,7 +28,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "सर पे था हाथ",
-          "type": "Idiom (Support/Blessing)"
+          "type": "Hindi - Idiom",
+          "meaning": "\"Sar pe tha haath\" translates to \"had a hand on my head.\" It implies guidance, protection, or someone watching over them."
         }
       ]
     },
@@ -46,7 +48,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "नशे",
-          "type": "Slang (Intoxication)"
+          "type": "Hindi",
+          "meaning": "Nashe\" translates to \"intoxication\" or \"being high."
         }
       ]
     },
@@ -58,7 +61,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "सुट्टों",
-          "type": "Slang (Cigarettes)"
+          "type": "Hindi/English - Loanword",
+          "meaning": "\"Studio\" - Referring to working in the studio."
         }
       ]
     },
@@ -70,7 +74,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "घर के नाम",
-          "type": "Context (Nicknames)"
+          "type": "Hindi",
+          "meaning": "Ghar ke naam se\" translates to \"by a nickname."
         }
       ]
     },
@@ -89,7 +94,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "bag",
-          "type": "Slang (Money/Goal)"
+          "type": "Slang",
+          "meaning": "Refers to a bag filled with money, goods or contraband."
         },
         {
           "text": "था पास तब ये bag पर है चोदें हज़ार",
@@ -149,7 +155,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "ज़ख़्म",
-          "type": "Metaphor (Trauma/Struggle)"
+          "type": "Hindi",
+          "meaning": "\"Jhoom\" translates to \"groove\" or \"sway\". Here, it implies staying in the same groove or vibe."
         }
       ]
     },
@@ -182,7 +189,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "लौंडों",
-          "type": "Slang (Boys/Guys)"
+          "type": "Hindi - Slang",
+          "meaning": "\"Laundon\" translates to \"boys\" or \"dudes\"."
         }
       ]
     },
@@ -194,7 +202,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "बावे",
-          "type": "Slang (Bro - Delhi context)"
+          "type": "Hindi",
+          "meaning": "\"Bhawe\" translates to \"whatever\" or \"I don't care\"."
         }
       ]
     },
@@ -206,7 +215,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "Fanne Khan",
-          "type": "Slang (Someone who thinks they are a big shot)"
+          "type": "Reference",
+          "meaning": "A Bollywood movie about an aspirational singer who wants his daughter to fulfil his dreams. Here, it means they will not be sold off."
         }
       ]
     },
@@ -309,7 +319,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "wack",
-          "type": "Slang (Lame/Bad quality)"
+          "type": "Slang",
+          "meaning": "Meaning someone or something of low quality, terrible or bad."
         }
       ]
     },
@@ -321,7 +332,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "slide",
-          "type": "Slang (Direct Messaging)"
+          "type": "Slang",
+          "meaning": "Sliding into DMs, making an advance via social media."
         }
       ]
     },
@@ -354,11 +366,13 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "Anunnaki",
-          "type": "Reference (Mythology/Aliens)"
+          "type": "Mythology",
+          "meaning": "A group of deities in ancient Mesopotamian cultures."
         },
         {
           "keyword": "hara-kiri",
-          "type": "Reference (Japanese Ritual Suicide)"
+          "type": "Culture",
+          "meaning": "Japanese ritual suicide by samurai. Here, likely used metaphorically for self-destructive behavior."
         }
       ]
     },
@@ -377,7 +391,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "काला पानी",
-          "type": "Historical Reference (Cellular Jail)"
+          "type": "Hindi - Historical Reference",
+          "meaning": "\"Kala Paani\" translates to \"Black Water\". It historically refers to the Cellular Jail in the Andaman Islands, a British penal colony for Indian freedom fighters. A metaphor for hard times and suffering."
         }
       ]
     },
@@ -424,11 +439,13 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "OCB",
-          "type": "Slang (Rolling Paper Brand)"
+          "type": "Slang/Brand",
+          "meaning": "Brand of rolling papers used for cigarettes or joints."
         },
         {
           "keyword": "OCD",
-          "type": "Medical Term (Disorder)"
+          "type": "Medical/Psychological",
+          "meaning": "Obsessive-Compulsive Disorder, a mental health disorder."
         }
       ]
     },
@@ -475,7 +492,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "घड़ी",
-          "type": "Puns (Watch/Moment)"
+          "type": "Hindi",
+          "meaning": "\"Ghadi\" translates to \"watch\" or \"clock\". Here referring to expensive watches and their worth."
         }
       ]
     },
@@ -592,7 +610,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "gourmet",
-          "type": "Reference (High Quality/Title)"
+          "type": "Slang",
+          "meaning": "High-quality, expertly prepared food. In this context, it signifies the refined and top-tier nature of their work."
         }
       ]
     },
@@ -765,7 +784,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "Hauz Khas",
-          "type": "Location (Delhi)"
+          "type": "Place",
+          "meaning": "A neighborhood in South Delhi, known for its historical significance, cafes, and nightlife."
         }
       ]
     },
@@ -868,7 +888,8 @@ export const gourmet_shit: Song = {
       "annotations": [
         {
           "keyword": "सरस्वती",
-          "type": "Mythology (Goddess)"
+          "type": "Culture/Religion",
+          "meaning": "\"Saraswati\" is the Hindu goddess of knowledge, music, arts, wisdom, and learning. \"Saraswati kanthit\" refers to having a gifted or blessed voice/throat."
         }
       ]
     },

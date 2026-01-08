@@ -15,7 +15,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "Seedhe Maut",
-          "type": "Artist"
+          "type": "Artist",
+          "meaning": "Indian Hip Hop Duo consisting of Encore ABJ and Calm."
         }
       ]
     },
@@ -27,7 +28,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "Dollar Sign",
-          "type": "Alias"
+          "type": "Artist",
+          "meaning": "Refers to Dollar Sign, one of the vocal producer of this track"
         }
       ]
     },
@@ -39,11 +41,13 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "ग़ाज़ीपुर",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "Gazipur, a locality in Delhi, India, known for its landfill site which has become symbolic of urban waste and pollution."
         },
         {
           "keyword": "खत्ता",
-          "type": "Slang (Landfill)"
+          "type": "Hindi (Adjective)",
+          "meaning": "Sour/Tangy. Here it is likely referring to the harsh or unpleasant realities of Gazipur."
         },
         {
           "text": "ग़ाज़ीपुर का खत्ता मेरी पहचान",
@@ -61,7 +65,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "शेर खान",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "Lion King. Metaphorically representing himself as the apex predator or ruler of his domain."
         }
       ]
     },
@@ -73,7 +78,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "ज़हर",
-          "type": "Slang"
+          "type": "Hindi (Noun)",
+          "meaning": "Poison. Referring to producing something potent or dangerous, not seeking anyone's approval."
         },
         {
           "text": "ज़हर काम करूँ, ना लूँ किसी का भी अहसान",
@@ -98,7 +104,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "east side",
-          "type": "Location"
+          "type": "Slang",
+          "meaning": "Referring to trouble or a difficult situation originating from the east side (likely within their locality/context)."
         },
         {
           "text": "King sized double bed, east side trouble है",
@@ -116,7 +123,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "FL",
-          "type": "Software"
+          "type": "Technology",
+          "meaning": "Likely referring to FL Studio, a popular digital audio workstation (DAW) used for music production."
         }
       ]
     },
@@ -128,7 +136,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "Kaif",
-          "type": "Cricketer"
+          "type": "Reference",
+          "meaning": "Mohammad Kaif, former Indian cricketer known for his exceptional fielding skills. Used here to suggest agility and skill."
         }
       ]
     },
@@ -140,7 +149,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "आंडू",
-          "type": "Slang"
+          "type": "Hindi (Noun)",
+          "meaning": "Egg. Implying someone thinks they're a hero, but are actually useless like a boiled egg"
         },
         {
           "text": "आंडू अक्ल के, hero बने मगर है शक्ल से लंड",
@@ -158,7 +168,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "सदर",
-          "type": "Market"
+          "type": "Hindi (Adjective)",
+          "meaning": "Stronger. Used to emphasize something being superior."
         },
         {
           "text": "लौंडे rubber है, सस्ते सदर है, घिसते रोज़, लेकिन अक्ल है कम",
@@ -176,7 +187,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "मरहम",
-          "type": "Metaphor"
+          "type": "Hindi (Noun)",
+          "meaning": "Game/Rhyme. This probably refers to the duo's skills with the pen (writing lyrics) and mic (performing)."
         }
       ]
     },
@@ -188,7 +200,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "neo",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "Refers to the main character in The Matrix. Suggesting that the speaker sees themself as special or chosen."
         }
       ]
     },
@@ -200,7 +213,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "बास",
-          "type": "Hindi (Stench)"
+          "type": "Hindi (Noun)",
+          "meaning": "Smell/Odour. In this context, implying that the person he is addressing is probably overwhelmed by the 'smell of Khatta (Sourness/Tanginess)'"
         },
         {
           "text": "खत्ते की बास में तू सांस मत लियो",
@@ -253,7 +267,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "smack",
-          "type": "Drug"
+          "type": "Slang",
+          "meaning": "An illegal narcotic. Indicating illicit activities or drug use in their environment."
         }
       ]
     },
@@ -314,7 +329,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "Napalm",
-          "type": "Chemical/Metaphor"
+          "type": "Reference",
+          "meaning": "Highly flammable liquid used in incendiary bombs and flamethrowers. Representing something extremely destructive or impactful."
         }
       ]
     },
@@ -326,7 +342,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "Neymar",
-          "type": "Athlete"
+          "type": "Reference",
+          "meaning": "Neymar, a famous Brazilian football player. Implying skillful handling or dominating a situation like Neymar dominates the ball."
         }
       ]
     },
@@ -345,7 +362,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "muggle",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "A non-magical person in the Harry Potter universe. Implying someone is ordinary or lacks a certain skill/understanding."
         }
       ]
     },
@@ -364,7 +382,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "चटक",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Vulgar word used in Delhi slang for 'Butt'"
         },
         {
           "text": "Neymar जब भी करूँ ball, हूँ मैं way पार",
@@ -396,7 +415,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "Jackie Chan",
-          "type": "Actor"
+          "type": "Reference",
+          "meaning": "Hong Kong martial artist, actor, stuntman, and filmmaker. Suggesting that one performs crazy and over the top stunts in real life like Jackie Chan"
         }
       ]
     },
@@ -415,11 +435,13 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "Shippuden",
-          "type": "Anime"
+          "type": "Reference",
+          "meaning": "Shippuden is the second part of the Naruto anime series. It means that Seedhe Maut's musical growth and evolution are as significant as the transition from Naruto to Naruto Shippuden."
         },
         {
           "keyword": "Mamy Poko Pant",
-          "type": "Brand"
+          "type": "Brand",
+          "meaning": "Brand of baby diapers. It signifies something immature, silly, or not to be taken seriously. It is used to create a contrast and humorous effect in the lyrics."
         }
       ]
     },
@@ -431,7 +453,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "Mo",
-          "type": "Person"
+          "type": "Slang",
+          "meaning": "Short for 'Money'. Meaning that money won't be available even if one tries to find it using a chain"
         },
         {
           "text": "बंदे चटक है, बेचते कब्र है",
@@ -449,7 +472,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "Jett Lee",
-          "type": "Actor"
+          "type": "Reference",
+          "meaning": "Likely referring to Jet Li, a Chinese martial artist, actor, and film producer. Implying that speaker is ready to attack"
         },
         {
           "text": "बोखलाऊं, बंदी की चौबीस कमर है",
@@ -467,7 +491,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "Wesley",
-          "type": "Actor"
+          "type": "Reference",
+          "meaning": "Likely referring to Wesley Snipes' character Blade, a vampire hunter. Signifying that they'll protect their friends like Wesley protects humans from Vampires"
         },
         {
           "text": "बहुत करूँ stunt real life जैसे Jackie Chan",
@@ -618,7 +643,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "Gurugram",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A city located in the state of Haryana, India. Known as a major financial and technology hub."
         },
         {
           "text": "दम पिशाच दो game के top पर",
@@ -643,7 +669,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "Khaitaan",
-          "type": "Brand/Wordplay"
+          "type": "Reference",
+          "meaning": "Likely a reference to the Indian politician HKL Bhagat who was implicated in the 1984 anti-Sikh riots. Used here to mean everywhere."
         }
       ]
     },
@@ -662,7 +689,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "Ehsaan Noorani",
-          "type": "Musician"
+          "type": "Reference",
+          "meaning": "Ehsaan Noorani is a famous Indian film composer and guitarist, part of the Shankar-Ehsaan-Loy trio. It means to try and manipulate or control a situation."
         }
       ]
     },
@@ -695,7 +723,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "Gohan",
-          "type": "Anime"
+          "type": "Reference",
+          "meaning": "A character from the Dragon Ball series, known for his immense hidden power and potential. It is used to compare his competitor as his children, and show his potential/power"
         }
       ]
     },
@@ -749,7 +778,8 @@ export const khatta_flow: Song = {
       "annotations": [
         {
           "keyword": "John Wick",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "The protagonist of the John Wick film series, known for his deadly combat skills and use of weapons. It means being lethal and skilled with weapons."
         }
       ]
     },
