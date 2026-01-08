@@ -13,111 +13,138 @@ export interface TimelineEvent {
 export const timelineData: TimelineEvent[] = [
     {
         id: 'formation',
-        date: '2017',
-        title: 'The Formation',
-        description: 'Encore ABJ and Calm meet and decide to form a duo. The seed is sown.',
+        date: '2015',
+        title: 'Formation at Spit Dope',
+        description: 'Calm and Encore ABJ meet at Spit Dope Inc., the legendary underground battle rap league in Delhi. The partnership that would change DHH begins.',
         type: 'milestone',
-        era: 'The Beginning',
+        era: 'The Underground Seeds (2015-2017)'
+    },
+    {
+        id: '2-ka-pahada',
+        date: '2017-05',
+        title: '2 Ka Pahada',
+        description: 'Their debut mixtape produced entirely by Sez on the Beat. Featuring "Seedhe Maut Anthem", it announced their aggressive and technical arrival.',
+        type: 'release',
+        era: 'The Underground Seeds (2015-2017)',
         relatedSlug: 'seedhe-maut-anthem'
     },
     {
-        id: 'seedhe-maut-anthem',
-        date: '2017-05',
-        title: 'Seedhe Maut Anthem',
-        description: 'The track that gave them their name and announced their arrival.',
-        type: 'release',
-        era: 'The Beginning',
-        relatedSlug: 'seedhe-maut-anthem'
+        id: 'azadi-signing',
+        date: '2017-10',
+        title: 'Signing with Azadi Records',
+        description: 'Seedhe Maut joins forces with Azadi Records, a pivotal movement in independent Indian music that gave them a platform to remain uncompromisingly raw.',
+        type: 'milestone',
+        era: 'The Underground Seeds (2015-2017)'
     },
     {
         id: 'bayaan',
         date: '2018-12',
         title: 'Bayaan',
-        description: 'The debut album produced by Sez on the Beat. A cult classic that changed the DHH landscape forever.',
+        description: 'The debut album that set the gold standard for DHH. A raw, social, and personal masterpiece that remains a cult classic.',
         type: 'release',
-        era: 'Bayaan Era',
-        // We don't have a specific slug for the album page yet, but maybe a key song
+        era: 'The Bayaan Revolution (2018-2020)',
         relatedSlug: 'meri-baggi'
     },
     {
         id: 'shaktimaan',
         date: '2019',
         title: 'Shaktimaan',
-        description: 'A chaotic, high-energy single that showcased their aggressive side.',
+        description: 'A high-energy single that became their signature live performance track, capturing the chaotic energy of the duo.',
         type: 'release',
-        era: 'Discovery',
+        era: 'The Bayaan Revolution (2018-2020)',
         relatedSlug: 'shaktimaan'
     },
     {
-        id: '101',
-        date: '2020',
-        title: '101',
-        description: 'Breaking into the mainstream consciousness with pure bars.',
+        id: 'namastute',
+        date: '2020-08',
+        title: 'Namastute',
+        description: 'The technical masterclass that broke the internet and cemented their status as the most skilled duo in the country.',
         type: 'release',
-        era: 'Discovery',
-        relatedSlug: '101'
+        era: 'The Bayaan Revolution (2018-2020)',
+        relatedSlug: 'namastute'
     },
     {
-        id: 'namastute',
-        date: '2020',
-        title: 'Namastute',
-        description: 'The anthem that defined a generation of DHH fans.',
+        id: '101',
+        date: '2020-12',
+        title: '101',
+        description: 'Ending 2020 with a massive banger, solidifying their flow and the "101% Seedhe Maut" identity.',
         type: 'release',
-        era: 'Discovery',
-        relatedSlug: 'namastute'
+        era: 'The Bayaan Revolution (2018-2020)',
+        relatedSlug: '101'
     },
     {
         id: 'nanchaku',
         date: '2021',
-        title: 'Nanchaku',
-        description: 'Collaborating with MC Stan. A cross-regional banger.',
+        title: 'Nanchaku with MC Stan',
+        description: 'A cross-over banger with MC Stan that bridged regional gaps and became a commercial and street success.',
         type: 'release',
-        era: 'Pre-Nayaab',
+        era: 'The Nayaab Mastery (2021-2022)',
         relatedSlug: 'nanchaku'
     },
     {
         id: 'nayaab',
         date: '2022-05',
         title: 'Nayaab',
-        description: 'The magnum opus. A sophomore album that explored fame, struggle, and mastery.',
+        description: 'The magnum opus. A sophomore album exploring fame, brotherhood, and artistic maturity. Widely considered one of the best Indian albums of all time.',
         type: 'release',
-        era: 'Nayaab Era',
+        era: 'The Nayaab Mastery (2021-2022)',
         relatedSlug: 'nayaab'
     },
     {
         id: 'nayaab-tour',
         date: '2022-06',
-        title: 'Nayaab Tour',
-        description: 'A nationwide tour that solidified their status as the best live act in the country.',
+        title: 'Nayaab India Tour',
+        description: 'A multi-city tour that proved Seedhe Maut is the best live act in India, with sold-out venues and moshpit culture.',
         type: 'show',
-        era: 'Nayaab Era'
+        era: 'The Nayaab Mastery (2021-2022)'
     },
     {
         id: 'lunch-break',
-        date: '2023',
-        title: 'Lunch Break',
-        description: 'A mixtape purely for the fans and the love of the sport. 30 songs of pure heat.',
+        date: '2023-08',
+        title: 'Lunch Break Mixtape',
+        description: 'A massive 30-track project released to celebrate their journey and pure love for the sport of rap.',
         type: 'release',
-        era: 'Lunch Break Era',
-        relatedSlug: 'focused-sedated' // Lead single-ish
+        era: 'The Lunch Break & Independence (2023-Present)',
+        relatedSlug: 'fanne-khan'
     },
     {
-        id: 'kavi',
-        date: '2024',
-        title: 'Kavi (Keh Chuka)',
-        description: 'Continuing the legacy with introspective storytelling.',
+        id: 'independent',
+        date: '2023-11',
+        title: 'Going Fully Independent',
+        description: 'Seedhe Maut departs from Azadi Records to take full creative and business control of their legacy.',
+        type: 'milestone',
+        era: 'The Lunch Break & Independence (2023-Present)'
+    },
+    {
+        id: 'dl91-era',
+        date: '2024-01',
+        title: 'Formation of DL91',
+        description: 'The duo launches their own independent platform, DL91 Era, to push their own art and support the next wave of talent.',
+        type: 'milestone',
+        era: 'The Lunch Break & Independence (2023-Present)'
+    },
+    {
+        id: 'shakti-kshama',
+        date: '2024-06',
+        title: 'Shakti & Kshama EPs',
+        description: 'A conceptual two-part release exploring themes of power and forgiveness, inspired by Indian literature.',
         type: 'release',
-        era: 'Present',
-        relatedSlug: 'kavi'
+        era: 'The Lunch Break & Independence (2023-Present)',
+        relatedSlug: 'shakti-aur-kshama'
+    },
+    {
+        id: 'smx-tour',
+        date: '2025-11',
+        title: 'The SMX Tour',
+        description: 'A 15-city nationwide tour celebrating a decade of Seedhe Maut in the game. 10 Years. One Legacy.',
+        type: 'show',
+        era: 'The Lunch Break & Independence (2023-Present)'
     }
 ];
 
 export const eras = [
-    'The Beginning',
-    'Bayaan Era',
-    'Discovery',
-    'Pre-Nayaab',
-    'Nayaab Era',
-    'Lunch Break Era',
-    'Present'
+    'The Underground Seeds (2015-2017)',
+    'The Bayaan Revolution (2018-2020)',
+    'The Nayaab Mastery (2021-2022)',
+    'The Lunch Break & Independence (2023-Present)'
 ];
