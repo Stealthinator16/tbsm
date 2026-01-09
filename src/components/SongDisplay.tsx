@@ -99,19 +99,7 @@ export default function SongDisplay({ song }: SongDisplayProps) {
           </div>
         )}
 
-        {selectedLyric.annotations && selectedLyric.annotations!.length > 0 && (
-          <div className="space-y-3">
-            <h3 className="text-[9px] font-mono text-zinc-500 uppercase tracking-widest">Notes</h3>
-            {selectedLyric.annotations!.map((ann, i) => (
-              <div key={i} className="bg-black/40 p-3 border border-zinc-800 rounded-sm">
-                <p className="text-[11px] text-zinc-400 font-mono italic">
-                  <span className="text-tbsm-red mr-2">/</span>
-                  {typeof ann === 'string' ? ann : (ann.text || ann.keyword || ann.word) + (ann.meaning ? ` (${ann.meaning})` : '')}
-                </p>
-              </div>
-            ))}
-          </div>
-        )}
+
       </div>
     );
   };
