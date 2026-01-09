@@ -81,15 +81,7 @@ export default function SongDisplay({ song }: SongDisplayProps) {
 
     return (
       <div className={containerClasses}>
-        <div className={`flex justify-between items-center mb-6 ${isMobile ? '' : 'border-b border-tbsm-red/20 pb-2'}`}>
-          <h2 className="text-[10px] uppercase tracking-[0.4em] text-tbsm-red font-bold">Line Analysis</h2>
-          <button
-            onClick={() => setSelectedLine(null)}
-            className="text-[10px] font-mono text-zinc-500 hover:text-white uppercase tracking-widest transition-colors"
-          >
-            Clear [X]
-          </button>
-        </div>
+
 
         <div className="mb-8">
           <h3 className="text-[9px] font-mono text-zinc-500 uppercase mb-2 tracking-widest">Translation</h3>
