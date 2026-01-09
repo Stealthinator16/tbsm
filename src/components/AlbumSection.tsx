@@ -13,22 +13,22 @@ export default function AlbumSection({ album, songs }: AlbumSectionProps) {
 
   return (
     <section className="mb-24">
-      <div className="flex items-end gap-8 mb-12 border-b border-zinc-900 pb-6">
+      <div className="flex flex-col md:flex-row items-center md:items-end gap-8 mb-12 border-b border-zinc-900 pb-6 text-center md:text-left">
         <Link href={`/album/${album.slug}`} className="block group">
           <div className="w-48 h-48 bg-zinc-900 border border-zinc-800 flex-shrink-0 overflow-hidden shadow-2xl transition-all duration-300 group-hover:border-tbsm-red/50">
-             {album.coverArt ? (
-               <img src={album.coverArt} alt={album.title} className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500" />
-             ) : (
-               <div className="w-full h-full flex items-center justify-center text-zinc-700 font-mono text-xs group-hover:text-tbsm-red transition-colors">NO COVER</div>
-             )}
+            {album.coverArt ? (
+              <img src={album.coverArt} alt={album.title} className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500" />
+            ) : (
+              <div className="w-full h-full flex items-center justify-center text-zinc-700 font-mono text-xs group-hover:text-tbsm-red transition-colors">NO COVER</div>
+            )}
           </div>
         </Link>
         <div className="flex-1 pb-2">
-          <div className="flex items-center gap-4 mb-2">
+          <div className="flex items-center justify-center md:justify-start gap-4 mb-2">
             <span className="text-tbsm-red font-mono text-xs uppercase tracking-[0.3em]">Album</span>
             <span className="h-px bg-tbsm-red/30 flex-1"></span>
           </div>
-          <Link href={`/album/${album.slug}`} className="block group w-fit">
+          <Link href={`/album/${album.slug}`} className="block group w-full md:w-fit">
             <h2 className="text-7xl font-black font-oswald uppercase text-white tracking-tighter leading-none mb-4 group-hover:text-tbsm-red transition-colors">
               {album.title}
             </h2>
@@ -39,8 +39,8 @@ export default function AlbumSection({ album, songs }: AlbumSectionProps) {
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-x-8 gap-y-4">
         {songs.map((song, idx) => (
-          <Link 
-            key={song.id} 
+          <Link
+            key={song.id}
             href={`/song/${song.slug}`}
             className="group flex items-baseline gap-4 py-2 border-b border-zinc-900/50 hover:border-tbsm-red/50 transition-all"
           >

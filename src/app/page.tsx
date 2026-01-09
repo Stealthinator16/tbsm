@@ -8,7 +8,7 @@ export default function Home() {
     <main className="min-h-screen py-24 px-6 max-w-7xl mx-auto relative z-10">
       <header className="mb-32 flex flex-col items-center justify-center relative">
         <h1
-          className="text-[12rem] leading-[0.8] font-black tracking-tighter text-tbsm-red font-oswald glitch mix-blend-difference"
+          className="text-7xl md:text-[12rem] leading-[0.8] font-black tracking-tighter text-tbsm-red font-oswald glitch mix-blend-difference"
           data-text="TBSM"
         >
           TBSM
@@ -17,15 +17,15 @@ export default function Home() {
           The Seedhe Maut Archive
         </p>
 
-        <div className="mt-12 flex gap-6">
-          <a href="/journey" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300">
+        <div className="mt-12 flex flex-col md:flex-row gap-4 md:gap-6 w-full md:w-auto">
+          <a href="/journey" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300 text-center">
             The Journey
           </a>
 
-          <a href="/vibes" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300">
+          <a href="/vibes" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300 text-center">
             Vibe Matcher
           </a>
-          <a href="/codex" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300">
+          <a href="/codex" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300 text-center">
             The Codex
           </a>
         </div>

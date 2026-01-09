@@ -71,11 +71,17 @@ export default function SongDisplay({ song }: SongDisplayProps) {
     };
   };
 
-  const renderLineAnalysis = () => {
+  const renderLineAnalysis = (isMobile: boolean = false) => {
     if (!selectedLyric) return null;
+
+    // On mobile, we want a cleaner look without the box/border since it's already in a drawer
+    const containerClasses = isMobile
+      ? "animate-in fade-in slide-in-from-bottom-4 duration-300 mb-8"
+      : "animate-in fade-in slide-in-from-top-4 duration-300 mb-12 p-6 border border-tbsm-red/30 bg-tbsm-red/5 rounded-sm";
+
     return (
-      <div className="animate-in fade-in slide-in-from-top-4 duration-300 mb-12 p-6 border border-tbsm-red/30 bg-tbsm-red/5 rounded-sm">
-        <div className="flex justify-between items-center mb-6 border-b border-tbsm-red/20 pb-2">
+      <div className={containerClasses}>
+        <div className={`flex justify-between items-center mb-6 ${isMobile ? '' : 'border-b border-tbsm-red/20 pb-2'}`}>
           <h2 className="text-[10px] uppercase tracking-[0.4em] text-tbsm-red font-bold">Line Analysis</h2>
           <button
             onClick={() => setSelectedLine(null)}
@@ -98,8 +104,6 @@ export default function SongDisplay({ song }: SongDisplayProps) {
             <p className="text-zinc-400 leading-relaxed font-light text-sm italic">{selectedLyric.explanation}</p>
           </div>
         )}
-
-
       </div>
     );
   };
@@ -140,14 +144,14 @@ export default function SongDisplay({ song }: SongDisplayProps) {
       {/* Centered Navigation / Big Logo */}
       <nav className="flex justify-center py-12 mb-8">
         <Link href="/" className="group">
-          <h1 className="text-[8rem] md:text-[10rem] leading-none font-black tracking-tighter text-tbsm-red font-oswald glitch mix-blend-difference opacity-20 group-hover:opacity-100 transition-opacity duration-500" data-text="TBSM">
+          <h1 className="text-6xl md:text-[10rem] leading-none font-black tracking-tighter text-tbsm-red font-oswald glitch mix-blend-difference" data-text="TBSM">
             TBSM
           </h1>
         </Link>
       </nav>
 
       {/* Hero Header */}
-      <header className="mb-24 flex items-center gap-8 border-b border-zinc-900 pb-12">
+      <header className="mb-24 flex flex-col md:flex-row items-center md:items-start gap-8 border-b border-zinc-900 pb-12 text-center md:text-left">
         {coverArt && (
           <div className="w-24 h-24 md:w-32 md:h-32 bg-zinc-900 border border-zinc-800 flex-shrink-0 overflow-hidden shadow-2xl rounded-sm">
             <img src={coverArt} alt={song.album} className="w-full h-full object-cover" />
@@ -155,14 +159,14 @@ export default function SongDisplay({ song }: SongDisplayProps) {
         )}
 
         <div className="flex-1">
-          <div className="flex items-center gap-3 mb-2">
+          <div className="flex items-center justify-center md:justify-start gap-3 mb-2">
             <span className="text-tbsm-red font-mono text-[10px] uppercase tracking-[0.3em]">Track</span>
             <span className="h-px bg-tbsm-red/20 flex-1"></span>
           </div>
           <h1 className="text-5xl md:text-8xl font-black tracking-tighter font-oswald uppercase leading-none text-white mb-2">
             {song.title}
           </h1>
-          <div className="flex items-center gap-2 text-zinc-500 font-mono text-[10px] uppercase tracking-widest">
+          <div className="flex items-center justify-center md:justify-start gap-2 text-zinc-500 font-mono text-[10px] uppercase tracking-widest">
             <span>Album:</span>
             <span className="text-zinc-300 font-oswald text-sm tracking-normal">{song.album}</span>
           </div>
@@ -171,6 +175,11 @@ export default function SongDisplay({ song }: SongDisplayProps) {
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-16">
         <div className="space-y-12">
+          {/* Mobile Brief/Intel */}
+          <div className="md:hidden">
+            {renderSongIntel()}
+          </div>
+
           <div className="flex items-center justify-between border-b border-zinc-900 pb-2">
             <h2 className="text-xs uppercase tracking-[0.4em] text-zinc-600 font-bold">Lyrics / Hindi</h2>
             <span className="text-[10px] font-mono text-zinc-700">SCRIPT MODE</span>
@@ -236,7 +245,7 @@ export default function SongDisplay({ song }: SongDisplayProps) {
         {/* Desktop Sidebar */}
         <div className="hidden md:block sticky top-12 h-fit">
           {/* Always show Intel, Analysis pops above it */}
-          {selectedLine !== null && renderLineAnalysis()}
+          {selectedLine !== null && renderLineAnalysis(false)}
 
           {renderSongIntel()}
 
@@ -251,9 +260,8 @@ export default function SongDisplay({ song }: SongDisplayProps) {
         <MobileDrawer
           isOpen={selectedLine !== null}
           onClose={() => setSelectedLine(null)}
-          title="Line Meaning"
         >
-          {renderLineAnalysis()}
+          {renderLineAnalysis(true)}
         </MobileDrawer>
       </div>
     </div>
