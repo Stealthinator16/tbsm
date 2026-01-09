@@ -15,7 +15,8 @@ export const naam_kaam_sheher: Song = {
       "annotations": [
         {
           "keyword": "Sheher",
-          "type": "Context"
+          "type": "Culture",
+          "meaning": "City. In this context, Seedhe Maut is asking 'What is your city?', likely referring to their origins and identity."
         }
       ]
     },
@@ -27,7 +28,8 @@ export const naam_kaam_sheher: Song = {
       "annotations": [
         {
           "keyword": "Pahar",
-          "type": "Slang/Unit of time"
+          "type": "Culture",
+          "meaning": "Pahar (Prahar) - A unit of time (approx 3 hours). He doesn't know what time of day it is."
         },
         {
           "text": "काम करूँ इतना, साला पता नहीं, ये पहर क्या है",
@@ -66,7 +68,8 @@ export const naam_kaam_sheher: Song = {
       "annotations": [
         {
           "keyword": "Kanne",
-          "type": "Kite-flying slang"
+          "type": "Culture",
+          "meaning": "Kanne - The bridle knots/tethers on a kite. 'Kanne kharab' means the knots are unbalanced, making the kite fly erratically/wildly."
         },
         {
           "text": "कन्ने खराब वाली पतंग जैसा लहरता है",
@@ -91,7 +94,8 @@ export const naam_kaam_sheher: Song = {
       "annotations": [
         {
           "keyword": "Ainak",
-          "type": "Slang/Glasses"
+          "type": "Culture",
+          "meaning": "Spectacles or Eyeglasses. Here, it's used to denote style, luxury and possibly a foreign influence (Italy)."
         },
         {
           "text": "आया नया Italy से ऐनक",
@@ -116,7 +120,8 @@ export const naam_kaam_sheher: Song = {
       "annotations": [
         {
           "keyword": "Cadence",
-          "type": "Technical term"
+          "type": "Music Term",
+          "meaning": "Rhythm or flow in music. Seedhe Maut are known for their complex rhyme schemes and unique rhythmic delivery."
         }
       ]
     },
@@ -156,7 +161,8 @@ export const naam_kaam_sheher: Song = {
       "annotations": [
         {
           "keyword": "Deagle",
-          "type": "Gaming/Weapon slang"
+          "type": "Reference",
+          "meaning": "Referring to a Desert Eagle handgun. Used metaphorically to represent power, dominance, and a dangerous persona."
         }
       ]
     },
@@ -169,8 +175,8 @@ export const naam_kaam_sheher: Song = {
         {
           "text": "है वो proud मेरी Deagle पे",
           "keyword": "Deagle",
-          "type": "Slang",
-          "meaning": "Deagle is a Desert Eagle handgun. Using it as a metaphor for power and protection or intimidating presence."
+          "type": "Reference",
+          "meaning": "Refers to Dawood Ibrahim. claiming to have defeated many wannabe gangsters."
         }
       ]
     },
@@ -182,7 +188,8 @@ export const naam_kaam_sheher: Song = {
       "annotations": [
         {
           "keyword": "Clout",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Influence or popularity, especially on social media. Implying that people are searching for fame or recognition."
         },
         {
           "text": "छोटे-मोटे Dawood मैंने पेले बहुत",
@@ -375,7 +382,8 @@ export const naam_kaam_sheher: Song = {
       "annotations": [
         {
           "keyword": "Peti",
-          "type": "Monetary Slang"
+          "type": "Slang",
+          "meaning": "Box or crate. Here, it likely refers to a box full of money. The artist is blessed and has lots of money to 'ball'."
         }
       ]
     },
@@ -429,7 +437,8 @@ export const naam_kaam_sheher: Song = {
       "annotations": [
         {
           "keyword": "Misaal",
-          "type": "Example"
+          "type": "Culture",
+          "meaning": "Example. The artist wants to become an example, setting a precedent that's as impactful as a missile."
         }
       ]
     },
@@ -497,7 +506,8 @@ export const naam_kaam_sheher: Song = {
       "annotations": [
         {
           "keyword": "Chul",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Restlessness or itchiness. In this context, it suggests they are filled with a burning desire or ambition that drives them."
         }
       ]
     },
@@ -506,7 +516,13 @@ export const naam_kaam_sheher: Song = {
       "speaker": "Rebel 7",
       "translation": "Save your life or get f***ed.",
       "explanation": "A raw and aggressive ultimatum commonly used in hardcore Delhi rap.",
-      "annotations": []
+      "annotations": [
+        {
+          "keyword": "Maa chuda le",
+          "type": "Slang/NSFW",
+          "meaning": "Literally 'Get your mother f***ed'. Extreme insult/dismissal meaning 'Go to hell' or 'I don't care'."
+        }
+      ]
     },
     {
       "original": "काम पूरा चाहिए तो माल पूरा दे",
@@ -530,7 +546,8 @@ export const naam_kaam_sheher: Song = {
       "annotations": [
         {
           "keyword": "Pairi Pauna",
-          "type": "Greeting"
+          "type": "Culture",
+          "meaning": "A Punjabi expression that means 'to touch someone's feet as a sign of respect'. Here, the artist says he is ready to bow down to respect someone after proving himself."
         }
       ]
     },

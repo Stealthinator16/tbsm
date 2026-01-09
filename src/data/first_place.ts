@@ -108,7 +108,7 @@ export const first_place: Song = {
         {
           "keyword": "डस",
           "type": "Slang",
-          "meaning": "DS, likely short for Diss. It means someone is questioning whether you can diss them."
+          "meaning": "Das/Dasna - Hindi for 'to bite' like a snake. He's warning that today's friend could betray (bite) you tomorrow."
         }
       ]
     },
@@ -128,7 +128,7 @@ export const first_place: Song = {
         {
           "keyword": "खाई",
           "type": "Slang",
-          "meaning": "Khaaye means 'to eat'. The line questions if someone will get eaten up (defeated) if they come at Seedhe Maut."
+          "meaning": "Khai - Hindi for 'ditch' or 'abyss'. He refuses to follow those who jump into self-destructive situations."
         }
       ]
     },
@@ -234,7 +234,7 @@ export const first_place: Song = {
         {
           "keyword": "जोटा",
           "type": "Slang",
-          "meaning": "Jhoota means liar. The line suggests people lie to cope with difficult situations, while Seedhe Maut speaks the truth."
+          "meaning": "Jota/Joint - Slang for marijuana cigarette. He smokes to cope with the stress and mess of life."
         }
       ]
     },
@@ -378,7 +378,7 @@ export const first_place: Song = {
         {
           "keyword": "BT",
           "type": "Slang",
-          "meaning": "BT is likely shorthand for 'been there', indicating they've already experienced the challenges and are not easily impressed."
+          "meaning": "BT (Bad Trip) - Delhi slang for stress, anxiety, or a bad situation. His mind stresses him out when idle."
         },
         {
           "text": "मैं जिन बन्दों से यहाँ था उसे बचा रहा",
@@ -430,7 +430,7 @@ export const first_place: Song = {
           "text": "मैं आज कल रहता हूँ busy अगर खाली हूँ तो भेजा देता है BT",
           "keyword": "BT",
           "type": "Slang",
-          "meaning": "If I'm free from my busy schedule, I'll send the location. BT likely refers to 'By The'."
+          "meaning": "BT (Bad Trip) - Delhi slang for stress, anxiety, or a bad situation. Staying busy keeps the mind from overthinking."
         }
       ]
     },

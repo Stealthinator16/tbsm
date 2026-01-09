@@ -248,12 +248,7 @@ export const godkode: Song = {
           "type": "Hindi",
           "meaning": "Existence or Identity. Hindi: 'Vajood' means 'existence'."
         },
-        {
-          "text": "Choora bhonka uspе jiski vaja se hai tera vajood",
-          "keyword": "USP",
-          "type": "Reference",
-          "meaning": "Referring to Unique Selling Proposition, indicating the hiphop page's very existence relies on profiting from the friend's tragedy. Bhonka = barked/stabbed. Choora - knife."
-        }
+
       ]
     },
     {

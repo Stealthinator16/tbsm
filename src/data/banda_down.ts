@@ -36,12 +36,7 @@ export const banda_down: Song = {
           "type": "Hindi/Slang",
           "meaning": "Hindi for 'brother'. A common term of endearment or respect in India, used to address friends or associates."
         },
-        {
-          "text": "भाई पे है भरोसा I can't let em down",
-          "keyword": "भाई",
-          "type": "Slang",
-          "meaning": "Bhai (brother) used to refer to close friends or associates, emphasizing loyalty and responsibility towards them."
-        }
+
       ]
     },
     {
@@ -183,7 +178,7 @@ export const banda_down: Song = {
         {
           "keyword": "Bawe",
           "type": "Slang",
-          "meaning": "Slang, likely derived from 'bawa' which means money/wealth."
+          "meaning": "Delhi slang for 'Bro' or 'Brother' (from 'Bhaave')."
         }
       ]
     },
@@ -207,12 +202,7 @@ export const banda_down: Song = {
       "translation": "So taking a broken knife,",
       "explanation": "Metaphor for making do with whatever they had to fight their way up.",
       "annotations": [
-        {
-          "text": "Seedhe maut तेरी ज़िन्दगी की हूँ दवाई",
-          "keyword": "दवाई",
-          "type": "Metaphor",
-          "meaning": "Seedhe Maut are comparing themselves to medicine, implying they are the cure or solution to something."
-        }
+
       ]
     },
     {
@@ -261,12 +251,7 @@ export const banda_down: Song = {
       "translation": "Seedhe Maut is the medicine for your life.",
       "explanation": "Repetition for emphasis on their impact.",
       "annotations": [
-        {
-          "text": "Seedhe maut सुनके होना है सबने मिट्टी",
-          "keyword": "मिट्टी",
-          "type": "Slang",
-          "meaning": "Mitti means dirt or dust. Here it means that Seedhe Maut will turn their rivals into dust, metaphorically defeating them."
-        }
+
       ]
     },
     {
@@ -280,12 +265,7 @@ export const banda_down: Song = {
           "type": "Hindi",
           "meaning": "Hindi for 'spoiled' or 'pampered'."
         },
-        {
-          "text": "खाते खौफ हमसे सारे गम है सिट्टी-पिट्ठी",
-          "keyword": "सिट्टी-पिट्ठी",
-          "type": "Slang",
-          "meaning": "Refers to the struggles and hardships they've faced, suggesting they've overcome difficult situations."
-        }
+
       ]
     },
     {

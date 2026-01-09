@@ -434,7 +434,7 @@ export const khoon: Song = {
           "text": "ਸ਼ਿਲਾਲ਼ੋਂਗ ‘ਚ ਮੈਂ ਪੱਟੀਆਾਂ, ਬੂਟੀਆਾਂ ਖਾਸ",
           "keyword": "ਬੂਟੀਆਾਂ ਖਾਸ",
           "type": "Slang",
-          "meaning": "खासी (khaasi). Means 'a lot of'. This line basically means the rapper has a lot of girls."
+          "meaning": "Special herbs (cannabis). 'Bootiaan' means herbs/shrubs."
         }
       ]
     },
@@ -452,7 +452,7 @@ export const khoon: Song = {
           "text": "Kilvish Tamraj, ਮੇਰਾ ਭੂਤੀਆ ਸ਼ਰਾਪ",
           "keyword": "Kilvish Tamraj",
           "type": "Reference",
-          "meaning": "Reference to the villain Kilvish from the Indian TV show Shaktimaan. He is associating himself with something evil. Booze is his shrap, or curse."
+          "meaning": "Reference to the villain Kilvish from Shaktimaan. 'Shraap' means Curse. He calls himself a ghostly curse."
         }
       ]
     },
@@ -490,7 +490,7 @@ export const khoon: Song = {
           "text": "ਿੰਨੀਆਾਂ ਪੇਟੀਆਾਂ ਉੱਡਗੀ club ਵਿਚ",
           "keyword": "ਵਿਚ",
           "type": "Slang",
-          "meaning": "Slang for bitch"
+          "meaning": "Inside/In. 'Club vich' means 'In the club'."
         }
       ]
     },
@@ -762,7 +762,7 @@ export const khoon: Song = {
           "text": "ਮੋਹਾਲੀ, ਮੇਰਾ ਹਾਸਤਖਸ਼ਾਰ",
           "keyword": "ਹਾਸਤਖਸ਼ਾਰ",
           "type": "Slang",
-          "meaning": "Spoon for weed"
+          "meaning": "Signature/Autograph. He is saying Mohali is his signature."
         }
       ]
     }

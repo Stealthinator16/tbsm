@@ -337,7 +337,7 @@ export const fanne_khan: Song = {
         {
           "keyword": "चूतिये",
           "type": "Slang",
-          "meaning": "Lies or liars. (Hindi: Jhootheye)"
+          "meaning": "Idiots, fools, or assholes. (Hindi)"
         }
       ]
     },
@@ -522,7 +522,7 @@ export const fanne_khan: Song = {
         {
           "keyword": "Meen",
           "type": "Slang",
-          "meaning": "Delhi slang meaning 'I' or 'Me'."
+          "meaning": "Refers to 'Meen', Yungsta's critically acclaimed album/alter-ego."
         }
       ]
     },

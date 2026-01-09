@@ -246,12 +246,7 @@ export const taakat: Song = {
       "translation": "Hot shit, high power socket.",
       "explanation": "Metaphor for their explosive energy and 'electrifying' music.",
       "annotations": [
-        {
-          "text": "और सरेआम road पे moshpit",
-          "keyword": "Moshpit",
-          "type": "Cultural",
-          "meaning": "Reference to a moshpit, indicating their performances create energetic and chaotic environments."
-        }
+
       ]
     },
     {
@@ -260,12 +255,7 @@ export const taakat: Song = {
       "translation": "Where all did my mind wander?",
       "explanation": "A moment of introspection, perhaps distracted by the chaos of success.",
       "annotations": [
-        {
-          "text": "Hot shit, high power socket",
-          "keyword": "High power socket",
-          "type": "Metaphor",
-          "meaning": "Symbolizes their music as being extremely energetic and impactful."
-        }
+
       ]
     },
     {

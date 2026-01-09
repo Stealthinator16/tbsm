@@ -16,7 +16,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Sez on the beat",
-          "type": "Producer Tag"
+          "type": "Reference",
+          "meaning": "Sez on the Beat is a popular Indian music producer, known for his work in the Indian Hip Hop scene. The phrase is a producer tag, announcing his involvement in the track."
         }
       ]
     },
@@ -28,7 +29,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Launde",
-          "type": "Slang (Boys/Guys)"
+          "type": "Slang",
+          "meaning": "\"Launde\" (Hindi) means boys or guys. In this context, it refers to young men who are acting recklessly or overconfident."
         }
       ]
     },
@@ -68,7 +70,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "D-N-D",
-          "type": "Abbreviation"
+          "type": "Slang",
+          "meaning": "D-N-D stands for 'Do Not Disturb'. It means the artist doesn't want to be called or bothered."
         }
       ]
     },
@@ -80,7 +83,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Bait",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "\"Bait\" refers to being lured or tempted by money. People are easily swayed and follow the money."
         },
         {
           "text": "Behti hawa me bahe peeche paise ke aur hote bait",
@@ -112,7 +116,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Maari laat",
-          "type": "Idiom (Rejected/Kicked out)"
+          "type": "Slang",
+          "meaning": "\"Maari laat\" (Hindi) literally means 'kicked'. Here, it implies that the artist has become successful enough to leave behind renting and afford their own place."
         }
       ]
     },
@@ -166,7 +171,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Dara Singh",
-          "type": "Cultural Reference"
+          "type": "Reference",
+          "meaning": "Dara Singh was a famous Indian wrestler and actor, known for his strength. The artist is comparing himself to Dara Singh, implying he is strong and powerful."
         }
       ]
     },
@@ -178,7 +184,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Pyaade",
-          "type": "Chess Term (Pawn)"
+          "type": "Metaphor",
+          "meaning": "\"Pyaade\" (Hindi) means pawn in chess. The artist is using a pawn-like move (usually weak) to checkmate or defeat a king. This is metaphorical, indicating outsmarting opponents."
         },
         {
           "text": "Chaal aisi pyaade se maara king",
@@ -196,7 +203,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "FPS",
-          "type": "Gaming Slang"
+          "type": "Slang",
+          "meaning": "FPS stands for 'Frames Per Second', a measure of performance in video games. Saying that the FPS is dropping suggests that the competition or their skill is faltering or performing poorly."
         }
       ]
     },
@@ -208,7 +216,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Ping",
-          "type": "Gaming Slang"
+          "type": "Slang",
+          "meaning": "\"Ping\" refers to the latency or delay in an online game. Saying that the rap game has no ping means it is smooth and immediate."
         }
       ]
     },
@@ -220,7 +229,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Paper",
-          "type": "Slang (Money)"
+          "type": "Slang",
+          "meaning": "\"Paper\" likely refers to money or contracts. The artist is saying that if you don't work hard, the money won't come to you automatically; you have to earn it."
         }
       ]
     },
@@ -239,7 +249,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Bling",
-          "type": "Hip-Hop Slang (Jewelry)"
+          "type": "Slang",
+          "meaning": "\"Bling\" refers to flashy jewelry or wealth. The artist is shining his wealth in the faces of his haters."
         }
       ]
     },
@@ -251,7 +262,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "OK Report",
-          "type": "Regional Slang"
+          "type": "Slang",
+          "meaning": "\"OK Report\" means everything is fine or in order. The artist is implying that he is doing well and everything is under control."
         }
       ]
     },
@@ -305,7 +317,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Kattar",
-          "type": "Extreme/Sharp"
+          "type": "Slang",
+          "meaning": "\"Kattar\" (Hindi) means staunch or hardcore. Here, it refers to a sharp or aggressive tongue/way of speaking."
         },
         {
           "text": "Badhi kattar hai zabaan to pohoche thais",
@@ -414,7 +427,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Ace",
-          "type": "Sports Metaphor"
+          "type": "Metaphor",
+          "meaning": "\"Ace\" refers to a winning serve in tennis. It means that he is accurate and excellent in everything he does."
         },
         {
           "text": "Durusti Daalu harr service ace",
@@ -439,7 +453,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Arab",
-          "type": "Metaphor for Wealth"
+          "type": "Slang",
+          "meaning": "\"Arab\" refers to having extravagant or excessively luxurious tastes, symbolizing extreme wealth."
         }
       ]
     },
@@ -570,7 +585,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Vishwaasghaati",
-          "type": "Formal Hindi (Traitor/Backstabber)"
+          "type": "Slang",
+          "meaning": "\"Vishwaasghaati\" (Hindi) means traitor or someone who betrays trust."
         },
         {
           "text": "Khalu mai jitni kasme bhi maa ki",
@@ -672,7 +688,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Rehepte",
-          "type": "Slang (Slaps)"
+          "type": "Slang",
+          "meaning": "\"Rehepte\" probably refers to slaps or hits. It could be a slang term used in a specific region or community."
         },
         {
           "text": "Ye rapper hoke pamper beat pe hage",
@@ -704,7 +721,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Hage",
-          "type": "Slang (Shit)"
+          "type": "Slang",
+          "meaning": "\"Hage\" (Hindi) means to defecate or poop. The artist is suggesting that these rappers are making bad or weak music, comparable to pooping on the beat instead of rapping well on it."
         }
       ]
     },
@@ -716,7 +734,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Huggies",
-          "type": "Brand Reference"
+          "type": "Slang",
+          "meaning": "\"Huggies\" is a brand of diapers. The line is saying that they are not babies and do not need to be coddled."
         },
         {
           "text": "Ye hai slow-mo dard ye hai Max Payne",
@@ -741,7 +760,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Max Payne",
-          "type": "Gaming Reference"
+          "type": "Reference",
+          "meaning": "Max Payne is a video game character known for his slow-motion gunfights and dark, gritty story. The reference suggests the pain and hardship are slowed down and prolonged, making it more intense."
         }
       ]
     },
@@ -774,7 +794,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Chuninde",
-          "type": "Formal Hindi (Chosen/Select)"
+          "type": "Slang",
+          "meaning": "\"Chuninde\" (Hindi) means selected or chosen. The line questions whether they are true players or just a select few."
         },
         {
           "text": "comprende?",
@@ -792,7 +813,8 @@ export const toh_kya: Song = {
       "annotations": [
         {
           "keyword": "Comprende",
-          "type": "Spanish Loanword"
+          "type": "Slang",
+          "meaning": "\"Comprende\" (Spanish) means 'understand?'. It's a rhetorical question asking if the listener understands the message."
         }
       ]
     },

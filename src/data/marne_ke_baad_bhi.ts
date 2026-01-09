@@ -15,7 +15,8 @@ export const marne_ke_baad_bhi: Song = {
       "annotations": [
         {
           "keyword": "Saanso ke saath bhi",
-          "type": "Reference"
+          "type": "Phrase",
+          "meaning": "Even with breath (while alive); a phrase emphasizing persistence and presence both in life and death."
         }
       ]
     },
@@ -64,7 +65,7 @@ export const marne_ke_baad_bhi: Song = {
           "text": "Dosto pe chudakte jaan",
           "keyword": "Chudakte Jaan",
           "type": "Slang",
-          "meaning": "Meaning sacrificing or being extremely devoted to friends. Implies a strong bond of loyalty."
+          "meaning": "Idiom 'Jaan Chidakna' means to be willing to sacrifice one's life for someone."
         }
       ]
     },
@@ -162,7 +163,7 @@ export const marne_ke_baad_bhi: Song = {
           "text": "To jawab ho tera jobhi bas hona chahiye vo sacha",
           "keyword": "Sacha",
           "type": "Value",
-          "meaning": "Emphasis on the importance of honesty and authenticity in relationships and communication."
+          "meaning": "Honest/True."
         }
       ]
     },
@@ -245,7 +246,7 @@ export const marne_ke_baad_bhi: Song = {
           "text": "poora sau",
           "keyword": "Poora Sau",
           "type": "Slang",
-          "meaning": "Means 100%, giving your full effort"
+          "meaning": "Full 100%. Giving total effort."
         }
       ]
     },
@@ -257,7 +258,8 @@ export const marne_ke_baad_bhi: Song = {
       "annotations": [
         {
           "keyword": "1/2 Seedhe maut",
-          "type": "Identity"
+          "type": "Reference",
+          "meaning": "Encore ABJ, one half of the hip-hop duo Seedhe Maut."
         }
       ]
     },
@@ -276,11 +278,13 @@ export const marne_ke_baad_bhi: Song = {
       "annotations": [
         {
           "keyword": "saahil bhai",
-          "type": "Shoutout"
+          "type": "Reference",
+          "meaning": "Likely referring to Saahil Sharma, a close associate or friend of Seedhe Maut."
         },
         {
           "keyword": "apoorva",
-          "type": "Shoutout"
+          "type": "Reference",
+          "meaning": "Likely referring to a close associate or friend of Seedhe Maut."
         }
       ]
     },
@@ -313,7 +317,8 @@ export const marne_ke_baad_bhi: Song = {
       "annotations": [
         {
           "keyword": "cypher",
-          "type": "Hip-Hop Culture"
+          "type": "Culture",
+          "meaning": "An informal gathering of rappers, beatboxers, and/or dancers in a circle, improvising and showcasing their skills."
         }
       ]
     },
@@ -353,7 +358,8 @@ export const marne_ke_baad_bhi: Song = {
       "annotations": [
         {
           "keyword": "saanp",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Snakes. Metaphor for traitors/fake friends."
         }
       ]
     },
@@ -372,7 +378,8 @@ export const marne_ke_baad_bhi: Song = {
       "annotations": [
         {
           "keyword": "Sez Yungi Rawal kode",
-          "type": "Artists"
+          "type": "Reference",
+          "meaning": "Referring to Sez On The Beat (Sez), Yungi (Prabh Deep), Rawal and Kode, all influential figures and producers in the Indian hip-hop scene, acknowledging them as mentors or influential figures."
         }
       ]
     },
@@ -384,7 +391,8 @@ export const marne_ke_baad_bhi: Song = {
       "annotations": [
         {
           "keyword": "18/9",
-          "type": "Area Code"
+          "type": "Place",
+          "meaning": "Refers to Delhi pincodes 110018 (West Delhi) and 110009 (North West Delhi)."
         }
       ]
     },
@@ -411,7 +419,7 @@ export const marne_ke_baad_bhi: Song = {
           "text": "kode guru",
           "keyword": "Kode Guru",
           "type": "Slang",
-          "meaning": "Kode likely meaning 'hardcore' or 'real'. Guru means teacher or guide, together implying a significant influence of these people."
+          "meaning": "Refers to MC Kode, a battle rapper and influential figure in the Delhi underground scene who mentored many artists."
         }
       ]
     },
@@ -444,7 +452,8 @@ export const marne_ke_baad_bhi: Song = {
       "annotations": [
         {
           "keyword": "bawe",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Brothers/Friends."
         }
       ]
     },
@@ -463,7 +472,8 @@ export const marne_ke_baad_bhi: Song = {
       "annotations": [
         {
           "keyword": "hokage",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "Referring to the leader of a village in the anime Naruto; metaphorically used to represent top figures or leaders in the Delhi hip-hop scene. Implying there are three prominent figures."
         }
       ]
     },
@@ -552,7 +562,8 @@ export const marne_ke_baad_bhi: Song = {
       "annotations": [
         {
           "keyword": "SM nation",
-          "type": "Fanbase"
+          "type": "Reference",
+          "meaning": "Seedhe Maut's collective, or their fan base, used to assert dominance and claim their position at the top."
         }
       ]
     },
@@ -578,7 +589,8 @@ export const marne_ke_baad_bhi: Song = {
       "annotations": [
         {
           "keyword": "sez on the beat",
-          "type": "Producer"
+          "type": "Reference",
+          "meaning": "Refers to Sez On The Beat, a prominent music producer in the Indian hip-hop scene, known for his collaborations with Seedhe Maut and other artists."
         }
       ]
     },
@@ -639,7 +651,8 @@ export const marne_ke_baad_bhi: Song = {
       "annotations": [
         {
           "keyword": "Nayaab",
-          "type": "Album Title"
+          "type": "Hindi",
+          "meaning": "Rare, unique, or precious (Hindi/Urdu). Used to describe the duo's talent and impact."
         }
       ]
     },
@@ -686,7 +699,8 @@ export const marne_ke_baad_bhi: Song = {
       "annotations": [
         {
           "keyword": "lafango",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "Hooligans/Ruffians."
         }
       ]
     },

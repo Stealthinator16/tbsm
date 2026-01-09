@@ -615,7 +615,7 @@ export const kohra: Song = {
           "text": "Jotey bhi dete ni saath ab",
           "keyword": "Jotey",
           "type": "Slang",
-          "meaning": "'Shoes' - meaning even closest companions or tools are failing him now."
+          "meaning": "Joints (Marijuana). Saying even getting high isn't helping anymore."
         }
       ]
     },

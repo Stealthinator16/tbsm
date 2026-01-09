@@ -232,7 +232,7 @@ export const bas_jhut: Song = {
         {
           "keyword": "भण्ड",
           "type": "Hindi Slang",
-          "meaning": "Bhand: Fool, Idiot, someone easily manipulated."
+          "meaning": "Bhand: Intoxicated/Stoned. 'Numb thoda bhand' means numb and a little stoned."
         },
         {
           "keyword": "numb",

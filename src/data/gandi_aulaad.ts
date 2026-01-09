@@ -582,7 +582,7 @@ export const gandi_aulaad: Song = {
           "text": "Nani boli cheenu ko to fikkar",
           "keyword": "Cheenu",
           "type": "Reference",
-          "meaning": "'Cheenu' is one of the members of Seedhe Maut. This line shows their grandmother acknowledging their concern, however faint, for their well-being."
+          "meaning": "Cheenu - Calm's childhood nickname used by his grandmother/family. Shows the personal, intimate connection with family members."
         }
       ]
     },

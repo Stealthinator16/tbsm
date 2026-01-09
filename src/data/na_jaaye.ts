@@ -15,7 +15,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Dheere",
-          "type": "Adverb"
+          "type": "Hindi/Common Word",
+          "meaning": "Slowly. Implies to take things easy, to not rush."
         }
       ]
     },
@@ -27,7 +28,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Sci-Fi",
-          "type": "Metaphor"
+          "type": "Reference/Genre",
+          "meaning": "Science Fiction. Used here to describe their life as futuristic, unconventional, and perhaps surreal."
         }
       ]
     },
@@ -46,7 +48,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Jayaz",
-          "type": "Urdu word"
+          "type": "Hindi/Urdu",
+          "meaning": "Justified, legitimate, or valid. Referring to the legitimacy or reason behind the anger."
         }
       ]
     },
@@ -58,7 +61,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Keeda",
-          "type": "Slang"
+          "type": "Hindi/Figurative",
+          "meaning": "A worm or insect. Figuratively, it represents an inner turmoil, a nagging feeling, or an obsession eating away at someone."
         }
       ]
     },
@@ -140,7 +144,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Vehmi",
-          "type": "Hindi/Urdu"
+          "type": "Hindi",
+          "meaning": "Paranoid or delusional. Someone who is suspicious and imagines things."
         }
       ]
     },
@@ -173,7 +178,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Admara",
-          "type": "Adjective"
+          "type": "Hindi",
+          "meaning": "Half-dead or near death. Suggests emotional or mental exhaustion."
         }
       ]
     },
@@ -297,7 +303,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Tuco",
-          "type": "Pop Culture"
+          "type": "Reference/Pop Culture",
+          "meaning": "Likely a reference to the character Tuco Salamanca from the TV show *Breaking Bad*. He is known for his volatile and unpredictable nature. Here, it suggests relationships are breaking off unpredictably and violently."
         }
       ]
     },
@@ -309,7 +316,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Lawde",
-          "type": "Slang"
+          "type": "Slang/Hindi",
+          "meaning": "A vulgar Hindi slang term, equivalent to 'dickheads' or 'fools'. Used to express disdain for people they've left behind."
         },
         {
           "text": "Dhool chaat",
@@ -404,7 +412,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Bitch move",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "An underhanded, disloyal, or cowardly action."
         }
       ]
     },
@@ -444,7 +453,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "IG",
-          "type": "Social Media"
+          "type": "Acronym/Technology",
+          "meaning": "Abbreviation for Instagram, a popular social media platform."
         }
       ]
     },
@@ -512,7 +522,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Sui",
-          "type": "Metaphor"
+          "type": "Hindi/Common Word",
+          "meaning": "Needle. In this context, referring to the hands of a clock. Implying they are losing track of time, or time is meaningless to them."
         }
       ]
     },
@@ -524,7 +535,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Khaaj",
-          "type": "Slang"
+          "type": "Hindi/Figurative",
+          "meaning": "Itch. It can also imply a persistent urge or desire. In this context, it could relate to addiction or a compulsion they are fighting."
         }
       ]
     },
@@ -557,7 +569,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Chui mui",
-          "type": "Metaphor"
+          "type": "Hindi/Figurative",
+          "meaning": "A 'touch-me-not' plant or a sensitive person. The term 'chui mui' describes someone who is easily offended or hurt."
         }
       ]
     },
@@ -625,7 +638,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Jhalla",
-          "type": "Hindi Slang"
+          "type": "Hindi/Slang",
+          "meaning": "Crazy, mad, or eccentric."
         }
       ]
     },
@@ -672,7 +686,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Chita",
-          "type": "Cultural"
+          "type": "Hindi/Culture",
+          "meaning": "Funeral pyre. Symbolic of death, end of life or the end of something."
         }
       ]
     },
@@ -726,7 +741,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Maya",
-          "type": "Philosophical"
+          "type": "Hindi/Religious",
+          "meaning": "Illusion, referring to the illusory nature of the world or deceptive appearances."
         }
       ]
     },
@@ -738,7 +754,8 @@ export const na_jaaye: Song = {
       "annotations": [
         {
           "keyword": "Siddhant",
-          "type": "Hindi"
+          "type": "Hindi",
+          "meaning": "Principles or Ideologies. This refers to the core values a person lives by."
         }
       ]
     },
@@ -756,10 +773,9 @@ export const na_jaaye: Song = {
       "explanation": "Graphic metaphor for extreme hypocrisy and fickle loyalty.",
       "annotations": [
         {
-          "text": "Jhoot bolu maut aa jaye",
-          "keyword": "Maut aa jaye",
-          "type": "Idiom",
-          "meaning": "A common expression meaning, 'I'll die if I lie.' Emphasizing the truthfulness of what is being said."
+          "keyword": "moot",
+          "type": "Slang/NSFW",
+          "meaning": "Piss/Urine. Metaphor for disrespect."
         }
       ]
     },

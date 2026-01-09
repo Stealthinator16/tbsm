@@ -163,12 +163,7 @@ export const ktmn: Song = {
       "translation": "I spoil my friends in the wrong way.",
       "explanation": "A self-aware comment on his rebellious or 'bad influence' persona.",
       "annotations": [
-        {
-          "text": "जैसी ये ज़िन्दगी जीरा मैं rockstar हूँ लड़को को याद दिलाऊं 70s",
-          "keyword": "70s rockstar",
-          "type": "Reference",
-          "meaning": "Comparing their current 'rockstar' lifestyle to the iconic imagery of 70s rockstars, highlighting fame, rebellion, and a larger-than-life persona."
-        }
+
       ]
     },
     {
@@ -189,12 +184,7 @@ export const ktmn: Song = {
       "translation": "Suffered a lot of pain, but now that we've come forward...",
       "explanation": "Acknowledging past trauma while looking at the progress they've made.",
       "annotations": [
-        {
-          "text": "माँ देख के रो गयी ये beemer यहाँ universe कररही कुछ अलग ही",
-          "keyword": "Beemer",
-          "type": "Reference",
-          "meaning": "Referring to a BMW car, symbolizing success and financial achievement."
-        }
+
       ]
     },
     {
@@ -215,12 +205,7 @@ export const ktmn: Song = {
       "translation": "If I were to lock your lips with mine...",
       "explanation": "Encore shifts the tone to a romantic or intimate interaction.",
       "annotations": [
-        {
-          "text": "मेरे लिए Rap और ये music है Ketamine",
-          "keyword": "Ketamine",
-          "type": "Metaphor",
-          "meaning": "Likening their music to Ketamine, implying it's a powerful, perhaps dissociative, experience.  Could also be a reference to its use in managing pain, suggesting their music helps them cope."
-        }
+
       ]
     },
     {

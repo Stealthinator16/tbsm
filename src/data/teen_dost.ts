@@ -257,12 +257,7 @@ export const teen_dost: Song = {
       "translation": "Today three friends will win",
       "explanation": "Chorus hook.",
       "annotations": [
-        {
-          "text": "Teeno bhai yaha been ballin'",
-          "keyword": "Ballin'",
-          "type": "Slang",
-          "meaning": "Ballin' means living a luxurious, successful lifestyle."
-        }
+
       ]
     },
     {

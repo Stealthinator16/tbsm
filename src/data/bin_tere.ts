@@ -50,7 +50,7 @@ export const bin_tere: Song = {
         {
           "keyword": "बंदी",
           "type": "Hindi",
-          "meaning": "A drop, often referring to a raindrop. Here, likely metaphorically referring to someone rare and precious."
+          "meaning": "Girl/Woman. Referring to his partner."
         }
       ]
     },
@@ -60,11 +60,7 @@ export const bin_tere: Song = {
       "translation": "If she longs for it, I'd blow a crore.",
       "explanation": "He is willing to spend immense wealth (a 'khoka') just to satisfy her desires.",
       "annotations": [
-        {
-          "keyword": "खोका",
-          "type": "Hindi",
-          "meaning": "A child, kid, or young person."
-        },
+
         {
           "text": "तरपे, उड़ा दूँ खोका",
           "keyword": "Udaa doon khoka",
@@ -357,7 +353,7 @@ export const bin_tere: Song = {
         {
           "keyword": "Dalli",
           "type": "Place",
-          "meaning": "A shortened, colloquial form of Delhi, the capital city of India."
+          "meaning": "Slang/Name for a girl. In this verse, Bhaskar refers to a girl named Dalli (or using it as slang for a girl)."
         }
       ]
     },
@@ -510,7 +506,7 @@ export const bin_tere: Song = {
         {
           "keyword": "बावे",
           "type": "Hindi",
-          "meaning": "Hundred"
+          "meaning": "Brother/Homie (Delhi slang)."
         }
       ]
     },

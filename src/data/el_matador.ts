@@ -30,7 +30,7 @@ export const el_matador: Song = {
         {
           "keyword": "sensi",
           "type": "Slang",
-          "meaning": "Slang for high-quality marijuana."
+          "meaning": "Refers to 'Sensitivity' (mouse sensitivity in gaming). Precision aiming."
         }
       ]
     },
@@ -339,7 +339,7 @@ export const el_matador: Song = {
         {
           "keyword": "दल्ले",
           "type": "Slang",
-          "meaning": "Dalle is an adjective which means that a person is 'jobless'."
+          "meaning": "Pimps, brokers, or middlemen. Also implies snitches or sellouts."
         },
         {
           "text": "Beato पे चढ़ता तो करता Autopsy",
@@ -494,7 +494,7 @@ export const el_matador: Song = {
         {
           "keyword": "भंडी",
           "type": "Language",
-          "meaning": "Bhandi (Hindi) is a very derogatory and disrespectful term. It's a strong insult."
+          "meaning": "Refers to being 'High' or 'Intoxicated' (Bhand). 'Bhandi-Bhandi mein' means while being high."
         }
       ]
     },

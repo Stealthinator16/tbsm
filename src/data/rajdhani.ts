@@ -16,7 +16,8 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Rajdhani",
-          "type": "Noun"
+          "type": "Place",
+          "meaning": "Hindi for 'Capital'. In this context, it refers to Delhi, the capital city of India, and the themes and experiences associated with it."
         }
       ]
     },
@@ -70,11 +71,13 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Khatte",
-          "type": "Slang (Local Pistol)"
+          "type": "Slang",
+          "meaning": "Country-made pistols (Slang). '96 ke khatte' likely refers to a specific batch or type of illegal weapon."
         },
         {
           "keyword": "Samadhi",
-          "type": "Metaphor (Meditation/Death)"
+          "type": "Culture",
+          "meaning": "Hindi for 'deep meditation' or 'absorption'. Here, it's used metaphorically, suggesting they are deeply engrossed in or resigned to the bitter realities."
         }
       ]
     },
@@ -135,7 +138,8 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Buchadkhana",
-          "type": "Noun (Slaughterhouse)"
+          "type": "Metaphor",
+          "meaning": "Hindi for 'slaughterhouse' or 'butcher shop'. Used metaphorically to represent a place of destruction or exploitation; the city turning into a place devoid of empathy."
         }
       ]
     },
@@ -161,7 +165,8 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Jamna",
-          "type": "Proper Noun (Yamuna River)"
+          "type": "Place",
+          "meaning": "Referring to the Yamuna River, a major river flowing through Delhi."
         }
       ]
     },
@@ -173,7 +178,8 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Jamnapari",
-          "type": "Regional Slang"
+          "type": "Reference",
+          "meaning": "People from across the Yamuna (East Delhi). Often used stereotypically to describe 'rough' or 'uncouth' people."
         }
       ]
     },
@@ -187,7 +193,7 @@ export const rajdhani: Song = {
           "text": "Jamnapari nasal teri akal me ni aati to tu ghoom jitni dilli tu dilli jaane na aadhi",
           "keyword": "Jamnapari",
           "type": "Reference",
-          "meaning": "Jamnapari is a breed of goat, and Delhi's Yamuna river is highly polluted. It's a metaphor for ignorance; if you don't understand basic issues, you don't know the city at all."
+          "meaning": "People from East Delhi (Trans-Yamuna). It's a metaphor for the real, gritty Delhi."
         }
       ]
     },
@@ -199,7 +205,8 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Inqualaab",
-          "type": "Noun (Revolution)"
+          "type": "Culture",
+          "meaning": "Urdu/Hindi for 'Revolution'. A call for revolution and change."
         }
       ]
     },
@@ -225,7 +232,8 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Jageer",
-          "type": "Noun (Estate/Property)"
+          "type": "Metaphor",
+          "meaning": "Hindi for 'estate' or 'fiefdom'. Implying that Delhi has become controlled by or is the property of religion and politics, indicating corruption and misuse of power."
         },
         {
           "text": "Vo jo ho chuke shaheed khaake goli ya faansi",
@@ -453,11 +461,13 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Chandni Chowk",
-          "type": "Place Name"
+          "type": "Place",
+          "meaning": "A historically significant and bustling market area in Old Delhi known for its food, commerce, and chaotic energy."
         },
         {
           "keyword": "Pahadi",
-          "type": "Demonym"
+          "type": "Culture",
+          "meaning": "Hindi for 'from the hills' or 'hill person'. Suggests the mother is from a hilly region, potentially indicating different cultural backgrounds or upbringing than someone solely from Delhi."
         }
       ]
     },
@@ -504,7 +514,8 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Kitt",
-          "type": "Haryanvi Slang (Where)"
+          "type": "Slang",
+          "meaning": "Delhi slang, short for 'kya scene hai?', meaning 'What's up?' or 'What's going on?'"
         }
       ]
     },
@@ -544,7 +555,8 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Shaani",
-          "type": "Slang (Clever/Arrogant)"
+          "type": "Slang",
+          "meaning": "Cunning/Oversmart. 'Shaani' means clever in a manipulative way."
         }
       ]
     },
@@ -640,7 +652,8 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Chillum",
-          "type": "Object (Pipe)"
+          "type": "Slang",
+          "meaning": "A traditional clay pipe used for smoking cannabis or other substances. Implies casual drug use or relaxation."
         }
       ]
     },
@@ -652,11 +665,13 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Khoko",
-          "type": "Noun (Small Shops)"
+          "type": "Slang",
+          "meaning": "Small wooden kiosks/stalls/shops. NOT currency here."
         },
         {
           "keyword": "Rohini",
-          "type": "Place Name"
+          "type": "Place",
+          "meaning": "A locality in Delhi."
         }
       ]
     },
@@ -696,7 +711,8 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Tepa",
-          "type": "Slang (To pour/fix)"
+          "type": "Slang",
+          "meaning": "Hindi for 'press' or 'suppress'. In this context, it means he suppressed his anger and didn't express it in his songs."
         }
       ]
     },
@@ -736,7 +752,8 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Tamp",
-          "type": "Slang (Smoking/Rolling)"
+          "type": "Slang",
+          "meaning": "Jump over (Taap). 'Chatt taap ke' means jumping over roofs (parkour style or just climbing)."
         }
       ]
     },
@@ -790,7 +807,8 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Nawaabi",
-          "type": "Adjective (Royal)"
+          "type": "Culture",
+          "meaning": "Hindi for 'aristocratic' or 'like royalty'. It suggests that despite having modest means (three houses), they indulge in luxurious or extravagant habits."
         }
       ]
     },
@@ -886,7 +904,8 @@ export const rajdhani: Song = {
       "annotations": [
         {
           "keyword": "Sez",
-          "type": "Producer Name"
+          "type": "Reference",
+          "meaning": "A shoutout to Sez on the Beat, a very famous Indian hip-hop music producer."
         }
       ]
     }

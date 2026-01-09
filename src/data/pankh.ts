@@ -172,7 +172,7 @@ export const pankh: Song = {
           "text": "धप्पा",
           "keyword": "Dhappa",
           "type": "Slang",
-          "meaning": "Could refer to being cornered, stuck or surprised in a negative way."
+          "meaning": "Literally 'Surprise'. Refers to the sudden realization of being trapped or the sudden arrival of death/failure in a stifling city."
         }
       ]
     },
@@ -221,7 +221,7 @@ export const pankh: Song = {
           "text": "ये ध्यान है जड़ हैं मर रहे लोग (फँस जा)",
           "keyword": "Fans Ja",
           "type": "Slang",
-          "meaning": "Saying that the 'fans are leaving' indicates a loss of support or a decline in popularity, reflecting a sense of detachment or fading relevance."
+          "meaning": "Literally 'Get stuck/trapped' (Phans ja). 'Jad hain mar rahe log' means people are stuck like roots and dying."
         }
       ]
     },
@@ -235,7 +235,7 @@ export const pankh: Song = {
           "text": "ले बहन वो पहन makeup लगा (थम जा)",
           "keyword": "Tham Ja",
           "type": "Slang",
-          "meaning": "'Tham ja' means 'stop' or 'wait'. It could be a call to pause and reflect."
+          "meaning": "'Tham ja' means 'stop' or 'pause'. A call to slow down the makeup/facade."
         }
       ]
     },
@@ -265,7 +265,7 @@ export const pankh: Song = {
           "text": "पंख हैं तो पूरे फैला, बस क्या?",
           "keyword": "Pankh Hai To Pure Fail",
           "type": "Metaphor",
-          "meaning": "If there are wings, then why the utter failure? This rhetorical question highlights the contradiction between potential and actual outcomes, questioning why opportunities or abilities don't translate into success."
+          "meaning": "Literally 'Spread them fully (Faila)'. Questioning why one wouldn't use their potential (wings) if they have them. Not 'Fail'."
         }
       ]
     },

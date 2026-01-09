@@ -29,7 +29,8 @@ export const w: Song = {
       "annotations": [
         {
           "keyword": "Hurricane",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "Describing something as highly destructive and energetic, akin to a hurricane's force."
         }
       ]
     },
@@ -41,7 +42,8 @@ export const w: Song = {
       "annotations": [
         {
           "keyword": "fresh",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hindi: 'Aaj kal itna zyada fresh' translates to 'These days, so much fresh'. In this context, 'fresh' means cool, stylish, and original."
         }
       ]
     },
@@ -53,7 +55,8 @@ export const w: Song = {
       "annotations": [
         {
           "keyword": "hash",
-          "type": "Substance"
+          "type": "Slang",
+          "meaning": "Hindi: 'Backstage hai hawa mein itna zyada hash' translates to 'There's so much hash in the air backstage'. Hash refers to hashish, a cannabis product."
         }
       ]
     },
@@ -65,7 +68,8 @@ export const w: Song = {
       "annotations": [
         {
           "keyword": "crypto",
-          "type": "Finance"
+          "type": "Slang",
+          "meaning": "Payment partly in cryptocurrency, partly in physical money."
         }
       ]
     },
@@ -84,7 +88,8 @@ export const w: Song = {
       "annotations": [
         {
           "keyword": "ads",
-          "type": "Context"
+          "type": "Industry",
+          "meaning": "Referring to acting in commercials or advertisements, implying a move towards commercial success."
         },
         {
           "text": "अब करूं act ads में, they don't know how to act",
@@ -102,7 +107,8 @@ export const w: Song = {
       "annotations": [
         {
           "keyword": "art attack",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "Referring to an extremely creative and visually stunning artistic display, like an episode of the TV show 'Art Attack'."
         }
       ]
     },
@@ -114,7 +120,8 @@ export const w: Song = {
       "annotations": [
         {
           "keyword": "punches",
-          "type": "Rap Terminology"
+          "type": "Figurative",
+          "meaning": "Hindi: 'Kamzor dil ko punches dete heart attack' translates to 'Giving punches to the weak-hearted, causing a heart attack'. This refers to hard-hitting lyrics and impact."
         },
         {
           "text": "कमज़ोर दिल को punches देते heart attack",
@@ -181,11 +188,13 @@ export const w: Song = {
       "annotations": [
         {
           "keyword": "Biggie",
-          "type": "Artist"
+          "type": "Reference",
+          "meaning": "Referring to The Notorious B.I.G., a famous American rapper, implying wealth, style, and swagger."
         },
         {
           "keyword": "Versace",
-          "type": "Brand"
+          "type": "Brand",
+          "meaning": "Referring to the luxury Italian fashion brand, Versace. Signifies expensive taste and high-end fashion."
         },
         {
           "text": "नी था प्रेम सीखा Wayne से कि 'How to love?'",
@@ -210,7 +219,8 @@ export const w: Song = {
       "annotations": [
         {
           "keyword": "Wayne",
-          "type": "Artist"
+          "type": "Reference",
+          "meaning": "Referring to Lil Wayne, a famous American rapper, known for his unique style and often unconventional takes on love and relationships."
         },
         {
           "text": "डरे नाम से, हूँ इस game में मैं criminal",
@@ -249,7 +259,8 @@ export const w: Song = {
       "annotations": [
         {
           "keyword": "blinged up",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Covered in expensive jewelry and accessories, indicating wealth and status."
         }
       ]
     },
@@ -261,7 +272,8 @@ export const w: Song = {
       "annotations": [
         {
           "keyword": "Goa",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A state in India, known for its beaches, parties, and relaxed lifestyle. Suggests luxury and a high-end lifestyle."
         }
       ]
     },
@@ -329,7 +341,8 @@ export const w: Song = {
       "annotations": [
         {
           "keyword": "Made in Paris",
-          "type": "Fashion"
+          "type": "Brand",
+          "meaning": "Referring to something that is authentically made in Paris, implying high quality and luxury."
         },
         {
           "text": "अलग ही कटा ये piece of fabric",
@@ -452,7 +465,8 @@ export const w: Song = {
       "annotations": [
         {
           "keyword": "spirit bomb",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "Referring to a powerful attack from the Dragon Ball Z series, where energy is gathered from everyone to create a devastating blow. In this context, it signifies collective effort and a powerful combined force."
         }
       ]
     },

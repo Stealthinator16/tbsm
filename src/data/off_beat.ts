@@ -36,7 +36,8 @@ export const off_beat: Song = {
       "annotations": [
         {
           "word": "इज़हार",
-          "type": "Urdu/Hindi Vocabulary"
+          "type": "Hindi Translation",
+          "meaning": "Expression or confession of love (Urdu/Hindi)."
         }
       ]
     },
@@ -69,7 +70,8 @@ export const off_beat: Song = {
       "annotations": [
         {
           "word": "patient",
-          "type": "Wordplay/Double Entendre"
+          "type": "Hindi Metaphor",
+          "meaning": "Like a patient is lying cold in a hospital; a job (Naukri). This is in reference to feeling numb and stuck in a monotonous routine."
         },
         {
           "text": "जैसे कोई patient hospital में ढूँढ़ रहा है नौकरी (नौकरी)",
@@ -94,7 +96,8 @@ export const off_beat: Song = {
       "annotations": [
         {
           "word": "लंड",
-          "type": "Slang"
+          "type": "Hindi Translation/Slang",
+          "meaning": "Penis (Vulgar slang). Used here figuratively to mean 'Not at all' or 'I don't give a damn'."
         }
       ]
     },
@@ -106,7 +109,8 @@ export const off_beat: Song = {
       "annotations": [
         {
           "word": "on-beat/off-beat",
-          "type": "Metaphor"
+          "type": "Hindi Explanation/Musical Term",
+          "meaning": "Here, the fun is in walking on-beat, and the pain is in walking off-beat. On-beat refers to following the conventional rhythm, and off-beat means deviating from it."
         },
         {
           "text": "यहाँ फ़र्ज़ चलता on-beat और दर्द चलता off-beat",
@@ -124,7 +128,8 @@ export const off_beat: Song = {
       "annotations": [
         {
           "word": "बदतमीज़",
-          "type": "Vocabulary"
+          "type": "Hindi Translation/Slang",
+          "meaning": "Ill-mannered, rude, or disrespectful."
         }
       ]
     },
@@ -164,7 +169,8 @@ export const off_beat: Song = {
       "annotations": [
         {
           "word": "कांधा",
-          "type": "Metaphor"
+          "type": "Hindi Translation",
+          "meaning": "Shoulder. 'Use chahiye Kandha' implies she needs emotional support."
         }
       ]
     },
@@ -204,7 +210,8 @@ export const off_beat: Song = {
       "annotations": [
         {
           "word": "कलम",
-          "type": "Metaphor"
+          "type": "Hindi Translation",
+          "meaning": "Pen. Referring to his writing/lyrics."
         },
         {
           "text": "Low-key है दोनों में ego और है नहीं तू trophy, यह चीज़ ना भूलना",
@@ -278,7 +285,8 @@ export const off_beat: Song = {
       "annotations": [
         {
           "word": "Bengali",
-          "type": "Language"
+          "type": "Bengali Translation",
+          "meaning": "Many things seem to be coming, there is no time."
         }
       ]
     },
@@ -353,7 +361,8 @@ export const off_beat: Song = {
       "annotations": [
         {
           "word": "ল্যাধ (Lyadh)",
-          "type": "Slang/Culture"
+          "type": "Bengali Translation",
+          "meaning": "Laziness, lethargy (Bengali slang). Feeling too lazy to do anything."
         },
         {
           "text": "অনেক দিন হলাম high, এত বেশি মাঝে লাগলো I'ma die",

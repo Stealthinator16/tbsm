@@ -15,7 +15,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Khoke",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Empty shells.\" Refers to people who are superficial or lacking substance. (Hindi)"
         }
       ]
     },
@@ -27,7 +28,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Mukhaute",
-          "type": "Keyword"
+          "type": "Slang",
+          "meaning": "\"Losing themselves under masks.\" Implying people are fake and hiding their true selves. (Hindi)"
         }
       ]
     },
@@ -46,7 +48,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Muh chodi",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Whips on the mouth.\" Means harsh words or criticism. (Hindi)"
         }
       ]
     },
@@ -58,7 +61,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Godde",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Knee on knee.\"  Suggests pressure or dominance. (Hindi)"
         }
       ]
     },
@@ -70,7 +74,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Jotte",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Jotte/Joint - Slang for marijuana cigarettes. Lighting joint after joint."
         }
       ]
     },
@@ -89,11 +94,13 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Jai-veeru",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "\"Jai-Veeru pair, write like Sholay.\"  Refers to a strong and iconic partnership, like the characters Jai and Veeru from the classic Bollywood film *Sholay*. (Hindi)"
         },
         {
           "word": "Sholey",
-          "type": "Pun"
+          "type": "Culture",
+          "meaning": "*Sholay* is a very famous and influential Bollywood film known for its themes of friendship and revenge."
         },
         {
           "text": "Jai-veeru jode jo likhe vo sholey",
@@ -111,7 +118,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Lode",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Will put you on the dick.\" A vulgar slang term, meaning to be severely screwed over or defeated. (Hindi)"
         }
       ]
     },
@@ -137,7 +145,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Tole",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Here, they don't filter or weigh, they just weigh.\" Suggests a lack of nuance or fairness in judgment; things are taken at face value. (Hindi)"
         }
       ]
     },
@@ -170,7 +179,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Pasha",
-          "type": "Title"
+          "type": "Slang",
+          "meaning": "\"You are my queen, I am your king.\" An expression of love and devotion. (Hindi/Urdu)"
         }
       ]
     },
@@ -182,7 +192,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Sheh",
-          "type": "Term"
+          "type": "Metaphor",
+          "meaning": "\"She keeps safe with a check(mate).\" She protects him from being checkmated in life, potentially metaphorically referring to his chess moves as decisions."
         }
       ]
     },
@@ -229,7 +240,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Lala",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Bro, what's the need to live?\" Rhetorical question expressing despair or existential questioning. (Hindi)"
         }
       ]
     },
@@ -269,7 +281,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Billi",
-          "type": "Idiom"
+          "type": "Metaphor",
+          "meaning": "\"Here, the cat went to Hajj.\" Ironic statement implying hypocrisy.  Someone doing something religious/righteous while still engaging in questionable behavior. Hajj is a pilgrimage to Mecca in Islam. (Hindi)"
         },
         {
           "text": "billi nikli hajj par",
@@ -406,7 +419,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Type beat",
-          "type": "Industry Term"
+          "type": "Slang",
+          "meaning": "\"And on my beat, I don't look for a type beat.\" Meaning they don't rely on generic, pre-made beats; they create their own original sound. (Hindi/English)"
         }
       ]
     },
@@ -460,7 +474,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Taekwondo",
-          "type": "Metaphor"
+          "type": "Metaphor",
+          "meaning": "\"My flow does taekwondo.\" Comparing their rap flow to the martial art of Taekwondo, suggesting it's powerful, precise, and impactful."
         }
       ]
     },
@@ -493,7 +508,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Kobe",
-          "type": "Reference"
+          "type": "Reference",
+          "meaning": "\"Buzzer went off, beat hit, ass-ripping 3 'Kobe'.\" Refers to scoring three consecutive times like Kobe Bryant, metaphorically representing a series of successful hits or disses in the rap battle.  (Basketball reference)."
         }
       ]
     },
@@ -505,7 +521,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Curry",
-          "type": "Reference"
+          "type": "Reference",
+          "meaning": "\"Aim like Curry, high temperature, awesome.\" Reference to Steph Curry's accurate shooting and comparing it to how hot his shots are. (Basketball reference). 'Sheesh' is an exclamation of amazement or approval."
         }
       ]
     },
@@ -531,7 +548,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Pencil",
-          "type": "Slang/Joke"
+          "type": "Slang",
+          "meaning": "\"Or else, they are dicks call them pencil.\" Meaning if they are useless or weak, they can be called a pencil i.e easily broken."
         }
       ]
     },
@@ -585,7 +603,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Bakchodi",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Your bullshit doesn't make the bags get smaller.\" Implying that talk is cheap and doesn't affect their wealth or success. (Hindi/English)"
         }
       ]
     },
@@ -674,7 +693,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Maam",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Cool down, be calm, then what do you say man/bro.\" 'Maam' is Pune slang often meaning 'Mama' (Uncle) or just 'Man/Bro'."
         }
       ]
     },
@@ -700,7 +720,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Naad",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Don't come near my rhythm/tune, listen to my words.\" A warning to not interfere with their flow. (Hindi)"
         }
       ]
     },
@@ -719,7 +740,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Mandal",
-          "type": "Keyword"
+          "type": "Slang",
+          "meaning": "\"I'm cooking up something at every place like 'Mandal'.\" This means they are in a state of continuous creativity and action everywhere, with possible political undertones from the reference to 'Mandal'. (Hindi)"
         }
       ]
     },
@@ -794,7 +816,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Kaiku",
-          "type": "Slang"
+          "type": "Social Commentary",
+          "meaning": "\"Why do you suppress an underground artist?\" Questioning the act of hindering the growth of independent artists. (Hindi)"
         }
       ]
     },
@@ -806,7 +829,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Button",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Doesn't chew button.\" Means does not snitch. (Hindi)"
         }
       ]
     },
@@ -902,11 +926,13 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Opps",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"I'll fuck the opposition, everyone run away.\" A very aggressive statement about defeating their enemies. (Marathi)"
         },
         {
           "word": "Zhavnar",
-          "type": "Marathi Slang"
+          "type": "Culture",
+          "meaning": "Marathi is a language spoken predominantly in the state of Maharashtra, India."
         }
       ]
     },
@@ -918,7 +944,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Item",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Ask your girl who was on her last night.\" Suggesting infidelity by another person to the Item."
         }
       ]
     },
@@ -965,7 +992,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Bachkan",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Only pushes children.\" It could be interpreted as only fooling or deceiving the naive. (Hindi)"
         }
       ]
     },
@@ -998,7 +1026,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Avdat nai mala",
-          "type": "Marathi"
+          "type": "Expression",
+          "meaning": "\"Heyyyy, I don't like it.\" Simple statement expressing dislike. (Marathi)"
         }
       ]
     },
@@ -1031,7 +1060,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "Gunna",
-          "type": "Artist"
+          "type": "Reference",
+          "meaning": "\"I was listening to, Gunna.\" Reference to the American rapper Gunna."
         }
       ]
     },
@@ -1071,7 +1101,8 @@ export const nanchaku: Song = {
       "annotations": [
         {
           "word": "P Town",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "\"P Town Baby (Pew!)\"  Likely refers to their hometown, Delhi (Pitampura). The (Pew!) is just a sound effect."
         }
       ]
     },

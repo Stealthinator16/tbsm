@@ -81,8 +81,8 @@ export const ice: Song = {
       "annotations": [
         {
           "keyword": "LV",
-          "type": "Reference",
-          "meaning": "LV stands for Louis Vuitton, a luxury brand. It suggests hiding a knife within a Louis Vuitton product."
+          "type": "Metaphor",
+          "meaning": "Metaphor using the luxury 'LV' (Louis Vuitton) bag to hold a 'knife', symbolizing the mix of high ambition and dangerous roots."
         }
       ]
     },
@@ -136,7 +136,7 @@ export const ice: Song = {
         {
           "keyword": "झांझ",
           "type": "Culture",
-          "meaning": "'Jhaanjh' translates to 'cymbals'. It likely refers to a chaotic or noisy environment where the 'gang' sits."
+          "meaning": "'Jhaanjh' here is slang for being 'high', 'stoned', or 'intoxicated'. Creating a dazed state."
         }
       ]
     },
@@ -166,9 +166,9 @@ export const ice: Song = {
         },
         {
           "text": "करते जाए plan और cook",
-          "keyword": "cook",
-          "type": "Slang",
-          "meaning": "Suggests they are cooking up (creating/planning) something big or important, likely referring to their music career and future projects. In American slang it can also mean manufacturing drugs but given Seedhe Maut's subject matter, creation is more likely."
+          "keyword": "Tai-tai phiss",
+          "type": "Idiom",
+          "meaning": "Hindi idiom meaning to fail miserably or fizzle out despite big talk."
         }
       ]
     },
@@ -201,7 +201,7 @@ export const ice: Song = {
         {
           "keyword": "बावे",
           "type": "Culture",
-          "meaning": "'Baave' translates to 'wind'. Used to describe how things/he himself have changed over time."
+          "meaning": "Delhi slang for 'Brother' or 'Bro'."
         }
       ]
     },
@@ -234,7 +234,7 @@ export const ice: Song = {
         {
           "keyword": "फेंके",
           "type": "Slang",
-          "meaning": "'Phenke' translates to 'thrown'. Used to describe something or someone is cast aside."
+          "meaning": "'Phenke' means 'to throw', but in slang it means 'to brag', 'bluff', or 'exaggerate'."
         }
       ]
     },
@@ -267,7 +267,7 @@ export const ice: Song = {
         {
           "keyword": "कवि",
           "type": "Culture",
-          "meaning": "'Kavi' translates to 'poet'. It's used sarcastically in the lines, saying that 'poets' here do not say what they mean."
+          "meaning": "'Kavi' translates to 'poet'. Calm refers to himself as a poet, highlighting the lyrical depth of his craft."
         }
       ]
     },
@@ -376,7 +376,7 @@ export const ice: Song = {
         {
           "keyword": "फटरी",
           "type": "Slang",
-          "meaning": "'Phatari' translates to 'firecracker'. Used to describe they are a loud explosion."
+          "meaning": "'Phatna' or 'Phat rahi hai' is slang for being scared or terrified. They are telling him he writes only when he is scared/pressured."
         }
       ]
     },
@@ -502,7 +502,7 @@ export const ice: Song = {
         {
           "keyword": "घंटा",
           "type": "Slang",
-          "meaning": "'Ghanta' translates to 'bell'. Saying the person is not an 'afsos' or 'regret'."
+          "meaning": "'Ghanta' literally means 'bell', but is used as slang for 'Nothing' or to strongly negate something (i.e., they don't care at all)."
         }
       ]
     },

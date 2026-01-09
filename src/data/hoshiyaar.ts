@@ -561,7 +561,7 @@ export const hoshiyaar: Song = {
           "text": "Adarmkhori me luft hai",
           "keyword": "Adarmkhori",
           "type": "Slang",
-          "meaning": "Adarmkhori roughly translates to backstabbing, meaning pleasure can be found in betrayal or going against the norm."
+          "meaning": "'Adharm' means unrighteousness or sin. 'Adharmkhori' implies indulging in sinful or wicked activities."
         }
       ]
     },

@@ -133,7 +133,7 @@ export const dhoke: Song = {
         {
           "word": "Jote",
           "type": "Hindi",
-          "meaning": "Aaja mere paas aur jala jote\" translates to \"Come to me and burn shoes"
+          "meaning": "\"Aaja mere paas aur jala jote\" translates to \"Come to me and light up joints (marijuana)\"."
         }
       ]
     },
@@ -276,7 +276,7 @@ export const dhoke: Song = {
         {
           "word": "Daali",
           "type": "Drugs",
-          "meaning": "Cocaine is a strong stimulant most frequently used as a recreational drug."
+          "meaning": "\"Daali\" is slang, likely referring to a girl (doll) or a branch (connection). The line equates her effect to cocaine."
         },
         {
           "text": "खत्म करी सारी बातें चालू ghost face",

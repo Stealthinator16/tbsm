@@ -355,7 +355,7 @@ export const hanging_on: Song = {
         {
           "keyword": "Tatt",
           "type": "Slang/Hindi",
-          "meaning": "A colloquial shortening of 'tattva', meaning 'element' or 'essence'. Here, it suggests he creates elements/essences from words, implying powerful and meaningful lyrics."
+          "meaning": "Hindi/Punjabi for 'shore' or 'riverbank'. In the context of the previous line about drowning, he builds 'banks' or 'shores' with his words to save himself."
         }
       ]
     },
@@ -416,7 +416,7 @@ export const hanging_on: Song = {
         {
           "keyword": "Gaaliyon",
           "type": "Hindi",
-          "meaning": "Hindi for 'abuses' or 'curse words'. He is metaphorically measuring life's path with curses, suggesting hardship, frustration, and anger along the way."
+          "meaning": "Wordplay on 'Gali' (Alley/Lane) and 'Gaali' (Abuse/Curse). He measures his life's path through the streets/alleys and the abuses he faces/gives."
         }
       ]
     },
@@ -462,7 +462,7 @@ export const hanging_on: Song = {
           "text": "Par ABJ",
           "keyword": "ABJ",
           "type": "Slang",
-          "meaning": "Short for 'Abey jaa', which translates to 'Oh, go away' or 'Get lost'. It is used as a dismissive or exasperated interjection."
+          "meaning": "Refers to 'Encore ABJ', his stage name. Usage here is self-referential."
         }
       ]
     },

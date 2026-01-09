@@ -19,7 +19,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Fame",
-          "type": "concept"
+          "type": "Concept",
+          "meaning": "Popularity and widespread recognition, used here to compare its fleeting nature to rain."
         }
       ]
     },
@@ -31,7 +32,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Make it rain",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "To spend a lot of money, often ostentatiously. A common Hip-Hop term signifying wealth."
         }
       ]
     },
@@ -43,7 +45,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Pain",
-          "type": "theme"
+          "type": "Hindi",
+          "meaning": "\"Pain\" in Hindi. Refers to suffering, hardship, or emotional distress."
         }
       ]
     },
@@ -62,7 +65,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Lane",
-          "type": "metaphor"
+          "type": "Figurative",
+          "meaning": "Figuratively, a path or direction one is creating for themselves in life or their career."
         }
       ]
     },
@@ -81,7 +85,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Drip",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Style and charisma, especially in fashion. To have a good 'drip' means to have a fashionable and attractive appearance."
         }
       ]
     },
@@ -135,7 +140,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Goli",
-          "type": "double entendre"
+          "type": "Hindi",
+          "meaning": "\"Goli\" in Hindi translates to \"Pills\". Contextually might refer to medicating to deal with stress or sinus issues, or could be metaphorical."
         }
       ]
     },
@@ -231,7 +237,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Maverick",
-          "type": "reference"
+          "type": "Descriptive",
+          "meaning": "Someone independent, unconventional, and perhaps rebellious.  Referring to someone who was considered a rule-breaker in their childhood."
         }
       ]
     },
@@ -257,7 +264,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Kahanikar",
-          "type": "identity"
+          "type": "Hindi",
+          "meaning": "\"Kahanikar\" in Hindi means \"Storyteller\"."
         }
       ]
     },
@@ -297,7 +305,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Peter Parker",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Reference to the Marvel comic book character, Spider-Man. Likely implying a double life or hidden abilities, dealing with great responsibility"
         }
       ]
     },
@@ -400,7 +409,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Gain",
-          "type": "technical"
+          "type": "Technical",
+          "meaning": "Volume or amplification. In the context of speakers, it refers to increasing the sound level."
         }
       ]
     },
@@ -412,7 +422,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Whack",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Lame, uninteresting, or of poor quality.  Used to describe rappers who are not good."
         }
       ]
     },
@@ -424,7 +435,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Chip और Dale",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Reference to the Disney cartoon characters Chip and Dale, two chipmunks.  In this context, it suggests they are saving money like Chip and Dale collect acorns."
         }
       ]
     },
@@ -457,7 +469,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Goa",
-          "type": "location"
+          "type": "Place",
+          "meaning": "A state in western India, known for its beaches and party scene. The artist is contrasting the stereotypical perception of him being in parties/Goa"
         },
         {
           "text": "Acorn jaise saare paise khaare Chip aur Dale",
@@ -477,7 +490,7 @@ export const pain: Song = {
           "text": "Ye Zindagi bahut chudi tabhi na dun koi detail",
           "keyword": "Chudi",
           "type": "Slang",
-          "meaning": "Life has been hard so I'm not sharing any details."
+          "meaning": "Literally 'Fucked' (Vulgar). 'Zindagi bahut chudi' means life is very messed up/hard."
         }
       ]
     },
@@ -489,7 +502,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Parody",
-          "type": "comparison"
+          "type": "Music",
+          "meaning": "An imitation of a song or style, often exaggerated for comedic effect. The use of parody suggests that their bangers can seem comical to the audience, though probably is used sarcastically."
         }
       ]
     },
@@ -508,7 +522,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Fuddu",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "\"Fuddu\" is a Hindi/Urdu slang word meaning stupid, foolish, or pointless."
         },
         {
           "text": "Ye jaana chahte uper mujhse try to keep up",
@@ -540,7 +555,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Dank",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "High quality marijuana. 'Dank shit' refers to potent and aromatic cannabis."
         },
         {
           "text": "Pagal hai bande thhar rahe ni",
@@ -586,7 +602,8 @@ export const pain: Song = {
       "annotations": [
         {
           "keyword": "Taco Bell",
-          "type": "metaphor"
+          "type": "Reference",
+          "meaning": "Likely a reference indicating how the person in subject is being taken advantage of or is easily accessible. A fast food restaurant which is often cheap and readily available."
         },
         {
           "text": "2 clarity toh dhyan se yahan ni lana fuddu energy",
@@ -681,9 +698,9 @@ export const pain: Song = {
       "annotations": [
         {
           "text": "Gande flow ko range beta hum nahi dho ke",
-          "keyword": "Range",
+          "keyword": "Ragde",
           "type": "Slang",
-          "meaning": "We make this flow colourful(dirty), we aren't fake"
+          "meaning": "Scrub/Rub. We scrub the dirty flows clean (refining them)."
         }
       ]
     },

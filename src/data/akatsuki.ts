@@ -28,8 +28,8 @@ export const akatsuki: Song = {
       "annotations": [
         {
           "keyword": "जोटे",
-          "type": "Hindi",
-          "meaning": "\"Jhoothe\" means liar or fake in Hindi. The line indicates that these are not even liars and are being given false hope."
+          "type": "Slang",
+          "meaning": "Jote/Joint - Slang for marijuana cigarettes/joints. Even smoking weed doesn't help his loneliness anymore."
         },
         {
           "keyword": "कोई नहीं",
@@ -47,7 +47,7 @@ export const akatsuki: Song = {
         {
           "keyword": "फूँकूँ",
           "type": "Slang",
-          "meaning": "\"Foonkun\" Likely a play on words phonetically sounding like 'Funkin' (as in funking around or messing with)."
+          "meaning": "Foonkna/Phookna - Hindi slang for smoking (marijuana). If he doesn't smoke for four days, he becomes deeply unhappy by day five."
         }
       ]
     },
@@ -443,7 +443,7 @@ export const akatsuki: Song = {
         {
           "keyword": "ठस",
           "type": "Slang",
-          "meaning": "\"Thos\" is slang for useless in Hindi. It is being used here to insinuate that the rappers are useless."
+          "meaning": "\"Thas\" is slang for useless/clogged/dull in Hindi. It is being used here to insinuate that the rappers are useless."
         }
       ]
     },
@@ -608,7 +608,7 @@ export const akatsuki: Song = {
         {
           "keyword": "Rail",
           "type": "Slang",
-          "meaning": "Referring to doing lines of drugs"
+          "meaning": "Rail banana - Hindi slang for beating someone up thoroughly or running over them like a train. Dominating completely."
         }
       ]
     },

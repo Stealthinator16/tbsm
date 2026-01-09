@@ -89,7 +89,7 @@ export const class_sikh_maut: Song = {
         {
           "keyword": "Behna",
           "type": "Language",
-          "meaning": "To flow (Hindi). In this context, it means 'you swim, we learn to flow', representing different levels of experience. Possibly also phonetically alluding to 'behen', meaning sister, in a derogatory way."
+          "meaning": "To flow (Hindi). In this context, it means 'you swim, we learned to flow' (like a river), representing mastery over the rhythm."
         }
       ]
     },

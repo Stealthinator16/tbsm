@@ -19,7 +19,8 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "कवि",
-          "type": "Alias"
+          "type": "Culture",
+          "meaning": "Kavi translates to 'poet'. Here, it's likely a self-proclamation or shout-out to their lyrical abilities and poetic prowess."
         }
       ]
     },
@@ -31,11 +32,13 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "कंचे",
-          "type": "Metaphor"
+          "type": "Culture",
+          "meaning": "Kanche means 'marbles'. The line compares them to shining marbles, small but valuable, suggesting they are precious and divinely blessed."
         },
         {
           "keyword": "खुदा के बंदे",
-          "type": "Religious Reference"
+          "type": "Culture",
+          "meaning": "'Khuda ke Bande' translates to 'God's children' or 'servants of God'.  It implies that they are blessed or favored."
         },
         {
           "text": "चमकते जैसे कंचे, हैं खुदा के बंदे",
@@ -53,11 +56,13 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "आइना",
-          "type": "Symbolism"
+          "type": "Culture",
+          "meaning": "Aaina means 'mirror'. It's used to suggest self-reflection and seeing only themselves as competition."
         },
         {
           "keyword": "लंड पे",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "'Lund pe' literally means 'on the dick'. It is a vulgar slang meaning 'I don't care about it' or 'it is beneath me'."
         }
       ]
     },
@@ -69,7 +74,8 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "रातें काली",
-          "type": "Idiom"
+          "type": "Culture",
+          "meaning": "'Raatein Kaali' means 'dark nights'. This likely refers to struggling and working hard during difficult times to achieve their goals."
         }
       ]
     },
@@ -81,7 +87,8 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "Lunch Break",
-          "type": "Mixtape Title"
+          "type": "Slang",
+          "meaning": "A temporary pause from their usual intense work, but here it also signifies a moment to flex and boast about their skills."
         }
       ]
     },
@@ -121,7 +128,8 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "योद्धा",
-          "type": "Metaphor"
+          "type": "Culture",
+          "meaning": "Yoddha translates to 'warrior'. Referring to Seedhe Maut as warriors emphasizes their strength and dominance in the rap game."
         }
       ]
     },
@@ -147,7 +155,8 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "अग्निपथ",
-          "type": "Literary Reference"
+          "type": "Culture",
+          "meaning": "Agnipath translates to 'path of fire'.  It signifies a difficult and challenging journey, suggesting they aren't afraid of hardship."
         }
       ]
     },
@@ -180,11 +189,13 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "पहाड़ी",
-          "type": "Ethnicity"
+          "type": "Culture",
+          "meaning": "Pahaadi Bhai translates to 'mountain brother'. A reference to someone from the mountains and their connection to someone. The context implies they are loyal and not snitching."
         },
         {
           "keyword": "दाजू",
-          "type": "Slang/Regional"
+          "type": "Slang",
+          "meaning": "Daaju means 'Elder Brother' in Pahari/Kumaoni. Calm is saying he is not here to be a brother or friend to everyone."
         }
       ]
     },
@@ -210,7 +221,8 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "Bhakuni",
-          "type": "Real Name"
+          "type": "Reference",
+          "meaning": "Reference to a person (likely a teacher) named Bhakuni. It could be a personal reference or a shoutout."
         }
       ]
     },
@@ -243,7 +255,8 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "लौड़े के नीचे",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "'Laude ke neeche' is a vulgar slang phrase meaning 'under someone's dick'. It signifies a position of inferiority or being dominated."
         }
       ]
     },
@@ -269,7 +282,8 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "BT",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "BT is an abbreviation for 'Bad Trip'. Delhi slang for a stressful situation or bad vibe."
         }
       ]
     },
@@ -288,7 +302,8 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "zoot",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Zoot refers to a marijuana cigarette, or joint. This implies that they are smoking weed even in places where it's prohibited."
         }
       ]
     },
@@ -328,7 +343,8 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "घुमा देते table",
-          "type": "Idiom"
+          "type": "Slang",
+          "meaning": "Ghuma dete table - Turn the table. Meaning they change the game or the situation in their favor."
         }
       ]
     },
@@ -340,7 +356,8 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "major label",
-          "type": "Industry Term"
+          "type": "Industry",
+          "meaning": "A major label is a large, established record company with significant resources and distribution networks. The line implies that they are independent and don't need the backing of a major label."
         }
       ]
     },
@@ -352,18 +369,15 @@ export const lunch_break: Song = {
       "annotations": [
         {
           "keyword": "Azadi",
-          "type": "Label Name"
+          "type": "Reference",
+          "meaning": "Azadi means 'freedom' or 'independence'. Here, it refers to the record label 'Azadi Records', which supports independent artists."
         },
         {
           "keyword": "Mo",
-          "type": "Person"
+          "type": "Reference",
+          "meaning": "Short for Mobeen, who runs/owns Azadi Records."
         },
-        {
-          "text": "पता कि 'No Smoking' hotel में भी जले zoot",
-          "keyword": "zoot",
-          "type": "Slang",
-          "meaning": "Zoot refers to a hand-rolled cigarette containing marijuana."
-        }
+
       ]
     },
     {

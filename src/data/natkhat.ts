@@ -29,7 +29,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "behnchod",
-          "type": "slang"
+          "type": "Slang/Profanity",
+          "meaning": "A Hindi/Urdu profanity; literally translates to 'sister-fucker'. Used here as an intensifier or insult, roughly equivalent to 'motherfucker' or 'asshole'."
         }
       ]
     },
@@ -55,7 +56,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "naato",
-          "type": "vocabulary"
+          "type": "Slang/Hindi",
+          "meaning": "'Naato' is likely a slang shortening of 'rishto,' meaning relationships or connections. It implies having a network of support, from relationships to the love of fans."
         }
       ]
     },
@@ -102,7 +104,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "chep",
-          "type": "slang"
+          "type": "Slang/Hindi",
+          "meaning": "To be 'chep' means to be clingy, annoying, or overly persistent in a negative way."
         }
       ]
     },
@@ -135,7 +138,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "keanu",
-          "type": "pop-culture reference"
+          "type": "Reference",
+          "meaning": "Reference to Keanu Reeves. Implying becoming as skilled or iconic as the actor, likely referencing his action movie roles."
         }
       ]
     },
@@ -154,7 +158,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "pelenge",
-          "type": "slang"
+          "type": "Slang/Hindi",
+          "meaning": "'Pelenge' is Hindi slang meaning 'to smash,' 'to destroy,' or 'to dominate' something or someone, often in a competitive or performance context. Here, it suggests that they will deliver a powerful performance."
         }
       ]
     },
@@ -187,7 +192,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "paitre",
-          "type": "vocabulary"
+          "type": "Hindi",
+          "meaning": "'Paitre' translates to 'moves' or 'tactics' in Hindi. In this context, it means doing double the number of strategic moves or working in tandem to achieve their goals."
         }
       ]
     },
@@ -227,7 +233,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "misaal",
-          "type": "vocabulary"
+          "type": "Hindi",
+          "meaning": "'Misaal' means 'example' or 'instance' in Hindi. Saying 'don't give my example' means don't compare yourself to me."
         }
       ]
     },
@@ -253,7 +260,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "bawal",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "'Bawal' means 'trouble,' 'chaos,' or 'ruckus' in Hindi. It implies that if something affects them deeply, they will create a scene or confront it head-on."
         }
       ]
     },
@@ -265,7 +273,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "vakalat",
-          "type": "vocabulary"
+          "type": "Hindi/Urdu",
+          "meaning": "'Vakalat' means 'advocacy' or 'pleading a case' in Hindi/Urdu. In this context, the speaker is saying that he does not engage in defending or making excuses."
         }
       ]
     },
@@ -277,7 +286,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "aap ki adalat",
-          "type": "pop-culture reference"
+          "type": "Reference/Culture",
+          "meaning": "'Aap Ki Adalat' is the name of a popular Indian television talk show where the host grills guests with tough questions. The speaker is saying that Instagram is not a court where he needs to defend himself."
         }
       ]
     },
@@ -296,7 +306,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "salafat",
-          "type": "vocabulary"
+          "type": "Slang/Hindi",
+          "meaning": "'Salafat' isn't a standard word. It's likely a slang alteration of 'salamat,' meaning safe or secure. The line is advising to take advice, stay safe/secure."
         }
       ]
     },
@@ -322,7 +333,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "labalab",
-          "type": "vocabulary"
+          "type": "Hindi/Urdu",
+          "meaning": "'Labalab' means 'overflowing' or 'brimming' in Hindi/Urdu. It describes the clouds of hard work as full and abundant."
         }
       ]
     },
@@ -341,7 +353,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "satya",
-          "type": "reference"
+          "type": "Hindi",
+          "meaning": "'Satya' means 'truth' in Hindi. Here, it means there is no greater truth than them/their abilities."
         }
       ]
     },
@@ -353,7 +366,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "fattu",
-          "type": "slang"
+          "type": "Slang/Hindi",
+          "meaning": "'Fattu' is a Hindi slang term for 'coward' or 'scaredy-cat'."
         }
       ]
     },
@@ -519,7 +533,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "dior",
-          "type": "brand"
+          "type": "Reference/Brand",
+          "meaning": "Refers to the luxury fashion brand, Dior. In this context, it's specifying the brand of cologne being worn."
         }
       ]
     },
@@ -531,7 +546,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "jager",
-          "type": "brand"
+          "type": "Reference/Alcohol",
+          "meaning": "Short for Jägermeister, a German digestif liqueur."
         },
         {
           "text": "Bars likhu phone pe, use bolte jail break!",
@@ -556,7 +572,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "dough",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "'Dough' is slang for money."
         }
       ]
     },
@@ -607,14 +624,7 @@ export const natkhat: Song = {
       "speaker": "Encore ABJ",
       "translation": "My 'favorite' is on my d***.",
       "explanation": "A vulgar way of saying he doesn't care about being anyone's favorite or about others' rankings.",
-      "annotations": [
-        {
-          "text": "Daru bakra eid se",
-          "keyword": "Bakra Eid",
-          "type": "Reference",
-          "meaning": "Juxtaposing alcohol ('daru') with Bakra Eid (a Muslim festival of sacrifice) to create a contrasting and potentially provocative image. It implies a disregard for traditional norms and a rebellious attitude."
-        }
-      ]
+      "annotations": []
     },
     {
       "original": "Bars likhu phone pe, use bolte jail break!",
@@ -624,7 +634,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "jailbreak",
-          "type": "pun"
+          "type": "Slang/Metaphor",
+          "meaning": "'Jailbreak' typically refers to removing software restrictions from a device. Here, it's used metaphorically to describe writing powerful lyrics on his phone, breaking free from conventional constraints."
         }
       ]
     },
@@ -636,7 +647,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "dhaapna",
-          "type": "slang"
+          "type": "Hindi/Slang",
+          "meaning": "'Dhaapna' means 'to cover up' or 'to hide' in Hindi. The line implies that it is difficult to surpass or overshadow someone who is established and skilled, referred to as 'baap' (father), a common slang for someone respected and experienced."
         }
       ]
     },
@@ -718,7 +730,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "bakra eid",
-          "type": "reference"
+          "type": "Culture",
+          "meaning": "Bakra Eid is the festival of sacrifice. The line 'Daru bakra eid se' playfully means 'I am scared (Darru) of you like a goat is scared on Bakra Eid', used sarcastically to mock the opponent."
         }
       ]
     },
@@ -786,7 +799,8 @@ export const natkhat: Song = {
       "annotations": [
         {
           "keyword": "neem",
-          "type": "vocabulary"
+          "type": "Culture/Hindi",
+          "meaning": "'Neem' is a type of bitter medicinal tree in India. The line is saying that their face looks bitter like neem when listening to the speaker."
         }
       ]
     },

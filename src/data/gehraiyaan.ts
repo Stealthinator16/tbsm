@@ -64,7 +64,7 @@ export const gehraiyaan: Song = {
           "text": "पापा लोग से मिल ले क्या?",
           "keyword": "पापा लोग",
           "type": "Slang",
-          "meaning": "Referring to regular people or the public."
+          "meaning": "Refers to 'Parents' or 'Elders'. The girl is asking if they should meet the parents."
         }
       ]
     },
@@ -203,7 +203,7 @@ export const gehraiyaan: Song = {
           "text": "चल अब पास आ।",
           "keyword": "चल अब पास",
           "type": "Slang",
-          "meaning": "Means \"Let's move on\" or \"Lets go\""
+          "meaning": "Means 'Come closer now' or 'Move closer'."
         }
       ]
     },
@@ -476,7 +476,7 @@ export const gehraiyaan: Song = {
           "text": "ध्यान से कोमल ये रुई सी बस",
           "keyword": "रुई सी बस",
           "type": "Metaphor",
-          "meaning": "Referring to life as just soul, nothing materialistic"
+          "meaning": "Metaphor comparing his words/lyrics to cotton (soft) but piercing like needles."
         }
       ]
     },

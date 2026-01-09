@@ -20,7 +20,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Bawe",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Bro/Dude. Used as a casual term of address, common in Delhi slang."
         },
         {
           "text": "Uh, बावे मुझे चाहिए peace of mind",
@@ -115,13 +116,14 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "System",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "Body/Constitution. 'System mein vodka' means alcohol in the blood."
         },
         {
           "text": "Bitch मेरे system में vodka",
           "keyword": "Vodka",
           "type": "Reference",
-          "meaning": "Implies being intoxicated or having vodka in their system; can be a reference to coping mechanisms or a party lifestyle."
+          "meaning": "Literally 'In my system/body'. He has consumed vodka."
         }
       ]
     },
@@ -147,7 +149,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Riyasat",
-          "type": "Urdu Word"
+          "type": "Culture",
+          "meaning": "Kingdom, realm, or territory. Figuratively used to describe Seedhe Maut's domain or area of influence."
         }
       ]
     },
@@ -187,7 +190,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Dalli",
-          "type": "Slang for Delhi"
+          "type": "Slang",
+          "meaning": "Likely referring to 'Dilli' (Delhi) or 'Dalli' (female pimp/pejorative). 'Dalli rokke' could mean stopping Delhi traffic or dominating the city."
         },
         {
           "text": "मैं करता हूँ role-play पूछो कौन से",
@@ -275,7 +279,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Vijay Mallya",
-          "type": "Reference"
+          "type": "Reference",
+          "meaning": "Reference to a controversial Indian businessman known for his extravagant lifestyle and financial troubles. Here, it implies enjoying life and expensive tastes."
         }
       ]
     },
@@ -294,7 +299,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Omegle",
-          "type": "Platform"
+          "type": "Reference",
+          "meaning": "A free online video chat website that allows users to socialize with others without registering. It's a reference to meeting someone randomly online."
         }
       ]
     },
@@ -341,7 +347,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Pinnak",
-          "type": "Slang for high/irritated state"
+          "type": "Slang",
+          "meaning": "Could possibly be slang for a cigarette/joint, or something similar."
         }
       ]
     },
@@ -360,7 +367,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Palam",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "Referring to Palam Vihar, a residential area located in Gurgaon (Gurugram), near Delhi. This indicates a specific location where they are trying to 'score'."
         }
       ]
     },
@@ -414,7 +422,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Snatcher",
-          "type": "Street term"
+          "type": "Slang",
+          "meaning": "Someone who steals or takes something quickly, often implying stealing hearts or attention."
         }
       ]
     },
@@ -440,7 +449,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Filmistan",
-          "type": "Studio/Reference"
+          "type": "Place",
+          "meaning": "Refers to Filmistan Cinema, a historical movie theatre located in Delhi. Used metaphorically to describe the cinematic or dramatic nature of their life in Delhi."
         }
       ]
     },
@@ -459,7 +469,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Dalle",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Plural of 'Dalla' (Pimp/Broker). Often used as a slang/abuse for treacherous people."
         }
       ]
     },
@@ -471,7 +482,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Pejkas",
-          "type": "Screwdriver"
+          "type": "Slang",
+          "meaning": "Screwdriver. 'Pejkas daale' is violent imagery of stabbing/torture."
         }
       ]
     },
@@ -483,7 +495,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Numberdar",
-          "type": "Title"
+          "type": "Culture",
+          "meaning": "Historically a village headman or important person. Here, it's used to mean someone who is important or 'the boss'."
         }
       ]
     },
@@ -565,7 +578,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Pudiya",
-          "type": "Drug packet"
+          "type": "Slang",
+          "meaning": "A small packet, usually referring to drugs or other illicit substances. "
         }
       ]
     },
@@ -577,7 +591,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Sariya",
-          "type": "Iron rod"
+          "type": "Slang",
+          "meaning": "Iron rods/bars. Here it is referring to sharp and strong personality."
         }
       ]
     },
@@ -631,7 +646,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Sauce",
-          "type": "Slang for style"
+          "type": "Slang",
+          "meaning": "In hip-hop slang, 'sauce' refers to style, swag, or confidence."
         },
         {
           "text": "Vill'on की बातें मैं करता सहन",
@@ -677,7 +693,8 @@ export const peace_of_mind: Song = {
       "annotations": [
         {
           "keyword": "Aam dani",
-          "type": "Income"
+          "type": "Culture",
+          "meaning": "Regular income, ordinary earnings. Meaning, he doesn't earn from only rap, he also has other avenues of income."
         }
       ]
     },

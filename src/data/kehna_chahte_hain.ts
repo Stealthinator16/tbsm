@@ -16,7 +16,7 @@ export const kehna_chahte_hain: Song = {
         {
           "keyword": "कह नहीं पा रहा",
           "type": "Hindi Phrase",
-          "meaning": "Saying what they are unable to express directly or are hesitant to say."
+          "meaning": "Expressing the inability to articulate thoughts directly."
         }
       ]
     },
@@ -84,7 +84,7 @@ export const kehna_chahte_hain: Song = {
         {
           "keyword": "period",
           "type": "Slang",
-          "meaning": "In this context, 'period' likely refers to a specific timeframe or phase the person is going through in life, possibly a challenging or reflective one."
+          "meaning": "Literal school class period. The skit is set in a classroom."
         },
         {
           "text": "भाई, क्या हुआ उस period में?",
@@ -165,7 +165,7 @@ export const kehna_chahte_hain: Song = {
         {
           "keyword": "गा के (Gaa ke)",
           "type": "Hindi Phrase",
-          "meaning": "To listen by singing. Meaning if you can't say it, sing it."
+          "meaning": "To express through singing. The philosophy that music articulates what words cannot."
         }
       ]
     },

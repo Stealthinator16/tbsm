@@ -234,12 +234,7 @@ export const i_dont_miss_that_life: Song = {
           "type": "slang",
           "meaning": "Bad Trip / Bad Times"
         },
-        {
-          "text": "तब काफी answer करी booty calls left to right",
-          "keyword": "booty calls",
-          "type": "Slang",
-          "meaning": "Slang referring to late-night invitations for casual sexual encounters."
-        }
+
       ]
     },
     {

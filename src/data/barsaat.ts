@@ -133,8 +133,8 @@ export const barsaat: Song = {
       "annotations": [
         {
           "keyword": "आपा",
-          "type": "Culture",
-          "meaning": "Aapa (Hindi) means 'father' or 'elder brother'. Here, it likely signifies someone dependable and always present, never lost."
+          "type": "Hindi",
+          "meaning": "Refers to 'composure' or 'self-control' (from the phrase 'Aapa khona'). The line means 'I never lost my cool/composure'."
         }
       ]
     },

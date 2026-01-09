@@ -92,7 +92,7 @@ export const dl91_fm: Song = {
         {
           "keyword": "Khai",
           "type": "Slang",
-          "meaning": "\"Eats\". Refers to enjoying life to the fullest, indulging in experiences. (Hindi)"
+          "meaning": "\"Ditch\" or \"Abyss\". Refers to a dangerous fall or pitfall, contrasting with the empty dreams."
         }
       ]
     },
@@ -402,7 +402,7 @@ export const dl91_fm: Song = {
           "text": "हँस के देती pussy जब वो नशे करती meow meow",
           "keyword": "Huns",
           "type": "Slang",
-          "meaning": "Here, 'Huns' is a slang word for money."
+          "meaning": "Refers to 'Hans' (Laughing/Smiling). She gives it up with a smile."
         }
       ]
     },

@@ -29,7 +29,7 @@ export const addict: Song = {
         {
           "keyword": "BT",
           "type": "Slang",
-          "meaning": "\"BT\" likely stands for 'Big Trouble'. He's saying his friend can solve big troubles."
+          "meaning": "BT (Bad Trip) - Delhi slang for stress, anxiety, or a bad situation. His friends look to him to solve their problems."
         }
       ]
     },

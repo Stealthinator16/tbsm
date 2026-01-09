@@ -15,11 +15,13 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "बंदी",
-          "type": "Slang"
+          "type": "Hindi/Slang",
+          "meaning": "Girl/Woman/Partner. 'Bigger bandi' implies a woman of higher status or curves."
         },
         {
           "word": "seven figure",
-          "type": "Finance"
+          "type": "Hindi/Slang",
+          "meaning": "Refers to earning at least 1,000,000 (Millionaire status) or high income."
         }
       ]
     },
@@ -31,11 +33,13 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "Kamakaze",
-          "type": "Metaphor"
+          "type": "Reference",
+          "meaning": "A suicidal mission or attack. In this context, meaning an aggressive, all-out approach."
         },
         {
           "word": "stick up",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "A robbery or holdup."
         }
       ]
     },
@@ -47,11 +51,13 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "Pickup",
-          "type": "Action"
+          "type": "Hindi",
+          "meaning": "To pick up (money/women/speed). 'Pickup' is the central theme of increasing momentum/wealth."
         },
         {
           "word": "fuck my shit up",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "Intoxicate me/Mess me up. Referring to the effect of drugs."
         }
       ]
     },
@@ -63,7 +69,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "ticket",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "Entry ticket or Price. 'Mehngi ticket' implies high cost of entry or high status."
         }
       ]
     },
@@ -82,7 +89,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "lais",
-          "type": "Urdu/Slang"
+          "type": "Hindi",
+          "meaning": "Equipped/Armed (Lais). 'Kalam hai lais' means the pen is fully armed."
         }
       ]
     },
@@ -108,7 +116,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "दैत्य",
-          "type": "Mythological Metaphor"
+          "type": "Hindi",
+          "meaning": "Demon/Monster. Referring to his partner (Calm) as a beast on the mic."
         }
       ]
     },
@@ -141,7 +150,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "हश",
-          "type": "Drug Slang"
+          "type": "Hindi",
+          "meaning": "Hashish (Drug). 'Kaali hai hash' refers to the black color of quality hash."
         }
       ]
     },
@@ -153,7 +163,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "SM",
-          "type": "Abbreviation"
+          "type": "Reference",
+          "meaning": "Seedhe Maut assassin, referring to their skills and precision."
         },
         {
           "text": "काली है हश और हरा है cash",
@@ -185,7 +196,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "back",
-          "type": "Slang"
+          "type": "Hindi/Slang",
+          "meaning": "Support/Backup. 'Kitni hai back' means how much street support or backing one has."
         }
       ]
     },
@@ -197,11 +209,13 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "cap",
-          "type": "Gen-Z Slang"
+          "type": "Hindi/Slang",
+          "meaning": "Lie/Fabrication (Slang). 'Kare yaha cap' means if you lie here."
         },
         {
           "word": "रहेपटे",
-          "type": "Delhi Slang"
+          "type": "Hindi/Slang",
+          "meaning": "Slaps (Slang). 'Pade yaha rehapte' means you will get slapped."
         }
       ]
     },
@@ -241,7 +255,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "चेपू",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "Clingy/Sticky. 'Chepu launde' refers to annoying people who won't leave you alone."
         }
       ]
     },
@@ -267,7 +282,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "kit-up",
-          "type": "Slang"
+          "type": "Hindi/Slang",
+          "meaning": "Gear up/Prepare. 'Kamar Seedhi karke kit-up' means straighten your back and get ready."
         }
       ]
     },
@@ -286,7 +302,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "इल्म",
-          "type": "Urdu"
+          "type": "Hindi/Slang",
+          "meaning": "Knowledge/Wisdom (Urdu). 'Ilm hai fikr' implies their concern is rooted in knowledge."
         }
       ]
     },
@@ -305,7 +322,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "जोटे",
-          "type": "Drug Slang"
+          "type": "Hindi",
+          "meaning": "A line referring to winning and showcasing their power to the public."
         }
       ]
     },
@@ -331,7 +349,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "गीदड़",
-          "type": "Metaphor"
+          "type": "Hindi/Slang",
+          "meaning": "Jackal/Coward. 'Bhage geedad' means cowards run away."
         }
       ]
     },
@@ -343,7 +362,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "bag",
-          "type": "Slang"
+          "type": "Hindi/Slang",
+          "meaning": "In the bag (Slang). focused on making money."
         }
       ]
     },
@@ -355,7 +375,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "ghaint",
-          "type": "Punjabi Slang"
+          "type": "Hindi/Slang",
+          "meaning": "Awesome/Cool (Punjabi Slang). 'Pen hai ghaint' means the pen/writing is dope."
         }
       ]
     },
@@ -374,7 +395,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "विलायत",
-          "type": "Urdu/Hindi"
+          "type": "Hindi",
+          "meaning": "Foreign country/Abroad. Refers to international travel."
         }
       ]
     },
@@ -407,7 +429,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "Mac10",
-          "type": "Weapon Metaphor"
+          "type": "Hindi/Slang",
+          "meaning": "Mac-10 Submachine Gun."
         }
       ]
     },
@@ -419,7 +442,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "Dl91",
-          "type": "Area Code"
+          "type": "Reference/Hindi",
+          "meaning": "Delhi 91. A reference to the West Delhi area code."
         }
       ]
     },
@@ -522,11 +546,13 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "बिकट",
-          "type": "Slang"
+          "type": "Hindi/Slang",
+          "meaning": "Intense/Difficult. 'Bikat' implies a tough or extreme situation."
         },
         {
           "word": "baawe",
-          "type": "Delhi Slang"
+          "type": "Hindi/Slang",
+          "meaning": "Bro/Dude. 'Baawe' is common Delhi slang for friend/brother."
         }
       ]
     },
@@ -552,7 +578,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "हवाबाजी",
-          "type": "Slang"
+          "type": "Hindi/Slang",
+          "meaning": "Show-off/Bluffing. 'Hawabazi' implies empty talk or boasting without substance."
         }
       ]
     },
@@ -571,11 +598,13 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "गाँधी",
-          "type": "Metaphor"
+          "type": "Hindi/Slang",
+          "meaning": "Mahatma Gandhi. Refers to the image of Gandhi on Indian currency notes (Money)."
         },
         {
           "word": "गांधारी",
-          "type": "Mythological Reference"
+          "type": "Hindi/Slang",
+          "meaning": "Gandhari (from Mahabharata). She blindfolded herself. Refers to being willfully blind to something (likely ethics/money)."
         }
       ]
     },
@@ -587,7 +616,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "कालकाजी",
-          "type": "Location"
+          "type": "Hindi/Slang",
+          "meaning": "Kalkaji (South Delhi Locality). Known for its temple and hustle."
         }
       ]
     },
@@ -620,7 +650,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "बांस",
-          "type": "Slang"
+          "type": "Hindi/Slang",
+          "meaning": "Stink/Bad Odor (Baas). 'Sharir se baas aati' means the body stinks (due to the dirty environment)."
         }
       ]
     },
@@ -660,7 +691,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "Kai Po Che",
-          "type": "Cultural Reference"
+          "type": "Culture",
+          "meaning": "\"Cut the kite!\" - A common saying during kite-flying, signifying cutting someone else's kite. In this context, meaning surpassing or defeating competition."
         }
       ]
     },
@@ -686,7 +718,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "गंडमारी",
-          "type": "Vulgar Slang"
+          "type": "Hindi/Slang",
+          "meaning": "Getting fucked/screwed (Vulgar slang). 'Puri gaandmari' implies a total disaster or mess."
         }
       ]
     },
@@ -768,7 +801,8 @@ export const pickup: Song = {
       "annotations": [
         {
           "word": "71 91",
-          "type": "Area Codes"
+          "type": "Hindi",
+          "meaning": "Hindi for \"One another, one another, 4Life."
         }
       ]
     },

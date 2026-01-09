@@ -16,7 +16,7 @@ export const cd: Song = {
         {
           "keyword": "रपट",
           "type": "Slang",
-          "meaning": "Rapat (रपट) in this context likely means 'slick' or 'smooth', implying a smooth operation or flow."
+          "meaning": "Rapat (रपट) refers to a police report or FIR. 'Bharte Rapat' means filing police complaints."
         },
         {
           "keyword": "लौंडे",
@@ -142,12 +142,7 @@ export const cd: Song = {
           "type": "Reference",
           "meaning": "Manikarnika is a famous ghat in Varanasi where cremations take place. Here, it's used in the context of counting money, perhaps implying they have so much that it's like dealing with the dead (a dark metaphor)."
         },
-        {
-          "text": "लौंडे लगे bitch, इन कन्याओं का करूँ कन्यादान",
-          "keyword": "कन्यादान",
-          "type": "Cultural",
-          "meaning": "Kanyadaan is a Hindu wedding ritual where the father gives away his daughter. Here they are using it to say they are giving away these girls."
-        }
+
       ]
     },
     {
@@ -161,12 +156,7 @@ export const cd: Song = {
           "type": "Metaphor",
           "meaning": "Money plant is a common houseplant believed to bring wealth. Here, the artist is saying they are growing money like a money plant, implying financial success."
         },
-        {
-          "text": "फ़ज़ूलों side हो, money count लगे Manikarnika",
-          "keyword": "Manikarnika",
-          "type": "Reference",
-          "meaning": "Manikarnika Ghat is a famous cremation ground in Varanasi. This is a dark metaphor where the artist equates the abundance of money to the quantity of bodies cremated."
-        }
+
       ]
     },
     {
@@ -193,12 +183,7 @@ export const cd: Song = {
           "type": "Reference",
           "meaning": "Reference to Bollywood actress Kareena Kapoor, implying a desirable or high-class area."
         },
-        {
-          "text": "Gyat gyat",
-          "keyword": "Gyat",
-          "type": "Slang",
-          "meaning": "A slang term, short for 'God damn, you're thick', typically used to express attraction, particularly to a woman's backside."
-        }
+
       ]
     },
     {
@@ -207,12 +192,7 @@ export const cd: Song = {
       "translation": "This cash brings no laughter; it's the crippled constitution of the area.",
       "explanation": "Money is a serious, grim matter, and it dictates the broken laws of the street.",
       "annotations": [
-        {
-          "text": "वो bitch area की Kareena",
-          "keyword": "Kareena",
-          "type": "Reference",
-          "meaning": "Likely referencing Kareena Kapoor, implying that area is as desirable or sought after as the actress. Can also be a reference to the designer Kareena area."
-        }
+
       ]
     },
     {
@@ -262,7 +242,7 @@ export const cd: Song = {
         {
           "keyword": "बावै",
           "type": "Slang",
-          "meaning": "Baawre (बावरे) means 'crazy' or 'mad'."
+          "meaning": "Baave (बावे) is Delhi slang for 'Brother' or 'Bro'."
         }
       ]
     },
@@ -319,27 +299,6 @@ export const cd: Song = {
       "speaker": "Calm",
       "translation": "I'm in the cockpit; she wants to lock lips.",
       "explanation": "He is in the pilot's seat (in control), and his status makes him attractive.",
-      "annotations": []
-    },
-    {
-      "original": "बस देखा bandi lost it, है ताकत ऐसी cosmic",
-      "speaker": "Calm",
-      "translation": "Just saw the girl lose it; the power is cosmic.",
-      "explanation": "His aura or performance is so intense that it overwhelms the crowd.",
-      "annotations": []
-    },
-    {
-      "original": "इकहत्तर और छियानवे",
-      "speaker": "Lil Bhavi",
-      "translation": "71 and 96.",
-      "explanation": "References to specific area codes or bus routes in Delhi, common in local hip-hop.",
-      "annotations": []
-    },
-    {
-      "original": "ठूँठ पे छाप दूँ बानवे",
-      "speaker": "Lil Bhavi",
-      "translation": "I'll print 92 on the tree stump.",
-      "explanation": "Referring to marking territory or a specific gang/group identification.",
       "annotations": [
         {
           "text": "CEO, rap money made me बहुत rich",
@@ -347,6 +306,43 @@ export const cd: Song = {
           "type": "Metaphor",
           "meaning": "Indicating their success and control over their career in the rap industry, akin to being a CEO of their own enterprise."
         }
+      ]
+    },
+    {
+      "original": "बस देखा bandi lost it, है ताकत ऐसी cosmic",
+      "speaker": "Calm",
+      "translation": "Just saw the girl lose it; the power is cosmic.",
+      "explanation": "His aura or performance is so intense that it overwhelms the crowd.",
+      "annotations": [
+        {
+          "text": "बस देखा bandi lost it, है ताकत ऐसी cosmic",
+          "keyword": "cosmic",
+          "type": "Slang",
+          "meaning": "Can mean very good, or excellent. Usually referring to something out of this world."
+        }
+      ]
+    },
+    {
+      "original": "इकहत्तर और छियानवे",
+      "speaker": "Lil Bhavi",
+      "translation": "71 and 96.",
+      "explanation": "References to specific area codes or bus routes in Delhi, common in local hip-hop.",
+      "annotations": [
+        {
+          "text": "हूँ in the cockpit, वो करना चाहती lock lip",
+          "keyword": "cockpit",
+          "type": "Metaphor",
+          "meaning": "Being in the cockpit symbolizes being in control and at the helm of a situation. Lock lip referring to not snitching or telling secrets."
+        }
+      ]
+    },
+    {
+      "original": "ठूँठ पे छाप दूँ बानवे",
+      "speaker": "Lil Bhavi",
+      "translation": "I'll print 92 on the tree stump.",
+      "explanation": "Referring to marking territory or a specific gang/group identification.",
+      "annotations": [
+
       ]
     },
     {
@@ -358,7 +354,7 @@ export const cd: Song = {
         {
           "keyword": "चूड़ा",
           "type": "Slang",
-          "meaning": "Chuda (चूड़ा) usually refers to bangles worn by married women but here, it is used in the context to describe the things which one keeps hidden from the others."
+          "meaning": "Chuda (चूड़ा) here implies a 'Knife' or 'Dagger' (Choora). 'Chuda gusse pe pehle hai' means violence comes before words."
         }
       ]
     },
@@ -373,12 +369,7 @@ export const cd: Song = {
           "type": "Culture",
           "meaning": "Aadhaar is a 12-digit individual identification number issued by the Unique Identification Authority of India. Here, it's used metaphorically to imply they don't have a solid foundation or identity and make things disappear."
         },
-        {
-          "text": "हूँ in the cockpit, वो करना चाहती lock lip",
-          "keyword": "cockpit",
-          "type": "Metaphor",
-          "meaning": "Being in the cockpit symbolizes being in control and at the helm of a situation. Lock lip referring to not snitching or telling secrets."
-        }
+
       ]
     },
     {
@@ -387,12 +378,7 @@ export const cd: Song = {
       "translation": "These guys became bitches; now they want a kiss on the cheek.",
       "explanation": "Mocking the softness and lack of masculinity in his rivals.",
       "annotations": [
-        {
-          "text": "बस देखा bandi lost it, है ताकत ऐसी cosmic",
-          "keyword": "cosmic",
-          "type": "Slang",
-          "meaning": "Can mean very good, or excellent. Usually referring to something out of this world."
-        }
+
       ]
     },
     {
@@ -400,7 +386,14 @@ export const cd: Song = {
       "speaker": "Lil Bhavi",
       "translation": "Murder charge on the head; the more brothers I have, the more respect I get.",
       "explanation": "Describing a street hierarchy where criminal reputation and crew size command respect.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Murder है सर पे, कितने बावै उतनी बढ़ती इज़ज़त",
+          "keyword": "Murder",
+          "type": "Metaphor",
+          "meaning": "Expressing dominance through lyrical skill, suggesting they 'murder' the competition with their rhymes."
+        }
+      ]
     },
     {
       "original": "हम हादसों में गंदे बावै, बाकी तेरी किस्मत",
@@ -435,12 +428,7 @@ export const cd: Song = {
       "translation": "Aahh.",
       "explanation": "An ad-lib used to set the mood for his verse.",
       "annotations": [
-        {
-          "text": "Aadhaar नहीं है धार पे, गायब करता वार से",
-          "keyword": "Aadhaar",
-          "type": "Cultural",
-          "meaning": "Aadhaar is a unique identity number in India. This line implies that they are making people disappear, more powerful than the government."
-        }
+
       ]
     },
     {
@@ -456,12 +444,7 @@ export const cd: Song = {
       "translation": "Young bro is number one; they know who's the best.",
       "explanation": "Self-proclamation of his top position in the scene.",
       "annotations": [
-        {
-          "text": "Murder है सर पे, कितने बावै उतनी बढ़ती इज़ज़त",
-          "keyword": "Murder",
-          "type": "Metaphor",
-          "meaning": "Expressing dominance through lyrical skill, suggesting they 'murder' the competition with their rhymes."
-        }
+
       ]
     },
     {
@@ -484,12 +467,7 @@ export const cd: Song = {
       "translation": "Delhi cheated and broke its promise to me.",
       "explanation": "Reflecting on the hardships and broken dreams that come with living in a cold metropolis.",
       "annotations": [
-        {
-          "text": "Rekha ग़रीब ही थी तो बदली Dilli, बदली किस्मत",
-          "keyword": "Rekha",
-          "type": "Reference",
-          "meaning": "Referencing the actress Rekha, implying even a respected and established figure has to adapt or change in Dilli (Delhi) due to its ever-evolving nature and demanding environment. Badalti Kismat meaning changing fate."
-        }
+
       ]
     },
     {
@@ -600,14 +578,28 @@ export const cd: Song = {
       "speaker": "Ab 17",
       "translation": "Passion gives me loyalty; I'm just following the steps.",
       "explanation": "Remaining true to his craft and following the path to success.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "वफ़ाही दे रही passion, बस steps कर रहा follow",
+          "keyword": "steps",
+          "type": "Slang",
+          "meaning": "Indicating they are moving forward with their plans, taking necessary action to achieve their goals. They just keep grinding and moving."
+        }
+      ]
     },
     {
       "original": "हारा मैं कभी ना, कबीला phase 3",
       "speaker": "GhAatak",
       "translation": "I never lost; Tribe Phase 3.",
       "explanation": "Ghaatak refers to his crew (Kabeela) and likely a specific location or development stage (Phase 3).",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "हारा मैं कभी ना, कबीला phase 3",
+          "keyword": "Phase 3",
+          "type": "Reference",
+          "meaning": "Likely referring to the third phase of something significant or impactful, hinting that they are progressing to a more advanced or challenging stage in their career or life."
+        }
+      ]
     },
     {
       "original": "टंगा तू बकरा है बली का, बैठ दी",
@@ -632,7 +624,7 @@ export const cd: Song = {
         {
           "keyword": "काली",
           "type": "Slang",
-          "meaning": "Kaali (काली) means 'black'. Implies something negative or undesirable."
+          "meaning": "Refers to Goddess Kali, representing death, time, and destruction. 'Kali ka taste' implies facing deadly consequences."
         }
       ]
     },
@@ -652,7 +644,7 @@ export const cd: Song = {
         {
           "keyword": "Khalifa",
           "type": "Reference",
-          "meaning": "Khalifa likely refers to Mia Khalifa, a former adult film star. Implies a high level of confidence or performance."
+          "meaning": "Khalifa means 'Leader' or 'Caliph'. Implies that they are becoming the leaders/rulers of the scene."
         }
       ]
     },
@@ -674,12 +666,7 @@ export const cd: Song = {
           "type": "Place",
           "meaning": "Meerut is a city in Uttar Pradesh, India, known for its sports goods industry. Implying the artist is importing something real from Meerut (perhaps guns)."
         },
-        {
-          "text": "वफ़ाही दे रही passion, बस steps कर रहा follow",
-          "keyword": "steps",
-          "type": "Slang",
-          "meaning": "Indicating they are moving forward with their plans, taking necessary action to achieve their goals. They just keep grinding and moving."
-        }
+
       ]
     },
     {
@@ -688,12 +675,7 @@ export const cd: Song = {
       "translation": "All my work is heavyweight; bro, I have no manners.",
       "explanation": "His impact is massive, and he doesn't care for social niceties or 'stepping' lightly.",
       "annotations": [
-        {
-          "text": "हारा मैं कभी ना, कबीला phase 3",
-          "keyword": "Phase 3",
-          "type": "Reference",
-          "meaning": "Likely referring to the third phase of something significant or impactful, hinting that they are progressing to a more advanced or challenging stage in their career or life."
-        }
+
       ]
     },
     {
@@ -712,7 +694,7 @@ export const cd: Song = {
         {
           "keyword": "डल्ले",
           "type": "Slang",
-          "meaning": "Delicate in this context likely implies that they are only asking for things with ease."
+          "meaning": "Dalle (डल्ले) means 'pimps', 'brokers', or 'snitches'. Used as a derogatory term for people without integrity."
         }
       ]
     },

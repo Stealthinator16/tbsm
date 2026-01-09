@@ -62,7 +62,7 @@ export const gourmet_shit: Song = {
         {
           "keyword": "सुट्टों",
           "type": "Hindi/English - Loanword",
-          "meaning": "\"Studio\" - Referring to working in the studio."
+          "meaning": "Cigarettes. 'Sutta' is slang for cigarette. He was living on cigarettes."
         }
       ]
     },
@@ -156,7 +156,7 @@ export const gourmet_shit: Song = {
         {
           "keyword": "ज़ख़्म",
           "type": "Hindi",
-          "meaning": "\"Jhoom\" translates to \"groove\" or \"sway\". Here, it implies staying in the same groove or vibe."
+          "meaning": "'Zakhm' means 'Wound'. He says the wounds are still the same."
         }
       ]
     },
@@ -203,7 +203,7 @@ export const gourmet_shit: Song = {
         {
           "keyword": "बावे",
           "type": "Hindi",
-          "meaning": "\"Bhawe\" translates to \"whatever\" or \"I don't care\"."
+          "meaning": "Delhi slang for 'Brother' or 'Bro'."
         }
       ]
     },
@@ -528,7 +528,7 @@ export const gourmet_shit: Song = {
           "text": "देना चाहे हानी, सीधा blade'in फिरी",
           "keyword": "blade'in",
           "type": "Slang",
-          "meaning": "Reference to smoking marijuana."
+          "meaning": "Refers to blades/knives. Implies violence or cutting."
         }
       ]
     },

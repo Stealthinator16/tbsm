@@ -178,7 +178,7 @@ export const _101: Song = {
         {
           "keyword": "Pille",
           "type": "Hindi/Slang",
-          "meaning": "Puppies; Used to refer to young and inexperienced individuals. In this context, could also be referring to 'bitches' or 'hoes'"
+          "meaning": "Puppies; Used to refer to young, inexperienced, or weak individuals (small fry)."
         },
         {
           "text": "Kaale dhabbe paale, Hum pille",
@@ -505,7 +505,7 @@ export const _101: Song = {
         {
           "keyword": "BT",
           "type": "Slang",
-          "meaning": "Back to that (BT); Meaning not to return to a certain state or place."
+          "meaning": "Bad Trip (BT); Delhi slang for a stressful situation or anxiety. He doesn't want bad vibes again."
         }
       ]
     },
@@ -568,7 +568,7 @@ export const _101: Song = {
           "text": "BT fir na ho",
           "keyword": "BT",
           "type": "Slang",
-          "meaning": "Short for 'Bhenchod' (sister f***er), a common Hindi swear word. Used for emphasis and to express frustration."
+          "meaning": "BT (Bad Trip) - Delhi slang for a stressful situation, anxiety, or bad vibes. Don't cause a scene."
         }
       ]
     },
@@ -692,13 +692,13 @@ export const _101: Song = {
         {
           "keyword": "Thoot",
           "type": "Hindi (Spit)",
-          "meaning": "Spit; Showing disrespect by spitting on someone's face."
+          "meaning": "Snout/Face; To kick someone violently in the face."
         },
         {
           "text": "Mat kar, pari pana",
           "keyword": "Pari Pana",
           "type": "Slang",
-          "meaning": "Don't try to act smart or overdo things."
+          "meaning": "Don't act soft or delicate (like a 'Papa ki Pari')."
         }
       ]
     },

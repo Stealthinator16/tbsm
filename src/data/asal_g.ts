@@ -267,7 +267,7 @@ export const asal_g: Song = {
         {
           "keyword": "Chapad",
           "type": "Hindi",
-          "meaning": "\"Silent\" or \"Hush\" (Hindi). Suggesting keeping things discreet or secretive."
+          "meaning": "Chapad - A heavy meat cleaver or butcher's knife. Comparing his sharp lyrical delivery to a heavy cutting blade."
         }
       ]
     },
@@ -293,7 +293,7 @@ export const asal_g: Song = {
         {
           "keyword": "Ghisu",
           "type": "Hindi/Slang",
-          "meaning": "\"Overused\" or \"Worn out\" (Hindi). Suggesting that someone is unoriginal or repetitive."
+          "meaning": "Ghisna - Hindi for grinding or working hard. He grinds a lot but keeps it lowkey without showing off."
         }
       ]
     },
@@ -441,28 +441,14 @@ export const asal_g: Song = {
       "speaker": "Calm",
       "translation": "Half these boys are just 'Mini-Mes'.",
       "explanation": "Reference to Austin Powers; implying other rappers are just smaller, inferior clones of SM.",
-      "annotations": [
-        {
-          "text": "Seedhe Maut नशा है LSD तभी यहां नज़र है नक़लची",
-          "keyword": "Seedhe Maut, LSD",
-          "type": "Metaphor",
-          "meaning": "Comparing their music's impact to the effects of LSD, implying its a psychedelic, mind-altering experience. Nylchi means tripping"
-        }
-      ]
+      "annotations": []
     },
     {
       "original": "पढ़ूँ जैसे comic है",
       "speaker": "Calm",
       "translation": "I read them like a comic book.",
       "explanation": "Opponents are easy to read and not meant to be taken seriously.",
-      "annotations": [
-        {
-          "text": "लौंडों के moves जैसे Booker T",
-          "keyword": "Booker T",
-          "type": "Reference",
-          "meaning": "Referring to Booker T, a famous wrestler, implying that their moves and actions are calculated and powerful, like a wrestling match."
-        }
-      ]
+      "annotations": []
     },
     {
       "original": "कच्ची मिट्टी लेकर खेल, league थोड़ी अलग है",
@@ -524,28 +510,14 @@ export const asal_g: Song = {
       "speaker": "Encore ABJ",
       "translation": "New punch in hand, taken from Dwarka.",
       "explanation": "Hook repetition.",
-      "annotations": [
-        {
-          "text": "हूँ King Kai जैसे सिखाऊं how to get this cake",
-          "keyword": "King Kai",
-          "type": "Reference",
-          "meaning": "Referring to King Kai, a character from Dragon Ball Z. It means he's like a sensei or mentor, teaching how to achieve success ('get this cake')."
-        }
-      ]
+      "annotations": []
     },
     {
       "original": "मुंह पे साढ़े पांच छेद, बेटा हाथ तेज़ चले हैं यहां पे",
       "speaker": "Encore ABJ",
       "translation": "Five and a half holes on the face, son, hands move fast here.",
       "explanation": "Hook repetition.",
-      "annotations": [
-        {
-          "text": "I wake n bake हूँ paper plane पे paper chasing",
-          "keyword": "Wake n bake, paper chasing",
-          "type": "Slang",
-          "meaning": "\"Wake n bake\" is slang for smoking weed immediately after waking up. \"Paper chasing\" is slang for actively pursuing wealth and financial success."
-        }
-      ]
+      "annotations": []
     },
     {
       "original": "Your ego feeling achy, achy, achy, achy",
@@ -615,14 +587,7 @@ export const asal_g: Song = {
       "speaker": "Faris Shafi",
       "translation": "Everyone says Faris is unstable.",
       "explanation": "Addressing his 'mad genius' persona that is popular in DHH.",
-      "annotations": [
-        {
-          "text": "ऊपर फटता बादल हूं मैं",
-          "keyword": "Fata Badal",
-          "type": "Metaphor",
-          "meaning": "Comparing himself to torn clouds, implying he is unpredictable and disruptive."
-        }
-      ]
+      "annotations": []
     },
     {
       "original": "All I do is watch my enemies die, haye",
@@ -636,14 +601,7 @@ export const asal_g: Song = {
       "speaker": "Faris Shafi",
       "translation": "They all want to come near me, sigh.",
       "explanation": "Expressing boredom with people trying to get close to him for his fame.",
-      "annotations": [
-        {
-          "text": "ये power level over 9k",
-          "keyword": "Power level over 9k",
-          "type": "Reference",
-          "meaning": "A famous quote from Dragon Ball Z, signifying an extremely high power level, meaning he is above the competition."
-        }
-      ]
+      "annotations": []
     },
     {
       "original": "Ok bye, sexual karti apne aap ko identify",

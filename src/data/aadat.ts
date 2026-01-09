@@ -269,7 +269,7 @@ export const aadat: Song = {
         {
           "keyword": "Baawe",
           "type": "Slang",
-          "meaning": "Referring to an idiot or fool."
+          "meaning": "Brother/Homie (Delhi slang)."
         },
         {
           "text": "Icedout पर भूला ना करना इबादत",
@@ -558,8 +558,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "जोटो",
-          "type": "Hindi",
-          "meaning": "\"Jooton\" translates to \"Shoes\" in English."
+          "type": "Slang",
+          "meaning": "Joto/Joint - Slang for marijuana cigarettes/joints. He's addicted to smoking weed."
         },
         {
           "keyword": "noto",
@@ -576,8 +576,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "गोट",
-          "type": "Hindi",
-          "meaning": "\"Gaanton\" translates to \"Songs\" in English."
+          "type": "Slang",
+          "meaning": "GOAT - Greatest Of All Time. He's used to being praised as one of the best."
         },
         {
           "text": "आदत है toxic हूँ आदत है खोने की लोग",
@@ -596,7 +596,7 @@ export const aadat: Song = {
         {
           "keyword": "BT",
           "type": "Hindi",
-          "meaning": "\"BT\" could mean \"Buri Tarah\" which translates to \"Badly\" in English."
+          "meaning": "Bad Trip (BT); Delhi slang for stress, anxiety, or a bad situation."
         }
       ]
     },
@@ -608,8 +608,8 @@ export const aadat: Song = {
       "annotations": [
         {
           "keyword": "BK",
-          "type": "Abbreviation",
-          "meaning": "Potentially referring to Burger King. Could imply indulging in fast food while in the studio."
+          "type": "Reference",
+          "meaning": "BK refers to Bharg, a frequent producer and collaborator of Seedhe Maut. They're close enough that Calm feels comfortable being in his studio even when messed up."
         },
         {
           "text": "आदत है सुनने की गोट",
@@ -629,7 +629,7 @@ export const aadat: Song = {
           "text": "आदत है लेने की BT हमेशा पर इस बार not taking that road",
           "keyword": "BT",
           "type": "Slang",
-          "meaning": "BT is referring to Bombay Times, which is a gossip magazine. They are not taking the usual path."
+          "meaning": "BT (Bad Trip) - Delhi slang for stress, anxiety, or a bad situation. He's used to dealing with stress but is choosing to avoid it this time."
         }
       ]
     },

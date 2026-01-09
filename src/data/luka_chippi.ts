@@ -15,7 +15,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "Seedhe Maut",
-          "type": "Artist Name"
+          "type": "Reference",
+          "meaning": "Name of the hip-hop duo consisting of Encore ABJ and Calm."
         },
         {
           "text": "तेरा भाई Seedhe Maut",
@@ -33,7 +34,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "हथेली में खुजली",
-          "type": "Superstition/Slang"
+          "type": "Culture",
+          "meaning": "Hathheli mein khujli - Itching in the palm, often interpreted as an omen of receiving money."
         }
       ]
     },
@@ -45,7 +47,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "2Pac, Biggie",
-          "type": "Pop Culture Reference"
+          "type": "Reference",
+          "meaning": "Refers to Tupac Shakur and The Notorious B.I.G., two highly influential but deceased rappers from the USA. Often seen as rivals."
         }
       ]
     },
@@ -57,7 +60,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "कवि",
-          "type": "Alter Ego"
+          "type": "Slang",
+          "meaning": "Kavi - Poet. Implies the person is living like a hero in a movie, but the speaker uses this word to show sarcasm."
         }
       ]
     },
@@ -69,10 +73,11 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "लुका छिप्पी",
-          "type": "Song Title/Metaphor"
+          "type": "Culture",
+          "meaning": "Luka Chuppi - Hide-and-seek. Refers to hiding their true selves, possibly from the public eye or industry expectations."
         },
         {
-          "text": "जो हैं सब मुंह पे no लुका छिप৔ी",
+          "text": "जो हैं सब मुंह पे no लुका छिप्पी",
           "keyword": "Luka Chippi",
           "type": "Metaphor",
           "meaning": "Playing hide and seek, suggesting people are hiding their true intentions or identities."
@@ -87,7 +92,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "Westin",
-          "type": "Brand"
+          "type": "Place",
+          "meaning": "Referring to the luxury hotel chain Westin. Likely used to indicate a high-end lifestyle."
         }
       ]
     },
@@ -99,7 +105,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "नौशा",
-          "type": "Personal Name"
+          "type": "Culture",
+          "meaning": "Nausha - Bridegroom. Implies they're living lavish and luxurious."
         }
       ]
     },
@@ -125,7 +132,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "अब तक छप्पन",
-          "type": "Movie Reference"
+          "type": "Reference",
+          "meaning": "Ab tak chhappan - A reference to the Bollywood movie 'Ab Tak Chhappan' (56 Till Now), about an encounter specialist policeman. Here, it implies they have marked many targets."
         }
       ]
     },
@@ -144,7 +152,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "किलस",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Kilas - Delhi slang for frustration, irritation, or jealousy. Implying he is fed up with the industry."
         },
         {
           "text": "इस industry से किलस गया",
@@ -232,7 +241,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "ठाए ठाए",
-          "type": "Onomatopoeia"
+          "type": "Slang",
+          "meaning": "Thaye Thaye - Onomatopoeia for gunshots. Implies that his words hit like bullets, scaring people away."
         }
       ]
     },
@@ -272,7 +282,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "302",
-          "type": "Legal Reference"
+          "type": "Reference",
+          "meaning": "Section 302 of the Indian Penal Code, which deals with punishment for murder. Used metaphorically to represent dominance or a deadly presence."
         }
       ]
     },
@@ -347,7 +358,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "दस्ती",
-          "type": "Slang/Urdu"
+          "type": "Slang",
+          "meaning": "Dasti - Instantly or Immediately (literally 'by hand'). Implies work gets done right away."
         }
       ]
     },
@@ -366,7 +378,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "USA",
-          "type": "Slang/Acronym"
+          "type": "Place",
+          "meaning": "United States of America. It implies he is living in Delhi but has his eyes set to the USA."
         }
       ]
     },
@@ -378,7 +391,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "K-town",
-          "type": "Location Slang"
+          "type": "Place",
+          "meaning": "Refers to their neighborhood/area, likely a reference to a specific locality in Delhi, where they are based."
         }
       ]
     },
@@ -432,7 +446,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "Drip",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang for having a stylish or fashionable appearance."
         }
       ]
     },
@@ -444,7 +459,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "Evisu",
-          "type": "Brand"
+          "type": "Reference",
+          "meaning": "A Japanese denim brand known for its high quality and distinctive seagull logo. The speaker indicating a specific brand of jacket."
         }
       ]
     },
@@ -470,7 +486,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "attaché",
-          "type": "Wordplay"
+          "type": "Slang",
+          "meaning": "Attache - Briefcase. Using it as a pun on 'attach', implying using a heavy briefcase as a weapon to hit the head."
         },
         {
           "text": "ये jacket है Evisu",
@@ -488,7 +505,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "Bambino",
-          "type": "Brand/Pun"
+          "type": "Reference",
+          "meaning": "Brand name of a popular macaroni/pasta product in India. Here, it is used to refer to their work being homemade and original."
         }
       ]
     },
@@ -535,7 +553,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "कद्दूकस",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "Kaddukas - Grater (kitchen utensil). He is metaphorically saying he will grate ('silence') her tongue."
         }
       ]
     },
@@ -561,7 +580,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "झंड",
-          "type": "Slang/Wordplay"
+          "type": "Slang",
+          "meaning": "Jhand - Ruined / Fucked up. 'Jhand hokar' means he came back feeling ruined or humiliated."
         }
       ]
     },
@@ -603,7 +623,7 @@ export const luka_chippi: Song = {
           "text": "करदूं ना ज़बान को आपकी, मैं कद्दूकस\"",
           "keyword": "Kaddukas",
           "type": "Slang",
-          "meaning": "Kaddukas means grated. The sentence says 'Kardun na zabaan ko aapki, main kaddukas' - meaning 'Should I grate your tongue, I am kaddukas', warning someone to stay quiet, as they are prepared to silence them."
+          "meaning": "Bandi kari wet - Made the girl wet. 'Fisal gaya' means slipped. A sexual double entendre."
         }
       ]
     },
@@ -631,7 +651,7 @@ export const luka_chippi: Song = {
           "text": "झंडे नी गाढ़े, मैं आ गया झंड होकर",
           "keyword": "Jhand",
           "type": "Slang",
-          "meaning": "\"Jhand\" means terrible or ruined, basically saying 'don't sing terrible songs, I have come and ruined it (made it terrible)'"
+          "meaning": "\"Jhand\" means ruined or messed up. He came back feeling messed up/wasted."
         }
       ]
     },
@@ -657,7 +677,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "फुद्दु",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Phuddu - Fool or idiot. Used as an insult, implying someone is naive or easily fooled."
         }
       ]
     },
@@ -725,7 +746,8 @@ export const luka_chippi: Song = {
       "annotations": [
         {
           "keyword": "भसड़",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Bhasad - Chaos, mess, or trouble. Used to indicate a problematic or difficult situation."
         },
         {
           "text": "Anti sober",

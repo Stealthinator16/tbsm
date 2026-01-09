@@ -16,7 +16,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "दिमाग",
-          "type": "noun"
+          "type": "Hindi (Word)",
+          "meaning": "Brain/Mind. The line refers to the speaker's mind."
         }
       ]
     },
@@ -28,7 +29,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "Sharpener",
-          "type": "simile"
+          "type": "Metaphor",
+          "meaning": "A tool used to sharpen pencils; metaphorically, refining skills or ideas to make them 'sharp'."
         },
         {
           "text": "Sharp चले जैसे कोई sharpener",
@@ -46,7 +48,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "कलम की धार",
-          "type": "metaphor"
+          "type": "Hindi (Phrase)",
+          "meaning": "The sharpness/power of my pen. Meaning the skill and impact of the rapper's lyrics."
         }
       ]
     },
@@ -58,7 +61,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "चन्द्र शेखर आज़ाद",
-          "type": "historical reference"
+          "type": "Reference (Historical)",
+          "meaning": "Free/Independent like Chandrashekhar Azad, a famous Indian revolutionary. The phrase implies freedom and rebellion."
         },
         {
           "text": "आज़ाद जैसे चन्द्र शेखर आज़ाद पर",
@@ -83,7 +87,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "Bhavi और Bhaskar",
-          "type": "pop culture reference"
+          "type": "Reference (Hip Hop)",
+          "meaning": "Creative collaborators/Artists. Likely referring to friends/associates in the scene, not the Argentinian rapper."
         }
       ]
     },
@@ -109,7 +114,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "झाँट भर",
-          "type": "slang"
+          "type": "Slang (Hindi)",
+          "meaning": "Insignificant/Tiny. Literally 'Pubic hair's worth' (Vulgar slang). Means others are nothing compared to him."
         }
       ]
     },
@@ -163,7 +169,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "Baqa",
-          "type": "slang/filler"
+          "type": "Hindi (Word)",
+          "meaning": "To remain/survive. The speaker is asking who will remain if he starts flowing like this."
         },
         {
           "text": "बाक़ा ऐसे flow से बता करेगा कौन fuck",
@@ -181,7 +188,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "Ong Bak",
-          "type": "movie reference"
+          "type": "Reference (Movie)",
+          "meaning": "Refers to the movie Ong Bak, known for its intense martial arts action. The line implies the speaker's rap is as impactful and hard-hitting."
         }
       ]
     },
@@ -249,7 +257,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "तलवार",
-          "type": "metaphor"
+          "type": "Hindi (Word/Metaphor)",
+          "meaning": "Sword. Here, it is used as a metaphor to showcase his skill as a rapper, implying the sharp edge his words carry."
         }
       ]
     },
@@ -324,7 +333,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "इबादतें",
-          "type": "urdu word"
+          "type": "Hindi (Word)",
+          "meaning": "Worships/Praises. It is used here to say people worship/praise him."
         }
       ]
     },
@@ -343,7 +353,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "लानत",
-          "type": "shame/curse"
+          "type": "Hindi (Word)",
+          "meaning": "Cursing/Damning. The speaker is saying they are cursing him."
         }
       ]
     },
@@ -355,7 +366,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "राहत",
-          "type": "song title/theme"
+          "type": "Hindi (Word)",
+          "meaning": "Comfort/Relief. The line is a plea for the artist to be given comfort."
         }
       ]
     },
@@ -395,7 +407,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "बावे",
-          "type": "slang"
+          "type": "Hindi (Word/Metaphor)",
+          "meaning": "Bro/Dude. Common Delhi slang term for a friend."
         }
       ]
     },
@@ -435,7 +448,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "Rollie",
-          "type": "luxury reference"
+          "type": "Slang/Reference (Materialism)",
+          "meaning": "A Rolex watch. It's a status symbol in hip-hop, representing success and wealth."
         },
         {
           "text": "बावे मुझे पता है नहीं है time",
@@ -467,11 +481,13 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "91",
-          "type": "country code"
+          "type": "Culture (India)",
+          "meaning": "Refers to India's country code (+91), connecting them to their roots."
         },
         {
           "keyword": "खपेटर",
-          "type": "slang"
+          "type": "Hindi (Word)",
+          "meaning": "Troublemakers/Mischief-makers. It implies they are surrounded by people causing problems."
         }
       ]
     },
@@ -546,7 +562,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "अकबर",
-          "type": "historical reference"
+          "type": "Reference (Historical)",
+          "meaning": "Refers to the Mughal emperor Akbar. Implies being royal and powerful."
         }
       ]
     },
@@ -586,7 +603,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "trip",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "To hallucinate because of drug use. Used to suggest staying away from drugs."
         }
       ]
     },
@@ -612,7 +630,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "drip",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Style/Fashion. Refers to an impressive and fashionable appearance."
         },
         {
           "text": "Verse मेरा दर्द की है दरकार",
@@ -651,7 +670,8 @@ export const rahat: Song = {
       "annotations": [
         {
           "keyword": "sauce",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "A slang term for having style and appeal. It means people want to 'dip' or associate with them because of their appealing style."
         }
       ]
     },

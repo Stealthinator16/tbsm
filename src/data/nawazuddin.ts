@@ -337,7 +337,7 @@ export const nawazuddin: Song = {
           "text": "Girenge daat tees",
           "keyword": "Daat Tees",
           "type": "Slang",
-          "meaning": "All 32 teeth will fall out. A threat of violence."
+          "meaning": "Thirty teeth will fall. (Standard is 32, but 'Tees' rhymes). A threat of violence."
         }
       ]
     },
@@ -358,7 +358,7 @@ export const nawazuddin: Song = {
           "text": "Ye sui poore waqt rahe chaar bees pe par",
           "keyword": "Chaar bees",
           "type": "Slang",
-          "meaning": "Refers to Section 420 of the Indian Penal Code, dealing with fraud/cheating. Implying someone is always fraudulent or deceptive."
+          "meaning": "Refers to 4:20 (Weed time) in this context. While Section 420 is fraud, 'Sui' (needle) at 4:20 implies constant high state."
         }
       ]
     },
@@ -587,7 +587,7 @@ export const nawazuddin: Song = {
           "text": "Vo apni T shirt utaare ghumaari",
           "keyword": "Ghumaari",
           "type": "Slang",
-          "meaning": "Hindi slang for being arrogant or cocky. The girl is arrogant."
+          "meaning": "Waving/Swinging. Referring to the act of taking off the shirt and waving it in the air."
         }
       ]
     },

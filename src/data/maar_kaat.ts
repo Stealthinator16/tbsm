@@ -16,7 +16,8 @@ export const maar_kaat: Song = {
       "annotations": [
         {
           "keyword": "Maar Kaat",
-          "type": "Slang/Action"
+          "type": "Slang",
+          "meaning": "Carnage/Violence. Fighting and killing."
         }
       ]
     },
@@ -40,7 +41,8 @@ export const maar_kaat: Song = {
       "annotations": [
         {
           "keyword": "Khatiya khadi karna",
-          "type": "Idiom"
+          "type": "Idiom",
+          "meaning": "To cause great trouble/distress for someone."
         }
       ]
     },
@@ -52,7 +54,8 @@ export const maar_kaat: Song = {
       "annotations": [
         {
           "keyword": "Mai-Baap",
-          "type": "Slang"
+          "type": "Idiom",
+          "meaning": "Godfathers/Protectors/Bosses."
         },
         {
           "text": "लौंडो के हैं दस-दस माई-बाप",
@@ -91,7 +94,8 @@ export const maar_kaat: Song = {
       "annotations": [
         {
           "keyword": "Bite",
-          "type": "Hip-hop Slang"
+          "type": "Hip-hop Slang",
+          "meaning": "To copy or steal someone's style or lyrics."
         },
         {
           "text": "अब नहीं करेगा bite और gun on the mic",
@@ -142,7 +146,8 @@ export const maar_kaat: Song = {
       "annotations": [
         {
           "keyword": "Totla",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Lisper/Stutterer."
         }
       ]
     },
@@ -166,7 +171,8 @@ export const maar_kaat: Song = {
       "annotations": [
         {
           "keyword": "Supari",
-          "type": "Term"
+          "type": "Slang",
+          "meaning": "Contract for killing someone."
         }
       ]
     },
@@ -192,7 +198,8 @@ export const maar_kaat: Song = {
       "annotations": [
         {
           "keyword": "Fufa ji",
-          "type": "Cultural Reference"
+          "type": "Cultural Reference",
+          "meaning": "Influential uncle/relative. Often implies nepotism or connections."
         }
       ]
     },
@@ -222,7 +229,8 @@ export const maar_kaat: Song = {
       "annotations": [
         {
           "keyword": "Phoonka",
-          "type": "Slang for smoking"
+          "type": "Slang",
+          "meaning": "To smoke (usually weed)."
         },
         {
           "text": "बुला रही Kota वो क्योंकि बोहोत दिन हो गए फूँका नहीं",
@@ -261,7 +269,8 @@ export const maar_kaat: Song = {
       "annotations": [
         {
           "keyword": "Baawe",
-          "type": "Delhi Slang"
+          "type": "Slang",
+          "meaning": "Brother/Friend. Common Delhi slang."
         },
         {
           "keyword": "Gorkhali",
@@ -314,7 +323,8 @@ export const maar_kaat: Song = {
       "annotations": [
         {
           "keyword": "Pinnak",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Intoxication/High state. Also stubbornness."
         }
       ]
     },
@@ -328,7 +338,7 @@ export const maar_kaat: Song = {
           "text": "चुचे दिखा baby अपनी pinnak साड़ी हटा",
           "keyword": "Pinnacle",
           "type": "Slang",
-          "meaning": "Showing their achievements, letting people know their pinnacle or apex of the field is quite large. It indicates their high level of success."
+          "meaning": "Refers to 'Pinnak' (intoxication/tantrum). Asking to remove the 'saree' of her attitude/drama."
         }
       ]
     },
@@ -347,7 +357,8 @@ export const maar_kaat: Song = {
       "annotations": [
         {
           "keyword": "Dallo",
-          "type": "Slang/Insult"
+          "type": "Slang",
+          "meaning": "Pimps/Sellouts."
         }
       ]
     },
@@ -385,7 +396,8 @@ export const maar_kaat: Song = {
       "annotations": [
         {
           "keyword": "Chelo",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Disciples/Minions."
         }
       ]
     },

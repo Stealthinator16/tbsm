@@ -322,7 +322,7 @@ export const dikkat: Song = {
           "text": "जाए BT सारी दूर जब ये mic on है",
           "keyword": "BT",
           "type": "Reference",
-          "meaning": "Likely refers to one of the members of Seedhe Maut, Calm. BT could be initials or a nickname."
+          "meaning": "BT (Bad Trip) - Delhi slang for stress, anxiety, or a bad situation. All worries disappear when the mic is on."
         }
       ]
     },

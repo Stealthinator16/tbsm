@@ -28,12 +28,7 @@ export const naraaz: Song = {
     {
       "original": "Kya maine aisa kar diya jo chhod gaya tu raaste pe humko",
       "annotations": [
-        {
-          "text": "Saath chala tha tu bhai banke",
-          "keyword": "bhai",
-          "type": "Cultural",
-          "meaning": "'Bhai' translates to brother and signifies a close friendship or camaraderie."
-        }
+
       ]
     },
     {

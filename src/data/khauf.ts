@@ -96,7 +96,7 @@ export const khauf: Song = {
         {
           "keyword": "BT",
           "type": "Slang",
-          "meaning": "Before; short form for 'Before Taxes' implying they were better before or already at the top"
+          "meaning": "Bad Trip. Delhi slang for stress, anxiety, or a bad situation."
         },
         {
           "keyword": "Dallo",

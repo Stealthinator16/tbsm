@@ -199,7 +199,7 @@ export const bechara: Song = {
         {
           "keyword": "घोंसले",
           "type": "Hindi/Slang",
-          "meaning": "Bastard/A**hole. An insult."
+          "meaning": "Nests. He prefers his own safe space/home ('nest') over the 'chochle' (chaos) of the world."
         }
       ]
     },
@@ -219,7 +219,7 @@ export const bechara: Song = {
         {
           "keyword": "भोसड़े",
           "type": "Hindi/Slang",
-          "meaning": "Referring to rappers as 'MC's/Microphone controllers"
+          "meaning": "Vulgar slang for 'assholes'. 'Khole bhosde' means he tore them apart (destroyed them) lyrically."
         },
         {
           "text": "No pain, show fees, propane, Rolex",

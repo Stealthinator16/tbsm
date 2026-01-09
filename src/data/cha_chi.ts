@@ -69,7 +69,7 @@ export const cha_chi: Song = {
           "text": "चाची के चूचे पे चटनी गिरायी",
           "keyword": "Cha Chi",
           "type": "Slang",
-          "meaning": "Could refer to 'Charsi', a slang term for a drug addict, or someone under the influence, implying a reliance on substances or unhealthy coping mechanisms."
+          "meaning": "Refers to 'Aunt' (Chachi/Aunty). The line is a surreal/absurdist imagery."
         }
       ]
     },
@@ -142,7 +142,7 @@ export const cha_chi: Song = {
           "text": "है Greatest कौन ऊँगली पे गिनेगा BK",
           "keyword": "Greatest",
           "type": "Reference",
-          "meaning": "BK refers to Encore ABJ (Abhishek Bisht), claiming his position as one of the greats within the Desi Hip Hop scene. Its confident self-proclamation."
+          "meaning": "BK refers to Bharg (Bharg Kale), the music producer, or simply 'Bhai' (Brother). It implies that the list of greats is very short."
         }
       ]
     },
@@ -216,12 +216,7 @@ export const cha_chi: Song = {
           "keyword": "DL91",
           "type": "location/code"
         },
-        {
-          "text": "मैं बातों को downer पे कर रहा repeat",
-          "keyword": "Downer",
-          "type": "Metaphor",
-          "meaning": "Refers to using substances (or perhaps negative thought patterns) to numb emotional pain or escape reality."
-        }
+
       ]
     },
     {
@@ -230,12 +225,7 @@ export const cha_chi: Song = {
       "translation": "Bought a car for my father, but he doesn't drive it.",
       "explanation": "A sign of success—being able to provide luxury for parents, even if they are too humble to use it.",
       "annotations": [
-        {
-          "text": "DL91 यहाँ पे शैतान हैं सब",
-          "keyword": "DL91",
-          "type": "Reference",
-          "meaning": "DL91 refers to Delhi's area code, indicating a specific locality and adding a personal touch to the song."
-        }
+
       ]
     },
     {

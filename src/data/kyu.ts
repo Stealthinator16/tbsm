@@ -16,7 +16,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "छीन के",
-          "type": "action"
+          "type": "Slang",
+          "meaning": "Only the 'Chheen ke' ones will take it from here, meaning those who snatch/grab opportunities or success by force or aggressive means."
         }
       ]
     },
@@ -35,7 +36,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "आँखें खोले सो",
-          "type": "idiom"
+          "type": "Idiom",
+          "meaning": "Open your eyes; be aware and observant."
         }
       ]
     },
@@ -47,7 +49,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "सुलाने वाला",
-          "type": "metaphor"
+          "type": "Slang",
+          "meaning": "'Sulane wala' is someone who puts you to sleep or pacifies you. Here, it implies someone who deceives or calms you with false promises."
         }
       ]
     },
@@ -73,7 +76,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "बापू",
-          "type": "historical figure"
+          "type": "Slang",
+          "meaning": "'Bapu' usually means father, but here it is used sarcastically for those who talk big but don't act on their words. It can also be interpreted as referring to figures of authority or leaders who make empty promises."
         }
       ]
     },
@@ -106,7 +110,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "King Kong",
-          "type": "pop culture"
+          "type": "Reference",
+          "meaning": "Refers to the fictional giant ape, King Kong. Here, it's used to describe someone or something with immense power and destructive potential."
         }
       ]
     },
@@ -118,7 +123,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "कीड़े",
-          "type": "slang for haters"
+          "type": "Metaphor",
+          "meaning": "Keede literally translates to 'worms' or 'insects'. In this context, it's likely used metaphorically to describe negative thoughts, anxieties, or inner demons that bother a person."
         },
         {
           "text": "दहाडु जैसे King Kong",
@@ -164,7 +170,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "घिसा",
-          "type": "slang for hustle"
+          "type": "Slang",
+          "meaning": "'Ghisa' means something that has been rubbed or worn down. The line implies that they've been grinding for three years."
         }
       ]
     },
@@ -260,7 +267,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "आका",
-          "type": "master/lord"
+          "type": "Slang",
+          "meaning": "'Aaka' means Master or Lord. Time is your master."
         }
       ]
     },
@@ -272,7 +280,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "सांझा",
-          "type": "partner"
+          "type": "Slang",
+          "meaning": "Partner/Companion. Time is your only partner."
         }
       ]
     },
@@ -354,7 +363,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "मूत गया",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "'Moot gaya' means pissed on. Here, the speaker is saying 'the whole country is pissed on' implying that the whole country is done for."
         }
       ]
     },
@@ -373,7 +383,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "कलेश",
-          "type": "conflict/drama"
+          "type": "Slang",
+          "meaning": "'Kalesh' means conflict, trouble, or drama. It describes a situation filled with problems."
         }
       ]
     },
@@ -392,7 +403,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "जिगरा",
-          "type": "courage/guts"
+          "type": "Slang",
+          "meaning": "'Jigara' refers to courage or a strong heart."
         }
       ]
     },
@@ -406,7 +418,7 @@ export const kyu: Song = {
           "text": "निगाहे करी तीखी",
           "keyword": "निगाहे करी",
           "type": "Slang",
-          "meaning": "Taking care of (someone or something)."
+          "meaning": "Made my gaze sharp. Focused intensely."
         }
       ]
     },
@@ -425,7 +437,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "सीधे मौत",
-          "type": "artist name"
+          "type": "Reference",
+          "meaning": "Seedhe Maut is the name of the rap duo. Direct Death."
         }
       ]
     },
@@ -444,7 +457,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "मीठे",
-          "type": "slang/insult"
+          "type": "Descriptive",
+          "meaning": "'Meethe' means sweeter. In this line, it implies something is even sweeter than sugar, perhaps referring to success, revenge, or satisfaction."
         }
       ]
     },
@@ -491,7 +505,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "दायित्व",
-          "type": "responsibility"
+          "type": "Word",
+          "meaning": "'Dayitva' means responsibility."
         }
       ]
     },
@@ -517,7 +532,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "शमशान",
-          "type": "graveyard"
+          "type": "Metaphor",
+          "meaning": "'Shamshaan' means cremation ground. Here, it's a metaphor for work being a destructive and draining place."
         }
       ]
     },
@@ -669,7 +685,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "कीड़े पड़े",
-          "type": "curse/slang"
+          "type": "Slang",
+          "meaning": "'Keede pade' is a curse, wishing someone to be inflicted with worms. Here, it's used to express anger or resentment."
         }
       ]
     },
@@ -751,7 +768,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "हाथ कड़ी",
-          "type": "handcuffs/metaphor"
+          "type": "Slang",
+          "meaning": "Handcuffs. 'Haath kadi' means handcuffs."
         }
       ]
     },
@@ -763,7 +781,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "पुढ़िया",
-          "type": "slang for packet"
+          "type": "Slang",
+          "meaning": "Packet/Pouch (usually containing drugs). 'Pudhiya' means a small packet."
         }
       ]
     },
@@ -782,7 +801,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "गांडू",
-          "type": "profanity/slang"
+          "type": "Slang",
+          "meaning": "'Gaandu' is a very offensive Hindi slang term. Here, its used as someone who is weak or easily taken advantage of."
         }
       ]
     },
@@ -794,7 +814,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "सूली",
-          "type": "gallows"
+          "type": "Word",
+          "meaning": "Sooli means an impaling stake or gallows, a sharp object on which people were executed. It is commonly used in phrases such as 'Sooli Chadha Dena' which means punishing someone severely"
         }
       ]
     },
@@ -813,7 +834,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "दलदल",
-          "type": "quicksand/metaphor"
+          "type": "Slang",
+          "meaning": "Daldal means a swamp, something that is mucky. But here it implies something that is sticky"
         }
       ]
     },
@@ -895,7 +917,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "फूक कर",
-          "type": "slang for smoking"
+          "type": "Slang",
+          "meaning": "Phook kar is a Hindi slang which translates to being puffed out or being full of hot air. This is used to insult or question the words of someone."
         },
         {
           "text": "सुना सच है पूरा देश घूम गया",
@@ -962,7 +985,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "भेड",
-          "type": "insult/metaphor"
+          "type": "Slang",
+          "meaning": "Bhed is slang for Sheep. Here, it is used to say that people blindly follow."
         }
       ]
     },
@@ -974,7 +998,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "फट्टी",
-          "type": "slang for scared"
+          "type": "Slang",
+          "meaning": "Fatti Jeb is a Hindi slang for an empty pocket or someone with no money"
         }
       ]
     },
@@ -1000,7 +1025,8 @@ export const kyu: Song = {
       "annotations": [
         {
           "keyword": "फुदी",
-          "type": "profanity/slang"
+          "type": "Slang",
+          "meaning": "Phuddi is a very crude Hindi slang word"
         }
       ]
     },

@@ -15,7 +15,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Gaali galoch",
-          "type": "Slang"
+          "type": "Hindi Slang",
+          "meaning": "Swearing or Cursing. (Hindi for 'abusive language')"
         }
       ]
     },
@@ -27,7 +28,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Fook",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Smoking (weed/hash)."
         }
       ]
     },
@@ -46,7 +48,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Bread",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Money or income."
         }
       ]
     },
@@ -58,7 +61,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Force",
-          "type": "Reference"
+          "type": "Slang",
+          "meaning": "A powerful or influential group or backing."
         }
       ]
     },
@@ -112,7 +116,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Bread",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Money or income."
         }
       ]
     },
@@ -138,7 +143,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Khosla Ka Ghosla",
-          "type": "Reference"
+          "type": "Reference",
+          "meaning": "Referring to the movie 'Khosla ka Ghosla', implying a desire for property or a secure place, or even a successful scheme."
         },
         {
           "text": "Yaha Khosle ko ghosla do ek aur",
@@ -170,11 +176,13 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Calm",
-          "type": "Person"
+          "type": "Reference",
+          "meaning": "One half of Seedhe Maut. Referring to Calm, his stage name."
         },
         {
           "keyword": "Baap",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Term of respect meaning 'father' or 'boss,' implying dominance and respect."
         }
       ]
     },
@@ -200,7 +208,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Industry plant",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "A derogatory term for someone who is perceived as being artificially promoted or supported by the music industry, often implying they lack genuine talent and have advantages due to connections or financial backing."
         }
       ]
     },
@@ -212,7 +221,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Siddhant",
-          "type": "Person"
+          "type": "Reference",
+          "meaning": "Referring to Encore ABJ, the other half of Seedhe Maut. Siddhant is his real name."
         }
       ]
     },
@@ -224,7 +234,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Zidane",
-          "type": "Reference"
+          "type": "Reference",
+          "meaning": "Referring to Zinedine Zidane, a famous football player known for head-butting another player during a match. Implying aggression or a striking move."
         }
       ]
     },
@@ -243,7 +254,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Pushpak Vimaan",
-          "type": "Reference"
+          "type": "Reference",
+          "meaning": "A mythical flying vehicle from Hindu mythology, symbolizing being on a higher level or achieving great success."
         }
       ]
     },
@@ -262,13 +274,14 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Jota",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Joint (Marijuana). 'Jote' implies joints are lit."
         },
         {
           "text": "Yo ravi ka jota sambhaalke ah",
           "keyword": "Ravi ka jota",
           "type": "Slang",
-          "meaning": "This is a colloquial reference to being a bootlicker or sycophant. \"Jota\" means shoe, so it literally means holding onto someone's shoe (doing favors)."
+          "meaning": "'Jota' refers to a Joint (marijuana). 'Ravi ka jota' implies a specific potent supply."
         }
       ]
     },
@@ -364,7 +377,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Jigga",
-          "type": "Reference"
+          "type": "Slang",
+          "meaning": "Nickname for Jay-Z. \"Jigga jaisa hai zone yaha\" involves comparing their mindset or status to that of the rap mogul Jay-Z."
         }
       ]
     },
@@ -404,7 +418,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Kilaste",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "To burn with jealousy or anger. 'Kilaste' means they are getting jealous/annoyed."
         }
       ]
     },
@@ -416,7 +431,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "ABJ",
-          "type": "Person"
+          "type": "Reference",
+          "meaning": "Referring to Encore ABJ; his initials."
         }
       ]
     },
@@ -512,7 +528,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Jaali",
-          "type": "Slang"
+          "type": "Hindi Slang",
+          "meaning": "Fake or not genuine."
         }
       ]
     },
@@ -566,7 +583,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Kurama",
-          "type": "Reference"
+          "type": "Reference",
+          "meaning": "Refers to the nine-tailed fox from the anime Naruto. The line as a whole means to not ask pointless questions"
         }
       ]
     },
@@ -599,7 +617,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Majama",
-          "type": "Slang"
+          "type": "Hindi Slang",
+          "meaning": "Happening with enjoyment and fun."
         },
         {
           "text": "Tera bhai khole katana",
@@ -736,7 +755,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Pukky",
-          "type": "Slang"
+          "type": "Punjabi Slang",
+          "meaning": "\"Pukki\" usually refers to Opium or heavy intoxication in Punjabi slang. \"Pukky peekay\" implies consuming substances."
         }
       ]
     },
@@ -748,7 +768,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Gian Singh",
-          "type": "Person"
+          "type": "Punjabi Culture",
+          "meaning": "Gian Singh is Sikander Kahlon's father. Kahlon often references his father's tough reputation."
         }
       ]
     },
@@ -760,7 +781,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Pind",
-          "type": "Slang"
+          "type": "Punjabi Culture",
+          "meaning": "Village. (Punjabi for 'In my village not even a drop of sweat was spilled')"
         },
         {
           "text": "Industry dekhu aur lage 'the fuck is a fair play'",
@@ -855,7 +877,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Zaza",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Exotic, high-quality marijuana."
         },
         {
           "text": "Gian Singh tha Munda goonda",
@@ -873,7 +896,8 @@ export const pushpak_vimaan: Song = {
       "annotations": [
         {
           "keyword": "Sanyara",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Not clear, possibly a modified/slang term for 'sanwla' which means dusky complexion. The implication is that they are going towards that complexion, maybe through tanning or smoking."
         }
       ]
     }

@@ -16,7 +16,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Maina",
-          "type": "Metaphor"
+          "type": "Personal/Figurative",
+          "meaning": "The Myna bird, used here as a metaphor for a muse, inner voice, or a loved one."
         }
       ]
     },
@@ -49,7 +50,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Marham",
-          "type": "Vocabulary"
+          "type": "Hindi/Figurative",
+          "meaning": "Hindi for 'Balm' or 'Ointment'."
         }
       ]
     },
@@ -61,7 +63,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Bheje",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "Hindi for 'Brain' or 'Head'."
         },
         {
           "text": "Bheje me hai khaati lakh awaz",
@@ -93,7 +96,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Sharan",
-          "type": "Vocabulary"
+          "type": "Hindi",
+          "meaning": "Hindi for 'shelter' or 'refuge'. Here, it's used in the imperative - 'give shelter' or 'provide refuge'."
         }
       ]
     },
@@ -105,7 +109,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Deemak",
-          "type": "Metaphor"
+          "type": "Hindi/Figurative",
+          "meaning": "Hindi for 'Termite'."
         }
       ]
     },
@@ -117,7 +122,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Kalam",
-          "type": "Metaphor"
+          "type": "Hindi/Figurative",
+          "meaning": "Hindi/Urdu for 'Pen'."
         }
       ]
     },
@@ -131,7 +137,7 @@ export const maina: Song = {
           "text": "Par zank ni khata hai is kalam pe",
           "keyword": "Zank",
           "type": "Slang",
-          "meaning": "Zank, in this context means 'effect'. The line translates to 'But it doesn't affect this pen'. Showing their dedication to writing."
+          "meaning": "Rust. 'Zang nahi khata' means it doesn't rust (stays sharp)."
         }
       ]
     },
@@ -143,7 +149,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Sabr",
-          "type": "Vocabulary"
+          "type": "Hindi/Urdu",
+          "meaning": "Urdu/Hindi for 'patience'. The line suggests that one needs to learn to listen patiently."
         }
       ]
     },
@@ -190,7 +197,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Nanu",
-          "type": "Reference"
+          "type": "Hindi",
+          "meaning": "Hindi for 'Maternal Grandfather'."
         }
       ]
     },
@@ -230,7 +238,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Khudgarz",
-          "type": "Vocabulary"
+          "type": "Hindi/Urdu",
+          "meaning": "Selfish."
         }
       ]
     },
@@ -277,7 +286,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Sage",
-          "type": "Vocabulary"
+          "type": "Hindi",
+          "meaning": "Blood relatives/Kin."
         }
       ]
     },
@@ -366,7 +376,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Ateet",
-          "type": "Vocabulary"
+          "type": "Hindi/Urdu",
+          "meaning": "Past."
         }
       ]
     },
@@ -392,7 +403,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Lori",
-          "type": "Vocabulary"
+          "type": "Hindi/Culture",
+          "meaning": "Hindi for 'lullaby'. It symbolizes comfort, peace, and the soothing of worries."
         }
       ]
     },
@@ -474,7 +486,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Ghaas phoos",
-          "type": "Slang"
+          "type": "Slang/Hindi",
+          "meaning": "Slang for Weeds/Marijuana."
         }
       ]
     },
@@ -486,7 +499,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Zamaana",
-          "type": "Vocabulary"
+          "type": "Hindi/Urdu",
+          "meaning": "Urdu/Hindi for 'the world', 'society', or 'times'. The line is suggesting to ignore what society thinks or says."
         }
       ]
     },
@@ -498,7 +512,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Jhaatu",
-          "type": "Slang"
+          "type": "Slang/Hindi",
+          "meaning": "Derogatory slang for 'Useless person' or 'Trash'."
         }
       ]
     },
@@ -524,7 +539,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Besabhar",
-          "type": "Vocabulary"
+          "type": "Hindi/Urdu",
+          "meaning": "Urdu/Hindi for 'Impatient'. Describes the state of being restless or eager for something to happen. "
         }
       ]
     },
@@ -550,7 +566,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Mai na",
-          "type": "Wordplay"
+          "type": "Hindi",
+          "meaning": "Wordplay on 'Maina' (Bird) and 'Main na' (I won't)."
         }
       ]
     },
@@ -562,7 +579,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Dheet",
-          "type": "Slang"
+          "type": "Hindi",
+          "meaning": "Stubborn/Obstinate."
         }
       ]
     },
@@ -588,7 +606,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Mukhauto",
-          "type": "Metaphor"
+          "type": "Hindi/Figurative",
+          "meaning": "Hindi for 'mask'. Figuratively refers to the false persona that people put on."
         }
       ]
     },
@@ -642,7 +661,8 @@ export const maina: Song = {
       "annotations": [
         {
           "keyword": "Sez on the Beat",
-          "type": "Reference"
+          "type": "Reference",
+          "meaning": "A producer tag, meaning the beat was produced by Sez."
         }
       ]
     }

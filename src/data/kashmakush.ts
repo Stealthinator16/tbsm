@@ -43,7 +43,7 @@ export const kashmakush: Song = {
         {
           "keyword": "Nami",
           "type": "Hindi",
-          "meaning": "Hindi for 'moisture' or 'humidity'. Figuratively, it could refer to vulnerability, freshness, or emotional depth."
+          "meaning": "Moisture/Dampness. Here refers to tears or hidden sadness."
         }
       ]
     },
@@ -249,7 +249,7 @@ export const kashmakush: Song = {
           "text": "Bhole naam bol kar",
           "keyword": "Bhole",
           "type": "Reference",
-          "meaning": "Reference to Lord Shiva and the association of Shiva with Cannabis, the name means \"innocent one\"."
+          "meaning": "Reference to Lord Shiva ('Bhole'), traditionally associated with cannabis. Calling his name for spiritual escape."
         }
       ]
     },
@@ -447,7 +447,7 @@ export const kashmakush: Song = {
           "text": "Tol sir",
           "keyword": "Tol sir",
           "type": "Slang",
-          "meaning": "Possible slang for quality weed, although unclear if intended to mean 'tall sir' or 'tol'."
+          "meaning": "Postal abbreviations? No. 'Tol' is Hindi for weight. Referring to the quantity of the substance."
         }
       ]
     },
@@ -478,7 +478,7 @@ export const kashmakush: Song = {
         {
           "keyword": "Tol",
           "type": "Slang",
-          "meaning": "Slang/abbreviation of 'total'. 'I got that total sir' meaning 'I have the total amount of drugs, sir'."
+          "meaning": "Hindi for 'Weight'. Refers to the quantity of the substance."
         }
       ]
     },

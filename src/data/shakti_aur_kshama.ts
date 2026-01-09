@@ -482,7 +482,7 @@ export const shakti_aur_kshama: Song = {
           "text": "Manguide uppar ha sabhi se buy a land slide",
           "keyword": "Manguide",
           "type": "Slang",
-          "meaning": "Play on words of the word magnitude implying they are so high above the rest, you need to buy a landslide to reach them."
+          "meaning": "'Main Guided'. 'Main guided uppar ha sabhi se' means I am guided from above (God/Divine)."
         }
       ]
     },

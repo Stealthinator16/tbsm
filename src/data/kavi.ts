@@ -43,9 +43,9 @@ export const kavi: Song = {
       "explanation": "Encore identifies as a 'Kavi' (Poet), elevating rap to the status of classical literature/poetry.",
       "annotations": [
         {
-          "word": "कवि (Kavi)",
+          "keyword": "कवि (Kavi)",
           "type": "Word",
-          "meaning": "\"Samajha kya tu, kavi keh raha hai kya?\" translates to \"Do you understand what I'm saying, what is the poet saying?\". Here Kavi means Poet."
+          "meaning": "'Kavi' means Poet. Questioning if the listener understands the poet's intent."
         },
         {
           "text": "समझा क्या तू, कवि केह रहा है क्या? (Shit!)",
@@ -62,9 +62,9 @@ export const kavi: Song = {
       "explanation": "He suggests that his true essence lies in the parts of his lyrics that people fail to decipher.",
       "annotations": [
         {
-          "word": "ज़बान (Zuban)",
+          "keyword": "ज़बान (Zuban)",
           "type": "Word",
-          "meaning": "\"Pahda na tu jo, woh hai meri zubaan\". Translation: If you can't recite (the multiplication table), then that is my language. Zubaan means language/tongue."
+          "meaning": "'Zuban' means Tongue or Language. Referring to his lyrics as his native tongue."
         },
         {
           "text": "पढ़ा ना तू जो, वो है मेरी ज़बान (मेरी ज़बान)",
@@ -88,9 +88,9 @@ export const kavi: Song = {
       "explanation": "Describes the mental toll and isolation of the creative process and early career struggles.",
       "annotations": [
         {
-          "word": "असमंजस (Asmanjas)",
+          "keyword": "असमंजस (Asmanjas)",
           "type": "Word",
-          "meaning": "\"Khudko ghaseeta kone tak, ab khae hai Asamanjas\" translates to \"Dragged myself to the corner, now consuming confusion\". Asamajhas means confusion or dilemma."
+          "meaning": "'Asmanjas' means confusion, dilemma, or suspense."
         }
       ]
     },
@@ -101,9 +101,9 @@ export const kavi: Song = {
       "explanation": "Uses the idiom 'Kuan ya Khai' to describe being stuck between two equally difficult choices or uncertainties.",
       "annotations": [
         {
-          "word": "कुआं या खाई",
+          "keyword": "कुआं या खाई",
           "type": "Word",
-          "meaning": "\"Nahi pata ke pale mein mere kuaan ya khai\" translates to \"I don't know if in my skirt (or lap) there is a well or ditch. Kuaan means well, khai means ditch."
+          "meaning": "Hindi idiom equivalent to 'Between the devil and the deep blue sea' (Well vs Ditch)."
         },
         {
           "text": "नही पता के पाले में मेरे कुआं या खाई",
@@ -155,9 +155,9 @@ export const kavi: Song = {
       "explanation": "He promises to maintain his integrity and avoid a bad reputation.",
       "annotations": [
         {
-          "word": "ज़िक्र (Zikr)",
+          "keyword": "ज़िक्र (Zikr)",
           "type": "Word",
-          "meaning": "\"Jaga kabhi buri jagah hoga zikr nahi\" translates to \"If I wake up at a bad place there will be no mention of it.\" Zikr means mention."
+          "meaning": "'Zikr' means mention or reference."
         }
       ]
     },
@@ -196,9 +196,9 @@ export const kavi: Song = {
       "explanation": "Expressing frustration at the repetitive nature of trying to explain himself.",
       "annotations": [
         {
-          "word": "मर्तबा (Martaba)",
+          "keyword": "मर्तबा (Martaba)",
           "type": "Word",
-          "meaning": "\"Chaha kehna maine tujhse hai ye kitti martaba\" translates to \"I wanted to tell you this, how many times?\". Martaba means times or instances."
+          "meaning": "'Martaba' means times, instances, or rank. Here means 'how many times'."
         }
       ]
     },
@@ -272,9 +272,9 @@ export const kavi: Song = {
       "explanation": "'Lomdi' (fox) is a metaphor for being sly, untrustworthy, or opportunistic.",
       "annotations": [
         {
-          "word": "लोमड़ी (Lomdi)",
+          "keyword": "लोमड़ी (Lomdi)",
           "type": "Word",
-          "meaning": "\"Jo the woh saare laundi barabar\" translates to \"Those who were, were all equal to women\". Laundi can mean a female servant or a woman."
+          "meaning": "'Lomdi' means Fox. Metaphor for cunning or deceitful people."
         }
       ]
     },
@@ -292,9 +292,9 @@ export const kavi: Song = {
       "explanation": "Using harsh slang to express anger at fair-weather friends who disappeared during a crisis ('Aafat').",
       "annotations": [
         {
-          "word": "भोसड़ी-के",
+          "keyword": "भोसड़ी-के",
           "type": "Slang",
-          "meaning": "\"Jab ye bhosdi-ke bhage jab ho god mein ek aafat\" translates to \"When these motherfuckers run away when there is a disaster in the lap\". Bhosdi-ke is a common Hindi/Urdu slur, meaning motherfucker. Aafat means disaster."
+          "meaning": "Strong abusive slur. Used here for the fake friends."
         }
       ]
     },
@@ -326,9 +326,9 @@ export const kavi: Song = {
       "explanation": "'Ghisun gaand' is crude slang for extreme hard work and grind.",
       "annotations": [
         {
-          "word": "घिसूँ गांड",
+          "keyword": "घिसूँ गांड",
           "type": "Slang",
-          "meaning": "Main ghissu gaand taki aage jaake saare ho thik\" translates to \"I'll grind my ass until I get ahead, so everything will be alright."
+          "meaning": "Crude slang meaning 'to work one's ass off' or grind extremely hard."
         }
       ]
     },
@@ -353,9 +353,9 @@ export const kavi: Song = {
       "explanation": "Refers to Paan Singh Tomar, a soldier-turned-rebel who fought for his family's rights and honor.",
       "annotations": [
         {
-          "word": "Paan Singh",
+          "keyword": "Paan Singh",
           "type": "Reference",
-          "meaning": "\"Hoon hero maa ki aankhon mein, main Paan Singh chacha\" translates to \"I'm a hero in my mother's eyes, I'm Paan Singh uncle.\" Paan Singh Tomar was a real-life Indian athlete turned bandit, whose story was told in a critically acclaimed movie."
+          "meaning": "Refers to Paan Singh Tomar, an athlete turned rebel. Symbolizing fighting against the system for honor."
         }
       ]
     },

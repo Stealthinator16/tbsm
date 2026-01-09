@@ -242,12 +242,7 @@ export const pancake: Song = {
       "translation": "And how many fanpages should I block?",
       "explanation": "A humorous take on the overwhelming number of fan accounts or possibly obsessive fans.",
       "annotations": [
-        {
-          "text": "Bawe chahiye rupees aur ab AP do",
-          "keyword": "Bawe",
-          "type": "Slang",
-          "meaning": "\"Bawe\" is a Delhi slang term for guys or friends. They need money (rupees) and AP (presumably another slang, or possibly a reference to a person named AP) should provide."
-        }
+
       ]
     },
     {
@@ -260,12 +255,7 @@ export const pancake: Song = {
           "keyword": "Suprabhat",
           "type": "Hindi (Good Morning)"
         },
-        {
-          "text": "Halke me lena ni sharma aur negi ko",
-          "keyword": "Sharma aur Negi",
-          "type": "Reference",
-          "meaning": "Sharma and Negi are the two members of Seedhe Maut. They're warning against underestimating them."
-        }
+
       ]
     },
     {
@@ -304,12 +294,7 @@ export const pancake: Song = {
       "translation": "After 'eating' (outshining) some rappers...",
       "explanation": "Common hip-hop trope of 'consuming' or defeating competition.",
       "annotations": [
-        {
-          "text": "Bal haiga sabu ka chacha ki gehri soch",
-          "keyword": "Bal haiga sabu ka chacha",
-          "type": "Slang",
-          "meaning": "Delhi slang indicating someone who tries to be overly smart or cunning but ultimately lacks depth, like a superficial understanding gained from a distant relative (chacha)."
-        }
+
       ]
     },
     {
@@ -326,12 +311,7 @@ export const pancake: Song = {
           "keyword": "Naini",
           "type": "Place (Nainital)"
         },
-        {
-          "text": "Kare ye me me par asal me haini goat",
-          "keyword": "GOAT",
-          "type": "Slang",
-          "meaning": "\"GOAT\" stands for Greatest Of All Time. They're saying others try to act like they are the best, but they are not."
-        }
+
       ]
     },
     {

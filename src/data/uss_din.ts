@@ -16,7 +16,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "Sez on the Beat",
-          "type": "Producer Tag"
+          "type": "Reference",
+          "meaning": "A popular Indian music producer, known for his work in Indian Hip Hop. This is his producer tag."
         }
       ]
     },
@@ -35,7 +36,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "OP",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Over Powered. Meaning something is extremely good or impactful."
         }
       ]
     },
@@ -47,7 +49,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "OD",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Over Dosed. Meaning something is excessive."
         }
       ]
     },
@@ -59,7 +62,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "खोटी",
-          "type": "Adjective"
+          "type": "Slang",
+          "meaning": "Khaoti - A Hindi slang, means fake or counterfeit. In this context, it refers to fake promises or actions."
         }
       ]
     },
@@ -71,7 +75,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "कोठी",
-          "type": "Noun"
+          "type": "Culture",
+          "meaning": "Kothi - A Hindi word for a large, luxurious house or mansion. Here it symbolizes wealth and success."
         }
       ]
     },
@@ -83,7 +88,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "Rolly",
-          "type": "Slang"
+          "type": "Reference",
+          "meaning": "Short for Rolex, a luxury watch brand, symbolizing wealth and status."
         }
       ]
     },
@@ -95,11 +101,13 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "गड्डी",
-          "type": "Slang"
+          "type": "Culture",
+          "meaning": "Gaddi - A Hindi word for a bundle or stack, here referring to a stack of money."
         },
         {
           "keyword": "टोली",
-          "type": "Noun"
+          "type": "Culture",
+          "meaning": "Toli - A Hindi word for a group or gang of followers or fans."
         }
       ]
     },
@@ -111,7 +119,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "चैन",
-          "type": "Noun"
+          "type": "Culture",
+          "meaning": "Chain - Refers to an expensive jewelry chain, often worn as a status symbol. In this context it is referring to jewelry worn 'Uss Din'."
         }
       ]
     },
@@ -130,11 +139,13 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "भौकाल",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Bhaukaal - A Hindi word that describes an aura of power, dominance, or impressiveness."
         },
         {
           "keyword": "औकात",
-          "type": "Noun"
+          "type": "Culture",
+          "meaning": "Aukaat - A Hindi word meaning status, capacity, or worth. It's often used to question someone's abilities or social standing."
         }
       ]
     },
@@ -167,7 +178,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "चौड़",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Chaud - A Hindi slang word meaning arrogance, swagger or pride."
         },
         {
           "text": "या तौर की वजह से मौत है मुमकिन",
@@ -185,7 +197,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "तौर",
-          "type": "Noun"
+          "type": "Culture",
+          "meaning": "Taur - A Hindi word for style, swagger, or attitude."
         }
       ]
     },
@@ -204,7 +217,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "टट्टे भारी",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Tatte bhari - A slang phrase, 'tatte' means testicles. 'Bhari' means full, here 'Tatte bhari' is used to emphasize having courage or confidence."
         }
       ]
     },
@@ -216,7 +230,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "हल्के में",
-          "type": "Idiom"
+          "type": "Culture",
+          "meaning": "Halke mein - A Hindi phrase meaning 'to take lightly' or underestimate."
         }
       ]
     },
@@ -228,7 +243,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "चप्पे-चप्पे",
-          "type": "Idiom"
+          "type": "Culture",
+          "meaning": "Chappe-chappe - A Hindi phrase meaning every corner or every inch of a place."
         }
       ]
     },
@@ -247,11 +263,13 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "बितक",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Bitak - Nonsense or pointless."
         },
         {
           "keyword": "फुदक",
-          "type": "Verb"
+          "type": "Slang",
+          "meaning": "Fudak - Trying too hard, wannabe or lame."
         }
       ]
     },
@@ -263,7 +281,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "धूल चटाना",
-          "type": "Idiom"
+          "type": "Culture",
+          "meaning": "Dhool Chatana - A Hindi phrase meaning to defeat or humiliate someone completely."
         },
         {
           "text": "चप्पे-चप्पे गप्पें चालू, चर्चा भर के जारी सीधे मौत की बारी",
@@ -281,7 +300,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "किल्लत",
-          "type": "Noun"
+          "type": "Slang",
+          "meaning": "Killat - Scarce or not enough"
         }
       ]
     },
@@ -293,9 +313,9 @@ export const uss_din: Song = {
       "annotations": [
         {
           "text": "बितक बेवजह मत फुदक",
-          "keyword": "Fitak",
+          "keyword": "Bitak",
           "type": "Slang",
-          "meaning": "Fitak or 'phitak' is slang implying they don't care ('I don't give a fitak')."
+          "meaning": "Bitak - To get startled or spooked. 'Bitak' means don't get spooked or agitated."
         }
       ]
     },
@@ -307,7 +327,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "noobie",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "A newcomer or inexperienced person, especially in a particular activity or field."
         }
       ]
     },
@@ -326,7 +347,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "गुदा",
-          "type": "Slang"
+          "type": "Culture",
+          "meaning": "Gussa - A Hindi word for anger or rage."
         }
       ]
     },
@@ -338,11 +360,13 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "पिड्डी",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "PD - Public Display of Affection. Being affectionate in public"
         },
         {
           "keyword": "सुकून",
-          "type": "Noun"
+          "type": "Culture",
+          "meaning": "Sukoon - A Hindi word for peace, comfort, or tranquility."
         }
       ]
     },
@@ -410,7 +434,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "कमीना",
-          "type": "Slang"
+          "type": "Culture",
+          "meaning": "Kameena - A Hindi word for a rascal, rogue, or a dishonest person."
         }
       ]
     },
@@ -429,7 +454,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "पेटी",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Peti - A Hindi word for a box. A slang term for money (cash)."
         }
       ]
     },
@@ -448,7 +474,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "भतेरी",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Batheri - Plenty"
         }
       ]
     },
@@ -460,7 +487,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "कचहरी",
-          "type": "Noun"
+          "type": "Culture",
+          "meaning": "Kachahari - Hindi word for court or meeting place. Figuratively used to mean the workings of the music industry."
         }
       ]
     },
@@ -479,7 +507,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "किल्ली",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "Killi - Stump (Cricket). 'Uda de killi' means to knock the stump out (clean bowled/defeat)."
         }
       ]
     },
@@ -512,11 +541,13 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "बुज़दिल",
-          "type": "Noun"
+          "type": "Slang",
+          "meaning": "Bujhdil - Coward"
         },
         {
           "keyword": "बाज़",
-          "type": "Noun"
+          "type": "Slang",
+          "meaning": "Baaj - Birds of Prey such as Hawks/Eagles"
         }
       ]
     },
@@ -556,7 +587,8 @@ export const uss_din: Song = {
       "annotations": [
         {
           "keyword": "कलंक",
-          "type": "Noun"
+          "type": "Culture",
+          "meaning": "Kalank - Hindi word for stigma, blot, or disgrace."
         }
       ]
     },

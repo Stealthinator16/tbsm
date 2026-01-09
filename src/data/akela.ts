@@ -187,7 +187,7 @@ export const akela: Song = {
         {
           "keyword": "बावे",
           "type": "Slang",
-          "meaning": "Baave: Hindi slang, short for 'bhaav', meaning giving importance or attention to someone. In this context, it means staying away from giving attention or engaging with someone."
+          "meaning": "Baawe/Bawe - Delhi slang for 'brother' or 'bro'. He's telling himself to stay away from emotional attachments."
         }
       ]
     },
@@ -318,14 +318,7 @@ export const akela: Song = {
       "speaker": "Encore ABJ",
       "translation": "Feeling like... right on.",
       "explanation": "A moment of self-affirmation.",
-      "annotations": [
-        {
-          "text": "Feeling like the butcher (और) fly god",
-          "keyword": "Fly God",
-          "type": "Reference",
-          "meaning": "Likely a reference to Westside Gunn, a rapper known for his album 'Flygod'. It suggests a feeling of power and control, possibly related to his influence in the rap game."
-        }
-      ]
+      "annotations": []
     },
     {
       "original": "Fame है इतना, मूत दूं rappero पे, तो भी होले उनकी hype on",
@@ -410,8 +403,8 @@ export const akela: Song = {
         {
           "text": "पर I’m मौन",
           "keyword": "Maun",
-          "type": "Slang",
-          "meaning": "\"Maun\" in this context is used as a synonym for keeping it real or authentic."
+          "type": "Hindi",
+          "meaning": "Maun - Hindi for 'silence'. He chooses to stay quiet rather than argue or explain himself."
         }
       ]
     },
@@ -424,8 +417,8 @@ export const akela: Song = {
         {
           "text": "चुप्पी is the type of shit that I’m on",
           "keyword": "चुप्पी",
-          "type": "Slang",
-          "meaning": "Likely a suggestive slang, alluding to intimate acts."
+          "type": "Hindi",
+          "meaning": "Chuppi - Hindi for 'silence'. He's in a phase where silence and introspection are his mood."
         }
       ]
     },

@@ -93,7 +93,7 @@ export const brahamachari: Song = {
           "text": "Saare loaded saare dost hain jamnapari",
           "keyword": "Jamnapari",
           "type": "Slang",
-          "meaning": "Referring to their friends as 'Jamnapari', suggesting they are high, intoxicated, or generally wild/unpredictable like the Jamnapari goat breed. It also hints at being rooted in the streets of Delhi, as the Jamuna river flows through it."
+          "meaning": "Referring to their friends as 'Jamnapari' (residents of Jamnapaar/East Delhi). It asserts their local identity and street roots."
         }
       ]
     },
@@ -291,8 +291,8 @@ export const brahamachari: Song = {
       "annotations": [
         {
           "keyword": "Gaind (Ball/Slang)",
-          "meaning": "Ball; referring to being made a fool of on a beat, getting played.",
-          "type": "Ball/Slang"
+          "meaning": "Butt/Ass; A crude expression meaning getting one's ass torn apart or destroyed on the beat.",
+          "type": "Slang"
         }
       ]
     },

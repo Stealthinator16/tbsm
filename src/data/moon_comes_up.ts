@@ -40,7 +40,7 @@ export const moon_comes_up: Song = {
           "text": "Rehte tutant up",
           "keyword": "tutant",
           "type": "Slang",
-          "meaning": "\"Tutant\" likely means 'toota hua' or broken, suggesting a disheveled or careless state of being. \"Up\" emphasizes this feeling."
+          "meaning": "\"Tutant\" is likely a phonetic play on 'Too Turnt' (Too Turn Up), meaning extremely high, energized, or intoxicated."
         }
       ]
     },
@@ -57,7 +57,7 @@ export const moon_comes_up: Song = {
           "text": "Bhai ka pluk paisa sab maange",
           "keyword": "pluk",
           "type": "Slang",
-          "meaning": "\"Pluk\" could be slang for possession or stuff. It could be that the person's friends or associates demand the speaker's wealth/money."
+          "meaning": "\"Plug\" (spelled as Pluk) refers to a drug dealer or source. 'Bhai ka plug' means the brother's source."
         }
       ]
     },

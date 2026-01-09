@@ -15,7 +15,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "dosti",
-          "type": "slang/context"
+          "type": "Culture",
+          "meaning": "Friendship (Hindi). It refers to the bond between friends."
         }
       ]
     },
@@ -27,7 +28,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "note",
-          "type": "slang for currency"
+          "type": "Slang",
+          "meaning": "Money (likely referring to banknotes)."
         }
       ]
     },
@@ -46,7 +48,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "bros",
-          "type": "slang for close friends"
+          "type": "Slang",
+          "meaning": "Short for 'brothers,' referring to close male friends or companions."
         }
       ]
     },
@@ -58,11 +61,13 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "cypher",
-          "type": "hip-hop term"
+          "type": "Hip Hop Term",
+          "meaning": "A gathering of rappers to showcase skills; a freestyle session."
         },
         {
           "keyword": "DOPE D-O-D",
-          "type": "artist reference"
+          "type": "Reference",
+          "meaning": "A Dutch hip hop group, likely a group the artist(s) listened to before battle rapping."
         }
       ]
     },
@@ -74,7 +79,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "COD",
-          "type": "gaming reference/Call of Duty"
+          "type": "Reference",
+          "meaning": "Likely referring to the video game 'Call of Duty', but metaphorically suggesting that they (Seedhe Maut) revolutionized or significantly impacted the rap game."
         }
       ]
     },
@@ -86,7 +92,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "DOP",
-          "type": "industry term/Director of Photography"
+          "type": "Slang",
+          "meaning": "Director of Photography, requesting someone to film a shoot."
         }
       ]
     },
@@ -98,7 +105,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "chutiyon",
-          "type": "slang/expletive"
+          "type": "Slang",
+          "meaning": "Idiots (Hindi). Used as a derogatory term."
         }
       ]
     },
@@ -131,7 +139,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "on seen",
-          "type": "social media slang"
+          "type": "Slang",
+          "meaning": "A phrase meaning to leave someone's message read but unanswered, signifying being ignored."
         },
         {
           "text": "कहती Don't leave me on seen",
@@ -163,7 +172,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "MP3s",
-          "type": "audio format/slang for songs"
+          "type": "Technology",
+          "meaning": "A common audio file format, suggesting the consumption of music."
         }
       ]
     },
@@ -175,7 +185,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "NPC",
-          "type": "gaming slang"
+          "type": "Gaming Term/Slang",
+          "meaning": "Non-Player Character. Referring to someone as generic, unoriginal, or lacking independent thought."
         }
       ]
     },
@@ -201,7 +212,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "Ronaldo Messi",
-          "type": "sports reference"
+          "type": "Reference",
+          "meaning": "Reference to two of the greatest football players of all time, implying a high level of skill or status."
         }
       ]
     },
@@ -213,7 +225,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "Em'",
-          "type": "artist reference/Eminem"
+          "type": "Reference",
+          "meaning": "Likely referring to Eminem, a famous rapper. Implying he listened to Eminem's music on cassette tapes during childhood."
         },
         {
           "text": "Ronaldo Messi सी",
@@ -273,7 +286,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "Seedhe Maut",
-          "type": "artist name"
+          "type": "Reference",
+          "meaning": "The name of the rap duo, Seedhe Maut, implying their arrival or presence."
         }
       ]
     },
@@ -348,7 +362,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "chode chhatees",
-          "type": "slang/idiom"
+          "type": "Slang",
+          "meaning": "Someone who pretends to be cool. 'Chode Chhatees' is Hindi slang for someone trying too hard to be cool or show off."
         }
       ]
     },
@@ -362,7 +377,7 @@ export const mp3: Song = {
           "text": "DL91 hip-hop का pincode है",
           "keyword": "DL91",
           "type": "Cultural",
-          "meaning": "DL91 likely refers to a locality or area code associated with their origins or influences, signifying their roots in Desi Hip Hop."
+          "meaning": "DL91 refers to the vehicle registration area for North-West Delhi (Rohini). Symbolizes their hood."
         }
       ]
     },
@@ -381,7 +396,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "battis",
-          "type": "slang for teeth/laughing"
+          "type": "Slang",
+          "meaning": "Thirty-two (Hindi). Showing 32 teeth usually implies laughing. He implies the verses are just a laugh/joke to him."
         },
         {
           "text": "SM और BK दिल्ली और बंगाल है (बंगाल है)",
@@ -406,7 +422,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "Nargiz",
-          "type": "pop culture reference"
+          "type": "Reference",
+          "meaning": "Potentially a reference to Nargis Fakhri or Nargis Dutt. Comparing someone who is blind in love, but dresses like a rockstar."
         }
       ]
     },
@@ -453,7 +470,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "nehle pe dehle",
-          "type": "idiom"
+          "type": "Idiom",
+          "meaning": "'Tit for tat'; an idiom signifying retaliation or upping the ante."
         }
       ]
     },
@@ -469,7 +487,13 @@ export const mp3: Song = {
       "speaker": "Encore ABJ",
       "translation": "But we didn't even offend anyone (literally: didn't do anything wrong to anyone).",
       "explanation": "Using aggressive slang to say they haven't initiated unnecessary beef or wronged anyone.",
-      "annotations": []
+      "annotations": [
+        {
+          "keyword": "chaudi",
+          "type": "Slang/NSFW",
+          "meaning": "Fuck/Fucked. 'Kisi ki maa nahi chaudi' means they haven't wronged/harmed anyone."
+        }
+      ]
     },
     {
       "original": "हम पापा है rappers के पहले से ही",
@@ -486,7 +510,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "Rohini",
-          "type": "location/hometown"
+          "type": "Place",
+          "meaning": "A residential area in Delhi. Indicating the location where dreams are being envisioned/printed."
         }
       ]
     },
@@ -505,7 +530,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "Negi",
-          "type": "family name"
+          "type": "Culture",
+          "meaning": "Surname, common in Uttarakhand and Himachal Pradesh, India. Could be a reference to someone named Negi in their circle."
         }
       ]
     },
@@ -517,7 +543,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "DL91",
-          "type": "area code reference"
+          "type": "Place",
+          "meaning": "The postal code/pincode for Delhi, connecting it to the origin of the hip-hop they represent."
         }
       ]
     },
@@ -536,7 +563,8 @@ export const mp3: Song = {
       "annotations": [
         {
           "keyword": "BK",
-          "type": "crew/collaborator reference"
+          "type": "Reference",
+          "meaning": "SM is Seedhe Maut. BK is calm's alias. Both are from Delhi and Bangalore."
         }
       ]
     },

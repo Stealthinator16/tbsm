@@ -359,7 +359,7 @@ export const joint_in_the_booth: Song = {
         {
           "keyword": "jota",
           "type": "Hindi Slang",
-          "meaning": "A small amount, implies minimal effort."
+          "meaning": "'Jota' is a slang term for a marijuana joint."
         }
       ]
     },

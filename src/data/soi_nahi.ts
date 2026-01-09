@@ -36,7 +36,8 @@ export const soi_nahi: Song = {
       "annotations": [
         {
           "keyword": "neend",
-          "type": "noun"
+          "type": "Culture",
+          "meaning": "Sleep (Hindi). The artist is saying he can't sleep; sleep doesn't come to him."
         }
       ]
     },
@@ -90,7 +91,8 @@ export const soi_nahi: Song = {
       "annotations": [
         {
           "keyword": "mrityu",
-          "type": "Hindi word for death"
+          "type": "Culture",
+          "meaning": "Death (Hindi). Referring to the doors of death."
         },
         {
           "text": "सपने में कहूँ ये मृत्यु के दो द्वार हैं",
@@ -108,11 +110,13 @@ export const soi_nahi: Song = {
       "annotations": [
         {
           "keyword": "Yam",
-          "type": "Deity"
+          "type": "Culture",
+          "meaning": "Yamraj (Hindi). The God of Death in Hindu mythology. Implying that people see him as an instrument of Yamraj."
         },
         {
           "keyword": "auzaar",
-          "type": "tools"
+          "type": "Culture",
+          "meaning": "Tool/Weapon (Hindi). In this context, it refers to being seen as a tool/weapon of Yamraj."
         },
         {
           "text": "लगे मुझे यम के ये औज़ार हैं",
@@ -172,7 +176,8 @@ export const soi_nahi: Song = {
       "annotations": [
         {
           "keyword": "Kundli",
-          "type": "Horoscope"
+          "type": "Culture",
+          "meaning": "A birth chart in Hindu astrology. Implying a predetermined fate of betrayal."
         }
       ]
     },
@@ -191,13 +196,14 @@ export const soi_nahi: Song = {
       "annotations": [
         {
           "keyword": "daroga",
-          "type": "Inspector"
+          "type": "Culture",
+          "meaning": "An archaic term for a police inspector or officer (Hindi). Used metaphorically to question who is watching over him."
         },
         {
           "text": "\"तू करे क्यों इतना भरोसा है?\"",
           "keyword": "भरोसा",
           "type": "Cultural",
-          "meaning": "Questioning why the person is so full of anger/rage."
+          "meaning": "Trust. Questioning why he trusts people so much."
         }
       ]
     },
@@ -244,7 +250,8 @@ export const soi_nahi: Song = {
       "annotations": [
         {
           "keyword": "Tyson",
-          "type": "Reference (Mike Tyson)"
+          "type": "Reference",
+          "meaning": "Reference to Mike Tyson, the famous boxer, implying power and strong punches. The artist is comparing his lyrical prowess to Tyson's boxing skills."
         }
       ]
     },
@@ -438,7 +445,8 @@ export const soi_nahi: Song = {
       "annotations": [
         {
           "keyword": "sesh",
-          "type": "Slang (Session)"
+          "type": "Slang",
+          "meaning": "Short for 'session,' often referring to a gathering or hangout, potentially involving smoking or other recreational activities."
         }
       ]
     },
@@ -478,7 +486,8 @@ export const soi_nahi: Song = {
       "annotations": [
         {
           "keyword": "score",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "To obtain drugs or alcohol. Meaning to obtain something illegal or illicit."
         }
       ]
     },
@@ -588,7 +597,8 @@ export const soi_nahi: Song = {
       "annotations": [
         {
           "keyword": "jote",
-          "type": "Slang (Joints)"
+          "type": "Slang",
+          "meaning": "Joints (Marijuana). 'Jote do' means 'Give me joints'."
         }
       ]
     },
@@ -649,7 +659,8 @@ export const soi_nahi: Song = {
       "annotations": [
         {
           "keyword": "kavi",
-          "type": "Poet"
+          "type": "Culture",
+          "meaning": "Poet (Hindi). The artist is questioning whether he is being seen as a poet. Could also be sarcastic as the word is generally Kavi in Hindi. Could be dialect."
         }
       ]
     },

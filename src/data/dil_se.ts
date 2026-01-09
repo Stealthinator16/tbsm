@@ -405,7 +405,8 @@ export const dil_se: Song = {
       "annotations": [
         {
           "keyword": "weelo",
-          "type": "slang"
+          "type": "slang",
+          "meaning": "Slang for 'Police' or 'Cops' (derived from the sound of the siren)."
         },
         {
           "text": "बस अब तक फूंका नहीं, मैं फिर से भरा on it",
@@ -460,7 +461,7 @@ export const dil_se: Song = {
           "text": "Busy life मेरी stalk करे weelo को छोड़",
           "keyword": "weelo",
           "type": "Slang",
-          "meaning": "Even a shorty weelo is stalking my busy life."
+          "meaning": "Even the cops (weelo) are stalking my busy life."
         }
       ]
     },

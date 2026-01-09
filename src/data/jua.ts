@@ -49,7 +49,7 @@ export const jua: Song = {
         {
           "keyword": "Bada haath",
           "type": "Slang",
-          "meaning": "Literal translation: 'Big Hand'. Meaning: To try and make a big move or gain a large advantage, often aggressively."
+          "meaning": "Hindi idiom for hitting the jackpot or pulling off a big heist."
         }
       ]
     },
@@ -115,7 +115,7 @@ export const jua: Song = {
         {
           "keyword": "Kismat",
           "type": "Culture",
-          "meaning": "Literal translation: 'Destiny' or 'Fate'. Used to imply that someone is carelessly squandering a privileged life."
+          "meaning": "Literal translation: 'Destiny' or 'Fate'. Here implying bad luck."
         }
       ]
     },

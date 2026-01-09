@@ -137,7 +137,7 @@ export const champions: Song = {
         {
           "keyword": "vanity",
           "type": "Slang",
-          "meaning": "Writing a song out of pride or excessive admiration of oneself."
+          "meaning": "Vanity van; large trailers used by actors/stars on set. Putting them in a vanity van implies they have reached celebrity status."
         }
       ]
     },
@@ -237,7 +237,7 @@ export const champions: Song = {
         {
           "keyword": "sumdi",
           "type": "Hindi",
-          "meaning": "In the crowd. (Hindi)"
+          "meaning": "Secretly, quietly, or 'on the low'. (Hindi Slang)"
         },
         {
           "keyword": "gaand faad",
@@ -422,12 +422,7 @@ export const champions: Song = {
       "translation": "My ears bleed if I listen to—",
       "explanation": "Implying that the opponent's music is so bad it causes physical pain.",
       "annotations": [
-        {
-          "text": "Sehwag aur gautam gambhir hain",
-          "keyword": "Sehwag and Gautam Gambhir",
-          "type": "Reference",
-          "meaning": "Referring to the famous Indian opening cricket pair, implying a powerful partnership and dominance."
-        }
+
       ]
     },
     {
@@ -436,12 +431,7 @@ export const champions: Song = {
       "translation": "Hey, hey brother, what will it take for you to stop?",
       "explanation": "A conversational interlude between the two rappers, heightening the track's energy.",
       "annotations": [
-        {
-          "text": "Ja chod de Ma bolte zameer hain",
-          "keyword": "Zameer",
-          "type": "Cultural",
-          "meaning": "'Zameer' refers to conscience or integrity. The line means 'You have no conscience if you invoke your mother's name for such trivial things'."
-        }
+
       ]
     },
     {
@@ -457,12 +447,7 @@ export const champions: Song = {
       "translation": "I've written something, listen and tell me.",
       "explanation": "Transitioning to Encore ABJ's verse.",
       "annotations": [
-        {
-          "text": "Baatein karte lawde hustle ki par inke papa ameer hain",
-          "keyword": "Hustle",
-          "type": "Cultural",
-          "meaning": "Highlighting the hypocrisy of some rappers who talk about 'hustle' (struggle) but come from wealthy backgrounds."
-        }
+
       ]
     },
     {
@@ -618,7 +603,7 @@ export const champions: Song = {
         {
           "keyword": "jamnapari",
           "type": "Slang",
-          "meaning": "An expression used for 'something original', not fake or pretentious"
+          "meaning": "Refers to residents of Jamnapaar (East Delhi). Used here to assert authenticity and local roots."
         }
       ]
     },
@@ -676,12 +661,7 @@ export const champions: Song = {
       "translation": "Bro that's freaking bad.",
       "explanation": "Standard English expression of disapproval.",
       "annotations": [
-        {
-          "text": "Aa dikhau mai tujhko Jamnapari truself",
-          "keyword": "Jamnapari",
-          "type": "Cultural",
-          "meaning": "Jamnapari is a reference to the Yamuna River in Delhi and is used to represent the true Delhi self."
-        }
+
       ]
     },
     {

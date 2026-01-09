@@ -15,7 +15,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "वेला (Vela)",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Idle, jobless, or someone with nothing to do."
         }
       ]
     },
@@ -27,7 +28,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "चेला (Chela)",
-          "type": "Noun"
+          "type": "Slang",
+          "meaning": "Disciple, follower, or someone who is learning from a mentor."
         }
       ]
     },
@@ -137,7 +139,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "दो शेर (Do Sher)",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "Two lions; implies being powerful or a dominant force in the rap game."
         },
         {
           "text": "Rap game मेरा है, भागो दो शेर आए",
@@ -162,7 +165,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "simp",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Someone who does too much for a person they like, often without reciprocation."
         }
       ]
     },
@@ -181,7 +185,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "Afro Samurai",
-          "type": "Pop Culture Reference"
+          "type": "Reference",
+          "meaning": "Reference to the anime series 'Afro Samurai', known for its violence and unique style; implies being skilled and dangerous."
         }
       ]
     },
@@ -193,7 +198,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "गंडवा (Ganduwa)",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "An insult meaning idiot, fool, or someone useless."
         },
         {
           "text": "जी हाँ जी हाँ, तू बहुत ही गंडवा है",
@@ -211,7 +217,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "जोटे (Jote)",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Joints (Marijuana). 'Fookun bas jote' means 'I only smoke joints'."
         }
       ]
     },
@@ -244,7 +251,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "किलसना (Kilasna)",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "To burn with jealousy/envy. 'Kilasna' means getting angry or jealous witnessing someone else's success."
         }
       ]
     },
@@ -284,7 +292,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "R-H-C-P",
-          "type": "Reference"
+          "type": "Reference",
+          "meaning": "Likely a reference to the rock band Red Hot Chili Peppers, indicating a fondness for their music or a similar vibe."
         }
       ]
     },
@@ -310,7 +319,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "ABJ",
-          "type": "Moniker"
+          "type": "Reference",
+          "meaning": "Likely refers to Abhijay Negi, aka Encore ABJ, one of the members of Seedhe Maut."
         }
       ]
     },
@@ -336,7 +346,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "बजो (Bajo)",
-          "type": "Slang"
+          "type": "Music Term",
+          "meaning": "Play/Vibe. 'Bajo' is a call to the audience to turn up or dance."
         }
       ]
     },
@@ -355,7 +366,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "B-roll",
-          "type": "Technical Term"
+          "type": "Film Term",
+          "meaning": "Supplemental footage used in film and television. Here, it likely refers to the rapper's life feeling like a scene from a movie."
         }
       ]
     },
@@ -395,7 +407,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "स्वाहा (Swah)",
-          "type": "Cultural Reference"
+          "type": "Slang",
+          "meaning": "An exclamation or interjection expressing satisfaction, approval, or emphasis."
         }
       ]
     },
@@ -421,11 +434,13 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "Luffy",
-          "type": "Anime"
+          "type": "Reference",
+          "meaning": "Monkey D. Luffy, the main character of the anime series One Piece. Known for his strength and carefree attitude."
         },
         {
           "keyword": "Levi",
-          "type": "Anime"
+          "type": "Reference",
+          "meaning": "Levi Ackerman, a prominent character from the anime series Attack on Titan, known for his exceptional combat skills."
         }
       ]
     },
@@ -556,7 +571,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "संजू (Sanju)",
-          "type": "Pop Culture Reference"
+          "type": "Reference",
+          "meaning": "Refers to Sanju from the show 'Shaka Laka Boom Boom' who had a magic pencil. Encore implies his pen (lyrics) brings things to life."
         }
       ]
     },
@@ -603,7 +619,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "dank",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "High-quality marijuana; implies the artist is smoking good weed."
         }
       ]
     },
@@ -664,7 +681,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "R-R",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Abbreviation for 'Randi Rona' (Whining/Crying). 'Ye R-R apne baap ko tu suna' means 'Go complain to your father'."
         },
         {
           "text": "स्वाहा",
@@ -864,7 +882,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "तिल्ली (Tilli)",
-          "type": "Metaphor"
+          "type": "Place",
+          "meaning": "Delhi, but used in a slang manner. Refers to the city of Delhi."
         }
       ]
     },
@@ -883,7 +902,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "झिल्ली (Jhilli)",
-          "type": "Slang"
+          "type": "None",
+          "meaning": "It is an intentional rhyme for Tilli and does not have any meaning."
         }
       ]
     },
@@ -972,7 +992,8 @@ export const swah: Song = {
       "annotations": [
         {
           "keyword": "equity",
-          "type": "Business Term"
+          "type": "Finance",
+          "meaning": "A share or stake in a company; implying ownership and financial benefit."
         }
       ]
     },

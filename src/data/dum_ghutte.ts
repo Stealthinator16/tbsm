@@ -188,7 +188,7 @@ export const dum_ghutte: Song = {
         {
           "keyword": "Bhaide",
           "type": "Slang",
-          "meaning": "\"Brothers\" or close friends. Implies a very tight-knit and exclusive group."
+          "meaning": "\"Terrible\" or \"Severe\" (Haryanvi/Delhi slang). Used as an intensifier for 'trust issues'."
         }
       ]
     },
@@ -606,7 +606,7 @@ export const dum_ghutte: Song = {
         {
           "keyword": "Patta",
           "type": "Hindi",
-          "meaning": "\"Address\" or \"clue.\" This line is asking for some help or guidance in navigating the difficulties of the music industry."
+          "meaning": "\"Leash\". He wants someone to put a leash on the 'bitch' that is the music industry."
         }
       ]
     },

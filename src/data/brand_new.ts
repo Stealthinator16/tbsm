@@ -54,12 +54,12 @@ export const brand_new: Song = {
         {
           "keyword": "Chhoti Gold",
           "type": "Brand/Slang",
-          "meaning": "\"Chhoti Gold\" translates to \"Small Gold.\" It is likely a brand name of shoes or a particular style. It represents expensive footwear."
+          "meaning": "\"Chhoti Gold\" refers to 'Gold Flake Small' cigarettes. Breaking one cigarette to make four joints implies resourcefulness/being broke."
         },
         {
           "keyword": "jote",
           "type": "Hindi",
-          "meaning": "\"Jote\" translates to \"shoes\" or \"pair of shoes\" in Hindi."
+          "meaning": "Jote/Joints - Delhi slang for marijuana joints. One cigarette was used to roll four joints."
         }
       ]
     },

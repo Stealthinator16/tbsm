@@ -112,12 +112,7 @@ export const focused_sedated: Song = {
       "translation": "The bio says 'Best in the business'",
       "explanation": "A confident claim of being the top artists in the scene.",
       "annotations": [
-        {
-          "text": "Flow spin करूं like Mendis",
-          "keyword": "Mendis",
-          "type": "Reference",
-          "meaning": "Likely referring to a Sri Lankan cricketer known for spin bowling, implying the artist's flow is intricate and has a spinning, unpredictable quality."
-        }
+
       ]
     },
     {
@@ -142,7 +137,7 @@ export const focused_sedated: Song = {
         {
           "keyword": "सोने की लंका",
           "type": "Hindi - Slang",
-          "meaning": "Needs a girl made of gold, meaning someone of high value, status or worth."
+          "meaning": "Refers to the 'Golden Lanka' (Kingdom of Lanka) from the Ramayana. Metaphor for building a massive, wealthy empire."
         }
       ]
     },
@@ -555,12 +550,7 @@ export const focused_sedated: Song = {
       "translation": "Think that I am fading",
       "explanation": "The psychological toll of the hustle.",
       "annotations": [
-        {
-          "text": "आ चढ़ के देख इन पेड़ों पे",
-          "keyword": "Chaand",
-          "type": "Cultural",
-          "meaning": "Means moon. This paints a picture of someone distant or removed, observing things from afar (on the trees, under the moonlight)."
-        }
+
       ]
     },
     {

@@ -16,11 +16,13 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "Papad",
-          "type": "slang"
+          "type": "Culture",
+          "meaning": "A thin, crispy Indian flatbread. Here it's used metaphorically to describe someone as easily broken or fragile."
         },
         {
           "keyword": "jote",
-          "type": "slang"
+          "type": "Culture",
+          "meaning": "Joints (Marijuana). 'Jote' implies joints are lit."
         }
       ]
     },
@@ -32,7 +34,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "Chaude me",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Acting tough or overconfident (Hindi). 'With swagger'."
         }
       ]
     },
@@ -44,7 +47,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "Akhade",
-          "type": "metaphor"
+          "type": "Culture",
+          "meaning": "Wrestling arena or a place for combat/competition (Hindi). A place to prove oneself."
         }
       ]
     },
@@ -56,13 +60,14 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "khamba",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "A bottle of liquor, often implying a large quantity (Hindi slang)."
         },
         {
           "text": "Tu maare kharrate me maaru karate kick Mo pe stash hai Uday pe khamba",
           "keyword": "Uday pe khamba",
           "type": "Reference",
-          "meaning": "Potentially refers to Uday Shetty from the Bollywood film 'Welcome', known for his gangster persona. 'Khamba' means a bottle of alcohol, so implies drinking with the persona"
+          "meaning": "'Khamba' means a full bottle of liquor. Refers to Uday Kapur (Azadi Records) holding the alcohol."
         }
       ]
     },
@@ -88,11 +93,13 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "kaale peele",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Black and yellow (Hindi). Referring to police, as their vehicles are often painted in these colors."
         },
         {
           "keyword": "nake",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Police checkpoint or barricade (Hindi slang)."
         },
         {
           "text": "Akkad bakkad bambey yaha ni lena pangey khaali peeli kaale peele hoge peele khade nake pe aur pehle peeli mene ooo",
@@ -152,7 +159,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "jaam",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "A drink, usually alcoholic (Hindi)."
         }
       ]
     },
@@ -178,7 +186,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "bt",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Short for 'baat', meaning conversation or talk (Hindi)."
         }
       ]
     },
@@ -197,7 +206,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "plug",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "A connection for obtaining drugs or other illicit goods. A supplier."
         }
       ]
     },
@@ -236,7 +246,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "bhund",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Butt or Ass (Hindi slang, vulgar). Used to express strong dislike or disapproval."
         }
       ]
     },
@@ -248,7 +259,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "jhatu",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "A fool, idiot, or someone worthless (Hindi slang, derogatory)."
         },
         {
           "text": "Seedhi baat hai inki baato pe ruchi na kisiko to aake yaha bhund matt chaat",
@@ -315,7 +327,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "batcheet",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Conversation or discussion (Hindi)."
         }
       ]
     },
@@ -509,7 +522,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "brers",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Short for 'brothers', used to refer to close friends or associates."
         },
         {
           "text": "You get turfed just like Billie Jean",
@@ -548,7 +562,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "Yam",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Food, grub."
         }
       ]
     },
@@ -609,7 +624,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "Bits",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "UK slang for 'The Streets' or 'Neighborhood'. 'On the bits' means being active on the streets."
         }
       ]
     },
@@ -635,7 +651,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "thoot",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Mouth or speech. 'Khule jab thoot' means 'when the mouth opens' implying powerful or impactful words."
         }
       ]
     },
@@ -696,7 +713,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "satsang",
-          "type": "culture"
+          "type": "Culture",
+          "meaning": "Traditionally, a religious discourse or gathering. Here, it's used ironically to describe their trap gang activities."
         }
       ]
     },
@@ -710,7 +728,7 @@ export const no_enema: Song = {
           "text": "Pare hatt loot pe choot mai ni sehta",
           "keyword": "loot pe choot",
           "type": "Slang",
-          "meaning": "Means he's against betrayal."
+          "meaning": "Literally 'pussy/vagina' (Vulgar). Here likely implies 'Slack' or 'Leeway' (Chhoot). He doesn't tolerate any slack when it comes to money."
         }
       ]
     },
@@ -722,7 +740,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "lassan",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Garlic (Hindi). Used metaphorically to describe people who are irritating or pungent."
         }
       ]
     },
@@ -1034,7 +1053,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "ends",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Neighborhood or local area where one grew up."
         }
       ]
     },
@@ -1046,7 +1066,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "cats",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Customers for drugs."
         }
       ]
     },
@@ -1156,7 +1177,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "L",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Likely refers to marijuana, specifically a joint or blunt. Could also refer to a Loss."
         }
       ]
     },
@@ -1203,7 +1225,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "bud",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Marijuana."
         }
       ]
     },
@@ -1292,7 +1315,8 @@ export const no_enema: Song = {
       "annotations": [
         {
           "keyword": "enema",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "A procedure to clean out the colon. Here, it means they're going all the way in, without holding back."
         }
       ]
     }

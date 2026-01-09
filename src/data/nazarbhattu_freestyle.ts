@@ -30,7 +30,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Jaani",
-          "type": "Slang/Endearment"
+          "type": "Slang",
+          "meaning": "A colloquial term for 'friend' or 'dude'."
         }
       ]
     },
@@ -70,7 +71,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Lawde pe",
-          "type": "Slang/Idiom"
+          "type": "Slang",
+          "meaning": "Don't care about. Implying that even though they have money, they don't care about showing it off like Ambani might be perceived to."
         },
         {
           "text": "Jebon me hai paisa fir bhi rakhte lawde pe ambani kyun?",
@@ -102,7 +104,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Feeki",
-          "type": "Adjective"
+          "type": "Hindi (meaning: Bland)",
+          "meaning": "Tasteless, plain, or without any flavor."
         }
       ]
     },
@@ -114,7 +117,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Satyanash",
-          "type": "Exclamation"
+          "type": "Hindi (meaning: Disaster)",
+          "meaning": "Complete destruction or devastation; a disaster."
         }
       ]
     },
@@ -154,7 +158,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "No caps",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "No lie; speaking the truth. Popular slang term."
         }
       ]
     },
@@ -208,7 +213,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Bair",
-          "type": "Noun/Urdu"
+          "type": "Hindi (meaning: Animosity)",
+          "meaning": "Enmity, resentment, or animosity."
         }
       ]
     },
@@ -220,7 +226,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Gair",
-          "type": "Noun/Urdu"
+          "type": "Hindi (meaning: Stranger)",
+          "meaning": "Outsiders, strangers; those who aren't genuine or trustworthy."
         }
       ]
     },
@@ -232,7 +239,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Samvidhaan",
-          "type": "Noun"
+          "type": "Political",
+          "meaning": "The Constitution (of India)."
         },
         {
           "text": "Inki ego trip me bhara mera desh rakt",
@@ -265,7 +273,7 @@ export const nazarbhattu_freestyle: Song = {
           "text": "Kalam tod - dev dutt!",
           "keyword": "Dev Dutt",
           "type": "Reference",
-          "meaning": "A possible reference to a mythological figure, but more likely wordplay alluding to how skilled they are with their pen/writing."
+          "meaning": "Dev Doot means 'Messenger of God' or 'Angel'. The line 'Kalam tod - dev doot' implies his writing is divine."
         }
       ]
     },
@@ -291,7 +299,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Kalam tod",
-          "type": "Idiom"
+          "type": "Idiom",
+          "meaning": "To write exceptionally well; to create impactful and impressive writing."
         },
         {
           "text": "Ek lance, aur ek neil- mere dono arm strong hai",
@@ -316,7 +325,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Arm strong",
-          "type": "Wordplay"
+          "type": "Reference",
+          "meaning": "Reference to Lance Armstrong and Neil Armstrong, implying strength, achievement and 'arms'."
         }
       ]
     },
@@ -342,7 +352,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Quazi",
-          "type": "Noun"
+          "type": "Culture",
+          "meaning": "A Muslim judge or magistrate; implies that if the parties involved agree, no one else's opinion matters."
         }
       ]
     },
@@ -396,7 +407,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Chomu",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "A stupid or foolish person."
         }
       ]
     },
@@ -408,7 +420,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Dheet",
-          "type": "Adjective"
+          "type": "Hindi (meaning: Stubborn)",
+          "meaning": "Stubborn or obstinate."
         }
       ]
     },
@@ -420,11 +433,13 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Tilaknagar",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A residential area in Delhi."
         },
         {
           "keyword": "GQ",
-          "type": "Reference"
+          "type": "Reference",
+          "meaning": "Likely referring to the magazine 'GQ', implying a rise in status or success."
         }
       ]
     },
@@ -480,7 +495,7 @@ export const nazarbhattu_freestyle: Song = {
           "text": "Koi maara ni teer ukhaada ni jhaat",
           "keyword": "Teer ukhaada ni jhaat",
           "type": "Slang/Figurative",
-          "meaning": "Saying that they haven't achieved anything extraordinary, implying humility and continuous self-improvement."
+          "meaning": "Literally 'Didn't pluck a pubic hair' (Vulgar). Idiomatically means achieved absolutely nothing. A raw way of saying they haven't done anything special yet."
         }
       ]
     },
@@ -513,7 +528,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Ukhaada ni jhaat",
-          "type": "Vulgar Slang/Idiom"
+          "type": "Slang",
+          "meaning": "Didn't achieve anything significant or impressive."
         }
       ]
     },
@@ -525,7 +541,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "GOAT",
-          "type": "Acronym"
+          "type": "Slang",
+          "meaning": "Greatest of All Time. Used to describe someone as the best in their field."
         }
       ]
     },
@@ -565,7 +582,8 @@ export const nazarbhattu_freestyle: Song = {
       "annotations": [
         {
           "keyword": "Choke",
-          "type": "Hip-hop term"
+          "type": "Slang",
+          "meaning": "To fail under pressure, especially in a competitive situation."
         }
       ]
     },

@@ -16,11 +16,13 @@ export const kya_challa: Song = {
       "annotations": [
         {
           "keyword": "Mandali",
-          "type": "Slang"
+          "type": "Culture",
+          "meaning": "A close-knit group, crew, or circle of friends."
         },
         {
           "keyword": "Chalu aahe",
-          "type": "Marathi Phrase"
+          "type": "Slang",
+          "meaning": "Marathi phrase meaning \"What's up?\" or \"What's going on?\"."
         },
         {
           "text": "क्या बोलते मंडली, क्या चालू आहे?",
@@ -52,7 +54,8 @@ export const kya_challa: Song = {
       "annotations": [
         {
           "keyword": "Kingpin",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "A person or group in control of an illegal activity."
         }
       ]
     },
@@ -71,7 +74,8 @@ export const kya_challa: Song = {
       "annotations": [
         {
           "keyword": "Blanka",
-          "type": "Pop Culture Reference"
+          "type": "Reference",
+          "meaning": "A character from the Street Fighter video game series, known for his green skin and wild fighting style. Reference to a dangerous or wild persona."
         }
       ]
     },
@@ -83,7 +87,8 @@ export const kya_challa: Song = {
       "annotations": [
         {
           "keyword": "Kadhla kay",
-          "type": "Marathi Phrase"
+          "type": "Slang",
+          "meaning": "Marathi phrase meaning \"What did you take out?\" or \"What did you remove?\". Likely refers to taking out a weapon or taking someone out of the game."
         },
         {
           "text": "कढला काय?",
@@ -101,7 +106,8 @@ export const kya_challa: Song = {
       "annotations": [
         {
           "keyword": "Challa",
-          "type": "Slang/Dialect"
+          "type": "Slang",
+          "meaning": "The song's namesake. It loosely translates to \"What's up?\"; \"What's the vibe?\"; or \"What's the scene?\"."
         },
         {
           "text": "जबसे उम्र पंद्रह है, घूमा दोस्तों के साथ बोल क्या चल्ला है?",
@@ -126,7 +132,8 @@ export const kya_challa: Song = {
       "annotations": [
         {
           "keyword": "Scene",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "The environment, atmosphere, or overall situation."
         }
       ]
     },
@@ -165,7 +172,8 @@ export const kya_challa: Song = {
       "annotations": [
         {
           "keyword": "Tera Bhai",
-          "type": "Moniker"
+          "type": "Slang",
+          "meaning": "\"Your Brother.\" Used as a term of endearment or camaraderie; in this context, it emphasizes their identity within their group/scene."
         },
         {
           "text": "मेरे मूत का color संतरा है तो मैं पानी पी रहा हूँ और कुछ ना चल्ला है",
@@ -218,7 +226,8 @@ export const kya_challa: Song = {
       "annotations": [
         {
           "keyword": "Sharabi",
-          "type": "Hindi Word"
+          "type": "Slang",
+          "meaning": "Hindi for \"Drunkard\" or \"alcoholic.\""
         }
       ]
     },
@@ -286,11 +295,13 @@ export const kya_challa: Song = {
       "annotations": [
         {
           "keyword": "Chillar",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hindi word for \"small change\" or loose coins. Implying lack of wealth or resources."
         },
         {
           "keyword": "Chindi",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Means cheap or miserly."
         }
       ]
     },
@@ -302,7 +313,8 @@ export const kya_challa: Song = {
       "annotations": [
         {
           "keyword": "Bheegi Billi",
-          "type": "Idiom"
+          "type": "Slang",
+          "meaning": "Hindi for \"Wet Cat\". It implies someone who is scared, weak, or easily intimidated."
         }
       ]
     },
@@ -314,7 +326,8 @@ export const kya_challa: Song = {
       "annotations": [
         {
           "keyword": "Fatta",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hindi slang implying something is ruined, destroyed, or not working correctly."
         }
       ]
     },
@@ -340,7 +353,8 @@ export const kya_challa: Song = {
       "annotations": [
         {
           "keyword": "Whack",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Referring to someone or something of very low quality."
         }
       ]
     },
@@ -373,7 +387,8 @@ export const kya_challa: Song = {
       "annotations": [
         {
           "keyword": "Vault",
-          "type": "Industry Term"
+          "type": "Slang",
+          "meaning": "A secure storage place, suggesting they have many unreleased songs."
         }
       ]
     },

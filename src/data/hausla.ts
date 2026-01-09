@@ -119,7 +119,7 @@ export const hausla: Song = {
         {
           "keyword": "मुँह की खाना",
           "type": "Slang",
-          "meaning": "Someone betrayed."
+          "meaning": "Hindi idiom meaning 'To suffer a humiliating defeat' or 'To fall flat on one's face'."
         }
       ]
     },

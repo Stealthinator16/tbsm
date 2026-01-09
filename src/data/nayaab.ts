@@ -15,7 +15,8 @@ export const nayaab: Song = {
       "annotations": [
         {
           "keyword": "2016",
-          "type": "Year"
+          "type": "Reference",
+          "meaning": "Refers to the year 2016, likely a significant time for Seedhe Maut's formation or early career."
         }
       ]
     },
@@ -27,7 +28,8 @@ export const nayaab: Song = {
       "annotations": [
         {
           "keyword": "Sez",
-          "type": "Person/Producer"
+          "type": "Reference",
+          "meaning": "Sez On The Beat, a well-known Indian hip-hop producer who has frequently collaborated with Seedhe Maut."
         },
         {
           "text": "Darwaza khat khataya gate sez ne khola",
@@ -59,7 +61,8 @@ export const nayaab: Song = {
       "annotations": [
         {
           "keyword": "DM",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Direct Message. Referring to contacting someone directly via social media."
         }
       ]
     },
@@ -78,7 +81,8 @@ export const nayaab: Song = {
       "annotations": [
         {
           "keyword": "Kashmakush",
-          "type": "Song title"
+          "type": "Reference",
+          "meaning": "\"Kashmakash\" (कशमकश) in Hindi means dilemma, struggle, or conflict. It is also the name of a song by Calm, another Indian rapper."
         }
       ]
     },
@@ -125,7 +129,8 @@ export const nayaab: Song = {
       "annotations": [
         {
           "keyword": "SM Anthem",
-          "type": "Song"
+          "type": "Reference",
+          "meaning": "Refers to a signature beat or song that represents Seedhe Maut, or a song that serves as their introduction/theme."
         }
       ]
     },
@@ -179,7 +184,8 @@ export const nayaab: Song = {
       "annotations": [
         {
           "keyword": "Thok ke",
-          "type": "Idiom"
+          "type": "Slang",
+          "meaning": "\"Thok ke\" (ठोक के) in Hindi means 'a lot' or 'in abundance'. In this context, it refers to receiving a lot of love and support from the audience."
         }
       ]
     },
@@ -191,7 +197,8 @@ export const nayaab: Song = {
       "annotations": [
         {
           "keyword": "Wack",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Used to describe something of low quality or uninteresting."
         }
       ]
     },
@@ -238,7 +245,8 @@ export const nayaab: Song = {
       "annotations": [
         {
           "keyword": "Teen tigaada",
-          "type": "Hindi Proverb Reference"
+          "type": "Culture",
+          "meaning": "\"Teen tigaada, kaam bigaada\" is a Hindi proverb meaning \"Too many cooks spoil the broth.\". It's tweaked to \"Teen tigaada scene bigaada\" which hints towards Seedhe Maut messing with the scene or changing it."
         }
       ]
     },
@@ -257,11 +265,13 @@ export const nayaab: Song = {
       "annotations": [
         {
           "keyword": "Aushadhi",
-          "type": "Hindi Word/Medicine"
+          "type": "Metaphor",
+          "meaning": "\"Aushadhi\" (औषधि) in Hindi means medicine. In this context, it's used metaphorically, suggesting that Seedhe Maut's music has a powerful or healing effect."
         },
         {
           "keyword": "Mausambi",
-          "type": "Metaphor/Fruit"
+          "type": "Metaphor",
+          "meaning": "\"Mausambi\" (मौसंबी) in Hindi refers to Sweet Lime. Here, rappers are being compared to mausambi juice, implying they are bland, easily consumable, or lacking substance compared to Seedhe Maut."
         },
         {
           "text": "aushadi hai dhaus me hai mosh bhi ye rapper mausambi hain juice",
@@ -300,7 +310,8 @@ export const nayaab: Song = {
       "annotations": [
         {
           "keyword": "Flex",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "To show off or boast, often about wealth, success, or skills."
         },
         {
           "text": "Backstage vanity",
@@ -339,11 +350,13 @@ export const nayaab: Song = {
       "annotations": [
         {
           "keyword": "Mannequin",
-          "type": "Metaphor"
+          "type": "Metaphor",
+          "meaning": "A lifeless, identical model. Here used to imply that other rappers are similar and unoriginal."
         },
         {
           "keyword": "Bimaari",
-          "type": "Slang/Metaphor"
+          "type": "Metaphor",
+          "meaning": "\"Bimaari\" (बीमारी) in Hindi means illness or disease. Here, it's used metaphorically, implying their music is addictive or has a widespread influence."
         }
       ]
     },
@@ -369,7 +382,8 @@ export const nayaab: Song = {
       "annotations": [
         {
           "keyword": "Itehaas",
-          "type": "Hindi Word/History"
+          "type": "Culture",
+          "meaning": "\"Itehaas\" (इतिहास) in Hindi means history. They are referring to creating another historical milestone in the hip-hop scene."
         }
       ]
     }

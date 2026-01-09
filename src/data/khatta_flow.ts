@@ -47,7 +47,7 @@ export const khatta_flow: Song = {
         {
           "keyword": "खत्ता",
           "type": "Hindi (Adjective)",
-          "meaning": "Sour/Tangy. Here it is likely referring to the harsh or unpleasant realities of Gazipur."
+          "meaning": "Refers to the Ghazipur Landfill (waste mountain). 'Khatta' literally means sour, but here it's the landfill site."
         },
         {
           "text": "ग़ाज़ीपुर का खत्ता मेरी पहचान",
@@ -175,7 +175,7 @@ export const khatta_flow: Song = {
           "text": "लौंडे rubber है, सस्ते सदर है, घिसते रोज़, लेकिन अक्ल है कम",
           "keyword": "Akla Hai Kam",
           "type": "Slang",
-          "meaning": "Means \"Lonely but less\". This could imply that while they might be alone, it provides certain advantages in terms of focus or strategy."
+          "meaning": "Means 'Brains are less'. Calling them stupid."
         }
       ]
     },
@@ -220,7 +220,7 @@ export const khatta_flow: Song = {
           "text": "खत्ते की बास में तू सांस मत लियो",
           "keyword": "Saans Mat Liyo",
           "type": "Slang",
-          "meaning": "Meaning \"Don't breathe in my bitter/sour bass.\" Indicating the impact of their music."
+          "meaning": "Meaning 'Don't breathe'. Warning against the stench of the landfill."
         }
       ]
     },
@@ -454,7 +454,7 @@ export const khatta_flow: Song = {
         {
           "keyword": "Mo",
           "type": "Slang",
-          "meaning": "Short for 'Money'. Meaning that money won't be available even if one tries to find it using a chain"
+          "meaning": "Refers to Mo Joshi, their manager and co-founder of Azadi Records."
         },
         {
           "text": "बंदे चटक है, बेचते कब्र है",
@@ -479,7 +479,7 @@ export const khatta_flow: Song = {
           "text": "बोखलाऊं, बंदी की चौबीस कमर है",
           "keyword": "Chaubees kamar hai",
           "type": "Slang",
-          "meaning": "Meaning \"Twenty Four is the waist\". This line refers to the amount of inches in their belt size, which is very big, which means they are very good."
+          "meaning": "Twenty-four inch waist. implies a slim/fit figure (beauty standard)."
         }
       ]
     },
@@ -533,7 +533,7 @@ export const khatta_flow: Song = {
           "text": "आती इत्ती deal'ein कि ना मिले कभी Mo को चैन",
           "keyword": "Mo ko Chain",
           "type": "Slang",
-          "meaning": "It means they do not deal or meet with anyone with Money."
+          "meaning": "Mo (Joshi) never gets any rest (chain) because of the overflowing deals."
         }
       ]
     },
@@ -670,7 +670,7 @@ export const khatta_flow: Song = {
         {
           "keyword": "Khaitaan",
           "type": "Reference",
-          "meaning": "Likely a reference to the Indian politician HKL Bhagat who was implicated in the 1984 anti-Sikh riots. Used here to mean everywhere."
+          "meaning": "Khaitan is a famous brand of ceiling fans in India. Pun on 'Fans' (supporters) and 'Fan' (cooling device)."
         }
       ]
     },

@@ -21,9 +21,7 @@ export default function Home() {
           <a href="/journey" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300">
             The Journey
           </a>
-          <a href="/lab" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300">
-            The Lab
-          </a>
+
           <a href="/vibes" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300">
             Vibe Matcher
           </a>

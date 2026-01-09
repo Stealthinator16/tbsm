@@ -29,7 +29,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "bounce back",
-          "type": "slang"
+          "type": "Idiom",
+          "meaning": "To recover quickly from a setback or difficulty. (Hindi: To bounce back, won't bounce back)"
         }
       ]
     },
@@ -41,7 +42,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "wasted",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Extremely intoxicated or under the influence of drugs. (Hindi: Then we are wasted)"
         }
       ]
     },
@@ -116,7 +118,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "शेर",
-          "type": "literary"
+          "type": "Culture",
+          "meaning": "Couplet/Poem. (Urdu/Hindi). Refers to writing poetry."
         }
       ]
     },
@@ -149,7 +152,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "level",
-          "type": "gaming metaphor"
+          "type": "General",
+          "meaning": "A point or stage in a process; in this context, referring to a position of success or achievement. (Hindi: I'm stuck at this 'level' a lot)"
         }
       ]
     },
@@ -175,7 +179,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "G",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "A term of endearment or respect, short for 'Gangster' or 'Original Gangster', often used to address a friend or associate. (Hindi: He likes this G)"
         }
       ]
     },
@@ -222,7 +227,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "full beam",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Going at something with maximum intensity and effort. (Hindi: I'm just doing it blindly, full beam homie)"
         }
       ]
     },
@@ -241,7 +247,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "special beam",
-          "type": "pop culture reference"
+          "type": "Slang",
+          "meaning": "Similar to 'full beam', suggesting a powerful or focused approach, often implying a critical or judgmental perspective. (Hindi: Killing them with that special beam on me)"
         }
       ]
     },
@@ -260,7 +267,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "cop",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "To buy something; 'cop' is slang for 'purchase'. (Hindi: I cop it without seeing the price)"
         }
       ]
     },
@@ -412,7 +420,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "W",
-          "type": "gaming slang"
+          "type": "Slang",
+          "meaning": "Referring to a 'Win' or victory. (Hindi: Whoever sees, says its a W)"
         }
       ]
     },
@@ -424,7 +433,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "I fuck with you",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "To like, appreciate, or support someone or something. It can also imply a deeper connection or understanding. (Hindi: I'm saying that 'I fuck with you')"
         }
       ]
     },
@@ -436,7 +446,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "चक्रव्यूह",
-          "type": "mythological reference"
+          "type": "Culture",
+          "meaning": "A strategic formation or situation, implying complexity and potential danger. (Hindi: I'm roaming in your 'Chakravyuh')"
         }
       ]
     },
@@ -532,7 +543,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "ज़िंदाबाद",
-          "type": "literary"
+          "type": "Culture",
+          "meaning": "Long live; a phrase expressing hope for someone's continued life and success. (Hindi: My love for you is 'Zindabad')"
         }
       ]
     },
@@ -565,7 +577,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "सिंधबाद",
-          "type": "folklore reference"
+          "type": "Culture",
+          "meaning": "Related to the Sindh region and its culture, indicating that his brother is from or identifies with Sindh. (Hindi: And I'm the passenger of those waves, your brother is 'Sindhbad')"
         }
       ]
     },
@@ -598,7 +611,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "alter ego",
-          "type": "concept"
+          "type": "Psychology",
+          "meaning": "A person's secondary or alternative personality. (Hindi: Don't let my 'alter ego' come in front of you.)"
         }
       ]
     },
@@ -666,7 +680,8 @@ export const video_games: Song = {
       "annotations": [
         {
           "keyword": "भंड",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Intoxicated/High. 'Studio mein akela bhand' means high and alone in the studio."
         }
       ]
     },

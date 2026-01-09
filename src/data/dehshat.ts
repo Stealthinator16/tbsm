@@ -130,7 +130,7 @@ export const dehshat: Song = {
         {
           "word": "खंभा",
           "type": "Slang",
-          "meaning": "\"Peete BP ka khamba aur rehte sehmat hain (kyun)\": They drink from the pillar of BP (Blood Pressure) and remain agreeable (why?). It likely implies they consume something (possibly alcohol or something else that affects blood pressure) to become compliant and conform to someones idea."
+          "meaning": "\"Peete BP ka khamba aur rehte sehmat hain (kyun)\": They drink a full bottle of BP (Blenders Pride Whisky) and remain agreeable. Blenders Pride is a popular Indian whisky."
         }
       ]
     },
@@ -153,7 +153,7 @@ export const dehshat: Song = {
           "text": "पीते BP का खंभा और रहते सहमत हैं (क्यूँ)",
           "keyword": "BP का खंभा",
           "type": "Slang",
-          "meaning": "BP ka khamba implies drinking a lot of alcohol, 'BP' likely stands for 'Bira 91' a popular Indian beer brand."
+          "meaning": "BP ka khamba implies drinking a lot of alcohol, 'BP' stands for 'Blenders Pride' a popular Indian whisky brand."
         }
       ]
     },
@@ -170,7 +170,7 @@ export const dehshat: Song = {
         {
           "word": "add जा",
           "type": "Slang",
-          "meaning": "\"Yeh bass sample hai, BT hai toh add jaa\": This is a bass sample, if it's BT (Booty) then get added to it.  It is a playful sexual innuendo."
+          "meaning": "\"Yeh bass sample hai, BT hai toh add jaa\": This is just a sample, if it gives you a BT (Bad Trip/Stress), then move away (Hatt ja). Asserting dominance."
         },
         {
           "text": "इनसे भिड़ेगा तो काका रहेम रद्द है",
@@ -487,7 +487,7 @@ export const dehshat: Song = {
         {
           "word": "दोजो",
           "type": "Slang",
-          "meaning": "\"Khojoge toh mein jo dojhoge toh mein\": If you search, it's me; if you blame, it's me. A boast about their ubiquity and influence, whether good or bad."
+          "meaning": "\"Khojoge toh mein jo dojo me\": If you search for me, I am in the Dojo (training hall). Implies constant training and improvement of skills."
         }
       ]
     },

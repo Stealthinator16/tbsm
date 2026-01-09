@@ -201,7 +201,7 @@ export const wajah: Song = {
         {
           "keyword": "अफ़रा",
           "type": "Slang",
-          "meaning": "Potentially referring to local goons or a specific associate"
+          "meaning": "Phonetic slang for 'Officers' (Police). 'Afra toh uthate ghar se' means the Cops pick you up from home."
         }
       ]
     },

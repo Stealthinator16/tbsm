@@ -19,11 +19,13 @@ export const nalla_freestyle: Song = {
       "annotations": [
         {
           "text": "SA",
-          "type": "reference"
+          "type": "Name",
+          "meaning": "Short for 'Siddharth Abrol', one half of the Seedhe Maut duo."
         },
         {
           "text": "Nalle",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Hindi slang, meaning 'useless' or 'good for nothing'. Used here as a playful self-deprecation."
         },
         {
           "text": "Itna roliye ab gaane sunke rona bhi ni aata (Fuck)",
@@ -64,7 +66,8 @@ export const nalla_freestyle: Song = {
       "annotations": [
         {
           "text": "Assi ki",
-          "type": "slang"
+          "type": "Culture",
+          "meaning": "Hindi phrase, meaning '80s'. Referring to the time period when the artist acquired a watch which ultimately soured with time."
         }
       ]
     },
@@ -88,7 +91,8 @@ export const nalla_freestyle: Song = {
       "annotations": [
         {
           "text": "Doom 3",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Reference to the first-person shooter horror video game Doom 3, suggesting an intense or hellish situation."
         },
         {
           "text": "Ye mare jaaye sheesh (Sheesh), Doom 3 (Doom)",
@@ -105,7 +109,8 @@ export const nalla_freestyle: Song = {
       "annotations": [
         {
           "text": "Trishool",
-          "type": "cultural"
+          "type": "Culture",
+          "meaning": "Hindi for 'Trident'. A three-pronged divine weapon, often associated with the Hindu god Shiva. Used here to symbolize sharp and powerful skills."
         }
       ]
     },
@@ -122,7 +127,8 @@ export const nalla_freestyle: Song = {
       "annotations": [
         {
           "text": "Jota",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Hindi slang, meaning 'Joint' (Marijuana)."
         }
       ]
     },
@@ -158,7 +164,8 @@ export const nalla_freestyle: Song = {
       "annotations": [
         {
           "text": "Laal Maas",
-          "type": "cultural"
+          "type": "Culture",
+          "meaning": "A popular Rajasthani meat dish. Used here to symbolize a good life, enjoying the finer things."
         }
       ]
     },
@@ -194,11 +201,13 @@ export const nalla_freestyle: Song = {
       "annotations": [
         {
           "text": "Sattaal",
-          "type": "location"
+          "type": "Slang",
+          "meaning": "Sattal is a place in Uttarakhand (Seven Lakes), known for its scenic beauty and calm vibe. A frequent getaway for the artists."
         },
         {
           "text": "Agatha",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Reference to Agatha Christie, a famous mystery writer. Suggests the rapper is throwing complex stories or problems at opponents."
         },
         {
           "text": "Whack ass rapper, Nalle papa k paise pe koode nakaam rapper",
@@ -246,7 +255,8 @@ export const nalla_freestyle: Song = {
       "annotations": [
         {
           "text": "Liam Neeson",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Reference to Liam Neeson's character in the movie 'Taken', known for his ruthless and protective nature. Suggests Seedhe Maut has complete control over the rap game."
         }
       ]
     },
@@ -263,7 +273,8 @@ export const nalla_freestyle: Song = {
       "annotations": [
         {
           "text": "Jin Kazama",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Reference to Jin Kazama, a character from the fighting game Tekken. Suggests that the rap game is like a fighting tournament where Seedhe Maut is the strongest."
         }
       ]
     },
@@ -274,7 +285,8 @@ export const nalla_freestyle: Song = {
       "annotations": [
         {
           "text": "Sasya",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Hindi slang, possibly derived from 'satya' (truth), used as an exclamation of agreement or affirmation."
         },
         {
           "text": "Seedhe maut ke bina kya jeewan, SM matter kare sangeen",
@@ -310,7 +322,8 @@ export const nalla_freestyle: Song = {
       "annotations": [
         {
           "text": "Hafta",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Hindi for 'week' but used in the context of extortion, meaning 'protection money' or 'tribute'."
         },
         {
           "text": "Rap game hai tekken jin kazama (What the fuck)",
@@ -361,7 +374,13 @@ export const nalla_freestyle: Song = {
       "original": "Thaam mera lund aur ispe maatha tek",
       "translation": "Hold my... and bow down to it.",
       "explanation": "An incredibly disrespectful line meant to show total superiority over rivals.",
-      "annotations": []
+      "annotations": [
+        {
+          "keyword": "Thaam mera lund",
+          "type": "Slang/NSFW",
+          "meaning": "Literally 'Hold my dick'. Extreme disrespect."
+        }
+      ]
     },
     {
       "original": "Main aur SA leke chale AK, Dekhe, sapere, sapole, savere, andhere, Bhatere, bhayanak",
@@ -370,7 +389,8 @@ export const nalla_freestyle: Song = {
       "annotations": [
         {
           "text": "Sapole",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Hindi for 'baby snakes'. Used here as an insult, referring to weak or insignificant opponents."
         }
       ]
     },

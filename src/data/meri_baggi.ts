@@ -16,7 +16,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "सर दर्द",
-          "type": "medical/slang"
+          "type": "Hindi",
+          "meaning": "Headache (Sar Dard)"
         }
       ]
     },
@@ -28,7 +29,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "गज़ब",
-          "type": "slang"
+          "type": "Hindi/Slang",
+          "meaning": "Amazing, fantastic, great (Gazab)"
         }
       ]
     },
@@ -61,7 +63,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "बर्फ",
-          "type": "object"
+          "type": "Hindi",
+          "meaning": "Ice (Barf)"
         }
       ]
     },
@@ -87,7 +90,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "मोका",
-          "type": "wordplay"
+          "type": "Slang",
+          "meaning": "Moka, referring to coffee or a good time"
         }
       ]
     },
@@ -113,7 +117,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "सौदा",
-          "type": "slang/business"
+          "type": "Hindi",
+          "meaning": "Deal (Sauda). Implying a potentially bad or unfair exchange."
         }
       ]
     },
@@ -125,11 +130,13 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "लड्डू",
-          "type": "metaphor"
+          "type": "Hindi/Culture",
+          "meaning": "Ladoo, an Indian sweet ball. Here, used metaphorically to describe eyes."
         },
         {
           "keyword": "छोटा भीम",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Chota Bheem, a popular Indian animated character known for his strength."
         }
       ]
     },
@@ -143,7 +150,7 @@ export const meri_baggi: Song = {
           "text": "है लड्डू पे ही आँखें जैसे 'छोटा भीम'",
           "keyword": "छोटा भीम",
           "type": "Reference",
-          "meaning": "Refers to Chota Bheem, a popular Indian cartoon character known for his strength and determination, suggesting the artist's eyes are similarly focused."
+          "meaning": "Refers to Chota Bheem, a popular Indian cartoon character known for his strength and determination."
         }
       ]
     },
@@ -162,7 +169,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "grind",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Working hard consistently"
         }
       ]
     },
@@ -170,16 +178,10 @@ export const meri_baggi: Song = {
       "original": "पूछे मैं कैसा? \"I'm fine\"",
       "speaker": "Encore ABJ",
       "translation": "They ask how I am? \"I'm fine.\"",
-      "explanation": "A standard response to hide the struggle or simply state he's doing okay.",
-      "annotations": [
-        {
-          "text": "पूरी रात, पूरी रात grind",
-          "keyword": "Grind",
-          "type": "Slang",
-          "meaning": "Grind means working hard and consistently, throughout the whole night."
-        }
-      ]
+      "explanation": "Standard response to inquiries about well-being.",
+      "annotations": []
     },
+
     {
       "original": "पूछले मैं कैसा जिससे मर्जी",
       "speaker": "Encore ABJ",
@@ -195,7 +197,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "चौकस",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "Careful, alert (Chaukas)"
         }
       ]
     },
@@ -214,11 +217,13 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "पहाड़ी",
-          "type": "identity"
+          "type": "Hindi/Slang",
+          "meaning": "Hill (Pahadi). Referring to his roots in Uttarakhand. 'Pahadi' implies someone from the mountains."
         },
         {
           "keyword": "fly",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Cool, stylish, or successful"
         }
       ]
     },
@@ -244,7 +249,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "ज़ेहमत",
-          "type": "vocabulary"
+          "type": "Hindi",
+          "meaning": "Zehmut/Zehmat: Trouble, difficulty, hardwork."
         }
       ]
     },
@@ -270,7 +276,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "BT",
-          "type": "slang"
+          "type": "Slang/Reference",
+          "meaning": "BT is an abbreviation for 'Bad Trip'. Delhi slang for a stressful situation or bad vibe."
         }
       ]
     },
@@ -303,7 +310,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "Kobe",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Reference to Kobe Bryant, the basketball legend."
         }
       ]
     },
@@ -331,7 +339,7 @@ export const meri_baggi: Song = {
           "text": "कहलेते यहाँ के Osama Bin Laden",
           "keyword": "Osama Bin Laden",
           "type": "Reference",
-          "meaning": "A controversial and provocative comparison, perhaps suggesting they are perceived as a threat or are misunderstood, or it could symbolize chaos and disruption. It's likely used for shock value and to establish a strong, potentially rebellious image."
+          "meaning": "A controversial metaphor for being a 'terror' in the rap game or a dominant, feared force."
         }
       ]
     },
@@ -364,7 +372,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "ज़हर",
-          "type": "slang"
+          "type": "Hindi",
+          "meaning": "Poison (Zeher). Indicating something toxic or potent."
         }
       ]
     },
@@ -383,7 +392,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "बग्गी",
-          "type": "slang/metaphor"
+          "type": "Hindi",
+          "meaning": "Carriage, vehicle (Baggi). Can be interpreted literally or as a metaphor for their journey or career."
         }
       ]
     },
@@ -418,7 +428,7 @@ export const meri_baggi: Song = {
           "text": "लोगों का ताँता लगे, हाँ ताँता लगे",
           "keyword": "ताँता",
           "type": "Slang",
-          "meaning": "\"Taanta\" or \"Taana\" means someone is mocking or making fun of them. This suggests criticism or negativity from others."
+          "meaning": "Line/Queue. 'Taanta lage' means people are lining up."
         }
       ]
     },
@@ -458,7 +468,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "फ़ुक़रे",
-          "type": "slang"
+          "type": "Hindi/Slang",
+          "meaning": "Fake (Fukrey). Referring to people being phony or pretentious."
         }
       ]
     },
@@ -484,7 +495,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "भाव",
-          "type": "idiom"
+          "type": "Hindi",
+          "meaning": "Attitude (Bhaav)"
         }
       ]
     },
@@ -496,7 +508,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "जूँ",
-          "type": "idiom"
+          "type": "Hindi",
+          "meaning": "Lice/Nit (Joon)"
         }
       ]
     },
@@ -508,7 +521,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "नमकीन",
-          "type": "wordplay"
+          "type": "Hindi",
+          "meaning": "Saltless (Namakheen)"
         }
       ]
     },
@@ -562,7 +576,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "लकीरें",
-          "type": "metaphor"
+          "type": "Hindi",
+          "meaning": "Lines (Lakeerein)"
         }
       ]
     },
@@ -574,7 +589,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "Vicky",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Refers to a 'Vicky' tennis ball, commonly used in street cricket. When the furry surface burns/wears off, it bounces unpredictably ('jyada uchalti hai')."
         }
       ]
     },
@@ -649,7 +665,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "ज़ाहिल",
-          "type": "vocabulary"
+          "type": "Hindi",
+          "meaning": "Ignorant (Jaahil)"
         }
       ]
     },
@@ -705,7 +722,7 @@ export const meri_baggi: Song = {
           "text": "ज्यादा उछलती है क्यूंकी सतह से जली जैसे Vicky",
           "keyword": "Vicky",
           "type": "Reference",
-          "meaning": "Likely refers to Vicky Donor, a Bollywood movie about sperm donation, creating a comedic and ironic comparison, perhaps implying abundance and ease of producing something valuable (their music)."
+          "meaning": "Refers to the 'Vicky' tennis ball. A 'burned' (smooth) ball bounces higher and faster/unpredictably."
         }
       ]
     },
@@ -717,7 +734,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "मंगल",
-          "type": "wordplay"
+          "type": "Hindi",
+          "meaning": "Auspicious (Mangal)"
         }
       ]
     },
@@ -743,7 +761,8 @@ export const meri_baggi: Song = {
       "annotations": [
         {
           "keyword": "Freddy Krugar",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Reference to Freddy Krueger, the fictional character from the 'Nightmare on Elm Street' horror film series."
         }
       ]
     },

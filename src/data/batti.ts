@@ -48,7 +48,7 @@ export const batti: Song = {
           "text": "Jhatole laundo ki guddi suj gi",
           "keyword": "Guddi suj gi",
           "type": "Slang",
-          "meaning": "'Guddi suj gi' translates to 'their ego swelled up/got bruised'. Jhatole laundo refers to young and inexperienced guys who are trying too hard"
+          "meaning": "Guddi - Back of the neck. 'Guddi sujna' means getting beaten on the back of the neck. The fake guys got beaten up."
         }
       ]
     },
@@ -74,7 +74,7 @@ export const batti: Song = {
         {
           "keyword": "Bhussi",
           "type": "Slang",
-          "meaning": "Hindi word for 'husk' or 'chaff.' Here, it means filled them with nonsense, trash or useless information."
+          "meaning": "Hindi word for 'husk' or 'chaff'. 'Bhussi bharna' is an idiom meaning to beat someone up safely/badly."
         }
       ]
     },
@@ -342,7 +342,7 @@ export const batti: Song = {
         {
           "keyword": "BT",
           "type": "Slang",
-          "meaning": "Short form for 'Bhenchod', a common Hindi swear word. Used here to express frustration or anger."
+          "meaning": "BT (Bad Trip) - Delhi slang for stress, anxiety, or a bad situation. He's had lots of stress."
         }
       ]
     },
@@ -354,8 +354,8 @@ export const batti: Song = {
       "annotations": [
         {
           "keyword": "Kalko",
-          "type": "Slang",
-          "meaning": "It refers to tomorrow, here it means when Seedhe Maut get angry they will be disrespectful."
+          "type": "Reference",
+          "meaning": "Kalko - Short for Kalkaji, a neighborhood in South Delhi where Calm is from. He'll humiliate them in his home turf."
         },
         {
           "text": "Hasta la vista bt maatha peeta bohot abhi bande bhi peetne padh gaye kya maa",
@@ -464,7 +464,7 @@ export const batti: Song = {
           "text": "Chal mai kilass",
           "keyword": "Kilass",
           "type": "Slang",
-          "meaning": "Slang term for 'killer' or 'dangerous', implying he is highly skilled and capable in his craft."
+          "meaning": "Slang term likely derived from 'Class' or 'Kilasna' (irritation). In this context, it suggests he moves with class or his moves cause irritation to others."
         }
       ]
     },

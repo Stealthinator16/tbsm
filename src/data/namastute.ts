@@ -15,11 +15,13 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Kalam",
-          "type": "Metaphor (Pen/Writing)"
+          "type": "Metaphor",
+          "meaning": "Pen; Here, it symbolizes their songwriting and artistic expression. The line means that their writing is intense (burning), causing pain but also providing healing."
         },
         {
           "keyword": "Marham",
-          "type": "Vocabulary (Ointment/Healer)"
+          "type": "Hindi",
+          "meaning": "Balm; Remedy; Represents the healing or positive impact of their music."
         }
       ]
     },
@@ -38,11 +40,13 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Namastute",
-          "type": "Sanskrit (I bow to you)"
+          "type": "Sanskrit/Hindi",
+          "meaning": "A respectful greeting, meaning \"I bow to you\" or \"Salutations\". Used to show reverence."
         },
         {
           "keyword": "Shraddha",
-          "type": "Vocabulary (Devotion)"
+          "type": "Hindi",
+          "meaning": "Faith, reverence, or respect."
         }
       ]
     },
@@ -54,11 +58,13 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Naastik",
-          "type": "Keyword (Atheist)"
+          "type": "Hindi",
+          "meaning": "Atheist; someone who doesn't believe in God."
         },
         {
           "keyword": "Aastik",
-          "type": "Keyword (Theist/Believer)"
+          "type": "Hindi",
+          "meaning": "Believer; someone who believes in God."
         }
       ]
     },
@@ -70,7 +76,8 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Rakshas",
-          "type": "Vocabulary (Demon)"
+          "type": "Hindi",
+          "meaning": "Demon; Represents their aggressive and powerful persona."
         },
         {
           "text": "Hun main nahi devta kadachit kholun jab muh sab bole aaya rakshas",
@@ -88,7 +95,8 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Plastic",
-          "type": "Slang (Fake)"
+          "type": "Slang",
+          "meaning": "Fake; artificial. They are contrasting themselves with being inauthentic, highlighting their genuine nature."
         },
         {
           "text": "Hun main nahi plastic, sunun bas Pac",
@@ -134,7 +142,8 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Thoot",
-          "type": "Slang (Face/Muzzle)"
+          "type": "Hindi/Slang",
+          "meaning": "Face; He will mess up or disfigure your face."
         }
       ]
     },
@@ -160,7 +169,8 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Karl Marx",
-          "type": "Historical Reference"
+          "type": "Reference",
+          "meaning": "A philosopher and economist known for his critique of capitalism. Here, it signifies that they prioritize their message over profit."
         }
       ]
     },
@@ -186,7 +196,8 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Shani",
-          "type": "Astrology"
+          "type": "Culture",
+          "meaning": "Saturn; In astrology, Shani is a powerful planet associated with karma, discipline, and challenges. They are stating that their 'Shani' or destiny/circumstances are unique."
         }
       ]
     },
@@ -198,7 +209,8 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Hafta",
-          "type": "Slang (Weekly tax/extortion)"
+          "type": "Hindi/Slang",
+          "meaning": "Extortion money/protection money. Here, they are ironically offering 'Shanidan' (offering to Shani) instead of extorting."
         },
         {
           "text": "Du mai tujhe hafta, Shanidan, chote baat meri maan",
@@ -272,7 +284,8 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Girebaan",
-          "type": "Vocabulary (Collar)"
+          "type": "Hindi",
+          "meaning": "Collar; To grab someone by the collar. Signifies aggression and confrontation, also holding accountable."
         }
       ]
     },
@@ -305,7 +318,8 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Lace Up",
-          "type": "Pop Culture Ref"
+          "type": "Reference",
+          "meaning": "A song by Machine Gun Kelly (MGK). It signifies a collaboration or being associated with him."
         }
       ]
     },
@@ -331,7 +345,8 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Pret",
-          "type": "Mythology"
+          "type": "Hindi",
+          "meaning": "Ghost; Spirit; Implies people are running away scared like ghosts."
         }
       ]
     },
@@ -343,7 +358,8 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Kash",
-          "type": "Slang (Puff/Drag)"
+          "type": "Slang/Hindi",
+          "meaning": "Puff; Inhale. Refers to taking a puff from a cigarette or joint."
         }
       ]
     },
@@ -355,7 +371,8 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Peshkash",
-          "type": "Vocabulary (Presentation)"
+          "type": "Hindi",
+          "meaning": "Offering; Gift. They are offering their music/art as a form of intoxication."
         },
         {
           "text": "Naam sunke fat'ti Yakuza",
@@ -429,7 +446,8 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Khanna",
-          "type": "Pop Culture Ref (Vikas Khanna)"
+          "type": "Reference",
+          "meaning": "Likely refers to Vikas Khanna, a famous Indian Michelin-star chef. It's a metaphor for their culinary-like skill in crafting music."
         }
       ]
     },
@@ -483,7 +501,8 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Jalebi",
-          "type": "Metaphor/Slang"
+          "type": "Culture",
+          "meaning": "A popular Indian sweet. Plays on words to suggest that some are jealous ('jale bhi') of them while also being with them ('saath hain')."
         },
         {
           "text": "Ye chupe khaata, baap ka pension aadha",
@@ -585,11 +604,13 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Lund pe",
-          "type": "Vulgar Slang (Don't care)"
+          "type": "Slang/Hindi",
+          "meaning": "On my dick; Disregarding someone's clout or influence, showing disrespect."
         },
         {
           "keyword": "Laude",
-          "type": "Slang (Insult)"
+          "type": "Slang/Hindi",
+          "meaning": "Dick; vulgar slang."
         }
       ]
     },
@@ -622,7 +643,8 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Noobde",
-          "type": "Gaming Slang"
+          "type": "Slang/Hindi",
+          "meaning": "Newbie; weak or inexperienced person."
         }
       ]
     },
@@ -634,11 +656,13 @@ export const namastute: Song = {
       "annotations": [
         {
           "keyword": "Senpai",
-          "type": "Japanese (Senior/Mentor)"
+          "type": "Reference",
+          "meaning": "A Japanese term for a senior or mentor. Used sarcastically to challenge someone."
         },
         {
           "keyword": "Kaksha",
-          "type": "Vocabulary (Classroom)"
+          "type": "Hindi",
+          "meaning": "Classroom; Inviting someone to a battle or competition, like going to school."
         }
       ]
     }

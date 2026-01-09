@@ -137,6 +137,13 @@ export const chalta_reh: Song = {
           "keyword": "नोट",
           "type": "slang"
         }
+        ,
+        {
+          "text": "बस चाहिये नोट और है कोई चोरी नहीं, कोई चोरी नहीं",
+          "keyword": "Chahiye note, nahi chahiye chori",
+          "type": "Values",
+          "meaning": "We only want money earned through hard work, not through theft or shortcuts."
+        }
       ]
     },
     {
@@ -150,11 +157,11 @@ export const chalta_reh: Song = {
           "type": "slang"
         },
         {
-          "text": "बस चाहिये नोट और है कोई चोरी नहीं, कोई चोरी नहीं",
-          "keyword": "Chahiye note, nahi chahiye chori",
-          "type": "Values",
-          "meaning": "We only want money earned through hard work, not through theft or shortcuts."
-        }
+          "text": "नये हो पाये मोटे गड्डी छोटी नहीं",
+          "keyword": "Paye mote, gaddi choti nahi",
+          "type": "Lifestyle",
+          "meaning": "Our earnings are significant, we are successful. Implies they have money but are not necessarily focused on flashy displays of wealth (small car, not a fancy one)."
+        },
       ]
     },
     {
@@ -171,12 +178,7 @@ export const chalta_reh: Song = {
           "keyword": "load",
           "type": "slang"
         },
-        {
-          "text": "नये हो पाये मोटे गड्डी छोटी नहीं",
-          "keyword": "Paye mote, gaddi choti nahi",
-          "type": "Lifestyle",
-          "meaning": "Our earnings are significant, we are successful. Implies they have money but are not necessarily focused on flashy displays of wealth (small car, not a fancy one)."
-        }
+
       ]
     },
     {
@@ -245,13 +247,6 @@ export const chalta_reh: Song = {
       "speaker": "Chorus",
       "translation": "Let the money-money-money flow in",
       "explanation": "The primary focus of the hustle at this stage of their career.",
-      "annotations": []
-    },
-    {
-      "original": "सालों पहले बांटों ज्ञान कम कुछ",
-      "speaker": "Chorus",
-      "translation": "Years ago you shared little wisdom",
-      "explanation": "Addressing people who suddenly act like mentors now that the duo is successful.",
       "annotations": [
         {
           "text": "पैसा-पैसा-पैसा आने दो",
@@ -259,6 +254,15 @@ export const chalta_reh: Song = {
           "type": "Motivational",
           "meaning": "Let the money come (through hard work). Continue pursuing success and wealth."
         }
+      ]
+    },
+    {
+      "original": "सालों पहले बांटों ज्ञान कम कुछ",
+      "speaker": "Chorus",
+      "translation": "Years ago you shared little wisdom",
+      "explanation": "Addressing people who suddenly act like mentors now that the duo is successful.",
+      "annotations": [
+
       ]
     },
     {
@@ -414,6 +418,13 @@ export const chalta_reh: Song = {
           "keyword": "सड़ता",
           "type": "slang"
         }
+        ,
+        {
+          "text": "सड़ता तू पड़ता नहीं फरक हूँ बढ़ता मैं जानता भी (सही-सही)",
+          "keyword": "Padhta nahi, farak hun, janta bhi",
+          "type": "Assertive",
+          "meaning": "I don't just read/learn; I am different (from others), and the world knows it/recognizes me."
+        }
       ]
     },
     {
@@ -460,12 +471,7 @@ export const chalta_reh: Song = {
       "translation": "Because now it doesn't matter what society thinks of us",
       "explanation": "Achieving a state of mental freedom from societal expectations.",
       "annotations": [
-        {
-          "text": "सड़ता तू पड़ता नहीं फरक हूँ बढ़ता मैं जानता भी (सही-सही)",
-          "keyword": "Padhta nahi, farak hun, janta bhi",
-          "type": "Assertive",
-          "meaning": "I don't just read/learn; I am different (from others), and the world knows it/recognizes me."
-        }
+
       ]
     },
     {
@@ -478,6 +484,13 @@ export const chalta_reh: Song = {
           "keyword": "Scene",
           "type": "slang"
         }
+        ,
+        {
+          "text": "Scene अब बढ़ेगा प्रगति की राह पे भाई अब चलेगा (अह)",
+          "keyword": "Scene badlega",
+          "type": "Metaphor",
+          "meaning": "The scene will change (for the better); implying their success will reshape the landscape of Desi Hip Hop."
+        }
       ]
     },
     {
@@ -485,21 +498,42 @@ export const chalta_reh: Song = {
       "speaker": "Chorus",
       "translation": "Pockets will fill; I want the universe, just the moon won't do",
       "explanation": "Limitless ambition—aiming beyond just small successes.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "जबें भरेगा चाहिये ब्रह्मांड सिर्फ चाँद नहीं चलेगा (यह)",
+          "keyword": "Jeben bharega, chahiye sirf chaand",
+          "type": "Metaphor",
+          "meaning": "Pockets will be full, but we don't just want the moon (unattainable desires); implying a desire for what truly matters beyond material wealth."
+        }
+      ]
     },
     {
       "original": "चाहा दिखाना, है तुझे मैंने की दुनिया में चीज",
       "speaker": "Chorus",
       "translation": "I wanted to show you what things are like in this world",
       "explanation": "Wanting to expose the reality of the industry/life.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "चाहा दिखाना, है तुझे मैंने की दुनिया में चीज",
+          "keyword": "Dikha na, hai tujhe maine ki duniya mein cheez",
+          "type": "Boastful",
+          "meaning": "I've shown you what I'm capable of in this world."
+        }
+      ]
     },
     {
       "original": "जिन्हें आज़माना, चाहिये तुझे, है दुनिया खज़ाना",
       "speaker": "Chorus",
       "translation": "The things you need to try; the world is a treasure trove",
       "explanation": "Encouraging exploration and taking risks.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "जिन्हें आज़माना, चाहिये तुझे, है दुनिया खज़ाना",
+          "keyword": "Aazmana chahiye tujhe",
+          "type": "Challenge",
+          "meaning": "You should try to compete with/test me; implying the artists are confident in their abilities and daring others to challenge them."
+        }
+      ]
     },
     {
       "original": "और रहे हैं सालों से कंगाल, है ये एक जंजाल",
@@ -510,6 +544,13 @@ export const chalta_reh: Song = {
         {
           "keyword": "जंजाल",
           "type": "noun"
+        }
+        ,
+        {
+          "text": "और रहे हैं सालों से कंगाल, है ये एक जंजाल",
+          "keyword": "Saalon se kangal, hai ye ek janjal",
+          "type": "Social Commentary",
+          "meaning": "For years they've been poor, this is a problem/mess. Highlights the socio-economic struggles faced by many."
         }
       ]
     },
@@ -540,12 +581,7 @@ export const chalta_reh: Song = {
       "translation": "Just keep moving, no matter what they want",
       "explanation": "Persistent effort despite the desires of detractors.",
       "annotations": [
-        {
-          "text": "Scene अब बढ़ेगा प्रगति की राह पे भाई अब चलेगा (अह)",
-          "keyword": "Scene badlega",
-          "type": "Metaphor",
-          "meaning": "The scene will change (for the better); implying their success will reshape the landscape of Desi Hip Hop."
-        }
+
       ]
     },
     {
@@ -554,12 +590,7 @@ export const chalta_reh: Song = {
       "translation": "If they think we've become nothing, let them",
       "explanation": "Not needing to prove one's worth to everyone.",
       "annotations": [
-        {
-          "text": "जबें भरेगा चाहिये ब्रह्मांड सिर्फ चाँद नहीं चलेगा (यह)",
-          "keyword": "Jeben bharega, chahiye sirf chaand",
-          "type": "Metaphor",
-          "meaning": "Pockets will be full, but we don't just want the moon (unattainable desires); implying a desire for what truly matters beyond material wealth."
-        }
+
       ]
     },
     {
@@ -568,12 +599,7 @@ export const chalta_reh: Song = {
       "translation": "Let it go, let it go",
       "explanation": "Reprise of the main hook.",
       "annotations": [
-        {
-          "text": "चाहा दिखाना, है तुझे मैंने की दुनिया में चीज",
-          "keyword": "Dikha na, hai tujhe maine ki duniya mein cheez",
-          "type": "Boastful",
-          "meaning": "I've shown you what I'm capable of in this world."
-        }
+
       ]
     },
     {
@@ -582,12 +608,7 @@ export const chalta_reh: Song = {
       "translation": "Let it go, let it go",
       "explanation": "Catchy repetition for the outro.",
       "annotations": [
-        {
-          "text": "जिन्हें आज़माना, चाहिये तुझे, है दुनिया खज़ाना",
-          "keyword": "Aazmana chahiye tujhe",
-          "type": "Challenge",
-          "meaning": "You should try to compete with/test me; implying the artists are confident in their abilities and daring others to challenge them."
-        }
+
       ]
     },
     {
@@ -596,12 +617,7 @@ export const chalta_reh: Song = {
       "translation": "Let it go, let it go",
       "explanation": "Reinforcing the message of detachment.",
       "annotations": [
-        {
-          "text": "और रहे हैं सालों से कंगाल, है ये एक जंजाल",
-          "keyword": "Saalon se kangal, hai ye ek janjal",
-          "type": "Social Commentary",
-          "meaning": "For years they've been poor, this is a problem/mess. Highlights the socio-economic struggles faced by many."
-        }
+
       ]
     },
     {

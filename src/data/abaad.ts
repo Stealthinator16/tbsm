@@ -214,14 +214,7 @@ export const abaad: Song = {
       "speaker": "Encore ABJ",
       "translation": "They take a new birth, a new attire.",
       "explanation": "The idea that a brave person's spirit or legacy continues in a new form.",
-      "annotations": [
-        {
-          "text": "जब भी जान खोता है जांबाज",
-          "keyword": "जांबाज",
-          "type": "Slang",
-          "meaning": "Jhaanj is slang for a headache or frustration."
-        }
-      ]
+      "annotations": []
     },
     {
       "original": "रहता है सदा आबाद",
@@ -322,7 +315,7 @@ export const abaad: Song = {
         {
           "keyword": "बावे",
           "type": "Slang",
-          "meaning": "\"Baave\" likely means they are \"mad\" or have lost their sanity."
+          "meaning": "Baawe/Bawe - Delhi slang for 'brother' or 'bro'. A term of endearment used by Seedhe Maut and their fans."
         },
         {
           "text": "खुशियों में माँ, मैंने नाराज़ की बहुत",

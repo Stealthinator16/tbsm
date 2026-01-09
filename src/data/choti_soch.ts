@@ -154,7 +154,7 @@ export const choti_soch: Song = {
           "text": "Tadi khoob",
           "keyword": "Tadi",
           "type": "Slang",
-          "meaning": "Likely refers to palm wine, a cheap and readily available alcoholic beverage, suggesting excess and perhaps a lack of sophistication."
+          "meaning": "Refers to 'Attitude', 'Swag', or 'Style'. 'Tadi khoob' means having a lot of swag/attitude."
         }
       ]
     },
@@ -431,7 +431,7 @@ export const choti_soch: Song = {
         {
           "keyword": "Kode",
           "type": "Slang",
-          "meaning": "Harsh or strict (Hindi: कोडे)"
+          "meaning": "Refers to MC Kode, a battle rapper and associate. 'Bhai Aastik' is asking the question, addressing Kode."
         }
       ]
     },
@@ -514,7 +514,7 @@ export const choti_soch: Song = {
         {
           "keyword": "Shashi",
           "type": "Slang",
-          "meaning": "Potentially a wordplay on 'shashtri', a surname, or a slang for something stylish or cool, depending on the preceding lyrics which are unavailable. Without more context of the lines before this, it is hard to be certain about its meaning."
+          "meaning": "Confirmed to be the name of the artist's (Calm's) late father. The project is a dedication to him."
         }
       ]
     }

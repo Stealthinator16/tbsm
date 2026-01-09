@@ -42,7 +42,7 @@ export const kehne_do: Song = {
           "text": "अब दिल भी कर रहा है दरख्वास्त (कि)",
           "keyword": "दरख्वास्त",
           "type": "Slang",
-          "meaning": "Dar-khast (request). Implying asking the heart to endure the pain or difficulty, a sarcastic take."
+          "meaning": "Request/Petition. Pleading with the heart to endure."
         }
       ]
     },
@@ -104,7 +104,7 @@ export const kehne_do: Song = {
         {
           "keyword": "Bajo",
           "type": "Culture",
-          "meaning": "Play (music). Referring to playing the bass. (Hindi word)"
+          "meaning": "To play (instrument) or ring out. In DHH slang, it means to perform loudly or make your presence felt."
         }
       ]
     },
@@ -353,7 +353,7 @@ export const kehne_do: Song = {
         {
           "keyword": "Bawe",
           "type": "Culture",
-          "meaning": "Smoke, fumes. (Hindi word)"
+          "meaning": "Brother/Bro. (Delhi Slang)"
         }
       ]
     },
@@ -366,7 +366,7 @@ export const kehne_do: Song = {
         {
           "keyword": "Pinak",
           "type": "Slang",
-          "meaning": "Possibly referring to 'Pinnacle', the highest point. Implies his words are the ultimate truth."
+          "meaning": "A state of drug-induced high (often from opium/doda) where one becomes talkative or zoned out."
         }
       ]
     },
@@ -444,7 +444,13 @@ export const kehne_do: Song = {
       "speaker": "Lil Bhavi",
       "translation": "The previous girl wasn't mine, bro",
       "explanation": "Using 'Dalli' here as a slang/objectification for a girl from the previous relationship.",
-      "annotations": []
+      "annotations": [
+        {
+          "keyword": "Dalli",
+          "type": "Slang",
+          "meaning": "Derogatory slang for a girl (specifically from Delhi in this context)."
+        }
+      ]
     },
     {
       "original": "Insta जैसे porn site",
@@ -600,7 +606,7 @@ export const kehne_do: Song = {
           "text": "वो डल्ली",
           "keyword": "bonkai",
           "type": "Slang",
-          "meaning": "Likely means that he is high or tripping. Bonkai is a kind of tobacco."
+          "meaning": "Refers to 'Bankai' from the anime Bleach. Unleashing full power."
         }
       ]
     },
@@ -718,7 +724,7 @@ export const kehne_do: Song = {
         {
           "keyword": "Bhussi",
           "type": "Culture",
-          "meaning": "Husk, chaff. Meaning something worthless or of low quality. (Hindi word)"
+          "meaning": "Slang for beating someone up badly or destroying them (literally filling them with husk)."
         }
       ]
     },
@@ -822,7 +828,7 @@ export const kehne_do: Song = {
         {
           "keyword": "BT",
           "type": "Slang",
-          "meaning": "BT likely refers to 'Bitch'."
+          "meaning": "BT (Bad Trip) - Delhi slang for stress, anxiety, or a bad situation. She suffers in silence."
         }
       ]
     },

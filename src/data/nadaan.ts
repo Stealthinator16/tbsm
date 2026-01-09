@@ -15,11 +15,13 @@ export const nadaan: Song = {
       "annotations": [
         {
           "keyword": "surr",
-          "type": "musical term"
+          "type": "Hindi (Musical term)",
+          "meaning": "Tune; refers to finding one's own voice or rhythm, especially in solitude."
         },
         {
           "keyword": "kuhoo",
-          "type": "onomatopoeia"
+          "type": "Hindi (Onomatopoeia)",
+          "meaning": "The sound of a cuckoo bird. Here it represents a lonely, echoing sound, possibly a metaphor for the protagonist's inner voice."
         }
       ]
     },
@@ -52,7 +54,8 @@ export const nadaan: Song = {
       "annotations": [
         {
           "keyword": "thos",
-          "type": "adjective"
+          "type": "Hindi (Adjective)",
+          "meaning": "Solid; in this context, it means the loneliness feels very real and tangible."
         }
       ]
     },
@@ -78,7 +81,8 @@ export const nadaan: Song = {
       "annotations": [
         {
           "keyword": "neat",
-          "type": "slang/beverage"
+          "type": "Slang",
+          "meaning": "A 'neat' drink usually refers to liquor (whiskey, rum, etc.) served without any ice or mixers. Here, it means to have a couple of alcoholic drinks."
         }
       ]
     },
@@ -90,7 +94,8 @@ export const nadaan: Song = {
       "annotations": [
         {
           "keyword": "dheet",
-          "type": "slang/trait"
+          "type": "Hindi (Adjective)",
+          "meaning": "Stubborn, obstinate, or shameless. It suggests the person has become hardened or resilient to pain."
         }
       ]
     },
@@ -116,7 +121,8 @@ export const nadaan: Song = {
       "annotations": [
         {
           "keyword": "Dhvani",
-          "type": "vocabulary"
+          "type": "Hindi (Noun)",
+          "meaning": "Sound, resonance, or tone. In this context, the sound is like that of the cuckoo bird, which emphasizes the feeling of loneliness."
         }
       ]
     },
@@ -128,7 +134,8 @@ export const nadaan: Song = {
       "annotations": [
         {
           "keyword": "sukoon",
-          "type": "vocabulary"
+          "type": "Hindi (Noun)",
+          "meaning": "Peace, tranquility, or contentment. The line implies that finding your voice/making a sound brings a sense of peace."
         }
       ]
     },
@@ -259,7 +266,8 @@ export const nadaan: Song = {
       "annotations": [
         {
           "keyword": "Kapti",
-          "type": "vocabulary"
+          "type": "Hindi (Adjective)",
+          "meaning": "Become deceitful, treacherous, or insincere."
         }
       ]
     },
@@ -280,7 +288,7 @@ export const nadaan: Song = {
           "text": "Fooke jotey",
           "keyword": "Fooke Jotey",
           "type": "Slang",
-          "meaning": "Literally translates to 'burnt shoes', metaphorically meaning someone who has been through a lot or has suffered hardships. This could also allude to someone who has run away from a bad situation."
+          "meaning": "Smoked joints. 'Jote' implies marijuana joints. Using substances to cope."
         }
       ]
     },
@@ -313,7 +321,8 @@ export const nadaan: Song = {
       "annotations": [
         {
           "keyword": "jotey",
-          "type": "slang"
+          "type": "Hindi (Metaphor)",
+          "meaning": "Joints (Marijuana). 'Fooke' means smoked."
         }
       ]
     },
@@ -353,7 +362,8 @@ export const nadaan: Song = {
       "annotations": [
         {
           "keyword": "prachand",
-          "type": "vocabulary"
+          "type": "Hindi (Adjective)",
+          "meaning": "Intense, severe, or extreme. It emphasizes the powerful nature of the pain being experienced."
         }
       ]
     },
@@ -365,7 +375,8 @@ export const nadaan: Song = {
       "annotations": [
         {
           "keyword": "badtar",
-          "type": "vocabulary"
+          "type": "Hindi (Adjective)",
+          "meaning": "Worse; the situation is no longer deteriorating."
         }
       ]
     },
@@ -440,7 +451,8 @@ export const nadaan: Song = {
       "annotations": [
         {
           "keyword": "Nadaan",
-          "type": "title/theme"
+          "type": "Hindi (Adjective)",
+          "meaning": "Naive, innocent, or immature. The line contrasts naivety with cowardice, stating they may be innocent, but they are not afraid."
         }
       ]
     },

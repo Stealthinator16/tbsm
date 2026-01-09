@@ -16,7 +16,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "Big Boss",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "Referring to a situation filled with drama, likely alluding to the reality show 'Bigg Boss' known for its controversial content and conflicts."
         }
       ]
     },
@@ -28,7 +29,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "तीन आँख",
-          "type": "Metaphor"
+          "type": "Hindi - Metaphor",
+          "meaning": "\"Teen Aankh\" translates to \"Third Eye\" in English. It refers to heightened perception or spiritual awareness."
         }
       ]
     },
@@ -40,11 +42,13 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "राजधानी",
-          "type": "Location (Delhi)"
+          "type": "Hindi - Place",
+          "meaning": "\"Rajdhani\" translates to \"Capital\" in English. Here, likely referring to being the king or top dog of the capital city (Delhi, where Seedhe Maut is based)."
         },
         {
           "keyword": "नामचीन",
-          "type": "Vocabulary"
+          "type": "Hindi - Adjective",
+          "meaning": "\"Naamcheen\" translates to \"Famous\" or \"Well-known\" in English."
         }
       ]
     },
@@ -70,7 +74,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "Mainstream",
-          "type": "Industry Slang"
+          "type": "General Music Term",
+          "meaning": "Referring to music or art that is widely popular and commercially successful."
         },
         {
           "text": "main hoon hitmaker not mainstream",
@@ -102,7 +107,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "मंज़िल",
-          "type": "Vocabulary"
+          "type": "Hindi - Metaphor",
+          "meaning": "\"Manzil\" translates to \"Destination\" or \"Goal\" in English.  Suggesting they are not compromising their artistic vision for the sake of reaching their goals."
         }
       ]
     },
@@ -121,7 +127,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "हक़",
-          "type": "Wordplay"
+          "type": "Hindi - Grammar",
+          "meaning": "Right/Entitlement. 'Gra-Haq' is wordplay on Grahak (Customer) splitting it into Gra and Haq (Right)."
         }
       ]
     },
@@ -133,7 +140,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "रक्त",
-          "type": "Metaphor"
+          "type": "Hindi - Metaphor",
+          "meaning": "\"Rakt\" translates to \"Blood\" in English. Implies loyalty and strong bonds."
         }
       ]
     },
@@ -145,7 +153,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "हरामज़ादा",
-          "type": "Slang"
+          "type": "Hindi - Slang",
+          "meaning": "\"Haramzada\" translates to \"Bastard\" or \"Scoundrel\" in English. Used as a strong insult, implying someone is unscrupulous."
         }
       ]
     },
@@ -157,7 +166,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "Arms Act",
-          "type": "Legal Reference"
+          "type": "Legal/Reference",
+          "meaning": "Refers to the Arms Act of India, a law regulating the possession, acquisition, and sale of firearms. Here, it could imply illegal activities or a rebellious attitude."
         }
       ]
     },
@@ -204,7 +214,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "नौ लख",
-          "type": "Double Entendre"
+          "type": "Hindi/English Slang",
+          "meaning": "\"No Luck\" - Used to express a lack of success or fortune."
         },
         {
           "text": "Drugs aur crime colony mein option",
@@ -222,7 +233,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "टोचन",
-          "type": "Slang"
+          "type": "Hindi Slang",
+          "meaning": "\"Tochan\" refers to intervening in a situation to help resolve it, or using force to pull someone out of a problem. From the English word 'Towing'"
         },
         {
           "text": "Nasib mein haar hai No luck",
@@ -247,11 +259,13 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "तिहाड़",
-          "type": "Location (Prison)"
+          "type": "Hindi - Place",
+          "meaning": "\"Tihaad\" refers to Tihar Jail in Delhi, one of the largest prison complexes in India. The line suggests someone is offering a 'company' a possible sentence there."
         },
         {
           "keyword": "Token",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Referring to a symbolic gesture or offering, often insincere or insufficient. The line suggests being betrayed by friends for a small gesture."
         }
       ]
     },
@@ -263,7 +277,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "खाकी",
-          "type": "Police"
+          "type": "Hindi - Culture",
+          "meaning": "\"Khaki\" refers to the color of police uniforms in India. Could be referencing law enforcement or authority."
         },
         {
           "text": "Bhaaiyon ke bhaaiyon ke kate hai token",
@@ -281,7 +296,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "नकाबपोश",
-          "type": "Vocabulary"
+          "type": "Hindi - Adjective",
+          "meaning": "\"Nakabposh\" translates to \"Masked\" in English. Referring to someone hiding their true identity or intentions."
         },
         {
           "text": "Safed khaki aur kala coat saja, mafi aur gala ghot",
@@ -299,7 +315,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "बारा बोर",
-          "type": "Weaponry"
+          "type": "Hindi/English - Slang",
+          "meaning": "12 Bore shotgun. A common firearm."
         }
       ]
     },
@@ -388,7 +405,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "Panic",
-          "type": "Metaphor"
+          "type": "General Term",
+          "meaning": "Referring to a state of extreme anxiety or fear."
         }
       ]
     },
@@ -470,7 +488,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "कान खोल",
-          "type": "Idiom"
+          "type": "Hindi - Idiom",
+          "meaning": "\"Kaan Khol\" translates to \"Open your ears\" in English. Meaning pay close attention or listen carefully."
         }
       ]
     },
@@ -489,7 +508,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "प्रेरित",
-          "type": "Vocabulary"
+          "type": "Hindi - Adjective",
+          "meaning": "\"Prerit\" translates to \"Inspired\" in English. Meaning to be motivated or influenced by something or someone."
         }
       ]
     },
@@ -515,7 +535,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "सांठ गांठ",
-          "type": "Idiom"
+          "type": "Hindi - Slang",
+          "meaning": "\"Saanth Gaanth\" refers to a close-knit or strong team. Saanth and Gaanth are synonyms in this context emphasizing strength."
         }
       ]
     },
@@ -541,7 +562,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "जात पात",
-          "type": "Social Commentary"
+          "type": "Hindi - Culture",
+          "meaning": "\"Jaat Paat\" translates to \"Caste\" in English. Referring to the caste system, implying that such divisions are not part of their world."
         }
       ]
     },
@@ -560,7 +582,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "गांड फाड़",
-          "type": "Slang"
+          "type": "Hindi - Slang",
+          "meaning": "\"Gaand Faad\" roughly translates to \"Ass-ripping\" or something extremely impactful/impressive. It's used to describe something intense or powerful."
         }
       ]
     },
@@ -572,7 +595,8 @@ export const kilas: Song = {
       "annotations": [
         {
           "keyword": "नाज़नीन",
-          "type": "Vocabulary"
+          "type": "Hindi - Adjective/Name",
+          "meaning": "\"Naazneen\" translates to \"Delicate\" or \"Beautiful\" in English, often referring to a woman. Used here in the context of a name, suggesting an attractive or desirable woman."
         }
       ]
     },

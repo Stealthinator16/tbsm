@@ -20,13 +20,14 @@ export const pnp: Song = {
       "annotations": [
         {
           "keyword": "डूब मरो (Doob Maro)",
-          "type": "Idiom"
+          "type": "Phrase",
+          "meaning": "\"Doob Maro\" translates to \"Go drown yourself.\" It's an expression used to tell someone they should be ashamed of themselves or that they are completely useless."
         },
         {
           "text": "चलो एक काम करो: डूब मरो",
           "keyword": "डूब मरो",
           "type": "Slang",
-          "meaning": "Roughly translates to 'Let's do something: Dube Maro', likely referring to smoking marijuana. 'Dube' refers to a joint or cannabis, and 'Maro' means to consume."
+          "meaning": "Literally 'Drown and die'. 'Doob Maro' is a Hindi idiom meaning 'Die of shame'."
         }
       ]
     },
@@ -59,7 +60,8 @@ export const pnp: Song = {
       "annotations": [
         {
           "keyword": "मत्था ख़राब (Mattha kharab)",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Mattha kharab\" translates to \"Mind is messed up/gone crazy\". It describes a state of frustration, annoyance, or mental disturbance."
         }
       ]
     },
@@ -106,7 +108,8 @@ export const pnp: Song = {
       "annotations": [
         {
           "keyword": "गड़े मुर्दे उखाड़े (Gade murde ukhade)",
-          "type": "Idiom"
+          "type": "Idiom",
+          "meaning": "\"Gade murde ukhade\" translates to \"Digging up buried corpses\". Figuratively, it means bringing up old issues, past mistakes, or forgotten controversies."
         },
         {
           "text": "गड़े मुर्दे उखाड़े तभी whiskey चुनूं मैं",
@@ -126,7 +129,7 @@ export const pnp: Song = {
           "text": "और है कौन क्यों ना तुम डूब मरो",
           "keyword": "डूब मरो",
           "type": "Slang",
-          "meaning": "Reiterates the use of cannabis ('dube') as a means of escape or coping. 'Why don't you also smoke up?'"
+          "meaning": "Reiterating the idiom 'Die of shame'. No reference to 'dube' (marijuana)."
         }
       ]
     },
@@ -194,7 +197,8 @@ export const pnp: Song = {
       "annotations": [
         {
           "keyword": "तालाब (Talab)",
-          "type": "Slang/Contextual"
+          "type": "Word",
+          "meaning": "\"Talab\" translates to \"craving\" or \"addiction\". It refers to a strong desire or urge for something, in this context likely referring to a substance or a feeling."
         }
       ]
     },
@@ -276,7 +280,8 @@ export const pnp: Song = {
       "annotations": [
         {
           "keyword": "Fanne khan",
-          "type": "Slang"
+          "type": "Idiom",
+          "meaning": "\"Fanne Khan\" is a Hindi idiom that refers to someone who considers themselves an expert or very skilled, but is actually quite mediocre or incompetent. It implies a degree of arrogance or self-deception."
         }
       ]
     },
@@ -316,7 +321,8 @@ export const pnp: Song = {
       "annotations": [
         {
           "keyword": "Paisa, Nasha, Pyar",
-          "type": "Theme"
+          "type": "Concept",
+          "meaning": "\"Paisa, Nasha, Pyar\" translates to \"Money, Intoxication, Love\". These are presented as things the speaker is surrounded by."
         }
       ]
     },
@@ -377,7 +383,8 @@ export const pnp: Song = {
       "annotations": [
         {
           "keyword": "मनगर्दी (Man-gardi)",
-          "type": "Slang"
+          "type": "Word",
+          "meaning": "\"Man-gardi\" refers to doing as one pleases; acting according to one's own will without regard for others or rules."
         }
       ]
     },
@@ -389,7 +396,8 @@ export const pnp: Song = {
       "annotations": [
         {
           "keyword": "दल-दल (Dal-dal)",
-          "type": "Metaphor"
+          "type": "Metaphor",
+          "meaning": "\"Dal-dal\" translates to \"quicksand\". It signifies a situation that is difficult to get out of, often worsening with continued struggle."
         }
       ]
     },
@@ -415,7 +423,8 @@ export const pnp: Song = {
       "annotations": [
         {
           "keyword": "99 not out",
-          "type": "Metaphor"
+          "type": "Reference",
+          "meaning": "\"99 not out\" is a cricket reference. In cricket, getting out at 99 runs is considered unlucky as it's one run short of a century. It implies being very close to success but falling short."
         }
       ]
     },
@@ -455,7 +464,8 @@ export const pnp: Song = {
       "annotations": [
         {
           "keyword": "हरे (Hare)",
-          "type": "Slang"
+          "type": "Word",
+          "meaning": "\"Hare\" here refers to \"Green\" notes, slang for money. \"Jaao aur jaake hare laao\" means \"Go and get the money\"."
         },
         {
           "text": "देखा नन्ही जानो को कुचलते Bomb गिरे TV पे",
@@ -543,7 +553,8 @@ export const pnp: Song = {
       "annotations": [
         {
           "keyword": "मिट्टी पलीत (Mitti Paleet)",
-          "type": "Idiom"
+          "type": "Idiom",
+          "meaning": "\"Mitti Paleet\" translates to \"Ruined/Spoiled/Dirtied\". It suggests that something has been corrupted, destroyed, or made worthless."
         }
       ]
     },

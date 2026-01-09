@@ -165,7 +165,7 @@ export const khoj: Song = {
           "text": "Life kho",
           "keyword": "Life Kho",
           "type": "Slang",
-          "meaning": "Short for 'Life Khoobsurat Hai' which translates to 'Life is Beautiful' in English. 'Kho' is often used in Desi Hip Hop slang, especially in the context of enjoyment and experiences."
+          "meaning": "Phrase 'Life kho...' meaning 'Loses life'. Not a slang acronym."
         }
       ]
     },
@@ -405,7 +405,7 @@ export const khoj: Song = {
         {
           "keyword": "Spit Dope",
           "type": "Slang",
-          "meaning": "To deliver excellent and impressive rap lyrics; spitting fire."
+          "meaning": "Refers to 'Spit Dope Inc.', a rap battle league in Delhi where Seedhe Maut competed."
         }
       ]
     },

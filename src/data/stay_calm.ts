@@ -57,7 +57,8 @@ export const stay_calm: Song = {
       "annotations": [
         {
           "keyword": "blood",
-          "type": "metaphor"
+          "type": "Figurative",
+          "meaning": "Represents shared experiences, kinship, or a deep connection; referring to similar origins, passions, or struggles."
         }
       ]
     },
@@ -83,7 +84,8 @@ export const stay_calm: Song = {
       "annotations": [
         {
           "keyword": "sh*t",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Problems, difficulties, or challenges someone is facing."
         }
       ]
     },
@@ -116,7 +118,8 @@ export const stay_calm: Song = {
       "annotations": [
         {
           "keyword": "all in",
-          "type": "idiom"
+          "type": "Idiom",
+          "meaning": "Fully committed; dedicating all resources and effort to achieving a goal."
         },
         {
           "text": "Goin' all in I got people to prove",
@@ -134,7 +137,8 @@ export const stay_calm: Song = {
       "annotations": [
         {
           "keyword": "Bulldozin'",
-          "type": "metaphor"
+          "type": "Figurative",
+          "meaning": "Forcefully overcoming obstacles and challenges with relentless determination."
         },
         {
           "text": "Bulldozin' in I got mountains to move",
@@ -159,7 +163,8 @@ export const stay_calm: Song = {
       "annotations": [
         {
           "keyword": "on the line",
-          "type": "idiom"
+          "type": "Idiom",
+          "meaning": "In a vulnerable or risky position; facing potential consequences or failure."
         }
       ]
     },
@@ -206,11 +211,13 @@ export const stay_calm: Song = {
       "annotations": [
         {
           "keyword": "grind",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "To work tirelessly and persistently towards a goal."
         },
         {
           "keyword": "fresh",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Stylish, innovative, and impressive."
         },
         {
           "text": "Imma grind till I shine, we define fresh",
@@ -241,7 +248,8 @@ export const stay_calm: Song = {
       "annotations": [
         {
           "keyword": "no contest",
-          "type": "idiom"
+          "type": "Idiom",
+          "meaning": "Indicating that there is no competition or that someone is clearly superior."
         }
       ]
     },
@@ -260,7 +268,8 @@ export const stay_calm: Song = {
       "annotations": [
         {
           "keyword": "bomb threat",
-          "type": "metaphor"
+          "type": "Figurative",
+          "meaning": "A sudden and unexpected challenge or threat; something that can cause immediate disruption or chaos."
         }
       ]
     },
@@ -272,7 +281,8 @@ export const stay_calm: Song = {
       "annotations": [
         {
           "keyword": "cold sweat",
-          "type": "idiom"
+          "type": "Figurative",
+          "meaning": "Anxiety, fear, or nervousness in the face of a challenge."
         }
       ]
     },
@@ -284,7 +294,8 @@ export const stay_calm: Song = {
       "annotations": [
         {
           "keyword": "pen",
-          "type": "metaphor"
+          "type": "Figurative",
+          "meaning": "Referring to their skill as lyricists and songwriters, using their words as a weapon."
         }
       ]
     },
@@ -310,7 +321,8 @@ export const stay_calm: Song = {
       "annotations": [
         {
           "keyword": "wooh",
-          "type": "ad-lib"
+          "type": "Expression",
+          "meaning": "An exclamation of excitement, hype, or emphasis."
         }
       ]
     },
@@ -322,7 +334,8 @@ export const stay_calm: Song = {
       "annotations": [
         {
           "keyword": "Stay Calm",
-          "type": "wordplay"
+          "type": "Motivational",
+          "meaning": "Maintain composure and level-headedness in the face of challenges or pressure."
         }
       ]
     },
@@ -369,7 +382,8 @@ export const stay_calm: Song = {
       "annotations": [
         {
           "keyword": "head up",
-          "type": "idiom"
+          "type": "Idiom",
+          "meaning": "Maintain a positive and confident attitude."
         }
       ]
     },

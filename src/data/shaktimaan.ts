@@ -16,7 +16,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Hey Ho",
-          "type": "Ad-lib"
+          "type": "Exclamation",
+          "meaning": "A general exclamation, similar to 'Hey!' or 'Yo!' Used to grab attention or emphasize a point."
         }
       ]
     },
@@ -28,7 +29,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Pehchan",
-          "type": "Identity/Recognition"
+          "type": "Culture",
+          "meaning": "Hindi for 'Identity'. The line questions the listener's or someone's identity and what they stand for."
         },
         {
           "text": "क्या है तेरा नाम, क्या तेरी पहचान है? (हे हो)",
@@ -46,7 +48,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Qaum",
-          "type": "Tribe/Community"
+          "type": "Culture",
+          "meaning": "Hindi for 'Community' or 'Tribe'. It refers to the group or community one belongs to. This line questions the community someone identifies with."
         }
       ]
     },
@@ -58,11 +61,13 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Shahrukh Khan",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "A very famous Indian actor, often called 'King Khan' of Bollywood.  Used here to imply the listener is not a popular or well-known personality."
         },
         {
           "keyword": "Salman",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "Another very famous Indian actor in Bollywood. Used in conjunction with Shahrukh Khan to further emphasize the listener is not a celebrity."
         },
         {
           "text": "ना तू Shahrukh Khan है ना ही Salman है (हे हो)",
@@ -80,7 +85,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Dhul",
-          "type": "Dust/Insignificant"
+          "type": "Metaphor",
+          "meaning": "Hindi for 'Dust'. Used metaphorically to suggest the subject is insignificant or worthless."
         }
       ]
     },
@@ -92,7 +98,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Registan",
-          "type": "Metaphor"
+          "type": "Place",
+          "meaning": "A Persian word, which means sandy place or desert. Here referring to a barren or desolate place and using it metaphorically."
         }
       ]
     },
@@ -118,11 +125,13 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Gangadhar",
-          "type": "Character"
+          "type": "Reference",
+          "meaning": "The alter ego of Shaktimaan; a mild-mannered photographer.  The line implies that the rapper is both the ordinary person and the superhero."
         },
         {
           "keyword": "Shaktimaan",
-          "type": "Character"
+          "type": "Reference",
+          "meaning": "The name of a popular Indian superhero TV show from the 90s.  The line equates the rapper to this powerful figure."
         }
       ]
     },
@@ -148,7 +157,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Chal Kat",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Hindi slang, meaning 'get lost' or 'leave'. A dismissive phrase."
         }
       ]
     },
@@ -167,7 +177,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Jhatt se",
-          "type": "Slang/Quickly"
+          "type": "Idiom",
+          "meaning": "Hindi phrase meaning 'Instantly' or 'In a flash'. Signifying a quick transformation."
         }
       ]
     },
@@ -179,7 +190,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Maati",
-          "type": "Soil/Substance"
+          "type": "Culture",
+          "meaning": "Hindi for 'Soil' or 'Earth'. Used metaphorically to question someone's origin or background. Could imply caste as well."
         },
         {
           "text": "मैं गंगाधर, झट्ट से शक्तिमान, है बसpartyकहाँ?",
@@ -204,7 +216,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Phatak",
-          "type": "Gate/Crossing"
+          "type": "Culture",
+          "meaning": "Hindi for 'Gate'. Used in the context of 'Phatak band', meaning shut the gate.  A way of saying to stop, or end something. Likely referring to shutting down the opponent."
         }
       ]
     },
@@ -216,7 +229,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Chole Kulcha",
-          "type": "Food/Wordplay"
+          "type": "Culture",
+          "meaning": "'Chole Kulche' is a popular North Indian street food. It's used here to imply that the listener is someone who indulges in such trivial matters and is therefore weak or easily satisfied."
         }
       ]
     },
@@ -228,7 +242,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Chaat",
-          "type": "Slang/Sycophancy"
+          "type": "Slang",
+          "meaning": "Lick/Suck up. 'Chaat ab kam' means 'Stop bootlicking/being a sycophant'."
         }
       ]
     },
@@ -240,7 +255,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Jahanpanah",
-          "type": "Title/Royal"
+          "type": "Culture",
+          "meaning": "A term of respect, referring to an emperor or ruler; a protector of the world. Used sarcastically, questioning the listener's supposed importance."
         }
       ]
     },
@@ -252,7 +268,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Gandh",
-          "type": "Stink/Filth"
+          "type": "Culture",
+          "meaning": "Filth/Stink. Refers to garbage or low-quality people/music."
         }
       ]
     },
@@ -264,7 +281,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Baalak",
-          "type": "Child/Rookie"
+          "type": "Culture",
+          "meaning": "Hindi for 'Child' or 'Boy'.  Questioning why the listener is behaving like a child or being immature."
         }
       ]
     },
@@ -276,11 +294,13 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Popeye",
-          "type": "Pop Culture"
+          "type": "Reference",
+          "meaning": "A famous cartoon character known for his strength gained from eating spinach."
         },
         {
           "keyword": "Palak",
-          "type": "Spinach/Slang"
+          "type": "Culture",
+          "meaning": "Hindi for 'Spinach'. Referring to Popeye getting strength from spinach and being on a different level."
         }
       ]
     },
@@ -306,11 +326,13 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Sikke",
-          "type": "Coins"
+          "type": "Culture",
+          "meaning": "Hindi for 'Coins'."
         },
         {
           "keyword": "Dilbagh",
-          "type": "Brand/Pan Masala"
+          "type": "Reference",
+          "meaning": "Pan Masala Brand. They used the empty sachets for tossing instead of coins."
         }
       ]
     },
@@ -322,7 +344,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Devi Ji",
-          "type": "Character Ref"
+          "type": "Culture",
+          "meaning": "Hindi for 'Goddess'. Used sarcastically or humorously, possibly directed at a female listener."
         }
       ]
     },
@@ -334,7 +357,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "On lock",
-          "type": "Slang/Controlled"
+          "type": "Slang",
+          "meaning": "Slang phrase meaning 'completely controlled' or 'secured'.  Asserting complete dominance over the game or situation."
         }
       ]
     },
@@ -353,11 +377,13 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Halwa",
-          "type": "Slang/Easy"
+          "type": "Metaphor",
+          "meaning": "Hindi for 'Halwa', a sweet dessert. Implying the subject is easily defeated or soft."
         },
         {
           "keyword": "Suji",
-          "type": "Pun/Wordplay"
+          "type": "Culture",
+          "meaning": "Hindi for 'Semolina'."
         }
       ]
     },
@@ -369,11 +395,13 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Soul/Sole",
-          "type": "Pun"
+          "type": "Wordplay",
+          "meaning": "Playing on words. 'Soul' refers to the spirit. 'Sole' refers to the bottom of a shoe. The line implies that the rapper is crushing the opponent's spirit."
         },
         {
           "keyword": "Mochi",
-          "type": "Cobbler"
+          "type": "Culture",
+          "meaning": "Hindi for 'Cobbler'. Referencing the shoe sole pun from earlier in the line."
         }
       ]
     },
@@ -385,11 +413,13 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Honda",
-          "type": "Character"
+          "type": "Reference",
+          "meaning": "A Japanese automotive company. This is in reference to Kochikame's main character who drives a Honda."
         },
         {
           "keyword": "Kochikame",
-          "type": "Anime"
+          "type": "Reference",
+          "meaning": "Kochikame is a Japanese manga series"
         }
       ]
     },
@@ -485,7 +515,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Bang",
-          "type": "Slang/Hit"
+          "type": "Slang",
+          "meaning": "Slang meaning doing something with impact."
         }
       ]
     },
@@ -497,7 +528,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Liu Kang",
-          "type": "Pop Culture/Gaming"
+          "type": "Reference",
+          "meaning": "A character from the Mortal Kombat video game series.  Suggesting that the rapper is dangerous and powerful."
         }
       ]
     },
@@ -523,7 +555,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Danda",
-          "type": "Stick/Punishment"
+          "type": "Culture",
+          "meaning": "Hindi for 'Stick' or 'Rod'. Implying that the opponents will be beaten or punished."
         }
       ]
     },
@@ -535,7 +568,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Chanda",
-          "type": "Donation/Begging"
+          "type": "Culture",
+          "meaning": "Hindi for 'Donation' or 'Subscription'. It could also refer to 'protection money' extracted by gangs. Here, it implies Seedhe Maut takes what is rightfully theirs from the opposition."
         }
       ]
     },
@@ -554,7 +588,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Khabis",
-          "type": "Slang/Filthy"
+          "type": "Slang",
+          "meaning": "Urdu word which means evil."
         },
         {
           "text": "जाने क्यों जी में है Kilvish तू पाले क्या पार्टी यहाँ होगी मुलायम?",
@@ -572,11 +607,13 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Kilvish",
-          "type": "Character"
+          "type": "Reference",
+          "meaning": "The main antagonist in the Shaktimaan TV series. Suggesting the listener embodies evil and negativity."
         },
         {
           "keyword": "Mulayam",
-          "type": "Wordplay/Soft"
+          "type": "Slang",
+          "meaning": "Mulayam is a slang word from Uttar Pradesh, India which means soft"
         }
       ]
     },
@@ -588,7 +625,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Andhera Kayam",
-          "type": "Catchphrase"
+          "type": "Reference",
+          "meaning": "Kilvish's catchphrase from the Shaktimaan TV show. It means 'May darkness prevail forever.'"
         }
       ]
     },
@@ -628,7 +666,8 @@ export const shaktimaan: Song = {
       "annotations": [
         {
           "keyword": "Seedhe Maut",
-          "type": "Group Name"
+          "type": "Reference",
+          "meaning": "The name of the rap duo consisting of Encore ABJ and Calm."
         }
       ]
     },

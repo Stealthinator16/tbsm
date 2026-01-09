@@ -578,7 +578,7 @@ export const guldasta: Song = {
           "text": "हम सुनते Lifafa",
           "keyword": "Lifafa",
           "type": "Slang",
-          "meaning": "\"Lifafa\" means envelope, but in Indian slang, it refers to money or bribes, usually to get something done. It can suggest that they are well-compensated or have influence."
+          "meaning": "Refers to the music artist 'Lifafa' (Suryakant Sawhney)."
         }
       ]
     },

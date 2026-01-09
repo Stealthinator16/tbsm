@@ -29,7 +29,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "चस्का",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Chaska translates to 'obsession' or 'addiction'. In this context, it likely refers to an intense craving or liking for something, possibly the lifestyle or experiences being described in the song."
         }
       ]
     },
@@ -48,7 +49,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "नक्शा",
-          "type": "Title/Concept"
+          "type": "Reference",
+          "meaning": "Naksha means 'map'. In the song's context, it refers to a detailed representation or understanding of a specific area or situation, particularly Jamnapaar."
         }
       ]
     },
@@ -60,7 +62,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "राजधानी",
-          "type": "Location (Delhi)"
+          "type": "Slang",
+          "meaning": "Rajdhani means 'capital'. The line is a metaphor; comparing someone sitting on the lap to the capital being on the world's 'gaand' (ass), implying dominance or control."
         },
         {
           "text": "राजधानी lap पे लगाया मैं तो लौंडो की गांड जलती है, नी कोई दोहराए",
@@ -92,7 +95,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Jamna",
-          "type": "Location/Slang"
+          "type": "Place",
+          "meaning": "Referring to the Yamuna River, a major river flowing through Delhi. It's used as a geographic marker."
         }
       ]
     },
@@ -104,7 +108,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "घोड़े",
-          "type": "Slang (Guns)"
+          "type": "Slang",
+          "meaning": "Ghode literally means 'horses' but is slang for 'guns' (triggered by the hammer mechanism). 'Thayn' is the sound of a gunshot."
         }
       ]
     },
@@ -116,11 +121,13 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "खत्ता",
-          "type": "Location (Landfill)"
+          "type": "Place",
+          "meaning": "Khatta refers to a dumping ground or a place known for waste. It's used to describe the area where the speaker was born, near Ghazipur."
         },
         {
           "keyword": "Ghazipur",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A locality in East Delhi, known for its landfill site (khatta)."
         },
         {
           "text": "कभी यहाँ कुत्ते भौंके \"भाऊ\", कभी यहाँ घोड़े चलते \"थायँ\"",
@@ -152,11 +159,13 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Kalyan Puri",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A locality in East Delhi."
         },
         {
           "keyword": "Khichripur",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A locality in East Delhi, mentioned alongside Kalyan Puri."
         }
       ]
     },
@@ -168,7 +177,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "रोकड़ा",
-          "type": "Slang (Money)"
+          "type": "Slang",
+          "meaning": "Rokda refers to 'cash'."
         },
         {
           "text": "Kalyan Puri भाई बैठा एक और Khichripur में है scam करे दूसरा (Scam)",
@@ -186,7 +196,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Phase-3",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "Likely referring to a phase of a housing development or area in Delhi. Without more context, it's hard to pinpoint the exact location."
         }
       ]
     },
@@ -198,11 +209,13 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Khora",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A locality in Ghaziabad, near Delhi. It highlights the artists' association with different areas in and around Delhi."
         },
         {
           "keyword": "Gharoli",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A locality in East Delhi."
         }
       ]
     },
@@ -214,11 +227,13 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "कांडी",
-          "type": "Slang (Troublemaker)"
+          "type": "Slang",
+          "meaning": "Kaandi refers to someone who commits 'kaand' (scandals/crimes). Means troublemaker or notorious person."
         },
         {
           "keyword": "Kondli",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A locality in Delhi near Noida."
         }
       ]
     },
@@ -230,7 +245,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Majnu ke tille",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A small settlement in Delhi, known as a Tibetan refugee camp and popular for its food and culture."
         },
         {
           "text": "हाँ, Khora के लौंडे हैं street smart, Gharoli के लौंडे हैं देसी",
@@ -255,7 +271,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Laxmi Nagar",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A commercial and residential area in East Delhi, known for its crowded streets."
         },
         {
           "text": "हाँ, Kondli के लौंडे हैं कांडी, नी सहते हैं Noida के बेइज्जती",
@@ -273,7 +290,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Seelampur",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A densely populated area in East Delhi."
         },
         {
           "text": "कभी Majnu ke tille पे momos, कभी Shahdara के station पे pastries",
@@ -291,7 +309,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Jamnapaar",
-          "type": "Location/Identity"
+          "type": "Place",
+          "meaning": "The area of Delhi that lies east of the Yamuna River. It's often associated with being less developed than other parts of Delhi."
         }
       ]
     },
@@ -324,7 +343,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "गेड़ियों",
-          "type": "Slang (Cruising)"
+          "type": "Slang",
+          "meaning": "Gediyon translates to 'rounds' or 'spins'. Here, it probably implies circling around aimlessly or engaging in street activities."
         },
         {
           "text": "यहाँ आना है तो आ, तेरी मर्जी, तू खो जाएगा गलियों में Laxmi Nagar की",
@@ -433,7 +453,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Samaypur Badli",
-          "type": "Location/Wordplay"
+          "type": "Place",
+          "meaning": "A locality in North Delhi, on the outskirts of the city."
         }
       ]
     },
@@ -473,7 +494,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Pitampura",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A residential area in North Delhi, generally considered more affluent."
         },
         {
           "text": "वो खड़ा था M2K पे, होता देखा phone गायब उसका Bittoo Tikki पे",
@@ -498,11 +520,13 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "DC Chowk",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A specific chowk (intersection/square) named after the Deputy Commissioner, located in Rohini, Delhi."
         },
         {
           "keyword": "Rohini",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A large residential sub-city in North West Delhi."
         }
       ]
     },
@@ -528,11 +552,13 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "M2K",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "Likely referring to a shopping complex or cinema hall, commonly known as a hangout spot. There are several M2K cinema halls in Delhi."
         },
         {
           "keyword": "Bittoo Tikki",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A popular street food vendor or stall, known for its Tikki (potato patty)."
         },
         {
           "text": "बुलाया उसे Netaji Subhash के पास",
@@ -557,7 +583,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Ghaffar",
-          "type": "Location (Market)"
+          "type": "Place",
+          "meaning": "Referring to Ghaffar Market in Karol Bagh, Delhi. A grey market (unauthorized) area for electronics and other goods."
         }
       ]
     },
@@ -569,7 +596,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Netaji Subhash",
-          "type": "Location (NSP)"
+          "type": "Place",
+          "meaning": "Likely referring to the Netaji Subhash Place (NSP) area in Delhi. It is a commercial hub."
         }
       ]
     },
@@ -581,7 +609,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "ठुल्ले",
-          "type": "Slang (Police)"
+          "type": "Slang",
+          "meaning": "Thulle is a slang term for police officers in Delhi."
         }
       ]
     },
@@ -621,7 +650,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Kashmere Gate",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A historical gate and a major transportation hub in Delhi, connecting various parts of the city and surrounding areas."
         },
         {
           "text": "आते यहाँ पे बहुत हैं बीमार, सोते हैं AIIMS के जो बाहर",
@@ -639,7 +669,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Tihar",
-          "type": "Location (Prison)"
+          "type": "Place",
+          "meaning": "Referring to Tihar Jail, a large prison complex in Delhi. Implies someone might end up there."
         }
       ]
     },
@@ -651,7 +682,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "AIIMS",
-          "type": "Location (Hospital)"
+          "type": "Place",
+          "meaning": "All India Institute of Medical Sciences, a premier medical research and hospital in Delhi. It suggests the area is frequented by the sick."
         }
       ]
     },
@@ -677,7 +709,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "औज़ार",
-          "type": "Slang (Weapons)"
+          "type": "Slang",
+          "meaning": "Auzar means 'tool' or 'weapon'. In this context, it probably means keeping resources or influence within the south-south side of Delhi."
         },
         {
           "text": "Najafgarh freezer में रखते हैं लाशों को काट कर और scene हुआ तो भागते Hisar",
@@ -695,7 +728,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "Najafgarh",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A suburban area in South West Delhi."
         }
       ]
     },
@@ -707,7 +741,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "SM",
-          "type": "Artist Initials"
+          "type": "Reference",
+          "meaning": "Likely refers to Seedhe Maut. Suggests they are safe and found on Delhi's map/scene."
         }
       ]
     },
@@ -726,7 +761,8 @@ export const naksha: Song = {
       "annotations": [
         {
           "keyword": "कट्टे",
-          "type": "Slang (Gun)"
+          "type": "Slang",
+          "meaning": "Katte means 'Country-made pistols' (singular: Katta). Can also mean sacks, implying hiding things. Given the context of weapons, pistols is likely."
         }
       ]
     },

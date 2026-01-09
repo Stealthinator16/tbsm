@@ -242,7 +242,7 @@ export const madira: Song = {
       "original": "तभी L आएगा silent इस नाम में",
       "speaker": "Calm",
       "translation": "That's why the 'L' in this name is silent.",
-      "explanation": "Genius wordplay on the word 'C-A-L-M' where 'L' is phonetically silent, but also implies he doesn't take 'Ls' (Losses).",
+      "explanation": "Wordplay. The letter 'L' is silent in 'Calm', implying he takes no Ls (Losses).",
       "annotations": [
         {
           "keyword": "silent",
@@ -260,19 +260,20 @@ export const madira: Song = {
           "text": "उठा मैं कलम के दम पर, नहीं रहना यहाँ Calm",
           "keyword": "Calm",
           "type": "Reference",
-          "meaning": "Referring to Calm, one half of the Seedhe Maut duo, indicating he's reaching his limit or can't stay in a particular situation. Playing with his artist name."
+          "meaning": "Wordplay referring to the artist Calm. Also means state of peace."
         }
       ]
     },
     {
-      "original": "पसंद आयी बंदी वो दिखती थी 'gram पे",
+      "original": "प पसंद आयी बंदी वो दिखती थी 'gram पे",
       "speaker": "Calm",
       "translation": "I liked that girl, saw her on the 'gram.",
       "explanation": "Modern dating context; 'gram' refers to Instagram.",
       "annotations": [
         {
           "keyword": "'gram",
-          "type": "slang"
+          "type": "slang",
+          "meaning": "Slang for Instagram."
         }
       ]
     },
@@ -338,7 +339,8 @@ export const madira: Song = {
       "annotations": [
         {
           "keyword": "घोड़े",
-          "type": "slang"
+          "type": "slang",
+          "meaning": "Slang for Gun (specifically the hammer/trigger mechanism)."
         }
       ]
     },
@@ -357,7 +359,8 @@ export const madira: Song = {
       "annotations": [
         {
           "keyword": "पत्थर",
-          "type": "slang"
+          "type": "slang",
+          "meaning": "Slang for heavy jewelry/diamonds ('Ice')."
         }
       ]
     },

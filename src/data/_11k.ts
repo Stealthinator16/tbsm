@@ -100,9 +100,9 @@ export const _11k: Song = {
       "explanation": "He flexes that they now charge 1 Lakh (1,00,000 INR) for a single rap verse (16 bars).",
       "annotations": [
         {
-          "keyword": "peeti",
+          "keyword": "Peti",
           "type": "Slang",
-          "meaning": "\"Peeti uthayi hai\" - Have had to lift/pick up (related to dealing with consequences or handling a task)."
+          "meaning": "Refers to 'Peti' (1 Lakh INR). They charged 1 Lakh for 16 bars."
         },
         {
           "keyword": "bar",
@@ -232,7 +232,7 @@ export const _11k: Song = {
         {
           "keyword": "जोटे",
           "type": "Slang",
-          "meaning": "\"Jootay cheene bouncer tera\" - \"Your bouncer's shoes were snatched.\". Indicating they took someone's status/power away."
+          "meaning": "Jote/Joints - Slang for marijuana. The bouncer confiscated his joints, while the rapper's street cred remains untouchable."
         },
         {
           "text": "आजा मेरे शहर Verdansk",
@@ -298,7 +298,7 @@ export const _11k: Song = {
         {
           "keyword": "जलाते गैंड",
           "type": "Slang",
-          "meaning": "\"Jalate gand\" - \"Burning asses\". It implies the brothers/crew are creating envy and anger in others through their success."
+          "meaning": "'Jalate gand' means causing extreme jealousy or envy in others."
         },
         {
           "text": "मिलूँगा या नहीं depends",

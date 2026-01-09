@@ -15,7 +15,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "राजधानी",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "\"Rajdhani mein wapas aaye\" translates to \"Returned to the capital\". Likely referring to Delhi, the capital of India."
         }
       ]
     },
@@ -27,7 +28,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "white",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Bada bag hai aur paisa white\" refers to having a big bag and 'white money', meaning legitimate or untaxed money."
         }
       ]
     },
@@ -39,11 +41,13 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "बजो",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Bajo bhaiyon aaj sab kuch hype\" translates to \"Play it brothers, everything is hype today.\" 'Bajo' means 'to play' (music)."
         },
         {
           "keyword": "भैंचो",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Expletive/Bro. Short for 'Bhenchod' (Sisterfucker). Used here as a filler or to address friends."
         }
       ]
     },
@@ -62,13 +66,14 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "Sike",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Sike!\" is used as a playful way of saying \"Just kidding!\" or \"I didn't mean it!\"."
         },
         {
           "text": "Self made है यहाँ लौंडे Sike!",
           "keyword": "Sike!",
           "type": "Slang",
-          "meaning": "Used as a taunt or to signify that something is not as it seems, often implying deception or a reversal of expectations."
+          "meaning": "Exclamation. Used to signify a joke/lie, but here used as a hype ad-lib."
         }
       ]
     },
@@ -94,7 +99,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "ठूंठ",
-          "type": "Metaphor"
+          "type": "Slang",
+          "meaning": "Tree Stump. 'Lage thooth se' means you look like a dry, lifeless tree stump."
         }
       ]
     },
@@ -113,7 +119,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "चुल",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Urge/Itch/Restlessness. 'Gandi chul' means a bad itch to do something."
         }
       ]
     },
@@ -132,7 +139,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "DL91",
-          "type": "Region"
+          "type": "Place",
+          "meaning": "DL91 is likely referring to a specific area or 'pincode' in Delhi. It's used to identify their crew or origin."
         }
       ]
     },
@@ -179,7 +187,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "बावे",
-          "type": "Slang"
+          "type": "Reference",
+          "meaning": "Bro/Friend. 'Mister Bawe' refers to Encore (Abj)."
         },
         {
           "text": "मिस्टर बावे दे रहा order, दे रहा foil",
@@ -204,7 +213,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "Codistar",
-          "type": "Reference"
+          "type": "Slang",
+          "meaning": "Codistar probably alludes to cough syrup, specifically codeine syrup, mixed in a cup. It is commonly used in the rap/hip-hop culture for its sedative effects."
         }
       ]
     },
@@ -307,7 +317,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "Peso",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Peso refers to money/currency, likely referencing foreign currency rather than just Indian Rupees."
         }
       ]
     },
@@ -326,7 +337,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "घोड़ा",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Andar hai ghoda, bahar ghode ki naal\" translates to \"There's a horse inside, outside is a horseshoe\". The horse may refer to alcohol in a flask or an illegal substance, and a horseshoe might refer to the container that it is in."
         }
       ]
     },
@@ -352,7 +364,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "डल्ली",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Slang for a loose woman/female pimp. Derogatory term."
         }
       ]
     },
@@ -378,7 +391,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "Setting",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "'Girlfriend' or 'Date'. Slang for a partner."
         }
       ]
     },
@@ -432,7 +446,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "पंकज उदास",
-          "type": "Reference"
+          "type": "Reference",
+          "meaning": "\"Na kabhi gaate hum pankaj udhas\" translates to \"We never sing Pankaj Udhas\". Pankaj Udhas is a famous Indian Ghazal singer. This line implies they don't sing traditional, romantic songs."
         }
       ]
     },
@@ -444,7 +459,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "71",
-          "type": "Region"
+          "type": "Reference",
+          "meaning": "71 could be referencing the year 1971, likely the year someone close was born. It can also be a reference to DL91, indicating the crew's association to the area."
         }
       ]
     },
@@ -505,7 +521,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "उस्तरा",
-          "type": "Object"
+          "type": "Slang",
+          "meaning": "\"Aur ustra kaate, bawe rukata na\" translates to \"And a razor cuts, Bawe (Encore ABJ) doesn't stop\". It implies a ruthless and unrelenting attitude."
         }
       ]
     },
@@ -531,7 +548,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "Shakespeare",
-          "type": "Reference"
+          "type": "Reference",
+          "meaning": "Shakespeare is used to imply that someone is a great or skilled writer/poet. This is said ironically, implying that the rapper they're referring to is not a great writer at all."
         }
       ]
     },
@@ -543,7 +561,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "पेशी",
-          "type": "Terminology"
+          "type": "Slang",
+          "meaning": "\"Jaana nahake ye peshi hai\" translates to \"He doesn't know, this is a case\". 'Peshi' means 'court case'. It is an implication of being serious about what is to come."
         }
       ]
     },
@@ -562,7 +581,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "पपलू",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Weak/Naive person. 'Paplu' means a loser/softie."
         }
       ]
     },
@@ -749,7 +769,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "झाँट",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Pubic hair (Vulgar). Means insignificant, trash, or worth nothing."
         }
       ]
     },
@@ -761,7 +782,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "stu",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Bawe stu mein hun show ke baad\" translates to \"Bawe (Encore ABJ) is in the studio after the show.\" 'Stu' is short for 'studio'."
         }
       ]
     },
@@ -941,7 +963,8 @@ export const sike: Song = {
       "annotations": [
         {
           "keyword": "GG",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "\"Jeetun yeh game aur phir bolun ki GG\" translates to \"I win this game and then say GG\". GG stands for 'Good Game', typically said after a game to acknowledge the opponent, even if the loss was apparent."
         }
       ]
     },

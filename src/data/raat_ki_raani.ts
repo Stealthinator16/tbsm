@@ -16,11 +16,13 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "हसीं",
-          "type": "adjective"
+          "type": "Literal Translation",
+          "meaning": "These laughing nights; the heart is young; where are you?"
         },
         {
           "keyword": "जवाँ",
-          "type": "adjective"
+          "type": "Literal Translation",
+          "meaning": "Young"
         }
       ]
     },
@@ -39,7 +41,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "SM",
-          "type": "abbreviation"
+          "type": "Reference",
+          "meaning": "Seedhe Maut, the name of the artist duo."
         }
       ]
     },
@@ -51,7 +54,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "ख़ौफ़",
-          "type": "slang/noun"
+          "type": "Sound",
+          "meaning": "Fear/Terror. 'Khate khauf' means they act scared."
         }
       ]
     },
@@ -63,7 +67,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "top-notch",
-          "type": "adjective"
+          "type": "Slang",
+          "meaning": "Excellent, of the highest quality."
         },
         {
           "text": "हम करें boss job, CEO हैं top-notch",
@@ -81,11 +86,13 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "छत्तीस",
-          "type": "slang"
+          "type": "Literal Translation",
+          "meaning": "Literal 'Thirty-six'. 'Chattis chod' implies 'Thirty-six fuckers' (many random people)."
         },
         {
           "keyword": "loss cause",
-          "type": "idiom"
+          "type": "Slang",
+          "meaning": "A hopeless case; something that is certain to fail."
         }
       ]
     },
@@ -111,7 +118,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "चलता सिक्का",
-          "type": "idiom"
+          "type": "Literal Translation",
+          "meaning": "Leading/Valid coin. Refers to a successful or influential person."
         }
       ]
     },
@@ -130,7 +138,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "भाई पे",
-          "type": "slang"
+          "type": "Literal Translation",
+          "meaning": "Brother has. 'Bhai pe paisa' means Brother (I) has money."
         }
       ]
     },
@@ -142,7 +151,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "शौक़",
-          "type": "noun"
+          "type": "Literal Translation",
+          "meaning": "Hobbies/Passion/Style. 'Rakhu bade shauq' means I have expensive tastes."
         }
       ]
     },
@@ -154,7 +164,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "bop",
-          "type": "slang"
+          "type": "Sound",
+          "meaning": "Making songs with a pop-like sound; big shocks"
         }
       ]
     },
@@ -180,11 +191,13 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "Rollie",
-          "type": "slang (Rolex)"
+          "type": "Slang",
+          "meaning": "A luxury watch, often a Rolex."
         },
         {
           "keyword": "Billy Bowden",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Refers to a cricket umpire known for his crooked finger signal indicating 'out'. It implies they're quick to judge or dismiss."
         }
       ]
     },
@@ -238,7 +251,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "FL",
-          "type": "software (FL Studio)"
+          "type": "Reference",
+          "meaning": "FL Studio, a digital audio workstation (DAW) software used for music production."
         }
       ]
     },
@@ -285,13 +299,14 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "Sonic",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Reference to the video game character Sonic the Hedgehog, known for his speed."
         },
         {
           "text": "इनके लिए problem कौन है? तेरे भाई दो",
           "keyword": "Tere bhai do",
           "type": "Slang",
-          "meaning": "Meaning \"We are here for you\". They are flexing their strength and support."
+          "meaning": "Your two brothers (Encore & Calm). 'Tere bhai do' refers to themselves."
         }
       ]
     },
@@ -303,11 +318,13 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "chronic",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Excellent, outstanding, classic."
         },
         {
           "keyword": "लौड़े",
-          "type": "insult/slang"
+          "type": "Slang",
+          "meaning": "Penis (Vulgar slang). Used here as an insult (Fucktard) or filler."
         }
       ]
     },
@@ -319,7 +336,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "cypher",
-          "type": "hip-hop term"
+          "type": "Culture",
+          "meaning": "A freestyle rap session or gathering of rappers."
         }
       ]
     },
@@ -331,7 +349,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "गूदा",
-          "type": "slang (guts/courage)"
+          "type": "Slang",
+          "meaning": "Guts/Courage. 'Aata hai gooda' means they only get courage when they leave the city."
         },
         {
           "text": "करे show iconic and I move like Sonic",
@@ -370,7 +389,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "Green Day",
-          "type": "band reference"
+          "type": "Reference",
+          "meaning": "A popular American rock band. The artist is referencing his early musical influences."
         }
       ]
     },
@@ -403,7 +423,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "तेरी माँ की चूत",
-          "type": "expletive"
+          "type": "Literal Translation",
+          "meaning": "Literally 'Your mother's c*nt' (Vulgar). An aggressive expletive used to dismiss haters."
         }
       ]
     },
@@ -457,7 +478,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "गांड फाड़",
-          "type": "slang (mind-blowing)"
+          "type": "Slang",
+          "meaning": "Literally 'Ass-tearing' (Vulgar). Slang for mind-blowing, extreme, or spectacular."
         }
       ]
     },
@@ -469,7 +491,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "चाँद चार",
-          "type": "idiom (modified)"
+          "type": "Literal Translation",
+          "meaning": "Idiom 'Chaar Chaand Lagna' (Four moons). Means to enhance beauty, status, or luck significantly."
         }
       ]
     },
@@ -488,7 +511,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "छुआ-छूत",
-          "type": "noun (untouchability)"
+          "type": "Literal Translation",
+          "meaning": "Untouchability. 'Jaise chua-choot' means they avoid him like he's untouchable/pariah."
         }
       ]
     },
@@ -500,7 +524,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "थूथ",
-          "type": "slang (face/mouth)"
+          "type": "Literal Translation",
+          "meaning": "Face/Snout (Colloquial). 'Chu aaye thooth' means (my hand) touches your face (slap)."
         }
       ]
     },
@@ -526,7 +551,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "हस्तिनापुर",
-          "type": "historical reference"
+          "type": "Reference",
+          "meaning": "Delhi is no less than Hastinapur (ancient city in Mahabharata)."
         }
       ]
     },
@@ -538,11 +564,13 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "Mo",
-          "type": "person (Mo Joshi)"
+          "type": "Reference",
+          "meaning": "One half of the duo Seedhe Maut."
         },
         {
           "keyword": "Blunt",
-          "type": "person (DJ Blunt)"
+          "type": "Slang",
+          "meaning": "A marijuana cigarette. They are smoking."
         },
         {
           "text": "New age पांडव हैं हम पाँच सच्ची",
@@ -560,7 +588,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "पांडव",
-          "type": "mythological reference"
+          "type": "Reference",
+          "meaning": "Referring to themselves as the modern-day Pandavas (characters from the Mahabharata) implying strength and righteousness."
         }
       ]
     },
@@ -572,7 +601,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "भीम",
-          "type": "reference"
+          "type": "Reference",
+          "meaning": "Reference to Bhima; one of the Pandavas, implying I write the earth shakes."
         }
       ]
     },
@@ -591,7 +621,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "whack",
-          "type": "slang"
+          "type": "Slang",
+          "meaning": "Bad or of low quality."
         }
       ]
     },
@@ -624,7 +655,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "GOAT",
-          "type": "acronym/pun"
+          "type": "Slang",
+          "meaning": "Greatest Of All Time."
         }
       ]
     },
@@ -636,7 +668,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "टैं-टैं",
-          "type": "onomatopoeia/slang"
+          "type": "Slang",
+          "meaning": "Empty noise/Quacking. 'Karein tain-tain' means they just make useless noise."
         }
       ]
     },
@@ -655,7 +688,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "गांड-फटी",
-          "type": "vulgar slang (scared shitless)"
+          "type": "Slang",
+          "meaning": "Fear-stricken/Scared shitless (Vulgar). He is living in Noida in fear."
         }
       ]
     },
@@ -681,11 +715,13 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "त्रिलोकपुरी",
-          "type": "location"
+          "type": "Reference",
+          "meaning": "Trilokpuri (East Delhi Locality). Known for its rough neighborhood/slums."
         },
         {
           "keyword": "चीरा",
-          "type": "slang (cut/blade)"
+          "type": "Literal Translation",
+          "meaning": "Wound."
         }
       ]
     },
@@ -704,7 +740,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "जल",
-          "type": "pun"
+          "type": "Literal Translation",
+          "meaning": "Water. 'Maang rahe hai jal' means they are begging for water (relief)."
         }
       ]
     },
@@ -716,7 +753,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "आग में घी",
-          "type": "idiom"
+          "type": "Idiom",
+          "meaning": "I'm also on fire because I'm ghee (clarified butter) in the fire. (Adding fuel to the fire)."
         }
       ]
     },
@@ -735,7 +773,8 @@ export const raat_ki_raani: Song = {
       "annotations": [
         {
           "keyword": "mister E",
-          "type": "person (Mo Joshi)"
+          "type": "Slang",
+          "meaning": "The song is on नशे(intoxication), from mister E."
         }
       ]
     },

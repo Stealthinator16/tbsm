@@ -15,7 +15,8 @@ export const royalty: Song = {
       "annotations": [
         {
           "keyword": "Royalty",
-          "type": "Metaphor"
+          "type": "Figurative",
+          "meaning": "Supreme status, kingship, or a position of power and respect within the hip-hop scene."
         }
       ]
     },
@@ -97,7 +98,8 @@ export const royalty: Song = {
       "annotations": [
         {
           "keyword": "Jeb kaat le",
-          "type": "Slang/Action"
+          "type": "Slang",
+          "meaning": "(Hindi) 'Pickpocket'. Meaning go pickpocket someone if your pockets are empty. It implies desperation and illegal means to get money."
         }
       ]
     },
@@ -144,7 +146,8 @@ export const royalty: Song = {
       "annotations": [
         {
           "keyword": "Dhan",
-          "type": "Keyword"
+          "type": "Culture",
+          "meaning": "(Hindi) Wealth, riches, or money. The line refers to the pursuit of wealth as a primary desire."
         }
       ]
     },
@@ -163,7 +166,8 @@ export const royalty: Song = {
       "annotations": [
         {
           "keyword": "Mann ka mael",
-          "type": "Metaphor"
+          "type": "Culture",
+          "meaning": "(Hindi) 'Dirt of the mind' or mental impurities. It refers to negative thoughts, greed, and envy, implying these are bigger obstacles than physical limitations."
         }
       ]
     },
@@ -203,7 +207,8 @@ export const royalty: Song = {
       "annotations": [
         {
           "keyword": "Nathuram Godse",
-          "type": "Historical/Political Reference"
+          "type": "Reference",
+          "meaning": "A controversial figure in Indian history known for assassinating Mahatma Gandhi. Here, it symbolizes speaking harsh, direct, and potentially offensive truths."
         }
       ]
     },
@@ -215,7 +220,8 @@ export const royalty: Song = {
       "annotations": [
         {
           "keyword": "Hariyali",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "(Hindi) 'Greenery'. Slang for money (often associating money with green currency notes)."
         }
       ]
     },
@@ -227,7 +233,8 @@ export const royalty: Song = {
       "annotations": [
         {
           "keyword": "Gandhi",
-          "type": "Slang for Currency"
+          "type": "Slang",
+          "meaning": "Refers to Mahatma Gandhi, whose image is on Indian currency notes. 'Gandhi' is slang for money. The line speaks to the desire for financial stability and a chaotic, exciting life."
         }
       ]
     },
@@ -260,7 +267,8 @@ export const royalty: Song = {
       "annotations": [
         {
           "keyword": "Kalamadi",
-          "type": "Pun/Reference"
+          "type": "Reference",
+          "meaning": "Refers to Suresh Kalmadi, an Indian politician involved in corruption scandals, particularly related to the 2010 Commonwealth Games. It suggests resorting to unethical or corrupt practices, even if it means becoming like Kalmadi, to achieve success."
         }
       ]
     },
@@ -377,7 +385,8 @@ export const royalty: Song = {
       "annotations": [
         {
           "keyword": "Bawaal",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "(Hindi) Chaos, trouble, or a big problem. In this context, it implies that the desire for love and connection often leads to complicated and difficult situations."
         }
       ]
     },
@@ -570,7 +579,8 @@ export const royalty: Song = {
       "annotations": [
         {
           "keyword": "Stunting",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "To show off wealth and possessions, often in an exaggerated or ostentatious way."
         }
       ]
     },
@@ -610,7 +620,8 @@ export const royalty: Song = {
       "annotations": [
         {
           "keyword": "Copping",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Buying or acquiring items, often impulsively, that are being advertised on television.  Suggests consumerism and being influenced by media."
         }
       ]
     },

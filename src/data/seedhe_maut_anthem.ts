@@ -16,7 +16,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "Sez On The Beat",
-          "type": "Producer Tag"
+          "type": "Reference",
+          "meaning": "A renowned Indian music producer, known for his work in hip-hop. It's a producer tag."
         }
       ]
     },
@@ -28,7 +29,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "chal",
-          "type": "Metaphor (Chess move)"
+          "type": "Language",
+          "meaning": "Hindi for 'move' or 'style'. Here, it refers to their unique approach and game plan."
         }
       ]
     },
@@ -47,7 +49,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "Bawah",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Bro/Homie. Distinctive Delhi slang used by SM to address friends."
         }
       ]
     },
@@ -80,11 +83,13 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "hawah",
-          "type": "Idiom (Arrogance)"
+          "type": "Language",
+          "meaning": "Hindi for 'air' or 'wind'. Here, it implies getting carried away or affected by fame and attention."
         },
         {
           "keyword": "fans",
-          "type": "Double Entendre"
+          "type": "General",
+          "meaning": "People who admire and support their music."
         }
       ]
     },
@@ -96,7 +101,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "Django",
-          "type": "Pop Culture Reference"
+          "type": "Reference",
+          "meaning": "Reference to Django Unchained, a movie character known for seeking violent revenge and freeing slaves. Here, it means they are violently taking what is theirs."
         }
       ]
     },
@@ -122,7 +128,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "Khana Khazana",
-          "type": "Pop Culture Reference"
+          "type": "Language",
+          "meaning": "Hindi for 'food treasure'. It implies their music is a valuable source of sustenance for their listeners."
         }
       ]
     },
@@ -134,7 +141,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "Katana",
-          "type": "Metaphor"
+          "type": "Reference",
+          "meaning": "A Japanese sword. Here, it refers to their sharp and incisive lyrics."
         },
         {
           "text": "mai fuka karta Malana",
@@ -152,7 +160,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "Malana",
-          "type": "Regional Reference (Cannabis culture)"
+          "type": "Place",
+          "meaning": "A region in Himachal Pradesh, India, famous for its high-quality cannabis. It means they smoke high quality Marijuana."
         }
       ]
     },
@@ -199,7 +208,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "Janhit",
-          "type": "Formal Hindi"
+          "type": "Language",
+          "meaning": "Hindi for 'public interest'. It suggests their message is for the benefit of the people."
         }
       ]
     },
@@ -218,7 +228,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "Sanstha",
-          "type": "Institution"
+          "type": "Language",
+          "meaning": "Hindi for 'institution' or 'organization'. They are saying that although they share knowledge, they aren't tied to any specific structure."
         }
       ]
     },
@@ -230,7 +241,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "Sanskari",
-          "type": "Cultural Irony"
+          "type": "Language",
+          "meaning": "Hindi for 'cultured' or 'well-mannered', but used ironically. They are saying they inherit and respect Hip-Hop culture."
         }
       ]
     },
@@ -277,7 +289,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "Ajmal Ali Kasab",
-          "type": "Historical/Controversial Reference"
+          "type": "Reference",
+          "meaning": "A terrorist involved in the 2008 Mumbai attacks. Here, used for shock value and to emphasize their disruptive and impactful presence."
         }
       ]
     },
@@ -296,7 +309,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "cheete",
-          "type": "Slang (Strong/Fast person)"
+          "type": "Language",
+          "meaning": "Cheetahs (Big Cats). 'Khate khauf' means even the fast/strong ones (cheetahs) get scared."
         }
       ]
     },
@@ -448,7 +462,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "Khaleesi",
-          "type": "Pop Culture Reference"
+          "type": "Reference",
+          "meaning": "A character from the Game of Thrones series, known as the 'Mother of Dragons'. Used to exaggerate how much fire they are spitting with their bars."
         }
       ]
     },
@@ -469,7 +484,7 @@ export const seedhe_maut_anthem: Song = {
           "text": "So I grind O.D.B",
           "keyword": "O.D.B",
           "type": "Reference",
-          "meaning": "Referring to Ol' Dirty Bastard, a member of the Wu-Tang Clan, known for his unique and chaotic style. Shows influence or paying homage."
+          "meaning": "Referring to Ol' Dirty Bastard, a member of the Wu-Tang Clan. Known for his raw style."
         }
       ]
     },
@@ -495,7 +510,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "O.D.B",
-          "type": "Hip Hop Reference/Acronym"
+          "type": "Reference",
+          "meaning": "Referring to Ol' Dirty Bastard, a member of the Wu-Tang Clan. They grind like him, a reference to his work ethic and unique style."
         }
       ]
     },
@@ -528,7 +544,8 @@ export const seedhe_maut_anthem: Song = {
       "annotations": [
         {
           "keyword": "prodigies",
-          "type": "Vocabulary"
+          "type": "General",
+          "meaning": "People with exceptional qualities or abilities. It could be referencing the artist \"The Prodigy\" or just expressing the ability to cut people down or separate their heads from their bodies with skill and precision."
         }
       ]
     },
@@ -570,7 +587,7 @@ export const seedhe_maut_anthem: Song = {
           "text": "This is how we swell you dime, you better learn it's about time",
           "keyword": "swell you dime",
           "type": "Slang",
-          "meaning": "Meaning they easily defeat or outshine their opponents ('dime' implying something cheap or insignificant). Swell could mean to inflate or increase the impact of the defeat."
+          "meaning": "Likely 'Sell you dying' or 'Swell you'. Means to beat someone up until they swell. 'Dime' might be a filler."
         }
       ]
     },

@@ -144,12 +144,6 @@ export const baat_aisi_ghar_jaisi: Song = {
           "keyword": "Likhari",
           "type": "Language",
           "meaning": "\"Writer\" in Hindi. They are emphasizing that they are 'bhund faad' writers."
-        },
-        {
-          "text": "इस side रहते भुंड फाड़ लिखारी",
-          "keyword": "Bhundi likhari",
-          "type": "Wordplay",
-          "meaning": "Bad writers. This could be a self-deprecating jab at their own writing or at others."
         }
       ]
     },

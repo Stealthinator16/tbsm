@@ -15,11 +15,13 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "लौंडे",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Boys (Hindi slang). Used here to refer to themselves and their crew."
         },
         {
           "keyword": "mud",
-          "type": "Metaphor"
+          "type": "Metaphor",
+          "meaning": "Represents a difficult or impoverished background; humble beginnings."
         },
         {
           "text": "लौंडे यहाँ के came from the mud",
@@ -37,7 +39,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "fuck",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "An expletive used for emphasis or frustration."
         }
       ]
     },
@@ -56,11 +59,13 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "गुड्डी",
-          "type": "Slang (Back of the neck)"
+          "type": "Slang",
+          "meaning": "Nape of the neck. 'Chaku guddi par' means a knife at the throat/neck."
         },
         {
           "keyword": "buck",
-          "type": "Slang (Money)"
+          "type": "Slang",
+          "meaning": "A dollar. Meaning they would do a hit or theft for the sake of a dollar."
         }
       ]
     },
@@ -72,7 +77,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "बंदे",
-          "type": "Slang (Crew/Men)"
+          "type": "Slang",
+          "meaning": "Bandey. Means People/Men. (Hindi)"
         }
       ]
     },
@@ -84,11 +90,13 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "बसद",
-          "type": "Slang (Chaos/Mess)"
+          "type": "Culture",
+          "meaning": "Chaos/Commotion. Refers to the disorder of the streets."
         },
         {
           "keyword": "दाँव",
-          "type": "Metaphor (Survival moves)"
+          "type": "Slang",
+          "meaning": "Daav. Means Tricks/Schemes (Hindi). To be cunning or scheming."
         },
         {
           "text": "और फ़िक्र खाती जेबें कटी बसद सिखाए दाँव",
@@ -106,7 +114,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "बावे",
-          "type": "Delhi Slang (Bro/Dude)"
+          "type": "Slang",
+          "meaning": "Bawe = Bro/Brother. Sajish = Conspiracy."
         }
       ]
     },
@@ -125,7 +134,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "नसीब",
-          "type": "Urdu (Fate)"
+          "type": "Culture",
+          "meaning": "Naseeb. Means luck or destiny (Hindi)."
         }
       ]
     },
@@ -144,7 +154,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "असले",
-          "type": "Slang (Weapons)"
+          "type": "Slang",
+          "meaning": "Ammunition/Weapons. 'Asle' refers to guns/arms."
         }
       ]
     },
@@ -156,7 +167,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "औदा",
-          "type": "Status/Rank"
+          "type": "Culture",
+          "meaning": "Auda. Means Status/Position (Hindi). The speaker suggests that one's status/position cannot be bought."
         }
       ]
     },
@@ -168,7 +180,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "कीचड़",
-          "type": "Metaphor (Roots)"
+          "type": "Metaphor",
+          "meaning": "Keechad. Means Mud/Slush (Hindi). Directly referring back to the concept of where they came from."
         }
       ]
     },
@@ -180,7 +193,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "फ़ॉर्म",
-          "type": "Slang (Swag/Style)"
+          "type": "Slang",
+          "meaning": "Form = Attitude/Aggression/Rhythm. 'Delhi ki form' means the aggressive, do-or-die attitude of Delhi streets."
         },
         {
           "text": "कीचड़ से आते वो खाते हैं शर्म",
@@ -198,11 +212,13 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "हरा",
-          "type": "Drug Slang (Weed)"
+          "type": "Slang",
+          "meaning": "Hara. Means Green (Hindi). Could be reference to money (currency notes)."
         },
         {
           "keyword": "बर्फ़",
-          "type": "Drug Slang (Cocaine/Meth)"
+          "type": "Slang",
+          "meaning": "Barf. Means Ice (Hindi). This implies cold-heartedness or ruthlessness."
         },
         {
           "text": "जेबों में पड़ी है दिल्ली की फ़ॉर्म",
@@ -234,7 +250,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "निहत्थे",
-          "type": "Unarmed"
+          "type": "Slang",
+          "meaning": "Nihatthey. Means Unarmed (Hindi). Those who try to oppose them are killed unarmed."
         }
       ]
     },
@@ -253,11 +270,13 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "खार",
-          "type": "Envy/Jealousy"
+          "type": "Slang",
+          "meaning": "Khaar. Means Resentment/Anger (Hindi). Suggesting that those who eat their food harbour resentment."
         },
         {
           "keyword": "हलक",
-          "type": "Throat"
+          "type": "Slang",
+          "meaning": "Halak. Means Throat (Hindi). They'll give them separate/different throats - i.e. they are dangerous."
         }
       ]
     },
@@ -276,7 +295,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "substance",
-          "type": "Drugs"
+          "type": "Slang",
+          "meaning": "Referring to drugs or intoxicating substances that they use to remain happy."
         }
       ]
     },
@@ -288,7 +308,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "सासी",
-          "type": "Community Name"
+          "type": "Slang",
+          "meaning": "Sansi is a community/tribe in adjacent areas. The line lists three distinct groups: Sansi, Police, and Lawyers."
         }
       ]
     },
@@ -300,7 +321,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "smack",
-          "type": "Heroin"
+          "type": "Slang",
+          "meaning": "A slang term for heroin. Indicates they are involved in dealing drugs."
         }
       ]
     },
@@ -312,7 +334,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "डल्ले",
-          "type": "Derogatory Slang"
+          "type": "Slang",
+          "meaning": "Dalle. Means Pimp (Hindi Slang). Suggests that they control others like a pimp."
         }
       ]
     },
@@ -359,7 +382,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "वसूली",
-          "type": "Recovery/Collection"
+          "type": "Slang",
+          "meaning": "Vasooli. Means Extortion (Hindi). Implies they want to recover money from others."
         },
         {
           "text": "तू है KBC का सवाल तुझे lock करूँ डल्ली",
@@ -412,11 +436,13 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "KBC",
-          "type": "Pop Culture Ref"
+          "type": "Reference",
+          "meaning": "Refers to 'Kaun Banega Crorepati,' the Indian version of 'Who Wants to Be a Millionaire?' They pose a difficult question."
         },
         {
-          "keyword": "डल्ली",
-          "type": "Slang"
+          "keyword": "Dalli",
+          "type": "Slang",
+          "meaning": "Derogatory term for a snitch or pimp. Used here as an insult."
         }
       ]
     },
@@ -442,7 +468,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "खुजली",
-          "type": "Slang (Itch to fight/get money)"
+          "type": "Slang",
+          "meaning": "Khujli. Means Itching (Hindi). Suggesting restlessness or a burning desire, perhaps for money."
         }
       ]
     },
@@ -461,7 +488,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "मर्द",
-          "type": "Manliness/Authenticity"
+          "type": "Slang",
+          "meaning": "Mard - Man. 'Jaise mard bole dalli' - Like a man calling someone a pimp/snitch."
         }
       ]
     },
@@ -473,7 +501,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "matrix",
-          "type": "Pop Culture Ref"
+          "type": "Reference",
+          "meaning": "Referring to the illusory or constructed nature of reality, as depicted in the film 'The Matrix'."
         }
       ]
     },
@@ -499,7 +528,8 @@ export const mud: Song = {
       "annotations": [
         {
           "keyword": "lust",
-          "type": "Concept"
+          "type": "Slang",
+          "meaning": "Strong sexual desire. They only see lust instead of love."
         }
       ]
     },

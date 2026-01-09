@@ -15,17 +15,13 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Naamcheen",
-          "type": "Vocabulary"
+          "type": "Hindi/Slang",
+          "meaning": "Famous, renowned, well-known. Also implies having a big reputation."
         },
         {
           "keyword": "Sava Sher",
-          "type": "Idiom"
-        },
-        {
-          "text": "Bande namcheen, bande naamcheen, sava sher",
-          "keyword": "Namcheen",
-          "type": "Slang",
-          "meaning": "Namcheen means 'famous' or 'well-known'. Sava Sher implies being more than a match for others, highlighting their dominance. The line means 'We are famous, we are more than a match for others'."
+          "type": "Culture",
+          "meaning": "A term that translates to 'one and a quarter शेर'. It is used to describe someone as being slightly more powerful or skilled than others."
         }
       ]
     },
@@ -37,11 +33,13 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Tansen",
-          "type": "Historical Reference"
+          "type": "Reference",
+          "meaning": "A legendary figure in Hindustani classical music, known for his exceptional musical abilities."
         },
         {
           "keyword": "Keher",
-          "type": "Vocabulary"
+          "type": "Hindi",
+          "meaning": "Havoc, destruction, calamity. (Hindi/Urdu)"
         }
       ]
     },
@@ -67,7 +65,8 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Kranti",
-          "type": "Metaphor"
+          "type": "Hindi",
+          "meaning": "Revolution. (Hindi)"
         }
       ]
     },
@@ -86,7 +85,8 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Chaukdi",
-          "type": "Culture"
+          "type": "Hindi",
+          "meaning": "Sitting cross-legged. (Hindi)"
         }
       ]
     },
@@ -98,7 +98,8 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Jote",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Joint/Marijuana cigarette."
         }
       ]
     },
@@ -145,7 +146,8 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Jack/JD",
-          "type": "Brand"
+          "type": "Reference",
+          "meaning": "Referring to Jack Daniel's whiskey."
         }
       ]
     },
@@ -164,7 +166,8 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Drip",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Stylishness, swag, expensive or fashionable clothing and accessories."
         }
       ]
     },
@@ -197,7 +200,8 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Rohini",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A locality in Delhi, India."
         }
       ]
     },
@@ -209,7 +213,8 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Roach",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "The end of a marijuana joint/cigarette."
         }
       ]
     },
@@ -263,7 +268,8 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Bhund",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Extremely drunk or wasted. (Hindi slang)"
         }
       ]
     },
@@ -289,7 +295,8 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Kilsegi",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "What all won't you do, or what hasn't happened; the meaning is, what kind of revolution hasn't been done by him already."
         }
       ]
     },
@@ -371,11 +378,13 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Ill",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Very good, excellent, impressive (slang)."
         },
         {
           "keyword": "Ilm",
-          "type": "Vocabulary"
+          "type": "Hindi",
+          "meaning": "Knowledge. (Hindi/Urdu)"
         },
         {
           "text": "Hai ye gaand chaatne ki karte acting",
@@ -477,7 +486,8 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Narbhaksh",
-          "type": "Vocabulary"
+          "type": "Hindi",
+          "meaning": "Cannibal, someone who eats humans. Here, it's used metaphorically to mean someone who destroys or devours their competition."
         },
         {
           "text": "Unko hi lagti koel karkash",
@@ -502,7 +512,8 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Karkash",
-          "type": "Vocabulary"
+          "type": "Hindi",
+          "meaning": "Harsh, grating, unpleasant sounding. (Hindi)"
         }
       ]
     },
@@ -535,7 +546,8 @@ export const naamcheen: Song = {
       "annotations": [
         {
           "keyword": "Ghante se",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Essentially means 'I don't care' or 'from my ass', a dismissive expression."
         }
       ]
     },

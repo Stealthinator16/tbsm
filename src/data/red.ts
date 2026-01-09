@@ -30,7 +30,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "Hauz Khas",
-          "type": "Location"
+          "type": "Place",
+          "meaning": "A trendy neighborhood in South Delhi known for its cafes, bars, and historical sites; often a place for club promotions."
         }
       ]
     },
@@ -42,7 +43,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "Metro",
-          "type": "Transport"
+          "type": "Place",
+          "meaning": "Referring to the Delhi Metro, often seen as the only viable transportation option early in the morning."
         }
       ]
     },
@@ -68,7 +70,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "Calm",
-          "type": "Artist Name"
+          "type": "Artist",
+          "meaning": "One half of the Seedhe Maut duo. It's Dhruv Rajpal's stage name."
         }
       ]
     },
@@ -101,11 +104,13 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "Eminem",
-          "type": "Artist"
+          "type": "Reference",
+          "meaning": "A highly influential and commercially successful American rapper known for his lyrical skill and sometimes controversial content. Used here to imply lyrical prowess."
         },
         {
           "keyword": "Limp Bizkit",
-          "type": "Band"
+          "type": "Reference",
+          "meaning": "An American rap rock band known for their aggressive sound and Fred Durst's distinctive vocals. Referenced alongside Eminem, potentially to showcase versatility and impact."
         },
         {
           "text": "jabase Eminem ne bola toh its motherfuckin' Limp Bizkit too",
@@ -137,7 +142,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "scene",
-          "type": "DHH Industry"
+          "type": "Culture",
+          "meaning": "The Indian Hip Hop music community or environment. "
         }
       ]
     },
@@ -149,7 +155,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "Seedhe Maut",
-          "type": "Artist Duo"
+          "type": "Artist",
+          "meaning": "The name of the hip-hop duo consisting of Calm and Encore ABJ"
         },
         {
           "text": "kuch bachche hai naye scene mein who risk it to get the biscuit",
@@ -188,7 +195,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "Hanuman",
-          "type": "Deity"
+          "type": "Culture",
+          "meaning": "A Hindu deity known for his strength, devotion, and loyalty. Referencing Hanuman in the heart implies courage and faith."
         }
       ]
     },
@@ -207,7 +215,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "Sarojini Naidu",
-          "type": "Historical Figure/Poet"
+          "type": "Reference",
+          "meaning": "An Indian poet and political activist known as the 'Nightingale of India'. The line implies that the speaker is a skilled writer, just like Sarojini Naidu."
         },
         {
           "text": "Ghamand jaaye na jiske hriday mein Hanuman jaaye, ungh",
@@ -225,7 +234,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "BYJU'S",
-          "type": "Company"
+          "type": "Reference",
+          "meaning": "An Indian multinational educational technology company. Here, it's used to highlight the hypocrisy of something not being overtly fraudulent but still representing a form of deception."
         }
       ]
     },
@@ -265,7 +275,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "Bhagat Singh",
-          "type": "Revolutionary"
+          "type": "Reference",
+          "meaning": "An Indian revolutionary socialist who advocated for complete independence."
         }
       ]
     },
@@ -279,7 +290,7 @@ export const red: Song = {
           "text": "Bhoori hai khaal, bhoori kandhe pe haath",
           "keyword": "Bhoori",
           "type": "Cultural",
-          "meaning": "Bhoori means dust in Hindi. It refers to being down to earth and getting your hands dirty."
+          "meaning": "Brown. 'Bhoori khaal' means Brown skin."
         }
       ]
     },
@@ -375,7 +386,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "Pauri Garhwali",
-          "type": "Heritage"
+          "type": "Place",
+          "meaning": "Relating to the Pauri Garhwal region of Uttarakhand, India. Highlights regional identity and pride in the Hindi language."
         }
       ]
     },
@@ -443,7 +455,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "multi",
-          "type": "Rap Technicality"
+          "type": "Slang",
+          "meaning": "Short for 'multiple'. In this context, it refers to four people."
         }
       ]
     },
@@ -490,7 +503,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "Rocky",
-          "type": "Pop Culture Reference"
+          "type": "Reference",
+          "meaning": "Likely a reference to the *Rocky* film franchise. Used to represent power, resilience, and fighting spirit."
         }
       ]
     },
@@ -502,7 +516,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "Mo",
-          "type": "Person/Manager"
+          "type": "Slang",
+          "meaning": "Short for manager or management. Implying someone getting a new deal."
         }
       ]
     },
@@ -605,7 +620,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "katana",
-          "type": "Weapon/Metaphor"
+          "type": "Reference",
+          "meaning": "A Japanese sword, known for its sharpness and use by samurai. Suggests aggressive, decisive action."
         }
       ]
     },
@@ -624,7 +640,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "opp",
-          "type": "Slang"
+          "type": "Slang",
+          "meaning": "Short for 'opponent'. To attack the opposition."
         }
       ]
     },
@@ -685,7 +702,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "Casio",
-          "type": "Brand"
+          "type": "Reference",
+          "meaning": "Likely referring to a Casio watch, a brand known for affordability. The line juxtaposes the inexpensive watch with something luxurious."
         }
       ]
     },
@@ -725,7 +743,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "Lex Luthor",
-          "type": "Comic Character"
+          "type": "Reference",
+          "meaning": "The arch-nemesis of Superman. Symbolizes being the villain or the one opposing the hero."
         },
         {
           "text": "And I pop off right and my job’s like Mike",
@@ -869,7 +888,8 @@ export const red: Song = {
       "annotations": [
         {
           "keyword": "lab",
-          "type": "Studio"
+          "type": "Slang",
+          "meaning": "Short for laboratory, often used in music production to mean the studio."
         }
       ]
     },

@@ -167,18 +167,6 @@ export const chidiya_udd: Song = {
           "type": "Hindi",
           "meaning": "Hindi for 'pocket'."
         },
-        {
-          "text": "Thulle, dc yaar hai mera dalega ni jail me (na)",
-          "keyword": "Thulle",
-          "type": "Slang",
-          "meaning": "\"Thulle\" is a slang term for police. The line suggests influence and corruption, preventing imprisonment."
-        },
-        {
-          "text": "dc",
-          "keyword": "DC",
-          "type": "Reference",
-          "meaning": "Referring to a District Collector, a high-ranking government official, implying deep connections to power."
-        }
       ]
     },
     {
@@ -205,12 +193,7 @@ export const chidiya_udd: Song = {
       "translation": "Rules can go take a hike (literally: go buy oil).",
       "explanation": "A common Hindi phrase 'tel lene jana' used to express total disregard for something.",
       "annotations": [
-        {
-          "text": "Dharam bike sale me (hmm)",
-          "keyword": "Dharam",
-          "type": "Metaphor",
-          "meaning": "Religion (Dharam) is being sold cheaply, implying its devaluation and exploitation."
-        }
+
       ]
     },
     {
@@ -219,12 +202,7 @@ export const chidiya_udd: Song = {
       "translation": "Religion is being sold on sale.",
       "explanation": "Criticizes how religion is commercialized or used as a tool for political/personal gain.",
       "annotations": [
-        {
-          "text": "Economy du gerr mera",
-          "keyword": "Economy du gerr",
-          "type": "Slang",
-          "meaning": "Likely means boosting the economy. 'Gerr' (gear) implies movement and upward trajectory."
-        }
+
       ]
     },
     {
@@ -233,12 +211,7 @@ export const chidiya_udd: Song = {
       "translation": "I'll shift the economy's gear.",
       "explanation": "Implies the powerful manipulate the national economy like a vehicle for their own benefit.",
       "annotations": [
-        {
-          "text": "Paisa ugge pedd pe (haath ka mail hai ji)",
-          "keyword": "Paisa ugge pedd pe",
-          "type": "Metaphor",
-          "meaning": "Money grows on trees, implying abundance and easy access to wealth for some. The 'haath ka mail hai ji' reinforces that money is easily acquired."
-        }
+
       ]
     },
     {
@@ -251,6 +224,12 @@ export const chidiya_udd: Song = {
           "keyword": "Haath ka mail",
           "type": "Idiom",
           "meaning": "Hindi idiom meaning 'dirt on the hand'. Suggests that money is easily acquired and not very valuable."
+        },
+        {
+          "text": "Paisa ugge pedd pe (haath ka mail hai ji)",
+          "keyword": "Paisa ugge pedd pe",
+          "type": "Metaphor",
+          "meaning": "Money grows on trees, implying abundance and easy access to wealth for some. The 'haath ka mail hai ji' reinforces that money is easily acquired."
         }
       ]
     },
@@ -265,12 +244,7 @@ export const chidiya_udd: Song = {
           "type": "Hindi",
           "meaning": "Hindi for 'boss', 'owner' or 'wealthy merchant'. The speaker claims to be in charge."
         },
-        {
-          "text": "Evm se masti daaru deke karu bate me (haha)",
-          "keyword": "EVM",
-          "type": "Reference",
-          "meaning": "Referring to Electronic Voting Machines. The line implies rigging elections by bribing people with alcohol."
-        }
+
       ]
     },
     {
@@ -346,12 +320,7 @@ export const chidiya_udd: Song = {
       "translation": "Purity has gone for a walk.",
       "explanation": "Meaning integrity and purity are no longer present in the system.",
       "annotations": [
-        {
-          "text": "Nakshekadam adolf k",
-          "keyword": "Adolf",
-          "type": "Reference",
-          "meaning": "Following in the footsteps of Adolf Hitler, highlighting the dangerous and destructive nature of the propaganda being spread."
-        }
+
       ]
     },
     {
@@ -371,6 +340,12 @@ export const chidiya_udd: Song = {
           "keyword": "Nakshekadam",
           "type": "Hindi/Urdu",
           "meaning": "Hindi/Urdu for 'footsteps'. Implying following in the footsteps of someone, in this case, Adolf Hitler."
+        },
+        {
+          "text": "Nakshekadam adolf k",
+          "keyword": "Adolf",
+          "type": "Reference",
+          "meaning": "Following in the footsteps of Adolf Hitler, highlighting the dangerous and destructive nature of the propaganda being spread."
         }
       ]
     },
@@ -487,12 +462,7 @@ export const chidiya_udd: Song = {
           "type": "Hindi",
           "meaning": "Hindi for 'cowrie shell'. Historically used as currency, now represents having no money at all."
         },
-        {
-          "text": "Thulle ni hai yar vo seedhe denge daal jail me",
-          "keyword": "Thulle",
-          "type": "Slang",
-          "meaning": "\"Thulle\" is a slang term for police. Contradicts the first verse - now the speaker doesn't have connections and will be imprisoned."
-        }
+
       ]
     },
     {
@@ -500,7 +470,14 @@ export const chidiya_udd: Song = {
       "speaker": "Encore ABJ",
       "translation": "The cops aren't my friends; they'll throw me straight into jail.",
       "explanation": "Contrasts with Calm's line. For the poor, the police are a threat, not allies or bribe-takers.",
-      "annotations": []
+      "annotations": [
+        {
+          "text": "Thulle ni hai yar vo seedhe denge daal jail me",
+          "keyword": "Thulle",
+          "type": "Slang",
+          "meaning": "\"Thulle\" is a slang term for police. Contradicts the first verse - now the speaker doesn't have connections and will be imprisoned."
+        }
+      ]
     },
     {
       "original": "Seb ke hai paise ni",
@@ -579,7 +556,7 @@ export const chidiya_udd: Song = {
         {
           "keyword": "Finyl",
           "type": "Reference",
-          "meaning": "Likely a misspelling of 'Vinyl'. Referring to a vinyl record on the table, representing musical artistry and possibly a vintage or classic aesthetic."
+          "meaning": "Refers to 'Phenyl', a cleaning acid often ingested by desperate farmers to commit suicide due to debt. Highlighting the tragic reality of agrarian distress."
         }
       ]
     },

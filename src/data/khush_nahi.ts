@@ -144,12 +144,7 @@ export const khush_nahi: Song = {
       "translation": "I make promises to myself, let's see how long I keep them this time.",
       "explanation": "A cycle of self-improvement and failure; the internal struggle to stay disciplined.",
       "annotations": [
-        {
-          "text": "हैं homies सोचें, \"कैसे फूंकेगा\"",
-          "keyword": "कैसे फूंकेगा",
-          "type": "Slang",
-          "meaning": "Translates to \"How will I function/cope?\". A colloquial way of expressing worry about the future or current situation."
-        }
+
       ]
     },
     {

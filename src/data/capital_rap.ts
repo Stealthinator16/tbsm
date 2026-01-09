@@ -269,7 +269,7 @@ export const capital_rap: Song = {
         {
           "keyword": "स्वयंवर",
           "type": "Culture",
-          "meaning": "Hindi for 'volunteer'. Meaning someone who chooses to do something of their own free will."
+          "meaning": "An ancient ceremony where a woman chooses a husband from a group of suitors. He implies he wins every competition/choice."
         }
       ]
     },
@@ -491,7 +491,7 @@ export const capital_rap: Song = {
         {
           "keyword": "चापड़",
           "type": "Slang",
-          "meaning": "Hindi, meaning 'printed' or 'stamped'. In this context, it likely refers to the lasting impact or impression they are making."
+          "meaning": "Chopper/Cleaver. A heavy knife used as a weapon."
         }
       ]
     },
@@ -642,7 +642,7 @@ export const capital_rap: Song = {
         {
           "keyword": "कश",
           "type": "Culture",
-          "meaning": "Hindi for 'cash' or 'money'."
+          "meaning": "Puff or drag (of smoke). 'Har waqt hai kash' means always smoking."
         }
       ]
     },

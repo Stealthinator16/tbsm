@@ -192,7 +192,7 @@ export const sick_and_proper: Song = {
           "text": "बंदी बोली, \"Cuffs on\"",
           "keyword": "Cuffs on",
           "type": "Slang",
-          "meaning": "Implies getting arrested or in trouble with the law as a consequence of their actions or lifestyle."
+          "meaning": "Sexual reference. Implies kinky behavior (BDSM). Not legal arrest."
         }
       ]
     },
