@@ -82,6 +82,15 @@ export default function SongDisplay({ song }: SongDisplayProps) {
     return (
       <div className={containerClasses}>
 
+        {isMobile && (
+          <div className="mb-6 border-b border-tbsm-red/20 pb-6">
+            <h3 className="text-[9px] font-mono text-zinc-500 uppercase mb-2 tracking-widest">Original</h3>
+            <p className="text-lg font-mono font-medium text-white leading-relaxed">
+              {selectedLyric.original}
+            </p>
+          </div>
+        )}
+
 
         <div className="mb-8">
           <h3 className="text-[9px] font-mono text-zinc-500 uppercase mb-2 tracking-widest">Translation</h3>
