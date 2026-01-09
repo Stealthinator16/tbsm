@@ -91,7 +91,7 @@ export default function SongDisplay({ song }: SongDisplayProps) {
         </div>
 
         {selectedLyric.explanation && (
-          <div className="mb-8">
+          <div>
             <h3 className="text-[9px] font-mono text-zinc-500 uppercase mb-2 tracking-widest">Meaning</h3>
             <p className="text-zinc-400 leading-relaxed font-light text-sm italic">{selectedLyric.explanation}</p>
           </div>
