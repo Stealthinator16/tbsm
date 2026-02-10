@@ -3,7 +3,7 @@ import { Song } from '../types';
 export const keh_chuka_pt_1: Song = {
   "id": "keh_chuka,_pt._1",
   "title": "Keh Chuka, Pt. 1",
-  "slug": "keh-chuka,-pt.-1",
+  "slug": "keh-chuka-pt-1",
   "album": "2 Ka Pahada - EP",
   "lyrics": [
     {

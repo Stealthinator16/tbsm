@@ -1,3 +1,4 @@
+import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { albums } from '@/data/albums';
@@ -7,10 +8,24 @@ interface PageProps {
   params: Promise<{ slug: string }>;
 }
 
+export async function generateStaticParams() {
+  return albums.map(album => ({ slug: album.slug }));
+}
+
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { slug } = await params;
+  const decodedSlug = decodeURIComponent(slug);
+  const album = albums.find(a => a.slug === decodedSlug);
+  if (!album) return {};
+  return {
+    title: `${album.title} — TBSM`,
+    description: `Tracklist and lyrics for ${album.title} by Seedhe Maut.`,
+  };
+}
+
 export default async function AlbumPage({ params }: PageProps) {
   const { slug } = await params;
 
-  // Find the album
   // Decode URL component just in case (e.g. for 'न' character)
   const decodedSlug = decodeURIComponent(slug);
   const album = albums.find(a => a.slug === decodedSlug);
@@ -19,8 +34,10 @@ export default async function AlbumPage({ params }: PageProps) {
     notFound();
   }
 
-  // Get full song objects
-  const albumSongs = allSongs.filter(s => album.songs.includes(s.id));
+  // Get full song objects (preserving album track order)
+  const albumSongs = album.songs
+    .map(id => allSongs.find(s => s.id === id))
+    .filter(Boolean) as typeof allSongs;
 
   return (
     <main className="min-h-screen py-24 px-6 max-w-7xl mx-auto relative z-10">
@@ -68,8 +85,8 @@ export default async function AlbumPage({ params }: PageProps) {
                 </h3>
               </div>
               <div className="text-right">
-                <span className="text-zinc-600 font-mono text-xs uppercase opacity-0 group-hover:opacity-100 transition-opacity">
-                  Listen
+                <span className="text-zinc-600 font-mono text-xs uppercase group-hover:text-tbsm-red transition-colors">
+                  View
                 </span>
               </div>
             </Link>

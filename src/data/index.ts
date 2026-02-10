@@ -119,6 +119,37 @@ import { uss_din } from './uss_din';
 import { video_games } from './video_games';
 import { w } from './w';
 import { wajah } from './wajah';
+import { tofa } from './tofa';
+import { saans_le } from './saans_le';
+import { mmm } from './mmm';
+import { yaad } from './yaad';
+import { do_guna } from './do_guna';
+import { ball } from './ball';
+import { dum_pishaach } from './dum_pishaach';
+import { bure_din } from './bure_din';
+import { kaanch_ke_ghar } from './kaanch_ke_ghar';
+import { srk } from './srk';
+import { namuna } from './namuna';
+import { tt } from './tt';
+import { shutdown } from './shutdown';
+import { fire_in_the_booth } from './fire_in_the_booth';
+import { tour_shit } from './tour_shit';
+import { mudda } from './mudda';
+import { sensitive } from './sensitive';
+import { jama_kar } from './jama_kar';
+import { scalp_dem } from './scalp_dem';
+import { chalo_chalein } from './chalo_chalein';
+import { roshni } from './roshni';
+import { class_sikh_maut_vol_2 } from './class_sikh_maut_vol_2';
+import { hola_amigo } from './hola_amigo';
+import { bhussi } from './bhussi';
+import { holi_re_rasiya } from './holi_re_rasiya';
+import { kodak } from './kodak';
+import { bajenge } from './bajenge';
+import { mehenga } from './mehenga';
+import { sanki } from './sanki';
+import { nevermind } from './nevermind';
+import { seedhe_maut_interlude } from './seedhe_maut_interlude';
 
 export const allSongs: Song[] = [
   _11k,
@@ -241,6 +272,37 @@ export const allSongs: Song[] = [
   video_games,
   w,
   wajah,
+  tofa,
+  saans_le,
+  mmm,
+  yaad,
+  do_guna,
+  ball,
+  dum_pishaach,
+  bure_din,
+  kaanch_ke_ghar,
+  srk,
+  namuna,
+  tt,
+  shutdown,
+  fire_in_the_booth,
+  tour_shit,
+  mudda,
+  sensitive,
+  jama_kar,
+  scalp_dem,
+  chalo_chalein,
+  roshni,
+  class_sikh_maut_vol_2,
+  hola_amigo,
+  bhussi,
+  holi_re_rasiya,
+  kodak,
+  bajenge,
+  mehenga,
+  sanki,
+  nevermind,
+  seedhe_maut_interlude,
 ];
 
 export function getSongBySlug(slug: string): Song | undefined { return allSongs.find(s => s.slug === slug); }

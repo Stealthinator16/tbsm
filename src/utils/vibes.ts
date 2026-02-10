@@ -11,7 +11,7 @@ export const VIBES = [
     'Dark'
 ] as const;
 
-export type ViibeType = typeof VIBES[number];
+export type VibeType = typeof VIBES[number];
 
 export function getSongsByVibe(vibe: string): Song[] {
     return allSongs.filter(song => song.vibe === vibe);

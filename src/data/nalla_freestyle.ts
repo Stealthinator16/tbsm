@@ -3,7 +3,7 @@ import { Song } from '../types';
 export const nalla_freestyle: Song = {
   "id": "nalla_freestyle",
   "title": "नalla Freestyle",
-  "slug": "नalla-freestyle",
+  "slug": "nalla-freestyle",
   "album": "Singles & Features",
   "lyrics": [
     {

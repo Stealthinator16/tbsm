@@ -7,8 +7,6 @@ interface AlbumSectionProps {
 }
 
 export default function AlbumSection({ album, songs }: AlbumSectionProps) {
-  // Only show section if it has songs or we want to show empty albums as placeholders
-  console.log(`Rendering AlbumSection for ${album.title}: ${songs.length} songs`);
   if (songs.length === 0) return null;
 
   return (

@@ -84,7 +84,7 @@ export const timelineData: TimelineEvent[] = [
         id: 'yaad-vulnerability',
         date: '2020-10',
         title: 'Yaad: Emotional Depth',
-        description: 'With "Yaad," the duo showed they weren’t just about aggression. The track explored loss, memory, and vulnerability, showcasing a matured songwriting ability that would later peak in their second album.',
+        description: "With \"Yaad,\" the duo showed they weren't just about aggression. The track explored loss, memory, and vulnerability, showcasing a matured songwriting ability that would later peak in their second album.",
         type: 'release',
         era: 'The Azadi & Bayaan Boom (2018-2020)',
         relatedSlug: 'yaad'

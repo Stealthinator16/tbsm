@@ -1,4 +1,4 @@
-import { Song, LyricLine } from '../types';
+import { Song } from '../types';
 
 export interface ArtistStats {
   name: string;

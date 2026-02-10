@@ -1,20 +1,23 @@
-'use client';
-
-import React from 'react';
+import { Metadata } from 'next';
 import { timelineData } from '../../data/timeline';
 import Link from 'next/link';
 import { ArrowLeft, Calendar, Disc, Flag, Mic2 } from 'lucide-react';
 
-export default function JourneyPage() {
-    const getIcon = (type: string) => {
-        switch (type) {
-            case 'release': return <Disc className="w-5 h-5" />;
-            case 'show': return <Mic2 className="w-5 h-5" />;
-            case 'milestone': return <Flag className="w-5 h-5" />;
-            default: return <Calendar className="w-5 h-5" />;
-        }
-    };
+export const metadata: Metadata = {
+    title: 'The Journey — TBSM',
+    description: 'The complete timeline of Seedhe Maut, from their first meeting to stadium tours.',
+};
 
+function getIcon(type: string) {
+    switch (type) {
+        case 'release': return <Disc className="w-5 h-5" />;
+        case 'show': return <Mic2 className="w-5 h-5" />;
+        case 'milestone': return <Flag className="w-5 h-5" />;
+        default: return <Calendar className="w-5 h-5" />;
+    }
+}
+
+export default function JourneyPage() {
     return (
         <main className="bg-zinc-950 min-h-screen text-white pb-20">
             {/* Header */}

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Oswald } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
+import SearchOverlay from "../components/SearchOverlay";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -34,6 +35,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} ${oswald.variable} antialiased bg-black text-zinc-100`}
       >
         <div className="grain-overlay" />
+        <SearchOverlay />
         {children}
         <Analytics />
       </body>

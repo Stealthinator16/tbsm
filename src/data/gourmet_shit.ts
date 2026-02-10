@@ -3,7 +3,7 @@ import { Song } from '../types';
 export const gourmet_shit: Song = {
   "id": "gourmet_shit",
   "title": "Gourmet Shit!",
-  "slug": "gourmet-shit!",
+  "slug": "gourmet-shit",
   "album": "Kshama",
   "releaseDate": "",
   "lyrics": [

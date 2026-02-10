@@ -106,7 +106,8 @@ export const albums: Album[] = [
       "naam_kaam_sheher",
       "dikkat",
       "w",
-      "swah"
+      "swah",
+      "tofa"
     ]
   },
   {
@@ -199,7 +200,37 @@ export const albums: Album[] = [
     "coverArt": "",
     "songs": [
       "101",
-      "nalla_freestyle"
+      "nalla_freestyle",
+      "saans_le",
+      "mmm",
+      "yaad",
+      "do_guna",
+      "ball",
+      "dum_pishaach",
+      "bure_din",
+      "kaanch_ke_ghar",
+      "srk",
+      "namuna",
+      "tt",
+      "shutdown",
+      "fire_in_the_booth",
+      "tour_shit",
+      "mudda",
+      "sensitive",
+      "jama_kar",
+      "scalp_dem",
+      "chalo_chalein",
+      "roshni",
+      "class_sikh_maut_vol_2",
+      "hola_amigo",
+      "bhussi",
+      "holi_re_rasiya",
+      "kodak",
+      "bajenge",
+      "mehenga",
+      "sanki",
+      "nevermind",
+      "seedhe_maut_interlude"
     ]
   }
 ];

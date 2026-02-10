@@ -3,7 +3,7 @@ import { Song } from '../types';
 export const swah: Song = {
   "id": "swah",
   "title": "Swah!",
-  "slug": "swah!",
+  "slug": "swah",
   "album": "Lunch Break",
   "releaseDate": "",
   "lyrics": [

@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { allSongs } from '@/data';
 import { albums } from '@/data/albums';
 import AlbumSection from '@/components/AlbumSection';
@@ -18,29 +19,27 @@ export default function Home() {
         </p>
 
         <div className="mt-12 flex flex-col md:flex-row gap-4 md:gap-6 w-full md:w-auto">
-          <a href="/journey" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300 text-center">
+          <Link href="/journey" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300 text-center">
             The Journey
-          </a>
+          </Link>
 
-          <a href="/vibes" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300 text-center">
+          <Link href="/vibes" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300 text-center">
             Vibe Matcher
-          </a>
-          <a href="/codex" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300 text-center">
+          </Link>
+          <Link href="/codex" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300 text-center">
             The Codex
-          </a>
+          </Link>
+          <Link href="/producers" className="px-8 py-3 bg-zinc-900 border border-zinc-800 rounded-full font-oswald uppercase tracking-widest hover:bg-tbsm-red hover:text-black hover:border-tbsm-red transition-all duration-300 text-center">
+            Producers
+          </Link>
         </div>
       </header>
 
       <div className="space-y-12">
         {albums.map(album => {
-          // Filter songs that belong to this album
-          const albumSongs = allSongs.filter(song =>
-            // Normalize comparison
-            song.album?.toLowerCase() === album.title.toLowerCase() ||
-            album.songs.includes(song.id)
-          );
-
-          console.log(`Album: ${album.title}, Songs found: ${albumSongs.length}`);
+          const albumSongs = album.songs
+            .map(id => allSongs.find(s => s.id === id))
+            .filter(Boolean) as typeof allSongs;
 
           return <AlbumSection key={album.id} album={album} songs={albumSongs} />;
         })}

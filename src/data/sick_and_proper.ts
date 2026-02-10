@@ -3,7 +3,7 @@ import { Song } from '../types';
 export const sick_and_proper: Song = {
   "id": "sick_and_proper",
   "title": "Sick & Proper",
-  "slug": "sick-&-proper",
+  "slug": "sick-and-proper",
   "album": "Lunch Break",
   "releaseDate": "",
   "lyrics": [

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import { getAllVibes, getSongsByVibe, getVibeStats } from '../../utils/vibes';
 import Link from 'next/link';
 import { ArrowLeft, Play, Zap, Cloud, Brain, BookOpen, Flame, Moon } from 'lucide-react';
@@ -10,7 +10,7 @@ export default function VibesPage() {
     const [selectedVibe, setSelectedVibe] = useState<string | null>(null);
 
     const songs = selectedVibe ? getSongsByVibe(selectedVibe) : [];
-    const stats = getVibeStats();
+    const stats = useMemo(() => getVibeStats(), []);
 
     const getVibeIcon = (vibe: string) => {
         switch (vibe) {
@@ -76,7 +76,7 @@ export default function VibesPage() {
                                 <div className={`p-4 rounded-full bg-black/60 backdrop-blur-sm border border-white/10 ${selectedVibe === vibe ? 'text-white' : 'text-zinc-300'}`}>
                                     {getVibeIcon(vibe)}
                                 </div>
-                                <span className="font-bold font-oswald uppercase track-wide text-xl">
+                                <span className="font-bold font-oswald uppercase tracking-wide text-xl">
                                     {vibe}
                                 </span>
                                 <span className="text-xs font-mono uppercase bg-black/40 px-2 py-0.5 rounded text-zinc-400">

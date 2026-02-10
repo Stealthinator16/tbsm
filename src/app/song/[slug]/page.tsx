@@ -1,9 +1,24 @@
+import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { getSongBySlug } from '@/data';
+import { allSongs, getSongBySlug } from '@/data';
 import SongDisplay from '@/components/SongDisplay';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
+}
+
+export async function generateStaticParams() {
+  return allSongs.map(song => ({ slug: song.slug }));
+}
+
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { slug } = await params;
+  const song = getSongBySlug(slug);
+  if (!song) return {};
+  return {
+    title: `${song.title} — TBSM`,
+    description: song.summary || `Lyrics and analysis for ${song.title} by Seedhe Maut.`,
+  };
 }
 
 export default async function SongPage({ params }: PageProps) {
@@ -12,13 +27,6 @@ export default async function SongPage({ params }: PageProps) {
 
   if (!song) {
     notFound();
-  }
-
-  // DEBUG: Check if data is fresh
-  if (song.lyrics.length > 0) {
-    console.log(`[DEBUG] Song: ${song.title}`);
-    console.log(`[DEBUG] First Lyric: ${JSON.stringify(song.lyrics[0])}`);
-    console.log(`[DEBUG] Second Lyric: ${JSON.stringify(song.lyrics[1])}`);
   }
 
   return (

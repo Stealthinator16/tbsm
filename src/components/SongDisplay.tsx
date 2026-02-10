@@ -134,6 +134,24 @@ export default function SongDisplay({ song }: SongDisplayProps) {
               <div className="text-sm font-oswald text-zinc-300 uppercase">{song.vibe || "Unknown"}</div>
             </div>
           </div>
+
+          {/* Credits */}
+          {song.credits && (song.credits.producedBy?.length || song.credits.writtenBy?.length) && (
+            <div className="space-y-4">
+              {song.credits.producedBy && song.credits.producedBy.length > 0 && (
+                <div>
+                  <h3 className="text-[10px] font-mono text-zinc-500 uppercase mb-2 tracking-widest">Produced By</h3>
+                  <p className="text-sm text-zinc-300 font-oswald uppercase">{song.credits.producedBy.join(', ')}</p>
+                </div>
+              )}
+              {song.credits.writtenBy && song.credits.writtenBy.length > 0 && (
+                <div>
+                  <h3 className="text-[10px] font-mono text-zinc-500 uppercase mb-2 tracking-widest">Written By</h3>
+                  <p className="text-sm text-zinc-300 font-oswald uppercase">{song.credits.writtenBy.join(', ')}</p>
+                </div>
+              )}
+            </div>
+          )}
         </div>
       </div>
     );
@@ -169,7 +187,13 @@ export default function SongDisplay({ song }: SongDisplayProps) {
           </h1>
           <div className="flex items-center justify-center md:justify-start gap-2 text-zinc-500 font-mono text-[10px] uppercase tracking-widest">
             <span>Album:</span>
-            <span className="text-zinc-300 font-oswald text-sm tracking-normal">{song.album}</span>
+            {albumData ? (
+              <Link href={`/album/${albumData.slug}`} className="text-zinc-300 hover:text-tbsm-red font-oswald text-sm tracking-normal transition-colors">
+                {song.album}
+              </Link>
+            ) : (
+              <span className="text-zinc-300 font-oswald text-sm tracking-normal">{song.album}</span>
+            )}
           </div>
         </div>
       </header>

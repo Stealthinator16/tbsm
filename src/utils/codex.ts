@@ -1,6 +1,6 @@
 
 import { allSongs } from '../data';
-import { Song, Annotation } from '../types';
+import { Annotation } from '../types';
 
 export interface CodexEntry {
     keyword: string;
@@ -41,7 +41,8 @@ export function getAllAnnotations(): CodexEntry[] {
     allSongs.forEach((song) => {
         song.lyrics.forEach((line) => {
             if (line.annotations && line.annotations.length > 0) {
-                line.annotations.forEach((note: any) => {
+                line.annotations.forEach((note) => {
+                    if (typeof note === 'string') return;
                     const rawKeyword = note.keyword || note.text;
                     if (!rawKeyword) return;
 

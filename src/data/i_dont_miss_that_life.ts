@@ -3,7 +3,7 @@ import { Song } from '../types';
 export const i_dont_miss_that_life: Song = {
   "id": "i_dont_miss_that_life",
   "title": "I Don’t Miss That Life",
-  "slug": "i-don’t-miss-that-life",
+  "slug": "i-dont-miss-that-life",
   "album": "Lunch Break",
   "releaseDate": "",
   "lyrics": [

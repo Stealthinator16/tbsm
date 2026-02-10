@@ -1,36 +1,163 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# TBSM - The Seedhe Maut Archive
+
+The complete Seedhe Maut discography with AI-powered line-by-line translations, cultural annotations, and lyrical analysis. Built for fans who want to understand every bar.
+
+## What is this?
+
+[Seedhe Maut](https://en.wikipedia.org/wiki/Seedhe_Maut) is a hip-hop duo from New Delhi, India, consisting of **Calm** and **Encore ABJ**. Their music is primarily in Hindi/Hinglish with dense wordplay, cultural references, slang, and code-switching between Hindi and English.
+
+TBSM breaks down their entire catalogue - **154 songs** across **7 albums** and singles - with:
+
+- **English translations** for every lyric line
+- **Contextual explanations** breaking down meaning, wordplay, and references
+- **Annotations** for Delhi slang, cultural references, mythological allusions, and Indian hip-hop scene context
+- **Speaker identification** (Calm, Encore ABJ, Chorus, guest features)
+- **Song summaries** and **vibe classifications**
+
+## Features
+
+### Song Pages
+Every song gets a dedicated page with lyrics displayed line-by-line. Tap any line to see its translation, explanation, and annotations. Lyrics are color-coded by speaker.
+
+### The Codex
+A searchable dictionary of terms, slang, and cultural references extracted from across the discography. Search for any keyword to find its meaning and which songs it appears in.
+
+### Vibe Matcher
+Browse songs by mood - **Aggressive**, **Chill**, **Introspective**, **Storytelling**, **Hype**, or **Dark**. Each vibe category shows matching songs with a unique visual style.
+
+### The Journey
+A timeline of Seedhe Maut's career from 2015 to the present, covering releases, milestones, and key moments.
+
+### Producers
+A ranked list of all producers who've worked with Seedhe Maut, with track counts and credits.
+
+### Album Pages
+Browse the full discography organized by album with cover art, tracklists, and release info.
+
+### Global Search
+`Cmd+K` / `Ctrl+K` to search across all songs, albums, and codex entries.
+
+## Tech Stack
+
+- **Framework**: [Next.js 16](https://nextjs.org/) (App Router, static generation)
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS v4
+- **Icons**: Lucide React
+- **Analytics**: Vercel Analytics
+- **Testing**: Vitest + React Testing Library
+- **Fonts**: Geist Sans, Geist Mono, Oswald
+
+## Data Pipeline
+
+Song lyrics are sourced from [Genius](https://genius.com/) and enriched with AI-powered analysis:
+
+1. **Lyrics ingestion** - Fetched via the Genius API (`lyricsgenius`)
+2. **Speaker parsing** - Section headers mapped to speakers (Calm, Encore ABJ, guests)
+3. **AI analysis** - Line-by-line translations, explanations, and annotations generated via Gemini and Claude
+4. **Manual review** - Quality checks and corrections
+
+All song data lives in `src/data/` as typed TypeScript modules conforming to the `Song` interface.
+
+## Project Structure
+
+```
+src/
+  app/
+    page.tsx              # Home - album grid with global stats
+    song/[slug]/          # Individual song pages
+    album/[slug]/         # Album detail pages
+    codex/                # Searchable slang/reference dictionary
+    vibes/                # Mood-based song browser
+    journey/              # Career timeline
+    producers/            # Producer credits & rankings
+  components/
+    SongDisplay.tsx       # Main lyrics renderer with line selection
+    AlbumSection.tsx      # Album card with tracklist
+    SearchOverlay.tsx     # Global Cmd+K search
+    GlobalStats.tsx       # Discography-wide statistics
+    SongStats.tsx         # Per-song statistics
+    MobileDrawer.tsx      # Mobile-friendly UI drawer
+  data/
+    index.ts              # Aggregates all song exports
+    albums.ts             # Album metadata and tracklists
+    timeline.ts           # Career timeline events
+    *.ts                  # Individual song data (154 files)
+  types/
+    index.ts              # Song, Album, LyricLine, Annotation interfaces
+  utils/
+    codex.ts              # Term extraction and alias mapping
+    vibes.ts              # Vibe filtering and statistics
+    colors.ts             # Speaker color assignments
+    analytics.ts          # Event tracking helpers
+```
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Build for production
+npm run build
+
+# Run tests
+npx vitest
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to browse the archive.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Data Format
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Each song follows the `Song` interface:
 
-## Learn More
+```typescript
+interface Song {
+  id: string;
+  title: string;
+  slug: string;
+  album?: string;
+  releaseDate?: string;
+  summary?: string;
+  vibe?: "Aggressive" | "Chill" | "Introspective" | "Storytelling" | "Hype" | "Dark";
+  lyrics: LyricLine[];
+  credits?: {
+    producedBy?: string[];
+    writtenBy?: string[];
+  };
+}
 
-To learn more about Next.js, take a look at the following resources:
+interface LyricLine {
+  original: string;       // Original Hindi/Hinglish lyric
+  translation?: string;   // English translation
+  explanation?: string;   // Contextual meaning (1-2 sentences)
+  annotations?: Annotation[];  // Notable terms and references
+  speaker?: string;       // Who is rapping this line
+}
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+interface Annotation {
+  keyword?: string;       // The term being annotated
+  type: string;          // Category: slang, cultural, wordplay, etc.
+  meaning?: string;      // Explanation of the term
+}
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Adding New Songs
 
-## Deploy on Vercel
+1. Create a new file in `src/data/` following the `Song` interface
+2. Export it from `src/data/index.ts`
+3. Add its ID to the appropriate album in `src/data/albums.ts`
+4. Optionally run the hydration script for automated lyrics + analysis:
+   ```bash
+   python scripts/hydrate_new_songs.py
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Deployment
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Deployed on [Vercel](https://vercel.com). Pushes to `main` trigger automatic deployments.
+
+## License
+
+This project is for educational and fan purposes. All lyrics are the intellectual property of Seedhe Maut and their respective labels.

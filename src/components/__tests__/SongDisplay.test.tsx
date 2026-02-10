@@ -19,11 +19,12 @@ describe('SongDisplay Artist Highlights', () => {
     render(<SongDisplay song={mockSong} />);
     
     const calmLine = screen.getByText('Line by Calm');
-    // Default Calm color is #22d3ee (cyan-400)
-    expect(calmLine).toHaveStyle({ color: '#22d3ee' });
+    // Calm color is #38bdf8 (sky-400)
+    expect(calmLine).toHaveStyle({ color: '#38bdf8' });
 
     const encoreLine = screen.getByText('Line by Encore');
-    expect(encoreLine).toHaveStyle({ color: '#fb923c' });
+    // Encore color is #f472b6 (pink-400)
+    expect(encoreLine).toHaveStyle({ color: '#f472b6' });
   });
 
   it('does not render settings button', () => {

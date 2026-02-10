@@ -1,13 +1,13 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import { getAllAnnotations } from '../../utils/codex';
 import Link from 'next/link';
 import { ArrowLeft, Search } from 'lucide-react';
 
 export default function CodexPage() {
     const [searchTerm, setSearchTerm] = useState('');
-    const allEntries = getAllAnnotations();
+    const allEntries = useMemo(() => getAllAnnotations(), []);
 
     const filteredEntries = allEntries.filter(entry =>
         entry.keyword.toLowerCase().includes(searchTerm.toLowerCase()) ||

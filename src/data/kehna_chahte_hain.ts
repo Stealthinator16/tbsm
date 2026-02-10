@@ -3,7 +3,7 @@ import { Song } from '../types';
 export const kehna_chahte_hain: Song = {
   "id": "kehna_chahte_hain",
   "title": "Kehna Chahte Hain...",
-  "slug": "kehna-chahte-hain...",
+  "slug": "kehna-chahte-hain",
   "album": "Lunch Break",
   "releaseDate": "",
   "lyrics": [
