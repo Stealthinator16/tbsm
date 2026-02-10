@@ -47,17 +47,6 @@ Browse the full discography organized by album with cover art, tracklists, and r
 - **Testing**: Vitest + React Testing Library
 - **Fonts**: Geist Sans, Geist Mono, Oswald
 
-## Data Pipeline
-
-Song lyrics are sourced from [Genius](https://genius.com/) and enriched with AI-powered analysis:
-
-1. **Lyrics ingestion** - Fetched via the Genius API (`lyricsgenius`)
-2. **Speaker parsing** - Section headers mapped to speakers (Calm, Encore ABJ, guests)
-3. **AI analysis** - Line-by-line translations, explanations, and annotations generated via Gemini and Claude
-4. **Manual review** - Quality checks and corrections
-
-All song data lives in `src/data/` as typed TypeScript modules conforming to the `Song` interface.
-
 ## Project Structure
 
 ```
