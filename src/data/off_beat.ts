@@ -9,6 +9,7 @@ export const off_beat: Song = {
   "lyrics": [
     {
       "original": "Ayy",
+      "romanized": "Ayy",
       "speaker": "Seedhe Maut",
       "translation": "Ayy",
       "explanation": "Introductory ad-lib common in hip-hop to set the tempo.",
@@ -16,6 +17,7 @@ export const off_beat: Song = {
     },
     {
       "original": "Uh, अगर मैं पूछूँ तुझसे, प्यार क्या है",
+      "romanized": "Uh, agara main poochhoon tujhase, pyaara kyaa hai",
       "speaker": "Encore ABJ",
       "translation": "Uh, if I were to ask you, what is love?",
       "explanation": "Encore starts the verse with a philosophical question, challenging the conventional understanding of relationships.",
@@ -30,6 +32,7 @@ export const off_beat: Song = {
     },
     {
       "original": "तो इसका मतलब यह नहीं कि किसने कितना इज़हार किया है",
+      "romanized": "To isakaa matalaba yaha naheen ki kisane kitanaa izahaara kiyaa hai",
       "speaker": "Encore ABJ",
       "translation": "It doesn't mean how much one has confessed it.",
       "explanation": "He argues that verbal expression or 'izhaar' (confession) isn't the true measure of love.",
@@ -43,6 +46,7 @@ export const off_beat: Song = {
     },
     {
       "original": "तो इसका मतलब यह नहीं कि किसने किसके लिए क्या किया है (Yeah)",
+      "romanized": "To isakaa matalaba yaha naheen ki kisane kisake lie kyaa kiyaa hai (Yeah)",
       "speaker": "Encore ABJ",
       "translation": "It doesn't mean who did what for whom.",
       "explanation": "He further clarifies that transactional sacrifices or grand gestures don't define the depth of love.",
@@ -50,6 +54,7 @@ export const off_beat: Song = {
     },
     {
       "original": "तो इसका मतलब यह नहीं कि तू समझे इसे कोई taunt",
+      "romanized": "To isakaa matalaba yaha naheen ki too samajhe ise koee taunt",
       "speaker": "Encore ABJ",
       "translation": "It doesn't mean you should take this as a taunt.",
       "explanation": "He warns his partner not to misinterpret his deep questioning as a sarcastic jab or an insult.",
@@ -57,6 +62,7 @@ export const off_beat: Song = {
     },
     {
       "original": "और लड़े मुझसे, मैं बहुत ही impatient",
+      "romanized": "Aura lare mujhase, main bahuta hee impatient",
       "speaker": "Encore ABJ",
       "translation": "And pick a fight with me; I am very impatient.",
       "explanation": "He admits to his lack of patience, setting up a clever wordplay for the next line.",
@@ -64,6 +70,7 @@ export const off_beat: Song = {
     },
     {
       "original": "जैसे कोई patient hospital में ढूँढ़ रहा है नौकरी (नौकरी)",
+      "romanized": "Jaise koee patient hospital men dhoonrha rahaa hai naukaree (naukaree)",
       "speaker": "Encore ABJ",
       "translation": "Like a patient looking for a job in a hospital.",
       "explanation": "A brilliant double entendre on 'patient'. He is 'impatient' (restless), contrasting it with a 'patient' (sick person) in a hospital. Searching for a job while being a patient suggests desperation or being in the wrong state of mind.",
@@ -83,6 +90,7 @@ export const off_beat: Song = {
     },
     {
       "original": "वो दे रही मुझे ताकत अगर वो दे रही मुझको मौत नहीं ([?])",
+      "romanized": "Vo de rahee mujhe taakata agara vo de rahee mujhako mauta naheen ([?])",
       "speaker": "Encore ABJ",
       "translation": "She gives me strength if she isn't giving me death.",
       "explanation": "A play on the phrase 'What doesn't kill you makes you stronger,' while subtly referencing their group name 'Seedhe Maut' (Straight Death).",
@@ -90,6 +98,7 @@ export const off_beat: Song = {
     },
     {
       "original": "बस अपनों की है चिंता, बाकी लंड किसी का खौफ नहीं (Uh-huh)",
+      "romanized": "Basa apanon kee hai chintaa, baakee landa kisee kaa khaupha naheen (Uh-huh)",
       "speaker": "Encore ABJ",
       "translation": "I only care about my people; I don't give a damn about anyone else's fear.",
       "explanation": "He prioritizes his inner circle and dismisses any external threats or opinions using Delhi street slang.",
@@ -103,6 +112,7 @@ export const off_beat: Song = {
     },
     {
       "original": "यहाँ फ़र्ज़ चलता on-beat और दर्द चलता off-beat",
+      "romanized": "Yahaan farza chalataa on-beat aura darda chalataa off-beat",
       "speaker": "Encore ABJ",
       "translation": "Here, duty stays on-beat, while pain stays off-beat.",
       "explanation": "The core theme: Professional duties follow the rhythm/structure (on-beat), but personal trauma and pain are irregular, hidden, and chaotic (off-beat).",
@@ -122,6 +132,7 @@ export const off_beat: Song = {
     },
     {
       "original": "आई एक अच्छी चीज़, I had to fuck it up, शायद दिल है बदतमीज़",
+      "romanized": "Aaee eka achchhee cheeza, I had to fuck it up, shaayada dila hai badatameeza",
       "speaker": "Calm",
       "translation": "A good thing came along, but I had to ruin it; maybe my heart is just ill-mannered.",
       "explanation": "Calm reflects on self-sabotaging a good relationship due to his own character flaws or 'badtameez' (disrespectful) heart.",
@@ -135,6 +146,7 @@ export const off_beat: Song = {
     },
     {
       "original": "I bet you've had enough, नहीं पसंद मुझे लोग, नहीं पसंद उसे सच",
+      "romanized": "I bet you've had enough, naheen pasanda mujhe loga, naheen pasanda use sacha",
       "speaker": "Calm",
       "translation": "I bet you've had enough; I don't like people, and she doesn't like the truth.",
       "explanation": "A mismatch in values: Calm's misanthropy versus his partner's denial or dislike for harsh realities.",
@@ -149,6 +161,7 @@ export const off_beat: Song = {
     },
     {
       "original": "है तू वो एक चीज़, that got me trippin', uh, that got me livin', uh",
+      "romanized": "Hai too vo eka cheeza, that got me trippin', uh, that got me livin', uh",
       "speaker": "Calm",
       "translation": "You are that one thing that got me tripping and got me living.",
       "explanation": "He acknowledges the duality of his partner: she causes him distress (tripping) but is also his reason for existing.",
@@ -156,6 +169,7 @@ export const off_beat: Song = {
     },
     {
       "original": "That got me whiskey sippin'",
+      "romanized": "That got me whiskey sippin'",
       "speaker": "Calm",
       "translation": "That got me sipping whiskey.",
       "explanation": "Suggests turning to alcohol to cope with the intensity of the relationship.",
@@ -163,6 +177,7 @@ export const off_beat: Song = {
     },
     {
       "original": "In my crib, अकेले टूटी, उसे चाहिए sushi, उसे चाहिए कांधा",
+      "romanized": "In my crib, akele tootee, use chaahie sushi, use chaahie kaandhaa",
       "speaker": "Calm",
       "translation": "In my crib, I'm broken alone; she wants sushi, she needs a shoulder.",
       "explanation": "Contrast between his internal state (broken) and her needs (luxury/sushi and emotional support/kandha). 'Kandha' also rhymes with 'kaandha' (onion) in some dialects, but here it means shoulder.",
@@ -176,6 +191,7 @@ export const off_beat: Song = {
     },
     {
       "original": "है बहुत moody, वो कम्बख्त booty, ना खेलने देती Call Of Duty",
+      "romanized": "Hai bahuta moody, vo kambakhta booty, naa khelane detee Call Of Duty",
       "speaker": "Calm",
       "translation": "She is very moody, that damn beauty; she doesn't let me play Call of Duty.",
       "explanation": "Calm uses a lighthearted, rhythmic rhyme scheme (moody/booty/duty) to describe how her moods distract him from his hobbies.",
@@ -190,6 +206,7 @@ export const off_beat: Song = {
     },
     {
       "original": "Low-key है दोनों में ego और है नहीं तू trophy, यह चीज़ ना भूलना",
+      "romanized": "Lowa-key hai donon men ego aura hai naheen too trophy, yaha cheeza naa bhoolanaa",
       "speaker": "Calm",
       "translation": "There's a low-key ego in both of us, and you're not a trophy—don't forget that.",
       "explanation": "He acknowledges mutual pride and asserts that she shouldn't be treated as an object or a prize to be won.",
@@ -204,6 +221,7 @@ export const off_beat: Song = {
     },
     {
       "original": "है तेरे पे focus पर कलम है कुत्ती, लगे ना break",
+      "romanized": "Hai tere pe focus para kalama hai kuttee, lage naa break",
       "speaker": "Calm",
       "translation": "I'm focused on you, but my pen is a bitch; it doesn't have breaks.",
       "explanation": "Even though he loves her, his drive to write and rap ('kalam') is ruthless and unstoppable, often taking priority.",
@@ -223,6 +241,7 @@ export const off_beat: Song = {
     },
     {
       "original": "(Oh)",
+      "romanized": "(Oh)",
       "speaker": "Encore ABJ & Calm",
       "translation": "(Oh)",
       "explanation": "Vocal bridge transitioning to the chorus.",
@@ -230,6 +249,7 @@ export const off_beat: Song = {
     },
     {
       "original": "मिला मुझे सब तेरे सिवाय",
+      "romanized": "Milaa mujhe saba tere sivaaya",
       "speaker": "Encore ABJ & Calm",
       "translation": "I got everything except you.",
       "explanation": "The ultimate paradox of fame and success: having everything in the world but losing the one person who mattered.",
@@ -237,6 +257,7 @@ export const off_beat: Song = {
     },
     {
       "original": "(Oh)",
+      "romanized": "(Oh)",
       "speaker": "Encore ABJ & Calm",
       "translation": "(Oh)",
       "explanation": "Vocal bridge.",
@@ -244,6 +265,7 @@ export const off_beat: Song = {
     },
     {
       "original": "ना मिला मुझे कुछ तेरे बिना है, बिना है, बिना है",
+      "romanized": "Naa milaa mujhe kuchha tere binaa hai, binaa hai, binaa hai",
       "speaker": "Encore ABJ & Calm",
       "translation": "I found nothing without you, without you, without you.",
       "explanation": "Reinforces the feeling of emptiness despite material or professional gains.",
@@ -251,6 +273,7 @@ export const off_beat: Song = {
     },
     {
       "original": "देखा मैंने सब जो तू दिखाए, दिखाए, दिखाए",
+      "romanized": "Dekhaa mainne saba jo too dikhaae, dikhaae, dikhaae",
       "speaker": "Encore ABJ & Calm",
       "translation": "I saw everything that you showed me, showed me, showed me.",
       "explanation": "Acknowledging how the partner shaped his perspective or world.",
@@ -258,6 +281,7 @@ export const off_beat: Song = {
     },
     {
       "original": "मिला मुझे सब तेरे सिवाय",
+      "romanized": "Milaa mujhe saba tere sivaaya",
       "speaker": "Encore ABJ & Calm",
       "translation": "I got everything except you.",
       "explanation": "Repetition emphasizing the void left by the partner.",
@@ -265,6 +289,7 @@ export const off_beat: Song = {
     },
     {
       "original": "मिला मुझे सब तेरे सिवाय",
+      "romanized": "Milaa mujhe saba tere sivaaya",
       "speaker": "Hurricane",
       "translation": "I got everything except you.",
       "explanation": "Hurricane takes over the hook, bridging the Hindi and Bengali verses.",
@@ -272,6 +297,7 @@ export const off_beat: Song = {
     },
     {
       "original": "I'on know how to feel, boy, I've been cut off",
+      "romanized": "I'on know how to feel, boy, I've been cut off",
       "speaker": "Hurricane",
       "translation": "I don't know how to feel, boy, I've been cut off.",
       "explanation": "Describes the numbness and isolation after being removed from someone's life.",
@@ -279,6 +305,7 @@ export const off_beat: Song = {
     },
     {
       "original": "অনেক কিছু বলার আছে সময় নেই",
+      "romanized": "অনেক কিছু বলার আছে সময় নেই",
       "speaker": "Hurricane",
       "translation": "There is a lot to say, but no time.",
       "explanation": "The urgency of unsaid emotions in a failing relationship.",
@@ -292,6 +319,7 @@ export const off_beat: Song = {
     },
     {
       "original": "নিজের দিকে তাকিয়ে দেখি কিছুই নেই",
+      "romanized": "নিজের দিকে তাকিয়ে দেখি কিছুই নেই",
       "speaker": "Hurricane",
       "translation": "I look at myself and see nothing left.",
       "explanation": "A sense of loss of identity or soul after a breakup.",
@@ -299,6 +327,7 @@ export const off_beat: Song = {
     },
     {
       "original": "Too ready, তোরা নয়",
+      "romanized": "Too ready, তোরা নয়",
       "speaker": "Hurricane",
       "translation": "I'm too ready, you all aren't.",
       "explanation": "A pivot to a more confident stance, suggesting he is prepared for whatever comes next.",
@@ -306,6 +335,7 @@ export const off_beat: Song = {
     },
     {
       "original": "অনেক বছর করলাম ক্ষয়",
+      "romanized": "অনেক বছর করলাম ক্ষয়",
       "speaker": "Hurricane",
       "translation": "I wasted many years.",
       "explanation": "Regret over the time lost in a stagnant situation.",
@@ -313,6 +343,7 @@ export const off_beat: Song = {
     },
     {
       "original": "অনেক দিন হলাম high, এত বেশি মাঝে লাগলো I'ma die",
+      "romanized": "অনেক দিন হলাম high, এত বেশি মাঝে লাগলো I'ma die",
       "speaker": "Hurricane",
       "translation": "I've been high for many days, so much that sometimes I felt like I'd die.",
       "explanation": "Refers to drug use or emotional extremes as a coping mechanism.",
@@ -327,6 +358,7 @@ export const off_beat: Song = {
     },
     {
       "original": "It's cool, baby, ফিরে এলাম like, sure, এবার আমি fine",
+      "romanized": "It's cool, baby, ফিরে এলাম like, sure, এবার আমি fine",
       "speaker": "Hurricane",
       "translation": "It's cool, baby, I came back like, sure, now I'm fine.",
       "explanation": "Claiming recovery or a return to stability.",
@@ -341,6 +373,7 @@ export const off_beat: Song = {
     },
     {
       "original": "Oh, my God, feelin' like it's over (It's over), আমি sorry (Sorry)",
+      "romanized": "Oh, my God, feelin' like it's over (It's over), আমি sorry (Sorry)",
       "speaker": "Hurricane",
       "translation": "Oh my God, feeling like it's over, I am sorry.",
       "explanation": "Finality of the relationship and an apology for his part in it.",
@@ -348,6 +381,7 @@ export const off_beat: Song = {
     },
     {
       "original": "তুই কি নেই না কি হচ্ছি আমি sober?",
+      "romanized": "তুই কি নেই না কি হচ্ছি আমি sober?",
       "speaker": "Hurricane",
       "translation": "Are you not here, or am I just getting sober?",
       "explanation": "A deep line questioning if the partner was only a 'high' or an illusion that disappears with sobriety.",
@@ -355,6 +389,7 @@ export const off_beat: Song = {
     },
     {
       "original": "লাগছে অনেক ল্যাধ, হতে থাকলাম আমরা colder",
+      "romanized": "লাগছে অনেক ল্যাধ, হতে থাকলাম আমরা colder",
       "speaker": "Hurricane",
       "translation": "I'm feeling very lazy, we keep getting colder.",
       "explanation": "'Lyadh' is a quintessential Bengali word for a specific kind of laziness/lethargy. He notes the growing distance (coldness) in the relationship.",
@@ -374,6 +409,7 @@ export const off_beat: Song = {
     },
     {
       "original": "দেরি নেই যখন লাগবে আমার down, লাগে যেন",
+      "romanized": "দেরি নেই যখন লাগবে আমার down, লাগে যেন",
       "speaker": "Hurricane",
       "translation": "It won't be long before I feel down, it feels like...",
       "explanation": "Anticipating the inevitable crash after an emotional high.",
@@ -381,6 +417,7 @@ export const off_beat: Song = {
     },
     {
       "original": "Stuck in the same loop",
+      "romanized": "Stuck in the same loop",
       "speaker": "Hurricane",
       "translation": "Stuck in the same loop.",
       "explanation": "The repetitive nature of toxic relationships.",
@@ -388,6 +425,7 @@ export const off_beat: Song = {
     },
     {
       "original": "Maybe we just stuck in the same room",
+      "romanized": "Maybe we just stuck in the same room",
       "speaker": "Hurricane",
       "translation": "Maybe we're just stuck in the same room.",
       "explanation": "Physical proximity without emotional connection.",
@@ -395,6 +433,7 @@ export const off_beat: Song = {
     },
     {
       "original": "কখন ছিল এটা বলে আমায় foolproof",
+      "romanized": "কখন ছিল এটা বলে আমায় foolproof",
       "speaker": "Hurricane",
       "translation": "Tell me, when was this ever foolproof?",
       "explanation": "Questioning the stability or the 'plan' of their relationship.",
@@ -402,6 +441,7 @@ export const off_beat: Song = {
     },
     {
       "original": "কষ্ট হলেও পাশে থাক till I hate you",
+      "romanized": "কষ্ট হলেও পাশে থাক till I hate you",
       "speaker": "Hurricane",
       "translation": "Even if it hurts, stay by my side until I hate you.",
       "explanation": "A toxic plea to stay together until the love completely turns into resentment.",
@@ -409,6 +449,7 @@ export const off_beat: Song = {
     },
     {
       "original": "লাগে if I called you, know, I'ma fail you (Oh)",
+      "romanized": "লাগে if I called you, know, I'ma fail you (Oh)",
       "speaker": "Hurricane",
       "translation": "It feels like if I called you, I'd just fail you.",
       "explanation": "Self-doubt and the fear of letting the partner down again.",
@@ -416,6 +457,7 @@ export const off_beat: Song = {
     },
     {
       "original": "मिला मुझे सब तेरे सिवाय",
+      "romanized": "Milaa mujhe saba tere sivaaya",
       "speaker": "Encore ABJ & Calm",
       "translation": "I got everything except you.",
       "explanation": "Return to the melancholic hook.",
@@ -423,6 +465,7 @@ export const off_beat: Song = {
     },
     {
       "original": "(Oh)",
+      "romanized": "(Oh)",
       "speaker": "Encore ABJ & Calm",
       "translation": "(Oh)",
       "explanation": "Ad-lib.",
@@ -430,6 +473,7 @@ export const off_beat: Song = {
     },
     {
       "original": "ना मिला मुझे कुछ तेरे बिना है, बिना है, बिना है",
+      "romanized": "Naa milaa mujhe kuchha tere binaa hai, binaa hai, binaa hai",
       "speaker": "Encore ABJ & Calm",
       "translation": "I found nothing without you, without you, without you.",
       "explanation": "Reinforcing the central theme of loss.",
@@ -437,6 +481,7 @@ export const off_beat: Song = {
     },
     {
       "original": "देखा मैंने सब जो तू दिखाए, दिखाए, दिखाए",
+      "romanized": "Dekhaa mainne saba jo too dikhaae, dikhaae, dikhaae",
       "speaker": "Encore ABJ & Calm",
       "translation": "I saw everything that you showed me, showed me, showed me.",
       "explanation": "Acknowledging the influence of the partner on the artist's life.",
@@ -444,6 +489,7 @@ export const off_beat: Song = {
     },
     {
       "original": "मिला मुझे सब तेरे सिवाय",
+      "romanized": "Milaa mujhe saba tere sivaaya",
       "speaker": "Encore ABJ & Calm",
       "translation": "I got everything except you.",
       "explanation": "The song concludes on this poignant note of successful isolation.",

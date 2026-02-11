@@ -10,6 +10,7 @@ export const seedhe_maut_interlude: Song = {
   "lyrics": [
     {
       "original": "Jazbaat bane lingo",
+      "devanagari": "जज़्बात बने lingo",
       "speaker": "Calm",
       "translation": "Emotions became slang/lingo.",
       "explanation": "Expressing feelings through their unique vocabulary and style.",
@@ -23,6 +24,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Lingo bani hobby",
+      "devanagari": "Lingo बनी hobby",
       "speaker": "Calm",
       "translation": "The slang became a hobby.",
       "explanation": "What started as a way to express themselves became a passion.",
@@ -30,6 +32,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Hobby bana profession mai kaha se bana professor be mujhe bhi ptani",
+      "devanagari": "Hobby बना profession मैं कहाँ से बना professor बे मुझे भी पतानी",
       "speaker": "Calm",
       "translation": "The hobby became a profession, how I became a professor, I don't even know.",
       "explanation": "Reflecting on their unexpected success and transition from passion to career.",
@@ -43,6 +46,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Cough sorry kaha the? Ha SM x Bobby",
+      "devanagari": "Cough sorry कहाँ थे? हा SM x Bobby",
       "speaker": "Calm",
       "translation": "Cough, sorry, where were we? Yeah, Seedhe Maut x Bobby.",
       "explanation": "A quick interjection and acknowledgement of the collaboration.",
@@ -56,6 +60,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Neend udaae jaise coffee",
+      "devanagari": "नींद उड़ाए जैसे coffee",
       "speaker": "Calm",
       "translation": "Keeps you awake like coffee.",
       "explanation": "Their music is energizing and keeps the listener engaged.",
@@ -63,6 +68,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Rahe ghr se door jaise fauji",
+      "devanagari": "रहे घर से दूर जैसे फौजी",
       "speaker": "Calm",
       "translation": "Stay away from home like a soldier.",
       "explanation": "Comparing their life on tour to a soldier's dedication and sacrifice.",
@@ -76,6 +82,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Kahe hume kyu man mauji",
+      "devanagari": "कहे हमें क्यूँ मन मौजी",
       "speaker": "Calm",
       "translation": "Why do you call us free-spirited/whimsical?",
       "explanation": "Addressing the perception that they are carefree and unconventional.",
@@ -89,6 +96,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Peehe se chull bhi hai kaafi",
+      "devanagari": "पीछे से चुल भी है काफी",
       "speaker": "Calm",
       "translation": "There's a lot of urge from behind (to go forward).",
       "explanation": "Despite appearing carefree, they have a strong drive and ambition.",
@@ -102,6 +110,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Stress sone naii deta mujhko",
+      "devanagari": "Stress सोने नईं देता मुझको",
       "speaker": "Calm",
       "translation": "Stress doesn't let me sleep.",
       "explanation": "Acknowledging the pressures and anxieties they face.",
@@ -109,6 +118,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Lekin mai naii mangu maafi",
+      "devanagari": "लेकिन मैं नईं माँगू माफ़ी",
       "speaker": "Calm",
       "translation": "But I don't ask for forgiveness.",
       "explanation": "Despite the struggles, they stand firm and unapologetic.",
@@ -116,6 +126,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Na hi sharm hai zarabhi",
+      "devanagari": "ना ही शर्म है ज़राभी",
       "speaker": "Calm",
       "translation": "Nor am I even a little bit ashamed.",
       "explanation": "Reinforcing their confidence and lack of regret.",
@@ -123,6 +134,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Backein bhi ab tak ni nikli",
+      "devanagari": "बैकें भी अब तक नी निकली",
       "speaker": "Calm",
       "translation": "My wisdom teeth haven't even grown in yet.",
       "explanation": "A way of implying they are still young, and have a long way to go",
@@ -136,6 +148,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Padhne me zindagi bitaadi",
+      "devanagari": "पढ़ने में ज़िंदगी बिताड़ी",
       "speaker": "Calm",
       "translation": "Spent my life studying.",
       "explanation": "Referring to the time spent learning their craft and perfecting their art.",
@@ -143,6 +156,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Show ka mila lakh aaj raat mai aur calm saath saath",
+      "devanagari": "Show का मिला लाख आज रात मैं और Calm साथ साथ",
       "speaker": "Calm",
       "translation": "Got a lakh for the show tonight, me and Calm together.",
       "explanation": "Celebrating their financial success and partnership.",
@@ -156,6 +170,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Bola Fuck that BT",
+      "devanagari": "बोला Fuck that BT",
       "speaker": "Calm",
       "translation": "Said 'Fuck that, BT'.",
       "explanation": "Rejecting the burden/pressure of being 'BT' (B.Tech., Bachelor of Technology).",
@@ -169,6 +184,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Zindagi hai mili ek maine film hi banadi",
+      "devanagari": "ज़िंदगी है मिली एक मैंने film ही बनादी",
       "speaker": "Calm",
       "translation": "We only got one life, I made a movie out of it.",
       "explanation": "Describing their life as a dramatic and compelling narrative.",
@@ -176,6 +192,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Autobiography hai be ye hamari aap beeti",
+      "devanagari": "Autobiography है बे ये हमारी आप बीती",
       "speaker": "Calm",
       "translation": "This is our autobiography, our story.",
       "explanation": "Emphasizing the personal and authentic nature of their music.",
@@ -189,6 +206,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Tha mai kapp gya tha thakk",
+      "devanagari": "था मैं काँप गया था थक",
       "speaker": "Encore ABJ",
       "translation": "I was shaking, I was tired.",
       "explanation": "Expressing vulnerability and exhaustion from their journey.",
@@ -196,6 +214,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Tha thapp",
+      "devanagari": "था थप्प",
       "speaker": "Encore ABJ",
       "translation": "Got slapped/hit.",
       "explanation": "Describing being knocked down, perhaps by life's challenges.",
@@ -203,6 +222,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Gaya bach. Mai gaya bach",
+      "devanagari": "गया बच। मैं गया बच",
       "speaker": "Encore ABJ",
       "translation": "Escaped. I escaped.",
       "explanation": "Highlighting their resilience and ability to overcome obstacles.",
@@ -210,6 +230,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Kya hai luck? Ya hai wrk",
+      "devanagari": "क्या है luck? या है work",
       "speaker": "Encore ABJ",
       "translation": "Is it luck? Or is it work?",
       "explanation": "Questioning the role of fate versus effort in their success.",
@@ -217,6 +238,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Kaisa hai bobby",
+      "devanagari": "कैसा है Bobby",
       "speaker": "Encore ABJ",
       "translation": "How are you doing, Bobby?",
       "explanation": "A direct question/greeting to Bobby.",
@@ -224,6 +246,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "\"Me to lit hu bro\"",
+      "devanagari": "\"मी तो lit हूँ bro\"",
       "speaker": "Bobby",
       "translation": "\"I'm too lit, bro.\"",
       "explanation": "Bobby's response, indicating he is high or feeling good.",
@@ -237,6 +260,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Sick Me soya poori flight chindi indigo",
+      "devanagari": "Sick मी सोया पूरी flight चिंदी Indigo",
       "speaker": "Encore ABJ",
       "translation": "I was sick, I slept the entire flight, cheap Indigo.",
       "explanation": "Describing feeling unwell and taking a budget airline.",
@@ -250,6 +274,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Sheher alag sound check \"and we good to go\"",
+      "devanagari": "शहर अलग sound check \"and we good to go\"",
       "speaker": "Encore ABJ",
       "translation": "Different city, sound check, \"and we're good to go.\"",
       "explanation": "Routine of touring and performing.",
@@ -257,6 +282,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Party kaha hai pata pata poori city ko",
+      "devanagari": "Party कहाँ है पता पता पूरी city को",
       "speaker": "Encore ABJ",
       "translation": "Everyone in the city knows where the party is.",
       "explanation": "Highlighting their fame and popularity, making the party easy to find.",
@@ -264,6 +290,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Thoda badha bana bata hoga humaara kuch nahi saale 60 ml me",
+      "devanagari": "थोड़ा बड़ा बन बता होगा हमारा कुछ नहीं साले 60 ml में",
       "speaker": "Encore ABJ",
       "translation": "Become a little big man and tell me, nothing will happen to us from just 60ml.",
       "explanation": "Mocking those who act tough with small amounts of alcohol. 60ml is a small serving of liquor.",
@@ -271,6 +298,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Hona chahiye badha peg",
+      "devanagari": "होना चाहिए बड़ा peg",
       "speaker": "Encore ABJ",
       "translation": "Should be a big peg (drink).",
       "explanation": "Preferring large quantities of alcohol.",
@@ -284,6 +312,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Hona chahiye badha cheque",
+      "devanagari": "होना चाहिए बड़ा cheque",
       "speaker": "Encore ABJ",
       "translation": "Should be a big cheque.",
       "explanation": "Prioritizing financial success.",
@@ -291,6 +320,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Sheher ek hi kara check in chaar hotel me",
+      "devanagari": "शहर एक ही करा check in चार hotel में",
       "speaker": "Encore ABJ",
       "translation": "Same city, checked into four hotels.",
       "explanation": "Exaggerating their extravagance and mobility.",
@@ -298,6 +328,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Ye taura hai alag",
+      "devanagari": "ये तौरा है अलग",
       "speaker": "Encore ABJ",
       "translation": "This vibe is different.",
       "explanation": "Emphasizing their unique style and presence.",
@@ -311,6 +342,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Tour aaye alag",
+      "devanagari": "Tour आए अलग",
       "speaker": "Encore ABJ",
       "translation": "Different tours are coming.",
       "explanation": "Indicating future opportunities and success.",
@@ -318,6 +350,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Jab betha bina show k",
+      "devanagari": "जब बैठा बिना show के",
       "speaker": "Encore ABJ",
       "translation": "When I sit without a show...",
       "explanation": "Describing feeling restless and unproductive when not performing.",
@@ -325,6 +358,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Meri aur jaaye sanak",
+      "devanagari": "मेरी और जाए सनक",
       "speaker": "Encore ABJ",
       "translation": "Madness comes towards me.",
       "explanation": "Implies he gets crazy or frustrated without work.",
@@ -338,6 +372,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Ali aur tyson hum",
+      "devanagari": "Ali और Tyson हम",
       "speaker": "Encore ABJ",
       "translation": "We are Ali and Tyson.",
       "explanation": "Comparing themselves to legendary boxers Muhammad Ali and Mike Tyson, implying power and skill.",
@@ -345,6 +380,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "\"Go K-9 on em\"",
+      "devanagari": "\"Go K-9 on em\"",
       "speaker": "Encore ABJ",
       "translation": "\"Go K-9 on them.\"",
       "explanation": "Referencing police dogs, implying they will aggressively pursue their goals.",
@@ -352,6 +388,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Aaya chheen ne sab me betha",
+      "devanagari": "आया छीन ने सब मैं बैठा",
       "speaker": "Encore ABJ",
       "translation": "I came to snatch everything and I'm sitting.",
       "explanation": "Asserting dominance and a desire to take what they deserve.",
@@ -359,6 +396,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Dekh yaha Golem",
+      "devanagari": "देख यहाँ Golem",
       "speaker": "Encore ABJ",
       "translation": "Look, here's Golem.",
       "explanation": "Likely a reference to the character Golem from Lord of the Rings, implying they are protective of their 'precious' success.",
@@ -372,6 +410,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Khaali khoon",
+      "devanagari": "खाली खून",
       "speaker": "Encore ABJ",
       "translation": "Just blood",
       "explanation": "It takes a lot of sacrifice to reach the top",
@@ -379,6 +418,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Paseena deke chalti baat ni hona",
+      "devanagari": "पसीना देके चलती बात नी होना",
       "speaker": "Encore ABJ",
       "translation": "Sweat alone won't make it happen.",
       "explanation": "Hard work alone is not sufficient for success.",
@@ -386,6 +426,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Chahiye thoda bheja aur koi apna saath bhi",
+      "devanagari": "चाहिए थोड़ा भेजा और कोई अपना साथ भी",
       "speaker": "Encore ABJ",
       "translation": "Need some brains and someone of your own with you.",
       "explanation": "Emphasizing the importance of intelligence and loyalty.",
@@ -399,6 +440,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Mere peeche Nainital aur poora Charkhi dadri",
+      "devanagari": "मेरे पीछे नैनीताल और पूरा चरखी दादरी",
       "speaker": "Encore ABJ",
       "translation": "Behind me is Nainital and all of Charkhi Dadri.",
       "explanation": "Expressing the support and pride they receive from their hometowns.",
@@ -417,6 +459,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Aur encore ki mummy usko ab nahi daat ti",
+      "devanagari": "और Encore की mummy उसको अब नहीं डाँटती",
       "speaker": "Encore ABJ",
       "translation": "And Encore's mom doesn't scold him anymore.",
       "explanation": "Indicating that they have gained their family's approval through their success.",
@@ -430,6 +473,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Unhe dikhe sab",
+      "devanagari": "उन्हें दिखे सब",
       "speaker": "Encore ABJ",
       "translation": "They can see everything.",
       "explanation": "His parents now sees his worth after his success.",
@@ -437,6 +481,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Win win win dono likhe jab",
+      "devanagari": "Win win win दोनो लिखे जब",
       "speaker": "Encore ABJ",
       "translation": "Win, win, win, we both write when.",
       "explanation": "Both artists win when they collaborate and create together.",
@@ -444,6 +489,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Bike pehle minute saari ticket ab",
+      "devanagari": "बिके पहले minute सारी ticket अब",
       "speaker": "Encore ABJ",
       "translation": "All the tickets sell out in the first minute now.",
       "explanation": "Highlighting their immense popularity and demand.",
@@ -451,6 +497,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "\"Pick it up\"",
+      "devanagari": "\"Pick it up\"",
       "speaker": "Encore ABJ",
       "translation": "\"Pick it up.\"",
       "explanation": "Encore ABJ telling people to pick up the music.",
@@ -458,6 +505,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Win win win dedo chicken aisa",
+      "devanagari": "Win win win देदो chicken ऐसा",
       "speaker": "Encore ABJ",
       "translation": "Win, win, win, give the chicken like this...",
       "explanation": "Another win, a reference to eating chicken (sign of celebration).",
@@ -465,6 +513,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Lage cheene baccho se Tiffin hum",
+      "devanagari": "लगे छीने बच्चो से Tiffin हम",
       "speaker": "Encore ABJ",
       "translation": "It's like snatching a Tiffin box from children.",
       "explanation": "They are so hungry to win, they are ready to even 'steal' a tiffin box from kids",
@@ -478,6 +527,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Hai koi ghissi piti raye to wo yaha matt rakh",
+      "devanagari": "है कोई घिस्सी पिटी राय तो वो यहाँ मत रख",
       "speaker": "Encore ABJ",
       "translation": "If you have any worn-out opinions, don't keep them here.",
       "explanation": "Rejecting negativity and outdated perspectives.",
@@ -485,6 +535,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Ye test hai par team khele Aakraamak",
+      "devanagari": "ये test है पर team खेले आक्रामक",
       "speaker": "Encore ABJ",
       "translation": "This is a test match, but the team plays aggressively.",
       "explanation": "Comparing their performance to a cricket test match, but with an aggressive playing style.",
@@ -498,6 +549,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Hum the bethe vaile fooke sune gaane",
+      "devanagari": "हम थे बैठे वैले फूके सुने गाने",
       "speaker": "Encore ABJ",
       "translation": "We were sitting idle, smoking, listening to songs.",
       "explanation": "Describing their early days, chilling and making music.",
@@ -511,6 +563,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Gine note aur pite cola",
+      "devanagari": "गिने नोट और पीते cola",
       "speaker": "Encore ABJ",
       "translation": "Counting money and drinking cola.",
       "explanation": "Simple joys and financial success.",
@@ -518,6 +571,7 @@ export const seedhe_maut_interlude: Song = {
     },
     {
       "original": "Bobby bola hume aakraman",
+      "devanagari": "Bobby बोला हमें आक्रमण",
       "speaker": "Encore ABJ",
       "translation": "Bobby told us 'attack'.",
       "explanation": "Bobby encourages them to be aggressive and pursue their goals.",

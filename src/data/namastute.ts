@@ -9,6 +9,7 @@ export const namastute: Song = {
   "lyrics": [
     {
       "original": "Kalam jale, dard dukhe, marham bane",
+      "devanagari": "कलम जले, दर्द दुखे, मरहम बने",
       "speaker": "Encore ABJ",
       "translation": "The pen burns, the pain aches, it becomes the balm.",
       "explanation": "Encore describes the process of writing lyrics as a form of therapy—transforming his internal suffering into art that heals.",
@@ -27,6 +28,7 @@ export const namastute: Song = {
     },
     {
       "original": "Aashvaasan andhvishwasi, bharam toote",
+      "devanagari": "आश्वासन अंधविश्वासी, भ्रम टूटे",
       "speaker": "Encore ABJ",
       "translation": "Promises are superstitious, illusions shatter.",
       "explanation": "He is dismissing false hope and the industry's fake promises, choosing to face the harsh reality instead.",
@@ -34,6 +36,7 @@ export const namastute: Song = {
     },
     {
       "original": "Sabhi jhooke aur shraddha se bole, \"Seedhe Maut, namastute\"",
+      "devanagari": "सभी झूके और श्रद्धा से बोले, \"Seedhe Maut, नमस्तुते\"",
       "speaker": "Encore ABJ",
       "translation": "Everyone bows and says with devotion, \"Seedhe Maut, I bow to you.\"",
       "explanation": "A play on the Sanskrit hymn 'Saraswati Namastute.' He asserts that their skill is so high that others treat them with religious respect.",
@@ -52,6 +55,7 @@ export const namastute: Song = {
     },
     {
       "original": "Karam jale naastik, de tera bhai jab darshan, bana dun aastik",
+      "devanagari": "करम जले नास्तिक, दे तेरा भाई जब दर्शन, बना दूँ आस्तिक",
       "speaker": "Encore ABJ",
       "translation": "Actions burn the atheist; when your brother appears, I'll turn you into a believer.",
       "explanation": "Using religious imagery to show dominance. 'Darshan' refers to a holy viewing; his presence is so powerful it converts skeptics.",
@@ -70,6 +74,7 @@ export const namastute: Song = {
     },
     {
       "original": "Hun main nahi devta kadachit kholun jab muh sab bole aaya rakshas",
+      "devanagari": "हूँ मैं नहीं देवता कदाचित खोलूँ जब मुँह सब बोले आया राक्षस",
       "speaker": "Encore ABJ",
       "translation": "I am not a god by any means; when I open my mouth, everyone says a demon has arrived.",
       "explanation": "Contrast to the previous line. While his skill is divine, his delivery is aggressive and monstrous.",
@@ -89,6 +94,7 @@ export const namastute: Song = {
     },
     {
       "original": "Hun main nahi plastic, sunun bas Pac",
+      "devanagari": "हूँ मैं नहीं plastic, सुनूँ बस Pac",
       "speaker": "Encore ABJ",
       "translation": "I'm not plastic (fake), I only listen to 2Pac.",
       "explanation": "He rejects 'plastic' (fake/industry-made) rappers and cites 2Pac as his standard for authenticity.",
@@ -108,6 +114,7 @@ export const namastute: Song = {
     },
     {
       "original": "Sick rapper'on ko dun prep talk",
+      "devanagari": "Sick rapper'on को दूँ prep talk",
       "speaker": "Encore ABJ",
       "translation": "I give prep talks to these 'sick' rappers.",
       "explanation": "A sarcastic take on rappers who claim to be 'sick' (good) but actually need his guidance.",
@@ -115,6 +122,7 @@ export const namastute: Song = {
     },
     {
       "original": "Vo fir bhi toxic, fir bhi noxious",
+      "devanagari": "वो फिर भी toxic, फिर भी noxious",
       "speaker": "Encore ABJ",
       "translation": "They are still toxic, still noxious.",
       "explanation": "Despite his advice, other rappers remain harmful or poisonous to the hip-hop culture.",
@@ -122,6 +130,7 @@ export const namastute: Song = {
     },
     {
       "original": "Di Ted Talk vo dekhe Tik Tok bas",
+      "devanagari": "दी Ted Talk वो देखे Tik Tok बस",
       "speaker": "Encore ABJ",
       "translation": "I gave a Ted Talk, they just watch TikTok.",
       "explanation": "A critique of the intellectual gap between his lyricism and the low-effort content consumed by the masses.",
@@ -136,6 +145,7 @@ export const namastute: Song = {
     },
     {
       "original": "(Teri thoot bigaad dunga)",
+      "devanagari": "(तेरी थूथ बिगाड़ दूँगा)",
       "speaker": "Encore ABJ",
       "translation": "(I'll mess up your face)",
       "explanation": "A raw, aggressive threat common in Delhi's street vernacular.",
@@ -149,6 +159,7 @@ export const namastute: Song = {
     },
     {
       "original": "Mera kya mai club mein baitha kara ra moshpit",
+      "devanagari": "मेरा क्या मैं club में बैठा करा रा moshpit",
       "speaker": "Encore ABJ",
       "translation": "As for me, I'm in the club starting a moshpit.",
       "explanation": "References the high energy of Seedhe Maut's live shows, which are famous for intense moshpits.",
@@ -156,6 +167,7 @@ export const namastute: Song = {
     },
     {
       "original": "Launde bane chaal baaz",
+      "devanagari": "लौंडे बने चाल बाज़",
       "speaker": "Encore ABJ",
       "translation": "These guys have become tricksters.",
       "explanation": "Calling out the deceptive nature of people in the music industry.",
@@ -163,6 +175,7 @@ export const namastute: Song = {
     },
     {
       "original": "Tera bhai Karl Marx prophet, dekhe nahi profit",
+      "devanagari": "तेरा भाई Karl Marx prophet, देखे नहीं profit",
       "speaker": "Encore ABJ",
       "translation": "Your brother is like a Karl Marx prophet, he doesn't look for profit.",
       "explanation": "Reference to the socialist philosopher. He claims to care more about the movement/art than the money.",
@@ -176,6 +189,7 @@ export const namastute: Song = {
     },
     {
       "original": "Gira, bana dhoomketu",
+      "devanagari": "गिरा, बना धूमकेतु",
       "speaker": "Encore ABJ",
       "translation": "I fell and became a comet.",
       "explanation": "Metaphor for rising with explosive intensity after facing a low point.",
@@ -183,6 +197,7 @@ export const namastute: Song = {
     },
     {
       "original": "Chhodi prithvi, padhaara moon pe hun",
+      "devanagari": "छोड़ी पृथ्वी, पधारा moon पे हूँ",
       "speaker": "Encore ABJ",
       "translation": "Left the Earth, I've arrived on the moon.",
       "explanation": "He is operating on a level far above the competition.",
@@ -190,6 +205,7 @@ export const namastute: Song = {
     },
     {
       "original": "To chale, chale mera Shani alag",
+      "devanagari": "तो चले, चले मेरा शनि अलग",
       "speaker": "Encore ABJ",
       "translation": "So my Saturn moves differently.",
       "explanation": "Astrological reference. Shani (Saturn) governs fate; he says his destiny is unique and doesn't follow normal rules.",
@@ -203,6 +219,7 @@ export const namastute: Song = {
     },
     {
       "original": "Du mai tujhe hafta, Shanidan, chote baat meri maan",
+      "devanagari": "दूँ मैं तुझे हफ़्ता, शनिदान, छोटे बात मेरी मान",
       "speaker": "Encore ABJ",
       "translation": "I'll give you 'hafta', Saturn-donation, kid listen to me.",
       "explanation": "Wordplay on 'hafta' (protection money) and giving alms on Saturdays to appease Saturn (Shanidan).",
@@ -222,6 +239,7 @@ export const namastute: Song = {
     },
     {
       "original": "Shakal se tu shanichar hai",
+      "devanagari": "शक्ल से तू शनिचर है",
       "speaker": "Encore ABJ",
       "translation": "You look like bad luck personified.",
       "explanation": "Calling someone 'Shanichar' is a common Hindi insult meaning someone who brings or embodies misfortune.",
@@ -229,6 +247,7 @@ export const namastute: Song = {
     },
     {
       "original": "Rakhta jo money mann hai, marta vo mann hi mann hai",
+      "devanagari": "रखता जो money मन है, मरता वो मन ही मन है",
       "speaker": "Encore ABJ",
       "translation": "He who keeps money in his heart, dies from within.",
       "explanation": "A philosophical take on how greed and obsession with wealth destroys one's soul.",
@@ -236,6 +255,7 @@ export const namastute: Song = {
     },
     {
       "original": "Meri jaan",
+      "devanagari": "मेरी जान",
       "speaker": "Encore ABJ",
       "translation": "My dear / My life.",
       "explanation": "A common Delhi term of endearment, often used sarcastically here.",
@@ -243,6 +263,7 @@ export const namastute: Song = {
     },
     {
       "original": "Aankhe teri nam hi nam hai, dil ka tu dhani kam hai",
+      "devanagari": "आँखें तेरी नम ही नम है, दिल का तू धनी कम है",
       "speaker": "Encore ABJ",
       "translation": "Your eyes are always wet, you lack richness of heart.",
       "explanation": "Critiquing those who act like victims but lack true character or internal strength.",
@@ -250,6 +271,7 @@ export const namastute: Song = {
     },
     {
       "original": "Rakhe nahi jaate khushiyon pe daam",
+      "devanagari": "रखे नहीं जाते खुशियों पे दाम",
       "speaker": "Encore ABJ",
       "translation": "Price tags aren't placed on happiness.",
       "explanation": "Asserting that true joy comes from art and life, not commercial success.",
@@ -257,6 +279,7 @@ export const namastute: Song = {
     },
     {
       "original": "Muh pe saare lovey-dovey",
+      "devanagari": "मुँह पे सारे lovey-dovey",
       "speaker": "Encore ABJ",
       "translation": "Everyone is 'lovey-dovey' to your face.",
       "explanation": "The industry is full of fake friendliness.",
@@ -264,6 +287,7 @@ export const namastute: Song = {
     },
     {
       "original": "Sachi baatein kabhi nahi, koi nahi, bolu kya mai jiski hai mati maari",
+      "devanagari": "सच्ची बातें कभी नहीं, कोई नहीं, बोलू क्या मैं जिसकी है मति मारी",
       "speaker": "Encore ABJ",
       "translation": "Never any truth, it's okay, what can I say to someone who's lost their mind?",
       "explanation": "'Mati maari' refers to someone whose intellect has failed them.",
@@ -271,6 +295,7 @@ export const namastute: Song = {
     },
     {
       "original": "Maari maine jhakk hai nahi, kiya kaam",
+      "devanagari": "मारी मैंने झक्क है नहीं, किया काम",
       "speaker": "Encore ABJ",
       "translation": "I didn't just idle around, I worked.",
       "explanation": "'Jhakk maarna' is a slang for wasting time. He's emphasizing his grind.",
@@ -278,6 +303,7 @@ export const namastute: Song = {
     },
     {
       "original": "Kheecha sara paisa saala, pakad ke girebaan",
+      "devanagari": "खींचा सारा पैसा साला, पकड़ के गिरेबान",
       "speaker": "Encore ABJ",
       "translation": "Pulled all the money out by grabbing them by the collar.",
       "explanation": "Aggressive imagery of taking what he is owed by force.",
@@ -291,6 +317,7 @@ export const namastute: Song = {
     },
     {
       "original": "Deke bae ko izzat hue beizzat",
+      "devanagari": "देके bae को इज़्ज़त हुए बेइज़्ज़त",
       "speaker": "Encore ABJ",
       "translation": "Gave respect to the girl, and ended up disrespected.",
       "explanation": "Personal line about past relationships where his kindness wasn't reciprocated.",
@@ -298,6 +325,7 @@ export const namastute: Song = {
     },
     {
       "original": "Kase khud ke pech vo bhi bina pechkas",
+      "devanagari": "कसे खुद के पेच वो भी बिना पेचकस",
       "speaker": "Encore ABJ",
       "translation": "Tightened my own screws even without a screwdriver.",
       "explanation": "Metaphor for self-improvement and fixing his life through sheer will and no help.",
@@ -312,6 +340,7 @@ export const namastute: Song = {
     },
     {
       "original": "Flyer pe MGK saath, kiya Lace Up",
+      "devanagari": "Flyer पे MGK साथ, किया Lace Up",
       "speaker": "Encore ABJ",
       "translation": "On the flyer with MGK, I 'Laced Up'.",
       "explanation": "Seedhe Maut opened for Machine Gun Kelly in India. 'Lace Up' is MGK’s famous slogan.",
@@ -325,13 +354,15 @@ export const namastute: Song = {
     },
     {
       "original": "Yaha pe launde bas fly hum (Way up)",
+      "devanagari": "यहाँ पे लौंडे बस fly हम (Way up)",
       "speaker": "Encore ABJ",
       "translation": "Guys here are just 'fly', we are (Way up).",
       "explanation": "Wordplay on 'fly' (stylish) versus being high up in status.",
       "annotations": []
     },
     {
-      "original": "Jaana hai jisko jaaye jaani don’t (Wait up)",
+      "original": "Jaana hai jisko jaaye jaani don't (Wait up)",
+      "devanagari": "जाना है जिसको जाए जानी don't (Wait up)",
       "speaker": "Encore ABJ",
       "translation": "Whoever wants to leave can go, don't (Wait up).",
       "explanation": "He doesn't care about people leaving his circle or his life.",
@@ -339,6 +370,7 @@ export const namastute: Song = {
     },
     {
       "original": "Ulte paao bhagte ye saare jaise (Pret sab)",
+      "devanagari": "उलटे पाओ भागते ये सारे जैसे (प्रेत सब)",
       "speaker": "Encore ABJ",
       "translation": "They all run with reversed feet like ghosts.",
       "explanation": "In Indian folklore, 'Pret' (ghosts) have feet facing backward. He's saying his enemies are scared and unnatural.",
@@ -352,6 +384,7 @@ export const namastute: Song = {
     },
     {
       "original": "Chale ye haath fookta kalam kash (Pe kash)",
+      "devanagari": "चले ये हाथ फूकता कलम कश (पे कश)",
       "speaker": "Encore ABJ",
       "translation": "This hand moves as the pen takes (puff after puff).",
       "explanation": "Smoking metaphor comparing the flow of his pen to taking hits from a joint.",
@@ -365,6 +398,7 @@ export const namastute: Song = {
     },
     {
       "original": "Nashe ka pesha hai mera, ye hai meri peshkash",
+      "devanagari": "नशे का पेशा है मेरा, ये है मेरी पेशकश",
       "speaker": "Encore ABJ",
       "translation": "Intoxication is my profession, this is my offering.",
       "explanation": "He describes his music as an addictive drug and this song as the presentation.",
@@ -384,6 +418,7 @@ export const namastute: Song = {
     },
     {
       "original": "ABJ bola tu ghussa thook abhi",
+      "devanagari": "ABJ बोला तू गुस्सा थूक अभी",
       "speaker": "Calm",
       "translation": "ABJ said, 'Spit out your anger now.'",
       "explanation": "'Ghussa thookna' is a common Hindi idiom for letting go of rage.",
@@ -391,6 +426,7 @@ export const namastute: Song = {
     },
     {
       "original": "To bola me shaant hoke whoo sa (Psych)",
+      "devanagari": "तो बोला मैं शांत होके whoo sa (Psych)",
       "speaker": "Calm",
       "translation": "So I said calmly, 'Whoo-sa' (Psych).",
       "explanation": "'Whoo-sa' is a reference to the movie Bad Boys (breathing to calm down). 'Psych' reveals he is actually still aggressive.",
@@ -405,6 +441,7 @@ export const namastute: Song = {
     },
     {
       "original": "Naam sunke fat'ti Yakuza",
+      "devanagari": "नाम सुनके फट्टी Yakuza",
       "speaker": "Calm",
       "translation": "Hearing the name, even the Yakuza are scared.",
       "explanation": "Hyperbolic flex about the crew's fearsome reputation.",
@@ -419,6 +456,7 @@ export const namastute: Song = {
     },
     {
       "original": "Haan nikle sabka jaloos aaj",
+      "devanagari": "हाँ निकले सबका जलूस आज",
       "speaker": "Calm",
       "translation": "Yes, everyone's procession will be taken out today.",
       "explanation": "'Jaloos nikalna' means to be publicly humiliated or exposed.",
@@ -426,6 +464,7 @@ export const namastute: Song = {
     },
     {
       "original": "Ye ghiske bann jayenge dhool aaj",
+      "devanagari": "ये घिसके बन जाएँगे धूल आज",
       "speaker": "Calm",
       "translation": "They will grind down and become dust today.",
       "explanation": "He plans to destroy the competition completely.",
@@ -433,6 +472,7 @@ export const namastute: Song = {
     },
     {
       "original": "Hunt ho jaaye bas jal jaayega choolah",
+      "devanagari": "Hunt हो जाए बस जल जाएगा चूल्हा",
       "speaker": "Calm",
       "translation": "Once the hunt is over, the stove will be lit.",
       "explanation": "Metaphor for 'hunting' in the industry to put food on the table.",
@@ -440,6 +480,7 @@ export const namastute: Song = {
     },
     {
       "original": "Michelin star chef Khanna, nuska dunga curry ka rukja",
+      "devanagari": "Michelin star chef Khanna, नुस्खा दूँगा curry का रुकजा",
       "speaker": "Calm",
       "translation": "Michelin star chef (Vikas) Khanna, wait, I'll give you the recipe for the curry.",
       "explanation": "Comparing his 'sauce' or 'flow' to a master chef's recipe.",
@@ -453,6 +494,7 @@ export const namastute: Song = {
     },
     {
       "original": "Yahan launde lage hue scheme mein",
+      "devanagari": "यहाँ लौंडे लगे हुए scheme में",
       "speaker": "Calm",
       "translation": "Guys here are busy plotting schemes.",
       "explanation": "Refers to rappers looking for shortcuts or manipulative ways to get famous.",
@@ -460,6 +502,7 @@ export const namastute: Song = {
     },
     {
       "original": "Humein bhi aata tareeka tuccha",
+      "devanagari": "हमें भी आता तरीका तुच्छ",
       "speaker": "Calm",
       "translation": "We also know those petty ways.",
       "explanation": "They are aware of the 'dirty games' of the industry but choose not to play them.",
@@ -474,6 +517,7 @@ export const namastute: Song = {
     },
     {
       "original": "Bichaare khush hain fodd ke phoonk bomb",
+      "devanagari": "बिचारे खुश हैं फोड़ के फूँक bomb",
       "speaker": "Calm",
       "translation": "Poor things are happy bursting small firecrackers.",
       "explanation": "'Phoonk bomb' is a weak firework; a metaphor for small, insignificant achievements of other rappers.",
@@ -481,6 +525,7 @@ export const namastute: Song = {
     },
     {
       "original": "Yaha pe ladi ka guccha",
+      "devanagari": "यहाँ पे लड़ी का गुच्छा",
       "speaker": "Calm",
       "translation": "Here we have a whole cluster of crackers.",
       "explanation": "A 'ladi' is a long string of firecrackers; SM is saying they deliver continuous, explosive hits.",
@@ -488,6 +533,7 @@ export const namastute: Song = {
     },
     {
       "original": "Kuch saanp hain, kareebi baatein",
+      "devanagari": "कुछ साँप हैं, करीबी बातें",
       "speaker": "Calm",
       "translation": "There are some snakes, acting close.",
       "explanation": "Warning about two-faced friends and industry 'snakes'.",
@@ -495,6 +541,7 @@ export const namastute: Song = {
     },
     {
       "original": "Jalebi, humse, jale bhi saath hain",
+      "devanagari": "जलेबी, हमसे, जले भी साथ हैं",
       "speaker": "Calm",
       "translation": "They are twisted like Jalebis, and they burn with jealousy too.",
       "explanation": "Brilliant wordplay on 'Jalebi' (twisted/complex) and 'Jale' (burning/jealous).",
@@ -514,6 +561,7 @@ export const namastute: Song = {
     },
     {
       "original": "Bole par, chahte bhala ni",
+      "devanagari": "बोले पर, चाहते भला नी",
       "speaker": "Calm",
       "translation": "They talk, but they don't wish well.",
       "explanation": "Exposing the hypocrisy of people who pretend to support them.",
@@ -521,6 +569,7 @@ export const namastute: Song = {
     },
     {
       "original": "Unse zyada vafaadaar gully ka kutta",
+      "devanagari": "उनसे ज़्यादा वफ़ादार गली का कुत्ता",
       "speaker": "Calm",
       "translation": "A street dog is more loyal than them.",
       "explanation": "A harsh comparison highlighting the lack of loyalty in the rap scene.",
@@ -528,6 +577,7 @@ export const namastute: Song = {
     },
     {
       "original": "Wo na kaate dekh ke dum hilaata",
+      "devanagari": "वो ना काटे देख के दुम हिलाता",
       "speaker": "Calm",
       "translation": "He doesn't bite, he wags his tail when he sees me.",
       "explanation": "Contrasting the genuine nature of a dog with the backstabbing nature of humans.",
@@ -535,6 +585,7 @@ export const namastute: Song = {
     },
     {
       "original": "Inpe ek hi feeki trick hai zero kaata",
+      "devanagari": "इनपे एक ही फीकी trick है zero काटा",
       "speaker": "Calm",
       "translation": "They only have one bland trick: Tic-Tac-Toe.",
       "explanation": "'Zero-Kaata' is a simple child's game; he's saying their skills are basic and predictable.",
@@ -549,6 +600,7 @@ export const namastute: Song = {
     },
     {
       "original": "Jo bole, \"Rap se paise kaise laayega?\"",
+      "devanagari": "जो बोले, \"Rap से पैसे कैसे लाएगा?\"",
       "speaker": "Calm",
       "translation": "Those who asked, \"How will you bring money from rap?\"",
       "explanation": "Addressing the skeptics who doubted hip-hop as a viable career in India.",
@@ -556,6 +608,7 @@ export const namastute: Song = {
     },
     {
       "original": "Mere joote mehenge unke rent se zyada",
+      "devanagari": "मेरे जूते महँगे उनके rent से ज़्यादा",
       "speaker": "Calm",
       "translation": "My shoes are more expensive than their rent.",
       "explanation": "A direct flex regarding their financial success and status.",
@@ -570,6 +623,7 @@ export const namastute: Song = {
     },
     {
       "original": "Ye chupe khaata, baap ka pension aadha",
+      "devanagari": "ये छुपे खाता, बाप का pension आधा",
       "speaker": "Calm",
       "translation": "He eats in hiding, on half of his father's pension.",
       "explanation": "Dissing rappers who claim to be 'street' but are actually living off their parents' savings.",
@@ -577,6 +631,7 @@ export const namastute: Song = {
     },
     {
       "original": "Hai ni tension aata inhe pen chabaana",
+      "devanagari": "है नी tension आता इन्हें pen चबाना",
       "speaker": "Calm",
       "translation": "They have no real worries, they only know how to chew on their pens.",
       "explanation": "Implies they have no real-life struggle or actual songwriting ability.",
@@ -591,6 +646,7 @@ export const namastute: Song = {
     },
     {
       "original": "Khaali the bas hum dono thi lagi jab tabhi ni banta ab kisi ka haq jamaana",
+      "devanagari": "खाली थे बस हम दोनो थी लगी जब तभी नी बनता अब किसी का हक़ जमाना",
       "speaker": "Calm",
       "translation": "It was just the two of us when things were hard; nobody has the right to claim us now.",
       "explanation": "Asserting that they are self-made and no one can take credit for their success.",
@@ -598,6 +654,7 @@ export const namastute: Song = {
     },
     {
       "original": "Tera clout mera lund pe (Laude!)",
+      "devanagari": "तेरा clout मेरा लंड पे (लौड़े!)",
       "speaker": "Calm",
       "translation": "I don't give a damn about your clout.",
       "explanation": "Using vulgar Delhi slang to express total disregard for someone's social media fame.",
@@ -616,6 +673,7 @@ export const namastute: Song = {
     },
     {
       "original": "Ye ball ke naam pe daale bas bhatta",
+      "devanagari": "ये ball के नाम पे डाले बस भट्टा",
       "speaker": "Calm",
       "translation": "They just throw 'bhatta' in the name of bowling.",
       "explanation": "Cricket metaphor. 'Bhatta' is an illegal, jerky bowling action. He means they aren't playing the rap game fairly/skillfully.",
@@ -623,6 +681,7 @@ export const namastute: Song = {
     },
     {
       "original": "Tera bhai janam se",
+      "devanagari": "तेरा भाई जनम से",
       "speaker": "Calm",
       "translation": "Your brother is (a natural) since birth.",
       "explanation": "Setting up his inherent talent.",
@@ -630,6 +689,7 @@ export const namastute: Song = {
     },
     {
       "original": "Seedhe Maut cheat code maarliya ratta",
+      "devanagari": "Seedhe Maut cheat code मारलिया रट्टा",
       "speaker": "Calm",
       "translation": "Seedhe Maut is a cheat code, I've memorized it.",
       "explanation": "Comparing their duo to a video game cheat code that makes them unbeatable.",
@@ -637,6 +697,7 @@ export const namastute: Song = {
     },
     {
       "original": "Ye noubde, ye whack log, bas chale chaba jaau kaccha",
+      "devanagari": "ये noobde, ये whack लोग, बस चले चबा जाऊँ कच्चा",
       "speaker": "Calm",
       "translation": "These noobs, these whack people, if I could I'd eat them raw.",
       "explanation": "Mixes gaming slang (noob) with rap slang (whack) to show dominance.",
@@ -650,6 +711,7 @@ export const namastute: Song = {
     },
     {
       "original": "Ab jisko lalkaarna (Senpai!), humein to aajao kaksha",
+      "devanagari": "अब जिसको ललकारना (Senpai!), हमें तो आजाओ कक्षा",
       "speaker": "Calm",
       "translation": "Now whoever wants to challenge us (Senpai!), come to the classroom.",
       "explanation": "He calls himself 'Senpai' (Master) and tells others to come to 'Kaksha' (Class) to learn how to rap.",

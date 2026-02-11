@@ -14,6 +14,7 @@ export const hoshiyaar: Song = {
   "lyrics": [
     {
       "original": "Sez on the beat boy",
+      "devanagari": "Sez on the beat boy",
       "speaker": "Seedhe Maut",
       "translation": "Sez on the beat, boy.",
       "explanation": "This is the signature producer tag of Sez on the Beat, a pioneer of the Indian Hip Hop sound and frequent collaborator with Seedhe Maut.",
@@ -33,6 +34,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Aaj kaam dhanda na jaa (Dhanda na jaa)",
+      "devanagari": "आज काम धंदा ना जा (धंदा ना जा)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Don't go to work today.",
       "explanation": "A plea to a partner or loved one to skip their daily responsibilities to spend time together.",
@@ -46,20 +48,25 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Ek baar yaha ko aaja (Yaha ko aaja)",
+      "devanagari": "एक बार यहाँ को आजा (यहाँ को आजा)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Just come over here once.",
       "explanation": "Asking for physical presence and closeness.",
       "annotations": []
     },
     {
-      "original": "Log to hain kuch bhi kehte (Kehte) “haste rehte” (Rehte)",
+      "original": "Log to hain kuch bhi kehte (Kehte) \"haste rehte\" (Rehte)",
+      "devanagari": "लोग तो हैं कुछ भी कहते (कहते) \"हँसते रहते\" (रहते)",
+
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "People will say anything, they just keep laughing.",
       "explanation": "Addressing the 'Log Kya Kahenge' (what will people say) syndrome, noting how society mocks others' relationships.",
       "annotations": []
     },
     {
-      "original": "Unka pyaar zeher samete “ye sandes hai”",
+      "original": "Unka pyaar zeher samete \"ye sandes hai\"",
+      "devanagari": "उनका प्यार ज़हर समेटे \"ये संदेस है\"",
+
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Their love contains poison, that's the message.",
       "explanation": "A warning that external validation or 'love' from the crowd is often toxic and superficial.",
@@ -67,6 +74,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Ke tu zara sa bhi",
+      "devanagari": "के तू ज़रा सा भी",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "That you don't even need to...",
       "explanation": "Leading into the compliment about natural beauty.",
@@ -74,6 +82,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Make up na lagaana (Na lagana)",
+      "devanagari": "Make up ना लगाना (ना लगाना)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "...Apply even a little bit of makeup.",
       "explanation": "Expressing that the partner is beautiful enough without any artificial enhancement.",
@@ -81,6 +90,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Hai tumhe khud khuda ne tarasha (Ne tarasha)",
+      "devanagari": "है तुम्हें खुद खुदा ने तराशा (ने तराशा)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "God himself has sculpted you.",
       "explanation": "High praise suggesting the person is a masterpiece created by the divine.",
@@ -94,6 +104,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Bas ek baar haske kehde (Haske kehde)",
+      "devanagari": "बस एक बार हँसके कहदे (हँसके कहदे)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Just say it once with a smile.",
       "explanation": "Seeking validation or a positive sign from the partner.",
@@ -108,6 +119,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Par mere pyaar me bhi to kalesh hai",
+      "devanagari": "पर मेरे प्यार में भी तो कलेश है",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "But even in my love, there is conflict.",
       "explanation": "Acknowledging that the speaker's love isn't perfect; it comes with its own set of drama and issues.",
@@ -121,6 +133,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Toh rehena hoshiyaar",
+      "devanagari": "तो रहना होशियार",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "So stay alert.",
       "explanation": "Warning the partner to be cautious because being with the speaker is unpredictable or difficult.",
@@ -134,6 +147,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "(Rehena hoshiyaar)",
+      "devanagari": "(रहना होशियार)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "(Stay alert)",
       "explanation": "Repetition emphasizing the need for caution.",
@@ -141,6 +155,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Rehena hoshiyaar",
+      "devanagari": "रहना होशियार",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Stay alert",
       "explanation": "Reinforcing the central theme of the song: navigating a complicated relationship.",
@@ -148,6 +163,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "(Rehena hoshiyaar)",
+      "devanagari": "(रहना होशियार)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "(Stay alert)",
       "explanation": "Advising the partner to be smart about the 'toxic' traits of the speaker.",
@@ -155,6 +171,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Bas еk baar haske kehde (Haskе kehde)",
+      "devanagari": "बस एक बार हँसके कहदे (हँसके कहदे)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Just say it once with a smile.",
       "explanation": "Repeating the request for a moment of joy amidst the chaos.",
@@ -162,6 +179,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Par mere pyaar me bhi to kalesh hai",
+      "devanagari": "पर मेरे प्यार में भी तो कलेश है",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "But even in my love, there is conflict.",
       "explanation": "Reiterating the honest admission of a turbulent relationship.",
@@ -169,6 +187,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Kya chahiye khud abhi",
+      "devanagari": "क्या चाहिए खुद अभी",
       "speaker": "Calm",
       "translation": "What do I even want myself right now?",
       "explanation": "Calm expresses internal confusion about his own desires.",
@@ -176,6 +195,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Ni jaane mann",
+      "devanagari": "नी जाने मन",
       "speaker": "Calm",
       "translation": "I don't know, sweetheart.",
       "explanation": "Addressing the partner while admitting his own lack of clarity.",
@@ -183,6 +203,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Sympathy sampati ya",
+      "devanagari": "Sympathy संपत्ति या",
       "speaker": "Calm",
       "translation": "Sympathy, wealth or...",
       "explanation": "Calm questions the motive of the relationship: is it for emotional support or his material success?",
@@ -196,6 +217,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Ya jaaneman",
+      "devanagari": "या जानेमन",
       "speaker": "Calm",
       "translation": "...or a lover?",
       "explanation": "Asking if they want him for who he is (a 'jaaneman') or what he has.",
@@ -203,6 +225,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Harr dafa li",
+      "devanagari": "हर दफ़ा ली",
       "speaker": "Calm",
       "translation": "Every single time, I took...",
       "explanation": "Calm reflecting on past patterns of behavior.",
@@ -210,6 +233,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Halke me sundarta",
+      "devanagari": "हल्के में सुंदरता",
       "speaker": "Calm",
       "translation": "...beauty lightly.",
       "explanation": "Admitting that he didn't value inner or outer beauty as much as he should have.",
@@ -223,6 +247,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Aaj dekha jab upar the",
+      "devanagari": "आज देखा जब ऊपर थे",
       "speaker": "Calm",
       "translation": "Today I saw when I looked up...",
       "explanation": "Setting a scene of realization, possibly while under the stars or in a moment of success.",
@@ -230,6 +255,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Taare kamm",
+      "devanagari": "तारे कम",
       "speaker": "Calm",
       "translation": "...there were fewer stars.",
       "explanation": "Metaphor for a feeling of emptiness or a changing perspective on fame/life.",
@@ -237,6 +263,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Haan Kare ni mene bhi vade kamm",
+      "devanagari": "हाँ करे नी मैंने भी वादे कम",
       "speaker": "Calm",
       "translation": "Yes, I haven't made few promises either.",
       "explanation": "Admitting that he too has made many commitments, perhaps some he couldn't keep.",
@@ -244,6 +271,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Hu khuli kitaab aage tere me",
+      "devanagari": "हूँ खुली किताब आगे तेरे मैं",
       "speaker": "Calm",
       "translation": "I am an open book in front of you.",
       "explanation": "Claiming transparency and vulnerability with his partner.",
@@ -251,6 +279,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Aankhon ko kare kuch yaadein namm",
+      "devanagari": "आँखों को करें कुछ यादें नम",
       "speaker": "Calm",
       "translation": "Some memories make my eyes moist.",
       "explanation": "Acknowledging the emotional weight and nostalgia that comes with the relationship.",
@@ -265,6 +294,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Wo boli nikhathu tha pehle me",
+      "devanagari": "वो बोली निखट्टू था पहले मैं",
       "speaker": "Calm",
       "translation": "She said I used to be a good-for-nothing before.",
       "explanation": "Referencing a time before fame when he was seen as useless or unemployed.",
@@ -278,6 +308,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Dekho achi baat ye nahi hai",
+      "devanagari": "देखो अच्छी बात ये नहीं है",
       "speaker": "Encore ABJ",
       "translation": "Look, this isn't a good thing.",
       "explanation": "Encore begins his verse by addressing the gravity of their situation.",
@@ -285,6 +316,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Bole jo hota bhi vahi hai",
+      "devanagari": "बोले जो होता भी वही है",
       "speaker": "Encore ABJ",
       "translation": "Whatever is said, that is exactly what happens.",
       "explanation": "Implying that their words have weight or that they are stuck in a cycle of self-fulfilling prophecies.",
@@ -292,6 +324,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Jism me dard hai halak tak",
+      "devanagari": "जिस्म में दर्द है हलक़ तक",
       "speaker": "Encore ABJ",
       "translation": "The pain in my body reaches up to my throat.",
       "explanation": "Describing intense emotional pain that feels physically suffocating.",
@@ -305,6 +338,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Ye koi aadha bhara ghada nahi hai",
+      "devanagari": "ये कोई आधा भरा घड़ा नहीं है",
       "speaker": "Encore ABJ",
       "translation": "This isn't a half-filled pot.",
       "explanation": "A metaphor meaning the situation or his emotions are completely full/overflowing, not just 'half-way'.",
@@ -312,6 +346,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Alfaaz hai kuch aise jo munh pe aa jaate",
+      "devanagari": "अल्फ़ाज़ है कुछ ऐसे जो मुँह पे आ जाते",
       "speaker": "Encore ABJ",
       "translation": "There are some words that just come to the tongue.",
       "explanation": "Talking about the bluntness or the harsh things said in the heat of the moment.",
@@ -325,6 +360,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Dete wo dard toh phir toh phir karta hun waade khud se hi main",
+      "devanagari": "देते वो दर्द तो फिर तो फिर करता हूँ वादे खुद से ही मैं",
       "speaker": "Encore ABJ",
       "translation": "When they cause pain, I then make promises to myself.",
       "explanation": "Coping with the hurt caused by words by making internal resolutions to change or stay silent.",
@@ -332,6 +368,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Khud tak rakhunga ye baate",
+      "devanagari": "खुद तक रखूंगा ये बातें",
       "speaker": "Encore ABJ",
       "translation": "I will keep these things to myself.",
       "explanation": "A decision to internalize his feelings rather than venting and causing more 'kalesh'.",
@@ -339,6 +376,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Tu kehti hai kuch, main bhi kehta hun aage ka pata hai tujhe bhi",
+      "devanagari": "तू कहती है कुछ, मैं भी कहता हूँ आगे का पता है तुझे भी",
       "speaker": "Encore ABJ",
       "translation": "You say something, I say something back; you know what happens next.",
       "explanation": "Describing the predictable nature of their arguments.",
@@ -346,6 +384,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Aaj kaam dhanda na jaa (Dhanda na jaa)",
+      "devanagari": "आज काम धंदा ना जा (धंदा ना जा)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Don't go to work today.",
       "explanation": "Chorus repeat.",
@@ -353,20 +392,25 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Ek baar yaha ko aaja (Yaha ko aaja)",
+      "devanagari": "एक बार यहाँ को आजा (यहाँ को आजा)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Just come over here once.",
       "explanation": "Chorus repeat.",
       "annotations": []
     },
     {
-      "original": "Log to hain kuch bhi kehte (Kehte) “haste rehte” (Rehte)",
+      "original": "Log to hain kuch bhi kehte (Kehte) \"haste rehte\" (Rehte)",
+      "devanagari": "लोग तो हैं कुछ भी कहते (कहते) \"हँसते रहते\" (रहते)",
+
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "People will say anything, they just keep laughing.",
       "explanation": "Chorus repeat.",
       "annotations": []
     },
     {
-      "original": "Unka pyaar zeher samete “ye sandes hai”",
+      "original": "Unka pyaar zeher samete \"ye sandes hai\"",
+      "devanagari": "उनका प्यार ज़हर समेटे \"ये संदेस है\"",
+
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Their love contains poison, that's the message.",
       "explanation": "Chorus repeat.",
@@ -374,6 +418,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Ke tu zara sa bhi",
+      "devanagari": "के तू ज़रा सा भी",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "That you don't even need to...",
       "explanation": "Chorus repeat.",
@@ -381,6 +426,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Make up na lagaana (Na lagana)",
+      "devanagari": "Make up ना लगाना (ना लगाना)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "...Apply even a little bit of makeup.",
       "explanation": "Chorus repeat.",
@@ -388,6 +434,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Hai tumhe khud khuda ne tarasha (Ne tarasha)",
+      "devanagari": "है तुम्हें खुद खुदा ने तराशा (ने तराशा)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "God himself has sculpted you.",
       "explanation": "Chorus repeat.",
@@ -395,6 +442,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Bas ek baar haske kehde (Haske kehde)",
+      "devanagari": "बस एक बार हँसके कहदे (हँसके कहदे)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Just say it once with a smile.",
       "explanation": "Chorus repeat.",
@@ -402,6 +450,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Par mere pyaar me bhi to kalesh hai",
+      "devanagari": "पर मेरे प्यार में भी तो कलेश है",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "But even in my love, there is conflict.",
       "explanation": "Chorus repeat.",
@@ -409,6 +458,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Toh rehena hoshiyaar",
+      "devanagari": "तो रहना होशियार",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "So stay alert.",
       "explanation": "Chorus repeat.",
@@ -416,6 +466,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "(Rehena hoshiyaar)",
+      "devanagari": "(रहना होशियार)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "(Stay alert)",
       "explanation": "Chorus repeat.",
@@ -423,6 +474,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Rehena hoshiyaar",
+      "devanagari": "रहना होशियार",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Stay alert",
       "explanation": "Chorus repeat.",
@@ -430,6 +482,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "(Rehena hoshiyaar)",
+      "devanagari": "(रहना होशियार)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "(Stay alert)",
       "explanation": "Chorus repeat.",
@@ -444,6 +497,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Bas ek baar haske kehde (Haske kehde)",
+      "devanagari": "बस एक बार हँसके कहदे (हँसके कहदे)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Just say it once with a smile.",
       "explanation": "Chorus repeat.",
@@ -451,6 +505,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Par mere pyaar me bhi to kalesh hai",
+      "devanagari": "पर मेरे प्यार में भी तो कलेश है",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "But even in my love, there is conflict.",
       "explanation": "Chorus repeat.",
@@ -458,6 +513,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Saara din",
+      "devanagari": "सारा दिन",
       "speaker": "Calm",
       "translation": "The whole day.",
       "explanation": "Calm describing his obsession or focus.",
@@ -465,6 +521,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Saara dhyaan (Yeah)",
+      "devanagari": "सारा ध्यान (Yeah)",
       "speaker": "Calm",
       "translation": "All the attention.",
       "explanation": "Giving all his mental energy to this person.",
@@ -472,6 +529,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Saari jaan",
+      "devanagari": "सारी जान",
       "speaker": "Calm",
       "translation": "All my life/soul.",
       "explanation": "Investing his very being into the relationship.",
@@ -479,6 +537,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Ye keemti waqt",
+      "devanagari": "ये कीमती वक़्त",
       "speaker": "Calm",
       "translation": "This precious time.",
       "explanation": "Acknowledging that time is his most valuable asset as a busy artist.",
@@ -486,6 +545,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Jaaye",
+      "devanagari": "जाए",
       "speaker": "Calm",
       "translation": "Is spent...",
       "explanation": "Connecting the previous lines to the recipient.",
@@ -493,6 +553,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Tujhpe kabse",
+      "devanagari": "तुझपे कबसे",
       "speaker": "Calm",
       "translation": "...on you for a long time now.",
       "explanation": "He has been devoted to this person for a significant period.",
@@ -507,6 +568,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Ghaayal hu (Hey)",
+      "devanagari": "घायल हूँ (Hey)",
       "speaker": "Calm",
       "translation": "I am wounded.",
       "explanation": "Expressing emotional vulnerability or being 'lovesick'.",
@@ -520,6 +582,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Ye shayaree",
+      "devanagari": "ये शायरी",
       "speaker": "Calm",
       "translation": "This poetry...",
       "explanation": "Referring to his lyrics as his form of expression.",
@@ -534,6 +597,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Se diary (Wu)",
+      "devanagari": "से diary (Wu)",
       "speaker": "Calm",
       "translation": "...has filled the diary.",
       "explanation": "His diary is full of verses written about this relationship.",
@@ -548,6 +612,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Bhari hai na do lagaam",
+      "devanagari": "भरी है ना दो लगाम",
       "speaker": "Calm",
       "translation": "It's full, don't restrain it.",
       "explanation": "Suggesting that his emotions or his art cannot be held back anymore.",
@@ -567,6 +632,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Wo khush hai na karo koi",
+      "devanagari": "वो खुश है ना करो कोई",
       "speaker": "Calm",
       "translation": "She is happy, don't let anyone...",
       "explanation": "Calm wanting to protect her peace.",
@@ -581,6 +647,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Ghuspaith",
+      "devanagari": "घुसपैठ",
       "speaker": "Calm",
       "translation": "...intrude.",
       "explanation": "Warning outsiders or negative thoughts not to infiltrate their space.",
@@ -594,6 +661,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Khatti baatein kehene se bhala, chup baith",
+      "devanagari": "खट्टी बातें कहने से भला, चुप बैठ",
       "speaker": "Encore ABJ",
       "translation": "Better to sit silent than to say sour things.",
       "explanation": "Advocating for silence over toxic or bitter arguments.",
@@ -601,6 +669,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Pyar sanng dard mufft hai",
+      "devanagari": "प्यार संग दर्द मुफ़्त है",
       "speaker": "Encore ABJ",
       "translation": "Pain comes free with love.",
       "explanation": "A realistic take on relationships: you can't have the love without the accompanying suffering.",
@@ -608,6 +677,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Calm chor par chust hai",
+      "devanagari": "Calm चोर पर चुस्त है",
       "speaker": "Encore ABJ",
       "translation": "Calm is a slacker, but he's sharp.",
       "explanation": "Wordplay on Calm's personality—he might seem lazy but he is very alert and capable.",
@@ -621,6 +691,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Adarmkhori me luft hai",
+      "devanagari": "अधर्मखोरी में लुफ़्त है",
       "speaker": "Encore ABJ",
       "translation": "There is pleasure in unrighteousness.",
       "explanation": "Suggesting they find a certain thrill or enjoyment in their unconventional or 'sinful' lifestyle.",
@@ -634,6 +705,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Haramkhori me lupt hai (Hey)",
+      "devanagari": "हरामखोरी में लुप्त है (Hey)",
       "speaker": "Encore ABJ",
       "translation": "Immersed in being a scoundrel.",
       "explanation": "Playing with the word 'Haramkhori' to describe their rogue-like behavior in the industry.",
@@ -647,6 +719,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Tu naraz hai to hum dusht hai",
+      "devanagari": "तू नाराज़ है तो हम दुष्ट हैं",
       "speaker": "Encore ABJ",
       "translation": "If you are angry, then I am a villain.",
       "explanation": "Accepting the 'bad guy' role if it makes the partner feel justified in their anger.",
@@ -660,6 +733,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Ha mai jaanu itna ke tu bas aaj",
+      "devanagari": "हा मैं जानूँ इतना के तू बस आज",
       "speaker": "Encore ABJ",
       "translation": "Yes, all I know is that today you should just...",
       "explanation": "Leading back into the hook's request.",
@@ -667,6 +741,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Aaj kaam dhanda na jaa (Dhanda na jaa)",
+      "devanagari": "आज काम धंदा ना जा (धंदा ना जा)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Don't go to work today.",
       "explanation": "Final chorus sequence.",
@@ -674,20 +749,25 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Ek baar yaha ko aaja (Yaha ko aaja)",
+      "devanagari": "एक बार यहाँ को आजा (यहाँ को आजा)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Just come over here once.",
       "explanation": "Final chorus sequence.",
       "annotations": []
     },
     {
-      "original": "Log to hain kuch bhi kehte (Kehte) “haste rehte” (Rehte)",
+      "original": "Log to hain kuch bhi kehte (Kehte) \"haste rehte\" (Rehte)",
+      "devanagari": "लोग तो हैं कुछ भी कहते (कहते) \"हँसते रहते\" (रहते)",
+
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "People will say anything, they just keep laughing.",
       "explanation": "Final chorus sequence.",
       "annotations": []
     },
     {
-      "original": "Unka pyaar zeher samete “ye sandes hai”",
+      "original": "Unka pyaar zeher samete \"ye sandes hai\"",
+      "devanagari": "उनका प्यार ज़हर समेटे \"ये संदेस है\"",
+
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Their love contains poison, that's the message.",
       "explanation": "Final chorus sequence.",
@@ -695,6 +775,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Ke tu zara sa bhi",
+      "devanagari": "के तू ज़रा सा भी",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "That you don't even need to...",
       "explanation": "Final chorus sequence.",
@@ -702,6 +783,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Make up na lagaana (Na lagana)",
+      "devanagari": "Make up ना लगाना (ना लगाना)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "...Apply even a little bit of makeup.",
       "explanation": "Final chorus sequence.",
@@ -709,6 +791,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Hai tumhe khud khuda ne tarasha (Ne tarasha)",
+      "devanagari": "है तुम्हें खुद खुदा ने तराशा (ने तराशा)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "God himself has sculpted you.",
       "explanation": "Final chorus sequence.",
@@ -716,6 +799,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Bas ek baar haske kehde (Haske kehde)",
+      "devanagari": "बस एक बार हँसके कहदे (हँसके कहदे)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Just say it once with a smile.",
       "explanation": "Final chorus sequence.",
@@ -723,6 +807,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Par mere pyaar me bhi to kalesh hai",
+      "devanagari": "पर मेरे प्यार में भी तो कलेश है",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "But even in my love, there is conflict.",
       "explanation": "Final chorus sequence.",
@@ -730,6 +815,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Toh rehena hoshiyaar",
+      "devanagari": "तो रहना होशियार",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "So stay alert.",
       "explanation": "Final chorus sequence.",
@@ -737,6 +823,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "(Rehena hoshiyaar)",
+      "devanagari": "(रहना होशियार)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "(Stay alert)",
       "explanation": "Final chorus sequence.",
@@ -744,6 +831,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Rehena hoshiyaar",
+      "devanagari": "रहना होशियार",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Stay alert",
       "explanation": "Final chorus sequence.",
@@ -751,6 +839,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "(Rehena hoshiyaar)",
+      "devanagari": "(रहना होशियार)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "(Stay alert)",
       "explanation": "Final chorus sequence.",
@@ -758,6 +847,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Bas ek baar haske kehde (Haske kehde)",
+      "devanagari": "बस एक बार हँसके कहदे (हँसके कहदे)",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "Just say it once with a smile.",
       "explanation": "Final chorus sequence.",
@@ -765,6 +855,7 @@ export const hoshiyaar: Song = {
     },
     {
       "original": "Par mere pyaar me bhi to kalesh hai",
+      "devanagari": "पर मेरे प्यार में भी तो कलेश है",
       "speaker": "Encore ABJ, Calm & Rushaki",
       "translation": "But even in my love, there is conflict.",
       "explanation": "Ending on the bittersweet reality of their bond.",

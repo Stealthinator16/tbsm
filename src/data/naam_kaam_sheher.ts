@@ -9,6 +9,7 @@ export const naam_kaam_sheher: Song = {
   "lyrics": [
     {
       "original": "बोल, मेरा नाम क्या है? काम क्या है? शहर क्या है?",
+      "romanized": "Bola, meraa naama kyaa hai? kaama kyaa hai? shahara kyaa hai?",
       "speaker": "Encore ABJ",
       "translation": "Tell me, what's my name? What's my work? What's the city?",
       "explanation": "Encore ABJ starts with a rhetorical challenge, asserting his dominant presence in the Delhi (Sheher) hip-hop scene.",
@@ -22,6 +23,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "काम करूँ इतना, साला पता नहीं, ये पहर क्या है",
+      "romanized": "Kaama karoon itanaa, saalaa pataa naheen, ye pahara kyaa hai",
       "speaker": "Encore ABJ",
       "translation": "I work so much, man, I don't even know what time of day it is.",
       "explanation": "Refers to the intense 'grind' or hustle where the boundaries of time blur due to constant studio sessions.",
@@ -41,6 +43,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "सोया सुबह 8 बजे, पता नहीं, दोपहर क्या है",
+      "romanized": "Soyaa subaha 8 baje, pataa naheen, dopahara kyaa hai",
       "speaker": "Encore ABJ",
       "translation": "Slept at 8 in the morning, I have no idea what 'afternoon' is.",
       "explanation": "Highlights the erratic sleep schedule of a night-owl artist who works until sunrise.",
@@ -48,6 +51,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "हाथ तेरे गले पे और पूछ मत, पैर कहाँ है",
+      "romanized": "Haatha tere gale pe aura poochha mata, paira kahaan hai",
       "speaker": "Encore ABJ",
       "translation": "My hand is on your throat, don't even ask where my feet are.",
       "explanation": "A metaphor for complete physical and lyrical dominance over an opponent.",
@@ -55,6 +59,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "Beat दे और देख कैसे तेरा भाई तैरता है",
+      "romanized": "Beat de aura dekha kaise teraa bhaaee tairataa hai",
       "speaker": "Encore ABJ",
       "translation": "Give me a beat and watch how your brother swims (flows).",
       "explanation": "A common hip-hop metaphor comparing rapping on a beat to swimming or floating effortlessly.",
@@ -62,6 +67,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "कन्ने खराब वाली पतंग जैसा लहरता है",
+      "romanized": "Kanne kharaaba vaalee patanga jaisaa laharataa hai",
       "speaker": "Encore ABJ",
       "translation": "Swaying like a kite with bad 'kanne' (balance).",
       "explanation": "'Kanne' are the strings tied to a kite for balance. A kite with bad kanne moves unpredictably, much like ABJ's complex flow.",
@@ -81,6 +87,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "आए बिना risk लिए चैन ना",
+      "romanized": "Aae binaa risk lie chaina naa",
       "speaker": "Calm",
       "translation": "I can't find peace without taking risks.",
       "explanation": "Calm expresses his high-stakes mentality, where risk-taking is essential for satisfaction.",
@@ -88,6 +95,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "आया नया Italy से ऐनक",
+      "romanized": "Aayaa nayaa Italy se ainaka",
       "speaker": "Calm",
       "translation": "New glasses arrived from Italy.",
       "explanation": "A flex about high-end luxury fashion (likely referring to designer brands like Gucci or Prada).",
@@ -107,6 +115,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "आईने में कुछ नहीं है, straight up",
+      "romanized": "Aaeene men kuchha naheen hai, straight up",
       "speaker": "Calm",
       "translation": "There's nothing in the mirror, straight up.",
       "explanation": "Could imply he's become so legendary he's like a ghost, or focusing on internal substance rather than outer reflection.",
@@ -114,6 +123,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "भाई की खाएगी ये cadence",
+      "romanized": "Bhaaee kee khaaegee ye cadence",
       "speaker": "Calm",
       "translation": "This cadence will devour you, brother.",
       "explanation": "Cadence refers to the flow and rhythm; Calm is claiming his rapping style is superior and overwhelming.",
@@ -127,6 +137,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "कहाँ है मेरे चूतिये hater?",
+      "romanized": "Kahaan hai mere chootiye hater?",
       "speaker": "Calm",
       "translation": "Where are my idiot haters?",
       "explanation": "A direct dismissal of critics who have become invisible as Seedhe Maut grew successful.",
@@ -134,6 +145,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "Feeling like your maker, make her bounce",
+      "romanized": "Feeling like your maker, make her bounce",
       "speaker": "Calm",
       "translation": "Feeling like your creator, make her bounce.",
       "explanation": "A double entendre involving a 'god-complex' and a club/party vibe.",
@@ -141,6 +153,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "बैठे-बैठे लाऊँ पैसा",
+      "romanized": "Baithe-baithe laaoon paisaa",
       "speaker": "Calm",
       "translation": "Making money while just sitting around.",
       "explanation": "Refers to passive income, royalties, or the ease with which he now generates wealth.",
@@ -148,6 +161,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "Looking out for my people",
+      "romanized": "Looking out for my people",
       "speaker": "Calm",
       "translation": "Taking care of my crew.",
       "explanation": "Emphasizing loyalty to his inner circle and his neighborhood.",
@@ -155,6 +169,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "है वो proud मेरी Deagle पे",
+      "romanized": "Hai vo proud meree Deagle pe",
       "speaker": "Calm",
       "translation": "They are proud of my Deagle.",
       "explanation": "Deagle refers to the Desert Eagle pistol; here it's a metaphor for having 'big guns' (heavy lyrics/power).",
@@ -168,6 +183,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "छोटे-मोटे Dawood मैंने पेले बहुत",
+      "romanized": "Chhote-mote Dawaood mainne pele bahuta",
       "speaker": "Calm",
       "translation": "I've crushed many small-time 'Dawoods'.",
       "explanation": "Refers to Dawood Ibrahim; Calm claims he has defeated many people who tried to act like big-time gangsters.",
@@ -182,6 +198,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "ढूंढे यहाँ पे clout",
+      "romanized": "Dhoondhe yahaan pe clout",
       "speaker": "Calm",
       "translation": "Searching for clout here.",
       "explanation": "Criticizing people who try to associate with them just for social media fame.",
@@ -201,6 +218,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "इन्हें देता कोई नहीं भाव मेरी table पे",
+      "romanized": "Inhen detaa koee naheen bhaava meree table pe",
       "speaker": "Calm",
       "translation": "Nobody gives them any importance at my table.",
       "explanation": "Refers to the 'exclusive' nature of his success and his inner circle.",
@@ -215,6 +233,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "नशा और नींद",
+      "romanized": "Nashaa aura neenda",
       "speaker": "Encore ABJ",
       "translation": "Intoxication and sleep.",
       "explanation": "Describing his current state of mind, alternating between being high and resting.",
@@ -222,6 +241,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "मुझे चीज़ें ना समझ में आये",
+      "romanized": "Mujhe cheezen naa samajha men aaye",
       "speaker": "Encore ABJ",
       "translation": "I don't understand things.",
       "explanation": "Refers to a state of being disconnected from mundane reality due to success or substances.",
@@ -229,6 +249,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "Smokin' on the greens",
+      "romanized": "Smokin' on the greens",
       "speaker": "Encore ABJ",
       "translation": "Smoking marijuana.",
       "explanation": "Greens is a common slang for weed.",
@@ -236,6 +257,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "साड़ी आँख लाल होती जाए",
+      "romanized": "Saaree aankha laala hotee jaae",
       "speaker": "Encore ABJ",
       "translation": "My eyes keep getting red.",
       "explanation": "A literal description of the effect of smoking weed.",
@@ -250,6 +272,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "I'm just a fiend for the last fat booty [?]",
+      "romanized": "I'm just a fiend for the last fat booty [?]",
       "speaker": "Encore ABJ",
       "translation": "I'm just an addict for that physical attraction.",
       "explanation": "Standard hip-hop bravado regarding his interests.",
@@ -257,6 +280,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "वो नंबर देरी, I don’t call her back",
+      "romanized": "Vo nanbara deree, I don’t call her back",
       "speaker": "Encore ABJ",
       "translation": "She gives me her number, but I don't call her back.",
       "explanation": "A flex of status where he doesn't need to chase anyone.",
@@ -264,6 +288,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "ना",
+      "romanized": "Naa",
       "speaker": "Encore ABJ",
       "translation": "No.",
       "explanation": "Simple negation for emphasis.",
@@ -271,6 +296,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "Undefeated (Aah!), double teamin' (Brr)",
+      "romanized": "Undefeated (Aah!), double teamin' (Brr)",
       "speaker": "Calm",
       "translation": "Unbeaten, double teaming.",
       "explanation": "Refers to Seedhe Maut's status as an undefeated duo in the rap game.",
@@ -285,6 +311,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "दिखे numbers peakin' (Yo!)",
+      "romanized": "Dikhe numbers peakin' (Yo!)",
       "speaker": "Calm",
       "translation": "Seeing the numbers peak.",
       "explanation": "Reference to their streaming stats and commercial success hitting new highs.",
@@ -292,6 +319,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "Ain't nobody beefin' (कोई नहीं)",
+      "romanized": "Ain't nobody beefin' (koee naheen)",
       "speaker": "Calm",
       "translation": "Nobody wants to start a fight.",
       "explanation": "Asserting that they are too formidable for anyone to challenge them to a 'beef'.",
@@ -299,6 +327,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "Mayweather वाली feeling",
+      "romanized": "Maywaeather vaalee feeling",
       "speaker": "Calm",
       "translation": "Feeling like Floyd Mayweather.",
       "explanation": "Mayweather is a boxer famous for his 50-0 undefeated record.",
@@ -306,6 +335,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "तेरा भाई undefeated (Undefeated)",
+      "romanized": "Teraa bhaaee undefeated (Undefeated)",
       "speaker": "Calm",
       "translation": "Your brother is undefeated.",
       "explanation": "Reiterating their winning streak in the DHH scene.",
@@ -320,6 +350,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "Gaane dealing (Yo!)",
+      "romanized": "Gaane dealing (Yo!)",
       "speaker": "Calm",
       "translation": "Dealing songs (like drugs).",
       "explanation": "A metaphor comparing their music to high-demand contraband.",
@@ -327,6 +358,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "तेरी बंदी stealin' (आजा)",
+      "romanized": "Teree bandee stealin' (aajaa)",
       "speaker": "Calm",
       "translation": "Stealing your girl.",
       "explanation": "Classic competitive hip-hop trope.",
@@ -334,6 +366,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "हाँ जी, गिरे हुए लड़के beamin'",
+      "romanized": "Haan jee, gire hue larake beamin'",
       "speaker": "Calm",
       "translation": "Yes sir, the 'fallen' boys are shining.",
       "explanation": "A play on 'Gire hue ladke' (low-lives), reclaiming the term to show how far they've come.",
@@ -341,6 +374,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "Scheming Seedhe Maut season",
+      "romanized": "Scheming Seedhe Maut season",
       "speaker": "Calm",
       "translation": "Planning things, it's Seedhe Maut season.",
       "explanation": "Declaring that they currently dominate the rap landscape.",
@@ -348,6 +382,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "Yeah",
+      "romanized": "Yeah",
       "speaker": "Qaab",
       "translation": "Yeah.",
       "explanation": "Standard ad-lib.",
@@ -355,6 +390,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "कितने बजे in the kitchen, देखी नी clock (Clock)",
+      "romanized": "Kitane baje in the kitchen, dekhee nee clock (Clock)",
       "speaker": "Qaab",
       "translation": "Don't know what time it is in the kitchen, didn't check the clock.",
       "explanation": "'Kitchen' refers to the studio or the place where they 'cook' hits/drugs. He's too focused to track time.",
@@ -362,6 +398,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "I'm back, never left though, हर season में hot (Hot)",
+      "romanized": "I'm back, never left though, hara season men hot (Hot)",
       "speaker": "Qaab",
       "translation": "I'm back, though I never left, staying hot in every season.",
       "explanation": "Asserting consistency and relevance regardless of the time of year.",
@@ -369,6 +406,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "No stress, मसले भाई खुद से कर लेगा solve (Solve)",
+      "romanized": "No stress, masale bhaaee khuda se kara legaa solve (Solve)",
       "speaker": "Qaab",
       "translation": "No stress, brother will solve the issues himself.",
       "explanation": "Emphasizing self-reliance and the ability to handle 'masle' (problems/beefs) without help.",
@@ -376,6 +414,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "I'm blessed, जेबों में पेटी रख के करूँ ball (Ball)",
+      "romanized": "I'm blessed, jebon men petee rakha ke karoon ball (Ball)",
       "speaker": "Qaab",
       "translation": "I'm blessed, balling with lakhs in my pocket.",
       "explanation": "'Peti' is slang for 1 Lakh rupees. 'Ball' means to live a lavish lifestyle.",
@@ -389,6 +428,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "कितने बजे in the kitchen, देखी नी clock (Clock)",
+      "romanized": "Kitane baje in the kitchen, dekhee nee clock (Clock)",
       "speaker": "Qaab",
       "translation": "What time is it in the kitchen? Didn't check the clock.",
       "explanation": "Repeat of the hook highlighting the grind.",
@@ -396,6 +436,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "I'm back, never left though, हर season में hot (Hot)",
+      "romanized": "I'm back, never left though, hara season men hot (Hot)",
       "speaker": "Qaab",
       "translation": "I'm back, never left, hot every season.",
       "explanation": "Consistency in the game.",
@@ -403,6 +444,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "No stress, मसले भाई खुद से कर लेगा solve (Solve)",
+      "romanized": "No stress, masale bhaaee khuda se kara legaa solve (Solve)",
       "speaker": "Qaab",
       "translation": "No stress, brother will solve the issues himself.",
       "explanation": "Reiterating self-reliance.",
@@ -410,6 +452,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "I'm blessed, जेबों में पेटी रख के करूँ ball",
+      "romanized": "I'm blessed, jebon men petee rakha ke karoon ball",
       "speaker": "Qaab",
       "translation": "I'm blessed, balling with a 'peti' in my pocket.",
       "explanation": "Showing off financial success.",
@@ -417,6 +460,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "Nowhere to run, nowhere to hide",
+      "romanized": "Nowhere to run, nowhere to hide",
       "speaker": "Rebel 7",
       "translation": "Nowhere to run, nowhere to hide.",
       "explanation": "Rebel 7 asserts that there is no escape for his enemies/competition.",
@@ -424,6 +468,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "You already know, I'm one of a kind",
+      "romanized": "You already know, I'm one of a kind",
       "speaker": "Rebel 7",
       "translation": "You already know, I'm one of a kind.",
       "explanation": "Claiming uniqueness and originality in his craft.",
@@ -431,6 +476,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "बनना मिसाल, गले missile",
+      "romanized": "Bananaa misaala, gale missile",
       "speaker": "Rebel 7",
       "translation": "Become an example, my throat is a missile.",
       "explanation": "A wordplay comparing his vocal delivery to an explosive weapon.",
@@ -444,6 +490,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "मेहनत करी मैंने free के नहीं खाए",
+      "romanized": "Mehanata karee mainne free ke naheen khaae",
       "speaker": "Rebel 7",
       "translation": "I worked hard, didn't eat for free.",
       "explanation": "Expressing that his success is earned through struggle, not handouts.",
@@ -451,6 +498,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "जो भी गाने सुनते, आके feel लेके जाए",
+      "romanized": "Jo bhee gaane sunate, aake feel leke jaae",
       "speaker": "Rebel 7",
       "translation": "Whoever listens to my songs, they leave with the vibe.",
       "explanation": "His music is designed to be deeply immersive and atmospheric.",
@@ -458,6 +506,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "Mission do or die, खेल जुआ ये",
+      "romanized": "Mission do or die, khela juaa ye",
       "speaker": "Rebel 7",
       "translation": "Mission: do or die, this game is a gamble.",
       "explanation": "Acknowledging the high risk and total commitment required in the rap game.",
@@ -465,6 +514,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "बंदे gassed up, मुँह फुलाते",
+      "romanized": "Bande gassed up, munha phulaate",
       "speaker": "Rebel 7",
       "translation": "People are gassed up, pouting/acting tough.",
       "explanation": "Criticizing people who have fake egos or are easily offended.",
@@ -472,6 +522,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "मुझे भरना रहता मेरा पूरा पेट",
+      "romanized": "Mujhe bharanaa rahataa meraa pooraa peta",
       "speaker": "Rebel 7",
       "translation": "I just need to keep my stomach full.",
       "explanation": "A metaphor for the 'hunger' for success and basic survival.",
@@ -479,6 +530,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "करा सूना देख मैंने पूरा खेल",
+      "romanized": "Karaa soonaa dekha mainne pooraa khela",
       "speaker": "Rebel 7",
       "translation": "Look, I've cleared out the whole game.",
       "explanation": "Claiming that he has made the competition irrelevant/silent.",
@@ -493,6 +545,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "करे गुनाह तो फिर दो गुना ले",
+      "romanized": "Kare gunaaha to phira do gunaa le",
       "speaker": "Rebel 7",
       "translation": "If you commit a sin, receive it back twofold.",
       "explanation": "A warning of karma or retribution for those who cross him.",
@@ -500,6 +553,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "जिनमे चुल भरी भर दूँ पूरा छेद",
+      "romanized": "Jiname chula bharee bhara doon pooraa chheda",
       "speaker": "Rebel 7",
       "translation": "Those who have an 'itch', I'll fill them with holes.",
       "explanation": "'Chul' means an itch/restlessness. This is a violent metaphor for dealing with troublemakers.",
@@ -513,6 +567,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "जान छुड़ा ले या माँ चुदा ले",
+      "romanized": "Jaana chhuraa le yaa maan chudaa le",
       "speaker": "Rebel 7",
       "translation": "Save your life or get f***ed.",
       "explanation": "A raw and aggressive ultimatum commonly used in hardcore Delhi rap.",
@@ -526,6 +581,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "काम पूरा चाहिए तो माल पूरा दे",
+      "romanized": "Kaama pooraa chaahie to maala pooraa de",
       "speaker": "Rebel 7",
       "translation": "If you want the work done, give the full payment.",
       "explanation": "Refers to street ethics/professionalism—nothing is done without proper compensation.",
@@ -533,6 +589,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "हाथ घूमा तो फिर गाल पूरा दे",
+      "romanized": "Haatha ghoomaa to phira gaala pooraa de",
       "speaker": "Rebel 7",
       "translation": "If my hand swings, give me your whole cheek.",
       "explanation": "A threat of physical violence (slapping).",
@@ -540,6 +597,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "पैरी पौना करते लौंडे खुद आके",
+      "romanized": "Pairee paunaa karate launde khuda aake",
       "speaker": "Rebel 7",
       "translation": "Boys come and touch my feet themselves.",
       "explanation": "'Pairi Pauna' is a respectful Punjabi greeting; it shows his high status among younger rappers.",
@@ -553,6 +611,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "झुकना सिर्फ सीखा आगे खुदा के",
+      "romanized": "Jhukanaa sirpha seekhaa aage khudaa ke",
       "speaker": "Rebel 7",
       "translation": "I only learned to bow before God.",
       "explanation": "Asserting pride—he doesn't fear or submit to any man.",
@@ -560,6 +619,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "कितने बजे in the kitchen, देखी नी clock (Clock)",
+      "romanized": "Kitane baje in the kitchen, dekhee nee clock (Clock)",
       "speaker": "Qaab",
       "translation": "What time is it in the kitchen? Didn't check the clock.",
       "explanation": "Repeat of hook.",
@@ -567,6 +627,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "I'm back, never left though, हर season में hot (Hot)",
+      "romanized": "I'm back, never left though, hara season men hot (Hot)",
       "speaker": "Qaab",
       "translation": "I'm back, never left, hot every season.",
       "explanation": "Repeat of hook.",
@@ -574,6 +635,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "No stress, मसले भाई खुद से कर लेगा solve (Solve)",
+      "romanized": "No stress, masale bhaaee khuda se kara legaa solve (Solve)",
       "speaker": "Qaab",
       "translation": "No stress, brother will solve the issues himself.",
       "explanation": "Repeat of hook.",
@@ -581,6 +643,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "I'm blessed, जेबों में पेटी रख के करूँ ball (Ball)",
+      "romanized": "I'm blessed, jebon men petee rakha ke karoon ball (Ball)",
       "speaker": "Qaab",
       "translation": "I'm blessed, balling with a peti.",
       "explanation": "Repeat of hook.",
@@ -588,6 +651,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "कितने बजे in the kitchen, देखी नी clock (Clock)",
+      "romanized": "Kitane baje in the kitchen, dekhee nee clock (Clock)",
       "speaker": "Qaab",
       "translation": "What time is it? Didn't check the clock.",
       "explanation": "Repeat of hook.",
@@ -595,6 +659,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "I'm back, never left though, हर season में hot (Hot)",
+      "romanized": "I'm back, never left though, hara season men hot (Hot)",
       "speaker": "Qaab",
       "translation": "I'm back, never left, hot every season.",
       "explanation": "Repeat of hook.",
@@ -602,6 +667,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "No stress, मसले भाई खुद से कर लेगा solve (Solve)",
+      "romanized": "No stress, masale bhaaee khuda se kara legaa solve (Solve)",
       "speaker": "Qaab",
       "translation": "No stress, brother will solve the issues himself.",
       "explanation": "Repeat of hook.",
@@ -609,6 +675,7 @@ export const naam_kaam_sheher: Song = {
     },
     {
       "original": "I'm blessed, जेबों में पेटी रख के करूँ ball",
+      "romanized": "I'm blessed, jebon men petee rakha ke karoon ball",
       "speaker": "Qaab",
       "translation": "I'm blessed, balling with a peti.",
       "explanation": "Repeat of hook.",

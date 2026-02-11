@@ -10,6 +10,7 @@ export const naraaz: Song = {
   "lyrics": [
     {
       "original": "Seedhe Maut - Naraaz",
+      "devanagari": "Seedhe Maut - नाराज़",
       "annotations": [
         {
           "text": "Seedhe Maut - Naraaz",
@@ -20,25 +21,31 @@ export const naraaz: Song = {
       ]
     },
     {
-      "original": "[Verse 1: Encore ABJ]"
+      "original": "[Verse 1: Encore ABJ]",
+      "devanagari": "[Verse 1: Encore ABJ]"
     },
     {
-      "original": "Naraaz kyu hai batade mujhko"
+      "original": "Naraaz kyu hai batade mujhko",
+      "devanagari": "नाराज़ क्यूँ है बतादे मुझको"
     },
     {
       "original": "Kya maine aisa kar diya jo chhod gaya tu raaste pe humko",
+      "devanagari": "क्या मैंने ऐसा कर दिया जो छोड़ गया तू रास्ते पे हमको",
       "annotations": [
 
       ]
     },
     {
-      "original": "Saath chala tha tu bhai banke"
+      "original": "Saath chala tha tu bhai banke",
+      "devanagari": "साथ चला था तू भाई बनके"
     },
     {
-      "original": "Ab bhatak raha hoon main tanhayi mein"
+      "original": "Ab bhatak raha hoon main tanhayi mein",
+      "devanagari": "अब भटक रहा हूँ मैं तन्हाई में"
     },
     {
       "original": "Calm on the beat, Seedhe Maut on the mic",
+      "devanagari": "Calm on the beat, Seedhe Maut on the mic",
       "annotations": [
         {
           "text": "Calm on the beat, Seedhe Maut on the mic",
@@ -50,6 +57,7 @@ export const naraaz: Song = {
     },
     {
       "original": "TBSM for life",
+      "devanagari": "TBSM for life",
       "annotations": [
         {
           "text": "TBSM for life",

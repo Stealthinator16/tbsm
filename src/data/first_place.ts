@@ -9,6 +9,7 @@ export const first_place: Song = {
   "lyrics": [
     {
       "original": "Maybe we oughta load the gun now, to be sure, huh?",
+      "romanized": "Maybe we oughta load the gun now, to be sure, huh?",
       "speaker": "Unknown",
       "translation": "Maybe we should load the gun now, just to be sure, huh?",
       "explanation": "A cinematic audio sample that sets a dark and aggressive tone for the track, common in Seedhe Maut's storytelling style.",
@@ -16,6 +17,7 @@ export const first_place: Song = {
     },
     {
       "original": "बन्दे हैं first place, दो लौंडे भारी हैं दस पे",
+      "romanized": "bande hain first place, do launde bhaaree hain das pe",
       "speaker": "Encore ABJ",
       "translation": "We are in first place; these two guys outweigh any ten others.",
       "explanation": "Encore asserts their dominance in the rap scene. The 'two guys' (Seedhe Maut) are more skilled and impactful than a group of ten rappers.",
@@ -35,6 +37,7 @@ export const first_place: Song = {
     },
     {
       "original": "बड़ों को बोलो, \"नमस्ते!\", हम सब से बड़े ये बच्चे (नमस्ते uncle)",
+      "romanized": "ban ko bolo, \"namaste!\", ham sab se ba ye bachche (namaste uncle)",
       "speaker": "Encore ABJ",
       "translation": "Say 'Namaste' to the elders; we 'kids' are bigger than everyone.",
       "explanation": "A sarcastic jab at seniors in the industry. Despite being younger ('kids'), their stature and skill surpass the veterans.",
@@ -48,6 +51,7 @@ export const first_place: Song = {
     },
     {
       "original": "I mean, है worst case, number नहीं आएँगे भर के",
+      "romanized": "I mean, hai worst case, number naheen aaenge bhar ke",
       "speaker": "Encore ABJ",
       "translation": "I mean, in the worst-case scenario, we won't get massive streaming numbers.",
       "explanation": "Encore acknowledges that their core hip-hop sound might not always pull mainstream 'viral' numbers, but they are okay with that.",
@@ -61,6 +65,7 @@ export const first_place: Song = {
     },
     {
       "original": "Number नहीं आएँगे, ना आए",
+      "romanized": "Number naheen aaenge, naa aae",
       "speaker": "Encore ABJ",
       "translation": "If the numbers don't come, so be it.",
       "explanation": "A statement of artistic integrity; they value the quality of music over commercial metrics.",
@@ -68,6 +73,7 @@ export const first_place: Song = {
     },
     {
       "original": "Seedhe Maut cult है, need no ally",
+      "romanized": "Seedhe Maut cult hai, need no ally",
       "speaker": "Encore ABJ",
       "translation": "Seedhe Maut is a cult; we don't need any allies.",
       "explanation": "Reference to their dedicated fanbase (TBSM). They don't need industry 'allies' or fake collaborations to succeed.",
@@ -81,6 +87,7 @@ export const first_place: Song = {
     },
     {
       "original": "I go through shit, ज़िन्दगी का तुझे पता है",
+      "romanized": "I go through shit, ndagee kaa tujhe pataa hai",
       "speaker": "Encore ABJ",
       "translation": "I go through shit, you know how life is.",
       "explanation": "Acknowledging personal hardships and the universal struggles of life.",
@@ -88,6 +95,7 @@ export const first_place: Song = {
     },
     {
       "original": "तेरा दोस्त आज तेरा सगा है",
+      "romanized": "teraa dost aaj teraa sagaa hai",
       "speaker": "Encore ABJ",
       "translation": "Your friend is your own (loyal) today.",
       "explanation": "Setting up a warning that loyalty can be temporary.",
@@ -101,6 +109,7 @@ export const first_place: Song = {
     },
     {
       "original": "वो कल तुझे डस सकता है, समझा?",
+      "romanized": "vo kal tujhe das sakataa hai, samajhaa?",
       "speaker": "Encore ABJ",
       "translation": "He might bite (betray) you tomorrow, understand?",
       "explanation": "Using the metaphor of a snake to describe backstabbing friends.",
@@ -114,6 +123,7 @@ export const first_place: Song = {
     },
     {
       "original": "हाथ दो बचाने, ये खींचके डुबाएँगे",
+      "romanized": "haath do bachaane, ye kheenchake dubaaenge",
       "speaker": "Calm",
       "translation": "Reach out a hand to save them, and they'll pull you down to drown.",
       "explanation": "Calm warns about ungrateful people who hurt those trying to help them.",
@@ -121,6 +131,7 @@ export const first_place: Song = {
     },
     {
       "original": "पीछे क्यों आऊँ अगर कूदोगे खाई में?",
+      "romanized": "peechhe kyon aaoon agar koodoge khaaee men?",
       "speaker": "Calm",
       "translation": "Why would I follow you if you jump into an abyss?",
       "explanation": "Refusing to be dragged down by the self-destructive habits of others.",
@@ -134,6 +145,7 @@ export const first_place: Song = {
     },
     {
       "original": "दिल्ली में रहता पर office मुंबई में",
+      "romanized": "dillee men rahataa par office munbaee men",
       "speaker": "Calm",
       "translation": "I live in Delhi, but my office is in Mumbai.",
       "explanation": "Calm stays rooted in Delhi but does his business/industry work in the entertainment hub, Mumbai.",
@@ -141,6 +153,7 @@ export const first_place: Song = {
     },
     {
       "original": "Time पे दो पैसा, बकचोदी नहीं भाई से",
+      "romanized": "Time pe do paisaa, bakachodee naheen bhaaee se",
       "speaker": "Calm",
       "translation": "Pay me on time, no nonsense with your brother.",
       "explanation": "Demanding professional respect and timely payment for their work.",
@@ -154,6 +167,7 @@ export const first_place: Song = {
     },
     {
       "original": "They don’t surprise me",
+      "romanized": "They don’t surprise me",
       "speaker": "Calm",
       "translation": "They don’t surprise me.",
       "explanation": "Calm has seen through the fake nature of people in the industry.",
@@ -161,6 +175,7 @@ export const first_place: Song = {
     },
     {
       "original": "ये ना दिखाई दें",
+      "romanized": "ye naa dikhaaee den",
       "speaker": "Calm",
       "translation": "May they not be seen.",
       "explanation": "Wishing to stay away from toxic or fake individuals.",
@@ -168,6 +183,7 @@ export const first_place: Song = {
     },
     {
       "original": "मैं मरूँगा झाई में",
+      "romanized": "main maroongaa jhaaee men",
       "speaker": "Calm",
       "translation": "I will die in the glare (or haze).",
       "explanation": "'Jhai' can refer to a shadow or a blur; possibly meaning dying while being fully immersed in his craft/vibe.",
@@ -181,6 +197,7 @@ export const first_place: Song = {
     },
     {
       "original": "हूँ first place पर बोहूत time से",
+      "romanized": "hoon first place par bohoot time se",
       "speaker": "Calm",
       "translation": "I've been in first place for a very long time.",
       "explanation": "Reiterating their long-standing dominance in the Indian hip-hop scene.",
@@ -188,6 +205,7 @@ export const first_place: Song = {
     },
     {
       "original": "इस game के Ali और Tyson",
+      "romanized": "is game ke Ali aur Tyson",
       "speaker": "Calm",
       "translation": "The Ali and Tyson of this game.",
       "explanation": "Comparing the duo to Muhammad Ali and Mike Tyson—symbols of greatness and raw power.",
@@ -206,6 +224,7 @@ export const first_place: Song = {
     },
     {
       "original": "Look at my neck",
+      "romanized": "Look at my neck",
       "speaker": "Calm",
       "translation": "Look at my neck.",
       "explanation": "A common hip-hop trope referring to jewelry (ice) or the heavy 'weight' of his responsibilities.",
@@ -220,6 +239,7 @@ export const first_place: Song = {
     },
     {
       "original": "लूँ सोना, लूँ property, करूँ invest",
+      "romanized": "loon sonaa, loon property, karoon invest",
       "speaker": "Calm",
       "translation": "I buy gold, I buy property, I invest.",
       "explanation": "Highlighting their financial growth and shift toward long-term wealth building.",
@@ -227,6 +247,7 @@ export const first_place: Song = {
     },
     {
       "original": "फूँकू ये जोटा to cope with the mess",
+      "romanized": "phoonkoo ye jotaa to cope with the mess",
       "speaker": "Calm",
       "translation": "I smoke this joint to cope with the mess.",
       "explanation": "Using cannabis as a way to handle the stress of their chaotic lifestyle.",
@@ -240,6 +261,7 @@ export const first_place: Song = {
     },
     {
       "original": "जाके गली के बच्चों से पूछो, \"The best?\" तेरा भाई",
+      "romanized": "jaake galee ke bachchon se poochho, \"The best?\" teraa bhaaee",
       "speaker": "Calm",
       "translation": "Go ask the kids in the street, \"Who's the best?\" Your brother.",
       "explanation": "Claiming 'street cred'—they are the favorites of the actual youth on the ground.",
@@ -254,6 +276,7 @@ export const first_place: Song = {
     },
     {
       "original": "बन्धे हैं first place, दो लौंडे भारी हैं दस पे",
+      "romanized": "bandhe hain first place, do launde bhaaree hain das pe",
       "speaker": "Encore ABJ",
       "translation": "We are in first place; these two guys outweigh any ten others.",
       "explanation": "Chorus repeat: emphasizing their superiority.",
@@ -261,6 +284,7 @@ export const first_place: Song = {
     },
     {
       "original": "बड़ों को बोलो, \"नमस्ते!\", हम सब से बड़े ये बच्चे",
+      "romanized": "ban ko bolo, \"namaste!\", ham sab se ba ye bachche",
       "speaker": "Encore ABJ",
       "translation": "Tell the elders 'Namaste'; we 'kids' are bigger than everyone.",
       "explanation": "Chorus repeat: highlighting their impact despite their age.",
@@ -268,6 +292,7 @@ export const first_place: Song = {
     },
     {
       "original": "I mean, है worst case, number नहीं आएँगे भर के",
+      "romanized": "I mean, hai worst case, number naheen aaenge bhar ke",
       "speaker": "Encore ABJ",
       "translation": "I mean, in the worst-case scenario, we won't get massive numbers.",
       "explanation": "Chorus repeat: prioritizing art over stats.",
@@ -275,6 +300,7 @@ export const first_place: Song = {
     },
     {
       "original": "(Laughter)",
+      "romanized": "(Laughter)",
       "speaker": "Encore ABJ",
       "translation": "(Laughter)",
       "explanation": "Encore laughs at the industry's obsession with numbers or at his haters.",
@@ -282,6 +308,7 @@ export const first_place: Song = {
     },
     {
       "original": "High power, skyscraper",
+      "romanized": "High power, skyscraper",
       "speaker": "Calm",
       "translation": "High power, skyscraper.",
       "explanation": "Comparing their status and perspective to a tall building.",
@@ -289,6 +316,7 @@ export const first_place: Song = {
     },
     {
       "original": "तेरी bitch taker",
+      "romanized": "teree bitch taker",
       "speaker": "Calm",
       "translation": "One who takes your girl.",
       "explanation": "Classic hip-hop braggadocio.",
@@ -296,6 +324,7 @@ export const first_place: Song = {
     },
     {
       "original": "I don't got no time for your bullshit",
+      "romanized": "I don't got no time for your bullshit",
       "speaker": "Calm",
       "translation": "I don't have time for your bullshit.",
       "explanation": "Staying focused on goals and ignoring distractions.",
@@ -303,6 +332,7 @@ export const first_place: Song = {
     },
     {
       "original": "ये थाली में छेद करें",
+      "romanized": "ye thaalee men chhed karen",
       "speaker": "Calm",
       "translation": "They bite the hand that feeds them.",
       "explanation": "Reference to the idiom 'Jis thali mein khana usi mein ched karna' regarding betrayal.",
@@ -316,6 +346,7 @@ export const first_place: Song = {
     },
     {
       "original": "ये साले सारे ग़द्दार हैं",
+      "romanized": "ye saale saare gaddaar hain",
       "speaker": "Encore ABJ",
       "translation": "These guys are all traitors.",
       "explanation": "A direct accusation towards former associates who turned on them.",
@@ -329,6 +360,7 @@ export const first_place: Song = {
     },
     {
       "original": "मैं दोस्ती निभाने में आगे तो बन्दे हैं फायदा उठा रहे",
+      "romanized": "main dostee nibhaane men aage to bande hain phaayadaa uthaa rahe",
       "speaker": "Encore ABJ",
       "translation": "I am ahead in being a loyal friend, so people are taking advantage of me.",
       "explanation": "Encore reflects on how his loyalty has been exploited by others.",
@@ -336,6 +368,7 @@ export const first_place: Song = {
     },
     {
       "original": "मैं जिन बन्दों से यहाँ था उसे बचा रहा",
+      "romanized": "main jin bandon se yahaan thaa use bachaa rahaa",
       "speaker": "Encore ABJ",
       "translation": "I was saving the person from the guys I was with.",
       "explanation": "Encore mentions a specific situation where he protected a friend from his own circle.",
@@ -343,6 +376,7 @@ export const first_place: Song = {
     },
     {
       "original": "वो उन्हीं बन्दों को लाया मुझे पिटवाने",
+      "romanized": "vo unheen bandon ko laayaa mujhe pitavaane",
       "speaker": "Encore ABJ",
       "translation": "He brought those same guys back to get me beaten up.",
       "explanation": "A reference to a real-life betrayal where the person Encore helped conspired to physically attack him.",
@@ -357,6 +391,7 @@ export const first_place: Song = {
     },
     {
       "original": "Oh no!",
+      "romanized": "Oh no!",
       "speaker": "Encore ABJ",
       "translation": "Oh no!",
       "explanation": "An exclamation of disbelief or mockery at the situation.",
@@ -371,6 +406,7 @@ export const first_place: Song = {
     },
     {
       "original": "मैं आज कल रहता हूँ busy अगर खाली हूँ तो भेजा देता है BT",
+      "romanized": "main aaj kal rahataa hoon busy agar khaalee hoon to bhejaa detaa hai BT",
       "speaker": "Encore ABJ",
       "translation": "I stay busy lately; if I'm idle, my mind gives me 'BT' (stress).",
       "explanation": "'BT' is slang for a Bad Trip or mental distress. Encore needs work to avoid overthinking.",
@@ -390,6 +426,7 @@ export const first_place: Song = {
     },
     {
       "original": "मैं करम पे चलता, तू रख अपने रीति-रिवाज़",
+      "romanized": "main karam pe chalataa, too rakh apane reeti-rivaaz",
       "speaker": "Encore ABJ",
       "translation": "I live by my deeds (Karma); you keep your traditions.",
       "explanation": "He believes in actions and consequences rather than just following empty societal or religious rituals.",
@@ -408,6 +445,7 @@ export const first_place: Song = {
     },
     {
       "original": "यहाँ कोई जाने ना क्या मुझपे बीती, okay?",
+      "romanized": "yahaan koee jaane naa kyaa mujhape beetee, okay?",
       "speaker": "Encore ABJ",
       "translation": "No one here knows what I've been through, okay?",
       "explanation": "Highlighting the internal struggles that remain hidden from the public eye.",
@@ -415,6 +453,7 @@ export const first_place: Song = {
     },
     {
       "original": "बन्धे हैं first place, दो लौंडे भारी हैं दस पे",
+      "romanized": "bandhe hain first place, do launde bhaaree hain das pe",
       "speaker": "Encore ABJ",
       "translation": "We are in first place; these two guys outweigh any ten others.",
       "explanation": "Chorus repeat.",
@@ -422,6 +461,7 @@ export const first_place: Song = {
     },
     {
       "original": "बड़ों को बोलो, \"नमस्ते!\", हम सब से बड़े ये बच्चे",
+      "romanized": "ban ko bolo, \"namaste!\", ham sab se ba ye bachche",
       "speaker": "Encore ABJ",
       "translation": "Tell the elders 'Namaste'; we 'kids' are bigger than everyone.",
       "explanation": "Chorus repeat.",
@@ -436,6 +476,7 @@ export const first_place: Song = {
     },
     {
       "original": "I mean, है worst case, number नहीं आएँगे भर के",
+      "romanized": "I mean, hai worst case, number naheen aaenge bhar ke",
       "speaker": "Encore ABJ",
       "translation": "I mean, in the worst-case scenario, we won't get massive numbers.",
       "explanation": "Chorus repeat.",
@@ -450,6 +491,7 @@ export const first_place: Song = {
     },
     {
       "original": "(Number— Numbеr— Number—)",
+      "romanized": "(Number— Numbеr— Number—)",
       "speaker": "Encore ABJ",
       "translation": "(Number— Numbеr— Number—)",
       "explanation": "Fading out with a focus on the word 'number,' mocking the industry's fixation on stats.",

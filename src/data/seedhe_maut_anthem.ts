@@ -10,6 +10,7 @@ export const seedhe_maut_anthem: Song = {
   "lyrics": [
     {
       "original": "(Sez On The Beat Boy)",
+      "devanagari": "(Sez On The Beat Boy)",
       "speaker": "Seedhe Maut",
       "translation": "(Sez On The Beat Boy)",
       "explanation": "The producer tag of Sez On The Beat, widely considered the most influential producer in the Indian Hip Hop scene.",
@@ -23,6 +24,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ye mera khel meri chal hai",
+      "devanagari": "ये मेरा खेल मेरी चाल है",
       "speaker": "Calm & Encore",
       "translation": "This is my game, this is my move.",
       "explanation": "Comparing the rap game to a calculated game of chess where they are in control.",
@@ -36,6 +38,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ye mera khel meri chal hai",
+      "devanagari": "ये मेरा खेल मेरी चाल है",
       "speaker": "Calm & Encore",
       "translation": "This is my game, this is my move.",
       "explanation": "Repetition emphasizing their dominance and strategic approach to their career.",
@@ -43,6 +46,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Bawah... bawah ye seedhe maut...",
+      "devanagari": "बवाह... बवाह ये सीधे मौत...",
       "speaker": "Calm & Encore",
       "translation": "Bawah... bawah this is Seedhe Maut...",
       "explanation": "'Bawah' is a signature Delhi slang term popularized by Seedhe Maut, used to address a friend or 'homie'.",
@@ -56,6 +60,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Haan to chup, pehle mujhe kehn do",
+      "devanagari": "हाँ तो चुप, पहले मुझे कहन दो",
       "speaker": "Encore",
       "translation": "So shut up, let me speak first.",
       "explanation": "Encore demanding silence and undivided attention before he starts his verse.",
@@ -63,6 +68,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Kaan khule choro aur jaban bandh rehne do",
+      "devanagari": "कान खुले छोरो और जबान बंद रहने दो",
       "speaker": "Encore",
       "translation": "Keep your ears open and your mouth shut.",
       "explanation": "A direct command to the listeners/rivals to absorb the lyrics without interrupting.",
@@ -77,6 +83,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Laagi tujhe hawah, (cause you got fans bro)",
+      "devanagari": "लागी तुझे हवाह, (cause you got fans bro)",
       "speaker": "Encore",
       "translation": "You caught a breeze, (cause you got fans bro).",
       "explanation": "A double entendre on 'hawah lagna' (becoming arrogant/catching a breeze) and 'fans' (mechanical fans vs. supporters).",
@@ -95,6 +102,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Todu teri chain cheenu chaain jaise Django",
+      "devanagari": "तोडू तेरी chain छीनू चैन जैसे Django",
       "speaker": "Encore",
       "translation": "I'll break your chain and snatch your peace like Django.",
       "explanation": "Wordplay on 'Chain' (jewelry/bondage) and 'Chaain' (peace), referencing the movie 'Django Unchained'.",
@@ -108,6 +116,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Tu hai akela to maine thana, ke ab hai khana bana na",
+      "devanagari": "तू है अकेला तो मैंने ठाना, के अब है खाना बना ना",
       "speaker": "Encore",
       "translation": "You are alone so I've decided it's time to cook (make you my meal).",
       "explanation": "Encore uses the 'eating rappers' trope to signify how easily he can out-rap his competition.",
@@ -122,6 +131,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Naklio ko mu chabata, ye mera Khana Khazana",
+      "devanagari": "नकलियो को मुँ चबाता, ये मेरा खाना खज़ाना",
       "speaker": "Encore",
       "translation": "I chew up the fakes, this is my 'Khana Khazana'.",
       "explanation": "Referencing the famous Indian cooking show 'Khana Khazana'; he treats weak rappers like ingredients/food.",
@@ -135,6 +145,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Tu kaate par mai kata na, mai katu jaise Katana",
+      "devanagari": "तू काटे पर मैं कटा ना, मैं कटू जैसे Katana",
       "speaker": "Encore",
       "translation": "You try to cut me but I don't get cut; I cut like a Katana.",
       "explanation": "Lyrical sharpness compared to a Katana sword; he remains unscathed while delivering sharp bars.",
@@ -154,6 +165,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Tu fukta karta bahana, mai fuka karta Malana",
+      "devanagari": "तू फूकता करता बहाना, मैं फूका करता मलाना",
       "speaker": "Encore",
       "translation": "You smoke and make excuses, I smoke Malana.",
       "explanation": "Malana is a village in Himachal Pradesh famous for high-quality hash. He's comparing the quality of his 'smoke' (and art) to theirs.",
@@ -167,6 +179,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Mere saare peeche chupke, tik tik se",
+      "devanagari": "मेरे सारे पीछे छुपके, टिक टिक से",
       "speaker": "Encore",
       "translation": "Everyone is hiding behind me, with their ticking sounds.",
       "explanation": "Implies others are waiting for the right moment or making small noises while he takes the lead.",
@@ -174,6 +187,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Hum ek jagah ni hai tikte, khit pit se",
+      "devanagari": "हम एक जगह नी है टिकते, खिट पिट से",
       "speaker": "Encore",
       "translation": "We don't stay in one place, away from the bickering.",
       "explanation": "'Khit pit' refers to petty arguments; SM avoids drama by constantly evolving and moving forward.",
@@ -181,6 +195,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Bache. Tere saare gaane shit the, pit pit ke",
+      "devanagari": "बचे। तेरे सारे गाने shit थे, पिट पिट के",
       "speaker": "Encore",
       "translation": "Kid, all your songs were shit, even after being played to death.",
       "explanation": "Direct dismissal of the competition's musical quality.",
@@ -188,6 +203,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Par hum chhut te hi hit the, sick likh te",
+      "devanagari": "पर हम छूट ते ही hit थे, sick लिख ते",
       "speaker": "Encore",
       "translation": "But we were hits as soon as we dropped, because we write sick lyrics.",
       "explanation": "Refers to Seedhe Maut's rapid rise in the underground scene due to their superior technical ability.",
@@ -202,6 +218,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Janhit me hai baat jari, hai jo jaan pyari",
+      "devanagari": "जनहित में है बात जारी, है जो जान प्यारी",
       "speaker": "Encore",
       "translation": "Issued in public interest, if you value your life.",
       "explanation": "Phrasing his warning like a government PSA (Public Service Announcement).",
@@ -215,6 +232,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "To haat utha haowa me, tujhe ni hai jaankari",
+      "devanagari": "तो हाथ उठा हवा में, तुझे नी है जानकारी",
       "speaker": "Encore",
       "translation": "Then put your hands in the air, you have no idea.",
       "explanation": "Telling the audience to surrender to the music because they aren't aware of the power of SM yet.",
@@ -222,6 +240,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ke mai baantu gyan, par meri koi sanstha ni",
+      "devanagari": "के मैं बाँटू ज्ञान, पर मेरी कोई संस्था नी",
       "speaker": "Encore",
       "translation": "That I share knowledge, but I don't have an institution.",
       "explanation": "He provides wisdom through lyrics without being part of an official 'school' or label 'academy'.",
@@ -235,6 +254,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Mera baap hai hip-hop, mai aulad sanskari",
+      "devanagari": "मेरा बाप है hip-hop, मैं औलाद संस्कारी",
       "speaker": "Encore",
       "translation": "Hip-hop is my father, and I am a well-mannered child.",
       "explanation": "Irony: He is 'sanskari' (traditional/obedient) to the craft of Hip-hop, following its true essence unlike others.",
@@ -248,6 +268,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ye mera khel meri chaal hai",
+      "devanagari": "ये मेरा खेल मेरी चाल है",
       "speaker": "Encore",
       "translation": "This is my game, this is my move.",
       "explanation": "Reiteration of the strategic theme.",
@@ -255,6 +276,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ye mera jaal hai, hum lajawab hai, hum la ilaj hai...",
+      "devanagari": "ये मेरा जाल है, हम लाजवाब है, हम ला इलाज है...",
       "speaker": "Encore",
       "translation": "This is my trap, we are matchless, we are incurable.",
       "explanation": "'La-ilaj' suggests their skill is a condition that no one can fix or stop.",
@@ -262,6 +284,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Satranj khel... satranj chaal hai...",
+      "devanagari": "शतरंज खेल... शतरंज चाल है...",
       "speaker": "Encore",
       "translation": "Chess game... chess move...",
       "explanation": "Connecting his lyrics to the mental depth of chess.",
@@ -269,6 +292,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Agar ye tera Taj hai",
+      "devanagari": "अगर ये तेरा ताज है",
       "speaker": "Encore",
       "translation": "If this is your Taj (Crown/Palace).",
       "explanation": "Metaphor for someone's territory or peak status.",
@@ -283,6 +307,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "To hum yaha ke Ajmal Ali Kasab",
+      "devanagari": "तो हम यहाँ के Ajmal Ali Kasab",
       "speaker": "Encore",
       "translation": "Then we are the Ajmal Ali Kasab here.",
       "explanation": "An extremely aggressive and controversial reference to the 26/11 terrorist, used here as a metaphor for an 'attacker' who takes over a 'Taj' (The Taj Hotel).",
@@ -296,6 +321,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ye hai Seedhe maut",
+      "devanagari": "ये है सीधे मौत",
       "speaker": "Calm & Encore",
       "translation": "This is Seedhe Maut.",
       "explanation": "The central hook identifying the duo.",
@@ -303,6 +329,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Sunke isko khate adhe cheete khauf",
+      "devanagari": "सुनके इसको खाते आधे चीते खौफ",
       "speaker": "Calm & Encore",
       "translation": "Hearing this, even half the 'cheetahs' feel fear.",
       "explanation": "Even the fast and strong rappers are intimidated by their sound.",
@@ -316,6 +343,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ladke ladte sunke isko peeke bahut",
+      "devanagari": "लड़के लड़ते सुनके इसको पीके बहुत",
       "speaker": "Calm & Encore",
       "translation": "Boys fight after listening to this and drinking a lot.",
       "explanation": "Refers to the aggressive, mosh-pit energy their music induces in fans.",
@@ -323,6 +351,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ye hai Seedhe maut",
+      "devanagari": "ये है सीधे मौत",
       "speaker": "Calm & Encore",
       "translation": "This is Seedhe Maut.",
       "explanation": "Hook repetition.",
@@ -330,6 +359,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Sunke isko khate adhe cheete khauf",
+      "devanagari": "सुनके इसको खाते आधे चीते खौफ",
       "speaker": "Calm & Encore",
       "translation": "Hearing this, even half the 'cheetahs' feel fear.",
       "explanation": "Hook repetition.",
@@ -337,6 +367,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ladke ladte sunke isko peeke bahut",
+      "devanagari": "लड़के लड़ते सुनके इसको पीके बहुत",
       "speaker": "Calm & Encore",
       "translation": "Boys fight after listening to this and drinking a lot.",
       "explanation": "Hook repetition.",
@@ -344,6 +375,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ye hai Seedhe maut",
+      "devanagari": "ये है सीधे मौत",
       "speaker": "Calm & Encore",
       "translation": "This is Seedhe Maut.",
       "explanation": "Hook repetition.",
@@ -351,6 +383,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Sunke isko khate adhe cheete khauf",
+      "devanagari": "सुनके इसको खाते आधे चीते खौफ",
       "speaker": "Calm & Encore",
       "translation": "Hearing this, even half the 'cheetahs' feel fear.",
       "explanation": "Hook repetition.",
@@ -365,6 +398,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ladke ladte sunke isko peeke bahut",
+      "devanagari": "लड़के लड़ते सुनके इसको पीके बहुत",
       "speaker": "Calm & Encore",
       "translation": "Boys fight after listening to this and drinking a lot.",
       "explanation": "Hook repetition.",
@@ -372,6 +406,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ye hai Seedhe maut",
+      "devanagari": "ये है सीधे मौत",
       "speaker": "Calm & Encore",
       "translation": "This is Seedhe Maut.",
       "explanation": "Hook repetition.",
@@ -379,6 +414,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Sunke isko khate adhe cheete khauf",
+      "devanagari": "सुनके इसको खाते आधे चीते खौफ",
       "speaker": "Calm & Encore",
       "translation": "Hearing this, even half the 'cheetahs' feel fear.",
       "explanation": "Hook repetition.",
@@ -386,6 +422,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ladke ladte sunke isko peeke bahut",
+      "devanagari": "लड़के लड़ते सुनके इसको पीके बहुत",
       "speaker": "Calm & Encore",
       "translation": "Boys fight after listening to this and drinking a lot.",
       "explanation": "Hook repetition.",
@@ -393,6 +430,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Mind of a killer I considered I'll be quicker",
+      "devanagari": "Mind of a killer I considered I'll be quicker",
       "speaker": "Calm",
       "translation": "Mind of a killer, I thought I'd be quicker.",
       "explanation": "Calm starts his verse highlighting his competitive mindset and speed.",
@@ -400,6 +438,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "I figured my figures could trigger more followers",
+      "devanagari": "I figured my figures could trigger more followers",
       "speaker": "Calm",
       "translation": "I figured my earnings could trigger more followers.",
       "explanation": "Wordplay on 'figures' (math/money) and the social media impact of success.",
@@ -407,6 +446,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "On Twitter. Getting paid on recheck it's spending",
+      "devanagari": "On Twitter. Getting paid on recheck it's spending",
       "speaker": "Calm",
       "translation": "On Twitter. Getting paid and checking it again, it's being spent.",
       "explanation": "Talking about the cycle of making money and living the lifestyle.",
@@ -414,6 +454,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Riches on make a concentrating into bigger things",
+      "devanagari": "Riches on make a concentrating into bigger things",
       "speaker": "Calm",
       "translation": "Focusing my wealth on bigger objectives.",
       "explanation": "Transitioning from just making money to building a legacy.",
@@ -421,6 +462,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Get to be heavy haters",
+      "devanagari": "Get to be heavy haters",
       "speaker": "Calm",
       "translation": "There will be heavy haters.",
       "explanation": "Acknowledging that success inevitably brings critics.",
@@ -428,6 +470,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "I never knew, why hate us, our plan is fucked up",
+      "devanagari": "I never knew, why hate us, our plan is fucked up",
       "speaker": "Calm",
       "translation": "I never knew why they hate us; our plan is crazy.",
       "explanation": "Questioning the motive of haters when SM is just following their unique vision.",
@@ -442,6 +485,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Our planet, fucked up. From up we went down",
+      "devanagari": "Our planet, fucked up. From up we went down",
       "speaker": "Calm",
       "translation": "Our planet is messed up. We went from the top to the bottom.",
       "explanation": "Broadening the perspective to social/global issues or the unpredictability of life.",
@@ -449,6 +493,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "You know nothing sir, see",
+      "devanagari": "You know nothing sir, see",
       "speaker": "Calm",
       "translation": "You know nothing sir, see.",
       "explanation": "Dismissing those who think they understand their journey.",
@@ -456,6 +501,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "I'm spitting so much fire, your Khaleesi rides me",
+      "devanagari": "I'm spitting so much fire, your Khaleesi rides me",
       "speaker": "Calm",
       "translation": "I'm spitting so much fire, your Khaleesi rides me.",
       "explanation": "A Game of Thrones reference. Since Khaleesi rides dragons (fire-breathers), she'd ride him because his 'bars are fire'.",
@@ -469,6 +515,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Who the best I might be, I might bring the 90s",
+      "devanagari": "Who the best I might be, I might bring the 90s",
       "speaker": "Calm",
       "translation": "I might be the best, I might bring the 90s back.",
       "explanation": "Referencing the technical, lyrical golden era of Hip Hop.",
@@ -476,6 +523,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Back. Setting up a level, you'll never reach my scene",
+      "devanagari": "Back. Setting up a level, you'll never reach my scene",
       "speaker": "Calm",
       "translation": "Setting a standard you'll never be able to reach.",
       "explanation": "Calm asserting that SM's skill level is beyond their contemporaries.",
@@ -490,6 +538,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Keep checking that last seen, on your phone 24x7",
+      "devanagari": "Keep checking that last seen, on your phone 24x7",
       "speaker": "Calm",
       "translation": "Keep checking the 'last seen' on your phone all day.",
       "explanation": "Criticizing people who waste time on social media drama instead of working.",
@@ -497,6 +546,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "It might cost your dream. I plan to live mine",
+      "devanagari": "It might cost your dream. I plan to live mine",
       "speaker": "Calm",
       "translation": "It might cost you your dream. I plan to live mine.",
       "explanation": "Contrast between those who procrastinate and his own hustle.",
@@ -504,6 +554,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "So I grind O.D.B",
+      "devanagari": "So I grind O.D.B",
       "speaker": "Calm",
       "translation": "So I grind O.D.B (On a Daily Basis).",
       "explanation": "Dual reference: 'On Daily Basis' and Ol' Dirty Bastard from Wu-Tang Clan.",
@@ -517,6 +568,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "I'll bring the karma for the storm for my family",
+      "devanagari": "I'll bring the karma for the storm for my family",
       "speaker": "Calm",
       "translation": "I'll bring the consequences and the storm for my family.",
       "explanation": "He is working to secure a future and protect his circle.",
@@ -524,6 +576,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "It's like I'm in a battlefield, all these rappers about to yield",
+      "devanagari": "It's like I'm in a battlefield, all these rappers about to yield",
       "speaker": "Calm",
       "translation": "It's like I'm on a battlefield, all these rappers are about to surrender.",
       "explanation": "Describing the competitive rap scene as a war zone he is winning.",
@@ -531,6 +584,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "And it's hard to see. Hard to feel",
+      "devanagari": "And it's hard to see. Hard to feel",
       "speaker": "Calm",
       "translation": "And it's hard to see. Hard to feel.",
       "explanation": "Expressing the numbness or intensity of the struggle.",
@@ -538,6 +592,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "How did the beheaded by the prodigies",
+      "devanagari": "How did the beheaded by the prodigies",
       "speaker": "Calm",
       "translation": "How did they get beheaded by the prodigies?",
       "explanation": "Referring to themselves as prodigies who 'decapitate' (defeat) rivals lyrically.",
@@ -551,6 +606,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Well you can't say shit, cause you get our apologies",
+      "devanagari": "Well you can't say shit, cause you get our apologies",
       "speaker": "Calm",
       "translation": "Well you can't say anything, because you get our apologies.",
       "explanation": "Sarcastic line implying they aren't actually sorry for being better.",
@@ -558,6 +614,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "You can see that, feel that, we write",
+      "devanagari": "You can see that, feel that, we write",
       "speaker": "Calm & Encore",
       "translation": "You can see it, feel it, the way we write.",
       "explanation": "Emphasizing the tangible quality and impact of their penmanship.",
@@ -565,6 +622,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "We're doing fine, we're doing fine, we're doing fine. Yehh",
+      "devanagari": "We're doing fine, we're doing fine, we're doing fine. Yehh",
       "speaker": "Calm & Encore",
       "translation": "We're doing fine, we're doing fine, we're doing fine. Yeah.",
       "explanation": "A confident assertion of their current status and mental state.",
@@ -572,6 +630,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Kya tere gaane, kya teri hype...",
+      "devanagari": "क्या तेरे गाने, क्या तेरी hype...",
       "speaker": "Calm & Encore",
       "translation": "What's up with your songs? What's up with your hype?",
       "explanation": "Questioning the substance behind the popularity of other artists.",
@@ -579,6 +638,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "This is how we swell you dime, you better learn it's about time",
+      "devanagari": "This is how we swell you dime, you better learn it's about time",
       "speaker": "Calm & Encore",
       "translation": "This is how we expose/beat you; you better learn it's about time.",
       "explanation": "Warning others that SM is here to take over and they need to catch up.",
@@ -593,6 +653,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ye hai Seedhe maut",
+      "devanagari": "ये है सीधे मौत",
       "speaker": "Calm & Encore",
       "translation": "This is Seedhe Maut.",
       "explanation": "Hook.",
@@ -600,6 +661,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Sunke isko khate adhe cheete khauf",
+      "devanagari": "सुनके इसको खाते आधे चीते खौफ",
       "speaker": "Calm & Encore",
       "translation": "Hearing this, even half the 'cheetahs' feel fear.",
       "explanation": "Hook.",
@@ -607,6 +669,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ladke ladte sunke isko peeke bahut",
+      "devanagari": "लड़के लड़ते सुनके इसको पीके बहुत",
       "speaker": "Calm & Encore",
       "translation": "Boys fight after listening to this and drinking a lot.",
       "explanation": "Hook.",
@@ -614,6 +677,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ye hai Seedhe maut",
+      "devanagari": "ये है सीधे मौत",
       "speaker": "Calm & Encore",
       "translation": "This is Seedhe Maut.",
       "explanation": "Hook.",
@@ -621,6 +685,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Sunke isko khate adhe cheete khauf",
+      "devanagari": "सुनके इसको खाते आधे चीते खौफ",
       "speaker": "Calm & Encore",
       "translation": "Hearing this, even half the 'cheetahs' feel fear.",
       "explanation": "Hook.",
@@ -628,6 +693,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ladke ladte sunke isko peeke bahut",
+      "devanagari": "लड़के लड़ते सुनके इसको पीके बहुत",
       "speaker": "Calm & Encore",
       "translation": "Boys fight after listening to this and drinking a lot.",
       "explanation": "Hook.",
@@ -635,6 +701,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ye hai Seedhe maut",
+      "devanagari": "ये है सीधे मौत",
       "speaker": "Calm & Encore",
       "translation": "This is Seedhe Maut.",
       "explanation": "Hook.",
@@ -642,6 +709,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Sunke isko khate adhe cheete khauf",
+      "devanagari": "सुनके इसको खाते आधे चीते खौफ",
       "speaker": "Calm & Encore",
       "translation": "Hearing this, even half the 'cheetahs' feel fear.",
       "explanation": "Hook.",
@@ -649,6 +717,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ladke ladte sunke isko peeke bahut",
+      "devanagari": "लड़के लड़ते सुनके इसको पीके बहुत",
       "speaker": "Calm & Encore",
       "translation": "Boys fight after listening to this and drinking a lot.",
       "explanation": "Hook.",
@@ -656,6 +725,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ye hai Seedhe maut",
+      "devanagari": "ये है सीधे मौत",
       "speaker": "Calm & Encore",
       "translation": "This is Seedhe Maut.",
       "explanation": "Hook.",
@@ -663,6 +733,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Sunke isko khate adhe cheete khauf",
+      "devanagari": "सुनके इसको खाते आधे चीते खौफ",
       "speaker": "Calm & Encore",
       "translation": "Hearing this, even half the 'cheetahs' feel fear.",
       "explanation": "Hook.",
@@ -670,6 +741,7 @@ export const seedhe_maut_anthem: Song = {
     },
     {
       "original": "Ladke ladte sunke isko peeke bahut",
+      "devanagari": "लड़के लड़ते सुनके इसको पीके बहुत",
       "speaker": "Calm & Encore",
       "translation": "Boys fight after listening to this and drinking a lot.",
       "explanation": "Hook.",

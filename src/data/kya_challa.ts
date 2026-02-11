@@ -10,6 +10,7 @@ export const kya_challa: Song = {
   "lyrics": [
     {
       "original": "Aye! क्या बोलते मंडली, क्या चालू आहे?",
+      "romanized": "Aye! Kyaa bolte mandlee, kyaa chaaloo aahe?",
       "speaker": "Seedhe Maut",
       "translation": "Hey! What's up gang, what's going on?",
       "explanation": "A mix of Hindi and Marathi slang. 'Mandali' refers to a close group or gang, and 'Kya chalu aahe' is Marathi for 'What is going on?'.",
@@ -34,6 +35,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "Aye, man! Wa's up, man?",
+      "romanized": "Aye, man! Wa's up, man?",
       "speaker": "Seedhe Maut",
       "translation": "Aye, man! What's up, man?",
       "explanation": "Standard English greeting setting the casual, high-energy vibe of the track.",
@@ -41,6 +43,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "What y'all doing in Goa and shit, man?",
+      "romanized": "What y'all doing in Goa and shit, man?",
       "speaker": "Seedhe Maut",
       "translation": "What are you guys up to in Goa and all that?",
       "explanation": "Likely referring to the duo's lifestyle, shows, or vacations in Goa, a popular spot for the Indian creative scene.",
@@ -48,6 +51,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "Lookin' like all Mexican Kingpin and what that?",
+      "romanized": "Lookin' like all Mexican Kingpin and what that?",
       "speaker": "Seedhe Maut",
       "translation": "You're looking like a Mexican Kingpin or something.",
       "explanation": "A comment on their aesthetic—likely wearing loud shirts, sunglasses, or carrying a boss-like aura typical of cartel leaders in movies.",
@@ -61,6 +65,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "Ken I needin' you",
+      "romanized": "Ken I needin' you",
       "speaker": "Seedhe Maut",
       "translation": "Ken, I need you.",
       "explanation": "Likely a shoutout to a friend, collaborator, or a reference to a character/contact.",
@@ -68,6 +73,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "I need Badman Blanka",
+      "romanized": "I need Badman Blanka",
       "speaker": "Seedhe Maut",
       "translation": "I need Badman Blanka.",
       "explanation": "Blanka is a character from the Street Fighter game series known for his wild, beast-like nature. 'Badman' is a common roadman/patois slang for a tough guy.",
@@ -81,6 +87,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "कढला काय?",
+      "romanized": "Kadhlaa kaay?",
       "speaker": "Seedhe Maut",
       "translation": "Did you take it out? / What did you bring out?",
       "explanation": "Marathi phrase 'Kadhla Kay'. In this context, it could mean 'Did you release the song?' or 'Did you bring the heat?'.",
@@ -100,6 +107,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "जबसे उम्र पंद्रह है, घूमा दोस्तों के साथ बोल क्या चल्ला है? (क्या चल्ला है?)",
+      "romanized": "Jabse umr pandrah hai, ghoomaa doston ke saath bol kyaa challaa hai? (kyaa challaa hai?)",
       "speaker": "Encore ABJ & Calm",
       "translation": "Since I was fifteen, I've been roaming with my friends; tell me, what's going on?",
       "explanation": "Reflecting on their journey since their teens. 'Challa' is a dialectal variation of 'Chal raha' (happening/going on).",
@@ -119,6 +127,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "लोग बोले बड़ा बंदा है मेरे साथ वाले बोले, \"ये क्या चल्ला है?\" (अबे, क्या चल्ला है?)",
+      "romanized": "Log bole baraa bandaa hai mere saath vaale bole, \"ye kyaa challaa hai?\" (abe, kyaa challaa hai?)",
       "speaker": "Encore ABJ & Calm",
       "translation": "Strangers say I'm a big man now, but my crew asks, 'What's going on?'",
       "explanation": "Highlights the contrast between public fame (being a 'big man') and the ground reality/inner circle antics.",
@@ -126,6 +135,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "Scene बड़ा बड़ा फट रहा हैं",
+      "romanized": "Scene baraa baraa phat rahaa hain",
       "speaker": "Encore ABJ & Calm",
       "translation": "The scene is blowing up big time.",
       "explanation": "'Fat raha' (exploding) refers to the massive growth of the Indian Hip Hop scene and Seedhe Maut's dominance in it.",
@@ -139,6 +149,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "“भाई, ये क्या चल्ला है?\" (ओये) अबे नाम चल्ला है (क्या चल्ला है?)",
+      "romanized": "“Bhaaee, ye kyaa challaa hai?\" (oye) abe naam challaa hai (kyaa challaa hai?)",
       "speaker": "Encore ABJ & Calm",
       "translation": "'Brother, what's going on?' Hey, it's the name that's going on (buzzing).",
       "explanation": "A play on the question 'What's going on?'. The answer is that the Seedhe Maut 'name' is what's currently trending and active everywhere.",
@@ -146,6 +157,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "मेरे मूत का color संतरा है तो मैं पानी पी रहा हूँ और कुछ ना चल्ला है (Aye!)",
+      "romanized": "Mere moot kaa color santraa hai to main paanee pee rahaa hoon aur kuchh naa challaa hai (Aye!)",
       "speaker": "Encore ABJ & Calm",
       "translation": "My pee is the color of an orange, so I'm drinking water and nothing else is going on.",
       "explanation": "A raw, humorous line about dehydration (likely from touring/partying). It’s a literal answer to 'what's going on'—just trying to stay hydrated.",
@@ -166,6 +178,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "Last name Seedhe Maut, first name तेरा भाई",
+      "romanized": "Last name Seedhe Maut, first name teraa bhaaee",
       "speaker": "Encore ABJ",
       "translation": "Last name Seedhe Maut, first name Your Brother.",
       "explanation": "A classic Encore ABJ flex. 'Tera Bhai' (Your Brother) establishes a sense of authority and brotherhood within the DHH community.",
@@ -185,6 +198,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "Bro let's get it! (Let's get it!)",
+      "romanized": "Bro let's get it! (Let's get it!)",
       "speaker": "Encore ABJ",
       "translation": "Bro let's get it!",
       "explanation": "A call to action, common in hip-hop to build hype before a verse.",
@@ -199,6 +213,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "साथ तीन-चार हैं भाई, जब भी हो लड़ाई, हाथ पहले छोड़ें",
+      "romanized": "Saath teen-chaar hain bhaaee, jab bhee ho laraaee, haath pahle chhoren",
       "speaker": "Encore ABJ",
       "translation": "I've got three or four bros with me; whenever there's a fight, we throw hands first.",
       "explanation": "Indicates loyalty and a 'ready for anything' attitude. They don't wait to be hit; they take initiative.",
@@ -206,6 +221,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "(Bro, get it!)",
+      "romanized": "(Bro, get it!)",
       "speaker": "Encore ABJ",
       "translation": "(Bro, get it!)",
       "explanation": "Ad-lib reinforcing the energy.",
@@ -213,6 +229,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "इतनी सारी ज़िम्मेदारी छाती में दबाके चलते",
+      "romanized": "Itanee saaree zimmedaaree chhaatee men dabaake chalte",
       "speaker": "Encore ABJ",
       "translation": "I walk around with so many responsibilities pressed against my chest.",
       "explanation": "Despite the fame, the duo carries the weight of providing for family, managing a career, and representing a movement.",
@@ -220,6 +237,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "लौंडे कहे, \"No wonder ये शराबी हैं\"",
+      "romanized": "Launde kahe, \"No wonder ye sharaabee hain\"",
       "speaker": "Encore ABJ",
       "translation": "People say, 'No wonder these guys are alcoholics.'",
       "explanation": "A meta-commentary on how people judge their drinking habits without knowing the stress and responsibility they handle.",
@@ -233,6 +251,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "घर वाले सोचे बेटा कर रहा है काम",
+      "romanized": "Ghar vaale soche betaa kar rahaa hai kaam",
       "speaker": "Encore ABJ",
       "translation": "The family thinks their son is working.",
       "explanation": "Refers to the grind of the music industry which might look like 'just work' to parents, while the reality involves a chaotic lifestyle.",
@@ -240,6 +259,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "मेरे बाप को नहीं पता कि यहाँ क्या चल्ला है",
+      "romanized": "Mere baap ko naheen pataa ki yahaan kyaa challaa hai",
       "speaker": "Encore ABJ",
       "translation": "My father doesn't know what's really going on here.",
       "explanation": "A nod to the generation gap; his father might see the success but doesn't know the intricacies of the rap scene or the lifestyle.",
@@ -247,6 +267,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "जबसे उम्र पंद्रह है, घूमा दोस्तों के साथ बोल क्या चल्ला है? (क्या चल्ला है?)",
+      "romanized": "Jabse umr pandrah hai, ghoomaa doston ke saath bol kyaa challaa hai? (kyaa challaa hai?)",
       "speaker": "Encore ABJ & Calm",
       "translation": "Since I was fifteen, I've been roaming with my friends; tell me, what's going on?",
       "explanation": "Chorus repetition emphasizing their long-term bond and consistency.",
@@ -261,6 +282,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "लोग बोले बड़ा बंदा है मेरे साथ वाले बोले, \"ये क्या चल्ला है?\" (अबे, क्या चल्ला है?)",
+      "romanized": "Log bole baraa bandaa hai mere saath vaale bole, \"ye kyaa challaa hai?\" (abe, kyaa challaa hai?)",
       "speaker": "Encore ABJ & Calm",
       "translation": "Strangers say I'm a big man now, but my crew asks, 'What's going on?'",
       "explanation": "Chorus repetition.",
@@ -268,6 +290,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "Scene बड़ा-बड़ा फट रहा हैं",
+      "romanized": "Scene baraa-baraa phat rahaa hain",
       "speaker": "Encore ABJ & Calm",
       "translation": "The scene is blowing up big time.",
       "explanation": "Chorus repetition.",
@@ -275,6 +298,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "“भाई, ये क्या चल्ला है?\" (ओये) अबे नाम चल्ला है (क्या चल्ला है?)",
+      "romanized": "“Bhaaee, ye kyaa challaa hai?\" (oye) abe naam challaa hai (kyaa challaa hai?)",
       "speaker": "Encore ABJ & Calm",
       "translation": "'Brother, what's going on?' Hey, it's the name that's going on (buzzing).",
       "explanation": "Chorus repetition.",
@@ -282,6 +306,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "मेरे मूत का color संतरा है तो मैं पानी पी रहा हूँ और कुछ ना चल्ला है (Aye!)",
+      "romanized": "Mere moot kaa color santraa hai to main paanee pee rahaa hoon aur kuchh naa challaa hai (Aye!)",
       "speaker": "Encore ABJ & Calm",
       "translation": "My pee is the color of an orange, so I'm drinking water and nothing else is going on.",
       "explanation": "Chorus repetition.",
@@ -289,6 +314,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "जब जेब में चिल्लर थे, मैं तब भी नहीं था चिन्दी",
+      "romanized": "Jab jeb men chillar the, main tab bhee naheen thaa chindee",
       "speaker": "Calm",
       "translation": "Even when I only had small change in my pocket, I was never cheap/small-minded.",
       "explanation": "Calm asserts that his mindset was always 'big' and generous, even when he lacked money ('Chillar').",
@@ -307,6 +333,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "कुछ लोग बदल गए for that pussy, भीगी बिल्ली",
+      "romanized": "Kuchh log badl ge for that pussy, bheegee billee",
       "speaker": "Calm",
       "translation": "Some people changed for a girl, acting like scared cats.",
       "explanation": "Calm critiques people who lose their character or loyalty over relationships. 'Bheegi Billi' means someone who is cowardly or submissive.",
@@ -320,6 +347,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "Nation फट्टा, तोड़ी bouncer'on की ऊँगली",
+      "romanized": "Nation phattaa, toree bouncer'on kee oongalee",
       "speaker": "Calm",
       "translation": "The whole nation went wild, even bouncers' fingers got broken.",
       "explanation": "Refers to the rowdy energy of SM shows where 'Nation' (the fanbase/TBSM) goes so hard that even security gets caught in the chaos.",
@@ -333,6 +361,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "नहीं होती Seedhe Maut की किसी tier में गिनती",
+      "romanized": "Naheen hotee Seedhe Maut kee kisee tier men gintee",
       "speaker": "Calm",
       "translation": "Seedhe Maut can't be ranked in any tier.",
       "explanation": "Calm claims they are in a league of their own, above the typical 'Tier 1/Tier 2' rapper rankings.",
@@ -340,6 +369,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "आ बताऊँ \"क्यों?\"",
+      "romanized": "Aa bataaoon \"kyon?\"",
       "speaker": "Calm",
       "translation": "Come, let me tell you why.",
       "explanation": "Setting up the reasons for their superiority in the following lines.",
@@ -347,6 +377,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "पहली चीज़, हम नहीं हैं whack rapper",
+      "romanized": "Pahlee cheez, ham naheen hain whack rapper",
       "speaker": "Calm",
       "translation": "First thing, we aren't whack rappers.",
       "explanation": "'Whack' is hip-hop slang for bad, unskilled, or fake rappers.",
@@ -360,6 +391,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "दूसरी, हम रहते नहीं इस ग्रह पर",
+      "romanized": "Doosree, ham rahte naheen is grah par",
       "speaker": "Calm",
       "translation": "Second, we don't live on this planet.",
       "explanation": "A metaphor for their skill level being 'out of this world' or alien compared to others.",
@@ -367,6 +399,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "तीसरी की कमी कभी छोड़ें नहीं यह लौंडे किसी track पर",
+      "romanized": "Teesree kee kamee kabhee chhoren naheen yah launde kisee track par",
       "speaker": "Calm",
       "translation": "Third, these boys never leave any track lacking.",
       "explanation": "They always give 100% and 'kill' every beat they rap on.",
@@ -381,6 +414,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "हैं पचास गाने vault में पर हम होते नहीं हैं सहमत",
+      "romanized": "Hain pachaas gaane vault men par ham hote naheen hain sahmt",
       "speaker": "Calm",
       "translation": "There are fifty songs in the vault, but we don't agree (on releasing them).",
       "explanation": "Refers to their high standards. They have plenty of unreleased music ('vault') but only release what they both find perfect.",
@@ -394,6 +428,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "छोटे भाई मेरा काम चल्ला है",
+      "romanized": "Chhote bhaaee meraa kaam challaa hai",
       "speaker": "Calm",
       "translation": "Little brother, my work is what's going on.",
       "explanation": "Calm's definitive answer: while others ask 'what's up?', he's just focused on his craft.",
@@ -401,6 +436,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "जबसे उम्र पंद्रह है, घूमा दोस्तों के साथ बोल क्या चल्ला है? (क्या चल्ला है?)",
+      "romanized": "Jabse umr pandrah hai, ghoomaa doston ke saath bol kyaa challaa hai? (kyaa challaa hai?)",
       "speaker": "Encore ABJ & Calm",
       "translation": "Since I was fifteen, I've been roaming with my friends; tell me, what's going on?",
       "explanation": "Chorus repetition.",
@@ -408,6 +444,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "लोग बोले बड़ा बंदा है मेरे साथ वाले बोले, \"ये क्या चल्ला है?\" (अबे, क्या चल्ला है?)",
+      "romanized": "Log bole baraa bandaa hai mere saath vaale bole, \"ye kyaa challaa hai?\" (abe, kyaa challaa hai?)",
       "speaker": "Encore ABJ & Calm",
       "translation": "Strangers say I'm a big man now, but my crew asks, 'What's going on?'",
       "explanation": "Chorus repetition.",
@@ -415,6 +452,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "Scene बड़ा बड़ा फट रहा हैं",
+      "romanized": "Scene baraa baraa phat rahaa hain",
       "speaker": "Encore ABJ & Calm",
       "translation": "The scene is blowing up big time.",
       "explanation": "Chorus repetition.",
@@ -422,6 +460,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "“भाई, ये क्या चल्ला है?\" (ओये) अबे नाम चल्ला है (क्या चल्ला है?)",
+      "romanized": "“Bhaaee, ye kyaa challaa hai?\" (oye) abe naam challaa hai (kyaa challaa hai?)",
       "speaker": "Encore ABJ & Calm",
       "translation": "'Brother, what's going on?' Hey, it's the name that's going on (buzzing).",
       "explanation": "Chorus repetition.",
@@ -429,6 +468,7 @@ export const kya_challa: Song = {
     },
     {
       "original": "मेरे मूत का color संतरा है तो मैं पानी पी रहा हूँ और कुछ ना चल्ला है (Aye!)",
+      "romanized": "Mere moot kaa color santraa hai to main paanee pee rahaa hoon aur kuchh naa challaa hai (Aye!)",
       "speaker": "Encore ABJ & Calm",
       "translation": "My pee is the color of an orange, so I'm drinking water and nothing else is going on.",
       "explanation": "Final chorus repetition, ending on a grounded, humorous note.",

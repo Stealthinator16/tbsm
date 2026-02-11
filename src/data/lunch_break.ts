@@ -13,6 +13,7 @@ export const lunch_break: Song = {
   "lyrics": [
     {
       "original": "कवि!",
+      "romanized": "Kavi!",
       "speaker": "Encore ABJ",
       "translation": "Poet!",
       "explanation": "Encore ABJ's alias/moniker, highlighting his identity as a lyricist and wordsmith.",
@@ -26,6 +27,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "चमकते जैसे कंचे, हैं खुदा के बंदे",
+      "romanized": "Chamakate jaise kanche, hain khudaa ke bande",
       "speaker": "Calm & Encore ABJ",
       "translation": "Shining like marbles, we are people of God.",
       "explanation": "The duo describes their success and aura; 'Kanche' (marbles) refers to their bright eyes or their polished skills.",
@@ -50,6 +52,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "देखे खाली आइना, बाकी competition लंड पे",
+      "romanized": "Dekhe khaalee aainaa, baakee competition landa pe",
       "speaker": "Calm & Encore ABJ",
       "translation": "I only look at the mirror (myself), the rest of the competition is on my d***",
       "explanation": "They only compete with themselves; everyone else in the rap scene is beneath them or irrelevant.",
@@ -68,6 +71,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "रातें काली करके जीते सारी शर्तें",
+      "romanized": "Raaten kaalee karake jeete saaree sharten",
       "speaker": "Calm & Encore ABJ",
       "translation": "We won all the bets by grinding through the dark nights.",
       "explanation": "Success came through sleepless nights and hard work, fulfilling every promise they made to themselves.",
@@ -81,6 +85,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "Rapper होरे गायब, Seedhe Maut is on a Lunch Break",
+      "romanized": "Rapper hore gaayaba, Seedhe Maut is on a Lunch Break",
       "speaker": "Calm & Encore ABJ",
       "translation": "Other rappers are disappearing, Seedhe Maut is just on a lunch break.",
       "explanation": "Even when SM takes a casual 'break' (referring to this mixtape), they dominate the scene so much that other rappers seem to vanish.",
@@ -94,6 +99,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "चमकते जैसे कंचे, हैं खुदा के बंदे",
+      "romanized": "Chamakate jaise kanche, hain khudaa ke bande",
       "speaker": "Calm & Encore ABJ",
       "translation": "Shining like marbles, we are people of God.",
       "explanation": "Repetition of the hook emphasizing their divine-like rise and status.",
@@ -101,6 +107,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "देखे खाली आइना, बाकी competition लंड पे",
+      "romanized": "Dekhe khaalee aainaa, baakee competition landa pe",
       "speaker": "Calm & Encore ABJ",
       "translation": "I only look at the mirror, the rest of the competition is on my d***",
       "explanation": "Hyper-confidence showing they are their own only competition.",
@@ -108,6 +115,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "रातें काली करके जीते सारी शर्तें",
+      "romanized": "Raaten kaalee karake jeete saaree sharten",
       "speaker": "Calm & Encore ABJ",
       "translation": "We won all the bets by grinding through the dark nights.",
       "explanation": "Reiterating the theme of hard work and sleepless nights leading to victory.",
@@ -115,6 +123,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "Rapper होरे गायब, Seedhe Maut is on a Lunch Break",
+      "romanized": "Rapper hore gaayaba, Seedhe Maut is on a Lunch Break",
       "speaker": "Calm & Encore ABJ",
       "translation": "Other rappers are disappearing, Seedhe Maut is just on a lunch break.",
       "explanation": "The core concept of the song: their 'off-time' is better than others' 'prime time'.",
@@ -122,6 +131,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "Bro है इस कहानी में दो योद्धा",
+      "romanized": "Bro hai isa kahaanee men do yoddhaa",
       "speaker": "Encore ABJ",
       "translation": "Bro, there are two warriors in this story.",
       "explanation": "Refers to the duo (Calm and Encore) as warriors in the battleground of the hip-hop industry.",
@@ -135,6 +145,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "Training mode हमेशा on",
+      "romanized": "Training mode hameshaa on",
       "speaker": "Encore ABJ",
       "translation": "Training mode is always on.",
       "explanation": "They never stop practicing and improving their craft.",
@@ -142,6 +153,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "पसीना है हर रोज़ का",
+      "romanized": "Paseenaa hai hara roज़ kaa",
       "speaker": "Encore ABJ",
       "translation": "Sweating is a daily routine.",
       "explanation": "Grinding and hard physical/mental work is a constant for them.",
@@ -149,6 +161,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "अग्निपथ पे चलने वाला छालों की नी सोचता",
+      "romanized": "Agnipatha pe chalane vaalaa chhaalon kee nee sochataa",
       "speaker": "Encore ABJ",
       "translation": "One who walks on the path of fire doesn't worry about blisters.",
       "explanation": "A reference to the 'Agnipath' poem; those pursuing a difficult goal don't care about the pain involved.",
@@ -162,6 +175,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "माओं को पता नी उनके बेटों का क्या होगा",
+      "romanized": "Maaon ko pataa nee unake beton kaa kyaa hogaa",
       "speaker": "Encore ABJ",
       "translation": "Mothers don't know what will happen to their sons.",
       "explanation": "A warning to other rappers' mothers because SM is about to 'kill' the competition lyrically.",
@@ -169,6 +183,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "सुन क्या Calm बोल रहा",
+      "romanized": "Suna kyaa Calm bola rahaa",
       "speaker": "Encore ABJ",
       "translation": "Listen to what Calm is saying.",
       "explanation": "Encore passing the mic/transitioning to Calm's verse.",
@@ -183,6 +198,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "पहाड़ी भाई किसी के दाजू नहीं",
+      "romanized": "Pahaaड़ee bhaaee kisee ke daajoo naheen",
       "speaker": "Calm",
       "translation": "Pahadi brother isn't anyone's 'Daju'.",
       "explanation": "'Daju' means elder brother in Kumaoni/Garhwali. Calm (who is Pahadi) is saying he isn't here to be anyone's subordinate or casual friend.",
@@ -201,6 +217,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "आते ये किसी के काबू नी",
+      "romanized": "Aate ye kisee ke kaaboo nee",
       "speaker": "Calm",
       "translation": "They (we) cannot be controlled by anyone.",
       "explanation": "Asserting their independence from labels and industry gatekeepers.",
@@ -208,6 +225,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "लौंडे का bank account देख लेता आज अगर",
+      "romanized": "Launde kaa bank account dekha letaa aaja agara",
       "speaker": "Calm",
       "translation": "If only he could see this kid's bank account today.",
       "explanation": "Calm reflecting on his financial success compared to his past.",
@@ -215,6 +233,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "Maths teacher खुश होता, Bhakuni",
+      "romanized": "Maths teacher khusha hotaa, Bhakuni",
       "speaker": "Calm",
       "translation": "The Maths teacher would have been happy, Bhakuni.",
       "explanation": "Calm's real surname is Bhakuni. It's a shoutout to his school days, suggesting he's finally good at 'counting' (money).",
@@ -228,6 +247,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "वो शर्तें होती यहाँ लागू नी",
+      "romanized": "Vo sharten hotee yahaan laagoo nee",
       "speaker": "Calm",
       "translation": "Those rules/conditions don't apply here.",
       "explanation": "They make their own rules in the rap game.",
@@ -235,6 +255,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "आदत है deal'on की लाखों की",
+      "romanized": "Aadata hai deal'on kee laakhon kee",
       "speaker": "Calm",
       "translation": "Used to making deals worth lakhs (millions).",
       "explanation": "Bragging about their commercial success and high-value brand deals.",
@@ -249,6 +270,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "आदत है पीने पिलाने की, घमंडी लोगों को लौड़े के नीचे बिठाने की",
+      "romanized": "Aadata hai peene pilaane kee, ghamandee logon ko lauड़e ke neeche bithaane kee",
       "speaker": "Calm",
       "translation": "Used to drinking and treating others, and putting arrogant people in their place.",
       "explanation": "They enjoy their life but also know how to humble those who think too highly of themselves.",
@@ -262,6 +284,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "यहाँ ना लाओ fake love",
+      "romanized": "Yahaan naa laao fake love",
       "speaker": "Calm & Encore ABJ",
       "translation": "Don't bring your fake love here.",
       "explanation": "Tired of industry sycophants and fake supporters.",
@@ -269,6 +292,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "That shit made up",
+      "romanized": "That shit made up",
       "speaker": "Calm & Encore ABJ",
       "translation": "That stuff is all fabricated.",
       "explanation": "Calling out the manufactured personas and lies in the industry.",
@@ -276,6 +300,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "मुझे कोई BT जहाँ दे दे, I cut 'em loose",
+      "romanized": "Mujhe koee BT jahaan de de, I cut 'em loose",
       "speaker": "Calm & Encore ABJ",
       "translation": "Wherever someone gives me a 'Bad Trip', I cut them loose.",
       "explanation": "BT stands for Bad Trip/Vibe. They distance themselves immediately from toxic people.",
@@ -289,6 +314,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "यहाँ budget अलग रखा fine का",
+      "romanized": "Yahaan budget alaga rakhaa fine kaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "We kept a separate budget for fines here.",
       "explanation": "They are prepared to break rules and pay the penalties, showing they don't care about restrictions.",
@@ -296,6 +322,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "पता कि 'No Smoking' hotel में भी जले zoot",
+      "romanized": "Pataa ki 'No Smoking' hotel men bhee jale zoot",
       "speaker": "Calm & Encore ABJ",
       "translation": "Knowing that even in 'No Smoking' hotels, joints are being lit.",
       "explanation": "A nod to their rebellious lifestyle and weed culture.",
@@ -309,6 +336,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "ज़ुरूरत है नी कोई देने की proof",
+      "romanized": "ज़uroorata hai nee koee dene kee proof",
       "speaker": "Calm & Encore ABJ",
       "translation": "There is no need to give any proof.",
       "explanation": "Their work and success speak for themselves.",
@@ -316,6 +344,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "कर सकता है तो आ करले महसूस",
+      "romanized": "Kara sakataa hai to aa karale mahasoosa",
       "speaker": "Calm & Encore ABJ",
       "translation": "If you can, come and feel it.",
       "explanation": "Inviting people to witness their energy and vibe in person.",
@@ -323,6 +352,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "ये level",
+      "romanized": "Ye level",
       "speaker": "Calm & Encore ABJ",
       "translation": "This level.",
       "explanation": "Referring to the high standard they have set.",
@@ -330,6 +360,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "हम कहते नी बातें हैं केवल",
+      "romanized": "Hama kahate nee baaten hain kevala",
       "speaker": "Calm & Encore ABJ",
       "translation": "We don't just say things for the sake of it.",
       "explanation": "They back up their words with actions; they aren't just 'talk'.",
@@ -337,6 +368,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "हम आते तू, जोंसे भी table पे बैठा और आके घुमा देते table",
+      "romanized": "Hama aate too, jonse bhee table pe baithaa aura aake ghumaa dete table",
       "speaker": "Calm & Encore ABJ",
       "translation": "We come and turn the tables on whoever is sitting there.",
       "explanation": "They change the game and flip the power dynamics wherever they go.",
@@ -350,6 +382,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "Seedhe Maut label है खुद में, यह कोई सा भी major नी कर सकता label",
+      "romanized": "Seedhe Maut label hai khuda men, yaha koee saa bhee major nee kara sakataa label",
       "speaker": "Calm & Encore ABJ",
       "translation": "Seedhe Maut is a label in itself; no major label can define/brand us.",
       "explanation": "Asserting that their brand is bigger than any corporate entity.",
@@ -363,6 +396,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "और label Azadi है, Mo अपना साथी है, जब से थे जेबों में चरस के जोटे के छेद बस",
+      "romanized": "Aura label Azadi hai, Mo apanaa saathee hai, jaba se the jebon men charasa ke jote ke chheda basa",
       "speaker": "Calm & Encore ABJ",
       "translation": "And the label is Azadi; Mo is our companion since the days we only had holes from joints in our pockets.",
       "explanation": "Shoutout to Azadi Records and co-founder Mo Joshi, highlighting their loyalty since they were broke and struggling.",
@@ -382,6 +416,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "चमकते जैसे कंचे, हैं खुदा के बंदे",
+      "romanized": "Chamakate jaise kanche, hain khudaa ke bande",
       "speaker": "Calm & Encore ABJ",
       "translation": "Shining like marbles, we are people of God.",
       "explanation": "Hook repetition.",
@@ -389,6 +424,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "देखे खाली आइना, बाकी competition लंड पे",
+      "romanized": "Dekhe khaalee aainaa, baakee competition landa pe",
       "speaker": "Calm & Encore ABJ",
       "translation": "Only look at the mirror, the rest of the competition is on my d***",
       "explanation": "Hook repetition.",
@@ -396,6 +432,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "रातें काली करके जीते सारी शर्तें",
+      "romanized": "Raaten kaalee karake jeete saaree sharten",
       "speaker": "Calm & Encore ABJ",
       "translation": "Won all bets by grinding through the dark nights.",
       "explanation": "Hook repetition.",
@@ -403,6 +440,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "Rapper होरे गायब, Seedhe Maut is on a Lunch Break",
+      "romanized": "Rapper hore gaayaba, Seedhe Maut is on a Lunch Break",
       "speaker": "Calm & Encore ABJ",
       "translation": "Rappers are disappearing, Seedhe Maut is on a lunch break.",
       "explanation": "Hook repetition.",
@@ -410,6 +448,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "चमकते जैसे कंचे, हैं खुदा के बंदे",
+      "romanized": "Chamakate jaise kanche, hain khudaa ke bande",
       "speaker": "Calm & Encore ABJ",
       "translation": "Shining like marbles, we are people of God.",
       "explanation": "Hook repetition.",
@@ -417,6 +456,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "देखे खाली आइना, बाकी competition लंड पे",
+      "romanized": "Dekhe khaalee aainaa, baakee competition landa pe",
       "speaker": "Calm & Encore ABJ",
       "translation": "Only look at the mirror, the rest of the competition is on my d***",
       "explanation": "Hook repetition.",
@@ -424,6 +464,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "रातें काली करके जीते सारी शर्तें",
+      "romanized": "Raaten kaalee karake jeete saaree sharten",
       "speaker": "Calm & Encore ABJ",
       "translation": "Won all bets by grinding through the dark nights.",
       "explanation": "Hook repetition.",
@@ -438,6 +479,7 @@ export const lunch_break: Song = {
     },
     {
       "original": "Rapper होरे गायब, Seedhe Maut is on a Lunch Break",
+      "romanized": "Rapper hore gaayaba, Seedhe Maut is on a Lunch Break",
       "speaker": "Calm & Encore ABJ",
       "translation": "Rappers are disappearing, Seedhe Maut is on a lunch break.",
       "explanation": "Hook repetition.",

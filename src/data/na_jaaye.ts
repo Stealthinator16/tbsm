@@ -9,6 +9,7 @@ export const na_jaaye: Song = {
   "lyrics": [
     {
       "original": "Woh bole Chala thoda dheere",
+      "devanagari": "वो बोले चला थोड़ा धीरे",
       "speaker": "Seedhe Maut",
       "translation": "She says, \"Go a little slower.\"",
       "explanation": "A common theme in Seedhe Maut's music where external voices (or a partner) ask them to slow down their fast-paced life.",
@@ -22,6 +23,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Ay ay! Zindagi hum jeeye sci-Fi (Sci-fi)",
+      "devanagari": "अय अय! ज़िंदगी हम जीये sci-Fi (Sci-fi)",
       "speaker": "Encore ABJ",
       "translation": "Ay ay! We live life like it's Sci-Fi.",
       "explanation": "Refers to their surreal, high-speed, and almost unbelievable lifestyle since finding fame.",
@@ -35,6 +37,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Hota uski aankho me vo saaf zahir (Saaf zahir)",
+      "devanagari": "होता उसकी आँखों में वो साफ़ ज़ाहिर (साफ़ ज़ाहिर)",
       "speaker": "Encore ABJ",
       "translation": "It is clearly evident in her eyes.",
       "explanation": "The emotions, whether they be resentment or longing, are visible and cannot be hidden.",
@@ -42,6 +45,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Jayaz gussa kya hai (Thoda dheere)",
+      "devanagari": "जायज़ गुस्सा क्या है (थोड़ा धीरे)",
       "speaker": "Encore ABJ",
       "translation": "Is the anger justified? (Slow down)",
       "explanation": "Questioning if the conflict in the relationship is valid or just a result of their lifestyle.",
@@ -55,6 +59,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Ya hai, ek andar keeda usko khaae jaae",
+      "devanagari": "या है, एक अंदर कीड़ा उसको खाए जाए",
       "speaker": "Encore ABJ",
       "translation": "Or is there a worm inside, eating away at her?",
       "explanation": "'Keeda' refers to an obsession, an insecurity, or a restless urge that ruins peace of mind.",
@@ -68,6 +73,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Thaan hi liya jaana to vo jaaye jaye (Jaaye jaaye)",
+      "devanagari": "ठान ही लिया जाना तो वो जाए जाए (जाए जाए)",
       "speaker": "Encore ABJ",
       "translation": "If she's determined to leave, then let her go.",
       "explanation": "A sense of resignation regarding a partner who has already mentally checked out of the relationship.",
@@ -82,6 +88,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Oy, oy, oy, oy",
+      "devanagari": "ओय, ओय, ओय, ओय",
       "speaker": "Calm & Encore ABJ",
       "translation": "Oy, oy, oy, oy",
       "explanation": "Typical Seedhe Maut ad-libs transitioning between sections.",
@@ -89,6 +96,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Uth ja, uth ja, uth ja",
+      "devanagari": "उठ जा, उठ जा, उठ जा",
       "speaker": "Calm & Encore ABJ",
       "translation": "Wake up, wake up, wake up.",
       "explanation": "Literal waking up, but also a call to face the harsh reality of the situation.",
@@ -96,6 +104,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Abe uth, abey!",
+      "devanagari": "अबे उठ, अबे!",
       "speaker": "Calm & Encore ABJ",
       "translation": "Hey wake up, hey!",
       "explanation": "A more aggressive nudge to snap out of a dream or lethargy.",
@@ -103,6 +112,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Kya hai yaar?",
+      "devanagari": "क्या है यार?",
       "speaker": "Calm & Encore ABJ",
       "translation": "What is it, man?",
       "explanation": "An annoyed response to being woken up.",
@@ -110,6 +120,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Chal yaar chalre hai",
+      "devanagari": "चल यार चलरे हैं",
       "speaker": "Calm & Encore ABJ",
       "translation": "Let's go, we're moving.",
       "explanation": "Indicating the constant hustle where there's no time to rest.",
@@ -117,6 +128,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Oh bhai uth ja, jaldi uth, jaldi uth, jaldi jaldi",
+      "devanagari": "ओह भाई उठ जा, जल्दी उठ, जल्दी उठ, जल्दी जल्दी",
       "speaker": "Calm & Encore ABJ",
       "translation": "Bro wake up, wake up fast, hurry up.",
       "explanation": "Urgent dialogue emphasizing the pressure of their schedule.",
@@ -124,6 +136,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Uthra hun bhai uthra hun, uthra hun",
+      "devanagari": "उठरा हूँ भाई उठरा हूँ, उठरा हूँ",
       "speaker": "Calm & Encore ABJ",
       "translation": "I'm getting up bro, I'm getting up.",
       "explanation": "Reluctant compliance with the demands of the day.",
@@ -131,6 +144,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Hai accha ye sapna sone do (Mat utha)",
+      "devanagari": "है अच्छा ये सपना सोने दो (मत उठा)",
       "speaker": "Calm",
       "translation": "This dream is good, let me sleep (Don't wake me).",
       "explanation": "Preferring the comfort of a dream over the complicated reality of his life.",
@@ -138,6 +152,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Me bhi saala vehmi mujhe khone do (Khone do)",
+      "devanagari": "मैं भी साला वहमी मुझे खोने दो (खोने दो)",
       "speaker": "Calm",
       "translation": "I'm also a paranoid fool, let me stay lost.",
       "explanation": "Calm admits to his own overthinking and skepticism (vehmi).",
@@ -151,6 +166,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Hogi uske liye nayi shuruwaat ye",
+      "devanagari": "होगी उसके लिए नयी शुरुआत ये",
       "speaker": "Calm",
       "translation": "This might be a new beginning for her.",
       "explanation": "Acknowledging that while things are ending for him, the other person is moving on to something new.",
@@ -165,6 +181,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Par Yaha lage aaya sab khatam hai hone ko (Gaya)",
+      "devanagari": "पर यहाँ लगे आया सब खत्म है होने को (गया)",
       "speaker": "Calm",
       "translation": "But here, it feels like everything is about to end.",
       "explanation": "The contrast between her 'new start' and his feeling of total collapse.",
@@ -172,6 +189,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Bina mile mujhe admara chode wo",
+      "devanagari": "बिना मिले मुझे अधमरा छोड़े वो",
       "speaker": "Calm",
       "translation": "She leaves me half-dead without even meeting.",
       "explanation": "The lack of closure or a final meeting is emotionally draining, leaving him 'half-dead'.",
@@ -185,6 +203,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Mene bola mujhe matt bata kon hai wo (Nahi jaanta)",
+      "devanagari": "मैंने बोला मुझे मत बता कौन है वो (नहीं जानता)",
       "speaker": "Calm",
       "translation": "I said, don't tell me who he is.",
       "explanation": "Avoiding the pain of knowing about the person his partner might be seeing now.",
@@ -192,6 +211,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Aise 100 lu naam abhi on hain jo (Kaun hai?)",
+      "devanagari": "ऐसे 100 लूँ नाम अभी on हैं जो (कौन है?)",
       "speaker": "Calm",
       "translation": "I can name 100 people like that who are 'on' right now.",
       "explanation": "Boasting about his status; he has many options or peers, but his focus remains elsewhere.",
@@ -199,6 +219,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Par mera dhyaan hai terepe tu aage soche jo (Rrrraaa)",
+      "devanagari": "पर मेरा ध्यान है तेरेपे तू आगे सोचे जो (Rrrraaa)",
       "speaker": "Calm",
       "translation": "But my focus is on you and what you're thinking for the future.",
       "explanation": "Despite everything, he is still preoccupied with his partner's intentions.",
@@ -206,6 +227,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Tajurba bole peeche pе padni laat hai",
+      "devanagari": "तजुर्बा बोले पीछे पे पड़नी लात है",
       "speaker": "Calm",
       "translation": "Experience says I'm going to get kicked in the back.",
       "explanation": "A metaphor for being betrayed or blindsided based on past experiences.",
@@ -213,6 +235,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Sachi bolu to ek text ki baat hai",
+      "devanagari": "सच्ची बोलूँ तो एक text की बात है",
       "speaker": "Calm",
       "translation": "To be honest, it's just a matter of one text.",
       "explanation": "The fragility of modern relationships; one message can end everything.",
@@ -220,6 +243,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Mila kya door hi reh hai mеri raaye pyaar se",
+      "devanagari": "मिला क्या दूर ही रेह है मेरी राय प्यार से",
       "speaker": "Calm",
       "translation": "What did we get? My advice is to just stay away kindly.",
       "explanation": "Suggesting that distance is better than a toxic connection.",
@@ -227,6 +251,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Ye topic chede aur kabhi ye thodi lambi baat hai",
+      "devanagari": "ये topic छेड़े और कभी ये थोड़ी लम्बी बात है",
       "speaker": "Calm",
       "translation": "We'll discuss this topic some other time, it's a long conversation.",
       "explanation": "Avoiding the heavy emotional labor of explaining the breakup right now.",
@@ -234,6 +259,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Milna yaha mushkil hai (Milna yaha mushkil hai)",
+      "devanagari": "मिलना यहाँ मुश्किल है (मिलना यहाँ मुश्किल है)",
       "speaker": "Calm",
       "translation": "Meeting here is difficult.",
       "explanation": "Could refer to their busy schedules or the emotional barriers preventing a meeting.",
@@ -241,6 +267,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Hum Chahte jo phatu tabhi me",
+      "devanagari": "हम चाहते जो फटू तभी मैं",
       "speaker": "Calm",
       "translation": "I want to explode/blow up only when...",
       "explanation": "Referring to 'blowing up' in terms of success or releasing built-up frustration.",
@@ -248,6 +275,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Baatein to badi kari thi",
+      "devanagari": "बातें तो बड़ी करी थी",
       "speaker": "Calm",
       "translation": "Big promises were made.",
       "explanation": "Reflecting on the grand claims and vows made earlier in the relationship.",
@@ -255,6 +283,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Ego pe lagi baat hai to",
+      "devanagari": "Ego पे लगी बात है तो",
       "speaker": "Calm",
       "translation": "Since it's a matter of ego now...",
       "explanation": "The conflict has shifted from love to a battle of pride.",
@@ -269,6 +298,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Pehle se zyada karu me",
+      "devanagari": "पहले से ज़्यादा करूँ मैं",
       "speaker": "Calm",
       "translation": "I'll do even more than before.",
       "explanation": "Using the spite/ego to fuel his grind and success.",
@@ -276,6 +306,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Hai ni jataane ko kuch aur",
+      "devanagari": "है नी जताने को कुछ और",
       "speaker": "Calm",
       "translation": "There's nothing left to show.",
       "explanation": "He has exhausted his efforts in trying to prove his worth or love.",
@@ -283,6 +314,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Hai ni haraane ko koi to",
+      "devanagari": "है नी हराने को कोई तो",
       "speaker": "Calm",
       "translation": "There's no one left to defeat.",
       "explanation": "He has reached a level where his only competition is himself.",
@@ -290,6 +322,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Dhool chaat",
+      "devanagari": "धूल चाट",
       "speaker": "Calm",
       "translation": "Lick the dust.",
       "explanation": "An idiom for suffering a humiliating defeat.",
@@ -297,6 +330,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Naate udde tuco jaise tukk ho jaise",
+      "devanagari": "नाते उड़े Tuco जैसे टुक्क हो जैसे",
       "speaker": "Calm",
       "translation": "Relationships blew up like Tuco, like they were nothing.",
       "explanation": "Reference to Tuco Salamanca (Breaking Bad) who was killed in an explosion/violent shootout.",
@@ -310,6 +344,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Lawde log peeche chodde crew ko kaise",
+      "devanagari": "लौड़े लोग पीछे छोड़े crew को कैसे",
       "speaker": "Calm",
       "translation": "How do these idiots leave the crew behind?",
       "explanation": "Questioning people who betray their day-ones or their team for personal gain.",
@@ -329,6 +364,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Jhuko kaise",
+      "devanagari": "झुको कैसे",
       "speaker": "Calm",
       "translation": "How to bow down?",
       "explanation": "Asserting his refusal to submit or compromise his integrity.",
@@ -343,6 +379,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Itna ki",
+      "devanagari": "इतना कि",
       "speaker": "Calm",
       "translation": "So much that...",
       "explanation": "Connecting to the next line about being exploited.",
@@ -350,6 +387,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Looto aise",
+      "devanagari": "लूटो ऐसे",
       "speaker": "Calm",
       "translation": "Loot like this.",
       "explanation": "Describing how people take advantage of others.",
@@ -357,6 +395,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Apno ko",
+      "devanagari": "अपनों को",
       "speaker": "Calm",
       "translation": "Their own people.",
       "explanation": "The sting of betrayal is worse when it comes from friends or family.",
@@ -371,6 +410,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Thooko aise",
+      "devanagari": "थूको ऐसे",
       "speaker": "Calm",
       "translation": "Spit like this.",
       "explanation": "Metaphor for disrespecting those who supported you.",
@@ -378,6 +418,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Apno pe",
+      "devanagari": "अपनों पे",
       "speaker": "Calm",
       "translation": "On their own.",
       "explanation": "Continuation of the theme of betraying one's inner circle.",
@@ -385,6 +426,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Apni padhi",
+      "devanagari": "अपनी पड़ी",
       "speaker": "Calm",
       "translation": "Thinking only of oneself.",
       "explanation": "Selfishness becoming the norm.",
@@ -392,6 +434,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Barso se",
+      "devanagari": "बरसों से",
       "speaker": "Calm",
       "translation": "For years.",
       "explanation": "This behavior isn't new; it's been happening for a long time.",
@@ -399,6 +442,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Kehte isse",
+      "devanagari": "कहते इसे",
       "speaker": "Calm",
       "translation": "They call this...",
       "explanation": "Leading into the definition of the behavior.",
@@ -406,6 +450,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Bitch move",
+      "devanagari": "Bitch move",
       "speaker": "Calm",
       "translation": "A bitch move.",
       "explanation": "Slang for a cowardly, disloyal, or snake-like action.",
@@ -419,6 +464,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Jali dekha launde khele",
+      "devanagari": "जली देखा लौंडे खेले",
       "speaker": "Calm",
       "translation": "Seeing the jealousy, boys played...",
       "explanation": "Witnessing others act out of envy.",
@@ -426,6 +472,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Big Moves",
+      "devanagari": "Big Moves",
       "speaker": "Calm",
       "translation": "Big Moves.",
       "explanation": "Taking significant actions to progress or to spite others.",
@@ -433,6 +480,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Ye aag aisi pighlaaye Igloo",
+      "devanagari": "ये आग ऐसी पिघलाए Igloo",
       "speaker": "Calm",
       "translation": "This fire is such that it melts an Igloo.",
       "explanation": "His passion or the intensity of the situation is enough to destroy even the sturdiest cold front.",
@@ -440,6 +488,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Usne pehle kiya nazar andaaz abhi",
+      "devanagari": "उसने पहले किया नज़रअंदाज़ अभी",
       "speaker": "Calm",
       "translation": "She ignored me at first, and now...",
       "explanation": "Referring to someone who dismissed him before he was famous.",
@@ -447,6 +496,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Story daale IG pe aur upar likhe big mood",
+      "devanagari": "Story डाले IG पे और ऊपर लिखे big mood",
       "speaker": "Calm",
       "translation": "Posts a story on IG and writes 'big mood' on it.",
       "explanation": "The irony of people using his success/vibe for their social media clout after ignoring him.",
@@ -460,6 +510,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Ay ay! Zindagi hum jeeye sci-Fi (Sci-fi)",
+      "devanagari": "अय अय! ज़िंदगी हम जीये sci-Fi (Sci-fi)",
       "speaker": "Encore ABJ",
       "translation": "Ay ay! We live life like it's Sci-Fi.",
       "explanation": "Repeating the hook; emphasizing their surreal reality.",
@@ -467,6 +518,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Hota uski aankho me vo saaf zahir (Saaf zahir)",
+      "devanagari": "होता उसकी आँखों में वो साफ़ ज़ाहिर (साफ़ ज़ाहिर)",
       "speaker": "Encore ABJ",
       "translation": "It is clearly evident in her eyes.",
       "explanation": "The truth remains visible despite words.",
@@ -481,6 +533,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Jayaz gussa kya hai (Thoda dheere)",
+      "devanagari": "जायज़ गुस्सा क्या है (थोड़ा धीरे)",
       "speaker": "Encore ABJ",
       "translation": "Is the anger justified? (Slow down)",
       "explanation": "Questioning the validity of the conflict again.",
@@ -488,6 +541,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Ya hai, ek andar keeda usko khaae jaae",
+      "devanagari": "या है, एक अंदर कीड़ा उसको खाए जाए",
       "speaker": "Encore ABJ",
       "translation": "Or is there a worm inside, eating away at her?",
       "explanation": "The internal demon causing the rift.",
@@ -495,6 +549,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Thaan hi liya jaana to vo jaaye jaye (Jaaye jaaye)",
+      "devanagari": "ठान ही लिया जाना तो वो जाए जाए (जाए जाए)",
       "speaker": "Encore ABJ",
       "translation": "If she's determined to leave, then let her go.",
       "explanation": "Acceptance of the end.",
@@ -502,6 +557,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Jaage reh, sona matt, poori baat hui nai (Hui ni)",
+      "devanagari": "जागे रेह, सोना मत, पूरी बात हुई नई (हुई नी)",
       "speaker": "Encore ABJ",
       "translation": "Stay awake, don't sleep, the conversation isn't over.",
       "explanation": "Insisting on addressing the issues rather than avoiding them by sleeping.",
@@ -509,6 +565,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Thoda bhot waqt tu maange par (Maange par)",
+      "devanagari": "थोड़ा बहोत वक़्त तू माँगे पर (माँगे पर)",
       "speaker": "Encore ABJ",
       "translation": "You ask for a little bit of time, but...",
       "explanation": "She wants his time, which is now a luxury he can't afford.",
@@ -516,6 +573,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Meri ghadi me sui nai (Sui nai)",
+      "devanagari": "मेरी घड़ी में सुई नई (सुई नई)",
       "speaker": "Encore ABJ",
       "translation": "My watch has no hands.",
       "explanation": "A brilliant metaphor for being so busy that time doesn't exist, or for being in a state where time has lost meaning.",
@@ -529,6 +587,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Poori raat kaam haath kare khaaj (Khaaj)",
+      "devanagari": "पूरी रात काम हाथ करे खाज (खाज)",
       "speaker": "Encore ABJ",
       "translation": "Work all night, hands are itching.",
       "explanation": "'Khaaj' (itch) refers to a restlessness to earn money or create art.",
@@ -542,6 +601,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "100 k note sekte hatheli naii (Na)",
+      "devanagari": "100 k नोट सेकते हथेली नई (ना)",
       "speaker": "Encore ABJ",
       "translation": "Heating up palms with 100-rupee notes? No.",
       "explanation": "He's making enough money that he doesn't need to 'warm his hands' with small change anymore; his scale is bigger.",
@@ -549,6 +609,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Kaise pakdu nange haath (Woo)",
+      "devanagari": "कैसे पकडूँ नंगे हाथ (Woo)",
       "speaker": "Encore ABJ",
       "translation": "How do I hold it with bare hands?",
       "explanation": "The 'ice' (next line) is too cold/painful to handle without protection.",
@@ -556,6 +617,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Tu baraf hai rui nai",
+      "devanagari": "तू बरफ़ है रुई नई",
       "speaker": "Encore ABJ",
       "translation": "You are ice, not cotton.",
       "explanation": "She is cold and harsh, not soft and comforting as he once thought.",
@@ -563,6 +625,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Chui mui tu hi nahi",
+      "devanagari": "छुई मुई तू ही नहीं",
       "speaker": "Encore ABJ",
       "translation": "You're not the only 'touch-me-not' (sensitive) one.",
       "explanation": "Playing on the term 'Chui Mui' (sensitive plant); implying he is also affected.",
@@ -576,6 +639,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Lekin sirft tu hi saii",
+      "devanagari": "लेकिन सिर्फ़ तू ही सई",
       "speaker": "Encore ABJ",
       "translation": "But only you are 'right' (in your own head).",
       "explanation": "Sarcasm regarding her self-righteousness.",
@@ -583,6 +647,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Leke lafz chooi ni bhed diya",
+      "devanagari": "लेके लफ़्ज़ छूई नी भेद दिया",
       "speaker": "Encore ABJ",
       "translation": "Didn't just touch with words, I pierced through.",
       "explanation": "His lyrics/words are sharp and cut deep like a weapon.",
@@ -590,6 +655,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Jaise keel, sui nai",
+      "devanagari": "जैसे कील, सुई नई",
       "speaker": "Encore ABJ",
       "translation": "Like a nail, not a needle.",
       "explanation": "A needle is for stitching (fixing), but a nail is for piercing/holding (or hurting).",
@@ -597,6 +663,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Deke feel kabhi lage muu hi naii",
+      "devanagari": "देके feel कभी लगे मू ही नई",
       "speaker": "Encore ABJ",
       "translation": "Sometimes giving a vibe, sometimes it feels like you're not even there.",
       "explanation": "The inconsistency in her emotional presence.",
@@ -604,6 +671,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Peeche hua jali teri lekin aai dhooe ki boo hi nahi",
+      "devanagari": "पीछे हुआ जली तेरी लेकिन आई धुएँ की बू ही नहीं",
       "speaker": "Encore ABJ",
       "translation": "You were burnt behind my back, but I didn't even smell the smoke.",
       "explanation": "She was jealous or acting out secretly, but he was too busy/indifferent to notice.",
@@ -618,6 +686,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Yuhi kahi soche log karu mai kneel nai",
+      "devanagari": "यूँही कहीं सोचे लोग करूँ मैं kneel नई",
       "speaker": "Encore ABJ",
       "translation": "People think for no reason that I won't kneel.",
       "explanation": "Addressing his reputation for being stubborn or unyielding.",
@@ -625,6 +694,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Aisa koi scene nahi",
+      "devanagari": "ऐसा कोई scene नहीं",
       "speaker": "Encore ABJ",
       "translation": "It's not like that.",
       "explanation": "Dismissing rumors or misconceptions about his attitude.",
@@ -632,6 +702,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Hu mai ni jhalla",
+      "devanagari": "हूँ मैं नी झल्ला",
       "speaker": "Encore ABJ",
       "translation": "I'm not crazy.",
       "explanation": "Asserting his sanity despite the chaotic environment.",
@@ -645,6 +716,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Brawl me du balla",
+      "devanagari": "Brawl में दूँ बल्ला",
       "speaker": "Encore ABJ",
       "translation": "I'll bring a bat to a brawl.",
       "explanation": "Ready to escalate or defend himself aggressively if needed.",
@@ -652,6 +724,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Thoda bhot halla karu",
+      "devanagari": "थोड़ा बहोत हल्ला करूँ",
       "speaker": "Encore ABJ",
       "translation": "I make a little noise.",
       "explanation": "Understating his massive impact/fame in the scene.",
@@ -659,6 +732,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Tere pehele mili aisi koi queen nai",
+      "devanagari": "तेरे पहले मिली ऐसी कोई queen नई",
       "speaker": "Encore ABJ",
       "translation": "Never met a queen like you before.",
       "explanation": "Acknowledging her uniqueness, for better or worse.",
@@ -666,6 +740,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Jhoot bolu maut aa jaye (Maut aaye)",
+      "devanagari": "झूठ बोलूँ मौत आ जाए (मौत आए)",
       "speaker": "Encore ABJ",
       "translation": "May death come to me if I lie.",
       "explanation": "A strong oath of honesty; also a play on their name 'Seedhe Maut'.",
@@ -673,6 +748,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Dil ko rakha tere kandhe tikae",
+      "devanagari": "दिल को रखा तेरे कंधे टिकाए",
       "speaker": "Encore ABJ",
       "translation": "I kept my heart leaning on your shoulder.",
       "explanation": "Refers to the trust and vulnerability he once had with her.",
@@ -680,6 +756,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Vahi kandhe mujhe meri chita chadhae",
+      "devanagari": "वही कंधे मुझे मेरी चिता चढ़ाए",
       "speaker": "Encore ABJ",
       "translation": "Those same shoulders will put me on my funeral pyre.",
       "explanation": "Poetic irony: the person who supported him will be the reason for his downfall/end.",
@@ -693,6 +770,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Dheere dheere tujhme jalne me bhi ek apna maza hai",
+      "devanagari": "धीरे धीरे तुझमें जलने में भी एक अपना मज़ा है",
       "speaker": "Encore ABJ",
       "translation": "There's a certain pleasure in slowly burning because of you.",
       "explanation": "Acknowledging the addictive nature of toxic love.",
@@ -700,6 +778,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Mai andar rakhu ek samandar chipae",
+      "devanagari": "मैं अंदर रखूँ एक समंदर छिपाए",
       "speaker": "Encore ABJ",
       "translation": "I keep an ocean hidden inside me.",
       "explanation": "He has a vast depth of emotions or secrets that he doesn't show.",
@@ -707,6 +786,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Teri baato se shayad garam ho bhi jae",
+      "devanagari": "तेरी बातों से शायद गरम हो भी जाए",
       "speaker": "Encore ABJ",
       "translation": "Maybe it (the ocean) gets heated by your words.",
       "explanation": "Her words can provoke his anger/emotions.",
@@ -714,6 +794,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Lekin jal ho jitna garam, agni bujha hi deta hai",
+      "devanagari": "लेकिन जल हो जितना गरम, अग्नि बुझा ही देता है",
       "speaker": "Encore ABJ",
       "translation": "But no matter how hot the water is, it eventually puts out the fire.",
       "explanation": "His fundamental nature (water/calmness) will eventually overcome her provocations (fire).",
@@ -721,6 +802,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Tu chale jaise maine khaya hai",
+      "devanagari": "तू चले जैसे मैंने खाया है",
       "speaker": "Encore ABJ",
       "translation": "You act as if I've taken something...",
       "explanation": "She acts entitled or as if he owes her.",
@@ -728,6 +810,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Leke tere baap se",
+      "devanagari": "लेके तेरे बाप से",
       "speaker": "Encore ABJ",
       "translation": "...from your father.",
       "explanation": "Common Indian phrase used to dismiss someone acting overly entitled or demanding.",
@@ -735,6 +818,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Ye kaisi maya hai",
+      "devanagari": "ये कैसी माया है",
       "speaker": "Encore ABJ",
       "translation": "What kind of illusion/world is this?",
       "explanation": "Questioning the strange, deceptive nature of the situation.",
@@ -748,6 +832,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Mai apne siddhant liye saath ek raat poocha hote kya hai bitch moves",
+      "devanagari": "मैं अपने सिद्धांत लिए साथ एक रात पूछा होते क्या है bitch moves",
       "speaker": "Encore ABJ",
       "translation": "One night, holding onto my principles, I asked what 'bitch moves' are.",
       "explanation": "Seeking a definition for the betrayal he keeps witnessing.",
@@ -761,6 +846,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Vo bole dekh tu soche log chaate tujhe hota hai vo fek thook",
+      "devanagari": "वो बोले देख तू सोचे लोग चाहते तुझे होता है वो फेक थूक",
       "speaker": "Encore ABJ",
       "translation": "They said, 'You think people are adoring you, but it's just fake spit.'",
       "explanation": "A warning that the praise he receives from some is insincere and disrespectful.",
@@ -768,6 +854,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Choomke log ek joot dete dooje me moot hai",
+      "devanagari": "चूमके लोग एक जूट देते दूजे में मूत है",
       "speaker": "Encore ABJ",
       "translation": "People kiss you with one breath and piss on you with the next.",
       "explanation": "Graphic metaphor for extreme hypocrisy and fickle loyalty.",
@@ -781,6 +868,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Tabhi aur pyar ki talwar se katt matt tu, ah!",
+      "devanagari": "तभी और प्यार की तलवार से कट मत तू, ah!",
       "speaker": "Encore ABJ",
       "translation": "So don't get cut by the sword of 'more love', ah!",
       "explanation": "A warning against being blinded by performative affection that actually hurts you.",
@@ -788,6 +876,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Ay ay! Zindagi hum jeeye sci-Fi (Sci-fi)",
+      "devanagari": "अय अय! ज़िंदगी हम जीये sci-Fi (Sci-fi)",
       "speaker": "Encore ABJ",
       "translation": "Ay ay! We live life like it's Sci-Fi.",
       "explanation": "Hook repeat.",
@@ -795,6 +884,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Hota uski aankho me vo saaf zahir (Saaf zahir)",
+      "devanagari": "होता उसकी आँखों में वो साफ़ ज़ाहिर (साफ़ ज़ाहिर)",
       "speaker": "Encore ABJ",
       "translation": "It is clearly evident in her eyes.",
       "explanation": "Hook repeat.",
@@ -802,6 +892,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Jayaz gussa kya hai (Thoda dheere)",
+      "devanagari": "जायज़ गुस्सा क्या है (थोड़ा धीरे)",
       "speaker": "Encore ABJ",
       "translation": "Is the anger justified? (Slow down)",
       "explanation": "Hook repeat.",
@@ -809,6 +900,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Ya hai, ek andar keeda usko khaae jaae",
+      "devanagari": "या है, एक अंदर कीड़ा उसको खाए जाए",
       "speaker": "Encore ABJ",
       "translation": "Or is there a worm inside, eating away at her?",
       "explanation": "Hook repeat.",
@@ -816,6 +908,7 @@ export const na_jaaye: Song = {
     },
     {
       "original": "Thaan hi liya jaana to vo jaaye jaye (Jaaye jaaye)",
+      "devanagari": "ठान ही लिया जाना तो वो जाए जाए (जाए जाए)",
       "speaker": "Encore ABJ",
       "translation": "If she's determined to leave, then let her go.",
       "explanation": "Hook repeat.",

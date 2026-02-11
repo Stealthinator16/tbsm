@@ -10,6 +10,7 @@ export const kohra: Song = {
   "lyrics": [
     {
       "original": "Vapas laut aaya tha jaha se",
+      "romanized": "Vapas laut aaya tha jaha se",
       "speaker": "Encore ABJ",
       "translation": "I have returned to the place I once left.",
       "explanation": "Encore talks about relapsing into old habits or a mental state he thought he had escaped.",
@@ -23,6 +24,7 @@ export const kohra: Song = {
     },
     {
       "original": "Usi raah pe fir chal pada hu",
+      "romanized": "Usi raah pe fir chal pada hu",
       "speaker": "Encore ABJ",
       "translation": "I am walking down that same path again.",
       "explanation": "Suggests a sense of helplessness in repeating past mistakes or toxic cycles.",
@@ -30,6 +32,7 @@ export const kohra: Song = {
     },
     {
       "original": "Ae zalim haseena",
+      "romanized": "Ae zalim haseena",
       "speaker": "Encore ABJ",
       "translation": "O cruel beauty.",
       "explanation": "A personification of life, Delhi, or a toxic relationship that is both attractive and painful.",
@@ -43,6 +46,7 @@ export const kohra: Song = {
     },
     {
       "original": "Mai bas tere gum gin raha hu",
+      "romanized": "Mai bas tere gum gin raha hu",
       "speaker": "Encore ABJ",
       "translation": "I am just counting the sorrows you gave me.",
       "explanation": "Dwelling on the pain and trauma caused by his environment or experiences.",
@@ -57,6 +61,7 @@ export const kohra: Song = {
     },
     {
       "original": "Kya waqai me hal hai?",
+      "romanized": "Kya waqai me hal hai?",
       "speaker": "Encore ABJ",
       "translation": "Is there really a solution?",
       "explanation": "Existential questioning of whether there is an end to this cycle of struggle.",
@@ -64,6 +69,7 @@ export const kohra: Song = {
     },
     {
       "original": "Ya mai bas zaya waqt kar raha hu?",
+      "romanized": "Ya mai bas zaya waqt kar raha hu?",
       "speaker": "Encore ABJ",
       "translation": "Or am I just wasting my time?",
       "explanation": "Reflects the self-doubt often felt by artists regarding their path.",
@@ -71,6 +77,7 @@ export const kohra: Song = {
     },
     {
       "original": "Ya mai pakka sahi hu",
+      "romanized": "Ya mai pakka sahi hu",
       "speaker": "Encore ABJ",
       "translation": "Or am I definitely right?",
       "explanation": "Searching for validation in his choices despite the surrounding chaos.",
@@ -78,6 +85,7 @@ export const kohra: Song = {
     },
     {
       "original": "Ya mai sahi me andha ho chuka hu",
+      "romanized": "Ya mai sahi me andha ho chuka hu",
       "speaker": "Encore ABJ",
       "translation": "Or have I truly become blind?",
       "explanation": "Metaphor for being blinded by fame, ego, or the 'fog' of mental health issues.",
@@ -85,6 +93,7 @@ export const kohra: Song = {
     },
     {
       "original": "Hum sab hai ek latt me",
+      "romanized": "Hum sab hai ek latt me",
       "speaker": "Encore ABJ",
       "translation": "We are all caught in the same addiction.",
       "explanation": "Latt refers to a destructive habit or the collective struggle of the generation.",
@@ -98,6 +107,7 @@ export const kohra: Song = {
     },
     {
       "original": "Aur kisi ko kuch samajh nahi aata",
+      "romanized": "Aur kisi ko kuch samajh nahi aata",
       "speaker": "Encore ABJ",
       "translation": "And no one understands a thing.",
       "explanation": "A sense of universal confusion where everyone is just pretending to have it figured out.",
@@ -105,6 +115,7 @@ export const kohra: Song = {
     },
     {
       "original": "Bas bach rahe hai dard se",
+      "romanized": "Bas bach rahe hai dard se",
       "speaker": "Encore ABJ",
       "translation": "We are just escaping from the pain.",
       "explanation": "Highlighting survival mechanisms rather than actual healing.",
@@ -112,6 +123,7 @@ export const kohra: Song = {
     },
     {
       "original": "Aur chal rahe hai jab tak ho chal pana",
+      "romanized": "Aur chal rahe hai jab tak ho chal pana",
       "speaker": "Encore ABJ",
       "translation": "And we keep moving as long as we can.",
       "explanation": "Persistence born out of necessity, not necessarily hope.",
@@ -119,6 +131,7 @@ export const kohra: Song = {
     },
     {
       "original": "Aur chal rahe hai ho raha hai jaha chal pana",
+      "romanized": "Aur chal rahe hai ho raha hai jaha chal pana",
       "speaker": "Encore ABJ",
       "translation": "And we go wherever we are able to move.",
       "explanation": "Drifting aimlessly through life's circumstances.",
@@ -126,6 +139,7 @@ export const kohra: Song = {
     },
     {
       "original": "Tu aasman ki panchi hai paani me",
+      "romanized": "Tu aasman ki panchi hai paani me",
       "speaker": "Encore ABJ",
       "translation": "You are a bird of the sky, now in the water.",
       "explanation": "A metaphor for being in a situation you weren't built for; feeling out of place.",
@@ -133,6 +147,7 @@ export const kohra: Song = {
     },
     {
       "original": "Aur tairna nahi aata",
+      "romanized": "Aur tairna nahi aata",
       "speaker": "Encore ABJ",
       "translation": "And you don't know how to swim.",
       "explanation": "Lacking the survival skills for the current hostile environment.",
@@ -140,6 +155,7 @@ export const kohra: Song = {
     },
     {
       "original": "To isme teri kya galti?",
+      "romanized": "To isme teri kya galti?",
       "speaker": "Encore ABJ",
       "translation": "So what fault is it of yours?",
       "explanation": "Empathy for one's own failure or a friend's failure due to circumstances.",
@@ -147,6 +163,7 @@ export const kohra: Song = {
     },
     {
       "original": "Dil pe",
+      "romanized": "Dil pe",
       "speaker": "Calm",
       "translation": "On the heart",
       "explanation": "Calm begins a rapid-fire sequence detailing internal/external pressure.",
@@ -161,6 +178,7 @@ export const kohra: Song = {
     },
     {
       "original": "Chot hai",
+      "romanized": "Chot hai",
       "speaker": "Calm",
       "translation": "There is a wound",
       "explanation": "Refers to emotional trauma.",
@@ -168,6 +186,7 @@ export const kohra: Song = {
     },
     {
       "original": "Aur Sarr pe",
+      "romanized": "Aur Sarr pe",
       "speaker": "Calm",
       "translation": "And on the head",
       "explanation": "Refers to the mental burden or responsibility.",
@@ -175,6 +194,7 @@ export const kohra: Song = {
     },
     {
       "original": "Bohot hai",
+      "romanized": "Bohot hai",
       "speaker": "Calm",
       "translation": "There is a lot (of weight/pressure).",
       "explanation": "The weight of expectations and fame.",
@@ -182,6 +202,7 @@ export const kohra: Song = {
     },
     {
       "original": "Par ladke",
+      "romanized": "Par ladke",
       "speaker": "Calm",
       "translation": "But the boys",
       "explanation": "Referring to himself and Encore.",
@@ -189,6 +210,7 @@ export const kohra: Song = {
     },
     {
       "original": "Sort hai",
+      "romanized": "Sort hai",
       "speaker": "Calm",
       "translation": "Are sorted/chilled.",
       "explanation": "Irony—appearing okay on the outside despite the internal 'chot'.",
@@ -202,6 +224,7 @@ export const kohra: Song = {
     },
     {
       "original": "Bas chahte",
+      "romanized": "Bas chahte",
       "speaker": "Calm",
       "translation": "Just desire",
       "explanation": "Their ultimate goal.",
@@ -216,6 +239,7 @@ export const kohra: Song = {
     },
     {
       "original": "Moksh hai",
+      "romanized": "Moksh hai",
       "speaker": "Calm",
       "translation": "Liberation.",
       "explanation": "Seeking freedom from the cycle of pain and industry BS.",
@@ -229,6 +253,7 @@ export const kohra: Song = {
     },
     {
       "original": "Main kabse",
+      "romanized": "Main kabse",
       "speaker": "Calm",
       "translation": "For so long now",
       "explanation": "Duration of his silent struggle.",
@@ -236,6 +261,7 @@ export const kohra: Song = {
     },
     {
       "original": "Likh likh dard door door kar foot foot roya",
+      "romanized": "Likh likh dard door door kar foot foot roya",
       "speaker": "Calm",
       "translation": "I cried uncontrollably while writing away the pain.",
       "explanation": "The cathartic but exhausting process of making music to heal.",
@@ -243,6 +269,7 @@ export const kohra: Song = {
     },
     {
       "original": "Boond boond jama khoon khoon khaula",
+      "romanized": "Boond boond jama khoon khoon khaula",
       "speaker": "Calm",
       "translation": "Drop by drop, blood gathered and then boiled.",
       "explanation": "Metaphor for slow-building anger and hard-earned passion.",
@@ -250,6 +277,7 @@ export const kohra: Song = {
     },
     {
       "original": "Kami mehsoos hui khoob mere khoon ki bas",
+      "romanized": "Kami mehsoos hui khoob mere khoon ki bas",
       "speaker": "Calm",
       "translation": "I felt a great lack of my own blood (energy/essence).",
       "explanation": "Feeling drained or depleted by the demands of life.",
@@ -257,6 +285,7 @@ export const kohra: Song = {
     },
     {
       "original": "Par yaha bhi dhoondli chatt",
+      "romanized": "Par yaha bhi dhoondli chatt",
       "speaker": "Calm",
       "translation": "But even here, the ceiling is blurry.",
       "explanation": "The 'Kohra' (fog) metaphor—even when successful, the future is unclear.",
@@ -264,6 +293,7 @@ export const kohra: Song = {
     },
     {
       "original": "Aur katta hai chutiya sabka",
+      "romanized": "Aur katta hai chutiya sabka",
       "speaker": "Calm",
       "translation": "And everyone gets screwed over.",
       "explanation": "A cynical observation of how life or the industry deceives people.",
@@ -277,6 +307,7 @@ export const kohra: Song = {
     },
     {
       "original": "Ab yaad ni wo din jab me dard aur iss doori ko",
+      "romanized": "Ab yaad ni wo din jab me dard aur iss doori ko",
       "speaker": "Calm",
       "translation": "I don't remember those days when I used to...",
       "explanation": "Reflecting on a time when he was more resilient or indifferent.",
@@ -284,6 +315,7 @@ export const kohra: Song = {
     },
     {
       "original": "Deta tha shuniya fucks ha",
+      "romanized": "Deta tha shuniya fucks ha",
       "speaker": "Calm",
       "translation": "Give zero fucks, yeah.",
       "explanation": "Shuniya means zero; he misses being unbothered by the world.",
@@ -297,6 +329,7 @@ export const kohra: Song = {
     },
     {
       "original": "Inn sapno k nasho me andha",
+      "romanized": "Inn sapno k nasho me andha",
       "speaker": "Calm",
       "translation": "Blinded by the high of these dreams.",
       "explanation": "Success can be as intoxicating and blinding as a drug.",
@@ -304,6 +337,7 @@ export const kohra: Song = {
     },
     {
       "original": "Tha Bhoola kuch zaruri banda",
+      "romanized": "Tha Bhoola kuch zaruri banda",
       "speaker": "Calm",
       "translation": "I forgot some important people.",
       "explanation": "Admitting that the pursuit of fame caused him to lose touch with his roots or loved ones.",
@@ -311,6 +345,7 @@ export const kohra: Song = {
     },
     {
       "original": "Rahees par pyaar se kangaal",
+      "romanized": "Rahees par pyaar se kangaal",
       "speaker": "Calm",
       "translation": "Rich, but a beggar when it comes to love.",
       "explanation": "A classic hip-hop trope—financial wealth vs. emotional poverty.",
@@ -324,6 +359,7 @@ export const kohra: Song = {
     },
     {
       "original": "Log poochte hai",
+      "romanized": "Log poochte hai",
       "speaker": "Encore ABJ",
       "translation": "People ask me",
       "explanation": "Addressing the fans or critics.",
@@ -331,6 +367,7 @@ export const kohra: Song = {
     },
     {
       "original": "Ke dard Kyu likhta hai",
+      "romanized": "Ke dard Kyu likhta hai",
       "speaker": "Encore ABJ",
       "translation": "Why do you write about pain?",
       "explanation": "Questioning why Seedhe Maut's music is often dark and vulnerable.",
@@ -345,6 +382,7 @@ export const kohra: Song = {
     },
     {
       "original": "Kyuki dard baat ta hu to dard",
+      "romanized": "Kyuki dard baat ta hu to dard",
       "speaker": "Encore ABJ",
       "translation": "Because when I share the pain, the pain...",
       "explanation": "Explaining the therapeutic nature of their lyrics.",
@@ -352,6 +390,7 @@ export const kohra: Song = {
     },
     {
       "original": "Kamm lagta hai",
+      "romanized": "Kamm lagta hai",
       "speaker": "Encore ABJ",
       "translation": "Feels like less.",
       "explanation": "Shared pain is halved; vulnerability connects him to the listeners.",
@@ -359,6 +398,7 @@ export const kohra: Song = {
     },
     {
       "original": "Merme nahi hai ego to jhoot nahi likhta mai",
+      "romanized": "Merme nahi hai ego to jhoot nahi likhta mai",
       "speaker": "Encore ABJ",
       "translation": "I don't have ego, so I don't write lies.",
       "explanation": "Asserting his authenticity as a 'real' rapper.",
@@ -366,6 +406,7 @@ export const kohra: Song = {
     },
     {
       "original": "Tumse baat karta hu to dil bhar uth ta hai",
+      "romanized": "Tumse baat karta hu to dil bhar uth ta hai",
       "speaker": "Encore ABJ",
       "translation": "When I talk to you (the audience), my heart overflows.",
       "explanation": "Emotional connection with the fans through his verses.",
@@ -373,6 +414,7 @@ export const kohra: Song = {
     },
     {
       "original": "Papo ka bhar ch चुका ghada",
+      "romanized": "Papo ka bhar ch चुका ghada",
       "speaker": "Encore ABJ",
       "translation": "The jar of sins is full.",
       "explanation": "Acknowledging his own flaws and past mistakes.",
@@ -380,6 +422,7 @@ export const kohra: Song = {
     },
     {
       "original": "Bas likhta hu bada",
+      "romanized": "Bas likhta hu bada",
       "speaker": "Encore ABJ",
       "translation": "I just write big things.",
       "explanation": "His pen game is superior, but he remains humble.",
@@ -387,6 +430,7 @@ export const kohra: Song = {
     },
     {
       "original": "Par nahi hu haalato se bada",
+      "romanized": "Par nahi hu haalato se bada",
       "speaker": "Encore ABJ",
       "translation": "But I am not bigger than my circumstances.",
       "explanation": "Admitting that fame hasn't made him invincible to life's problems.",
@@ -394,6 +438,7 @@ export const kohra: Song = {
     },
     {
       "original": "Mai nahi hu",
+      "romanized": "Mai nahi hu",
       "speaker": "Encore ABJ",
       "translation": "I am not",
       "explanation": "Repetition for emphasis.",
@@ -401,6 +446,7 @@ export const kohra: Song = {
     },
     {
       "original": "In raato se bada",
+      "romanized": "In raato se bada",
       "speaker": "Encore ABJ",
       "translation": "Bigger than these nights.",
       "explanation": "The 'nights' symbolize dark thoughts and depression.",
@@ -408,6 +454,7 @@ export const kohra: Song = {
     },
     {
       "original": "In saanso jazbato se bada jo nirbhar hai mujhpe",
+      "romanized": "In saanso jazbato se bada jo nirbhar hai mujhpe",
       "speaker": "Encore ABJ",
       "translation": "Bigger than these breaths and emotions that depend on me.",
       "explanation": "Acknowledging the responsibility he has toward his own mental health and family.",
@@ -415,6 +462,7 @@ export const kohra: Song = {
     },
     {
       "original": "To Pairo pe khada hu khudke",
+      "romanized": "To Pairo pe khada hu khudke",
       "speaker": "Encore ABJ",
       "translation": "So I stand on my own feet.",
       "explanation": "Reasserting independence despite the struggle.",
@@ -422,6 +470,7 @@ export const kohra: Song = {
     },
     {
       "original": "In pairo pe khada hu khudse",
+      "romanized": "In pairo pe khada hu khudse",
       "speaker": "Encore ABJ",
       "translation": "Standing on these feet by myself.",
       "explanation": "Emphasis on self-reliance.",
@@ -429,6 +478,7 @@ export const kohra: Song = {
     },
     {
       "original": "Ab Dekhu na kabhi bhi mudke",
+      "romanized": "Ab Dekhu na kabhi bhi mudke",
       "speaker": "Encore ABJ",
       "translation": "I won't ever look back now.",
       "explanation": "Determination to move forward from the past.",
@@ -436,6 +486,7 @@ export const kohra: Song = {
     },
     {
       "original": "To Chahe aur jitna bhi ludke",
+      "romanized": "To Chahe aur jitna bhi ludke",
       "speaker": "Encore ABJ",
       "translation": "No matter how much more things tumble.",
       "explanation": "Ready to face whatever chaos comes next.",
@@ -450,6 +501,7 @@ export const kohra: Song = {
     },
     {
       "original": "Hum pehele se zada chatur hai",
+      "romanized": "Hum pehele se zada chatur hai",
       "speaker": "Encore ABJ",
       "translation": "We are smarter than before.",
       "explanation": "Wisdom gained from the 'zalim' experiences mentioned earlier.",
@@ -463,6 +515,7 @@ export const kohra: Song = {
     },
     {
       "original": "Chaati me dhuua gazab hai",
+      "romanized": "Chaati me dhuua gazab hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "The smoke in my chest is intense.",
       "explanation": "Dual meaning: Smoking weed and the heavy feeling of anxiety/stress.",
@@ -470,6 +523,7 @@ export const kohra: Song = {
     },
     {
       "original": "To bhi mai kahinch ta jau",
+      "romanized": "To bhi mai kahinch ta jau",
       "speaker": "Calm & Encore ABJ",
       "translation": "Yet I keep pulling/inhaling.",
       "explanation": "Continuing with the habit despite knowing it adds to the 'fog'.",
@@ -477,6 +531,7 @@ export const kohra: Song = {
     },
     {
       "original": "Bheje me kohra bohot hai",
+      "romanized": "Bheje me kohra bohot hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "There is so much fog in my brain.",
       "explanation": "The core metaphor: Mental confusion, lack of clarity, or dissociation.",
@@ -490,6 +545,7 @@ export const kohra: Song = {
     },
     {
       "original": "Kaise ye dhunnd uthaau",
+      "romanized": "Kaise ye dhunnd uthaau",
       "speaker": "Calm & Encore ABJ",
       "translation": "How do I lift this mist?",
       "explanation": "A plea for clarity and mental peace.",
@@ -497,6 +553,7 @@ export const kohra: Song = {
     },
     {
       "original": "Sahi iraade aur bhool chook",
+      "romanized": "Sahi iraade aur bhool chook",
       "speaker": "Calm & Encore ABJ",
       "translation": "Right intentions and mistakes.",
       "explanation": "The duality of trying to be a good person while failing.",
@@ -504,6 +561,7 @@ export const kohra: Song = {
     },
     {
       "original": "Dono hi bhool sa rahahu",
+      "romanized": "Dono hi bhool sa rahahu",
       "speaker": "Calm & Encore ABJ",
       "translation": "I am forgetting both.",
       "explanation": "Losing sense of self-identity in the chaos.",
@@ -511,6 +569,7 @@ export const kohra: Song = {
     },
     {
       "original": "Bheje me kohra bohot hai",
+      "romanized": "Bheje me kohra bohot hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "There is too much fog in my brain.",
       "explanation": "Reiterating the theme of mental haze.",
@@ -518,6 +577,7 @@ export const kohra: Song = {
     },
     {
       "original": "Yaha Ho chuke aankho se andhe",
+      "romanized": "Yaha Ho chuke aankho se andhe",
       "speaker": "Calm & Encore ABJ",
       "translation": "We have become blind in our eyes here.",
       "explanation": "Inability to see the truth or the right path.",
@@ -525,6 +585,7 @@ export const kohra: Song = {
     },
     {
       "original": "Bas mujhe dekhte jao",
+      "romanized": "Bas mujhe dekhte jao",
       "speaker": "Calm & Encore ABJ",
       "translation": "Just keep watching me.",
       "explanation": "Performative nature—the world watches while he struggles.",
@@ -539,6 +600,7 @@ export const kohra: Song = {
     },
     {
       "original": "Kaise lagake mukhauta",
+      "romanized": "Kaise lagake mukhauta",
       "speaker": "Calm & Encore ABJ",
       "translation": "How, wearing a mask,",
       "explanation": "The 'mukhauta' represents the persona they put on for the public.",
@@ -552,6 +614,7 @@ export const kohra: Song = {
     },
     {
       "original": "Mai rote hue muskurau",
+      "romanized": "Mai rote hue muskurau",
       "speaker": "Calm & Encore ABJ",
       "translation": "I smile while crying.",
       "explanation": "The classic trope of the sad performer pretending to be happy.",
@@ -559,6 +622,7 @@ export const kohra: Song = {
     },
     {
       "original": "Jotey bhi dete ni saath ab",
+      "romanized": "Jotey bhi dete ni saath ab",
       "speaker": "Calm & Encore ABJ",
       "translation": "Even the joints don't help anymore.",
       "explanation": "Substances no longer provide the escape they used to.",
@@ -572,6 +636,7 @@ export const kohra: Song = {
     },
     {
       "original": "Mai sahi me thakk chuka hu",
+      "romanized": "Mai sahi me thakk chuka hu",
       "speaker": "Calm & Encore ABJ",
       "translation": "I am truly exhausted.",
       "explanation": "Mental and emotional burnout.",
@@ -579,6 +644,7 @@ export const kohra: Song = {
     },
     {
       "original": "Fass chuka hu",
+      "romanized": "Fass chuka hu",
       "speaker": "Calm & Encore ABJ",
       "translation": "I am stuck.",
       "explanation": "Feeling trapped in his own head or the industry cycle.",
@@ -586,6 +652,7 @@ export const kohra: Song = {
     },
     {
       "original": "Marr sa raha hu",
+      "romanized": "Marr sa raha hu",
       "speaker": "Calm & Encore ABJ",
       "translation": "I feel like I'm dying.",
       "explanation": "Hyperbole for intense emotional distress.",
@@ -593,6 +660,7 @@ export const kohra: Song = {
     },
     {
       "original": "Dar raha",
+      "romanized": "Dar raha",
       "speaker": "Calm & Encore ABJ",
       "translation": "I am scared.",
       "explanation": "Raw admission of fear, rare in 'hard' rap.",
@@ -600,6 +668,7 @@ export const kohra: Song = {
     },
     {
       "original": "Humesha se motto tha ek hi bas go work",
+      "romanized": "Humesha se motto tha ek hi bas go work",
       "speaker": "Encore ABJ",
       "translation": "The motto was always just one: go work.",
       "explanation": "The obsession with productivity as a distraction.",
@@ -607,6 +676,7 @@ export const kohra: Song = {
     },
     {
       "original": "Zindagi le class",
+      "romanized": "Zindagi le class",
       "speaker": "Encore ABJ",
       "translation": "Life takes the class,",
       "explanation": "Life is the teacher/ordeal.",
@@ -621,6 +691,7 @@ export const kohra: Song = {
     },
     {
       "original": "Verses hai home work",
+      "romanized": "Verses hai home work",
       "speaker": "Encore ABJ",
       "translation": "Verses are homework.",
       "explanation": "Music is the daily practice required to survive life's lessons.",
@@ -628,6 +699,7 @@ export const kohra: Song = {
     },
     {
       "original": "Versus un logo ke jo rakhe 2 muh, yaha pe hai 2 sar",
+      "romanized": "Versus un logo ke jo rakhe 2 muh, yaha pe hai 2 sar",
       "speaker": "Encore ABJ",
       "translation": "Against people with two faces; here we have two heads.",
       "explanation": "SM (the duo) vs. fake/hypocritical people in the industry.",
@@ -635,6 +707,7 @@ export const kohra: Song = {
     },
     {
       "original": "Oh yeah",
+      "romanized": "Oh yeah",
       "speaker": "Encore ABJ",
       "translation": "Oh yeah.",
       "explanation": "Ad-lib.",
@@ -642,6 +715,7 @@ export const kohra: Song = {
     },
     {
       "original": "Thode se woke aur thode se loafer",
+      "romanized": "Thode se woke aur thode se loafer",
       "speaker": "Encore ABJ",
       "translation": "A bit woke and a bit of a loafer.",
       "explanation": "Describing their contradictory nature—socially aware yet rebellious.",
@@ -649,6 +723,7 @@ export const kohra: Song = {
     },
     {
       "original": "Thoda se log aur diye hai kho",
+      "romanized": "Thoda se log aur diye hai kho",
       "speaker": "Encore ABJ",
       "translation": "Lost a few more people.",
       "explanation": "The cost of fame is losing friends/connections.",
@@ -656,6 +731,7 @@ export const kohra: Song = {
     },
     {
       "original": "Par ab hota hai no dard",
+      "romanized": "Par ab hota hai no dard",
       "speaker": "Encore ABJ",
       "translation": "But now there is no pain.",
       "explanation": "Either healing or, more likely, becoming completely numb.",
@@ -663,6 +739,7 @@ export const kohra: Song = {
     },
     {
       "original": "Chaati me dhua gazab hai",
+      "romanized": "Chaati me dhua gazab hai",
       "speaker": "Calm",
       "translation": "The smoke in my chest is intense.",
       "explanation": "Repeating the hook's imagery of substance use and anxiety.",
@@ -670,6 +747,7 @@ export const kohra: Song = {
     },
     {
       "original": "To bhi me khaichta jaau",
+      "romanized": "To bhi me khaichta jaau",
       "speaker": "Calm",
       "translation": "Yet I keep inhaling.",
       "explanation": "Continuing the cycle.",
@@ -684,6 +762,7 @@ export const kohra: Song = {
     },
     {
       "original": "Aur kab tak dab k jiyu ye chhal kapat si zindagi",
+      "romanized": "Aur kab tak dab k jiyu ye chhal kapat si zindagi",
       "speaker": "Calm",
       "translation": "And how long must I live this life of deception under pressure?",
       "explanation": "Questioning the fakeness of the world around him.",
@@ -691,6 +770,7 @@ export const kohra: Song = {
     },
     {
       "original": "Me kal safal ni hua to sharm se marr na jau",
+      "romanized": "Me kal safal ni hua to sharm se marr na jau",
       "speaker": "Calm",
       "translation": "If I am not successful tomorrow, I might die of shame.",
       "explanation": "The immense pressure of maintaining their status in the scene.",
@@ -698,6 +778,7 @@ export const kohra: Song = {
     },
     {
       "original": "Ye latt kameeni kap kapi jo hui thi kamm wo jhat se wapas aayi firr me bhi",
+      "romanized": "Ye latt kameeni kap kapi jo hui thi kamm wo jhat se wapas aayi firr me bhi",
       "speaker": "Calm",
       "translation": "This wretched addiction—the shivering that had lessened—suddenly returned, and then I...",
       "explanation": "Describing the physical and mental symptoms of withdrawal or anxiety returning.",
@@ -705,6 +786,7 @@ export const kohra: Song = {
     },
     {
       "original": "Vapas laut aaya tha jaha se",
+      "romanized": "Vapas laut aaya tha jaha se",
       "speaker": "Encore ABJ",
       "translation": "Returned to where I started.",
       "explanation": "The song ends on a loop, signifying the repetitive nature of their struggle.",
@@ -712,6 +794,7 @@ export const kohra: Song = {
     },
     {
       "original": "Usi raah pe fir chal pada hu",
+      "romanized": "Usi raah pe fir chal pada hu",
       "speaker": "Encore ABJ",
       "translation": "I'm back on that same path.",
       "explanation": "Cyclical structure reflecting the 'latt' (addiction/habit).",
@@ -719,6 +802,7 @@ export const kohra: Song = {
     },
     {
       "original": "Ae zalim haseena",
+      "romanized": "Ae zalim haseena",
       "speaker": "Encore ABJ",
       "translation": "O cruel beauty.",
       "explanation": "Final address to the personification of his struggle.",
@@ -726,6 +810,7 @@ export const kohra: Song = {
     },
     {
       "original": "Mai bas tere gum gin raha hu",
+      "romanized": "Mai bas tere gum gin raha hu",
       "speaker": "Encore ABJ",
       "translation": "I'm just counting the sorrows you gave me.",
       "explanation": "Final state of melancholy.",
@@ -733,6 +818,7 @@ export const kohra: Song = {
     },
     {
       "original": "Kya waqai me hal hai?",
+      "romanized": "Kya waqai me hal hai?",
       "speaker": "Encore ABJ",
       "translation": "Is there really a solution?",
       "explanation": "The song ends on an unanswered question.",
@@ -740,6 +826,7 @@ export const kohra: Song = {
     },
     {
       "original": "Ya mai bas zaya waqt kar raha hu?",
+      "romanized": "Ya mai bas zaya waqt kar raha hu?",
       "speaker": "Encore ABJ",
       "translation": "Or am I just wasting time?",
       "explanation": "Unresolved doubt.",
@@ -747,6 +834,7 @@ export const kohra: Song = {
     },
     {
       "original": "Ya mai pakka sahi hu",
+      "romanized": "Ya mai pakka sahi hu",
       "speaker": "Encore ABJ",
       "translation": "Or am I definitely right?",
       "explanation": "Final search for meaning.",
@@ -761,6 +849,7 @@ export const kohra: Song = {
     },
     {
       "original": "Ya mai sahi me andha ho chuka hu",
+      "romanized": "Ya mai sahi me andha ho chuka hu",
       "speaker": "Encore ABJ",
       "translation": "Or have I truly become blind?",
       "explanation": "Ending in the 'fog' (Kohra).",
@@ -768,6 +857,7 @@ export const kohra: Song = {
     },
     {
       "original": "Sez on the beat boy",
+      "romanized": "Sez on the beat boy",
       "speaker": "Encore ABJ",
       "translation": "Sez on the beat, boy.",
       "explanation": "Producer tag for Sez On The Beat, who produced this melancholic masterpiece.",

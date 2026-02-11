@@ -10,6 +10,7 @@ export const tt: Song = {
   "lyrics": [
     {
       "original": "Ahem-ahem",
+      "romanized": "Ahem-ahem",
       "speaker": "Encore ABJ",
       "translation": "Ahem-ahem (clearing throat)",
       "explanation": "Encore clears his throat to announce his arrival on the track, setting the tone for what's to come.",
@@ -17,6 +18,7 @@ export const tt: Song = {
     },
     {
       "original": "Oh shit, Seedhe Maut नए office में",
+      "romanized": "Oh shit, Seedhe Maut nae office men",
       "speaker": "Encore ABJ",
       "translation": "Oh shit, Seedhe Maut is in a new office.",
       "explanation": "Announcing that Seedhe Maut has moved on to bigger things, likely referencing their independence from Azadi Records and their new setup.",
@@ -24,6 +26,7 @@ export const tt: Song = {
     },
     {
       "original": "Bad bitches DM में है बोले, \"Aww kiss me\"",
+      "romanized": "Bad bitches DM men hai bole, \"Aww kiss me\"",
       "speaker": "Encore ABJ",
       "translation": "Bad bitches are in my DMs saying, \"Aww kiss me.\"",
       "explanation": "Bragging about female attention and the fame that comes with their success.",
@@ -37,6 +40,7 @@ export const tt: Song = {
     },
     {
       "original": "App uninstall, हूँ मैं बैठा cottage में",
+      "romanized": "App uninstall, hoon main baithaa cottage men",
       "speaker": "Encore ABJ",
       "translation": "Apps uninstalled, I'm sitting in a cottage.",
       "explanation": "He's disconnected from social media and is relaxing in the mountains, away from the noise and drama.",
@@ -44,6 +48,7 @@ export const tt: Song = {
     },
     {
       "original": "पहाड़ों पे दूर और ये कलम hostage",
+      "romanized": "Pahaaron pe doora aura ye kalama hostage",
       "speaker": "Encore ABJ",
       "translation": "Far away in the mountains and this pen is held hostage.",
       "explanation": "Even while retreating to the hills, his pen (writing ability) remains captive to the craft — he can't stop writing bars.",
@@ -57,6 +62,7 @@ export const tt: Song = {
     },
     {
       "original": "Test करे कौन हमें? बेटा contest है",
+      "romanized": "Test kare kauna hamen? betaa contest hai",
       "speaker": "Encore ABJ",
       "translation": "Who's going to test us? Son, it's a contest.",
       "explanation": "Challenging anyone who dares to compete with them — making it clear that if you step to SM, it's a competition you'll lose.",
@@ -64,6 +70,7 @@ export const tt: Song = {
     },
     {
       "original": "घाव देता झूठ, मेरा मरहम honest है",
+      "romanized": "Ghaava detaa jhootha, meraa marahama honest hai",
       "speaker": "Encore ABJ",
       "translation": "Lies inflict wounds, my ointment is honesty.",
       "explanation": "While others wound people with lies, Encore heals with truth. A contrast between SM's authenticity and their opponents' dishonesty.",
@@ -77,6 +84,7 @@ export const tt: Song = {
     },
     {
       "original": "हम ना ही born rich है (C'mon)",
+      "romanized": "Hama naa hee born rich hai (C'mon)",
       "speaker": "Encore ABJ",
       "translation": "We weren't born rich.",
       "explanation": "Establishing that SM came from humble beginnings — everything they have, they earned through hard work, unlike some who had privilege.",
@@ -84,6 +92,7 @@ export const tt: Song = {
     },
     {
       "original": "बालकों को diss चाहिए, diss देते",
+      "romanized": "Baalakon ko diss chaahie, diss dete",
       "speaker": "Encore ABJ",
       "translation": "These kids want a diss, so we give them a diss.",
       "explanation": "SOS and others were begging for attention by provoking SM, so SM is finally giving them what they asked for.",
@@ -97,6 +106,7 @@ export const tt: Song = {
     },
     {
       "original": "बंदी का नाम ले तो बंदों को stitch देते",
+      "romanized": "Bandee kaa naama le to bandon ko stitch dete",
       "speaker": "Encore ABJ",
       "translation": "If you take a woman's name, we'll stitch these guys up.",
       "explanation": "If anyone disrespects a woman associated with them, SM will beat them so badly they'll need stitches. A warning about crossing personal lines.",
@@ -115,6 +125,7 @@ export const tt: Song = {
     },
     {
       "original": "जब जागो तभी सवेरा है",
+      "romanized": "Jaba jaago tabhee saveraa hai",
       "speaker": "Encore ABJ",
       "translation": "Whenever you wake up, that's when the morning begins.",
       "explanation": "A Hindi proverb meaning it's never too late to start — used here to say SM is waking up to address this beef now, and the reckoning begins.",
@@ -128,6 +139,7 @@ export const tt: Song = {
     },
     {
       "original": "जो तुझपे नी छोड़ा, अबे लौड़े वो तीर तू क्यूँ ले रहा है यहाँ?",
+      "romanized": "Jo tujhape nee chhoraa, abe laure vo teera too kyoon le rahaa hai yahaan?",
       "speaker": "Encore ABJ",
       "translation": "The arrow that wasn't aimed at you, dickhead, why are you catching it here?",
       "explanation": "Telling SOS or other rappers not to insert themselves into beef that wasn't directed at them — they're getting hit by arrows meant for someone else because they chose to get involved.",
@@ -141,6 +153,7 @@ export const tt: Song = {
     },
     {
       "original": "फल दूंगा कर्मों का जो सारे तूने किए",
+      "romanized": "Phala doongaa karmon kaa jo saare toone kie",
       "speaker": "Encore ABJ",
       "translation": "I'll give you the fruits of all the karma you've earned.",
       "explanation": "A reference to the Hindu concept of karma — all the shady things you've done will come back to you, and SM will be the one delivering that karmic payback.",
@@ -154,6 +167,7 @@ export const tt: Song = {
     },
     {
       "original": "आग दूंगा यहां से जो वहां से तूने धुएं दिए (Bitch)",
+      "romanized": "Aaga doongaa yahaan se jo vahaan se toone dhuen die (Bitch)",
       "speaker": "Encore ABJ",
       "translation": "I'll give fire from here for the smoke you sent from there, bitch.",
       "explanation": "If you sent smoke (provocation/disrespect) from your side, SM will send back actual fire (a devastating response). The smoke-to-fire escalation shows SM hits harder than what's thrown at them.",
@@ -167,6 +181,7 @@ export const tt: Song = {
     },
     {
       "original": "आखरी है warning और तुझको है no idea",
+      "romanized": "Aakharee hai warning aura tujhako hai no idea",
       "speaker": "Encore ABJ",
       "translation": "This is the last warning and you have no idea.",
       "explanation": "A final warning to SOS — they have no idea how bad things can get if they continue provoking SM.",
@@ -174,6 +189,7 @@ export const tt: Song = {
     },
     {
       "original": "एक diss फेकूंगा, लौंडे कहेंगे, \"UAPA\" (Woo)",
+      "romanized": "Eka diss phekoongaa, launde kahenge, \"UAPA\" (Woo)",
       "speaker": "Encore ABJ",
       "translation": "I'll drop one diss and people will call it \"UAPA.\"",
       "explanation": "The diss will be so brutal and destructive that people will compare it to UAPA — India's harsh anti-terror law. Just as UAPA can lock someone away indefinitely, this diss will end careers. Also a pointed reference since SOS is from Kashmir, where UAPA is frequently invoked.",
@@ -187,6 +203,7 @@ export const tt: Song = {
     },
     {
       "original": "आया दो-चार rapper'on पे मूतने (Ha-ha)",
+      "romanized": "Aayaa do-chaara rapper'on pe mootane (Ha-ha)",
       "speaker": "Calm",
       "translation": "I came to piss on a couple of rappers.",
       "explanation": "Calm opens his verse announcing his intent to disrespect and dominate other rappers, treating them as beneath him.",
@@ -200,6 +217,7 @@ export const tt: Song = {
     },
     {
       "original": "आया studio में BM में और DM में है चूतिये",
+      "romanized": "Aayaa studio men BM men aura DM men hai chootiye",
       "speaker": "Calm",
       "translation": "I've arrived in the studio, in the BM, and idiots are in my DMs.",
       "explanation": "Calm is active everywhere — in the studio making music, in a luxury BMW, and getting messages from fools trying to reach him.",
@@ -218,6 +236,7 @@ export const tt: Song = {
     },
     {
       "original": "जो है कौन ये ना पूछिए, बस है वो दो-तीन चूतिये",
+      "romanized": "Jo hai kauna ye naa poochhie, basa hai vo do-teena chootiye",
       "speaker": "Calm",
       "translation": "Don't ask who they are, they're just those two-three idiots.",
       "explanation": "Dismissing SOS and their circle as irrelevant — not even worth naming. The 'two-three' likely refers to the SOS duo plus their manager/label associates.",
@@ -225,6 +244,7 @@ export const tt: Song = {
     },
     {
       "original": "जो चाहते लड़ूं चूतियों से, चूतियों से चूतिये हैं",
+      "romanized": "Jo chaahate laroon chootiyon se, chootiyon se chootiye hain",
       "speaker": "Calm",
       "translation": "Those who want me to fight idiots — they're idiots themselves.",
       "explanation": "Even the people encouraging this beef are fools. Calm considers the whole situation beneath him.",
@@ -232,6 +252,7 @@ export const tt: Song = {
     },
     {
       "original": "I'm married to the game और रोज ही चुपा देती pookie एक",
+      "romanized": "I'm married to the game aura roja hee chupaa detee pookie eka",
       "speaker": "Calm",
       "translation": "I'm married to the game and every day my pookie hides one away.",
       "explanation": "Using the 'married to the game' metaphor with a playful twist — his 'pookie' (the game/music) takes care of him daily. Double entendre with romantic and street connotations.",
@@ -245,6 +266,7 @@ export const tt: Song = {
     },
     {
       "original": "I take it easy when I cook, आराम से",
+      "romanized": "I take it easy when I cook, aaraama se",
       "speaker": "Calm",
       "translation": "I take it easy when I cook, nice and easy.",
       "explanation": "When he makes music ('cooks'), he does it effortlessly. His skill is so natural it doesn't require strain.",
@@ -258,6 +280,7 @@ export const tt: Song = {
     },
     {
       "original": "A Ramsay, a rhyme slayer, papa तेरा rap mayor",
+      "romanized": "A Ramsay, a rhyme slayer, papa teraa rap mayor",
       "speaker": "Calm",
       "translation": "A Ramsay, a rhyme slayer, your papa is the rap mayor.",
       "explanation": "Comparing himself to Gordon Ramsay as a master of his craft (cooking/rapping), calling himself a rhyme slayer and the mayor of rap — the one who runs this city.",
@@ -276,6 +299,7 @@ export const tt: Song = {
     },
     {
       "original": "ऐसे ले लूं नाम मैं इसे आएंगे nightmare",
+      "romanized": "Aise le loon naama main ise aaenge nightmare",
       "speaker": "Calm",
       "translation": "The way I'll take his name, he'll have nightmares.",
       "explanation": "Just mentioning SOS's name in a diss will haunt them — Calm's words carry enough weight to give them sleepless nights.",
@@ -283,6 +307,7 @@ export const tt: Song = {
     },
     {
       "original": "इसके शहर में है कहर, है कसाई ढेर",
+      "romanized": "Isake shahara men hai kahara, hai kasaaee dhera",
       "speaker": "Calm",
       "translation": "There's havoc in his city, butchers piled up.",
       "explanation": "SM is causing destruction in SOS's city (Kashmir). 'Kasai' (butcher) implies SM is slaughtering the competition there.",
@@ -301,6 +326,7 @@ export const tt: Song = {
     },
     {
       "original": "इसके बड़े भाई के बड़े भाई है मेरे भाई there",
+      "romanized": "Isake bare bhaaee ke bare bhaaee hai mere bhaaee there",
       "speaker": "Calm",
       "translation": "His big brother's big brother is my brother there.",
       "explanation": "Calm's connections run deeper than SOS's — even the people above SOS's hierarchy are cool with Calm. A flex about having superior reach and relationships in their own territory.",
@@ -308,6 +334,7 @@ export const tt: Song = {
     },
     {
       "original": "Sauce जैसे Heinz here, आजा खड़ा right here",
+      "romanized": "Sauce jaise Heinz here, aajaa kharaa right here",
       "speaker": "Calm",
       "translation": "Sauce like Heinz here, come stand right here.",
       "explanation": "He's dripping with sauce (style/swag) like Heinz ketchup and is challenging his opponent to step up and face him directly.",
@@ -326,6 +353,7 @@ export const tt: Song = {
     },
     {
       "original": "मुझसे ही सीखो, करो मुझको ही bite फिर (Aah)",
+      "romanized": "Mujhase hee seekho, karo mujhako hee bite phira (Aah)",
       "speaker": "Calm",
       "translation": "Learn from me, then go ahead and bite my style.",
       "explanation": "Accusing SOS of copying SM's style — they learn from Calm and then plagiarize his flows. 'Bite' is hip-hop slang for stealing someone's style.",
@@ -339,6 +367,7 @@ export const tt: Song = {
     },
     {
       "original": "गांड फटी लौंडे आते दिल्ली नी ये",
+      "romanized": "Gaanda phatee launde aate dillee nee ye",
       "speaker": "Calm",
       "translation": "These scared guys don't come to Delhi.",
       "explanation": "SOS is too afraid to show up in Delhi — SM's home turf. 'Gaand fati' literally means their ass is torn from fear.",
@@ -352,6 +381,7 @@ export const tt: Song = {
     },
     {
       "original": "भागे पीछे चूत और आजादी के और दोनों इन्हें मिले नी",
+      "romanized": "Bhaage peechhe choota aura aajaadee ke aura donon inhen mile nee",
       "speaker": "Calm",
       "translation": "They chased pussy and Azadi, and got neither.",
       "explanation": "A devastating double-meaning bar. SOS chased women and their label Azadi Records, but failed at both. 'Azadi' means freedom — so they chased freedom/independence too and didn't get that either. The label beef context makes this especially cutting.",
@@ -365,6 +395,7 @@ export const tt: Song = {
     },
     {
       "original": "इन दोनों का हूँ papa चलना सीखा इन'ने मेरे से ही",
+      "romanized": "Ina donon kaa hoon papa chalanaa seekhaa ina'ne mere se hee",
       "speaker": "Calm",
       "translation": "I'm the father of both of them, they learned to walk from me.",
       "explanation": "Calm claims to be SOS's father figure in rap — they learned the basics of rapping by imitating him, like a child learning to walk from a parent.",
@@ -372,6 +403,7 @@ export const tt: Song = {
     },
     {
       "original": "अच्छे से सुधारूं, ऐसी नाक है कटी पहले नी",
+      "romanized": "Achchhe se sudhaaroon, aisee naaka hai katee pahale nee",
       "speaker": "Calm",
       "translation": "Let me discipline them properly, their nose has never been cut like this before.",
       "explanation": "'Naak katna' means to be humiliated or lose face. Calm is saying he'll embarrass SOS in a way they've never experienced before.",
@@ -385,6 +417,7 @@ export const tt: Song = {
     },
     {
       "original": "Bata भी है Gucci if I put it on",
+      "romanized": "Bata bhee hai Gucci if I put it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Even Bata becomes Gucci if I put it on.",
       "explanation": "The iconic hook — even cheap Bata shoes look like luxury Gucci when SM wears them. Their aura and status elevate anything they touch.",
@@ -403,6 +436,7 @@ export const tt: Song = {
     },
     {
       "original": "TT भी है Louis if I put it on",
+      "romanized": "TT bhee hai Louis if I put it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Even a TT (local train) becomes Louis Vuitton if I put it on.",
       "explanation": "A basic Indian local train becomes a luxury Louis Vuitton experience when SM rides it. Everything they touch turns to gold.",
@@ -421,6 +455,7 @@ export const tt: Song = {
     },
     {
       "original": "कहना तुझे मेरे जैसा मिले कौन?",
+      "romanized": "Kahanaa tujhe mere jaisaa mile kauna?",
       "speaker": "Calm & Encore ABJ",
       "translation": "Tell me, where will you find someone like me?",
       "explanation": "A rhetorical challenge — SM is one of a kind and no one in Indian hip-hop can match their level.",
@@ -428,6 +463,7 @@ export const tt: Song = {
     },
     {
       "original": "महंगी shirt, I leave it on",
+      "romanized": "Mahangee shirt, I leave it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Expensive shirt, I leave it on.",
       "explanation": "Flexing luxury clothing — he keeps the expensive shirt on because he can afford it casually.",
@@ -435,6 +471,7 @@ export const tt: Song = {
     },
     {
       "original": "बंदी हो रही गीली, got the linen on",
+      "romanized": "Bandee ho rahee geelee, got the linen on",
       "speaker": "Calm & Encore ABJ",
       "translation": "The girl's getting wet, got the linen on.",
       "explanation": "His linen outfit is making women swoon. A flex on both his style and his effect on women.",
@@ -453,6 +490,7 @@ export const tt: Song = {
     },
     {
       "original": "आगे आके दाबूँ तेरी गिरेबान",
+      "romanized": "Aage aake daaboon teree girebaana",
       "speaker": "Calm & Encore ABJ",
       "translation": "I'll come forward and grab your collar.",
       "explanation": "A threat of physical confrontation — grabbing someone by the collar is a classic display of aggression and dominance in desi culture.",
@@ -466,6 +504,7 @@ export const tt: Song = {
     },
     {
       "original": "Bata भी है Gucci if I put it on",
+      "romanized": "Bata bhee hai Gucci if I put it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Even Bata becomes Gucci if I put it on.",
       "explanation": "Hook repeats — reinforcing the core message that SM's touch elevates everything.",
@@ -484,6 +523,7 @@ export const tt: Song = {
     },
     {
       "original": "TT भी है Louis if I put it on",
+      "romanized": "TT bhee hai Louis if I put it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Even a TT becomes Louis Vuitton if I put it on.",
       "explanation": "Hook repeats — a basic train becomes luxury with SM's stamp on it.",
@@ -502,6 +542,7 @@ export const tt: Song = {
     },
     {
       "original": "कहना तुझे मेरे जैसा मिले कौन",
+      "romanized": "Kahanaa tujhe mere jaisaa mile kauna",
       "speaker": "Calm & Encore ABJ",
       "translation": "Tell me, where will you find someone like me?",
       "explanation": "Repeated rhetorical flex — SM is unmatched.",
@@ -509,6 +550,7 @@ export const tt: Song = {
     },
     {
       "original": "महंगी shirt, I leave it on",
+      "romanized": "Mahangee shirt, I leave it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Expensive shirt, I leave it on.",
       "explanation": "Repeated flex on luxury and nonchalance.",
@@ -516,6 +558,7 @@ export const tt: Song = {
     },
     {
       "original": "बंदी हो रही गीली, got the linen on",
+      "romanized": "Bandee ho rahee geelee, got the linen on",
       "speaker": "Calm & Encore ABJ",
       "translation": "The girl's getting wet, got the linen on.",
       "explanation": "Repeated — his style has women attracted to him.",
@@ -523,6 +566,7 @@ export const tt: Song = {
     },
     {
       "original": "आगे आके दाबूँ तेरी गिरेबान",
+      "romanized": "Aage aake daaboon teree girebaana",
       "speaker": "Calm & Encore ABJ",
       "translation": "I'll come forward and grab your collar.",
       "explanation": "Repeated threat of confrontation.",
@@ -530,6 +574,7 @@ export const tt: Song = {
     },
     {
       "original": "आगे आके दाबूँ तेरे silicon",
+      "romanized": "Aage aake daaboon tere silicon",
       "speaker": "Encore ABJ & Calm",
       "translation": "I'll come forward and squeeze your silicon.",
       "explanation": "A crude sexual line continuing the 'aage aake daabun' pattern from the hook but switching the target to something vulgar — implying their opponents are fake (silicon/plastic).",
@@ -543,6 +588,7 @@ export const tt: Song = {
     },
     {
       "original": "आजा तुझे लेके चलूं Lebanon या Abu Dhabi",
+      "romanized": "Aajaa tujhe leke chaloon Lebanon yaa Abu Dhabi",
       "speaker": "Encore ABJ & Calm",
       "translation": "Come, let me take you to Lebanon or Abu Dhabi.",
       "explanation": "Flexing international reach and lifestyle — offering to take someone to these destinations, but with an underlying threatening tone given the context of the diss.",
@@ -550,6 +596,7 @@ export const tt: Song = {
     },
     {
       "original": "अब्बू खड़े ना करे, है बदतमीजी खामखा की",
+      "romanized": "Abboo khare naa kare, hai badatameejee khaamakhaa kee",
       "speaker": "Encore ABJ & Calm",
       "translation": "Don't make daddy stand up, this disrespect is unnecessary.",
       "explanation": "Warning SOS not to provoke SM ('daddy') into standing up and taking action — their disrespect is pointless and will only bring consequences.",
@@ -568,6 +615,7 @@ export const tt: Song = {
     },
     {
       "original": "Chainsaw आवाज़ करे जैसे Ninja Kawasaki",
+      "romanized": "Chainsaw aavaaza kare jaise Ninja Kawasaki",
       "speaker": "Encore ABJ & Calm",
       "translation": "The chainsaw sounds like a Ninja Kawasaki.",
       "explanation": "Their attack is loud and aggressive — comparing the sound of a chainsaw to a Kawasaki Ninja motorcycle. Both are loud, powerful, and dangerous.",
@@ -581,6 +629,7 @@ export const tt: Song = {
     },
     {
       "original": "आजा सीधा Delhi, पीटे पापा ताकि इनके खोलूं भोसड़े",
+      "romanized": "Aajaa seedhaa Delhi, peete paapaa taaki inake kholoon bhosare",
       "speaker": "Encore ABJ & Calm",
       "translation": "Come straight to Delhi, papa will beat you so I can tear you apart.",
       "explanation": "An invitation to SOS to come to Delhi and face SM in person — a direct physical threat, challenging them to step into SM's home territory.",
@@ -588,6 +637,7 @@ export const tt: Song = {
     },
     {
       "original": "फिर जाके सुनू Taba Chakе",
+      "romanized": "Phira jaake sunoo Taba Chakе",
       "speaker": "Encore ABJ & Calm",
       "translation": "Then I'll go listen to Taba Chake.",
       "explanation": "After destroying his opponents, he'll relax by listening to Taba Chake, an indie artist from Arunachal Pradesh known for mellow, soothing music. The contrast between violence and chill music is deliberate humor.",
@@ -601,6 +651,7 @@ export const tt: Song = {
     },
     {
       "original": "आते नी हैं Calm है जहाँ पे, देता इन्हें हाइप ही बाप है",
+      "romanized": "Aate nee hain Calm hai jahaan pe, detaa inhen haaipa hee baapa hai",
       "speaker": "Encore ABJ & Calm",
       "translation": "They don't come where Calm is, the one giving them hype is the father.",
       "explanation": "SOS avoids showing up where Calm is present. The one who gave them their hype (SM/Calm) is essentially their father in rap — they owe their visibility to SM.",
@@ -608,6 +659,7 @@ export const tt: Song = {
     },
     {
       "original": "आते जहाँ से दोनों, वहाँ पे तेरे भाई का नाम ही नाम है, नाम ही नाम हैधमकी भी दे रहा है कैसी तू, चल तेरी माँ की चूत",
+      "romanized": "Aate jahaan se donon, vahaan pe tere bhaaee kaa naama hee naama hai, naama hee naama haidhamakee bhee de rahaa hai kaisee too, chala teree maan kee choota",
       "speaker": "Encore ABJ & Calm",
       "translation": "Where both of them come from, your brother's name is everywhere. What kind of threats are you making? Get lost, motherfucker.",
       "explanation": "In Kashmir where SOS is from, SM's name rings louder than theirs. Then a direct, vulgar dismissal of any threats SOS has been making — SM doesn't take them seriously at all.",
@@ -621,6 +673,7 @@ export const tt: Song = {
     },
     {
       "original": "पहले भी मांग चुका माफ़ी तू",
+      "romanized": "Pahale bhee maanga chukaa maafee too",
       "speaker": "Encore ABJ & Calm",
       "translation": "You've already apologized before.",
       "explanation": "Revealing that SOS has previously apologized to SM — exposing them as people who talk tough publicly but beg forgiveness privately.",
@@ -628,6 +681,7 @@ export const tt: Song = {
     },
     {
       "original": "कोई फ़ायदा नी, कह रहा था Encore को verse हटा अपना, मैं इनके लिए काफ़ी हूँ",
+      "romanized": "Koee faayadaa nee, kaha rahaa thaa Encore ko verse hataa apanaa, main inake lie kaafee hoon",
       "speaker": "Encore ABJ & Calm",
       "translation": "No use, I was telling Encore to remove his verse — I'm enough for them.",
       "explanation": "Calm is so confident that he told Encore to sit this one out — Calm alone is more than enough to destroy SOS. An ultimate show of disrespect toward the opponents.",
@@ -635,6 +689,7 @@ export const tt: Song = {
     },
     {
       "original": "और वो सही बोल रहा है, तेरे अकेले में भरे Calm",
+      "romanized": "Aura vo sahee bola rahaa hai, tere akele men bhare Calm",
       "speaker": "Encore ABJ & Calm",
       "translation": "And he's right, Calm alone is heavy enough for you.",
       "explanation": "Encore confirms that Calm was right — Calm by himself outweighs both members of SOS combined.",
@@ -642,6 +697,7 @@ export const tt: Song = {
     },
     {
       "original": "Noida में बैठके ये, scam करे सरे-आम",
+      "romanized": "Noida men baithake ye, scam kare sare-aama",
       "speaker": "Encore ABJ & Calm",
       "translation": "Sitting in Noida, they scam openly.",
       "explanation": "Accusing SOS of running scams from Noida — possibly referring to shady label dealings or fake industry moves. Noida is also stereotypically associated with scam call centers.",
@@ -660,6 +716,7 @@ export const tt: Song = {
     },
     {
       "original": "नफरत है मन ही मन उस मिट्टी से जिस राजधानी मिट्टी पे बैठ के ये करे काम",
+      "romanized": "Napharata hai mana hee mana usa mittee se jisa raajadhaanee mittee pe baitha ke ye kare kaama",
       "speaker": "Encore ABJ & Calm",
       "translation": "They secretly hate the very soil of the capital city where they sit and work.",
       "explanation": "A pointed accusation that SOS harbors resentment toward Delhi — the very city that gave them their platform and career. They hate the land but benefit from it, exposing their hypocrisy.",
@@ -678,6 +735,7 @@ export const tt: Song = {
     },
     {
       "original": "Bata भी है Gucci if I put it on",
+      "romanized": "Bata bhee hai Gucci if I put it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Even Bata becomes Gucci if I put it on.",
       "explanation": "Hook repeats — SM elevates everything they touch.",
@@ -696,6 +754,7 @@ export const tt: Song = {
     },
     {
       "original": "TT भी है Louis if I put it on",
+      "romanized": "TT bhee hai Louis if I put it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Even a TT becomes Louis Vuitton if I put it on.",
       "explanation": "Hook repeats — the basic becomes luxury through SM.",
@@ -714,6 +773,7 @@ export const tt: Song = {
     },
     {
       "original": "कहना तुझे मेरे जैसा मिले कौन?",
+      "romanized": "Kahanaa tujhe mere jaisaa mile kauna?",
       "speaker": "Calm & Encore ABJ",
       "translation": "Tell me, where will you find someone like me?",
       "explanation": "Hook repeats — SM is irreplaceable.",
@@ -721,6 +781,7 @@ export const tt: Song = {
     },
     {
       "original": "महंगी shirt, I lеave it on",
+      "romanized": "Mahangee shirt, I lеave it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Expensive shirt, I leave it on.",
       "explanation": "Hook repeats — casual luxury flex.",
@@ -728,6 +789,7 @@ export const tt: Song = {
     },
     {
       "original": "बंदी हो रही गीली, got the linen on",
+      "romanized": "Bandee ho rahee geelee, got the linen on",
       "speaker": "Calm & Encore ABJ",
       "translation": "The girl's getting wet, got the linen on.",
       "explanation": "Hook repeats — women are attracted to their style.",
@@ -735,6 +797,7 @@ export const tt: Song = {
     },
     {
       "original": "आगे आके दाबूँ तेरी गिरेबान",
+      "romanized": "Aage aake daaboon teree girebaana",
       "speaker": "Calm & Encore ABJ",
       "translation": "I'll come forward and grab your collar.",
       "explanation": "Hook repeats — threat of confrontation.",
@@ -742,6 +805,7 @@ export const tt: Song = {
     },
     {
       "original": "Bata भी है Gucci if I put it on",
+      "romanized": "Bata bhee hai Gucci if I put it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Even Bata becomes Gucci if I put it on.",
       "explanation": "Hook repeats.",
@@ -749,6 +813,7 @@ export const tt: Song = {
     },
     {
       "original": "TT भी है Louis if I put it on",
+      "romanized": "TT bhee hai Louis if I put it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Even a TT becomes Louis Vuitton if I put it on.",
       "explanation": "Hook repeats.",
@@ -756,6 +821,7 @@ export const tt: Song = {
     },
     {
       "original": "कहना तुझे मेरे जैसा मिले कौन",
+      "romanized": "Kahanaa tujhe mere jaisaa mile kauna",
       "speaker": "Calm & Encore ABJ",
       "translation": "Tell me, where will you find someone like me?",
       "explanation": "Hook repeats.",
@@ -763,6 +829,7 @@ export const tt: Song = {
     },
     {
       "original": "महंगी shirt, I leave it on",
+      "romanized": "Mahangee shirt, I leave it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Expensive shirt, I leave it on.",
       "explanation": "Hook repeats.",
@@ -770,6 +837,7 @@ export const tt: Song = {
     },
     {
       "original": "बंदी हो रही गीली, got the linen on",
+      "romanized": "Bandee ho rahee geelee, got the linen on",
       "speaker": "Calm & Encore ABJ",
       "translation": "The girl's getting wet, got the linen on.",
       "explanation": "Hook repeats.",
@@ -777,6 +845,7 @@ export const tt: Song = {
     },
     {
       "original": "आगे आके दाबूँ तेरी गिरेबान",
+      "romanized": "Aage aake daaboon teree girebaana",
       "speaker": "Calm & Encore ABJ",
       "translation": "I'll come forward and grab your collar.",
       "explanation": "Hook repeats.",
@@ -784,6 +853,7 @@ export const tt: Song = {
     },
     {
       "original": "आधी hype है देता तुझे Rohit Zone",
+      "romanized": "Aadhee hype hai detaa tujhe Rohit Zone",
       "speaker": "Calm",
       "translation": "Half your hype comes from Rohit Zone.",
       "explanation": "Calm claims that SOS owes half their hype to Rohit Zone, likely a producer or associate who boosted their visibility. Without him, they'd be half as relevant.",
@@ -797,6 +867,7 @@ export const tt: Song = {
     },
     {
       "original": "आजा मैं भी hype दे दूं थोड़ी और",
+      "romanized": "Aajaa main bhee hype de doon thoree aura",
       "speaker": "Calm",
       "translation": "Come, let me give you a little more hype too.",
       "explanation": "Sarcastic offer — by dissing SOS, Calm is ironically giving them more attention and relevance than they could earn on their own.",
@@ -804,6 +875,7 @@ export const tt: Song = {
     },
     {
       "original": "आजा तुझे views देगा Seedhe Maut",
+      "romanized": "Aajaa tujhe views degaa Seedhe Maut",
       "speaker": "Calm",
       "translation": "Come, Seedhe Maut will give you views.",
       "explanation": "SOS will get more YouTube views from being dissed by SM than from their own music — a devastating comment on their irrelevance without SM's name attached.",
@@ -811,6 +883,7 @@ export const tt: Song = {
     },
     {
       "original": "आजा तेरपे मूत देगा Seedhe Maut",
+      "romanized": "Aajaa terape moota degaa Seedhe Maut",
       "speaker": "Calm",
       "translation": "Come, Seedhe Maut will piss on you.",
       "explanation": "Flipping the previous line — from 'giving views' to 'pissing on you.' The wordplay on 'views/moot' shows total disrespect.",
@@ -818,6 +891,7 @@ export const tt: Song = {
     },
     {
       "original": "और आजा तेरा ख्वाब जिए Seedhe Maut (Aanh)",
+      "romanized": "Aura aajaa teraa khvaaba jie Seedhe Maut (Aanh)",
       "speaker": "Calm",
       "translation": "And come, Seedhe Maut is living your dream.",
       "explanation": "The life SOS dreams of — the fame, the respect, the success — SM is already living it. SOS can only watch and envy.",
@@ -831,6 +905,7 @@ export const tt: Song = {
     },
     {
       "original": "गया सालों बाद Hauz Khas, ये चोदू था वही पर",
+      "romanized": "Gayaa saalon baada Hauz Khas, ye chodoo thaa vahee para",
       "speaker": "Calm",
       "translation": "Went to Hauz Khas after years, this idiot was still right there.",
       "explanation": "Calm went back to Hauz Khas (a trendy Delhi neighborhood known for its hip-hop gatherings) after years and found the SOS member still hanging around the same spot — implying they haven't grown or progressed at all.",
@@ -849,6 +924,7 @@ export const tt: Song = {
     },
     {
       "original": "और फट रही थी गांड इसकी देख के वो cypher",
+      "romanized": "Aura phata rahee thee gaanda isakee dekha ke vo cypher",
       "speaker": "Calm",
       "translation": "And his ass was tearing watching that cypher.",
       "explanation": "The SOS member was terrified watching SM perform at a cypher — he was intimidated by their skill level.",
@@ -862,6 +938,7 @@ export const tt: Song = {
     },
     {
       "original": "वहां खेंच रहे थे लौंडे साथ photo पर मैं इसको कह रहा कि, \"डर भगा, rap कर, तू try कर\"",
+      "romanized": "Vahaan khencha rahe the launde saatha photo para main isako kaha rahaa ki, \"dara bhagaa, rap kara, too try kara\"",
       "speaker": "Calm",
       "translation": "Everyone was pulling him for photos, but I was telling him, \"Shake off the fear, rap, just try.\"",
       "explanation": "While others were fanboying and taking photos, Calm was actually encouraging the SOS member to overcome his fear and participate in the cypher. This reveals that Calm was once a mentor figure — making SOS's betrayal worse.",
@@ -869,6 +946,7 @@ export const tt: Song = {
     },
     {
       "original": "गया तेरा भाई इसके पास, इसने जाते ही हाथ मिलाया",
+      "romanized": "Gayaa teraa bhaaee isake paasa, isane jaate hee haatha milaayaa",
       "speaker": "Calm",
       "translation": "Your brother went up to him, and he immediately shook hands.",
       "explanation": "Telling the story of when Calm (referred to in third person as 'your brother') approached the SOS member, who was eager and starstruck to shake hands.",
@@ -876,6 +954,7 @@ export const tt: Song = {
     },
     {
       "original": "Calm से हाथ मिला के fan-girl बना, इसने काँप के हाथ मिलाया",
+      "romanized": "Calm se haatha milaa ke fan-girl banaa, isane kaanpa ke haatha milaayaa",
       "speaker": "Calm",
       "translation": "He shook hands with Calm and became a fangirl, his hand was trembling.",
       "explanation": "The SOS member was shaking with nervousness/excitement when meeting Calm — he was a fanboy who trembled shaking Calm's hand. Now that same person is trying to diss SM.",
@@ -889,6 +968,7 @@ export const tt: Song = {
     },
     {
       "original": "नीचे देखे जैसे इसने बाप से हाथ मिलाया",
+      "romanized": "Neeche dekhe jaise isane baapa se haatha milaayaa",
       "speaker": "Calm",
       "translation": "He looked down as if he was shaking hands with his father.",
       "explanation": "The SOS member couldn't even make eye contact with Calm, looking down submissively — the way you'd greet your father or an elder out of respect. This destroys any tough-guy image SOS tries to project.",
@@ -896,6 +976,7 @@ export const tt: Song = {
     },
     {
       "original": "दे दूं hype मेरे नाम से नाम बना ले",
+      "romanized": "De doon hype mere naama se naama banaa le",
       "speaker": "Calm",
       "translation": "Let me give you hype, make your name off my name.",
       "explanation": "Sarcastically offering to boost SOS's career since they can only become relevant by being associated with SM's name.",
@@ -903,6 +984,7 @@ export const tt: Song = {
     },
     {
       "original": "छोड़ rap-वैप, मेरे नाम से घर चला ले",
+      "romanized": "Chhora rap-vaipa, mere naama se ghara chalaa le",
       "speaker": "Calm",
       "translation": "Forget about rap and all, just run your household off my name.",
       "explanation": "An even deeper diss — SOS should stop pretending to be rappers and just use SM's name to pay their bills, since that's the only thing generating them any attention.",
@@ -916,6 +998,7 @@ export const tt: Song = {
     },
     {
       "original": "कहाँ है तू कल बुला ले, जीता तू कल्पना में",
+      "romanized": "Kahaan hai too kala bulaa le, jeetaa too kalpanaa men",
       "speaker": "Calm",
       "translation": "Where are you? Call me tomorrow, you live in a fantasy.",
       "explanation": "Calm challenges SOS to show up and face him, accusing them of living in their imagination where they think they can compete with SM.",
@@ -929,6 +1012,7 @@ export const tt: Song = {
     },
     {
       "original": "टेपे मुझे, तुझे मेरा बीता हुआ कल बुला ले (Aanh)",
+      "romanized": "Tepe mujhe, tujhe meraa beetaa huaa kala bulaa le (Aanh)",
       "speaker": "Calm",
       "translation": "You copy me — my past should be enough to summon you.",
       "explanation": "SOS copies (tapes/records) Calm's style, and even Calm's old, outdated work is better than anything SOS can produce now. His past is their future.",
@@ -947,6 +1031,7 @@ export const tt: Song = {
     },
     {
       "original": "ओए मेरी first copy (हाँ)",
+      "romanized": "Oe meree first copy (haan)",
       "speaker": "Calm",
       "translation": "Hey, my first copy.",
       "explanation": "Directly calling SOS a bootleg version of himself — a 'first copy' is Indian slang for a knockoff/replica product.",
@@ -960,6 +1045,7 @@ export const tt: Song = {
     },
     {
       "original": "Copy करे flow वो भी low-poly",
+      "romanized": "Copy kare flow vo bhee low-poly",
       "speaker": "Calm",
       "translation": "He copies the flow, and even that in low-poly.",
       "explanation": "SOS copies SM's flows but the result is a low-resolution, low-quality version — like a low-polygon 3D model that's a cheap approximation of the real thing.",
@@ -973,6 +1059,7 @@ export const tt: Song = {
     },
     {
       "original": "तेरा bro, तुम दोनों वैसे हो कोई नी (हाँ)",
+      "romanized": "Teraa bro, tuma donon vaise ho koee nee (haan)",
       "speaker": "Calm",
       "translation": "Your bro, you two are like that, it's fine.",
       "explanation": "Dismissively acknowledging the SOS duo — 'you two are like that' meaning they're both mediocre, but it doesn't matter.",
@@ -980,6 +1067,7 @@ export const tt: Song = {
     },
     {
       "original": "तेरा bro, तुम दोनों, you can never be me",
+      "romanized": "Teraa bro, tuma donon, you can never be me",
       "speaker": "Calm",
       "translation": "Your bro, you two, you can never be me.",
       "explanation": "The definitive statement — no matter how much SOS copies, both members combined can never match what Calm is.",
@@ -987,6 +1075,7 @@ export const tt: Song = {
     },
     {
       "original": "Nice try though",
+      "romanized": "Nice try though",
       "speaker": "Calm",
       "translation": "Nice try though.",
       "explanation": "A patronizing, sarcastic dismissal — acknowledging their attempt while making it clear it was never close to being enough.",
@@ -994,6 +1083,7 @@ export const tt: Song = {
     },
     {
       "original": "मिला जैसे खुदा नीचे आ गए, बोला, \"My GOAT, आप से सीखता हूँ मैं rap रोज\"",
+      "romanized": "Milaa jaise khudaa neeche aa gae, bolaa, \"My GOAT, aapa se seekhataa hoon main rap roja\"",
       "speaker": "Calm",
       "translation": "He met me like God came down and said, \"My GOAT, I learn rap from you every day.\"",
       "explanation": "Calm recounts how the SOS member met him with the reverence of meeting a deity — calling Calm the GOAT (Greatest of All Time) and admitting to learning from him daily. This is devastating because it's being exposed publicly.",
@@ -1012,6 +1102,7 @@ export const tt: Song = {
     },
     {
       "original": "\"नए flows, love your pen bro\"",
+      "romanized": "\"nae flows, love your pen bro\"",
       "speaker": "Calm",
       "translation": "\"New flows, love your pen bro.\"",
       "explanation": "Continuing to quote what the SOS member said to Calm — praising his new flows and pen game. This is being played back as evidence of their private admiration versus public hostility.",
@@ -1019,6 +1110,7 @@ export const tt: Song = {
     },
     {
       "original": "अब भीड़ रहा है बाप से, बाप ढूंढ रहा है belt को",
+      "romanized": "Aba bheera rahaa hai baapa se, baapa dhoondha rahaa hai belt ko",
       "speaker": "Calm",
       "translation": "Now he's messing with his father, and the father is looking for the belt.",
       "explanation": "SOS is picking a fight with their 'father' (Calm/SM), and now daddy is looking for the belt to discipline them — like a parent about to punish a misbehaving child.",
@@ -1032,6 +1124,7 @@ export const tt: Song = {
     },
     {
       "original": "ये पालतू कुत्ते करे train नी, my fault",
+      "romanized": "Ye paalatoo kutte kare train nee, my fault",
       "speaker": "Calm",
       "translation": "These pet dogs can't be trained, my fault.",
       "explanation": "Calling SOS 'pet dogs' that can't be trained — Calm sarcastically takes blame for not being able to teach them properly, implying they're unteachable and disloyal.",
@@ -1045,6 +1138,7 @@ export const tt: Song = {
     },
     {
       "original": "ये भड़वे भौंक रहे तभी मालिक आए बाहर",
+      "romanized": "Ye bharave bhaunka rahe tabhee maalika aae baahara",
       "speaker": "Calm",
       "translation": "These pimps were barking, that's when the owner came out.",
       "explanation": "Continuing the dog metaphor — SOS was barking (talking trash), so the owner (SM) finally came outside to shut them up. 'Bhadwe' adds an extra layer of insult.",
@@ -1063,6 +1157,7 @@ export const tt: Song = {
     },
     {
       "original": "और काएका भाईचारा, भाई को भाई खा रहा",
+      "romanized": "Aura kaaekaa bhaaeechaaraa, bhaaee ko bhaaee khaa rahaa",
       "speaker": "Calm",
       "translation": "And what brotherhood? Brother is eating brother alive.",
       "explanation": "Questioning the brotherhood/unity within SOS or their circle — they claim loyalty but backstab each other. Possibly referencing internal conflicts within SOS or the Azadi Records roster.",
@@ -1076,6 +1171,7 @@ export const tt: Song = {
     },
     {
       "original": "भाई ये camera पे है",
+      "romanized": "Bhaaee ye camera pe hai",
       "speaker": "Calm",
       "translation": "Brother, this is on camera.",
       "explanation": "A warning that everything being said is recorded and public — there's no denying it later. The receipts are all documented.",
@@ -1083,6 +1179,7 @@ export const tt: Song = {
     },
     {
       "original": "भाई बस कई सालों पहले इनकी बनी नी, आपस में लड़े दोनों ये bitch तब",
+      "romanized": "Bhaaee basa kaee saalon pahale inakee banee nee, aapasa men lare donon ye bitch taba",
       "speaker": "Calm",
       "translation": "Brother, years ago they couldn't even get along, both these bitches fought each other back then.",
       "explanation": "Exposing that the SOS members had a falling out years ago and fought each other — their duo itself was broken before. Their unity is a facade.",
@@ -1090,6 +1187,7 @@ export const tt: Song = {
     },
     {
       "original": "ये duo बने साल बाद, हो गए थे split up",
+      "romanized": "Ye duo bane saala baada, ho gae the split up",
       "speaker": "Calm",
       "translation": "This duo formed a year later, they had already split up.",
       "explanation": "Further exposing SOS's history — they broke up and only reunited later, proving their bond isn't as strong as they pretend.",
@@ -1097,6 +1195,7 @@ export const tt: Song = {
     },
     {
       "original": "I was in my bag जब ये खेल रहे थे victim",
+      "romanized": "I was in my bag jaba ye khela rahe the victim",
       "speaker": "Calm",
       "translation": "I was in my bag when they were playing victim.",
       "explanation": "While SM was grinding and perfecting their craft ('in my bag'), SOS was busy playing the victim card for sympathy instead of actually working on their music.",
@@ -1110,6 +1209,7 @@ export const tt: Song = {
     },
     {
       "original": "करा rap जब ये gag करे Ahmer के dick पर (Aanh)",
+      "romanized": "Karaa rap jaba ye gag kare Ahmer ke dick para (Aanh)",
       "speaker": "Calm",
       "translation": "Try rapping when they're gagging on Ahmer's dick.",
       "explanation": "An extremely vulgar accusation that SOS is subservient to Ahmer (likely referring to someone from Azadi Records or their circle), implying they compromise their integrity and independence for label/industry favors.",
@@ -1128,6 +1228,7 @@ export const tt: Song = {
     },
     {
       "original": "इसे कहते हैं free promotion",
+      "romanized": "Ise kahate hain free promotion",
       "speaker": "Calm",
       "translation": "This is what you call free promotion.",
       "explanation": "Calm acknowledges that this diss track is essentially free publicity for SOS — they'll get more attention from being dissed by SM than they could ever generate on their own.",
@@ -1135,6 +1236,7 @@ export const tt: Song = {
     },
     {
       "original": "तेरा career बना दूं and I'll feed your fam' too",
+      "romanized": "Teraa career banaa doon and I'll feed your fam' too",
       "speaker": "Calm",
       "translation": "I'll make your career and I'll feed your family too.",
       "explanation": "SM's diss is so valuable that it could literally build SOS's career and put food on their table — the views and attention from an SM diss are worth more than anything SOS could earn independently.",
@@ -1142,6 +1244,7 @@ export const tt: Song = {
     },
     {
       "original": "तूने story डाली hard, बदला phone पे गैंडू",
+      "romanized": "Toone story daalee hard, badalaa phone pe gaindoo",
       "speaker": "Calm",
       "translation": "You posted a tough story, then got owned on the phone, idiot.",
       "explanation": "SOS tried acting tough on Instagram stories but when confronted on an actual phone call, they folded. Exposing the gap between their online persona and real-life cowardice.",
@@ -1160,6 +1263,7 @@ export const tt: Song = {
     },
     {
       "original": "करी line cross ऐसी कि एक call में pack तू",
+      "romanized": "Karee line cross aisee ki eka call men pack too",
       "speaker": "Calm",
       "translation": "You crossed the line so badly that one call will pack you up.",
       "explanation": "SOS crossed a line that shouldn't have been crossed, and now a single phone call from SM is enough to end them — implying SM has the connections and power to shut them down instantly.",
@@ -1173,6 +1277,7 @@ export const tt: Song = {
     },
     {
       "original": "कब्ज़ा है",
+      "romanized": "Kabzaa hai",
       "speaker": "Calm",
       "translation": "We have control.",
       "explanation": "A short, powerful declaration — SM has a stranglehold on the scene. Complete dominance.",
@@ -1186,6 +1291,7 @@ export const tt: Song = {
     },
     {
       "original": "SOS Delhi नी, लंड पे बजता है",
+      "romanized": "SOS Delhi nee, landa pe bajataa hai",
       "speaker": "Calm",
       "translation": "SOS doesn't run in Delhi, they get played on our dick.",
       "explanation": "SOS has no relevance in Delhi. 'Land pe bajta hai' is extremely vulgar, meaning they're completely at SM's mercy and are nothing in their city.",
@@ -1199,6 +1305,7 @@ export const tt: Song = {
     },
     {
       "original": "SOS नाम तुमपे सही भी जचता है",
+      "romanized": "SOS naama tumape sahee bhee jachataa hai",
       "speaker": "Calm",
       "translation": "The name SOS truly suits you.",
       "explanation": "A brilliant wordplay — SOS is their rap name, but SOS is also the international distress signal. Calm is saying they're so desperate and helpless that the distress call name fits them perfectly.",
@@ -1212,6 +1319,7 @@ export const tt: Song = {
     },
     {
       "original": "इतना मत बज, तुझे कोई नी सुनता है",
+      "romanized": "Itanaa mata baja, tujhe koee nee sunataa hai",
       "speaker": "Calm",
       "translation": "Don't make so much noise, nobody listens to you.",
       "explanation": "Telling SOS to stop talking trash because nobody cares about them or their music — they have no audience.",
@@ -1219,6 +1327,7 @@ export const tt: Song = {
     },
     {
       "original": "पर कश्मीर में I run this shit",
+      "romanized": "Para kashmeera men I run this shit",
       "speaker": "Calm",
       "translation": "But in Kashmir, I run this shit.",
       "explanation": "The ultimate humiliation — SM claims dominance even in Kashmir, SOS's own home territory. They're more popular than SOS in their own backyard.",
@@ -1232,6 +1341,7 @@ export const tt: Song = {
     },
     {
       "original": "Bye-bye, दोनों जाएंगे एक पल में मिट",
+      "romanized": "Bye-bye, donon jaaenge eka pala men mita",
       "speaker": "Calm",
       "translation": "Bye-bye, both will be erased in an instant.",
       "explanation": "Both members of SOS will be wiped out and forgotten in a moment — their careers are one diss away from being over.",
@@ -1239,6 +1349,7 @@ export const tt: Song = {
     },
     {
       "original": "ये दोनों चेले मेरे, रखता हूँ लंड पे diss",
+      "romanized": "Ye donon chele mere, rakhataa hoon landa pe diss",
       "speaker": "Calm",
       "translation": "These two are my disciples, I keep their diss on my dick.",
       "explanation": "Calling SOS his 'chele' (disciples/followers) and saying their disses are worthless to him — he keeps their diss on his dick, meaning he couldn't care less about anything they've said.",
@@ -1252,6 +1363,7 @@ export const tt: Song = {
     },
     {
       "original": "और तेरे यार ही कर रहे थे तेरे बारे में bitch",
+      "romanized": "Aura tere yaara hee kara rahe the tere baare men bitch",
       "speaker": "Calm",
       "translation": "And your own friends were bitching about you.",
       "explanation": "Exposing that SOS's own friends and associates were talking trash about them behind their backs — their own circle doesn't respect them.",
@@ -1259,6 +1371,7 @@ export const tt: Song = {
     },
     {
       "original": "हूँ जैसे Teesri Duniya, I'm having fun with kids",
+      "romanized": "Hoon jaise Teesri Duniya, I'm having fun with kids",
       "speaker": "Calm",
       "translation": "I'm like Teesri Duniya, I'm having fun with kids.",
       "explanation": "Referencing 'Teesri Duniya', a Delhi-based hip-hop group known for their playful style. Calm is saying toying with SOS is just child's play for him — it's entertainment, not competition.",
@@ -1272,6 +1385,7 @@ export const tt: Song = {
     },
     {
       "original": "आ तुझे hype दूं ओर (Ha-ha-ha)",
+      "romanized": "Aa tujhe hype doon ora (Ha-ha-ha)",
       "speaker": "Calm",
       "translation": "Come, let me give you more hype.",
       "explanation": "Repeated sarcastic taunt — every bar Calm drops about SOS gives them more attention than their own music ever could.",
@@ -1279,6 +1393,7 @@ export const tt: Song = {
     },
     {
       "original": "फटा पहला गाना मुझे thank you बोल (भोसड़ी के)",
+      "romanized": "Phataa pahalaa gaanaa mujhe thank you bola (bhosaree ke)",
       "speaker": "Calm",
       "translation": "Your first song blew up because of me, say thank you, motherfucker.",
       "explanation": "Claiming direct credit for SOS's first hit — whether through inspiration, promotion, or direct involvement, SM was responsible for their initial success. Instead of being grateful, they bit the hand that fed them.",
@@ -1292,6 +1407,7 @@ export const tt: Song = {
     },
     {
       "original": "तेरे fan-page कर नी पा रहे बाप को troll",
+      "romanized": "Tere fan-page kara nee paa rahe baapa ko troll",
       "speaker": "Calm",
       "translation": "Your fan pages can't even troll the father.",
       "explanation": "Even SOS's dedicated fan accounts can't successfully troll SM — they try but fail, showing how untouchable SM is.",
@@ -1305,6 +1421,7 @@ export const tt: Song = {
     },
     {
       "original": "और ऐसे साँप हैं ये, दस्ते हैं भैया बोलके, aanh (तेरी माँ की चूत)",
+      "romanized": "Aura aise saanpa hain ye, daste hain bhaiyaa bolake, aanh (teree maan kee choota)",
       "speaker": "Calm",
       "translation": "And they're such snakes, they bite while calling you brother.",
       "explanation": "Calling SOS snakes who pretend to be friendly ('bhaiya' — brother) while secretly attacking. They show fake respect to your face and stab you in the back. Ends with a final vulgar dismissal.",
@@ -1323,6 +1440,7 @@ export const tt: Song = {
     },
     {
       "original": "Bata भी है Gucci if I put it on",
+      "romanized": "Bata bhee hai Gucci if I put it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Even Bata becomes Gucci if I put it on.",
       "explanation": "Final hook — SM elevates everything they touch.",
@@ -1341,6 +1459,7 @@ export const tt: Song = {
     },
     {
       "original": "TT भी है Louis if I put it on",
+      "romanized": "TT bhee hai Louis if I put it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Even a TT becomes Louis Vuitton if I put it on.",
       "explanation": "Final hook — the basic becomes luxury through SM.",
@@ -1359,6 +1478,7 @@ export const tt: Song = {
     },
     {
       "original": "कहना तुझे मेरे जैसा मिले कौन?",
+      "romanized": "Kahanaa tujhe mere jaisaa mile kauna?",
       "speaker": "Calm & Encore ABJ",
       "translation": "Tell me, where will you find someone like me?",
       "explanation": "Final hook — SM is unmatched.",
@@ -1366,6 +1486,7 @@ export const tt: Song = {
     },
     {
       "original": "महंगी shirt, I leave it on",
+      "romanized": "Mahangee shirt, I leave it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Expensive shirt, I leave it on.",
       "explanation": "Final hook — casual luxury.",
@@ -1373,6 +1494,7 @@ export const tt: Song = {
     },
     {
       "original": "बंदी हो रही गीली, got the linen on",
+      "romanized": "Bandee ho rahee geelee, got the linen on",
       "speaker": "Calm & Encore ABJ",
       "translation": "The girl's getting wet, got the linen on.",
       "explanation": "Final hook — their style attracts women.",
@@ -1380,6 +1502,7 @@ export const tt: Song = {
     },
     {
       "original": "आगे आके दाबूँ तेरी गिरेबान",
+      "romanized": "Aage aake daaboon teree girebaana",
       "speaker": "Calm & Encore ABJ",
       "translation": "I'll come forward and grab your collar.",
       "explanation": "Final hook — closing with a threat of confrontation.",
@@ -1387,6 +1510,7 @@ export const tt: Song = {
     },
     {
       "original": "Bata भी है Gucci if I put it on",
+      "romanized": "Bata bhee hai Gucci if I put it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Even Bata becomes Gucci if I put it on.",
       "explanation": "Final hook repeats.",
@@ -1394,6 +1518,7 @@ export const tt: Song = {
     },
     {
       "original": "TT भी है Louis if I put it on",
+      "romanized": "TT bhee hai Louis if I put it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Even a TT becomes Louis Vuitton if I put it on.",
       "explanation": "Final hook repeats.",
@@ -1401,6 +1526,7 @@ export const tt: Song = {
     },
     {
       "original": "कहना तुझे मेरे जैसा मिले कौन",
+      "romanized": "Kahanaa tujhe mere jaisaa mile kauna",
       "speaker": "Calm & Encore ABJ",
       "translation": "Tell me, where will you find someone like me?",
       "explanation": "Final hook repeats.",
@@ -1408,6 +1534,7 @@ export const tt: Song = {
     },
     {
       "original": "महंगी shirt, I leave it on",
+      "romanized": "Mahangee shirt, I leave it on",
       "speaker": "Calm & Encore ABJ",
       "translation": "Expensive shirt, I leave it on.",
       "explanation": "Final hook repeats.",
@@ -1415,6 +1542,7 @@ export const tt: Song = {
     },
     {
       "original": "बंदी हो रही गीली, got the linen on",
+      "romanized": "Bandee ho rahee geelee, got the linen on",
       "speaker": "Calm & Encore ABJ",
       "translation": "The girl's getting wet, got the linen on.",
       "explanation": "Final hook repeats.",
@@ -1422,6 +1550,7 @@ export const tt: Song = {
     },
     {
       "original": "आगे आके दाबूँ तेरी गिरेबान",
+      "romanized": "Aage aake daaboon teree girebaana",
       "speaker": "Calm & Encore ABJ",
       "translation": "I'll come forward and grab your collar.",
       "explanation": "Final hook repeats — the song closes with the same confrontational energy it started with.",

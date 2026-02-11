@@ -9,19 +9,24 @@ export const round_3: Song = {
   "releaseDate": "",
   "lyrics": [
     {
-      "original": "ना दिखे सितारा नहीं कोई ठिकाना"
+      "original": "ना दिखे सितारा नहीं कोई ठिकाना",
+      "romanized": "Na dikhe sitaara nahi koi thikaana"
     },
     {
-      "original": "उसका ना आना छोड़े बेचाना"
+      "original": "उसका ना आना छोड़े बेचाना",
+      "romanized": "Uska na aana chhode bechaana"
     },
     {
-      "original": "बस तू हां शायद मुझे जानती"
+      "original": "बस तू हां शायद मुझे जानती",
+      "romanized": "Bas tu haan shaayad mujhe jaanti"
     },
     {
-      "original": "बातें करती काम की बातें करती"
+      "original": "बातें करती काम की बातें करती",
+      "romanized": "Baatein karti kaam ki baatein karti"
     },
     {
       "original": "आम सी ये जान सी है ओ राजा कहती राउंड थ्री",
+      "romanized": "Aam si ye jaan si hai o raaja kehti round three",
       "annotations": [
         {
           "text": "आम सी ये जान सी है ओ राजा कहती राउंड थ्री",
@@ -32,13 +37,16 @@ export const round_3: Song = {
       ]
     },
     {
-      "original": "लगती नहीं है फैंसी सी पर कहती उसके सपने में भी खोजा"
+      "original": "लगती नहीं है फैंसी सी पर कहती उसके सपने में भी खोजा",
+      "romanized": "Lagti nahi hai fancy si par kehti uske sapne mein bhi khoja"
     },
     {
-      "original": "कभी तो आना थोड़ा वक्त बिताना"
+      "original": "कभी तो आना थोड़ा वक्त बिताना",
+      "romanized": "Kabhi toh aana thoda waqt bitaana"
     },
     {
       "original": "साथ छोड़ जलाना वो भी मलाना चाहती",
+      "romanized": "Saath chhod jalaana wo bhi malaana chahti",
       "annotations": [
         {
           "text": "साथ छोड़ जलाना वो भी मलाना चाहती",

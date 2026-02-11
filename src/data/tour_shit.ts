@@ -10,6 +10,7 @@ export const tour_shit: Song = {
   "lyrics": [
     {
       "original": "Yeah",
+      "romanized": "Yeah",
       "speaker": "Encore ABJ",
       "translation": "Yeah",
       "explanation": "Encore opens the track with an ad-lib, setting the energy.",
@@ -17,6 +18,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "दिल्ली की गरमी में चलूँ, मुझे बोल, \"लू\"",
+      "romanized": "Dillee kee garamee men chaloon, mujhe bola, \"loo\"",
       "speaker": "Encore ABJ",
       "translation": "I walk in Delhi's heat, call me a 'loo' (heatwave).",
       "explanation": "Encore compares himself to Delhi's scorching 'loo' — the deadly hot wind that sweeps through North India in summer. He's saying he's as intense and unavoidable as the heatwave itself.",
@@ -30,6 +32,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "आजा तुझे कविता की कलियों में तोल दूँ",
+      "romanized": "Aajaa tujhe kavitaa kee kaliyon men tola doon",
       "speaker": "Encore ABJ",
       "translation": "Come, let me weigh you in the buds of poetry.",
       "explanation": "He's inviting rivals to be measured against his poetic craft. 'Kaliyon' (buds) refers to the delicate art of verse — he'll judge them by his lyrical standard.",
@@ -43,6 +46,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "Calm है तेरा papa, तू भतीजा मेरा, भोंदू",
+      "romanized": "Calm hai teraa papa, too bhateejaa meraa, bhondoo",
       "speaker": "Encore ABJ",
       "translation": "Calm is your daddy, you're my nephew, fool.",
       "explanation": "Encore establishes hierarchy — his partner Calm is the father figure, making the rival a mere nephew. 'Bhondu' adds insult, calling them a fool.",
@@ -56,6 +60,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "मंगलवार व्रत, बुधवार को मैं खा जाऊँ तेरा whole crew",
+      "romanized": "Mangalavaara vrata, budhavaara ko main khaa jaaoon teraa whole crew",
       "speaker": "Encore ABJ",
       "translation": "Tuesday fast, Wednesday I'll eat your whole crew.",
       "explanation": "A clever reference to the Hindu practice of fasting on Tuesdays (Mangalvar vrat, typically observed for Hanuman). After the fast ends, he's so hungry he'll devour the entire opposition crew on Wednesday.",
@@ -69,6 +74,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "आदतें निठारी-सी, ये सारे मेरा soul food",
+      "romanized": "Aadaten nithaaree-see, ye saare meraa soul food",
       "speaker": "Encore ABJ",
       "translation": "Habits like Nithari, all these are my soul food.",
       "explanation": "An extremely dark reference to the Nithari serial killings in Noida (2006), where victims were allegedly cannibalized. Encore says consuming rival rappers is habitual for him — they are his soul food. Shock value used for impact.",
@@ -87,6 +93,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "आदत है बहाने की तो दे रहा इन्हें मोक्ष हूँ",
+      "romanized": "Aadata hai bahaane kee to de rahaa inhen moksha hoon",
       "speaker": "Encore ABJ",
       "translation": "They're in the habit of making excuses, so I'm granting them moksha (salvation).",
       "explanation": "Rivals keep making excuses for their failures, so Encore is putting them out of their misery by granting them moksha — spiritual liberation through death in Hindu philosophy.",
@@ -100,6 +107,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "आदत है चबाने की, तेरा adam's apple खोल दूँ",
+      "romanized": "Aadata hai chabaane kee, teraa adam's apple khola doon",
       "speaker": "Encore ABJ",
       "translation": "I have a habit of chewing, let me crack open your Adam's apple.",
       "explanation": "Continuing the cannibalistic theme, Encore threatens to rip out the rival's Adam's apple — attacking their throat, the instrument of a rapper. A threat to both their body and career.",
@@ -113,6 +121,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "मैं सही में Seedhe Maut हूँ, हाँ (Rrrah)",
+      "romanized": "Main sahee men Seedhe Maut hoon, haan (Rrrah)",
       "speaker": "Encore ABJ",
       "translation": "I am literally Seedhe Maut (Straight Death), yeah.",
       "explanation": "Encore affirms the group's name literally — he is straight-up death for anyone who opposes him. The ad-lib 'Rrrah' adds aggression.",
@@ -126,6 +135,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "जाता था गिंदी के मेले में, पन्नालाल बोला, मैं मुक़द्दर का सिकंदर",
+      "romanized": "Jaataa thaa gindee ke mele men, pannaalaala bolaa, main muqaddara kaa sikandara",
       "speaker": "Encore ABJ",
       "translation": "I used to go to the Gindi fair, Pannalal said, 'I am the master of my destiny.'",
       "explanation": "Encore begins a personal storytelling sequence. He recalls going to a local fair (mela) where a character named Pannalal boasted about being 'Muqaddar Ka Sikandar' — a reference to the iconic 1978 Amitabh Bachchan film about a self-made man who conquers fate.",
@@ -144,6 +154,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "पन्नालाल एक गधा था, वो घूमता था circus में जैसे कोई मदारी और बंदर",
+      "romanized": "Pannaalaala eka gadhaa thaa, vo ghoomataa thaa circus men jaise koee madaaree aura bandara",
       "speaker": "Encore ABJ",
       "translation": "Pannalal was a donkey, he roamed around the circus like a street performer and his monkey.",
       "explanation": "Encore undercuts Pannalal's bravado — despite his big talk, Pannalal was just a circus animal, performing like a 'madari' (street magician/animal trainer) with his monkey. A metaphor for people who talk big but are clowns.",
@@ -157,6 +168,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "तीन साल बाद सुना, \"पन्नालाल गया मर\", नवभारत Times पे छपी ख़बर (Aanh)",
+      "romanized": "Teena saala baada sunaa, \"pannaalaala gayaa mara\", navabhaarata Times pe chhapee khabara (Aanh)",
       "speaker": "Encore ABJ",
       "translation": "Three years later I heard, 'Pannalal died,' the news was printed in Navbharat Times.",
       "explanation": "The story takes a dark turn — years later, Pannalal died and the news appeared in Navbharat Times, a major Hindi newspaper. The mundanity of reading about someone's death in a newspaper contrasts with Pannalal's grand self-image.",
@@ -170,6 +182,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "लगा मुझे sign है ये, कसी मैंने कमर, बना Encore क्यूँकि बनना मुझे अमर",
+      "romanized": "Lagaa mujhe sign hai ye, kasee mainne kamara, banaa Encore kyoonki bananaa mujhe amara",
       "speaker": "Encore ABJ",
       "translation": "I felt this was a sign, I tightened my belt, became Encore because I want to be immortal.",
       "explanation": "Pannalal's death was a wake-up call. Encore decided to make something of himself — his name 'Encore' literally means a call for more, symbolizing his desire for immortality through his art. 'Kasi kamr' means he buckled down and got serious.",
@@ -188,6 +201,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "और मैंने छोड़ी नहीं कोई कसर (Ayy)",
+      "romanized": "Aura mainne chhoree naheen koee kasara (Ayy)",
       "speaker": "Encore ABJ",
       "translation": "And I left no stone unturned.",
       "explanation": "He gave everything to his craft, leaving no effort spared in his pursuit of greatness.",
@@ -201,6 +215,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "ये सारे motherfucker, अब हैं खा रहे मेरेपे फ़ख़्र (Ayy)",
+      "romanized": "Ye saare motherfucker, aba hain khaa rahe merepe fakhra (Ayy)",
       "speaker": "Encore ABJ",
       "translation": "All these motherfuckers are now eating off my pride.",
       "explanation": "People who once dismissed him now take pride in being associated with him — riding his wave of success and claiming connection to his name.",
@@ -214,6 +229,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "मैं खोदूँ बाल की खाल नहीं, मैं बस खोदूँ इनकी क़ब्र",
+      "romanized": "Main khodoon baala kee khaala naheen, main basa khodoon inakee qabra",
       "speaker": "Encore ABJ",
       "translation": "I don't split hairs, I just dig their graves.",
       "explanation": "He doesn't waste time on petty details ('baal ki khaal' is the Hindi idiom for nitpicking). Instead, he goes straight for the kill — digging graves for the competition.",
@@ -232,6 +248,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "हैं लौंडे यहाँ ९६ से फैले हैं ७१, रहें सड़कों पे सतर्क (That's facts)",
+      "romanized": "Hain launde yahaan ९६ se phaile hain ७१, rahen sarakon pe satarka (That's facts)",
       "speaker": "Encore ABJ",
       "translation": "The boys are spread from 96 to 71, staying alert on the streets.",
       "explanation": "References Delhi pin code areas — 110096 (East Delhi) to 110071 (South Delhi). Their crew is spread across the city and stays vigilant on the streets. This is a nod to their Delhi roots and the reach of their network.",
@@ -250,6 +267,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "Hotel के floor पे है OG की खुशबू का कब्ज़ा",
+      "romanized": "Hotel ke floor pe hai OG kee khushaboo kaa kabzaa",
       "speaker": "Encore ABJ",
       "translation": "The hotel floor is dominated by the smell of OG.",
       "explanation": "The entire hotel floor reeks of OG Kush weed. They're smoking so much on tour that the scent takes over the whole floor.",
@@ -268,6 +286,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "\"कौन बैठा room में?\" Staff को भी पता है",
+      "romanized": "\"kauna baithaa room men?\" Staff ko bhee pataa hai",
       "speaker": "Encore ABJ",
       "translation": "'Who's sitting in the room?' Even the staff knows.",
       "explanation": "The hotel staff can tell exactly who is in the room from the smell alone — Seedhe Maut's reputation (and their weed smoke) precedes them.",
@@ -275,6 +294,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "घर करा freehold, सर पे नहीं किसी का कर्ज़ा (Rrrah)",
+      "romanized": "Ghara karaa freehold, sara pe naheen kisee kaa karzaa (Rrrah)",
       "speaker": "Encore ABJ",
       "translation": "Got a freehold house, no one's debt on my head.",
       "explanation": "Encore brags about owning property outright — freehold, not leased — and being debt-free. Complete financial independence, no one has leverage over him.",
@@ -293,6 +313,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "और है लौंडों के कमरों में नए शहर में नई बंदी",
+      "romanized": "Aura hai laundon ke kamaron men nae shahara men naee bandee",
       "speaker": "Encore ABJ",
       "translation": "And in the boys' rooms, new city means new girls.",
       "explanation": "Classic tour life — every new city they perform in, there are new women in the crew's hotel rooms. A boastful description of life on the road.",
@@ -306,6 +327,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "Iced out chain'ein गले में नई ठंडी",
+      "romanized": "Iced out chain'ein gale men naee thandee",
       "speaker": "Encore ABJ",
       "translation": "Iced out chains around the neck, new kind of cold.",
       "explanation": "Their diamond-encrusted chains are so icy (covered in diamonds) they bring a new kind of cold. Wordplay between literal cold from ice/diamonds and being cool/dripped out.",
@@ -319,6 +341,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "Old Monk के लौंडों को Henny के shot देते नहीं भंडी",
+      "romanized": "Old Monk ke laundon ko Henny ke shot dete naheen bhandee",
       "speaker": "Encore ABJ",
       "translation": "Guys raised on Old Monk don't get hangovers from Hennessy shots.",
       "explanation": "Old Monk rum is a legendary cheap Indian rum — if you grew up drinking that, premium liquor like Hennessy won't faze you. A boast about being hardened by humble beginnings. 'Bhandi' refers to a hangover/nausea.",
@@ -342,6 +365,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "जेबों में नया पैसा, बदन में नई गरमी (Aanh)",
+      "romanized": "Jebon men nayaa paisaa, badana men naee garamee (Aanh)",
       "speaker": "Encore ABJ",
       "translation": "New money in the pockets, new heat in the body.",
       "explanation": "Fresh earnings fuel new energy and confidence. The money gives them a literal and figurative warmth — they're fired up.",
@@ -349,6 +373,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "देने के लिए रखी इन भड़वों में नई डण्डी",
+      "romanized": "Dene ke lie rakhee ina bharavon men naee dandee",
       "speaker": "Encore ABJ",
       "translation": "Got a new stick ready to give these pimps a beating.",
       "explanation": "He's keeping a new 'dandi' (stick/bat) ready to discipline rivals. 'Bhadwon' (pimps) is used as an insult for those he considers beneath him.",
@@ -367,6 +392,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "गले पे बाँधी इन कुत्तों के नई घंटी",
+      "romanized": "Gale pe baandhee ina kutton ke naee ghantee",
       "speaker": "Encore ABJ",
       "translation": "Tied a new bell around these dogs' necks.",
       "explanation": "Treating rivals like dogs on a leash — he's put a bell on them so he can track them. Implies total dominance and ownership over the competition.",
@@ -380,6 +406,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "बाज़ार है music का, खोली है नई मंडी (Woo)",
+      "romanized": "Baazaara hai music kaa, kholee hai naee mandee (Woo)",
       "speaker": "Encore ABJ",
       "translation": "It's the music marketplace, we've opened a new market.",
       "explanation": "They've established a new market in the music industry — a 'mandi' (wholesale market) where they control the trade. Seedhe Maut is setting the terms of the game.",
@@ -393,6 +420,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "दो मुँह हैं, साँपों से ज़रा भी नहीं बनती (Aah)",
+      "romanized": "Do munha hain, saanpon se zaraa bhee naheen banatee (Aah)",
       "speaker": "Encore ABJ",
       "translation": "They're two-faced, I don't get along with snakes at all.",
       "explanation": "He has no tolerance for two-faced, snakelike people in the industry. Snakes are a universal metaphor for deceitful people.",
@@ -406,6 +434,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "TBSM, DL91 Era",
+      "romanized": "TBSM, DL91 Era",
       "speaker": "Encore ABJ",
       "translation": "TBSM, DL91 Era.",
       "explanation": "Encore declares the current era — TBSM (Tera Bhai Seedhe Maut, their brand/tagline) and DL91 (Delhi 91, referencing India's country code +91 combined with DL for Delhi). A stamp of their reign.",
@@ -424,6 +453,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "अगर मैं बोल रहा हूँ, \"तेरा भाई Seedhe Maut\" तो तू है भाई मेरा, जी, हाँ",
+      "romanized": "Agara main bola rahaa hoon, \"teraa bhaaee Seedhe Maut\" to too hai bhaaee meraa, jee, haan",
       "speaker": "Encore ABJ",
       "translation": "If I'm saying 'Your Brother Seedhe Maut,' then you are my brother, yes.",
       "explanation": "Encore addresses the fans directly — the TBSM tagline is reciprocal. If he calls himself your brother, then you're family too. A moment of connection with the audience before handing the mic to Calm.",
@@ -437,6 +467,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "And if you don't know, they call him, \"Calm\"",
+      "romanized": "And if you don't know, they call him, \"Calm\"",
       "speaker": "Encore ABJ",
       "translation": "And if you don't know, they call him Calm.",
       "explanation": "Encore introduces his partner Calm before handing over the verse, building anticipation for Calm's entry.",
@@ -444,6 +475,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "फ़ूँक रहा हूँ OG अलग शहर में",
+      "romanized": "Foonka rahaa hoon OG alaga shahara men",
       "speaker": "Calm",
       "translation": "I'm smoking OG in a different city.",
       "explanation": "Calm opens his verse on tour — smoking OG Kush in yet another city, capturing the essence of tour life.",
@@ -457,6 +489,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "आज रात साथ दिमाग है जो कि ज़हर है",
+      "romanized": "Aaja raata saatha dimaaga hai jo ki zahara hai",
       "speaker": "Calm",
       "translation": "Tonight my mind is with me, and it's poison.",
       "explanation": "His mind is his weapon and it's toxic to the competition. When his brain is locked in, it's lethal.",
@@ -470,6 +503,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "भेजा मेरा dead end, धुएँ से है faded",
+      "romanized": "Bhejaa meraa dead end, dhuen se hai faded",
       "speaker": "Calm",
       "translation": "My brain is at a dead end, faded from the smoke.",
       "explanation": "His mind has hit a wall from all the smoking — he's completely faded and zoned out. 'Bheja' is Delhi slang for brain.",
@@ -488,6 +522,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "दो bottle down, रुके नहीं लौंडों की Jameson",
+      "romanized": "Do bottle down, ruke naheen laundon kee Jameson",
       "speaker": "Calm",
       "translation": "Two bottles down, the boys' Jameson doesn't stop.",
       "explanation": "They've already finished two bottles and the Jameson whiskey keeps flowing. The crew drinks hard on tour.",
@@ -501,6 +536,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "दो रखूँ crown लेकिन एक ही रखो pay cheque",
+      "romanized": "Do rakhoon crown lekina eka hee rakho pay cheque",
       "speaker": "Calm",
       "translation": "I'll keep two crowns but just give me one paycheck.",
       "explanation": "He deserves multiple crowns (for being king of the game in multiple ways) but asks for just one paycheck — implying he's humble about the money but his talent deserves double the recognition.",
@@ -514,6 +550,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "Slim Shady, Weezy F Baby हो या प्रेमचन्द",
+      "romanized": "Slim Shady, Weezy F Baby ho yaa premachanda",
       "speaker": "Calm",
       "translation": "Whether it's Slim Shady, Weezy F Baby, or Premchand.",
       "explanation": "Calm names his diverse influences — Eminem (Slim Shady), Lil Wayne (Weezy F Baby), and Munshi Premchand, the legendary Hindi literary author. This shows Seedhe Maut draws from both Western hip-hop and Indian literary tradition.",
@@ -537,6 +574,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "Seedhe Maut ने सीखा सभी से और करा game end",
+      "romanized": "Seedhe Maut ne seekhaa sabhee se aura karaa game end",
       "speaker": "Calm",
       "translation": "Seedhe Maut learned from everyone and ended the game.",
       "explanation": "They absorbed influences from all these legends — Eastern and Western — and used that combined knowledge to dominate and shut down the competition.",
@@ -544,6 +582,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "Ops पे bomb drop, जब top दिखा vacant",
+      "romanized": "Ops pe bomb drop, jaba top dikhaa vacant",
       "speaker": "Calm",
       "translation": "Bomb drop on the ops, when the top looked vacant.",
       "explanation": "When they saw no one truly holding the top spot in Indian hip-hop, they dropped bombs (fire tracks) on the opposition and claimed it.",
@@ -557,6 +596,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "Blunt करे blunt roll, Mo तले bacon",
+      "romanized": "Blunt kare blunt roll, Mo tale bacon",
       "speaker": "Calm",
       "translation": "Blunt rolls the blunt, Mo fries bacon.",
       "explanation": "A chill scene describing the crew's tour ritual — someone rolls the blunt while Mo (likely a crew member) cooks food. Casual tour life vibes. 'Blunt' is also wordplay — one 'Blunt' (person/nickname) rolls a blunt (marijuana cigar).",
@@ -575,6 +615,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "Naush और हम बकचोद, गिने जाएँ payment",
+      "romanized": "Naush aura hama bakachoda, gine jaaen payment",
       "speaker": "Calm",
       "translation": "Naush and us talking shit, counting payments.",
       "explanation": "Naush (likely Naushad, their frequent collaborator/manager) and the crew are joking around while counting their earnings from shows. Tour life — money and banter.",
@@ -593,6 +634,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "वो जानें तेरे यार, भाई, हुए कितने छह दिन",
+      "romanized": "Vo jaanen tere yaara, bhaaee, hue kitane chhaha dina",
       "speaker": "Calm",
       "translation": "Those friends of yours know, brother, how many six-day stretches it's been.",
       "explanation": "Addressing rivals — their own friends know how exhausting and relentless Seedhe Maut's tour schedule is. They've been grinding day after day, six days at a stretch.",
@@ -600,6 +642,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "बावे, नहीं है प्यार ये industry में way in",
+      "romanized": "Baave, naheen hai pyaara ye industry men way in",
       "speaker": "Calm",
       "translation": "Bro, there's no love in the industry, it's a way in.",
       "explanation": "The industry runs on opportunism, not love. People only show affection when they need a way in — connections, favors, access.",
@@ -613,6 +656,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "तुम चढ़ो दो सीढ़ी नहीं and the hoes start faking",
+      "romanized": "Tuma charho do seerhee naheen and the hoes start faking",
       "speaker": "Calm",
       "translation": "You climb just two steps and the hoes start faking.",
       "explanation": "The moment anyone gets even a tiny bit of success (two steps up), fake people swarm in pretending to be down. A comment on how shallow the scene can be.",
@@ -620,6 +664,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "कुत्तों को cake चाहिए, game माँगे saving",
+      "romanized": "Kutton ko cake chaahie, game maange saving",
       "speaker": "Calm",
       "translation": "The dogs want cake, the game needs saving.",
       "explanation": "Everyone wants a piece of the money (cake) but the game itself needs to be rescued from these mediocre artists. Calm positions Seedhe Maut as the saviors of quality hip-hop.",
@@ -633,6 +678,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "ये गोली माँगे नाम और वो चोरी माँगे same shit",
+      "romanized": "Ye golee maange naama aura vo choree maange same shit",
       "speaker": "Calm",
       "translation": "This one begs for name recognition, that one steals — same shit.",
       "explanation": "Some rappers beg to use Seedhe Maut's name for clout, others straight up steal their flows and style. Either way, it's the same parasitic behavior.",
@@ -640,6 +686,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "I bend it like David, हूँ Vince when the pay hit",
+      "romanized": "I bend it like David, hoon Vince when the pay hit",
       "speaker": "Calm",
       "translation": "I bend it like David, I'm Vince when the pay hits.",
       "explanation": "Double reference — 'bend it like Beckham' (David Beckham's signature curved free kicks) for his curved flows, and Vince Staples' attitude when the money comes through. Could also reference Vince Carter's showmanship.",
@@ -658,6 +705,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "यहाँ का नहीं हूँ, कहते, \"Fourth kind and the most high\"",
+      "romanized": "Yahaan kaa naheen hoon, kahate, \"Fourth kind and the most high\"",
       "speaker": "Calm",
       "translation": "I'm not from here, they say, 'Fourth kind and the most high.'",
       "explanation": "Calm positions himself as otherworldly — a 'Fourth Kind' encounter (close encounter of the fourth kind = alien abduction). He's so elevated in skill that people think he's not from this planet. 'Most High' adds a divine/spiritual dimension.",
@@ -676,6 +724,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "आधी नींद में लिखूँ, Muay Thai लगे pen fight",
+      "romanized": "Aadhee neenda men likhoon, Muay Thai lage pen fight",
       "speaker": "Calm",
       "translation": "I write half-asleep, my pen fights feel like Muay Thai.",
       "explanation": "Even when half-asleep, his writing hits as hard as Muay Thai — the brutal Thai martial art known for devastating strikes. His pen battles are full-contact combat.",
@@ -694,6 +743,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "इनके career से बड़ा जोटा है, मूत आए भरम पे",
+      "romanized": "Inake career se baraa jotaa hai, moota aae bharama pe",
       "speaker": "Calm",
       "translation": "My single stash is bigger than their career, piss on their delusion.",
       "explanation": "His stash of weed ('jota' — a large quantity/bundle) is bigger than their entire career. He then says he pisses on their 'bharam' (delusion/false image), completely disrespecting their illusions of grandeur.",
@@ -712,6 +762,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "ना छू पाएँ कलम, ये हैं too far",
+      "romanized": "Naa chhoo paaen kalama, ye hain too far",
       "speaker": "Calm",
       "translation": "They can't touch my pen, they're too far behind.",
       "explanation": "His lyrical ability is so far ahead that rivals can't even come close to matching his pen game.",
@@ -725,6 +776,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "धूल चाट, गांडें नहीं",
+      "romanized": "Dhoola chaata, gaanden naheen",
       "speaker": "Calm",
       "translation": "Eat dust, not asses.",
       "explanation": "Telling rivals to eat dust (lose badly) rather than kiss ass. A blunt dismissal — stop licking boots and accept your L.",
@@ -738,6 +790,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "गाड़ी push start करी, चाबी डाली नहीं",
+      "romanized": "Gaaree push start karee, chaabee daalee naheen",
       "speaker": "Calm",
       "translation": "Push-started the car, didn't even put the key in.",
       "explanation": "He got things moving through sheer force and hustle, without any traditional advantages or easy access (the 'key'). A metaphor for making it without industry connections or handouts.",
@@ -751,6 +804,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "भंड हूँ, साथ है समय, चले comedy",
+      "romanized": "Bhanda hoon, saatha hai samaya, chale comedy",
       "speaker": "Calm",
       "translation": "I'm wasted, time is on my side, let the comedy roll.",
       "explanation": "He's high/drunk ('bhand') but doesn't care because time is with him — he can afford to chill and enjoy the ride. Life is a comedy when you're winning.",
@@ -764,6 +818,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "जानूँ तुम तक पहुँचने के सौ तरीके अब भी",
+      "romanized": "Jaanoon tuma taka pahunchane ke sau tareeke aba bhee",
       "speaker": "Calm",
       "translation": "I still know a hundred ways to reach you.",
       "explanation": "A veiled threat — he knows countless ways to get to his rivals. Whether through music, connections, or directly, no one is out of his reach.",
@@ -771,6 +826,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "चले हाथी, कुत्ते भौंकें पर इस हाथी को तलाश है खाली मौके की (Rrrah)",
+      "romanized": "Chale haathee, kutte bhaunken para isa haathee ko talaasha hai khaalee mauke kee (Rrrah)",
       "speaker": "Calm",
       "translation": "The elephant walks, the dogs bark, but this elephant is just looking for an opening.",
       "explanation": "Classic Hindi proverb flipped — 'haathi chale, kutte bhaunke' (the elephant walks while dogs bark) means great people ignore small-minded critics. But Calm adds a twist: this elephant is actually looking for the right moment to strike. He's not just ignoring the haters — he's hunting for an opportunity to crush them.",
@@ -784,6 +840,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "बातों की बातें बने फटाफट",
+      "romanized": "Baaton kee baaten bane phataaphata",
       "speaker": "Calm",
       "translation": "Talk turns into just talk, quickly.",
       "explanation": "People make grand claims rapidly but nothing materializes. Words are cheap in this industry.",
@@ -797,6 +854,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "और लाखों की बातें भी यहाँ लगे normal",
+      "romanized": "Aura laakhon kee baaten bhee yahaan lage normal",
       "speaker": "Calm",
       "translation": "And conversations about lakhs (hundreds of thousands) feel normal here.",
       "explanation": "Talking about lakhs of rupees is routine now — a sign of how far they've come. Money in six figures is just another Tuesday for Seedhe Maut.",
@@ -810,6 +868,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "है ये normal नहीं, I'm used to it",
+      "romanized": "Hai ye normal naheen, I'm used to it",
       "speaker": "Calm",
       "translation": "This isn't normal, but I'm used to it.",
       "explanation": "He acknowledges that their level of success is abnormal for Indian hip-hop, but he's grown accustomed to it. A humble flex.",
@@ -817,6 +876,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "है Seedhe Maut anomaly",
+      "romanized": "Hai Seedhe Maut anomaly",
       "speaker": "Calm",
       "translation": "Seedhe Maut is an anomaly.",
       "explanation": "They're an outlier in the Indian rap scene — nothing about their trajectory or talent follows the normal pattern. They're an exception to every rule.",
@@ -830,6 +890,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "यहाँ फ़ूँकें daily सौ कली, अकेले हाँडूँ, भाई को चाहिए chauffeur नहीं, बस more money",
+      "romanized": "Yahaan foonken daily sau kalee, akele haandoon, bhaaee ko chaahie chauffeur naheen, basa more money",
       "speaker": "Calm",
       "translation": "We smoke a hundred buds daily here, I roam alone — bro doesn't need a chauffeur, just more money.",
       "explanation": "They smoke heavily every day ('sau kali' — hundred buds). He moves solo, doesn't need someone to drive him around — the only thing he needs is more money. Self-sufficient and focused on the bag.",
@@ -848,6 +909,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "और इनकी माँ को चोदें मेरे vocal ही",
+      "romanized": "Aura inakee maan ko choden mere vocal hee",
       "speaker": "Calm",
       "translation": "And my vocals alone fuck their mother.",
       "explanation": "An extremely aggressive line — his vocals alone are enough to destroy the opposition. Classic Delhi gaali (abuse) used for maximum disrespect.",
@@ -855,6 +917,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "It's so funny कि rapper'on को लगे हैं ये top पे, हैं ये टोपे पे ही",
+      "romanized": "It's so funny ki rapper'on ko lage hain ye top pe, hain ye tope pe hee",
       "speaker": "Calm",
       "translation": "It's so funny that rappers think they're on top, they're just on the cap.",
       "explanation": "Wordplay between 'top' (the peak) and 'tope' (cap/hat). These rappers think they've reached the top but they're only sitting on a cap — they've barely made it. Also a play on 'cap' meaning lies in slang.",
@@ -868,6 +931,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "अब भी spittin' dope, हूँ hero locally",
+      "romanized": "Aba bhee spittin' dope, hoon hero locally",
       "speaker": "Calm",
       "translation": "Still spitting dope, I'm a hero locally.",
       "explanation": "He's still dropping fire bars and remains a hero in his local scene. Despite touring globally, his roots and local reputation are solid.",
@@ -881,6 +945,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "आज दिन है मेरा क्यूँकि काफ़ी रातें काटी सो के नहीं यहाँ",
+      "romanized": "Aaja dina hai meraa kyoonki kaafee raaten kaatee so ke naheen yahaan",
       "speaker": "Calm",
       "translation": "Today is my day because I spent many nights here not sleeping.",
       "explanation": "The success of today was earned through countless sleepless nights of grinding. He put in the work when no one was watching, and now it's his time to shine.",
@@ -888,6 +953,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "Seedhe Maut",
+      "romanized": "Seedhe Maut",
       "speaker": "Calm",
       "translation": "Seedhe Maut.",
       "explanation": "Calm stamps the group name as an outro — a declaration of identity.",
@@ -895,6 +961,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "Bitch",
+      "romanized": "Bitch",
       "speaker": "Calm",
       "translation": "Bitch.",
       "explanation": "Aggressive ad-lib to close out with attitude.",
@@ -902,6 +969,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "DL91",
+      "romanized": "DL91",
       "speaker": "Calm",
       "translation": "DL91.",
       "explanation": "Repping Delhi 91 one more time — their city and country code as their identity marker.",
@@ -915,6 +983,7 @@ export const tour_shit: Song = {
     },
     {
       "original": "तेरा भाई Seedhe Maut",
+      "romanized": "Teraa bhaaee Seedhe Maut",
       "speaker": "Calm",
       "translation": "Your brother, Seedhe Maut.",
       "explanation": "The closing tagline — 'Tera Bhai Seedhe Maut.' A final affirmation of brotherhood with the listeners and a stamp of their brand.",

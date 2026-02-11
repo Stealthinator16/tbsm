@@ -10,6 +10,7 @@ export const chidiya_udd: Song = {
   "lyrics": [
     {
       "original": "Sez on the beat boy",
+      "devanagari": "Sez on the beat boy",
       "speaker": "Seedhe Maut",
       "translation": "Sez is on the beat, boy.",
       "explanation": "The signature producer tag of Sez On The Beat, who produced this track and is a pioneer in the Indian hip-hop scene.",
@@ -23,6 +24,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Chidiya Udd",
+      "devanagari": "चिड़िया उड़",
       "speaker": "Encore ABJ & Calm",
       "translation": "Fly Birdie, Fly (The bird flies).",
       "explanation": "Refers to a popular Indian children's game 'Chidiya Udd'. In the song, it symbolizes how easily the powerful make things (rights, resources, lives) disappear.",
@@ -36,6 +38,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Ye chahte ho jaaye jung yaha ye chahte gudd",
+      "devanagari": "ये चाहते हो जाये जंग यहाँ ये चाहते गुड़",
       "speaker": "Encore ABJ & Calm",
       "translation": "They want a war to break out here, they want a mess.",
       "explanation": "Suggests that political entities thrive on conflict. 'Gudd' (jaggery) is used here to imply a sticky, chaotic situation or a sweet deal for the instigators.",
@@ -55,6 +58,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Gobar danga dhaye narak hi kardo duniya gull",
+      "devanagari": "गोबर दंगा ढाये नर्क ही करदो दुनिया गुल",
       "speaker": "Encore ABJ & Calm",
       "translation": "Cow-dung riots wreak havoc, just turn the world into hell and shut it down.",
       "explanation": "A critique of religious/identity politics ('Gobar' referring to cow-centric politics) causing riots ('Danga'). 'Gull' means lights out or finished.",
@@ -79,6 +83,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Bann pishaach ab khud kar paap hai yaha sab chalta full",
+      "devanagari": "बन पिशाच अब खुद कर पाप है यहाँ सब चलता full",
       "speaker": "Encore ABJ & Calm",
       "translation": "Become a demon now and sin; everything is permissible here.",
       "explanation": "Reflects the moral decay in society where people are encouraged to be predatory because the system allows it.",
@@ -92,6 +97,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Li ek do dupki ganga me dhoe paap and",
+      "devanagari": "ली एक दो डुबकी गंगा में धोए पाप and",
       "speaker": "Encore ABJ & Calm",
       "translation": "Took a couple of dips in the Ganges, washed away the sins, and...",
       "explanation": "References the ritual of washing sins in the holy river Ganga, highlighting the hypocrisy of committing crimes and then using religion for absolution.",
@@ -110,14 +116,16 @@ export const chidiya_udd: Song = {
       ]
     },
     {
-      "original": "Boy I’m...",
+      "original": "Boy I'm...",
+      "devanagari": "Boy I'm...",
       "speaker": "Encore ABJ & Calm",
       "translation": "Boy, I'm...",
       "explanation": "Leading into the hook's conclusion.",
       "annotations": []
     },
     {
-      "original": "Boy I’m good",
+      "original": "Boy I'm good",
+      "devanagari": "Boy I'm good",
       "speaker": "Encore ABJ & Calm",
       "translation": "Boy, I'm good.",
       "explanation": "The speaker feels 'clean' or untouched by their actions after a performative religious act.",
@@ -125,6 +133,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Chidiya chug gayi khet yaha bande bethe tab bhi chup",
+      "devanagari": "चिड़िया चुग गई खेत यहाँ बंदे बैठे तब भी चुप",
       "speaker": "Encore ABJ & Calm",
       "translation": "The birds have finished the crop, yet people remain silent.",
       "explanation": "A play on the Hindi idiom 'Ab pachtaye hote kya jab chidiya chug gayi khet', meaning it's too late to worry once the damage is done. It critiques public apathy.",
@@ -138,6 +147,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Karte paapi pashchyataap nahi kar shaitaani full",
+      "devanagari": "करते पापी पश्चाताप नहीं कर शैतानी full",
       "speaker": "Encore ABJ & Calm",
       "translation": "Sinners don't repent, they just keep doing devilish things.",
       "explanation": "Reiterates that the cycle of corruption and evil continues without remorse.",
@@ -150,7 +160,8 @@ export const chidiya_udd: Song = {
       ]
     },
     {
-      "original": "Le ek do dupki ganga me dhoe paap and boy I’m good",
+      "original": "Le ek do dupki ganga me dhoe paap and boy I'm good",
+      "devanagari": "ले एक दो डुबकी गंगा में धोए पाप and boy I'm good",
       "speaker": "Encore ABJ & Calm",
       "translation": "Take a couple of dips in the Ganges, wash away the sins, and boy I'm good.",
       "explanation": "Repetition of the theme of superficial religious redemption for serious social crimes.",
@@ -158,6 +169,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Hai speed limit 60 hu me 100 par hain jeb me (hanji)",
+      "devanagari": "है speed limit 60 हूँ मैं 100 पर हैं जेब में (हांजी)",
       "speaker": "Calm",
       "translation": "The speed limit is 60, but I'm at 100 because I have [bribes] in my pocket.",
       "explanation": "Calm takes on the persona of a powerful, corrupt man. He breaks laws because he can afford to bribe his way out.",
@@ -171,6 +183,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Thulle, dc yaar hai mera dalega ni jail me (na)",
+      "devanagari": "ठुल्ले, DC यार है मेरा डालेगा नी jail में (ना)",
       "speaker": "Calm",
       "translation": "The cops—well, the DC is my friend, he won't put me in jail.",
       "explanation": "'Thulle' is derogatory slang for police. 'DC' refers to the District Collector, showing the speaker's high-level connections.",
@@ -189,6 +202,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Niyam gaye tel lene",
+      "devanagari": "नियम गए तेल लेने",
       "speaker": "Calm",
       "translation": "Rules can go take a hike (literally: go buy oil).",
       "explanation": "A common Hindi phrase 'tel lene jana' used to express total disregard for something.",
@@ -198,6 +212,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Dharam bike sale me (hmm)",
+      "devanagari": "धर्म बिके sale में (hmm)",
       "speaker": "Calm",
       "translation": "Religion is being sold on sale.",
       "explanation": "Criticizes how religion is commercialized or used as a tool for political/personal gain.",
@@ -207,6 +222,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Economy du gerr mera",
+      "devanagari": "Economy दूँ gear मेरा",
       "speaker": "Calm",
       "translation": "I'll shift the economy's gear.",
       "explanation": "Implies the powerful manipulate the national economy like a vehicle for their own benefit.",
@@ -216,6 +232,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Paisa ugge pedd pe (haath ka mail hai ji)",
+      "devanagari": "पैसा उगे पेड़ पे (हाथ का मैल है जी)",
       "speaker": "Calm",
       "translation": "Money grows on trees (it's just dirt on the hands).",
       "explanation": "The powerful view money as infinite and disposable. 'Haath ka mail' is an idiom suggesting money is fleeting/unimportant.",
@@ -235,6 +252,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Yaha ka seth me (lala)",
+      "devanagari": "यहाँ का सेठ मैं (लाला)",
       "speaker": "Calm",
       "translation": "I'm the boss here.",
       "explanation": "'Seth' and 'Lala' refer to wealthy businessmen or influential figures.",
@@ -249,6 +267,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Evm se masti daaru deke karu bate me (haha)",
+      "devanagari": "EVM से मस्ती दारू देके करूँ बाँटे में (haha)",
       "speaker": "Calm",
       "translation": "Messing with EVMs, distributing alcohol to buy votes.",
       "explanation": "Points toward electoral malpractice—tampering with Electronic Voting Machines and bribing poor voters with liquor.",
@@ -262,6 +281,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Machli fasi kate me hai jaala poori lake me (faso)",
+      "devanagari": "मछली फँसी काँटे में है जाला पूरी lake में (फँसो)",
       "speaker": "Calm",
       "translation": "The fish is caught on the hook, and there's a net across the whole lake.",
       "explanation": "Metaphor for how the public (fish) is trapped by the systemic net cast by the powerful.",
@@ -269,6 +289,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Niwaala chheena tera khaana padha meri plate me",
+      "devanagari": "निवाला छीना तेरा खाना पड़ा मेरी plate में",
       "speaker": "Calm",
       "translation": "Snatched your morsel, and now your food is on my plate.",
       "explanation": "A stark image of exploitation: the rich getting richer by taking the basic necessities of the poor.",
@@ -282,6 +303,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Ye power aati mej se",
+      "devanagari": "ये power आती मेज़ से",
       "speaker": "Calm",
       "translation": "This power comes from the desk.",
       "explanation": "Refers to bureaucratic or political power (the official's desk).",
@@ -295,9 +317,10 @@ export const chidiya_udd: Song = {
       ]
     },
     {
-      "original": "“Lado bc” - adlib",
+      "original": "\"Lado bc\" - adlib",
+      "devanagari": "\"लड़ो bc\" - adlib",
       "speaker": "Calm",
-      "translation": "“Fight, you bastards”",
+      "translation": "\"Fight, you bastards\"",
       "explanation": "An ad-lib representing the instigator watching the masses fight among themselves.",
       "annotations": [
         {
@@ -309,6 +332,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Hate se",
+      "devanagari": "Hate से",
       "speaker": "Calm",
       "translation": "From hate.",
       "explanation": "Clarifies that the aforementioned power is fueled by spreading hatred.",
@@ -316,6 +340,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Shudhta chali saer pe",
+      "devanagari": "शुद्धता चली सैर पे",
       "speaker": "Calm",
       "translation": "Purity has gone for a walk.",
       "explanation": "Meaning integrity and purity are no longer present in the system.",
@@ -325,6 +350,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Propoganda ki den ye",
+      "devanagari": "Propaganda की देन ये",
       "speaker": "Calm",
       "translation": "This is the gift of propaganda.",
       "explanation": "The current state of society is a result of manufactured narratives.",
@@ -332,6 +358,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Nakshekadam adolf k",
+      "devanagari": "नक्शेकदम Adolf के",
       "speaker": "Calm",
       "translation": "In the footsteps of Adolf [Hitler].",
       "explanation": "A heavy comparison suggesting the current leadership or power structure follows fascist ideologies.",
@@ -351,6 +378,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Radneeti hui ni fail ye",
+      "devanagari": "रणनीति हुई नी fail ये",
       "speaker": "Calm",
       "translation": "This strategy hasn't failed yet.",
       "explanation": "Implies that divide-and-rule and propaganda are still working effectively.",
@@ -364,13 +392,15 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Patti padhake chain se",
+      "devanagari": "पट्टी पढ़ाके चैन से",
       "speaker": "Calm",
       "translation": "After brainwashing [them] peacefully.",
       "explanation": "'Patti padhana' means to manipulate or mislead someone.",
       "annotations": []
     },
     {
-      "original": "Lu ek do dupki ganga me dhoe paap and boy I’m good",
+      "original": "Lu ek do dupki ganga me dhoe paap and boy I'm good",
+      "devanagari": "लूँ एक दो डुबकी गंगा में धोए पाप and boy I'm good",
       "speaker": "Calm",
       "translation": "I'll take a dip or two in the Ganges, wash my sins, and boy I'm good.",
       "explanation": "The persona concludes that no matter the evil, a ritualistic dip makes them 'good' again.",
@@ -378,6 +408,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Chidiya Udd",
+      "devanagari": "चिड़िया उड़",
       "speaker": "Encore ABJ & Calm",
       "translation": "Fly Birdie, Fly.",
       "explanation": "Hook repeat.",
@@ -385,6 +416,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Ye chahte ho jaaye jung yaha ye chahte gudd",
+      "devanagari": "ये चाहते हो जाये जंग यहाँ ये चाहते गुड़",
       "speaker": "Encore ABJ & Calm",
       "translation": "They want a war to break out here, they want a mess.",
       "explanation": "Hook repeat.",
@@ -392,6 +424,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Gobar danga dhaye narak hi kardo duniya gull",
+      "devanagari": "गोबर दंगा ढाये नर्क ही करदो दुनिया गुल",
       "speaker": "Encore ABJ & Calm",
       "translation": "Cow-dung riots wreak havoc, just turn the world into hell and shut it down.",
       "explanation": "Hook repeat.",
@@ -399,6 +432,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Bann pishaach ab khud kar paap hai yaha sab chalta full",
+      "devanagari": "बन पिशाच अब खुद कर पाप है यहाँ सब चलता full",
       "speaker": "Encore ABJ & Calm",
       "translation": "Become a demon now and sin; everything is permissible here.",
       "explanation": "Hook repeat.",
@@ -406,20 +440,23 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Li ek do dupki ganga me dhoe paap and",
+      "devanagari": "ली एक दो डुबकी गंगा में धोए पाप and",
       "speaker": "Encore ABJ & Calm",
       "translation": "Took a couple of dips in the Ganges, washed away the sins, and...",
       "explanation": "Hook repeat.",
       "annotations": []
     },
     {
-      "original": "Boy I’m...",
+      "original": "Boy I'm...",
+      "devanagari": "Boy I'm...",
       "speaker": "Encore ABJ & Calm",
       "translation": "Boy, I'm...",
       "explanation": "Hook repeat.",
       "annotations": []
     },
     {
-      "original": "Boy I’m good",
+      "original": "Boy I'm good",
+      "devanagari": "Boy I'm good",
       "speaker": "Encore ABJ & Calm",
       "translation": "Boy, I'm good.",
       "explanation": "Hook repeat.",
@@ -427,6 +464,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Chidiya chug gayi khet yaha bande bethe tab bhi chup",
+      "devanagari": "चिड़िया चुग गई खेत यहाँ बंदे बैठे तब भी चुप",
       "speaker": "Encore ABJ & Calm",
       "translation": "The birds have finished the crop, yet people remain silent.",
       "explanation": "Hook repeat.",
@@ -434,13 +472,15 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Karte paapi pashchyataap nahi kar shaitaani full",
+      "devanagari": "करते पापी पश्चाताप नहीं कर शैतानी full",
       "speaker": "Encore ABJ & Calm",
       "translation": "Sinners don't repent, they just keep doing devilish things.",
       "explanation": "Hook repeat.",
       "annotations": []
     },
     {
-      "original": "Le ek do dupki ganga me dhoe paap and boy I’m good",
+      "original": "Le ek do dupki ganga me dhoe paap and boy I'm good",
+      "devanagari": "ले एक दो डुबकी गंगा में धोए पाप and boy I'm good",
       "speaker": "Encore ABJ & Calm",
       "translation": "Take a couple of dips in the Ganges, wash away the sins, and boy I'm good.",
       "explanation": "Hook repeat.",
@@ -448,6 +488,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Hai bail gaadi 5 (km/h) pe aur kaudi nahi hai jeb me",
+      "devanagari": "है बैल गाड़ी 5 (km/h) पे और कौड़ी नहीं है जेब में",
       "speaker": "Encore ABJ",
       "translation": "The bullock cart is at 5 km/h and I don't have a penny in my pocket.",
       "explanation": "Encore switches to the perspective of a poor farmer. Contrasts Calm's high-speed car (100 km/h) with his slow bullock cart and lack of money ('Kaudi').",
@@ -467,6 +508,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Thulle ni hai yar vo seedhe denge daal jail me",
+      "devanagari": "ठुल्ले नी हैं यार वो सीधे देंगे डाल jail में",
       "speaker": "Encore ABJ",
       "translation": "The cops aren't my friends; they'll throw me straight into jail.",
       "explanation": "Contrasts with Calm's line. For the poor, the police are a threat, not allies or bribe-takers.",
@@ -481,6 +523,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Seb ke hai paise ni",
+      "devanagari": "सेब के हैं पैसे नी",
       "speaker": "Encore ABJ",
       "translation": "Don't have money for apples.",
       "explanation": "Symbolizes the inability to afford basic nutritious food.",
@@ -488,6 +531,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Khareedu dharam sale pe",
+      "devanagari": "खरीदू धर्म sale पे",
       "speaker": "Encore ABJ",
       "translation": "I buy religion on sale.",
       "explanation": "Suggests that the poor are sold a version of religion to keep them distracted/appeased.",
@@ -495,6 +539,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Aur Fall hai free ki nafrat",
+      "devanagari": "और Fall है free की नफ़रत",
       "speaker": "Encore ABJ",
       "translation": "And the 'fruit' (fall) is free hatred.",
       "explanation": "While they can't afford real fruit (apples), hatred is distributed for free by leaders. A play on the word 'Fall' (Fruit/Result).",
@@ -502,6 +547,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Mera paisa ni hai ped pe",
+      "devanagari": "मेरा पैसा नी है पेड़ पे",
       "speaker": "Encore ABJ",
       "translation": "My money doesn't grow on trees.",
       "explanation": "A direct rebuttal to Calm's perspective; for the common man, every rupee is hard-earned.",
@@ -509,6 +555,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Yaha fareb mai",
+      "devanagari": "यहाँ फ़रेब में",
       "speaker": "Encore ABJ",
       "translation": "In this deception.",
       "explanation": "Describes the reality of living in a deceptive system.",
@@ -522,6 +569,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Chunu mai chunawo me jo deta daaru pel ke",
+      "devanagari": "चुनूँ मैं चुनावो में जो देता दारू पेल के",
       "speaker": "Encore ABJ",
       "translation": "In elections, I vote for whoever gives me plenty of liquor.",
       "explanation": "Critiques how poverty forces voters to trade their future for immediate, cheap incentives like alcohol.",
@@ -535,6 +583,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Vaadon ka ye kaanta feka gareebi ke lake me",
+      "devanagari": "वादों का ये काँटा फेंका ग़रीबी के lake में",
       "speaker": "Encore ABJ",
       "translation": "They threw the hook of false promises into the lake of poverty.",
       "explanation": "Politicians 'fish' for votes by using false promises as bait for desperate people.",
@@ -542,6 +591,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Aur cheene ye niwala mera khana inki plate me",
+      "devanagari": "और छीने ये निवाला मेरा खाना इनकी plate में",
       "speaker": "Encore ABJ",
       "translation": "And they snatch my morsel; my food is on their plate.",
       "explanation": "The victim's perspective on the same exploitation mentioned in Calm's verse.",
@@ -549,6 +599,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Finyl meri mej pe",
+      "devanagari": "Finyl मेरी मेज़ पे",
       "speaker": "Encore ABJ",
       "translation": "Phenyl is on my table.",
       "explanation": "Phenyl (a cleaning agent) is often consumed by farmers to commit suicide due to debt. Contrasts with the 'power' on Calm's desk.",
@@ -562,6 +613,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Kheechu neat mai",
+      "devanagari": "खींचूँ neat मैं",
       "speaker": "Encore ABJ",
       "translation": "I drink it neat.",
       "explanation": "A dark double entendre. Usually refers to drinking alcohol neat, but here implies drinking the poison (Phenyl).",
@@ -569,6 +621,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Masumiyat gai saer pe",
+      "devanagari": "मासूमियत गई सैर पे",
       "speaker": "Encore ABJ",
       "translation": "Innocence has gone for a walk.",
       "explanation": "Similar to Calm's 'Purity' line; innocence is lost in this harsh reality.",
@@ -582,6 +635,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Propaganda ki den ye",
+      "devanagari": "Propaganda की देन ये",
       "speaker": "Encore ABJ",
       "translation": "This is the gift of propaganda.",
       "explanation": "The farmer's suffering is also framed by the same propaganda the powerful use.",
@@ -589,6 +643,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Nakshekadam kisano ke",
+      "devanagari": "नक्शेकदम किसानों के",
       "speaker": "Encore ABJ",
       "translation": "In the footsteps of the farmers.",
       "explanation": "Leading into the tragic reality of Indian agriculture.",
@@ -603,6 +658,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Lagalu faansi ped pe",
+      "devanagari": "लगालूँ फाँसी पेड़ पे",
       "speaker": "Encore ABJ",
       "translation": "I'll hang myself from a tree.",
       "explanation": "A direct reference to the epidemic of farmer suicides in India.",
@@ -616,6 +672,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Dubale meri lash ko",
+      "devanagari": "डुबा ले मेरी लाश को",
       "speaker": "Encore ABJ",
       "translation": "Drown my corpse.",
       "explanation": "Refers to how even in death, the poor are discarded.",
@@ -623,6 +680,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Vo upar ajaegi taer ke",
+      "devanagari": "वो ऊपर आजाएगी तैर के",
       "speaker": "Encore ABJ",
       "translation": "It will float back up to the surface.",
       "explanation": "Suggests that the truth or the weight of the injustice cannot be hidden forever; it will eventually surface.",
@@ -630,6 +688,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Chidiya Udd",
+      "devanagari": "चिड़िया उड़",
       "speaker": "Encore ABJ & Calm",
       "translation": "Fly Birdie, Fly.",
       "explanation": "Final hook repeat.",
@@ -637,6 +696,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Ye chahte ho jaaye jung yaha ye chahte gudd",
+      "devanagari": "ये चाहते हो जाये जंग यहाँ ये चाहते गुड़",
       "speaker": "Encore ABJ & Calm",
       "translation": "They want a war to break out here, they want a mess.",
       "explanation": "Final hook repeat.",
@@ -644,6 +704,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Gobar danga dhaye narak hi kardo duniya gull",
+      "devanagari": "गोबर दंगा ढाये नर्क ही करदो दुनिया गुल",
       "speaker": "Encore ABJ & Calm",
       "translation": "Cow-dung riots wreak havoc, just turn the world into hell and shut it down.",
       "explanation": "Final hook repeat.",
@@ -651,6 +712,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Bann pishaach ab khud kar paap hai yaha sab chalta full",
+      "devanagari": "बन पिशाच अब खुद कर पाप है यहाँ सब चलता full",
       "speaker": "Encore ABJ & Calm",
       "translation": "Become a demon now and sin; everything is permissible here.",
       "explanation": "Final hook repeat.",
@@ -658,20 +720,23 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Li ek do dupki ganga me dhoe paap and",
+      "devanagari": "ली एक दो डुबकी गंगा में धोए पाप and",
       "speaker": "Encore ABJ & Calm",
       "translation": "Took a couple of dips in the Ganges, washed away the sins, and...",
       "explanation": "Final hook repeat.",
       "annotations": []
     },
     {
-      "original": "Boy I’m...",
+      "original": "Boy I'm...",
+      "devanagari": "Boy I'm...",
       "speaker": "Encore ABJ & Calm",
       "translation": "Boy, I'm...",
       "explanation": "Final hook repeat.",
       "annotations": []
     },
     {
-      "original": "Boy I’m good",
+      "original": "Boy I'm good",
+      "devanagari": "Boy I'm good",
       "speaker": "Encore ABJ & Calm",
       "translation": "Boy, I'm good.",
       "explanation": "Final hook repeat.",
@@ -679,6 +744,7 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Chidiya chug gayi khet yaha bande bethe tab bhi chup",
+      "devanagari": "चिड़िया चुग गई खेत यहाँ बंदे बैठे तब भी चुप",
       "speaker": "Encore ABJ & Calm",
       "translation": "The birds have finished the crop, yet people remain silent.",
       "explanation": "Final hook repeat.",
@@ -686,13 +752,15 @@ export const chidiya_udd: Song = {
     },
     {
       "original": "Karte paapi pashchyataap nahi kar shaitaani full",
+      "devanagari": "करते पापी पश्चाताप नहीं कर शैतानी full",
       "speaker": "Encore ABJ & Calm",
       "translation": "Sinners don't repent, they just keep doing devilish things.",
       "explanation": "Final hook repeat.",
       "annotations": []
     },
     {
-      "original": "Le ek do dupki ganga me dhoe paap and boy I’m good",
+      "original": "Le ek do dupki ganga me dhoe paap and boy I'm good",
+      "devanagari": "ले एक दो डुबकी गंगा में धोए पाप and boy I'm good",
       "speaker": "Encore ABJ & Calm",
       "translation": "Take a couple of dips in the Ganges, wash away the sins, and boy I'm good.",
       "explanation": "Final hook repeat.",

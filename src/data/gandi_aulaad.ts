@@ -14,6 +14,7 @@ export const gandi_aulaad: Song = {
   "lyrics": [
     {
       "original": "Tu Kare roll roll",
+      "devanagari": "तू करे roll roll",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -21,6 +22,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Jaga teri sthaapit",
+      "devanagari": "जगा तेरी स्थापित",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -28,6 +30,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Ho chuki",
+      "devanagari": "हो चुकी",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -35,6 +38,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Tu ho chuka hai shraapit",
+      "devanagari": "तू हो चुका है श्रापित",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -42,6 +46,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Tha tu bhagwaan par ab ban gaya hai naastik to kaae baat ki haar jeet",
+      "devanagari": "था तू भगवान पर अब बन गया है नास्तिक तो काए बात की हार जीत",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -49,6 +54,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Kaae baat jeena ab",
+      "devanagari": "काए बात जीना अब",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -56,6 +62,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Meri rooh mujhe kaate har ang mujhe daante",
+      "devanagari": "मेरी रूह मुझे काटे हर अंग मुझे डांटे",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -63,6 +70,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Bole sab ke mai",
+      "devanagari": "बोले सब के मैं",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -77,6 +85,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Gandi aulaad",
+      "devanagari": "गंदी औलाद",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -91,6 +100,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Bagairat nasal",
+      "devanagari": "बगैरत नस्ल",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -105,6 +115,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Chakhne me nikla zehreela prasad",
+      "devanagari": "चखने में निकला ज़हरीला प्रसाद",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -119,6 +130,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Gaata paapi gazal",
+      "devanagari": "गाता पापी ग़ज़ल",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -126,6 +138,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "To samjho ke jab bhi mai banunga lash",
+      "devanagari": "तो समझो के जब भी मैं बनूंगा लाश",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -133,6 +146,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Na bichana kabar",
+      "devanagari": "ना बिछाना कब्र",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -140,6 +154,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Na dena agni",
+      "devanagari": "ना देना अग्नि",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -147,6 +162,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Bado ko diye fuck ni",
+      "devanagari": "बड़ों को दिए fuck नी",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -154,6 +170,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Mai jeeya khudgarz",
+      "devanagari": "मैं जीया खुदगर्ज़",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -161,6 +178,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Gaya andar se sadd",
+      "devanagari": "गया अंदर से सड़",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -168,6 +186,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Haan mai Gandi aulaad",
+      "devanagari": "हाँ मैं गंदी औलाद",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -175,6 +194,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Bagairat nasal",
+      "devanagari": "बगैरत नस्ल",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -182,6 +202,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Chakhne me nikla zehreela prasad",
+      "devanagari": "चखने में निकला ज़हरीला प्रसाद",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -189,6 +210,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Gaata Paapi gazal",
+      "devanagari": "गाता पापी ग़ज़ल",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -196,6 +218,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "To samjho ke jab bhi ruke meri saans",
+      "devanagari": "तो समझो के जब भी रुके मेरी साँस",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -203,6 +226,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Na bichana kabar",
+      "devanagari": "ना बिछाना कब्र",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -210,6 +234,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Na dena agni",
+      "devanagari": "ना देना अग्नि",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -217,6 +242,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Kisi ko diye fuck ni",
+      "devanagari": "किसी को दिए fuck नी",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -224,6 +250,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Ye dardejigar",
+      "devanagari": "ये दर्दे-जिगर",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -231,6 +258,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Gaya andar se",
+      "devanagari": "गया अंदर से",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -238,6 +266,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Vo bole waqt mile na dobara",
+      "devanagari": "वो बोले वक़्त मिले ना दोबारा",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -245,6 +274,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Khudi ki ayyashiyo me fass gaya bechara",
+      "devanagari": "खुदी की अय्याशियों में फँस गया बेचारा",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -252,6 +282,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Khai ragade tab",
+      "devanagari": "खाई रगड़े तब",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -259,6 +290,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Aur kaii mila ni sahara",
+      "devanagari": "और कई मिला नी सहारा",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -273,6 +305,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Dil me mitti bhardi itni sala kamm pade sahara",
+      "devanagari": "दिल में मिट्टी भर दी इतनी साला कम पड़े सहारा",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -280,6 +313,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "...ch ch ch",
+      "devanagari": "...च च च",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -287,6 +321,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Kisi ko farak nahi padta",
+      "devanagari": "किसी को फ़र्क नहीं पड़ता",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -294,6 +329,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Padta jinse unse khatta ho chuka hai rishta",
+      "devanagari": "पड़ता जिनसे उनसे खट्टा हो चुका है रिश्ता",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -301,6 +337,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Ladta adato se jitna ho sake vo karta par",
+      "devanagari": "लड़ता आदतों से जितना हो सके वो करता पर",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -308,6 +345,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Surang hai kali chalta aage",
+      "devanagari": "सुरंग है काली चलता आगे",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -315,6 +353,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Phir har 2 kadam pe thukta",
+      "devanagari": "फिर हर 2 कदम पे थुकता",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -322,6 +361,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Aur sala thuku bhi kaisa na jab aagе rasta nahi dikhta",
+      "devanagari": "और साला थूकूँ भी कैसा ना जब आगे रास्ता नहीं दिखता",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -329,6 +369,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Aur rasta dikhe bhi kaise jab asha ka suraj us surang ke annt mе naii chamakta",
+      "devanagari": "और रास्ता दिखे भी कैसे जब आशा का सूरज उस सुरंग के अंत में नई चमकता",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -336,6 +377,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Chahta tha khudse chamakna",
+      "devanagari": "चाहता था खुदसे चमकना",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -343,6 +385,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Mai unme se nahi hu jo kehe dete angoor hai khatta",
+      "devanagari": "मैं उनमें से नहीं हूँ जो कह देते अंगूर है खट्टा",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -350,6 +393,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Fir khudse khaya aur paya ki vakai me ye nikla khatte ke upar se kadwa",
+      "devanagari": "फिर खुदसे खाया और पाया कि वाक़ई में ये निकला खट्टे के ऊपर से कड़वा",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -357,6 +401,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Chukani padi rakame bhot",
+      "devanagari": "चुकानी पड़ी रक़में बोहत",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -364,6 +409,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Vo keheti ab bhi ladka nahi karta job",
+      "devanagari": "वो कहती अब भी लड़का नहीं करता job",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -371,6 +417,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Zindagi ka satta ban chuka hip-hop",
+      "devanagari": "ज़िंदगी का सट्टा बन चुका hip-hop",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -378,6 +425,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Karu kitna sabit?",
+      "devanagari": "करूँ कितना साबित?",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -385,6 +433,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Jeeyu kitna kitno ke mutabik",
+      "devanagari": "जीयूँ कितना कितनों के मुताबिक",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -392,6 +441,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Dil ke tukde 100 hai leja tujhko jo lage munasib",
+      "devanagari": "दिल के टुकड़े 100 है लेजा तुझको जो लगे मुनासिब",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -399,6 +449,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Mai nahi kisi ka dost",
+      "devanagari": "मैं नहीं किसी का दोस्त",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -406,6 +457,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Na hi hu kahi ka ghalib",
+      "devanagari": "ना ही हूँ कहीं का ग़ालिब",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -413,6 +465,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Fuck all attitude fuck all logic leke paane chala srishti par drishti kaam aai na",
+      "devanagari": "Fuck all attitude fuck all logic लेके पाने चला सृष्टि पर दृष्टि काम आई ना",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -420,6 +473,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Bas dikhte hai camere",
+      "devanagari": "बस दिखते हैं cameras",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -427,6 +481,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Ni dikhta hai aaiinaa",
+      "devanagari": "नी दिखता है आईना",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -434,6 +489,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Mai..",
+      "devanagari": "मैं..",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -441,6 +497,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Swarthee",
+      "devanagari": "स्वार्थी",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -448,6 +505,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Mahino se ni dekhi mene shakal apne baap ki",
+      "devanagari": "महीनों से नी देखी मैंने शक्ल अपने बाप की",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -455,6 +513,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Na mila bhaiyo bhaino se to saalo se ni pata kitne bade ho gaye bhanja aur bhanji",
+      "devanagari": "ना मिला भाइयों बहनों से तो सालों से नी पता कितने बड़े हो गए भांजा और भांजी",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -462,6 +521,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Bas ganja aur parties ni kari Ma zabaan di thi tujhe tabhi mene poori jaan di",
+      "devanagari": "बस गांजा और parties नी करी मा ज़बान दी थी तुझे तभी मैंने पूरी जान दी",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -469,6 +529,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Door raha me jaan ke tha dhoondra me shaanti waha Nani boli cheenu ko to fikkar",
+      "devanagari": "दूर रहा मैं जान के था ढूँढ़ रा में शांति वहाँ नानी बोली चीनू को तो फ़िक्कर",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -476,6 +537,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Hai bas calm ki ha hu",
+      "devanagari": "है बस Calm की हा हूँ",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -483,6 +545,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Swarthee",
+      "devanagari": "स्वार्थी",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -490,6 +553,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Inn rishto me pehle jaisi baat nahi",
+      "devanagari": "इन रिश्तों में पहले जैसी बात नहीं",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -497,6 +561,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Bhool gaya kaisa tha me aadmi",
+      "devanagari": "भूल गया कैसा था मैं आदमी",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -504,6 +569,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Swaad ma ke haath ka bhi yaad ni",
+      "devanagari": "स्वाद माँ के हाथ का भी याद नी",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -511,6 +577,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Puraane launde bole lodu kare kabhi baat ni",
+      "devanagari": "पुराने लौंडे बोले लोडू करे कभी बात नी",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -518,6 +585,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "To bata kya kamaaya agar launde khade saath ni aur iss",
+      "devanagari": "तो बता क्या कमाया अगर लौंडे खड़े साथ नी और इस",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -525,6 +593,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Gandi aulaad ko batado ki kamaale jitna hogi iski firr bhi koi aukaat nahi",
+      "devanagari": "गंदी औलाद को बता दो कि कमा ले जितना होगी इसकी फिर भी कोई औक़ात नहीं",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -532,6 +601,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Yaha girvi rakha pyaar aur firr girvi rakha tha swasth bhi",
+      "devanagari": "यहाँ गिरवी रखा प्यार और फिर गिरवी रखा था स्वास्थ भी",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -539,6 +609,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Bas dil bayaan kara tha mission banna nayaab nahi",
+      "devanagari": "बस दिल बयान करा था mission बनना नायाब नहीं",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -546,6 +617,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Ye gandi aulaad hai saala napaaq bhi",
+      "devanagari": "ये गंदी औलाद है साला नापाक़ भी",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -553,6 +625,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Bas Gaane bana baj aur dil bharke khaali Sharaab pi",
+      "devanagari": "बस गाने बना बज और दिल भरके खाली शराब पी",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -560,6 +633,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Hai ma ko bhi naraazgi par naaz bhi ki bete ne faad di",
+      "devanagari": "है माँ को भी नाराज़गी पर नाज़ भी कि बेटे ने फाड़ दी",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -567,6 +641,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Aur shuru se hi paisa to tha jadd iss fassaad ki",
+      "devanagari": "और शुरू से ही पैसा तो था जड़ इस फ़साद की",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -574,6 +649,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Dono paise pe bete se zyada dete the dhyaan",
+      "devanagari": "दोनों पैसे पे बेटे से ज़्यादा देते थे ध्यान",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -588,6 +664,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Tabhi lakho logo ne sunni uss gandi aulaad ki",
+      "devanagari": "तभी लाखों लोगों ने सुनी उस गंदी औलाद की",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -595,6 +672,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Mujhe chodd do",
+      "devanagari": "मुझे छोड़ दो",
       "speaker": "Calm",
       "translation": "",
       "explanation": "",
@@ -602,6 +680,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Mai thakk gya hu mujhko chod do mere haal pe",
+      "devanagari": "मैं थक गया हूँ मुझको छोड़ दो मेरे हाल पे",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -609,6 +688,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Kuch nahi bacha bas haddiya hai aur khaal hai",
+      "devanagari": "कुछ नहीं बचा बस हड्डिया है और खाल है",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -616,6 +696,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Oh! Aur ek hai zabaan",
+      "devanagari": "Oh! और एक है ज़बान",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -623,6 +704,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Jisne kha liya hai mera sab kuch",
+      "devanagari": "जिसने खा लिया है मेरा सब कुछ",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -630,6 +712,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Siddhant, aur vishnu bole mujhko apna rakh tu khayal",
+      "devanagari": "सिद्धांत, और विष्णु बोले मुझको अपना रख तू ख़याल",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -637,6 +720,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Na darna khade hum hai tere saath",
+      "devanagari": "ना डरना खड़े हम है तेरे साथ",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -644,6 +728,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Par itni si baat",
+      "devanagari": "पर इतनी सी बात",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -658,6 +743,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Vo na jaane magar",
+      "devanagari": "वो ना जाने मगर",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -665,6 +751,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Hai pad jaati jisko hai ghar se hi laat",
+      "devanagari": "है पड़ जाती जिसको है घर से ही लात",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -672,6 +759,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Hai vo jaata kidhar",
+      "devanagari": "है वो जाता किधर",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -679,6 +767,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Dhobi ka kutta hi reh gya janaab",
+      "devanagari": "धोबी का कुत्ता ही रह गया जनाब",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -686,6 +775,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Use jaane do ghar (Jaane de)",
+      "devanagari": "उसे जाने दो घर (जाने दे)",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -693,6 +783,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "An-an-an-an-an-an-anha",
+      "devanagari": "अन-अन-अन-अन-अन-अन-अन्हा",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -700,6 +791,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Hun main gandi aulaad",
+      "devanagari": "हुण मैं गंदी औलाद",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -707,6 +799,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Bagairat nasal",
+      "devanagari": "बगैरत नस्ल",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -714,6 +807,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Chakhne me nikla zehreela prasad",
+      "devanagari": "चखने में निकला ज़हरीला प्रसाद",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -721,6 +815,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Gaata Paapi gazal",
+      "devanagari": "गाता पापी ग़ज़ल",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -728,6 +823,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "To sunlo ke jab bhi mai banunga lash",
+      "devanagari": "तो सुनलो के जब भी मैं बनूंगा लाश",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -735,6 +831,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Na bichana kabar",
+      "devanagari": "ना बिछाना कब्र",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -742,6 +839,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Na dena agni",
+      "devanagari": "ना देना अग्नि",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -749,6 +847,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Bado ko diye fuck ni",
+      "devanagari": "बड़ों को दिए fuck नी",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",
@@ -756,6 +855,7 @@ export const gandi_aulaad: Song = {
     },
     {
       "original": "Ye dard-e-jigar gaya andar se-",
+      "devanagari": "ये दर्द-ए-जिगर गया अंदर से-",
       "speaker": "Encore ABJ",
       "translation": "",
       "explanation": "",

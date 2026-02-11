@@ -10,6 +10,7 @@ export const ice: Song = {
   "lyrics": [
     {
       "original": "Seedhe Maut you know for the while",
+      "romanized": "Seedhe Maut you know for the while",
       "speaker": "Calm",
       "translation": "You've known Seedhe Maut for a long time now.",
       "explanation": "Calm establishes their long-standing dominance and consistency in the Indian hip-hop scene.",
@@ -23,6 +24,7 @@ export const ice: Song = {
     },
     {
       "original": "है माता के कानो पे ice",
+      "romanized": "hai maataa ke kaano pe ice",
       "speaker": "Calm",
       "translation": "My mother has diamonds (ice) on her ears.",
       "explanation": "A flex about his financial success, showing he can now provide luxury jewelry for his mother.",
@@ -36,6 +38,7 @@ export const ice: Song = {
     },
     {
       "original": "बंद करे studio में banger हम",
+      "romanized": "band kare studio men banger ham",
       "speaker": "Calm",
       "translation": "We are locking down bangers in the studio.",
       "explanation": "Refers to their prolific work ethic, consistently recording hit songs.",
@@ -49,6 +52,7 @@ export const ice: Song = {
     },
     {
       "original": "हम मंगवारि blinkit से PlayStation 5",
+      "romanized": "ham mangavaari blinkit se PlayStation 5",
       "speaker": "Calm",
       "translation": "We are ordering a PlayStation 5 via Blinkit.",
       "explanation": "A flex on their wealth and the convenience of modern delivery apps in India.",
@@ -68,6 +72,7 @@ export const ice: Song = {
     },
     {
       "original": "Studio में feeling alive",
+      "romanized": "Studio men feeling alive",
       "speaker": "Calm",
       "translation": "Feeling alive while in the studio.",
       "explanation": "The studio is the place where they feel most creative and purposeful.",
@@ -75,6 +80,7 @@ export const ice: Song = {
     },
     {
       "original": "तभी क्या LV में रखा था knife",
+      "romanized": "tabhee kyaa LV men rakhaa thaa knife",
       "speaker": "Calm",
       "translation": "Is that why there was a knife kept in the Louis Vuitton bag?",
       "explanation": "Juxtaposing high-end luxury (LV) with the street grit or danger (knife) associated with their journey.",
@@ -88,6 +94,7 @@ export const ice: Song = {
     },
     {
       "original": "आए Seedhe Maut you know who dies",
+      "romanized": "aae Seedhe Maut you know who dies",
       "speaker": "Calm",
       "translation": "When Seedhe Maut arrives, you know who’s finished.",
       "explanation": "A wordplay on their name which literally translates to 'Instant Death'; implying they kill the competition.",
@@ -102,6 +109,7 @@ export const ice: Song = {
     },
     {
       "original": "Shittin' the fan, जब मिला नी fam से",
+      "romanized": "Shittin' the fan, jab milaa nee fam se",
       "speaker": "Calm",
       "translation": "Things hit the fan when I didn't get support from the family.",
       "explanation": "Reflecting on early struggles when things were chaotic and support was lacking.",
@@ -115,6 +123,7 @@ export const ice: Song = {
     },
     {
       "original": "Kepping it real, I'm good",
+      "romanized": "Kepping it real, I'm good",
       "speaker": "Calm",
       "translation": "Keeping it authentic, I'm doing well.",
       "explanation": "Staying true to his roots while enjoying success.",
@@ -129,6 +138,7 @@ export const ice: Song = {
     },
     {
       "original": "I sit with gang, सब बैठे झांझ में",
+      "romanized": "I sit with gang, sab baithe jhaanjh men",
       "speaker": "Calm",
       "translation": "I sit with the crew, everyone is high/intoxicated.",
       "explanation": "'Jhaanjh' is local slang for being in a daze or intoxicated.",
@@ -142,6 +152,7 @@ export const ice: Song = {
     },
     {
       "original": "करते जाए plan और cook",
+      "romanized": "karate jaae plan aur cook",
       "speaker": "Calm",
       "translation": "We keep planning and cooking (music).",
       "explanation": "'Cook' is hip-hop slang for the process of creating beats or songs.",
@@ -155,6 +166,7 @@ export const ice: Song = {
     },
     {
       "original": "I got the game all shook",
+      "romanized": "I got the game all shook",
       "speaker": "Calm",
       "translation": "I've got the whole industry rattled.",
       "explanation": "Claiming that their talent and impact have intimidated other rappers.",
@@ -174,6 +186,7 @@ export const ice: Song = {
     },
     {
       "original": "हां रखूं मैं लवड़े पे fame, हूं book",
+      "romanized": "haan rakhoon main lavade pe fame, hoon book",
       "speaker": "Calm",
       "translation": "I don't give a damn about fame, I'm fully booked.",
       "explanation": "He prioritizes work and shows over the superficial aspects of popularity.",
@@ -187,6 +200,7 @@ export const ice: Song = {
     },
     {
       "original": "अभी मैं pain हूं खुद",
+      "romanized": "abhee main pain hoon khud",
       "speaker": "Calm",
       "translation": "Right now, I am pain personified.",
       "explanation": "Expressing that he is going through a difficult emotional phase or is a formidable force.",
@@ -194,6 +208,7 @@ export const ice: Song = {
     },
     {
       "original": "जो चाहिए था, बावे वो change हूं खुद",
+      "romanized": "jo chaahie thaa, baave vo change hoon khud",
       "speaker": "Calm",
       "translation": "Bro, I am the change that I wanted to see.",
       "explanation": "He has evolved into the person he once aspired to be.",
@@ -207,6 +222,7 @@ export const ice: Song = {
     },
     {
       "original": "पर अब भी है venue कुछ झांटू जो time पर एक artist को पैसा नी देते",
+      "romanized": "par ab bhee hai venue kuchh jhaantoo jo time par ek artist ko paisaa nee dete",
       "speaker": "Calm",
       "translation": "But there are still some shitty venues that don't pay artists on time.",
       "explanation": "Critiquing the lack of professionalism in the Indian live music industry.",
@@ -220,6 +236,7 @@ export const ice: Song = {
     },
     {
       "original": "और एक हम है artist है जिंदगी, stage वहां चढ़ने का बहाना ही देखे",
+      "romanized": "aur ek ham hai artist hai jindagee, stage vahaan chane kaa bahaanaa hee dekhe",
       "speaker": "Calm",
       "translation": "And then there's us, whose life is art; we just look for any excuse to get on stage.",
       "explanation": "Contrast between greedy organizers and their pure passion for performing.",
@@ -227,6 +244,7 @@ export const ice: Song = {
     },
     {
       "original": "यहां लौंडे कुछ ज्यादा ही फेंके",
+      "romanized": "yahaan launde kuchh jyaadaa hee phenke",
       "speaker": "Calm",
       "translation": "Guys around here brag way too much.",
       "explanation": "Calling out other rappers for lying or exaggerating about their lifestyle.",
@@ -240,6 +258,7 @@ export const ice: Song = {
     },
     {
       "original": "मैं रखूं दो चेले जो खाली लपेटे",
+      "romanized": "main rakhoon do chele jo khaalee lapete",
       "speaker": "Calm",
       "translation": "I have two disciples who just wrap things up.",
       "explanation": "Can refer to assistants handling business or rolling joints (wrapping).",
@@ -253,6 +272,7 @@ export const ice: Song = {
     },
     {
       "original": "खत्म है सारी debate, जब आ जाता भाई तेरा, tension नी लेते, aanh",
+      "romanized": "khatm hai saaree debate, jab aa jaataa bhaaee teraa, tension nee lete, aanh",
       "speaker": "Calm",
       "translation": "All debates end when I arrive; I don't take any stress.",
       "explanation": "Asserting that his presence settles any argument about who is the best.",
@@ -260,6 +280,7 @@ export const ice: Song = {
     },
     {
       "original": "कवि यहां ऐसे ही नी कहते, aanh, कवि कुछ ऐसे ही नी कहते (Aanh)",
+      "romanized": "kavi yahaan aise hee nee kahate, aanh, kavi kuchh aise hee nee kahate (Aanh)",
       "speaker": "Calm",
       "translation": "The poet doesn't just say things for no reason.",
       "explanation": "Refers to himself as 'Kavi' (Poet), highlighting the depth and intention behind his lyrics.",
@@ -273,6 +294,7 @@ export const ice: Song = {
     },
     {
       "original": "वो सोचे हम [?] में रहते, वो सोचे, हम करे, वही अंतर है बेटे",
+      "romanized": "vo soche ham [?] men rahate, vo soche, ham kare, vahee antar hai bete",
       "speaker": "Calm",
       "translation": "They spend time thinking, we spend time doing; that's the difference, son.",
       "explanation": "Differentiating SM's execution-oriented mindset from those who only talk.",
@@ -280,6 +302,7 @@ export const ice: Song = {
     },
     {
       "original": "वो SM के जंगल में कैद है, काला धन beamer सफेद है",
+      "romanized": "vo SM ke jangal men kaid hai, kaalaa dhan beamer saphed hai",
       "speaker": "Calm",
       "translation": "They are trapped in the world of SM; black money and a white BMW.",
       "explanation": "Describing their dominance as a 'jungle' and flexing luxury assets.",
@@ -293,6 +316,7 @@ export const ice: Song = {
     },
     {
       "original": "आया deep fuck up the game है \"तेरा भाई Seedhe Maut\" कवि का खेल है, aanh",
+      "romanized": "aayaa deep fuck up the game hai \"teraa bhaaee Seedhe Maut\" kavi kaa khel hai, aanh",
       "speaker": "Calm",
       "translation": "Deep came to mess up the game; it's the poet's game, your brother Seedhe Maut.",
       "explanation": "Uses their famous tagline and celebrates the lyrical 'game' they play.",
@@ -300,6 +324,7 @@ export const ice: Song = {
     },
     {
       "original": "Seedhe Maut you know for the while",
+      "romanized": "Seedhe Maut you know for the while",
       "speaker": "Calm & Encore ABJ",
       "translation": "You've known Seedhe Maut for a long time now.",
       "explanation": "Chorus repetition emphasizing their longevity.",
@@ -307,6 +332,7 @@ export const ice: Song = {
     },
     {
       "original": "है माता के कानो पे ice (Ice)",
+      "romanized": "hai maataa ke kaano pe ice (Ice)",
       "speaker": "Calm & Encore ABJ",
       "translation": "My mother has diamonds on her ears.",
       "explanation": "The core hook of the song highlighting success.",
@@ -314,6 +340,7 @@ export const ice: Song = {
     },
     {
       "original": "बंद करे studio में banger हम",
+      "romanized": "band kare studio men banger ham",
       "speaker": "Calm & Encore ABJ",
       "translation": "We are locking down bangers in the studio.",
       "explanation": "Reiterating their constant musical output.",
@@ -321,6 +348,7 @@ export const ice: Song = {
     },
     {
       "original": "हम मंगवारि blinkit से PlayStation 5 (Aanh)",
+      "romanized": "ham mangavaari blinkit se PlayStation 5 (Aanh)",
       "speaker": "Calm & Encore ABJ",
       "translation": "We are ordering a PS5 via Blinkit.",
       "explanation": "Flexing disposable income and instant gratification.",
@@ -328,6 +356,7 @@ export const ice: Song = {
     },
     {
       "original": "काम और doubly nice",
+      "romanized": "kaam aur doubly nice",
       "speaker": "Calm & Encore ABJ",
       "translation": "The work is doubly nice.",
       "explanation": "Asserting that everything they do is of high quality.",
@@ -335,6 +364,7 @@ export const ice: Song = {
     },
     {
       "original": "Double है knife तो double है life",
+      "romanized": "Double hai knife to double hai life",
       "speaker": "Calm & Encore ABJ",
       "translation": "If the knife is double, the life is double too.",
       "explanation": "Likely referring to the dual nature of their fame or the risks involved.",
@@ -342,6 +372,7 @@ export const ice: Song = {
     },
     {
       "original": "W fans, और W riseWagonR भागे",
+      "romanized": "W fans, aur W riseWagonR bhaage",
       "speaker": "Calm & Encore ABJ",
       "translation": "W fans and a W rise, the WagonR speeds off.",
       "explanation": "'W' stands for Win. Mentioning WagonR is a nostalgic nod to their earlier days.",
@@ -355,6 +386,7 @@ export const ice: Song = {
     },
     {
       "original": "हम",
+      "romanized": "ham",
       "speaker": "Calm & Encore ABJ",
       "translation": "We",
       "explanation": "Transition line.",
@@ -362,6 +394,7 @@ export const ice: Song = {
     },
     {
       "original": "अंदर ले vibe",
+      "romanized": "andar le vibe",
       "speaker": "Calm & Encore ABJ",
       "translation": "Taking in the vibe.",
       "explanation": "Immersing themselves in the energy of their success.",
@@ -369,6 +402,7 @@ export const ice: Song = {
     },
     {
       "original": "वो बोले \"फटरी है अब जाके लिख\"",
+      "romanized": "vo bole \"phataree hai ab jaake likh\"",
       "speaker": "Encore ABJ",
       "translation": "They said, \"You're scared, now go and write.\"",
       "explanation": "Refers to critics or inner fears that drive him to write better lyrics.",
@@ -382,6 +416,7 @@ export const ice: Song = {
     },
     {
       "original": "गिनते तुम दोनों हमेशा amazing (Aanh)",
+      "romanized": "ginate tum donon hameshaa amazing (Aanh)",
       "speaker": "Encore ABJ",
       "translation": "They always count you both as amazing.",
       "explanation": "Acknowledging the duo's reputation as top-tier artists.",
@@ -389,6 +424,7 @@ export const ice: Song = {
     },
     {
       "original": "Yeah, you are hidden blind side, caste discrimination",
+      "romanized": "Yeah, you are hidden blind side, caste discrimination",
       "speaker": "Encore ABJ",
       "translation": "Yeah, you are on the hidden blind side, like caste discrimination.",
       "explanation": "Encore starts a deep commentary on how society ignores systemic issues like caste.",
@@ -396,6 +432,7 @@ export const ice: Song = {
     },
     {
       "original": "School में समझ नहीं आता है होती क्यों है ये साली reservation?",
+      "romanized": "School men samajh naheen aataa hai hotee kyon hai ye saalee reservation?",
       "speaker": "Encore ABJ",
       "translation": "In school, I didn't understand why this damn reservation exists.",
       "explanation": "Encore reflects on his younger, uninformed perspective regarding affirmative action.",
@@ -409,6 +446,7 @@ export const ice: Song = {
     },
     {
       "original": "घूमे जब देश तो समझ में आया लवड़े की miss education",
+      "romanized": "ghoome jab desh to samajh men aayaa lavade kee miss education",
       "speaker": "Encore ABJ",
       "translation": "When I traveled the country, I realized my education was total bullshit.",
       "explanation": "Realizing that real-world experiences taught him more about inequality than school ever did.",
@@ -416,6 +454,7 @@ export const ice: Song = {
     },
     {
       "original": "ना है तू पौत्र मेरा तो जानना क्यों चाहता है स्तोत्र मेरा?",
+      "romanized": "naa hai too pautr meraa to jaananaa kyon chaahataa hai stotr meraa?",
       "speaker": "Encore ABJ",
       "translation": "You aren't my grandson, so why do you want to know my hymns/origins?",
       "explanation": "Questioning why people are so obsessed with knowing his caste or lineage.",
@@ -429,6 +468,7 @@ export const ice: Song = {
     },
     {
       "original": "अभी तो मिले है तू हमें जानना क्यों चाहता है गोत्र मेरा?",
+      "romanized": "abhee to mile hai too hamen jaananaa kyon chaahataa hai gotr meraa?",
       "speaker": "Encore ABJ",
       "translation": "We just met, why do you want to know my clan (Gotra)?",
       "explanation": "Directly calling out the common Indian practice of asking for someone's Gotra to determine their caste.",
@@ -442,6 +482,7 @@ export const ice: Song = {
     },
     {
       "original": "कर्मों से जाने, कर्मों से पहचाने तो वो होगा मोक्ष मेरा",
+      "romanized": "karmon se jaane, karmon se pahachaane to vo hogaa moksh meraa",
       "speaker": "Encore ABJ",
       "translation": "If I am known and identified by my deeds, that will be my salvation.",
       "explanation": "Choosing merit and actions over inherited social status.",
@@ -455,6 +496,7 @@ export const ice: Song = {
     },
     {
       "original": "रातों को लिखे हम गाने तो जागे हुए देखे रोज सवेरा",
+      "romanized": "raaton ko likhe ham gaane to jaage hue dekhe roj saveraa",
       "speaker": "Encore ABJ",
       "translation": "We write songs at night, so we see the sunrise every day while awake.",
       "explanation": "A testament to the late-night hustle of an artist.",
@@ -469,6 +511,7 @@ export const ice: Song = {
     },
     {
       "original": "ना ऊपर, ना नीचे, ना जाती ना पाती, यहां मेरा कोई नेता मेरा भी दोस्त नी है",
+      "romanized": "naa oopar, naa neeche, naa jaatee naa paatee, yahaan meraa koee netaa meraa bhee dost nee hai",
       "speaker": "Encore ABJ",
       "translation": "Neither above nor below, no caste or creed; no politician here is my friend either.",
       "explanation": "Rejecting social hierarchies and political sycophancy.",
@@ -476,6 +519,7 @@ export const ice: Song = {
     },
     {
       "original": "तू कहे \"चलो दिल्ली\" लेकिन तू नेता जी boss नी है",
+      "romanized": "too kahe \"chalo dillee\" lekin too netaa jee boss nee hai",
       "speaker": "Encore ABJ",
       "translation": "You say \"Chalo Dilli,\" but you aren't Netaji (Subhash Chandra Bose).",
       "explanation": "A historical reference to Bose's slogan, used here to call out fake leaders.",
@@ -495,6 +539,7 @@ export const ice: Song = {
     },
     {
       "original": "किसी को घंटा अफसोस नी है",
+      "romanized": "kisee ko ghantaa aphasos nee hai",
       "speaker": "Encore ABJ",
       "translation": "Nobody gives a damn about the regrets/pain.",
       "explanation": "Commenting on the general apathy of society.",
@@ -508,6 +553,7 @@ export const ice: Song = {
     },
     {
       "original": "शायद यहां पे मेरे जैसे लोग नी है",
+      "romanized": "shaayad yahaan pe mere jaise log nee hai",
       "speaker": "Encore ABJ",
       "translation": "Maybe there aren't people like me here.",
       "explanation": "Feeling like an outlier due to his progressive or different mindset.",
@@ -515,6 +561,7 @@ export const ice: Song = {
     },
     {
       "original": "बस सीखा यही है बड़ों से तो, ये उनकी आदत, ये उनका दोष नी है",
+      "romanized": "bas seekhaa yahee hai badon se to, ye unakee aadat, ye unakaa dosh nee hai",
       "speaker": "Encore ABJ",
       "translation": "This is what was learned from elders; it's their habit, not their fault.",
       "explanation": "Acknowledging that prejudices are often passed down through conditioning rather than intentional malice.",
@@ -522,6 +569,7 @@ export const ice: Song = {
     },
     {
       "original": "नया ज़माना, ना जात-पात, आ साथ बैठ, खा दाल-भात",
+      "romanized": "nayaa zamaanaa, naa jaat-paat, aa saath baith, khaa daal-bhaat",
       "speaker": "Encore ABJ",
       "translation": "New era, no casteism; come sit together and eat dal-rice.",
       "explanation": "A powerful call for social equality and breaking bread together regardless of background.",
@@ -529,6 +577,7 @@ export const ice: Song = {
     },
     {
       "original": "बढ़ा बात चीत, और सांठ-गांठ, थोड़ी बात ठाठ, थोड़े ठाठ-बाट",
+      "romanized": "badhaa baat cheet, aur saanth-gaanth, thodee baat thaath, thode thaath-baat",
       "speaker": "Encore ABJ",
       "translation": "Increase the conversation and networking, some luxury and lifestyle.",
       "explanation": "Encouraging open dialogue and collective growth.",
@@ -536,6 +585,7 @@ export const ice: Song = {
     },
     {
       "original": "बढ़ा खाट-खाट, क्या है पानी पिया और खाया खुदा का खौफ",
+      "romanized": "badhaa khaat-khaat, kyaa hai paanee piyaa aur khaayaa khudaa kaa khauph",
       "speaker": "Encore ABJ",
       "translation": "Increase the hard work; drank water and had the fear of God.",
       "explanation": "Combining hard work with humility and spiritual accountability.",
@@ -543,6 +593,7 @@ export const ice: Song = {
     },
     {
       "original": "दुनिया में खाली दो ही है दो अछूत उन दोनों के नाम है Seedhe Maut",
+      "romanized": "duniyaa men khaalee do hee hai do achhoot un donon ke naam hai Seedhe Maut",
       "speaker": "Encore ABJ",
       "translation": "There are only two untouchables in the world, and their names are Seedhe Maut.",
       "explanation": "A genius double entendre flipping a derogatory term to mean they are 'untouchable' because they are too far ahead of everyone else.",
@@ -556,6 +607,7 @@ export const ice: Song = {
     },
     {
       "original": "Seedhe Maut you know for the while",
+      "romanized": "Seedhe Maut you know for the while",
       "speaker": "Calm & Encore ABJ",
       "translation": "You've known Seedhe Maut for a long time now.",
       "explanation": "Chorus repetition.",
@@ -563,6 +615,7 @@ export const ice: Song = {
     },
     {
       "original": "है माता के कानो पे ice (Ice)",
+      "romanized": "hai maataa ke kaano pe ice (Ice)",
       "speaker": "Calm & Encore ABJ",
       "translation": "My mother has diamonds on her ears.",
       "explanation": "Main hook emphasizing success.",
@@ -570,6 +623,7 @@ export const ice: Song = {
     },
     {
       "original": "बंद करे studio में banger हम",
+      "romanized": "band kare studio men banger ham",
       "speaker": "Calm & Encore ABJ",
       "translation": "We are locking down bangers in the studio.",
       "explanation": "Chorus repetition.",
@@ -577,6 +631,7 @@ export const ice: Song = {
     },
     {
       "original": "हम मंगवारि blinkit से playstation 5(Aanh)",
+      "romanized": "ham mangavaari blinkit se playstation 5(Aanh)",
       "speaker": "Calm & Encore ABJ",
       "translation": "We are ordering a PS5 via Blinkit.",
       "explanation": "Chorus repetition.",
@@ -584,6 +639,7 @@ export const ice: Song = {
     },
     {
       "original": "काम और doubly nice",
+      "romanized": "kaam aur doubly nice",
       "speaker": "Calm & Encore ABJ",
       "translation": "The work is doubly nice.",
       "explanation": "Chorus repetition.",
@@ -591,6 +647,7 @@ export const ice: Song = {
     },
     {
       "original": "Double है knife तो double है life",
+      "romanized": "Double hai knife to double hai life",
       "speaker": "Calm & Encore ABJ",
       "translation": "Double the knife, double the life.",
       "explanation": "Chorus repetition.",
@@ -598,6 +655,7 @@ export const ice: Song = {
     },
     {
       "original": "W fans, और W rise",
+      "romanized": "W fans, aur W rise",
       "speaker": "Calm & Encore ABJ",
       "translation": "W fans and a W rise.",
       "explanation": "Celebrating the wins with their fanbase.",
@@ -605,6 +663,7 @@ export const ice: Song = {
     },
     {
       "original": "WagonR भागे हम अंदर ले vibe",
+      "romanized": "WagonR bhaage ham andar le vibe",
       "speaker": "Calm & Encore ABJ",
       "translation": "The WagonR speeds while we take in the vibe.",
       "explanation": "Ending on a note of moving forward while staying grounded in their roots.",

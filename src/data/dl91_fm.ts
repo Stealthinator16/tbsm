@@ -9,6 +9,7 @@ export const dl91_fm: Song = {
   "lyrics": [
     {
       "original": "बन्दी तू ज़िद्दी मेरे घर पे क्लेश लाए",
+      "romanized": "Bandee too ziddee mere ghar pe klesh laae",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, you bring drama to my house.",
       "explanation": "Encore describes a toxic or difficult partner who causes 'Klesh' (constant domestic conflict or arguments) whenever she visits.",
@@ -33,6 +34,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी बोलूँ left तो she takes right",
+      "romanized": "Bandee too ziddee boloon left to she takes right",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn; if I say go left, she goes right.",
       "explanation": "A classic metaphor for a partner who is contrarian and refuses to agree or cooperate on anything.",
@@ -46,6 +48,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी she addicted to the fake likes",
+      "romanized": "Bandee too ziddee she addicted to the fake likes",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, she's addicted to fake likes.",
       "explanation": "A critique of her social media obsession and need for external validation from strangers online.",
@@ -59,6 +62,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी उसको जीनी नहीं है safe life",
+      "romanized": "Bandee too ziddee usko jeenee naheen hai safe life",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, she doesn't want to live a safe life.",
       "explanation": "She is a risk-taker or attracted to chaos and danger, refusing the stability Encore offers.",
@@ -72,6 +76,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी मेरी बातें सुन, न देख hype",
+      "romanized": "Bandee too ziddee meree baaten sun, na dekh hype",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn; listen to my words, don't look at the hype.",
       "explanation": "He wants her to value their real connection rather than the fame or 'hype' surrounding his status as a famous rapper.",
@@ -85,6 +90,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी खाली ख़्वाब बुन, न देख खाई",
+      "romanized": "Bandee too ziddee khaalee khvaab bun, na dekh khaaee",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn; you just spin empty dreams and ignore the cliff.",
       "explanation": "She focuses on unrealistic fantasies while ignoring the 'Khai' (ditch/danger) right in front of her.",
@@ -98,6 +104,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी lemme take u on a date right",
+      "romanized": "Bandee too ziddee lemme take u on a date right",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, let me take you on a proper date.",
       "explanation": "Despite the issues, he still tries to maintain the relationship by offering a romantic gesture.",
@@ -111,6 +118,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी वो कराती मुझे wait like..",
+      "romanized": "Bandee too ziddee vo karaatee mujhe wait like..",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, she makes me wait like..",
       "explanation": "Refers to her playing hard to get or making him wait for her attention, highlighting the power struggle.",
@@ -124,6 +132,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "पैसों का इश्क़ लाए और तू करती dick ride",
+      "romanized": "Paison kaa ishq laae aur too kartee dick ride",
       "speaker": "OG Lucifer",
       "translation": "You bring a love for money and you're just riding along.",
       "explanation": "OG Lucifer calls her a gold-digger, suggesting she's only there for the financial benefits and the fame.",
@@ -137,6 +146,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "और ये खच्चर सोचें अमीरों में कैसे fit आए",
+      "romanized": "Aur ye khachchr sochen ameeron men kaise fit aae",
       "speaker": "OG Lucifer",
       "translation": "And these mules wonder how to fit in with the rich.",
       "explanation": "He calls social climbers 'Khachchar' (mules), mocking their desperate attempts to appear wealthy and high-class.",
@@ -150,6 +160,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "Crime से है नाता और न ज़्यादा मेरा स्टाइल",
+      "romanized": "Crime se hai naataa aur na zyaadaa meraa staail",
       "speaker": "OG Lucifer",
       "translation": "I have a connection with crime, and my style isn't too much.",
       "explanation": "Suggesting a gritty, street-level background while maintaining a low-key, non-flashy appearance.",
@@ -169,6 +180,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "दूर गई दिल से, अब दूर खड़ी होकर देख ये big life",
+      "romanized": "Door gaee dil se, ab door kharee hokr dekh ye big life",
       "speaker": "OG Lucifer",
       "translation": "You're gone from my heart, now stand far away and watch this big life.",
       "explanation": "Now that she’s out of the picture, he wants her to watch his success from a distance.",
@@ -182,6 +194,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बुरी लड़की पहचानो, मैं देता 5 tip",
+      "romanized": "Buree larkee pahchaano, main detaa 5 tip",
       "speaker": "OG Lucifer",
       "translation": "Identify a bad girl, I'm giving you 5 tips.",
       "explanation": "He acts as a guide, offering advice on how to spot a toxic partner based on his experiences.",
@@ -195,6 +208,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "लालची, स्वार्थी, आलसी — fuck this shit",
+      "romanized": "Laalchee, svaarthee, aalsee — fuck this shit",
       "speaker": "OG Lucifer",
       "translation": "Greedy, selfish, lazy — fuck this shit.",
       "explanation": "Listing the 'tips' or traits of the woman he's describing.",
@@ -214,6 +228,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "ज़िद्दी लड़की दिल तोड़े, वो 8 x 8 की (64)",
+      "romanized": "Ziddee larkee dil tore, vo 8 x 8 kee (64)",
       "speaker": "OG Lucifer",
       "translation": "Stubborn girl breaks hearts, she's an 8x8 (64).",
       "explanation": "Wordplay on 'Chausath' (64). In Hindi slang, calling someone 'Chausath' implies they are extremely cunning or have 'all 64 arts' of deception.",
@@ -227,6 +242,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "ये बन्दे लेते बकचोद, औक़ात झट बाय झट की",
+      "romanized": "Ye bande lete bakchod, auqaat jhat baay jhat kee",
       "speaker": "OG Lucifer",
       "translation": "These guys just talk nonsense, their worth is exposed instantly.",
       "explanation": "He dismisses 'Bakchod' (people who talk crap) and says their true status (Aukaat) is revealed quickly.",
@@ -245,6 +261,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "और बस",
+      "romanized": "Aur bas",
       "speaker": "OG Lucifer",
       "translation": "And that's it.",
       "explanation": "A simple concluding transition.",
@@ -252,6 +269,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "सुकून देता ख़ास",
+      "romanized": "Sukoon detaa khaas",
       "speaker": "OG Lucifer",
       "translation": "Special things give peace.",
       "explanation": "Searching for genuine peace amidst the chaos of toxicity.",
@@ -265,6 +283,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "ये प्यार देता दर्द और प्यार देता डर",
+      "romanized": "Ye pyaar detaa dard aur pyaar detaa dar",
       "speaker": "OG Lucifer",
       "translation": "This love gives pain and this love gives fear.",
       "explanation": "The duality of a toxic relationship where affection is tied to trauma.",
@@ -272,6 +291,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "और हवस के कुत्तों के आगे मोहब्बत है कम",
+      "romanized": "Aur havs ke kutton ke aage mohbbt hai kam",
       "speaker": "OG Lucifer",
       "translation": "And in front of those lustful dogs, love is lacking.",
       "explanation": "Comparing people driven by pure lust ('Havas ke kutte') to the lack of genuine love in his environment.",
@@ -285,6 +305,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "और गाँव मेरा वहीं जहां औरत होती ज़ख़्म",
+      "romanized": "Aur gaanv meraa vaheen jahaan aurt hotee zakhm",
       "speaker": "OG Lucifer",
       "translation": "And my village is where a woman is considered a wound.",
       "explanation": "A dark, societal commentary on how women are often treated as burdens or sources of pain in certain conservative/regressive settings.",
@@ -298,6 +319,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बता कहाँ जाऊँ",
+      "romanized": "Bataa kahaan jaaoon",
       "speaker": "OG Lucifer",
       "translation": "Tell me, where should I go?",
       "explanation": "A rhetorical question showing his feeling of displacement or lack of options.",
@@ -305,6 +327,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "Ego की है जंग तो मैं हार जाऊँ",
+      "romanized": "Ego kee hai jang to main haar jaaoon",
       "speaker": "OG Lucifer",
       "translation": "If it's a war of egos, I'd rather lose.",
       "explanation": "He's tired of constant fighting and is willing to 'lose' the argument just to find peace.",
@@ -318,6 +341,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "अगर बढ़ती सेहत तो शायद मैं ख़ार खाऊँ",
+      "romanized": "Agr barhtee seht to shaayd main khaar khaaoon",
       "speaker": "OG Lucifer",
       "translation": "If it improved my health, maybe I'd hold a grudge.",
       "explanation": "A play on the phrase 'Khaar khaana' (to hold a grudge/envy). He says it's not worth the energy unless it actually benefited him.",
@@ -331,6 +355,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "हँस के देती pussy जब वो नशे करती meow meow",
+      "romanized": "Hans ke detee pussy jab vo nashe kartee meow meow",
       "speaker": "OG Lucifer",
       "translation": "She gives it up with a smile when she's high on 'meow meow'.",
       "explanation": "Meow Meow is street slang for Mephedrone (M-Cat), a synthetic stimulant. Suggests she only becomes affectionate when intoxicated.",
@@ -344,6 +369,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "और उसके जैसे ही ये बजती दिल्ली और ये downtown",
+      "romanized": "Aur uske jaise hee ye bajtee dillee aur ye downtown",
       "speaker": "OG Lucifer",
       "translation": "And just like her, this Delhi and this downtown ring/resonate.",
       "explanation": "Comparing the chaotic, loud nature of the city (Delhi) to the chaotic nature of the girl.",
@@ -357,6 +383,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "Bitch talk और bitch talk और bitch talk",
+      "romanized": "Bitch talk aur bitch talk aur bitch talk",
       "speaker": "OG Lucifer",
       "translation": "Bitch talk and more bitch talk.",
       "explanation": "Tired of the constant gossiping or disrespectful chatter from her.",
@@ -371,6 +398,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दे मेरे ऐसे सीधे, ज़िंदगी पे full stop",
+      "romanized": "Bande mere aise seedhe, zindgee pe full stop",
       "speaker": "OG Lucifer",
       "translation": "My guys are so straightforward, it's a full stop on life.",
       "explanation": "Play on 'Seedhe' (Seedhe Maut). He says his crew is so direct (or lethal) they put an end to people's games.",
@@ -389,6 +417,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "चेहरे लगे ख़ास जिसपे एरिया की धूल हो",
+      "romanized": "Chehre lage khaas jispe eriyaa kee dhool ho",
       "speaker": "OG Lucifer",
       "translation": "Faces look special when they're covered in the dust of the area.",
       "explanation": "Beauty or respect lies in being 'street' and staying true to where you come from (the 'dust' of the neighborhood).",
@@ -408,6 +437,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "और छेड़ करे इतना जिससे छाती पे दे moonwalk",
+      "romanized": "Aur chher kare itnaa jisse chhaatee pe de moonwalk",
       "speaker": "OG Lucifer",
       "translation": "And provocations so much that they'd moonwalk on your chest.",
       "explanation": "Michael Jackson reference. It means someone who provokes him so much they basically walk all over him or invite extreme retaliation.",
@@ -421,6 +451,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी मेरे घर पे क्लेश लाए",
+      "romanized": "Bandee too ziddee mere ghar pe klesh laae",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, you bring drama to my house.",
       "explanation": "Hook repeat.",
@@ -435,6 +466,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी बोलूँ left तो she takes right",
+      "romanized": "Bandee too ziddee boloon left to she takes right",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn; if I say go left, she goes right.",
       "explanation": "Hook repeat.",
@@ -442,6 +474,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी she addicted to the fake likes",
+      "romanized": "Bandee too ziddee she addicted to the fake likes",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, she's addicted to fake likes.",
       "explanation": "Hook repeat.",
@@ -456,6 +489,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी उसको जीनी नहीं है safe life",
+      "romanized": "Bandee too ziddee usko jeenee naheen hai safe life",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, she doesn't want to live a safe life.",
       "explanation": "Hook repeat.",
@@ -463,6 +497,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी मेरी बातें सुन, न देख hype",
+      "romanized": "Bandee too ziddee meree baaten sun, na dekh hype",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn; listen to my words, don't look at the hype.",
       "explanation": "Hook repeat.",
@@ -470,6 +505,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी खाली ख़्वाब बुन, न देख खाई",
+      "romanized": "Bandee too ziddee khaalee khvaab bun, na dekh khaaee",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn; you just spin empty dreams and ignore the cliff.",
       "explanation": "Hook repeat.",
@@ -477,6 +513,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी lemme take u on a date right",
+      "romanized": "Bandee too ziddee lemme take u on a date right",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, let me take you on a proper date.",
       "explanation": "Hook repeat.",
@@ -484,6 +521,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी वो कराती मुझे wait like..",
+      "romanized": "Bandee too ziddee vo karaatee mujhe wait like..",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, she makes me wait like..",
       "explanation": "Hook repeat.",
@@ -491,6 +529,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "ज़िद्दी इतनी, तेरी लात है ज़्यादा, पीलूँ मैं ये ciggy जितनी",
+      "romanized": "Ziddee itnee, teree laat hai zyaadaa, peeloon main ye ciggy jitnee",
       "speaker": "GhAatak",
       "translation": "So stubborn, your addiction/habit is more than I smoke these cigarettes.",
       "explanation": "GhAatak compares her toxic presence to a cigarette addiction—hard to quit but harmful.",
@@ -504,6 +543,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बातें सारी झूठों होतीं, messages में लिखती जितनी",
+      "romanized": "Baaten saaree jhoothon hoteen, messages men likhtee jitnee",
       "speaker": "GhAatak",
       "translation": "Everything she writes in messages is nothing but lies.",
       "explanation": "Highlighting her dishonesty in digital communication.",
@@ -511,6 +551,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "धुंधला सब है दिल्ली जितनी, घातक तू है ज़्यादा मुझसे",
+      "romanized": "Dhundhlaa sab hai dillee jitnee, ghaatk too hai zyaadaa mujhse",
       "speaker": "GhAatak",
       "translation": "Everything is as blurry as Delhi's smog, you're more lethal than I am.",
       "explanation": "Comparing the relationship's confusion to Delhi's pollution. 'GhAatak' is also his stage name (meaning lethal).",
@@ -529,6 +570,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "सर पे लेकर मौत घूमे, मौत से तू मिलती इतनी",
+      "romanized": "Sar pe lekr maut ghoome, maut se too miltee itnee",
       "speaker": "GhAatak",
       "translation": "You walk with death on your head, you flirt with death so much.",
       "explanation": "Seedhe Maut reference. He says she is so dangerous/risky that she constantly encounters death.",
@@ -542,6 +584,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "Damn!",
+      "romanized": "Damn!",
       "speaker": "GhAatak",
       "translation": "Damn!",
       "explanation": "Exclamation of realization.",
@@ -549,6 +592,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "इतने तेज़, इतनी तेज़, कम ही बोला जितनी तेज़",
+      "romanized": "Itne tez, itnee tez, kam hee bolaa jitnee tez",
       "speaker": "GhAatak",
       "translation": "So fast, so fast, it's an understatement how fast you are.",
       "explanation": "Refers to her lifestyle, moving between guys, or her cunning nature.",
@@ -556,6 +600,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "घर ही बहाने सोच, मिलने आती कितनी तेज़",
+      "romanized": "Ghar hee bahaane soch, milne aatee kitnee tez",
       "speaker": "GhAatak",
       "translation": "Thinking of excuses at home, how fast she comes to meet.",
       "explanation": "She is skilled at making excuses to sneak out.",
@@ -563,6 +608,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "Ash जो करा दे, उसके साथ दिखती",
+      "romanized": "Ash jo karaa de, uske saath dikhtee",
       "speaker": "GhAatak",
       "translation": "She's seen with whoever provides her 'Ash' (luxury/comfort).",
       "explanation": "She stays with whoever has money or can provide a lavish lifestyle ('Aish').",
@@ -576,6 +622,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "आती न है बाज़, चिकना घड़ा, पूरी तितली ये",
+      "romanized": "Aatee na hai baaz, chiknaa gharaa, pooree titlee ye",
       "speaker": "GhAatak",
       "translation": "She doesn't back down, shameless, she's a total butterfly.",
       "explanation": "‘Chikna ghada’ means someone on whom advice has no effect (shameless). ‘Titli’ (butterfly) suggests she is flighty or unfaithful.",
@@ -594,6 +641,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी को पसंद बावे gang life, gang signs, landmine",
+      "romanized": "Bandee ko pasnd baave gang life, gang signs, landmine",
       "speaker": "GhAatak",
       "translation": "The girl likes gang life, gang signs, and landmines, brother.",
       "explanation": "She is attracted to the 'bad boy' lifestyle and the danger (landmines) associated with it.",
@@ -607,6 +655,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "छुओ जो उसे तो जाए active",
+      "romanized": "Chhuo jo use to jaae active",
       "speaker": "GhAatak",
       "translation": "Touch her and she becomes active (dangerous).",
       "explanation": "Like a landmine, interacting with her triggers a volatile reaction.",
@@ -614,6 +663,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "Lifе चुनी ऐसी जिससे ले सकूँ न exit",
+      "romanized": "Lifе chunee aisee jisse le sakoon na exit",
       "speaker": "GhAatak",
       "translation": "Chose a life from which I can't find an exit.",
       "explanation": "Reflects on the inescapable nature of the street life or the toxic cycle he's in.",
@@ -621,6 +671,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "दिल से वो खेलनी करे रोज़ practice",
+      "romanized": "Dil se vo khelnee kare roz practice",
       "speaker": "GhAatak",
       "translation": "She practices playing with hearts every day.",
       "explanation": "She is a seasoned heartbreaker.",
@@ -628,6 +679,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बना देती मुँह वो, न करने देती move on",
+      "romanized": "Banaa detee munh vo, na karne detee move on",
       "speaker": "GhAatak",
       "translation": "She makes faces (throws tantrums) and won't let me move on.",
       "explanation": "She uses emotional manipulation to keep him stuck in the relationship.",
@@ -635,6 +687,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "खाली कर दे जेबें, चलता रहता बावे loop on",
+      "romanized": "Khaalee kar de jeben, chaltaa rahtaa baave loop on",
       "speaker": "GhAatak",
       "translation": "She empties my pockets, and it keeps happening on loop, brother.",
       "explanation": "A financial and emotional drain that repeats endlessly.",
@@ -642,6 +695,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "दे असली सी वो गोली, बोले मिलने का न mood और",
+      "romanized": "De aslee see vo golee, bole milne kaa na mood aur",
       "speaker": "GhAatak",
       "translation": "She gives me a real excuse (lie), says she's not in the mood to meet.",
       "explanation": "‘Goli dena’ is slang for lying or making an excuse to avoid someone.",
@@ -655,6 +709,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "अब चुभती जैसे धूप हो, क्लेशी ही औरत तू भूत",
+      "romanized": "Ab chubhtee jaise dhoop ho, kleshee hee aurt too bhoot",
       "speaker": "GhAatak",
       "translation": "Now you sting like the sun; you're just a dramatic woman, a ghost.",
       "explanation": "Her presence is no longer pleasant; it's harsh like the Delhi sun and she feels like a haunting 'Bhoot'.",
@@ -668,6 +723,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी मेरे घर पे क्लेश लाए",
+      "romanized": "Bandee too ziddee mere ghar pe klesh laae",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, you bring drama to my house.",
       "explanation": "Hook repeat.",
@@ -675,6 +731,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी बोलूँ lеft तो she takes right",
+      "romanized": "Bandee too ziddee boloon lеft to she takes right",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn; if I say go left, she goes right.",
       "explanation": "Hook repeat.",
@@ -682,6 +739,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी she addicted to the fake likes",
+      "romanized": "Bandee too ziddee she addicted to the fake likes",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, she's addicted to fake likes.",
       "explanation": "Hook repeat.",
@@ -689,6 +747,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी उसको जीनी नहीं है safe life",
+      "romanized": "Bandee too ziddee usko jeenee naheen hai safe life",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, she doesn't want to live a safe life.",
       "explanation": "Hook repeat.",
@@ -696,6 +755,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी मेरी बातें सुन, न देख hype",
+      "romanized": "Bandee too ziddee meree baaten sun, na dekh hype",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn; listen to my words, don't look at the hype.",
       "explanation": "Hook repeat.",
@@ -703,6 +763,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी खाली ख़्वाब बुन, न देख खाई",
+      "romanized": "Bandee too ziddee khaalee khvaab bun, na dekh khaaee",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn; you just spin empty dreams and ignore the cliff.",
       "explanation": "Hook repeat.",
@@ -710,6 +771,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी lemme take u on a date right",
+      "romanized": "Bandee too ziddee lemme take u on a date right",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, let me take you on a proper date.",
       "explanation": "Hook repeat.",
@@ -717,6 +779,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी वो कराती मुझे wait like..",
+      "romanized": "Bandee too ziddee vo karaatee mujhe wait like..",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, she makes me wait like..",
       "explanation": "Hook repeat.",
@@ -724,6 +787,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी, ऐसी ख़्वाबों में तू रोज़ आए",
+      "romanized": "Bandee too ziddee, aisee khvaabon men too roz aae",
       "speaker": "Calm",
       "translation": "Girl, you're stubborn, you come into my dreams like this every day.",
       "explanation": "Calm describes how even when they aren't together, she haunts his thoughts/dreams.",
@@ -731,6 +795,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी, got me feeling like the pain’s fine",
+      "romanized": "Bandee too ziddee, got me feeling like the pain’s fine",
       "speaker": "Calm",
       "translation": "Girl, you're stubborn, got me feeling like the pain is okay.",
       "explanation": "He has become desensitized to the emotional pain she causes.",
@@ -738,6 +803,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी, got me feeling like I ain’t dying",
+      "romanized": "Bandee too ziddee, got me feeling like I ain’t dying",
       "speaker": "Calm",
       "translation": "Girl, you're stubborn, got me feeling like I'm not dying.",
       "explanation": "The rush or toxicity of the relationship makes him feel alive, albeit in a twisted way.",
@@ -745,6 +811,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी, चले भेजे में तू day n night",
+      "romanized": "Bandee too ziddee, chale bheje men too day n night",
       "speaker": "Calm",
       "translation": "Girl, you're stubborn, you run through my mind day and night.",
       "explanation": "‘Bheja’ is slang for brain/head. She is a constant obsession.",
@@ -758,6 +825,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी, got me fucked up",
+      "romanized": "Bandee too ziddee, got me fucked up",
       "speaker": "Calm",
       "translation": "Girl, you're stubborn, you've got me all messed up.",
       "explanation": "The relationship has negatively impacted his mental state.",
@@ -765,6 +833,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "वो बोले के trust love but babe I don’t trust shit",
+      "romanized": "Vo bole ke trust love but babe I don’t trust shit",
       "speaker": "Calm",
       "translation": "She says trust love, but babe I don't trust anything.",
       "explanation": "She preaches love, but he has been burned too many times to believe in it.",
@@ -772,6 +841,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "जीता हूँ मैं कट कट कर",
+      "romanized": "Jeetaa hoon main kat kat kar",
       "speaker": "Calm",
       "translation": "I live life piece by piece (or in constant friction).",
       "explanation": "Living life with difficulty or through many small struggles.",
@@ -779,6 +849,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "खोया मैं love बिन",
+      "romanized": "Khoyaa main love bin",
       "speaker": "Calm",
       "translation": "I'm lost without love.",
       "explanation": "Admitting a vulnerability despite the hardness.",
@@ -786,6 +857,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "प्यार पे न शक कर",
+      "romanized": "Pyaar pe na shak kar",
       "speaker": "Calm",
       "translation": "Don't doubt the love.",
       "explanation": "Telling her (or himself) that the feeling was real despite the mess.",
@@ -800,6 +872,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "साथ हैगा मुमकिन",
+      "romanized": "Saath haigaa mumkin",
       "speaker": "Calm",
       "translation": "Being together is possible.",
       "explanation": "A moment of hope that they could make it work.",
@@ -807,6 +880,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "पर अब भी हूँ नटखट",
+      "romanized": "Par ab bhee hoon natkht",
       "speaker": "Calm",
       "translation": "But I'm still a troublemaker.",
       "explanation": "He admits he isn't perfect either; he’s still ‘Natkhat’ (mischievous).",
@@ -826,6 +900,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "मैं रहता हूँ in my bag, I’m not giving a fuck",
+      "romanized": "Main rahtaa hoon in my bag, I’m not giving a fuck",
       "speaker": "Calm",
       "translation": "I stay focused on my hustle, I don't give a fuck.",
       "explanation": "‘In my bag’ is slang for being focused on making money and personal goals.",
@@ -845,6 +920,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "भूलूँ सारी दिक्कत when I’m smoking that bud",
+      "romanized": "Bhooloon saaree dikkt when I’m smoking that bud",
       "speaker": "Calm",
       "translation": "I forget all problems when I'm smoking that bud.",
       "explanation": "Using marijuana as a coping mechanism for the stress of the relationship.",
@@ -858,6 +934,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "तेरे लिए मैं रखूँगा ये पैर in the mud",
+      "romanized": "Tere lie main rakhoongaa ye pair in the mud",
       "speaker": "Calm",
       "translation": "For you, I'll keep these feet in the mud.",
       "explanation": "He is willing to do the dirty work or stay in the struggle for her.",
@@ -865,6 +942,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "सोचूँ about that cash when I’m spilling that blood",
+      "romanized": "Sochoon about that cash when I’m spilling that blood",
       "speaker": "Calm",
       "translation": "I think about the money even when I'm bleeding/struggling.",
       "explanation": "Money is always the priority, even in times of extreme hardship.",
@@ -872,6 +950,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी देती प्यार पर है late शायद",
+      "romanized": "Bandee too ziddee detee pyaar par hai late shaayd",
       "speaker": "Calm",
       "translation": "Girl, you're stubborn, you give love but maybe it's too late.",
       "explanation": "She finally shows affection, but the damage is already done.",
@@ -879,6 +958,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दा मैं ज़िद्दी, खेलूँ game करूँ play decide",
+      "romanized": "Bandaa main ziddee, kheloon game karoon play decide",
       "speaker": "Calm",
       "translation": "I'm a stubborn guy, I play the game and I decide the moves.",
       "explanation": "Asserting control over his life and the industry.",
@@ -893,6 +973,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी got me thinking on a show night",
+      "romanized": "Bandee too ziddee got me thinking on a show night",
       "speaker": "Calm",
       "translation": "Girl, you're stubborn, you've got me thinking about you even on a show night.",
       "explanation": "She distracts him even during his professional peak (performances).",
@@ -900,6 +981,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दा मैं ज़िद्दी, लिखूँ और I’m a GOAT right",
+      "romanized": "Bandaa main ziddee, likhoon aur I’m a GOAT right",
       "speaker": "Calm",
       "translation": "I'm a stubborn guy, I write and I'm a GOAT, right?",
       "explanation": "Greatest Of All Time. Calm asserts his lyrical dominance.",
@@ -913,6 +995,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी मेरे घर पे क्लेश लाए",
+      "romanized": "Bandee too ziddee mere ghar pe klesh laae",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, you bring drama to my house.",
       "explanation": "Final hook repeat.",
@@ -920,6 +1003,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी बोलूँ left तो she takes right",
+      "romanized": "Bandee too ziddee boloon left to she takes right",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn; if I say go left, she goes right.",
       "explanation": "Final hook repeat.",
@@ -927,6 +1011,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी she addicted to the fake likes",
+      "romanized": "Bandee too ziddee she addicted to the fake likes",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, she's addicted to fake likes.",
       "explanation": "Final hook repeat.",
@@ -934,6 +1019,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी उसको जीनी नहीं है safe life",
+      "romanized": "Bandee too ziddee usko jeenee naheen hai safe life",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, she doesn't want to live a safe life.",
       "explanation": "Final hook repeat.",
@@ -941,6 +1027,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी मेरी बातें सुन, न देख hype",
+      "romanized": "Bandee too ziddee meree baaten sun, na dekh hype",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn; listen to my words, don't look at the hype.",
       "explanation": "Final hook repeat.",
@@ -948,6 +1035,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी खाली ख़्वाब बुन, न देख खाई",
+      "romanized": "Bandee too ziddee khaalee khvaab bun, na dekh khaaee",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn; you just spin empty dreams and ignore the cliff.",
       "explanation": "Final hook repeat.",
@@ -955,6 +1043,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी lemme take u on a date right",
+      "romanized": "Bandee too ziddee lemme take u on a date right",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, let me take you on a proper date.",
       "explanation": "Final hook repeat.",
@@ -962,6 +1051,7 @@ export const dl91_fm: Song = {
     },
     {
       "original": "बन्दी तू ज़िद्दी वो कराती मुझे wait like..",
+      "romanized": "Bandee too ziddee vo karaatee mujhe wait like..",
       "speaker": "Encore ABJ",
       "translation": "Girl, you're stubborn, she makes me wait like..",
       "explanation": "Final hook repeat.",

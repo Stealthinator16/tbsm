@@ -10,6 +10,7 @@ export const bajenge: Song = {
   "lyrics": [
     {
       "original": "Okay, करूँ puff and I hold it, चटक पड़ रही limelight",
+      "romanized": "Okay, karoon puff and I hold it, chataka para rahee limelight",
       "speaker": "Encore ABJ",
       "translation": "Okay, I take a puff and hold it in, the limelight is popping on me.",
       "explanation": "Encore opens casually -- smoking and basking in the attention that comes with fame. 'Chatak' implies the spotlight is hitting him bright and hard.",
@@ -28,6 +29,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Hands-up to say high-five, she in love with that night-life",
+      "romanized": "Hands-up to say high-five, she in love with that night-life",
       "speaker": "Encore ABJ",
       "translation": "Hands up for a high-five, she's in love with the nightlife.",
       "explanation": "Setting the party vibe -- everyone's celebrating and the girl is drawn to this lifestyle.",
@@ -35,6 +37,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Full moon मतलब high-tide, बस अब बोल तेरा scene क्या है?",
+      "romanized": "Full moon matalaba high-tide, basa aba bola teraa scene kyaa hai?",
       "speaker": "Encore ABJ",
       "translation": "Full moon means high tide, so just tell me what's your scene?",
       "explanation": "Using the metaphor of the full moon causing high tides to say the energy is peaking right now. He's asking the girl what she's about and if she's down to vibe.",
@@ -48,6 +51,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Girl you know what I mean, yeah?",
+      "romanized": "Girl you know what I mean, yeah?",
       "speaker": "Encore ABJ",
       "translation": "Girl, you know what I mean, yeah?",
       "explanation": "A rhetorical closer to his verse intro, implying the flirtation is mutual and understood.",
@@ -55,6 +59,7 @@ export const bajenge: Song = {
     },
     {
       "original": "रंग के सावले, होके बावले",
+      "romanized": "Ranga ke saavale, hoke baavale",
       "speaker": "Badshah",
       "translation": "Dark-skinned and crazy, we go wild.",
       "explanation": "Badshah embraces the brown/dark complexion and says they go crazy regardless. It's a celebration of desi identity while partying hard.",
@@ -73,6 +78,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off.",
       "explanation": "The hook -- 'bajenge' literally means 'we'll play/ring' but here means 'we'll go off / we'll party hard.'",
@@ -86,6 +92,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off.",
       "explanation": "Repetition of the hook to build hype energy.",
@@ -93,6 +100,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off.",
       "explanation": "Continuation of the hook, building momentum.",
@@ -100,6 +108,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे, बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge, bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off, we'll go off, we'll go off.",
       "explanation": "Extended repetition driving the energy higher before the verse drops.",
@@ -107,6 +116,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off.",
       "explanation": "Hook continues, keeping the party energy up.",
@@ -114,6 +124,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off.",
       "explanation": "Repetition of the hook.",
@@ -121,6 +132,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off.",
       "explanation": "Repetition of the hook.",
@@ -128,6 +140,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे, बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge, bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off, we'll go off, we'll go off.",
       "explanation": "Extended hook to close out the chorus section.",
@@ -135,6 +148,7 @@ export const bajenge: Song = {
     },
     {
       "original": "आजा पिए दारू और तू और मैं, बजेंगे",
+      "romanized": "Aajaa pie daaroo aura too aura main, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Come, let's drink -- you and me, we'll go off.",
       "explanation": "An invitation to drink together and party. The core message of the song: come vibe with us.",
@@ -148,6 +162,7 @@ export const bajenge: Song = {
     },
     {
       "original": "आजा जब BT हो तू और मैं, बजेंगे",
+      "romanized": "Aajaa jaba BT ho too aura main, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Come, when you're stressed out -- you and me, we'll go off.",
       "explanation": "When life gets you down and you're in a bad trip, come party and forget about it.",
@@ -161,6 +176,7 @@ export const bajenge: Song = {
     },
     {
       "original": "सोने को मांग रहा आज रात, बजेंगे",
+      "romanized": "Sone ko maanga rahaa aaja raata, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Asking to sleep tonight, but nah -- we'll go off.",
       "explanation": "Even though the body wants rest, the energy is too high to stop. They're going to keep partying regardless.",
@@ -168,6 +184,7 @@ export const bajenge: Song = {
     },
     {
       "original": "अबे वो scene नहीं, बजेंगे, बजेंगे",
+      "romanized": "Abe vo scene naheen, bajenge, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Bro, that's not the scene -- we'll go off, we'll go off.",
       "explanation": "Dismissing the idea of sleeping or stopping. That's not happening tonight -- we're going all out.",
@@ -181,6 +198,7 @@ export const bajenge: Song = {
     },
     {
       "original": "आजा पिए दारू और तू और मैं, बजेंगे",
+      "romanized": "Aajaa pie daaroo aura too aura main, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Come, let's drink -- you and me, we'll go off.",
       "explanation": "Repeated chorus line reinforcing the party invitation.",
@@ -188,6 +206,7 @@ export const bajenge: Song = {
     },
     {
       "original": "आजा जब BT हो तू और मैं, बजेंगे",
+      "romanized": "Aajaa jaba BT ho too aura main, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Come, when you're stressed out -- you and me, we'll go off.",
       "explanation": "Repeated chorus line -- partying as the antidote to stress.",
@@ -195,6 +214,7 @@ export const bajenge: Song = {
     },
     {
       "original": "सोने को मांग रहा आज रात, बजेंगे",
+      "romanized": "Sone ko maanga rahaa aaja raata, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Asking to sleep tonight, but nah -- we'll go off.",
       "explanation": "Repeated chorus line -- sleep can wait.",
@@ -202,6 +222,7 @@ export const bajenge: Song = {
     },
     {
       "original": "अबे वो scene नहीं, बजेंगे, बजेंगे",
+      "romanized": "Abe vo scene naheen, bajenge, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Bro, that's not the scene -- we'll go off, we'll go off.",
       "explanation": "Repeated chorus line -- no stopping tonight.",
@@ -209,6 +230,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Okay, baby बोल, तेरा फ़र्ज़ क्या है?",
+      "romanized": "Okay, baby bola, teraa farza kyaa hai?",
       "speaker": "Encore ABJ & Calm",
       "translation": "Okay baby, tell me -- what's your duty?",
       "explanation": "Flirtatiously asking the girl what she feels she owes or what her role is in this dynamic.",
@@ -222,6 +244,7 @@ export const bajenge: Song = {
     },
     {
       "original": "ये कि तू मुझे प्यार दे, और ये कि तुझे मुझे समझ पाये",
+      "romanized": "Ye ki too mujhe pyaara de, aura ye ki tujhe mujhe samajha paaye",
       "speaker": "Encore ABJ & Calm",
       "translation": "That you give me love, and that you understand me.",
       "explanation": "He answers his own question -- her duty is to love him and truly get him. A moment of vulnerability beneath the party exterior.",
@@ -229,6 +252,7 @@ export const bajenge: Song = {
     },
     {
       "original": "हो रही है मेरी आँख बंद (आँख बंद)",
+      "romanized": "Ho rahee hai meree aankha banda (aankha banda)",
       "speaker": "Encore ABJ & Calm",
       "translation": "My eyes are closing (eyes closing).",
       "explanation": "His physical eyes are shutting -- either from intoxication or from going deeper into a meditative/elevated state.",
@@ -236,6 +260,7 @@ export const bajenge: Song = {
     },
     {
       "original": "खुल रही है मेरी third eye",
+      "romanized": "Khula rahee hai meree third eye",
       "speaker": "Encore ABJ & Calm",
       "translation": "My third eye is opening.",
       "explanation": "As his regular eyes close, his inner vision awakens. A reference to spiritual awakening or heightened perception, possibly enhanced by substances.",
@@ -249,6 +274,7 @@ export const bajenge: Song = {
     },
     {
       "original": "न दिखा ये fake smile",
+      "romanized": "Na dikhaa ye fake smile",
       "speaker": "Encore ABJ & Calm",
       "translation": "Don't show me that fake smile.",
       "explanation": "He can see through pretense now that his third eye is open. He wants authenticity, not a facade.",
@@ -256,6 +282,7 @@ export const bajenge: Song = {
     },
     {
       "original": "आ दिखा तेरा दर्द कहाँ है?",
+      "romanized": "Aa dikhaa teraa darda kahaan hai?",
       "speaker": "Encore ABJ & Calm",
       "translation": "Come, show me where your pain is.",
       "explanation": "Instead of pretending everything is fine, he wants her to be real and show her true feelings. An unexpectedly introspective moment.",
@@ -263,6 +290,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Club में गए हैं तू, खोई कहाँ?",
+      "romanized": "Club men gae hain too, khoee kahaan?",
       "speaker": "Encore ABJ & Calm",
       "translation": "You've come to the club, where are you lost?",
       "explanation": "She's at the club but seems mentally elsewhere. He's calling her back to the present moment.",
@@ -270,6 +298,7 @@ export const bajenge: Song = {
     },
     {
       "original": "इधर देख तेरा मर्द यहाँ, उधर देख वह है Badshah",
+      "romanized": "Idhara dekha teraa marda yahaan, udhara dekha vaha hai Badshah",
       "speaker": "Encore ABJ & Calm",
       "translation": "Look here, your man is here. Look there, that's Badshah.",
       "explanation": "Pointing out the star power in the room -- he's right here, and Badshah is right there. She's in good company.",
@@ -283,6 +312,7 @@ export const bajenge: Song = {
     },
     {
       "original": "इधर देख, अब next यहाँ है, इधर देख, भाई best यहाँ है",
+      "romanized": "Idhara dekha, aba next yahaan hai, idhara dekha, bhaaee best yahaan hai",
       "speaker": "Encore ABJ & Calm",
       "translation": "Look here, the next big thing is here. Look here, brother, the best is here.",
       "explanation": "Confident declaration that they are both the future and the current best in the game.",
@@ -290,6 +320,7 @@ export const bajenge: Song = {
     },
     {
       "original": "इधर देख, perfect यहाँ है, she don't care उसे बजना है",
+      "romanized": "Idhara dekha, perfect yahaan hai, she don't care use bajanaa hai",
       "speaker": "Encore ABJ & Calm",
       "translation": "Look here, perfection is here. She doesn't care, she just wants to go off.",
       "explanation": "She's not overthinking it -- she just wants to let loose and party. 'Bajnaa' here means to vibe, to go wild.",
@@ -303,6 +334,7 @@ export const bajenge: Song = {
     },
     {
       "original": "She don't care उसे बजना",
+      "romanized": "She don't care use bajanaa",
       "speaker": "Encore ABJ & Calm",
       "translation": "She doesn't care, she just wants to go off.",
       "explanation": "Repetition emphasizing her carefree attitude -- she's fully in the moment.",
@@ -310,6 +342,7 @@ export const bajenge: Song = {
     },
     {
       "original": "She don't care [?]",
+      "romanized": "She don't care [?]",
       "speaker": "Encore ABJ & Calm",
       "translation": "She doesn't care...",
       "explanation": "Trailing off, the exact words are unclear but the sentiment continues -- she's unbothered and free.",
@@ -317,6 +350,7 @@ export const bajenge: Song = {
     },
     {
       "original": "She don't care let it go",
+      "romanized": "She don't care let it go",
       "speaker": "Encore ABJ & Calm",
       "translation": "She doesn't care, let it go.",
       "explanation": "Full surrender to the moment. Stop worrying and just let it go.",
@@ -324,6 +358,7 @@ export const bajenge: Song = {
     },
     {
       "original": "अस जैसी कई आई दो",
+      "romanized": "Asa jaisee kaee aaee do",
       "speaker": "Encore ABJ & Calm",
       "translation": "Many like her have come and gone.",
       "explanation": "A nonchalant flex -- he's seen plenty of girls like her come around. He's not pressed.",
@@ -331,6 +366,7 @@ export const bajenge: Song = {
     },
     {
       "original": "नशे करे वो भी slow, फिर भी जाने कोन",
+      "romanized": "Nashe kare vo bhee slowa, phira bhee jaane kona",
       "speaker": "Encore ABJ & Calm",
       "translation": "She does her intoxicants slowly too, yet who really knows her.",
       "explanation": "She takes it easy with substances but remains mysterious. There's more to her than meets the eye.",
@@ -344,6 +380,7 @@ export const bajenge: Song = {
     },
     {
       "original": "और अब भी दिल में जगह बहुत",
+      "romanized": "Aura aba bhee dila men jagaha bahuta",
       "speaker": "Encore ABJ & Calm",
       "translation": "And there's still a lot of room in my heart.",
       "explanation": "Despite the player attitude, he admits his heart isn't full yet. There's space for someone real.",
@@ -351,6 +388,7 @@ export const bajenge: Song = {
     },
     {
       "original": "आजा जब मन हो [?]",
+      "romanized": "Aajaa jaba mana ho [?]",
       "speaker": "Encore ABJ & Calm",
       "translation": "Come whenever you feel like it...",
       "explanation": "An open invitation -- no pressure, come when you want. The trailing words are unclear but the vibe is welcoming.",
@@ -358,6 +396,7 @@ export const bajenge: Song = {
     },
     {
       "original": "मै vampire उसके neck पर, लगे phone number मेरे cheque पर",
+      "romanized": "Mai vampire usake neck para, lage phone number mere cheque para",
       "speaker": "Encore ABJ & Calm",
       "translation": "I'm a vampire on her neck, phone numbers land on my cheque.",
       "explanation": "He's all over her neck like a vampire, and girls are writing their numbers on his cheques -- mixing intimacy with wealth flexing.",
@@ -371,6 +410,7 @@ export const bajenge: Song = {
     },
     {
       "original": "दिखी तू मुझे crowd में, लगे चार चांद मेरे set पर",
+      "romanized": "Dikhee too mujhe crowad men, lage chaara chaanda mere set para",
       "speaker": "Encore ABJ & Calm",
       "translation": "I spotted you in the crowd, you added beauty to my setup.",
       "explanation": "He noticed her in the crowd and she elevated the whole scene. 'Chaar chaand lagana' is a classic Hindi idiom meaning to add beauty or glory.",
@@ -384,6 +424,7 @@ export const bajenge: Song = {
     },
     {
       "original": "आजा पिए दारू और तू और मैं, बजेंगे",
+      "romanized": "Aajaa pie daaroo aura too aura main, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Come, let's drink -- you and me, we'll go off.",
       "explanation": "Chorus returns -- the central party invitation.",
@@ -391,6 +432,7 @@ export const bajenge: Song = {
     },
     {
       "original": "आजा जब BT हो तू और मैं, बजेंगे",
+      "romanized": "Aajaa jaba BT ho too aura main, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Come, when you're stressed out -- you and me, we'll go off.",
       "explanation": "Chorus line -- partying away the stress.",
@@ -398,6 +440,7 @@ export const bajenge: Song = {
     },
     {
       "original": "सोने को मांग रहा आज रात, बजेंगे",
+      "romanized": "Sone ko maanga rahaa aaja raata, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Asking to sleep tonight, but nah -- we'll go off.",
       "explanation": "Chorus line -- no sleeping tonight.",
@@ -405,6 +448,7 @@ export const bajenge: Song = {
     },
     {
       "original": "अबे वो scene नहीं, बजेंगे, बजेंगे",
+      "romanized": "Abe vo scene naheen, bajenge, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Bro, that's not the scene -- we'll go off, we'll go off.",
       "explanation": "Chorus line -- sleep is not an option.",
@@ -412,6 +456,7 @@ export const bajenge: Song = {
     },
     {
       "original": "आजा पिए दारू और तू और मैं, बजेंगे",
+      "romanized": "Aajaa pie daaroo aura too aura main, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Come, let's drink -- you and me, we'll go off.",
       "explanation": "Repeated chorus.",
@@ -419,6 +464,7 @@ export const bajenge: Song = {
     },
     {
       "original": "आजा जब BT हो तू और मैं, बजेंगे",
+      "romanized": "Aajaa jaba BT ho too aura main, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Come, when you're stressed out -- you and me, we'll go off.",
       "explanation": "Repeated chorus.",
@@ -426,6 +472,7 @@ export const bajenge: Song = {
     },
     {
       "original": "सोने को मांग रहा आज रात, बजेंगे",
+      "romanized": "Sone ko maanga rahaa aaja raata, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Asking to sleep tonight, but nah -- we'll go off.",
       "explanation": "Repeated chorus.",
@@ -433,6 +480,7 @@ export const bajenge: Song = {
     },
     {
       "original": "अबे वो scene नहीं, बजेंगे, बजेंगे",
+      "romanized": "Abe vo scene naheen, bajenge, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Bro, that's not the scene -- we'll go off, we'll go off.",
       "explanation": "Repeated chorus.",
@@ -440,6 +488,7 @@ export const bajenge: Song = {
     },
     {
       "original": "मैं हूँ 6 foot, वह 5'7\" है, facе devilish, body heaven है",
+      "romanized": "Main hoon 6 foot, vaha 5'7\\\" hai, facе devilish, body heaven hai",
       "speaker": "Badshah",
       "translation": "I'm 6 foot, she's 5'7\", face is devilish, body is heaven.",
       "explanation": "Badshah describes the physical contrast -- his height and her appearance, calling her face temptingly devilish while her body is heavenly.",
@@ -453,6 +502,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Aftеr party, In my गाड़ी, door ज़ोर से मार, यह G-Wagon है",
+      "romanized": "Aftеr party, In my gaaree, door zora se maara, yaha G-Wagon hai",
       "speaker": "Badshah",
       "translation": "After party, in my car -- slam the door hard, this is a G-Wagon.",
       "explanation": "After the party they head to his car. He tells her to slam the door confidently because it's a Mercedes G-Wagon, a luxury SUV that can take it.",
@@ -466,6 +516,7 @@ export const bajenge: Song = {
     },
     {
       "original": "गाने सुनाऊं तुझे unreleased, dress तेरी मुझे करती tease",
+      "romanized": "Gaane sunaaoon tujhe unreleased, dress teree mujhe karatee tease",
       "speaker": "Badshah",
       "translation": "I'll play you unreleased songs, your dress teases me.",
       "explanation": "Badshah uses his exclusive music as a flex to impress her, while her outfit is catching his eye.",
@@ -473,6 +524,7 @@ export const bajenge: Song = {
     },
     {
       "original": "I don't know if I should be turned on, but I see those bruises on your knees",
+      "romanized": "I don't know if I should be turned on, but I see those bruises on your knees",
       "speaker": "Badshah",
       "translation": "I don't know if I should be turned on, but I see those bruises on your knees.",
       "explanation": "A provocative and suggestive line -- he notices marks on her knees and plays coy about what they imply.",
@@ -480,6 +532,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Don't mind but I know this shit, she's getting close as shit",
+      "romanized": "Don't mind but I know this shit, she's getting close as shit",
       "speaker": "Badshah",
       "translation": "Don't mind, but I know the deal -- she's getting really close.",
       "explanation": "He's aware of what's happening. She's making her move and getting closer to him.",
@@ -487,6 +540,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बाल उसने ऐसे बांधे, जैसे she knows her shit",
+      "romanized": "Baala usane aise baandhe, jaise she knowas her shit",
       "speaker": "Badshah",
       "translation": "She tied her hair up like she knows exactly what she's doing.",
       "explanation": "The way she tied her hair signals confidence and intent. A suggestive double meaning -- she's prepared.",
@@ -494,6 +548,7 @@ export const bajenge: Song = {
     },
     {
       "original": "गाने थे loud बहुत, बज रहा था Seedhe Maut",
+      "romanized": "Gaane the loud bahuta, baja rahaa thaa Seedhe Maut",
       "speaker": "Badshah",
       "translation": "The songs were very loud, Seedhe Maut was playing.",
       "explanation": "Badshah shouts out Seedhe Maut, saying their music was blasting at the party. A meta-reference to the collaboration itself.",
@@ -507,6 +562,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बज रहे थे पौने दो, बज रहे थे मैं और वो",
+      "romanized": "Baja rahe the paune do, baja rahe the main aura vo",
       "speaker": "Badshah",
       "translation": "It was a quarter to two, and she and I were going off.",
       "explanation": "Double meaning of 'bajne' -- the clock was striking nearly 2 AM, and simultaneously he and the girl were vibing together. Classic wordplay on the song's central theme.",
@@ -520,6 +576,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Calm down थोड़ा chill कर, तू लेना ना कुछ भी दिल पर",
+      "romanized": "Calm dowan thoraa chill kara, too lenaa naa kuchha bhee dila para",
       "speaker": "Badshah",
       "translation": "Calm down, chill a bit -- don't take anything to heart.",
       "explanation": "Telling her (or the listener) to relax and not overthink. 'Calm down' also subtly references Calm from Seedhe Maut.",
@@ -533,6 +590,7 @@ export const bajenge: Song = {
     },
     {
       "original": "No selfies, no photos, तू vibe ना मेरी kill कर",
+      "romanized": "No selfies, no photos, too vibe naa meree kill kara",
       "speaker": "Badshah",
       "translation": "No selfies, no photos -- don't kill my vibe.",
       "explanation": "He wants to enjoy the moment without phones and cameras ruining it. Stay present, don't document everything.",
@@ -540,6 +598,7 @@ export const bajenge: Song = {
     },
     {
       "original": "तू मरती है जिन पर, है वो मेरे लिंग पर",
+      "romanized": "Too maratee hai jina para, hai vo mere linga para",
       "speaker": "Badshah",
       "translation": "The guys you're dying for are on my dick.",
       "explanation": "A crude flex -- the men she idolizes are subordinate to Badshah. Extremely provocative and explicit.",
@@ -553,6 +612,7 @@ export const bajenge: Song = {
     },
     {
       "original": "हम already नरक में हैं, तू गिन कर ना sin कर",
+      "romanized": "Hama already naraka men hain, too gina kara naa sin kara",
       "speaker": "Badshah",
       "translation": "We're already in hell, so don't count your sins -- just sin.",
       "explanation": "If they're already damned, there's no point counting sins. A hedonistic philosophy -- let go of guilt and live freely.",
@@ -566,6 +626,7 @@ export const bajenge: Song = {
     },
     {
       "original": "मैं दिखता हूँ रातों में, लिखता हूँ दिन भर",
+      "romanized": "Main dikhataa hoon raaton men, likhataa hoon dina bhara",
       "speaker": "Badshah",
       "translation": "I show up at night, I write all day long.",
       "explanation": "His dual life -- writing and creating music by day, then coming alive in the nightlife scene.",
@@ -573,6 +634,7 @@ export const bajenge: Song = {
     },
     {
       "original": "मैं शायर भयंकर, मैं साहिर, मैं दिनकर",
+      "romanized": "Main shaayara bhayankara, main saahira, main dinakara",
       "speaker": "Badshah",
       "translation": "I'm a fearsome poet, I'm Sahir, I'm Dinkar.",
       "explanation": "Badshah compares himself to legendary Hindi/Urdu poets, claiming his lyrical ability puts him in their league.",
@@ -596,6 +658,7 @@ export const bajenge: Song = {
     },
     {
       "original": "मुझे कर तू inspire, दिखा थोड़ा हिल कर",
+      "romanized": "Mujhe kara too inspire, dikhaa thoraa hila kara",
       "speaker": "Badshah",
       "translation": "Inspire me, show me something -- move a little.",
       "explanation": "Asking the girl to dance and inspire him with her movement. Flirtatious and playful.",
@@ -603,6 +666,7 @@ export const bajenge: Song = {
     },
     {
       "original": "मैं खाली हूँ, fill कर, आजा बजते हैं मिल कर",
+      "romanized": "Main khaalee hoon, fill kara, aajaa bajate hain mila kara",
       "speaker": "Badshah",
       "translation": "I'm empty, fill me up. Come, let's go off together.",
       "explanation": "He's open and ready -- asking her to complete the equation so they can vibe together. Closes his verse by tying back to the song's central theme of 'bajenge.'",
@@ -610,6 +674,7 @@ export const bajenge: Song = {
     },
     {
       "original": "रंग के सावले, होके बावले",
+      "romanized": "Ranga ke saavale, hoke baavale",
       "speaker": "Badshah",
       "translation": "Dark-skinned and crazy, we go wild.",
       "explanation": "Return of the pre-hook celebrating desi identity and wild energy.",
@@ -617,6 +682,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off.",
       "explanation": "Hook repeats for the final chorus section.",
@@ -624,6 +690,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off.",
       "explanation": "Repeated hook.",
@@ -631,6 +698,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off.",
       "explanation": "Repeated hook.",
@@ -638,6 +706,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे, बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge, bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off, we'll go off, we'll go off.",
       "explanation": "Extended hook building to the final chorus.",
@@ -645,6 +714,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off.",
       "explanation": "Repeated hook.",
@@ -652,6 +722,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off.",
       "explanation": "Repeated hook.",
@@ -659,6 +730,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off.",
       "explanation": "Repeated hook.",
@@ -666,6 +738,7 @@ export const bajenge: Song = {
     },
     {
       "original": "बजेंगे, बजेंगे, बजेंगे, बजेंगे",
+      "romanized": "Bajenge, bajenge, bajenge, bajenge",
       "speaker": "Badshah",
       "translation": "We'll go off, we'll go off, we'll go off, we'll go off.",
       "explanation": "Extended hook closing out the final chorus.",
@@ -673,6 +746,7 @@ export const bajenge: Song = {
     },
     {
       "original": "आजा पिए दारू और तू और मैं, बजेंगे",
+      "romanized": "Aajaa pie daaroo aura too aura main, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Come, let's drink -- you and me, we'll go off.",
       "explanation": "Final chorus -- the party invitation one last time.",
@@ -680,6 +754,7 @@ export const bajenge: Song = {
     },
     {
       "original": "आजा जब BT हो तू और मैं, बजेंगे",
+      "romanized": "Aajaa jaba BT ho too aura main, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Come, when you're stressed out -- you and me, we'll go off.",
       "explanation": "Final chorus -- partying cures the bad trip.",
@@ -687,6 +762,7 @@ export const bajenge: Song = {
     },
     {
       "original": "सोने को मांग रहा आज रात, बजेंगे",
+      "romanized": "Sone ko maanga rahaa aaja raata, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Asking to sleep tonight, but nah -- we'll go off.",
       "explanation": "Final chorus -- no rest tonight.",
@@ -694,6 +770,7 @@ export const bajenge: Song = {
     },
     {
       "original": "अबे वो scene नहीं, बजेंगे, बजेंगे",
+      "romanized": "Abe vo scene naheen, bajenge, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Bro, that's not the scene -- we'll go off, we'll go off.",
       "explanation": "Final chorus -- sleep is still not an option.",
@@ -701,6 +778,7 @@ export const bajenge: Song = {
     },
     {
       "original": "आजा पिए दारू और तू और मैं, बजेंगे",
+      "romanized": "Aajaa pie daaroo aura too aura main, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Come, let's drink -- you and me, we'll go off.",
       "explanation": "Final chorus repeat.",
@@ -708,6 +786,7 @@ export const bajenge: Song = {
     },
     {
       "original": "आजा जब BT हो तू और मैं, बजेंगे",
+      "romanized": "Aajaa jaba BT ho too aura main, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Come, when you're stressed out -- you and me, we'll go off.",
       "explanation": "Final chorus repeat.",
@@ -715,6 +794,7 @@ export const bajenge: Song = {
     },
     {
       "original": "सोने को मांग रहा आज रात, बजेंगे",
+      "romanized": "Sone ko maanga rahaa aaja raata, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Asking to sleep tonight, but nah -- we'll go off.",
       "explanation": "Final chorus repeat.",
@@ -722,6 +802,7 @@ export const bajenge: Song = {
     },
     {
       "original": "अबे वो scene नहीं, बजेंगे, बजेंगे",
+      "romanized": "Abe vo scene naheen, bajenge, bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Bro, that's not the scene -- we'll go off, we'll go off.",
       "explanation": "Final chorus closer.",
@@ -729,6 +810,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Yeah, Seedhe Maut, Bad boy",
+      "romanized": "Yeah, Seedhe Maut, Bad boy",
       "speaker": "Badshah & Calm",
       "translation": "Yeah, Seedhe Maut, Bad boy.",
       "explanation": "Outro shoutout to both acts -- Seedhe Maut and Badshah ('Bad boy' referencing his name and persona).",
@@ -742,6 +824,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Yeah, yeah",
+      "romanized": "Yeah, yeah",
       "speaker": "Badshah & Calm",
       "translation": "Yeah, yeah.",
       "explanation": "Ad-lib closing out the track.",
@@ -749,6 +832,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Delhi, बजेंगे बजेंगे",
+      "romanized": "Delhi, bajenge bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Delhi, we'll go off, we'll go off!",
       "explanation": "Shoutout to Delhi -- the home city of both Seedhe Maut and Badshah. Repping their city in the outro.",
@@ -756,6 +840,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Bombay, बजेंगे बजेंगे",
+      "romanized": "Bombay, bajenge bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Bombay, we'll go off, we'll go off!",
       "explanation": "Extending the energy to Bombay (Mumbai), showing the song's reach across India's major cities.",
@@ -763,6 +848,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Left side, बजेंगे बजेंगे",
+      "romanized": "Left side, bajenge bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Left side, we'll go off, we'll go off!",
       "explanation": "Crowd engagement -- getting the left side of the audience hyped.",
@@ -770,6 +856,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Right side, बजेंगे बजेंगे",
+      "romanized": "Right side, bajenge bajenge",
       "speaker": "Badshah & Calm",
       "translation": "Right side, we'll go off, we'll go off!",
       "explanation": "Crowd engagement -- getting the right side of the audience hyped.",
@@ -777,6 +864,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Let's go, let's go",
+      "romanized": "Let's go, let's go",
       "speaker": "Badshah & Calm",
       "translation": "Let's go, let's go!",
       "explanation": "Final hype call as the track winds down.",
@@ -784,6 +872,7 @@ export const bajenge: Song = {
     },
     {
       "original": "Let's go, let's go, let's go, let's go",
+      "romanized": "Let's go, let's go, let's go, let's go",
       "speaker": "Badshah & Calm",
       "translation": "Let's go, let's go, let's go, let's go!",
       "explanation": "The final burst of energy, sending the track off on a high note.",

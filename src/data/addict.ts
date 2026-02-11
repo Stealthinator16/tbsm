@@ -9,6 +9,7 @@ export const addict: Song = {
   "lyrics": [
     {
       "original": "बन्दी बोले मुझे call कर",
+      "romanized": "Bandee bole mujhe call kara",
       "speaker": "Encore ABJ",
       "translation": "My girl tells me to call her",
       "explanation": "Encore illustrates the typical relationship demands that conflict with his hectic schedule.",
@@ -22,6 +23,7 @@ export const addict: Song = {
     },
     {
       "original": "दोस्त बोले BT solve कर",
+      "romanized": "Dosta bole BT solve kara",
       "speaker": "Encore ABJ",
       "translation": "Friends tell me to solve their bad trip",
       "explanation": "His peers look to him to fix their 'Bad Trip' (negative vibes or drug-induced anxiety).",
@@ -35,6 +37,7 @@ export const addict: Song = {
     },
     {
       "original": "बाप बोले करले जो है करना",
+      "romanized": "Baapa bole karale jo hai karanaa",
       "speaker": "Encore ABJ",
       "translation": "Father says do whatever you want to do",
       "explanation": "A sign of either support or resignation from his father regarding his unconventional career.",
@@ -42,6 +45,7 @@ export const addict: Song = {
     },
     {
       "original": "माँ बोली सेहत पे तू गौर कर",
+      "romanized": "Maan bolee sehata pe too gaura kara",
       "speaker": "Encore ABJ",
       "translation": "Mother says pay attention to your health",
       "explanation": "The classic maternal concern for his well-being amidst his late-night hustle.",
@@ -49,6 +53,7 @@ export const addict: Song = {
     },
     {
       "original": "8 घण्टे की नींद ले",
+      "romanized": "8 ghante kee neenda le",
       "speaker": "Encore ABJ",
       "translation": "Get 8 hours of sleep",
       "explanation": "Standard health advice that the artist is unable to follow due to his obsession with music.",
@@ -56,6 +61,7 @@ export const addict: Song = {
     },
     {
       "original": "यहाँ तू सो रहा है सुबह के 8 पर",
+      "romanized": "Yahaan too so rahaa hai subaha ke 8 para",
       "speaker": "Encore ABJ",
       "translation": "Here you are, sleeping at 8 in the morning",
       "explanation": "Highlights his nocturnal lifestyle—finishing work when the world is waking up.",
@@ -63,6 +69,7 @@ export const addict: Song = {
     },
     {
       "original": "11:30 उठे bed से, और 12 बजे से है job पर",
+      "romanized": "11:30 uthe bed se, aura 12 baje se hai job para",
       "speaker": "Encore ABJ",
       "translation": "Wake up at 11:30 AM, and on the job by 12:00 PM",
       "explanation": "The chaotic transition from sleep to a high-pressure work day (likely studio or shows).",
@@ -70,6 +77,7 @@ export const addict: Song = {
     },
     {
       "original": "पर कैसे कहूँ आप सही हूँ",
+      "romanized": "Para kaise kahoon aapa sahee hoon",
       "speaker": "Encore ABJ",
       "translation": "But how do I tell you that I am right?",
       "explanation": "The internal struggle of justifying his lifestyle to his parents.",
@@ -77,6 +85,7 @@ export const addict: Song = {
     },
     {
       "original": "सुधारूँ खुद को कैसे",
+      "romanized": "Sudhaaroon khuda ko kaise",
       "speaker": "Encore ABJ",
       "translation": "How do I fix myself?",
       "explanation": "Self-reflection on his habits and whether they actually need 'fixing'.",
@@ -84,6 +93,7 @@ export const addict: Song = {
     },
     {
       "original": "उठा हूँ anxiety के साथ, लगता मुझको जैसे",
+      "romanized": "Uthaa hoon anxiety ke saatha, lagataa mujhako jaise",
       "speaker": "Encore ABJ",
       "translation": "I woke up with anxiety, it feels to me like...",
       "explanation": "A candid admission of the mental health toll that the hustle takes.",
@@ -91,6 +101,7 @@ export const addict: Song = {
     },
     {
       "original": "कोई train छूट रही है और हम हैं late",
+      "romanized": "Koee train chhoota rahee hai aura hama hain late",
       "speaker": "Encore ABJ",
       "translation": "A train is leaving and I'm running late",
       "explanation": "A metaphor for the constant fear of missing out or falling behind in the music industry.",
@@ -98,6 +109,7 @@ export const addict: Song = {
     },
     {
       "original": "तभी हूँ lab में at it",
+      "romanized": "Tabhee hoon lab men at it",
       "speaker": "Encore ABJ",
       "translation": "That's why I'm in the lab, at it",
       "explanation": "The 'lab' refers to the recording studio where he funnels his anxiety into work.",
@@ -111,6 +123,7 @@ export const addict: Song = {
     },
     {
       "original": "तभी हूँ rap में addict",
+      "romanized": "Tabhee hoon rap men addict",
       "speaker": "Encore ABJ",
       "translation": "That's why I'm addicted to rap",
       "explanation": "The title of the song; his addiction is productive, unlike the drug use he observes.",
@@ -125,6 +138,7 @@ export const addict: Song = {
     },
     {
       "original": "पर लौण्डे addict हो गए smack पे",
+      "romanized": "Para launde addict ho gae smack pe",
       "speaker": "Encore ABJ",
       "translation": "But these boys got addicted to smack (heroin)",
       "explanation": "A stark contrast between his addiction to art and his peers' addiction to hard drugs.",
@@ -138,6 +152,7 @@ export const addict: Song = {
     },
     {
       "original": "लौण्डे addict हो गए line पे",
+      "romanized": "Launde addict ho gae line pe",
       "speaker": "Encore ABJ",
       "translation": "Boys got addicted to lines (cocaine)",
       "explanation": "A double entendre referring to both snorting drugs and perhaps writing weak 'lines' in lyrics.",
@@ -151,6 +166,7 @@ export const addict: Song = {
     },
     {
       "original": "लौण्डे जाना चाहते club हैं",
+      "romanized": "Launde jaanaa chaahate club hain",
       "speaker": "Encore ABJ",
       "translation": "Boys want to go to the club",
       "explanation": "Focusing on surface-level hedonism and partying.",
@@ -158,6 +174,7 @@ export const addict: Song = {
     },
     {
       "original": "लेकिन पैसे बचे नहीं तो मांगें भाई से",
+      "romanized": "Lekina paise bache naheen to maangen bhaaee se",
       "speaker": "Encore ABJ",
       "translation": "But when they have no money left, they beg their brothers",
       "explanation": "Critique of people living beyond their means and relying on others to fund their habits.",
@@ -165,6 +182,7 @@ export const addict: Song = {
     },
     {
       "original": "लोहा बेचा माने left से",
+      "romanized": "Lohaa bechaa maane left se",
       "speaker": "Encore ABJ",
       "translation": "Sold iron from the left",
       "explanation": "Likely referring to 'scrap metal' or street-level hustle to make ends meet in the struggle days.",
@@ -172,6 +190,7 @@ export const addict: Song = {
     },
     {
       "original": "पैसा उठा मर्पे right से",
+      "romanized": "Paisaa uthaa marpe right se",
       "speaker": "Encore ABJ",
       "translation": "Picked up profit/cash from the right",
       "explanation": "General street slang for managing transactions and 'making it' through grit.",
@@ -179,6 +198,7 @@ export const addict: Song = {
     },
     {
       "original": "घुटने पे खड़े हैं यहाँ दुश्मन haha सारे",
+      "romanized": "Ghutane pe khaड़e hain yahaan dushmana haha saare",
       "speaker": "Encore ABJ",
       "translation": "All the enemies are on their knees here, haha",
       "explanation": "Encore mocks his competitors who have finally been outpaced and humbled.",
@@ -186,6 +206,7 @@ export const addict: Song = {
     },
     {
       "original": "ये दिखे ही नहीं मेरी height पे",
+      "romanized": "Ye dikhe hee naheen meree height pe",
       "speaker": "Encore ABJ",
       "translation": "They aren't even visible at my height",
       "explanation": "Metaphorical height; they aren't on his level of skill or success.",
@@ -193,6 +214,7 @@ export const addict: Song = {
     },
     {
       "original": "नाचे आगे मेरे खटक कली",
+      "romanized": "Naache aage mere khataka kalee",
       "speaker": "Encore ABJ",
       "translation": "Dancing before me like Kathakali",
       "explanation": "A play on 'Kathakali' (classical dance) and 'Khatak' (irritation/clash). They are putting on a show.",
@@ -206,6 +228,7 @@ export const addict: Song = {
     },
     {
       "original": "तेरी भटक बनी",
+      "romanized": "Teree bhataka banee",
       "speaker": "Encore ABJ",
       "translation": "Your wandering became...",
       "explanation": "Implying the opponent's aimlessness or panic.",
@@ -213,6 +236,7 @@ export const addict: Song = {
     },
     {
       "original": "Head bop करें लोग, मसकली",
+      "romanized": "Head bop karen loga, masakalee",
       "speaker": "Encore ABJ",
       "translation": "People are head-bopping like Masakali",
       "explanation": "Reference to the song 'Masakali'; even his aggressive tracks make people vibe smoothly.",
@@ -220,6 +244,7 @@ export const addict: Song = {
     },
     {
       "original": "मेरे आगे पीछे जिसने भड़क करी",
+      "romanized": "Mere aage peechhe jisane bhaड़ka karee",
       "speaker": "Encore ABJ",
       "translation": "Whoever acted up in front or behind me",
       "explanation": "Warning anyone who tries to instigate a conflict.",
@@ -227,6 +252,7 @@ export const addict: Song = {
     },
     {
       "original": "उसके पड़े चांटे सीधे सड़क पर ही",
+      "romanized": "Usake paड़e chaante seedhe saड़ka para hee",
       "speaker": "Encore ABJ",
       "translation": "They got slapped right there on the street",
       "explanation": "Maintaining his 'Delhi street' persona—real consequences for fake talk.",
@@ -234,6 +260,7 @@ export const addict: Song = {
     },
     {
       "original": "उसकी बन्दी मेरे आगे चटक रही",
+      "romanized": "Usakee bandee mere aage chataka rahee",
       "speaker": "Encore ABJ",
       "translation": "His girl is acting extra/flirting in front of me",
       "explanation": "Classic rap trope of taking/attracting an opponent's partner.",
@@ -241,6 +268,7 @@ export const addict: Song = {
     },
     {
       "original": "मैं नशा और वो मेरी लत पर ही",
+      "romanized": "Main nashaa aura vo meree lata para hee",
       "speaker": "Encore ABJ",
       "translation": "I am the drug and she's addicted to me",
       "explanation": "Wordplay on the theme of 'Addict'; he is the substance people crave.",
@@ -248,6 +276,7 @@ export const addict: Song = {
     },
     {
       "original": "दिल की धड़कन अब नहीं धड़क रही",
+      "romanized": "Dila kee dharakana aba naheen dharaka rahee",
       "speaker": "Encore ABJ",
       "translation": "The heartbeat isn't beating anymore",
       "explanation": "Could imply being cold-hearted or the adrenaline of the lifestyle.",
@@ -255,6 +284,7 @@ export const addict: Song = {
     },
     {
       "original": "लगे बम, रहेगी वो पटककर ही",
+      "romanized": "Lage bama, rahegee vo patakakara hee",
       "speaker": "Encore ABJ",
       "translation": "She looks like a 'bomb' (stunning), she'll leave you floored",
       "explanation": "Using 'bomb' as slang for attractive and 'patak' for the impact she has.",
@@ -262,6 +292,7 @@ export const addict: Song = {
     },
     {
       "original": "तू",
+      "romanized": "Too",
       "speaker": "Chorus",
       "translation": "You",
       "explanation": "Address to the object of addiction (music/the mic).",
@@ -269,6 +300,7 @@ export const addict: Song = {
     },
     {
       "original": "नशा है तू",
+      "romanized": "Nashaa hai too",
       "speaker": "Chorus",
       "translation": "You are an addiction",
       "explanation": "Reinforcing the central theme.",
@@ -276,6 +308,7 @@ export const addict: Song = {
     },
     {
       "original": "नशा है तू mic",
+      "romanized": "Nashaa hai too mic",
       "speaker": "Chorus",
       "translation": "You are an addiction, Mic",
       "explanation": "Revealing that the true addiction isn't drugs, but the microphone/rap.",
@@ -283,6 +316,7 @@ export const addict: Song = {
     },
     {
       "original": "नकली लौण्डे getting stepped on",
+      "romanized": "Nakalee launde getting stepped on",
       "speaker": "Calm",
       "translation": "Fake boys are getting stepped on",
       "explanation": "Calm enters with dominance, asserting that posers are easily crushed.",
@@ -290,6 +324,7 @@ export const addict: Song = {
     },
     {
       "original": "मौत हूँ दिल्ली, बना red zone",
+      "romanized": "Mauta hoon dillee, banaa red zone",
       "speaker": "Calm",
       "translation": "I am Maut (Death) in Delhi, it's a red zone now",
       "explanation": "Seedhe Maut (Straight Death) makes Delhi a dangerous 'Red Zone' for other rappers.",
@@ -303,6 +338,7 @@ export const addict: Song = {
     },
     {
       "original": "Salty लौण्डे, dead shawties बहुत ही wet",
+      "romanized": "Salty launde, dead shawaties bahuta hee waet",
       "speaker": "Calm",
       "translation": "Salty boys, while dead girls are very 'wet' (attracted)",
       "explanation": "Contrast between jealous men and women who are highly attracted to their success.",
@@ -321,6 +357,7 @@ export const addict: Song = {
     },
     {
       "original": "ये टट्टी rappers getting stepped on",
+      "romanized": "Ye tattee rappers getting stepped on",
       "speaker": "Calm",
       "translation": "These crappy rappers are getting stepped on",
       "explanation": "Explicit dismissal of low-quality competition.",
@@ -328,6 +365,7 @@ export const addict: Song = {
     },
     {
       "original": "Half day you getting sent home",
+      "romanized": "Half day you getting sent home",
       "speaker": "Calm",
       "translation": "You're getting sent home after a half-day",
       "explanation": "Metaphor for opponents being unable to last a full 'shift' or match with SM.",
@@ -342,6 +380,7 @@ export const addict: Song = {
     },
     {
       "original": "इन्हें वक़्त ने बोला देखो best कौन",
+      "romanized": "Inhen vaक़ta ne bolaa dekho best kauna",
       "speaker": "Calm",
       "translation": "Time told them to see who's the best",
       "explanation": "Time has proven SM's superiority in the scene.",
@@ -356,6 +395,7 @@ export const addict: Song = {
     },
     {
       "original": "SM aiming at your neck है चढ़ा सर पे fame तो आजा get your head blown",
+      "romanized": "SM aiming at your neck hai chaढ़aa sara pe fame to aajaa get your head blowan",
       "speaker": "Calm",
       "translation": "SM is aiming at your neck; if fame went to your head, come get it blown off",
       "explanation": "A violent metaphor for humbling arrogant newcomers.",
@@ -375,6 +415,7 @@ export const addict: Song = {
     },
     {
       "original": "IDC if I’m less known",
+      "romanized": "IDC if I’m less known",
       "speaker": "Calm",
       "translation": "I don't care if I'm less known",
       "explanation": "Calm values quality and respect over mainstream popularity.",
@@ -400,6 +441,7 @@ export const addict: Song = {
     },
     {
       "original": "यहाँ खाना नहीं था तब भी kept going",
+      "romanized": "Yahaan khaanaa naheen thaa taba bhee kept going",
       "speaker": "Calm",
       "translation": "Even when there was no food here, I kept going",
       "explanation": "Reference to their early struggle and hunger (literally and figuratively).",
@@ -407,6 +449,7 @@ export const addict: Song = {
     },
     {
       "original": "आज घर से ज़्यादा देखूँ airport",
+      "romanized": "Aaja ghara se ज़yaadaa dekhoon airport",
       "speaker": "Calm",
       "translation": "Now I see the airport more than my home",
       "explanation": "Reflecting on their success and constant touring.",
@@ -414,6 +457,7 @@ export const addict: Song = {
     },
     {
       "original": "ये सोना Rollie बना dress code",
+      "romanized": "Ye sonaa Rollie banaa dress code",
       "speaker": "Calm",
       "translation": "This gold Rolex became the dress code",
       "explanation": "Luxury as a standard result of their hard work.",
@@ -427,6 +471,7 @@ export const addict: Song = {
     },
     {
       "original": "I’m on FL cooking bangers, पूरी रात नहीं पता कैसे करते हैं rest लोग",
+      "romanized": "I’m on FL cooking bangers, pooree raata naheen pataa kaise karate hain rest loga",
       "speaker": "Calm",
       "translation": "I'm on FL Studio cooking hits all night, I don't know how people rest",
       "explanation": "Calm is a producer-rapper; his addiction is working on FL Studio.",
@@ -440,6 +485,7 @@ export const addict: Song = {
     },
     {
       "original": "यहाँ ग़म ही देखा है gotta light it up हा तभी दोनों कवि भरे death note",
+      "romanized": "Yahaan ghama hee dekhaa hai gotta light it up haa tabhee donon kavi bhare death note",
       "speaker": "Calm",
       "translation": "Only seen sorrow here, gotta light it up; that's why both poets fill the Death Note",
       "explanation": "Reference to the anime 'Death Note'. They are writing down the names of people/rappers they want to eliminate.",
@@ -453,6 +499,7 @@ export const addict: Song = {
     },
     {
       "original": "The पागल दोनों from the get go",
+      "romanized": "The paagala donon from the get go",
       "speaker": "Calm",
       "translation": "Both were crazy from the get-go",
       "explanation": "They've had this intense energy since the beginning.",
@@ -467,6 +514,7 @@ export const addict: Song = {
     },
     {
       "original": "ये bitch boys not a threat bro",
+      "romanized": "Ye bitch boys not a threat bro",
       "speaker": "Calm",
       "translation": "These 'bitch boys' are not a threat, bro",
       "explanation": "Dismissing rivals as weak.",
@@ -474,6 +522,7 @@ export const addict: Song = {
     },
     {
       "original": "कुछ कल के लौण्डे got a death wish",
+      "romanized": "Kuchha kala ke launde got a death waish",
       "speaker": "Calm",
       "translation": "Some newcomers have a death wish",
       "explanation": "Telling new rappers that challenging SM is professional suicide.",
@@ -481,6 +530,7 @@ export const addict: Song = {
     },
     {
       "original": "करूँ इच्छा पूरी कहते shenron",
+      "romanized": "Karoon ichchhaa pooree kahate shenron",
       "speaker": "Calm",
       "translation": "I fulfill their wish, they call me Shenron",
       "explanation": "Reference to Dragon Ball's wish-granting dragon. He grants their 'death wish' by destroying them in rap.",
@@ -494,6 +544,7 @@ export const addict: Song = {
     },
     {
       "original": "महंगे शौक हैं जैसे James Bond",
+      "romanized": "Mahange shauka hain jaise James Bond",
       "speaker": "Calm",
       "translation": "Expensive tastes like James Bond",
       "explanation": "A nod to their newfound high-end lifestyle.",
@@ -501,6 +552,7 @@ export const addict: Song = {
     },
     {
       "original": "They don’t ball ये करें bench warm",
+      "romanized": "They don’t ball ye karen bench waarm",
       "speaker": "Calm",
       "translation": "They don't play, they just warm the bench",
       "explanation": "Sports metaphor; SM are the star players, others are just sidelined spectators.",
@@ -508,6 +560,7 @@ export const addict: Song = {
     },
     {
       "original": "पैसा करते लड़के flex पर इनसे पूछो घर का तेरे भरे rent कौन",
+      "romanized": "Paisaa karate laड़ke flex para inase poochho ghara kaa tere bhare rent kauna",
       "speaker": "Calm",
       "translation": "Boys flex money, but ask them who pays their rent?",
       "explanation": "Calling out rappers who fake wealth but are still dependent on parents.",
@@ -522,6 +575,7 @@ export const addict: Song = {
     },
     {
       "original": "Delhi belly got a big bong",
+      "romanized": "Delhi belly got a big bong",
       "speaker": "Calm",
       "translation": "Delhi belly got a big bong",
       "explanation": "Referencing the Delhi lifestyle and drug culture/smoking.",
@@ -529,6 +583,7 @@ export const addict: Song = {
     },
     {
       "original": "Star player रहती Lit form",
+      "romanized": "Star player rahatee Lit form",
       "speaker": "Calm",
       "translation": "Star player, always in 'Lit' form",
       "explanation": "Consistent peak performance in their career.",
@@ -555,6 +610,7 @@ export const addict: Song = {
     },
     {
       "original": "I can’t tell you कहाँ से आती ताक़त",
+      "romanized": "I can’t tell you kahaan se aatee taaक़ta",
       "speaker": "Calm",
       "translation": "I can't tell you where the strength comes from",
       "explanation": "Their drive is almost supernatural or inexplicable.",
@@ -575,6 +631,7 @@ export const addict: Song = {
     },
     {
       "original": "But I’ll tell you how to make a hit song",
+      "romanized": "But I’ll tell you how to make a hit song",
       "speaker": "Calm",
       "translation": "But I'll tell you how to make a hit song",
       "explanation": "Asserting their technical mastery over the craft.",
@@ -582,6 +639,7 @@ export const addict: Song = {
     },
     {
       "original": "91 करे shit sort",
+      "romanized": "91 kare shit sort",
       "speaker": "Calm",
       "translation": "91 sorts things out",
       "explanation": "91 (India's country code) representing their crew and their ability to handle the game.",
@@ -601,6 +659,7 @@ export const addict: Song = {
     },
     {
       "original": "Timeless दोनों Big Boss",
+      "romanized": "Timeless donon Big Boss",
       "speaker": "Calm",
       "translation": "Both are timeless, Big Boss",
       "explanation": "They are the leaders (Big Bosses) and their music won't age.",
@@ -615,6 +674,7 @@ export const addict: Song = {
     },
     {
       "original": "91 getting bigger everyday, एक addict जैसा Stu में",
+      "romanized": "91 getting bigger everyday, eka addict jaisaa Stu men",
       "speaker": "Calm",
       "translation": "91 getting bigger every day, like an addict in the studio",
       "explanation": "Their movement is growing while they stay hooked to the 'Studio'.",
@@ -628,6 +688,7 @@ export const addict: Song = {
     },
     {
       "original": "Still locked",
+      "romanized": "Still locked",
       "speaker": "Calm",
       "translation": "Still locked in",
       "explanation": "Remaining focused and committed to the grind.",
@@ -642,6 +703,7 @@ export const addict: Song = {
     },
     {
       "original": "तू",
+      "romanized": "Too",
       "speaker": "Chorus",
       "translation": "You",
       "explanation": "Repetition of the subject of focus.",
@@ -662,6 +724,7 @@ export const addict: Song = {
     },
     {
       "original": "नशा है तू",
+      "romanized": "Nashaa hai too",
       "speaker": "Chorus",
       "translation": "You are an addiction",
       "explanation": "Final hook.",
@@ -676,6 +739,7 @@ export const addict: Song = {
     },
     {
       "original": "नशा है तू mic",
+      "romanized": "Nashaa hai too mic",
       "speaker": "Chorus",
       "translation": "You are an addiction, Mic",
       "explanation": "Concluding that the microphone is the only drug they need.",

@@ -9,6 +9,7 @@ export const nadaan: Song = {
   "lyrics": [
     {
       "original": "Wo, akele me jo pakde surr, kuhoo",
+      "devanagari": "वो, अकेले में जो पकड़े सुर, कुहू",
       "speaker": "Calm",
       "translation": "She, who catches the melody in solitude, cooing like a bird",
       "explanation": "Calm describes a girl who finds solace in singing or humming to herself when she's alone.",
@@ -27,6 +28,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Wo jo dhoonde hai wo nahi",
+      "devanagari": "वो जो ढूँढे है वो नहीं",
       "speaker": "Calm",
       "translation": "What she's looking for isn't there",
       "explanation": "She is searching for peace, love, or stability in a place or relationship where it doesn't exist.",
@@ -34,6 +36,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Yaha, bataya gaya hai wo cheez, ooohhoo",
+      "devanagari": "यहाँ, बताया गया है वो चीज़, ooohhoo",
       "speaker": "Calm",
       "translation": "Here, that thing has been told/defined",
       "explanation": "Referring to the societal or relationship-based expectations that have been forced upon her.",
@@ -41,6 +44,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Aisi ki uske liye yaha koi jagah",
+      "devanagari": "ऐसी कि उसके लिए यहाँ कोई जगह",
       "speaker": "Calm",
       "translation": "Such that there is no space for her here",
       "explanation": "The environment is so toxic or crowded with others' opinions that her true self has no room to exist.",
@@ -48,6 +52,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Nahi hai par bane wo thos akelapan",
+      "devanagari": "नहीं है पर बने वो ठोस अकेलापन",
       "speaker": "Calm",
       "translation": "It's not there, but it turns into a solid loneliness",
       "explanation": "The lack of belonging crystallizes into a heavy, undeniable sense of isolation.",
@@ -61,6 +66,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Chodo to hai ni koi dost",
+      "devanagari": "छोड़ो तो है नी कोई दोस्त",
       "speaker": "Calm",
       "translation": "Leave it, there are no friends anyway",
       "explanation": "A realization that despite the people around her, she lacks genuine support or companionship.",
@@ -75,6 +81,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Ab tera mann kare tu maare do neat",
+      "devanagari": "अब तेरा मन करे तू मारे दो neat",
       "speaker": "Calm",
       "translation": "Now you feel like downing two neat drinks",
       "explanation": "The urge to use alcohol (neat, without mixers) to numb the pain of loneliness.",
@@ -88,6 +95,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Chote pohochaye khud ko dheet",
+      "devanagari": "छोटे पहुँचाए खुद को ढीठ",
       "speaker": "Calm",
       "translation": "Stubbornly causing self-harm, little one",
       "explanation": "A warning about how being 'dheet' (stubbornly persistent in a bad habit) leads to self-destruction.",
@@ -101,6 +109,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Hoke kahi aisa ni dekha andaaz, ooohoo",
+      "devanagari": "होके कहीं ऐसा नी देखा अंदाज़, ooohoo",
       "speaker": "Calm",
       "translation": "I've never seen such a vibe/style anywhere",
       "explanation": "Calm acknowledges her unique essence despite the darkness she is going through.",
@@ -108,6 +117,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Aur aisi ni suni awaaj, kuhoo",
+      "devanagari": "और ऐसी नी सुनी आवाज़, कुहू",
       "speaker": "Calm",
       "translation": "And I haven't heard a voice like this, kuhoo",
       "explanation": "Continuing the bird metaphor, emphasizing her rarity and purity.",
@@ -115,6 +125,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Dhvani tumhari kukoo",
+      "devanagari": "ध्वनि तुम्हारी कुकू",
       "speaker": "Encore ABJ",
       "translation": "Your sound is like a cuckoo bird",
       "explanation": "Encore likens her voice to the melodic and innocent sound of a bird.",
@@ -128,6 +139,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Cheheko to hai sukoon yu",
+      "devanagari": "चहेको तो है सुकून यूँ",
       "speaker": "Encore ABJ",
       "translation": "When you chirp/speak, there's such peace",
       "explanation": "Her expression brings a sense of tranquility to the listener/observer.",
@@ -141,6 +153,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Ke agar udaasi sach hai (Oh man!)",
+      "devanagari": "के अगर उदासी सच है (Oh man!)",
       "speaker": "Encore ABJ",
       "translation": "That if sadness is the truth (Oh man!)",
       "explanation": "Accepting that her current reality is defined by sorrow.",
@@ -148,6 +161,7 @@ export const nadaan: Song = {
     },
     {
       "original": "To mai tumhara jhooth hu",
+      "devanagari": "तो मैं तुम्हारा झूठ हूँ",
       "speaker": "Encore ABJ",
       "translation": "Then I am your lie",
       "explanation": "A poetic sentiment: if truth is pain, he wants to be the beautiful 'lie' that offers her an escape.",
@@ -155,6 +169,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Mujhko basa lo khud me",
+      "devanagari": "मुझको बसा लो खुद में",
       "speaker": "Encore ABJ",
       "translation": "Dwell me within yourself",
       "explanation": "An invitation for her to let him into her life and heart.",
@@ -162,6 +177,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Apni banalo khushboo",
+      "devanagari": "अपनी बनालो खुशबू",
       "speaker": "Encore ABJ",
       "translation": "Make me your fragrance",
       "explanation": "He wants to be as close and essential to her as her own scent.",
@@ -169,6 +185,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Vaise bahane bante",
+      "devanagari": "वैसे बहाने बनते",
       "speaker": "Encore ABJ",
       "translation": "Otherwise excuses are made",
       "explanation": "People often make excuses to avoid facing the reality of her suffering.",
@@ -183,6 +200,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Kahu toh sach to ro du",
+      "devanagari": "कहूँ तोह सच तो रो दूँ",
       "speaker": "Encore ABJ",
       "translation": "If I tell the truth, I might cry",
       "explanation": "The reality of her situation is so heartbreaking that speaking it aloud is overwhelming.",
@@ -190,6 +208,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Hai nai koi tera ek dost yaha pe",
+      "devanagari": "है नई कोई तेरा एक दोस्त यहाँ पे",
       "speaker": "Encore ABJ",
       "translation": "You don't have a single friend here",
       "explanation": "Reinforcing the theme of isolation in her current environment.",
@@ -204,6 +223,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Hai baate banane me 100 log yaha pe",
+      "devanagari": "है बातें बनाने में 100 लोग यहाँ पे",
       "speaker": "Encore ABJ",
       "translation": "There are 100 people here to gossip/make things up",
       "explanation": "People are quick to talk and judge but slow to actually help.",
@@ -218,6 +238,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Har roz ek naya mehmaan",
+      "devanagari": "हर रोज़ एक नया मेहमान",
       "speaker": "Encore ABJ",
       "translation": "Every day there's a new guest",
       "explanation": "Could refer to the fleeting nature of the people in her toxic social circle.",
@@ -225,6 +246,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Tu kho rahi hai apni pehchaan (Pehchaan)",
+      "devanagari": "तू खो रही है अपनी पहचान (पहचान)",
       "speaker": "Encore ABJ",
       "translation": "You are losing your identity",
       "explanation": "The abuse and the facade she maintains are making her forget who she really is.",
@@ -232,6 +254,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Dil me tu rakhe hai raaz",
+      "devanagari": "दिल में तू रखे है राज़",
       "speaker": "Encore ABJ",
       "translation": "You keep secrets in your heart",
       "explanation": "She hides her pain and the truth of her situation from the world.",
@@ -239,6 +262,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Kyun?",
+      "devanagari": "क्यूँ?",
       "speaker": "Encore ABJ",
       "translation": "Why?",
       "explanation": "A rhetorical question questioning her silence.",
@@ -246,6 +270,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Bikhar ne de inhe aaj, tu",
+      "devanagari": "बिखर ने दे इन्हें आज, तू",
       "speaker": "Encore ABJ",
       "translation": "Let them scatter today, you",
       "explanation": "Encouraging her to let out the secrets and the pain instead of bottling them up.",
@@ -253,6 +278,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Vo bas tere jism me kho gaye",
+      "devanagari": "वो बस तेरे जिस्म में खो गए",
       "speaker": "Encore ABJ",
       "translation": "They were just lost in your body",
       "explanation": "People were only interested in her physically, not emotionally or spiritually.",
@@ -260,6 +286,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Kapti ho gaye",
+      "devanagari": "कपटी हो गए",
       "speaker": "Encore ABJ",
       "translation": "They became deceitful",
       "explanation": "Referring to the treachery or 'kapat' of those she trusted.",
@@ -273,6 +300,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Mara tujhko",
+      "devanagari": "मारा तुझको",
       "speaker": "Encore ABJ",
       "translation": "They hit you",
       "explanation": "A direct and jarring reference to physical abuse.",
@@ -280,6 +308,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Tukde ho gaye",
+      "devanagari": "टुकड़े हो गए",
       "speaker": "Encore ABJ",
       "translation": "You fell into pieces",
       "explanation": "The emotional and mental shattering caused by the abuse.",
@@ -294,6 +323,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Hai tu kaid",
+      "devanagari": "है तू कैद",
       "speaker": "Encore ABJ",
       "translation": "You are imprisoned",
       "explanation": "Feeling trapped in a relationship or a cycle of trauma.",
@@ -301,6 +331,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Vo tujhko roke",
+      "devanagari": "वो तुझको रोके",
       "speaker": "Encore ABJ",
       "translation": "They stop you",
       "explanation": "The abuser restricts her freedom and growth.",
@@ -308,6 +339,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Bachke nikle",
+      "devanagari": "बचके निकले",
       "speaker": "Encore ABJ",
       "translation": "They escape/slip away",
       "explanation": "The abusers often get away with their actions or avoid accountability.",
@@ -315,6 +347,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Fooke jotey",
+      "devanagari": "फूके जोटे",
       "speaker": "Encore ABJ",
       "translation": "Smoking joints",
       "explanation": "Using substances as a coping mechanism to escape reality.",
@@ -328,6 +361,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Sparsh me khoje",
+      "devanagari": "स्पर्श में खोजे",
       "speaker": "Encore ABJ",
       "translation": "Searching in a touch",
       "explanation": "Looking for affection or validation through physical contact.",
@@ -335,6 +369,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Doojo se tu pyar ke tohfe",
+      "devanagari": "दूजो से तू प्यार के तोहफ़े",
       "speaker": "Encore ABJ",
       "translation": "Gifts of love from others",
       "explanation": "She's trying to find the love she lacks within herself through other people.",
@@ -342,6 +377,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Chal sambhal ke",
+      "devanagari": "चल संभल के",
       "speaker": "Encore ABJ",
       "translation": "Walk carefully",
       "explanation": "A warning to be cautious in a world full of predators and pain.",
@@ -349,6 +385,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Har kadam pe",
+      "devanagari": "हर कदम पे",
       "speaker": "Encore ABJ",
       "translation": "At every step",
       "explanation": "The struggle is constant.",
@@ -356,6 +393,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Dard prachand hai",
+      "devanagari": "दर्द प्रचंड है",
       "speaker": "Encore ABJ",
       "translation": "The pain is intense/extreme",
       "explanation": "The suffering she is going through is immense.",
@@ -369,6 +407,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Lekin ab badtar nahi",
+      "devanagari": "लेकिन अब बदतर नहीं",
       "speaker": "Encore ABJ",
       "translation": "But it's not worse now",
       "explanation": "Suggesting that perhaps she has reached a point where it can't get any worse, or she's becoming numb.",
@@ -382,6 +421,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Akele me hi saha",
+      "devanagari": "अकेले में ही सहा",
       "speaker": "Encore ABJ",
       "translation": "Suffered all alone",
       "explanation": "She bore the brunt of the trauma without any help.",
@@ -389,6 +429,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Lekin kisi se na kaha",
+      "devanagari": "लेकिन किसी से ना कहा",
       "speaker": "Encore ABJ",
       "translation": "But told no one",
       "explanation": "Highlighting her silence and the burden of internalizing the pain.",
@@ -396,6 +437,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Pitne wali usne kari koi harkat nahi",
+      "devanagari": "पिटने वाली उसने करी कोई हरकत नहीं",
       "speaker": "Encore ABJ",
       "translation": "She didn't do anything to deserve being beaten",
       "explanation": "A powerful line debunking the abuser's justification for violence.",
@@ -403,6 +445,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Par",
+      "devanagari": "पर",
       "speaker": "Encore ABJ",
       "translation": "But",
       "explanation": "A transition to the current state of her psyche.",
@@ -410,6 +453,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Thaki haari hai baithi kaidi si",
+      "devanagari": "थकी हारी है बैठी कैदी सी",
       "speaker": "Encore ABJ",
       "translation": "Exhausted and defeated, she sits like a prisoner",
       "explanation": "The mental fatigue has turned her life into a metaphorical jail cell.",
@@ -424,6 +468,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Androoni baatein paati seh bhi ni",
+      "devanagari": "अंदरूनी बातें पाती सह भी नी",
       "speaker": "Encore ABJ",
       "translation": "She can't even bear her inner thoughts",
       "explanation": "Her internal dialogue is as painful as her external circumstances.",
@@ -431,6 +476,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Nashe aur music loud",
+      "devanagari": "नशे और music loud",
       "speaker": "Encore ABJ",
       "translation": "Intoxicants and loud music",
       "explanation": "Her ways of drowning out the noise of her own mind.",
@@ -438,6 +484,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Ab baithi hai vo sehmi si",
+      "devanagari": "अब बैठी है वो सहमी सी",
       "speaker": "Encore ABJ",
       "translation": "Now she sits there terrified/cowering",
       "explanation": "The trauma has left her in a constant state of fear ('sehmi').",
@@ -445,6 +492,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Nadaan hai par hai kayar nahi",
+      "devanagari": "नादान है पर है कायर नहीं",
       "speaker": "Encore ABJ",
       "translation": "She is innocent/naive but she is no coward",
       "explanation": "The core message: her vulnerability (nadaan) is not a sign of weakness (kayar).",
@@ -458,6 +506,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Akele me jo pakde surr, kuhoo",
+      "devanagari": "अकेले में जो पकड़े सुर, कुहू",
       "speaker": "Calm",
       "translation": "She, who catches the melody in solitude, cooing like a bird",
       "explanation": "Chorus repeat: emphasizing her isolated beauty.",
@@ -465,6 +514,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Wo jo dhoonde hai wo nahi",
+      "devanagari": "वो जो ढूँढे है वो नहीं",
       "speaker": "Calm",
       "translation": "What she's looking for isn't there",
       "explanation": "Chorus repeat: the futility of her search in the current environment.",
@@ -472,6 +522,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Yaha, bataya gaya hai wo cheez, ooohhoo",
+      "devanagari": "यहाँ, बताया गया है वो चीज़, ooohhoo",
       "speaker": "Calm",
       "translation": "Here, that thing has been told/defined",
       "explanation": "Chorus repeat: the weight of societal labels.",
@@ -479,6 +530,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Aisi ki uske liye yaha koi jagah nahi",
+      "devanagari": "ऐसी कि उसके लिए यहाँ कोई जगह नहीं",
       "speaker": "Calm",
       "translation": "Such that there is no space for her here",
       "explanation": "Chorus repeat: the feeling of being an outsider in her own life.",
@@ -486,6 +538,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Hai ni par bane wo thos akelapan",
+      "devanagari": "है नी पर बने वो ठोस अकेलापन",
       "speaker": "Calm",
       "translation": "It's not there, but it turns into a solid loneliness",
       "explanation": "Chorus repeat: the heavy reality of isolation.",
@@ -493,6 +546,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Chodo to hai ni koi dost",
+      "devanagari": "छोड़ो तो है नी कोई दोस्त",
       "speaker": "Calm",
       "translation": "Leave it, there are no friends anyway",
       "explanation": "Chorus repeat: the lack of a support system.",
@@ -500,6 +554,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Ab tera mann kare tu maare do neat",
+      "devanagari": "अब तेरा मन करे तू मारे दो neat",
       "speaker": "Calm",
       "translation": "Now you feel like downing two neat drinks",
       "explanation": "Chorus repeat: the cycle of substance use to cope.",
@@ -507,6 +562,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Chote pohochaye khud ko dheet",
+      "devanagari": "छोटे पहुँचाए खुद को ढीठ",
       "speaker": "Calm",
       "translation": "Stubbornly causing self-harm, little one",
       "explanation": "Chorus repeat: the self-destructive nature of her habits.",
@@ -514,6 +570,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Hoke kahi aisa ni dekha andaaz, ooohoo",
+      "devanagari": "होके कहीं ऐसा नी देखा अंदाज़, ooohoo",
       "speaker": "Calm",
       "translation": "I've never seen such a vibe/style anywhere",
       "explanation": "Chorus repeat: acknowledging her unique spirit.",
@@ -521,6 +578,7 @@ export const nadaan: Song = {
     },
     {
       "original": "Aur aisi ni suni awaaj, kuhoo",
+      "devanagari": "और ऐसी नी सुनी आवाज़, कुहू",
       "speaker": "Calm",
       "translation": "And I haven't heard a voice like this, kuhoo",
       "explanation": "Final refrain: a tribute to her voice and presence.",

@@ -9,6 +9,7 @@ export const abaad: Song = {
   "lyrics": [
     {
       "original": "चले मेरी बातें सौ",
+      "romanized": "Chale meree baaten sau",
       "speaker": "Encore ABJ",
       "translation": "A hundred stories about me go around.",
       "explanation": "People talk about Encore in many different ways, creating various narratives about his life.",
@@ -22,6 +23,7 @@ export const abaad: Song = {
     },
     {
       "original": "Encore ये और Encore वो",
+      "romanized": "Encore ye aura Encore vo",
       "speaker": "Encore ABJ",
       "translation": "Encore is this and Encore is that.",
       "explanation": "Refers to the constant chatter and labels people try to put on him.",
@@ -36,6 +38,7 @@ export const abaad: Song = {
     },
     {
       "original": "Encore को कहना है जो, कहते रहो",
+      "romanized": "Encore ko kahanaa hai jo, kahate raho",
       "speaker": "Encore ABJ",
       "translation": "Whatever you want to say about Encore, keep saying it.",
       "explanation": "A defiant stance against critics; he is indifferent to public opinion.",
@@ -43,6 +46,7 @@ export const abaad: Song = {
     },
     {
       "original": "Encore पे देने को है fucks नहीं दो",
+      "romanized": "Encore pe dene ko hai fucks naheen do",
       "speaker": "Encore ABJ",
       "translation": "Encore doesn't have two fucks to give.",
       "explanation": "A play on the English phrase 'don't give two fucks,' meaning he doesn't care at all.",
@@ -62,6 +66,7 @@ export const abaad: Song = {
     },
     {
       "original": "पर ये धक्के मेरी असलियत",
+      "romanized": "Para ye dhakke meree asaliyata",
       "speaker": "Encore ABJ",
       "translation": "But these struggles are my reality.",
       "explanation": "The 'shoves' or hardships he faces define his true life more than the rumors.",
@@ -75,6 +80,7 @@ export const abaad: Song = {
     },
     {
       "original": "दिखा रहे हैं मुझे कुछ और ही, bro",
+      "romanized": "Dikhaa rahe hain mujhe kuchha aura hee, bro",
       "speaker": "Encore ABJ",
       "translation": "They are showing me something else entirely, bro.",
       "explanation": "The hardships are teaching him life lessons that are different from what he expected.",
@@ -82,6 +88,7 @@ export const abaad: Song = {
     },
     {
       "original": "दबाने वाली नहीं है शख्सियत",
+      "romanized": "Dabaane vaalee naheen hai shakhsiyata",
       "speaker": "Encore ABJ",
       "translation": "My personality isn't one that can be suppressed.",
       "explanation": "He has a strong character that won't bow down to pressure.",
@@ -96,6 +103,7 @@ export const abaad: Song = {
     },
     {
       "original": "गांड में घुसा लो अपने sorry को",
+      "romanized": "Gaanda men ghusaa lo apane sorry ko",
       "speaker": "Encore ABJ",
       "translation": "Shove your 'sorry' up your ass.",
       "explanation": "Encore rejects half-hearted apologies from people who wronged him.",
@@ -109,6 +117,7 @@ export const abaad: Song = {
     },
     {
       "original": "फर्क पड़ता है",
+      "romanized": "Pharka parataa hai",
       "speaker": "Encore ABJ",
       "translation": "It does make a difference.",
       "explanation": "Contrary to 'not giving a fuck' about haters, he admits that real-life struggles matter.",
@@ -116,6 +125,7 @@ export const abaad: Song = {
     },
     {
       "original": "दूजों के लिए कौन लड़ता है",
+      "romanized": "Doojon ke lie kauna larataa hai",
       "speaker": "Encore ABJ",
       "translation": "Who really fights for others?",
       "explanation": "A cynical look at selfishness in the world.",
@@ -123,6 +133,7 @@ export const abaad: Song = {
     },
     {
       "original": "कोई काटता है नस, कोई काटता है दिल",
+      "romanized": "Koee kaatataa hai nasa, koee kaatataa hai dila",
       "speaker": "Encore ABJ",
       "translation": "Some slit their wrists, some break hearts.",
       "explanation": "Comparing physical self-harm to emotional pain caused by others.",
@@ -130,6 +141,7 @@ export const abaad: Song = {
     },
     {
       "original": "कोई काटता है औरों के लिए, परवाह है",
+      "romanized": "Koee kaatataa hai auron ke lie, paravaaha hai",
       "speaker": "Encore ABJ",
       "translation": "Some make sacrifices for others, they care.",
       "explanation": "Shifting to a positive note about people who give up things for the ones they love.",
@@ -137,6 +149,7 @@ export const abaad: Song = {
     },
     {
       "original": "मेरा भेजा, मेरा सर खाए",
+      "romanized": "Meraa bhejaa, meraa sara khaae",
       "speaker": "Encore ABJ",
       "translation": "My mind is eating my head.",
       "explanation": "A classic way to describe overthinking and mental stress.",
@@ -150,6 +163,7 @@ export const abaad: Song = {
     },
     {
       "original": "खाली डर से कौन डरता है?",
+      "romanized": "Khaalee dara se kauna darataa hai?",
       "speaker": "Encore ABJ",
       "translation": "Who is afraid of just 'fear' itself?",
       "explanation": "Questioning the validity of baseless anxieties.",
@@ -157,6 +171,7 @@ export const abaad: Song = {
     },
     {
       "original": "तू प्यार खोने से डरता है",
+      "romanized": "Too pyaara khone se darataa hai",
       "speaker": "Encore ABJ",
       "translation": "You are afraid of losing love.",
       "explanation": "Identifying a common human vulnerability.",
@@ -164,6 +179,7 @@ export const abaad: Song = {
     },
     {
       "original": "क्या तू जान खोने से मरता है?",
+      "romanized": "Kyaa too jaana khone se marataa hai?",
       "speaker": "Encore ABJ",
       "translation": "Do you die from the fear of losing your life?",
       "explanation": "Asking if the fear of death is what's actually killing the person's spirit.",
@@ -171,6 +187,7 @@ export const abaad: Song = {
     },
     {
       "original": "नाम अमर! ए शाबाश",
+      "romanized": "Naama amara! e shaabaasha",
       "speaker": "Encore ABJ",
       "translation": "The name is immortal! Well done.",
       "explanation": "A tribute to his grandfather (Abaad/Amar) or the concept of legacy.",
@@ -184,6 +201,7 @@ export const abaad: Song = {
     },
     {
       "original": "काम ना करे हताश",
+      "romanized": "Kaama naa kare hataasha",
       "speaker": "Encore ABJ",
       "translation": "Despair doesn't get the work done.",
       "explanation": "Being hopeless doesn't help you achieve your goals.",
@@ -198,6 +216,7 @@ export const abaad: Song = {
     },
     {
       "original": "जब भी जान खोता है जांबाज",
+      "romanized": "Jaba bhee jaana khotaa hai jaanbaaja",
       "speaker": "Encore ABJ",
       "translation": "Whenever a brave soul loses their life.",
       "explanation": "Referring to the death of a warrior or a brave person.",
@@ -211,6 +230,7 @@ export const abaad: Song = {
     },
     {
       "original": "लेता है नया जनम, नया लिबास",
+      "romanized": "Letaa hai nayaa janama, nayaa libaasa",
       "speaker": "Encore ABJ",
       "translation": "They take a new birth, a new attire.",
       "explanation": "The idea that a brave person's spirit or legacy continues in a new form.",
@@ -218,6 +238,7 @@ export const abaad: Song = {
     },
     {
       "original": "रहता है सदा आबाद",
+      "romanized": "Rahataa hai sadaa aabaada",
       "speaker": "Encore ABJ",
       "translation": "They remain forever flourishing.",
       "explanation": "Their memory never dies; they stay 'Abaad' (prosperous/populated).",
@@ -238,6 +259,7 @@ export const abaad: Song = {
     },
     {
       "original": "तेरा नाम रहे आबाद",
+      "romanized": "Teraa naama rahe aabaada",
       "speaker": "Encore ABJ",
       "translation": "May your name remain immortal.",
       "explanation": "A prayer or wish for a loved one's legacy to persist.",
@@ -252,6 +274,7 @@ export const abaad: Song = {
     },
     {
       "original": "बरबादी में डरना नहीं",
+      "romanized": "Barabaadee men daranaa naheen",
       "speaker": "Encore ABJ",
       "translation": "Don't be afraid in times of destruction.",
       "explanation": "Encouragement to stay strong even when everything is falling apart.",
@@ -259,6 +282,7 @@ export const abaad: Song = {
     },
     {
       "original": "जांबाजी में आबादी",
+      "romanized": "Jaanbaajee men aabaadee",
       "speaker": "Encore ABJ",
       "translation": "Prosperity lies in bravery.",
       "explanation": "Success and fulfillment come to those who are courageous.",
@@ -266,6 +290,7 @@ export const abaad: Song = {
     },
     {
       "original": "अंधकार ज़िंदगी में, प्रकाश की खोज",
+      "romanized": "Andhakaara zindagee men, prakaasha kee khoja",
       "speaker": "GhAatak",
       "translation": "Searching for light in a dark life.",
       "explanation": "The struggle to find hope and success amidst hardships.",
@@ -273,6 +298,7 @@ export const abaad: Song = {
     },
     {
       "original": "कैद पिंजरे में, परिंदे को आकाश की खोज",
+      "romanized": "Kaida pinjare men, parinde ko aakaasha kee khoja",
       "speaker": "GhAatak",
       "translation": "Caged in a cell, the bird searches for the sky.",
       "explanation": "A metaphor for feeling restricted by circumstances while dreaming of freedom.",
@@ -280,6 +306,7 @@ export const abaad: Song = {
     },
     {
       "original": "खुशियों में माँ, मैंने नाराज़ की बहुत",
+      "romanized": "Khushiyon men maan, mainne naaraaza kee bahuta",
       "speaker": "GhAatak",
       "translation": "In pursuit of happiness, Mom, I upset you a lot.",
       "explanation": "Apologizing to his mother for the trouble caused while chasing his dreams.",
@@ -287,6 +314,7 @@ export const abaad: Song = {
     },
     {
       "original": "कहा लोगों ने, जो दिल ने—ये आवाज की शोर",
+      "romanized": "Kahaa logon ne, jo dila ne—ye aavaaja kee shora",
       "speaker": "GhAatak",
       "translation": "People said what the heart felt—this noise of the voice.",
       "explanation": "The clash between society's opinions and his inner calling.",
@@ -294,6 +322,7 @@ export const abaad: Song = {
     },
     {
       "original": "सीख लिया जीना, छोड़ समझ की",
+      "romanized": "Seekha liyaa jeenaa, chhora samajha kee",
       "speaker": "GhAatak",
       "translation": "I've learned to live, leaving logic behind.",
       "explanation": "Survival often requires going against conventional wisdom.",
@@ -301,6 +330,7 @@ export const abaad: Song = {
     },
     {
       "original": "छोड़ मैंने हालातों के चलते संभाल ली डोर",
+      "romanized": "Chhora mainne haalaaton ke chalate sanbhaala lee dora",
       "speaker": "GhAatak",
       "translation": "Despite the conditions, I took control of the reins.",
       "explanation": "He took responsibility for his life regardless of the situation.",
@@ -308,6 +338,7 @@ export const abaad: Song = {
     },
     {
       "original": "और जब से रहा बस, बावे कमाल ही हो",
+      "romanized": "Aura jaba se rahaa basa, baave kamaala hee ho",
       "speaker": "GhAatak",
       "translation": "And since then, brother, it's just been amazing.",
       "explanation": "Life improved once he took charge.",
@@ -327,6 +358,7 @@ export const abaad: Song = {
     },
     {
       "original": "और जीना मुझे ऐसा, कोई मलाल नहीं हो",
+      "romanized": "Aura jeenaa mujhe aisaa, koee malaala naheen ho",
       "speaker": "GhAatak",
       "translation": "And I want to live such that there's no regret.",
       "explanation": "Living life to the fullest without looking back.",
@@ -341,6 +373,7 @@ export const abaad: Song = {
     },
     {
       "original": "गांड घिसी रात दिन",
+      "romanized": "Gaanda ghisee raata dina",
       "speaker": "GhAatak",
       "translation": "Worked my ass off day and night.",
       "explanation": "Extreme hard work and hustle.",
@@ -348,6 +381,7 @@ export const abaad: Song = {
     },
     {
       "original": "Studio में खाना रखा, याद भी ना fasting",
+      "romanized": "Studio men khaanaa rakhaa, yaada bhee naa fasting",
       "speaker": "GhAatak",
       "translation": "Food was kept in the studio, didn't even remember I was fasting.",
       "explanation": "Being so engrossed in work that he forgot to eat.",
@@ -362,6 +396,7 @@ export const abaad: Song = {
     },
     {
       "original": "चेहरे पड़े लाल, हो बहादुर—बावे Tashkent",
+      "romanized": "Chehare pare laala, ho bahaadura—baave Tashkent",
       "speaker": "GhAatak",
       "translation": "Faces turned red, be brave—Brother, Tashkent.",
       "explanation": "Likely a reference to the Tashkent Agreement or the hardships associated with the location/history.",
@@ -369,6 +404,7 @@ export const abaad: Song = {
     },
     {
       "original": "आंखें ही बता देती हैं राज़ कहे बात बिन",
+      "romanized": "Aankhen hee bataa detee hain raaza kahe baata bina",
       "speaker": "GhAatak",
       "translation": "The eyes tell secrets without a single word.",
       "explanation": "His struggle and pain are visible in his eyes.",
@@ -383,6 +419,7 @@ export const abaad: Song = {
     },
     {
       "original": "लौंडे के लगादी मुँह tape—बावे masking",
+      "romanized": "Launde ke lagaadee munha tape—baave masking",
       "speaker": "GhAatak",
       "translation": "Put tape on the guy's mouth—Brother, masking.",
       "explanation": "A double entendre: silencing someone and 'masking' in audio engineering.",
@@ -396,6 +433,7 @@ export const abaad: Song = {
     },
     {
       "original": "जी लिए थे ख्वाब काफी साँस बिन",
+      "romanized": "Jee lie the khvaaba kaaphee saansa bina",
       "speaker": "GhAatak",
       "translation": "I lived many dreams without even breathing.",
       "explanation": "Chasing dreams so intensely it felt suffocating yet rewarding.",
@@ -403,6 +441,7 @@ export const abaad: Song = {
     },
     {
       "original": "भाई बोले “Ghaatak, 91 तेरा याद दिन”",
+      "romanized": "Bhaaee bole “Ghaatak, 91 teraa yaada dina”",
       "speaker": "GhAatak",
       "translation": "Brother said, 'Ghaatak, remember your day/area 91'.",
       "explanation": "91 likely refers to an area code or a significant personal milestone.",
@@ -417,6 +456,7 @@ export const abaad: Song = {
     },
     {
       "original": "घिस दे तू घिस सके, जितना—मना नहीं आज दिन",
+      "romanized": "Ghisa de too ghisa sake, jitanaa—manaa naheen aaja dina",
       "speaker": "GhAatak",
       "translation": "Grind as much as you can, there's no stopping today.",
       "explanation": "Encouraging maximum effort in the hustle.",
@@ -424,6 +464,7 @@ export const abaad: Song = {
     },
     {
       "original": "आना पे है ख्वाब Delhi भर",
+      "romanized": "Aanaa pe hai khvaaba Delhi bhara",
       "speaker": "GhAatak",
       "translation": "Dreams are coming to fruition across all of Delhi.",
       "explanation": "His ambition is taking over the city.",
@@ -438,6 +479,7 @@ export const abaad: Song = {
     },
     {
       "original": "औकात के भार, औलाद पे",
+      "romanized": "Aukaata ke bhaara, aulaada pe",
       "speaker": "GhAatak",
       "translation": "The burden of status falls on the child.",
       "explanation": "The pressure of family expectations and financial status on the next generation.",
@@ -452,6 +494,7 @@ export const abaad: Song = {
     },
     {
       "original": "आंख जो दिखा दूँ, रहे हार औकात में",
+      "romanized": "Aankha jo dikhaa doon, rahe haara aukaata men",
       "speaker": "GhAatak",
       "translation": "If I show my eyes, your status will stay in its place.",
       "explanation": "A warning to those who look down on him; he knows his power.",
@@ -459,6 +502,7 @@ export const abaad: Song = {
     },
     {
       "original": "कर गए दादा मेरे, भर औकात से",
+      "romanized": "Kara gae daadaa mere, bhara aukaata se",
       "speaker": "GhAatak",
       "translation": "My grandfather did things beyond his means.",
       "explanation": "Tribute to his grandfather who worked incredibly hard despite limited resources.",
@@ -473,6 +517,7 @@ export const abaad: Song = {
     },
     {
       "original": "अब देख रहा उम्मीद, तभी बाप औलाद में",
+      "romanized": "Aba dekha rahaa ummeeda, tabhee baapa aulaada men",
       "speaker": "GhAatak",
       "translation": "Now seeing hope, that's why the father is in the child.",
       "explanation": "The father sees his own hopes and dreams being fulfilled through his son.",
@@ -480,6 +525,7 @@ export const abaad: Song = {
     },
     {
       "original": "और अब ना वो जाने, कि हैं लाख औलाद में",
+      "romanized": "Aura aba naa vo jaane, ki hain laakha aulaada men",
       "speaker": "GhAatak",
       "translation": "And now he doesn't know there are millions within the child.",
       "explanation": "The child contains the potential of millions, or perhaps refers to the 'TBS' (Seedhe Maut fan base).",
@@ -494,6 +540,7 @@ export const abaad: Song = {
     },
     {
       "original": "और photo भी तो कम ही हैं साथ collage में",
+      "romanized": "Aura photo bhee to kama hee hain saatha collage men",
       "speaker": "GhAatak",
       "translation": "And there are very few photos together in the collage.",
       "explanation": "Regret over lost time or lack of memories captured with loved ones.",
@@ -501,6 +548,7 @@ export const abaad: Song = {
     },
     {
       "original": "छक्के दूँ चूड़ा मैं",
+      "romanized": "Chhakke doon chooraa main",
       "speaker": "GhAatak",
       "translation": "I'll knock them for sixes.",
       "explanation": "Cricket metaphor for hitting it out of the park/winning big.",
@@ -515,6 +563,7 @@ export const abaad: Song = {
     },
     {
       "original": "चले हाथ Pollard से",
+      "romanized": "Chale haatha Pollard se",
       "speaker": "GhAatak",
       "translation": "Hands move like Kieron Pollard.",
       "explanation": "Reference to the cricketer known for heavy hitting.",
@@ -522,6 +571,7 @@ export const abaad: Song = {
     },
     {
       "original": "बिक जाते रिश्ते यहाँ लाख दो लाख में",
+      "romanized": "Bika jaate rishte yahaan laakha do laakha men",
       "speaker": "GhAatak",
       "translation": "Relationships are sold here for a lakh or two.",
       "explanation": "Commenting on how people betray others for small amounts of money.",
@@ -529,6 +579,7 @@ export const abaad: Song = {
     },
     {
       "original": "Attempt है ये last अब",
+      "romanized": "Attempt hai ye last aba",
       "speaker": "GhAatak",
       "translation": "This is the final attempt now.",
       "explanation": "A 'do or die' moment in his career.",
@@ -536,6 +587,7 @@ export const abaad: Song = {
     },
     {
       "original": "पैसे मारे BPO में—task उस",
+      "romanized": "Paise maare BPO men—task usa",
       "speaker": "GhAatak",
       "translation": "Made/stole money in a BPO—that was the task.",
       "explanation": "Refers to working a soul-crushing job or a specific hustle from the past.",
@@ -543,6 +595,7 @@ export const abaad: Song = {
     },
     {
       "original": "बावे born warrior, चबा के मैं कांच बस",
+      "romanized": "Baave born waarrior, chabaa ke main kaancha basa",
       "speaker": "GhAatak",
       "translation": "Brother, a born warrior, I just chew glass.",
       "explanation": "A metaphor for being extremely tough and enduring pain.",
@@ -550,6 +603,7 @@ export const abaad: Song = {
     },
     {
       "original": "बता के बना—ना बना—बना के मैं बात बस",
+      "romanized": "Bataa ke banaa—naa banaa—banaa ke main baata basa",
       "speaker": "GhAatak",
       "translation": "Telling stories—or not—just making conversation.",
       "explanation": "Dismissing small talk in favor of real action.",
@@ -557,6 +611,7 @@ export const abaad: Song = {
     },
     {
       "original": "पाँव बैठा जमा के मैं आज",
+      "romanized": "Paanva baithaa jamaa ke main aaja",
       "speaker": "GhAatak",
       "translation": "I've firmly planted my feet today.",
       "explanation": "He is now stable and established in his position.",
@@ -564,6 +619,7 @@ export const abaad: Song = {
     },
     {
       "original": "बस जले डल्ले चाहे जाए",
+      "romanized": "Basa jale dalle chaahe jaae",
       "speaker": "GhAatak",
       "translation": "Let the haters burn if they want.",
       "explanation": "Indifference toward jealous people.",
@@ -577,6 +633,7 @@ export const abaad: Song = {
     },
     {
       "original": "आंख लग",
+      "romanized": "Aankha laga",
       "speaker": "GhAatak",
       "translation": "Eyes closing.",
       "explanation": "Falling asleep or losing consciousness due to exhaustion.",
@@ -584,6 +641,7 @@ export const abaad: Song = {
     },
     {
       "original": "उठूँ ही ना",
+      "romanized": "Uthoon hee naa",
       "speaker": "GhAatak",
       "translation": "May I never wake up.",
       "explanation": "A dark thought reflecting extreme exhaustion or a desire for peace.",
@@ -591,6 +649,7 @@ export const abaad: Song = {
     },
     {
       "original": "काम लगे पास वक़्त",
+      "romanized": "Kaama lage paasa vaqta",
       "speaker": "GhAatak",
       "translation": "Work feels close to the end of time.",
       "explanation": "A sense of urgency in his craft.",
@@ -598,6 +657,7 @@ export const abaad: Song = {
     },
     {
       "original": "नाम रहना—सदा ही आबाद",
+      "romanized": "Naama rahanaa—sadaa hee aabaada",
       "speaker": "GhAatak",
       "translation": "The name must remain forever flourishing.",
       "explanation": "The central theme: achieving immortality through art.",
@@ -605,6 +665,7 @@ export const abaad: Song = {
     },
     {
       "original": "मैं शाश्वत",
+      "romanized": "Main shaashvata",
       "speaker": "GhAatak",
       "translation": "I am eternal.",
       "explanation": "His spirit or his name will never die.",
@@ -618,6 +679,7 @@ export const abaad: Song = {
     },
     {
       "original": "माँ बोले “चीजें नहीं आ रही पसंद देख के price tag”",
+      "romanized": "Maan bole “cheejen naheen aa rahee pasanda dekha ke price tag”",
       "speaker": "GhAatak",
       "translation": "Mom says, 'I don't like things once I see the price tag'.",
       "explanation": "Reflecting on the habit of being budget-conscious due to past poverty.",
@@ -632,6 +694,7 @@ export const abaad: Song = {
     },
     {
       "original": "तो दिल दुखे, बावे—मेरा फेंक दे ice pack",
+      "romanized": "To dila dukhe, baave—meraa phenka de ice pack",
       "speaker": "GhAatak",
       "translation": "It hurts my heart, brother—throw me an ice pack.",
       "explanation": "The pain of not being able to provide luxury to his mother hurts him.",
@@ -639,6 +702,7 @@ export const abaad: Song = {
     },
     {
       "original": "सवेरा गुज़र रहा—ना देख के time में",
+      "romanized": "Saveraa guzara rahaa—naa dekha ke time men",
       "speaker": "GhAatak",
       "translation": "The morning is passing without looking at the clock.",
       "explanation": "Being lost in the grind or a state of flow.",
@@ -646,6 +710,7 @@ export const abaad: Song = {
     },
     {
       "original": "कल सोचता था—कर रहा क्या लेटे के chai में",
+      "romanized": "Kala sochataa thaa—kara rahaa kyaa lete ke chai men",
       "speaker": "GhAatak",
       "translation": "Yesterday I was wondering what I was doing while lying down with tea.",
       "explanation": "Contemplating the direction of his life during idle moments.",
@@ -653,6 +718,7 @@ export const abaad: Song = {
     },
     {
       "original": "खा़तिर नौकरी में फँसा",
+      "romanized": "Khaatira naukaree men phansaa",
       "speaker": "GhAatak",
       "translation": "Trapped in a job for the sake of survival.",
       "explanation": "The common struggle of working a 9-5 just to pay bills.",
@@ -660,6 +726,7 @@ export const abaad: Song = {
     },
     {
       "original": "पापी पेट की भाई मैं",
+      "romanized": "Paapee peta kee bhaaee main",
       "speaker": "GhAatak",
       "translation": "For the sake of this sinful stomach, brother.",
       "explanation": "Doing whatever it takes to feed oneself.",
@@ -673,6 +740,7 @@ export const abaad: Song = {
     },
     {
       "original": "और ख्वाबों को हटाया",
+      "romanized": "Aura khvaabon ko hataayaa",
       "speaker": "GhAatak",
       "translation": "And I pushed my dreams aside.",
       "explanation": "Sacrificing passion for immediate survival.",
@@ -680,6 +748,7 @@ export const abaad: Song = {
     },
     {
       "original": "जो आंखें देखती आई हैं",
+      "romanized": "Jo aankhen dekhatee aaee hain",
       "speaker": "GhAatak",
       "translation": "That these eyes have been seeing for a long time.",
       "explanation": "The long-held visions he had to temporarily ignore.",
@@ -687,6 +756,7 @@ export const abaad: Song = {
     },
     {
       "original": "और टूटे गए ख्वाब",
+      "romanized": "Aura toote gae khvaaba",
       "speaker": "GhAatak",
       "translation": "And dreams kept breaking.",
       "explanation": "The cycle of disappointment in his journey.",
@@ -694,6 +764,7 @@ export const abaad: Song = {
     },
     {
       "original": "शर्म बेच दी भाई जी",
+      "romanized": "Sharma becha dee bhaaee jee",
       "speaker": "GhAatak",
       "translation": "I sold my shame, brother.",
       "explanation": "Doing jobs or things that felt beneath him, just to survive.",
@@ -701,6 +772,7 @@ export const abaad: Song = {
     },
     {
       "original": "उड़ान भरी उम्मीदों ने",
+      "romanized": "Uraana bharee ummeedon ne",
       "speaker": "GhAatak",
       "translation": "Hopes finally took flight.",
       "explanation": "A shift towards success and optimism.",
@@ -708,6 +780,7 @@ export const abaad: Song = {
     },
     {
       "original": "तेज़ missile से",
+      "romanized": "Teza missile se",
       "speaker": "GhAatak",
       "translation": "Faster than a missile.",
       "explanation": "His growth or trajectory is now unstoppable and rapid.",
@@ -715,6 +788,7 @@ export const abaad: Song = {
     },
     {
       "original": "चले मेरी बातें सौ",
+      "romanized": "Chale meree baaten sau",
       "speaker": "Encore ABJ",
       "translation": "A hundred stories about me go around.",
       "explanation": "Repetition of the hook highlighting the public chatter.",
@@ -722,6 +796,7 @@ export const abaad: Song = {
     },
     {
       "original": "Encore ये और Encore वो",
+      "romanized": "Encore ye aura Encore vo",
       "speaker": "Encore ABJ",
       "translation": "Encore this and Encore that.",
       "explanation": "Repetition emphasizing the constant labeling.",
@@ -729,6 +804,7 @@ export const abaad: Song = {
     },
     {
       "original": "Encore को कहना है जो, कहते रहो",
+      "romanized": "Encore ko kahanaa hai jo, kahate raho",
       "speaker": "Encore ABJ",
       "translation": "Whatever you want to say about Encore, keep saying it.",
       "explanation": "Reiterating his indifference to the noise.",
@@ -736,6 +812,7 @@ export const abaad: Song = {
     },
     {
       "original": "Encore पे देने को है fucks नहीं दो",
+      "romanized": "Encore pe dene ko hai fucks naheen do",
       "speaker": "Encore ABJ",
       "translation": "Encore doesn't have two fucks to give.",
       "explanation": "Reinforcing his zero-care attitude towards haters.",
@@ -743,6 +820,7 @@ export const abaad: Song = {
     },
     {
       "original": "पर ये धक्के मेरी असलियत",
+      "romanized": "Para ye dhakke meree asaliyata",
       "speaker": "Encore ABJ",
       "translation": "But these struggles are my reality.",
       "explanation": "Accepting hardship as his truth.",
@@ -750,6 +828,7 @@ export const abaad: Song = {
     },
     {
       "original": "दिखा रहे हैं मुझे कुछ और ही, bro",
+      "romanized": "Dikhaa rahe hain mujhe kuchha aura hee, bro",
       "speaker": "Encore ABJ",
       "translation": "They are showing me something else entirely, bro.",
       "explanation": "Life's hard knocks are revealing a deeper truth.",
@@ -757,6 +836,7 @@ export const abaad: Song = {
     },
     {
       "original": "दबाने वाली नहीं है शख्सियत",
+      "romanized": "Dabaane vaalee naheen hai shakhsiyata",
       "speaker": "Encore ABJ",
       "translation": "My personality isn't one that can be suppressed.",
       "explanation": "Unyielding character.",
@@ -764,6 +844,7 @@ export const abaad: Song = {
     },
     {
       "original": "गांड में घुसा लो अपने sorry को",
+      "romanized": "Gaanda men ghusaa lo apane sorry ko",
       "speaker": "Encore ABJ",
       "translation": "Shove your 'sorry' up your ass.",
       "explanation": "Final dismissal of fake apologies.",
@@ -771,6 +852,7 @@ export const abaad: Song = {
     },
     {
       "original": "बरबादी में डरना नहीं",
+      "romanized": "Barabaadee men daranaa naheen",
       "speaker": "Encore ABJ",
       "translation": "Don't be afraid in times of destruction.",
       "explanation": "The core lesson of the song: resilience.",
@@ -778,6 +860,7 @@ export const abaad: Song = {
     },
     {
       "original": "जांबाजी में आबादी",
+      "romanized": "Jaanbaajee men aabaadee",
       "speaker": "Encore ABJ",
       "translation": "Prosperity lies in bravery.",
       "explanation": "The ultimate payoff for those who dare.",

@@ -9,6 +9,7 @@ export const naamcheen: Song = {
   "lyrics": [
     {
       "original": "Bande namcheen, bande naamcheen, sava sher",
+      "devanagari": "बंदे नामचीन, बंदे नामचीन, सवा शेर",
       "speaker": "Chorus",
       "translation": "Famous guys, famous guys, one and a quarter times a lion.",
       "explanation": "'Naamcheen' means renowned. 'Sava Sher' is a Hindi idiom used to describe someone who is superior to even the best, or exceptionally powerful.",
@@ -27,6 +28,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Garje raat-din jaise Tansen, dhaae keher",
+      "devanagari": "गरजे रात-दिन जैसे Tansen, ढाए कहर",
       "speaker": "Chorus",
       "translation": "Roaring night and day like Tansen, wreaking havoc.",
       "explanation": "A comparison to Tansen, the legendary musician of Akbar's court. They claim their music is so powerful it creates a storm/havoc (keher).",
@@ -45,6 +47,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Mile peheli baar",
+      "devanagari": "मिले पहली बार",
       "speaker": "Chorus",
       "translation": "Met for the first time.",
       "explanation": "Referring to a meeting with a stranger or a fan.",
@@ -52,6 +55,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Par pehle hi jaanti hai vo haan khair",
+      "devanagari": "पर पहले ही जानती है वो हाँ खैर",
       "speaker": "Chorus",
       "translation": "But she already knows (me), anyway.",
       "explanation": "Even though it's their first physical meeting, their fame precedes them, especially with women/fans.",
@@ -59,6 +63,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Bande kranti, bande naamcheen",
+      "devanagari": "बंदे क्रांति, बंदे नामचीन",
       "speaker": "Chorus",
       "translation": "Revolutionary guys, famous guys.",
       "explanation": "Seedhe Maut identifies their movement in Indian Hip Hop as a 'Kranti' (Revolution).",
@@ -72,6 +77,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Mile pehle ni par jaanti naam wo",
+      "devanagari": "मिले पहले नी पर जानती नाम वो",
       "speaker": "Calm",
       "translation": "Never met before, but she knows the name.",
       "explanation": "Reiterating that his reputation is widespread enough that introductions aren't necessary.",
@@ -79,6 +85,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Aoa laundo betho chaukdi maar ke do teen",
+      "devanagari": "आओ लौंडो बैठो चौकड़ी मार के दो तीन",
       "speaker": "Calm",
       "translation": "Come on boys, sit down cross-legged, two or three of you.",
       "explanation": "'Chaukdi maar ke' refers to the traditional Indian way of sitting cross-legged on the floor, suggesting a casual hangout session.",
@@ -92,6 +99,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Jote jala meri baat pe dhyaan do",
+      "devanagari": "जोटे जला मेरी बात पे ध्यान दो",
       "speaker": "Calm",
       "translation": "Light the joints and pay attention to what I'm saying.",
       "explanation": "Inviting his friends to smoke while he drops bars or shares his perspective.",
@@ -105,6 +113,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Aake mili mere show ke baad thi bohot bheed",
+      "devanagari": "आके मिली मेरे show के बाद थी बहोत भीड़",
       "speaker": "Calm",
       "translation": "She came to meet me after the show, it was very crowded.",
       "explanation": "Describing the typical post-performance chaos and fan interactions.",
@@ -112,6 +121,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Mile pehle par me jaanta naam nahi",
+      "devanagari": "मिले पहले पर मैं जानता नाम नहीं",
       "speaker": "Calm",
       "translation": "We've met before, but I don't know her name.",
       "explanation": "A play on the 'fame' dynamic—she knows him, but he meets so many people he can't recall her.",
@@ -119,6 +129,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Usse lage usse bohot pata par oh please",
+      "devanagari": "उसे लगे उसे बहोत पता पर oh please",
       "speaker": "Calm",
       "translation": "She thinks she knows a lot (about me), but oh please.",
       "explanation": "Addressing people who think they know the artist's personal life just by following their public persona.",
@@ -126,6 +137,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Mujhe jaanti ni jaanti Calm ko bas",
+      "devanagari": "मुझे जानती नी जानती Calm को बस",
       "speaker": "Calm",
       "translation": "She doesn't know 'me', she only knows 'Calm'.",
       "explanation": "A deep line about the dissociation between the stage persona (Calm) and the actual human being (Siddhant).",
@@ -133,6 +145,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Me kyu karu vibe ka bandobast",
+      "devanagari": "मैं क्यूँ करू vibe का बंदोबस्त",
       "speaker": "Calm",
       "translation": "Why should I arrange the 'vibe'?",
       "explanation": "He's saying he's not there to entertain or provide a mood for others; his presence is the vibe itself.",
@@ -140,6 +153,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Hamesha dost pee rahe jack hi (JD)",
+      "devanagari": "हमेशा दोस्त पी रहे jack ही (JD)",
       "speaker": "Calm",
       "translation": "My friends are always drinking Jack (Daniel's).",
       "explanation": "Indicating their upgraded lifestyle; they've moved from local brands to premium whiskey.",
@@ -153,6 +167,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Hamesha do T rahe bag me",
+      "devanagari": "हमेशा दो T रहे bag में",
       "speaker": "Calm",
       "translation": "Always keep two T's in the bag.",
       "explanation": "Refers to keeping extra T-shirts for shows/touring or could be a slang reference to Tolas (weight measure for hash/weed).",
@@ -160,6 +175,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Kya usse pasand mera band ya drip ya hype",
+      "devanagari": "क्या उसे पसंद मेरा band या drip या hype",
       "speaker": "Calm",
       "translation": "Does she like my crew, or my drip, or the hype?",
       "explanation": "Questioning the motives of people around him—are they there for the music, the fashion, or the fame?",
@@ -173,6 +189,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Ya ya dil Ya wo 6 zero bank me",
+      "devanagari": "या या दिल या वो 6 zero bank में",
       "speaker": "Calm",
       "translation": "Or my heart, or those six zeros in the bank?",
       "explanation": "Asking if she likes him for who he is or for the millions (six zeros) he's earning now.",
@@ -187,6 +204,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Tab alag hi scene the cash k",
+      "devanagari": "तब अलग ही scene थे cash के",
       "speaker": "Calm",
       "translation": "Back then, the cash situation was totally different.",
       "explanation": "Reflecting on their humble beginnings when they had no money.",
@@ -194,6 +212,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Chaar saal Rohini se Kaha se kaha",
+      "devanagari": "चार साल Rohini से कहाँ से कहाँ",
       "speaker": "Calm",
       "translation": "Four years from Rohini, look how far we've come.",
       "explanation": "Rohini is the neighborhood in Delhi where they started. He's charting their growth over 4 years.",
@@ -207,6 +226,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Aage karu \"Pch Oye roach khatam ho gaye Siddhant\"",
+      "devanagari": "आगे करू \"Pch ओए roach ख़त्म हो गए Siddhant\"",
       "speaker": "Calm",
       "translation": "I say \"Pch, hey Siddhant, the roaches are finished.\"",
       "explanation": "A meta-moment where he talks to himself/his real persona. A 'roach' is a filter for a joint.",
@@ -220,6 +240,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Firr Roach bana boarding pass ka",
+      "devanagari": "फिर Roach बना boarding pass का",
       "speaker": "Calm",
       "translation": "Then I made a roach out of a boarding pass.",
       "explanation": "A classic 'touring rapper' move—using a flight boarding pass to make a filter, showing they are constantly traveling for shows.",
@@ -234,6 +255,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Maa ko chahiye the pachaas mene bheja dedh",
+      "devanagari": "माँ को चाहिए थे पचास मैंने भेजा डेढ़",
       "speaker": "Calm",
       "translation": "Mom wanted fifty, I sent a hundred and fifty.",
       "explanation": "Showing his financial success and how he takes care of his family by giving more than requested.",
@@ -248,6 +270,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Yaha lete khudke papero me karu me bake",
+      "devanagari": "यहाँ लेते खुदके papero में करू मैं bake",
       "speaker": "Calm",
       "translation": "People here buy their own, I bake in my own papers.",
       "explanation": "Wordplay on smoking ('bake') and having his own brand/resources.",
@@ -255,6 +278,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Khush tha to khaali karu poori ye jeb",
+      "devanagari": "खुश था तो खाली करू पूरी ये जेब",
       "speaker": "Calm",
       "translation": "I was happy, so I emptied my whole pocket.",
       "explanation": "Spending freely on friends and family because he finally has the means.",
@@ -262,6 +286,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Aur party kari saare saathi bhund hoke gaye",
+      "devanagari": "और पार्टी करी सारे साथी भुंड होके गए",
       "speaker": "Calm",
       "translation": "And we partied, and all my friends left completely wasted.",
       "explanation": "'Bhund' is Delhi slang for being extremely intoxicated.",
@@ -275,6 +300,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Hai roz hi ka padosi mere Tang hoke soye",
+      "devanagari": "है रोज़ ही का पड़ोसी मेरे तंग होके सोए",
       "speaker": "Calm",
       "translation": "It's a daily thing, my neighbors go to sleep annoyed.",
       "explanation": "Reference to loud music and late-night studio sessions/parties.",
@@ -282,6 +308,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Khoye dost lekin mene kabhi mauke ni khoye",
+      "devanagari": "खोए दोस्त लेकिन मैंने कभी मौके नी खोए",
       "speaker": "Calm",
       "translation": "I lost some friends, but I never lost an opportunity.",
       "explanation": "Acknowledging the personal sacrifices made for professional success.",
@@ -289,6 +316,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Kilsegi kaisi ni kari jo kranti",
+      "devanagari": "किलसेगी कैसी नी करी जो क्रांति",
       "speaker": "Calm",
       "translation": "Why won't they be jealous of the revolution we made?",
       "explanation": "'Kilsegi' is slang for feeling jealous or burnt. He's acknowledging the hate from peers.",
@@ -302,6 +330,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Jinse mile khaali laabh aise paudhe hi boye",
+      "devanagari": "जिनसे मिले खाली लाभ ऐसे पौधे ही बोए",
       "speaker": "Calm",
       "translation": "I only planted seeds that would yield benefit.",
       "explanation": "A metaphor for being strategic about his associations and hard work.",
@@ -309,6 +338,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Bande namcheen, bande naamcheen, sava sher",
+      "devanagari": "बंदे नामचीन, बंदे नामचीन, सवा शेर",
       "speaker": "Chorus",
       "translation": "Famous guys, famous guys, one and a quarter times a lion.",
       "explanation": "Chorus repeat.",
@@ -316,6 +346,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Garje raat din jaise Tansen, dhaae keher",
+      "devanagari": "गरजे रात दिन जैसे Tansen, ढाए कहर",
       "speaker": "Chorus",
       "translation": "Roaring night and day like Tansen, wreaking havoc.",
       "explanation": "Chorus repeat.",
@@ -323,6 +354,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Mile peheli baar",
+      "devanagari": "मिले पहली बार",
       "speaker": "Chorus",
       "translation": "Met for the first time.",
       "explanation": "Chorus repeat.",
@@ -330,6 +362,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Par pehle hi jaanti hai vo haan khair",
+      "devanagari": "पर पहले ही जानती है वो हाँ खैर",
       "speaker": "Chorus",
       "translation": "But she already knows (me), anyway.",
       "explanation": "Chorus repeat.",
@@ -337,6 +370,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Bande kranti, bande naamcheen",
+      "devanagari": "बंदे क्रांति, बंदे नामचीन",
       "speaker": "Chorus",
       "translation": "Revolutionary guys, famous guys.",
       "explanation": "Chorus repeat.",
@@ -344,6 +378,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Hue 4 saal hai ginke",
+      "devanagari": "हुए 4 साल है गिनके",
       "speaker": "Encore ABJ",
       "translation": "It's been 4 years, counting them out.",
       "explanation": "Encore marks the time elapsed since their professional journey began.",
@@ -351,6 +386,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Nahi pata reheta konsa din hai",
+      "devanagari": "नहीं पता रहता कौनसा दिन है",
       "speaker": "Encore ABJ",
       "translation": "I don't even know what day it is.",
       "explanation": "The busy lifestyle of a touring artist makes all days blur together.",
@@ -358,6 +394,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Hai Har din jaise weekend hum bana rahe gaane ya fir maarte chill hai",
+      "devanagari": "है हर दिन जैसे weekend हम बना रहे गाने या फिर मारते chill है",
       "speaker": "Encore ABJ",
       "translation": "Every day is like a weekend, we're either making songs or just chilling.",
       "explanation": "Living the artist's dream where work (music) and leisure are indistinguishable.",
@@ -365,6 +402,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Gaane bhare bill to ni khata guilt hai",
+      "devanagari": "गाने भरे bill तो नी खाता guilt है",
       "speaker": "Encore ABJ",
       "translation": "The songs pay the bills, so I don't feel any guilt.",
       "explanation": "He doesn't feel guilty about his lifestyle because he earned it through his craft.",
@@ -372,6 +410,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Hu mai bhot ill, ha ye mujhko ilm hai",
+      "devanagari": "हूँ मैं बहोत ill, हाँ ये मुझको इल्म है",
       "speaker": "Encore ABJ",
       "translation": "I am very 'ill' (skilled), and I have the 'ilm' (knowledge) of it.",
       "explanation": "Wordplay between the English slang 'ill' (great at something) and Urdu 'ilm' (knowledge).",
@@ -396,6 +435,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Hai ye gaand chaatne ki karte acting",
+      "devanagari": "है ये गांड चाटने की करते acting",
       "speaker": "Encore ABJ",
       "translation": "They act like they're kissing ass.",
       "explanation": "Addressing sycophants and fake people in the industry.",
@@ -403,6 +443,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Tera bhai inki banata film hai",
+      "devanagari": "तेरा भाई इनकी बनाता film है",
       "speaker": "Encore ABJ",
       "translation": "Your brother makes a movie out of them.",
       "explanation": "'Making a movie' means exposing them or dealing with them decisively through his lyrics.",
@@ -410,6 +451,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Dono bhai milke banaenge mill tez",
+      "devanagari": "दोनो भाई मिलके बनाएँगे mill तेज़",
       "speaker": "Encore ABJ",
       "translation": "Both brothers will make a million quickly.",
       "explanation": "'Mill' refers to a million (money). The 'brothers' are Calm and Encore.",
@@ -417,6 +459,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Par note rahe jeb me, ni chadhte sar pe",
+      "devanagari": "पर नोट रहे जेब में, नी चढ़ते सर पे",
       "speaker": "Encore ABJ",
       "translation": "But the money stays in the pocket, it doesn't go to the head.",
       "explanation": "Claiming they remain humble despite their financial success.",
@@ -424,6 +467,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Aa kar upkaar aur aake bhidle",
+      "devanagari": "आ कर उपकार और आके भिड़ले",
       "speaker": "Encore ABJ",
       "translation": "Do me a favor and come fight me.",
       "explanation": "A challenge to rival rappers to step up and compete.",
@@ -431,6 +475,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "In Rappero ke chilke nikalke childe",
+      "devanagari": "इन Rappero के छिलके निकालके छिल्दे",
       "speaker": "Encore ABJ",
       "translation": "Peel these rappers and skin them.",
       "explanation": "Encore's signature aggressive lyrical style, threatening to dismantle opponents.",
@@ -438,6 +483,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Kara game over hu mai overkill pe",
+      "devanagari": "करा game over हूँ मैं overkill पे",
       "speaker": "Encore ABJ",
       "translation": "Game over, I'm on an overkill streak.",
       "explanation": "Using gaming terminology to describe his dominance in the rap scene.",
@@ -445,6 +491,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Par Calm bola bass kar to rok di maarpeet",
+      "devanagari": "पर Calm बोला बस कर तो रोक दी मारपीट",
       "speaker": "Encore ABJ",
       "translation": "But Calm said 'that's enough', so I stopped the beating.",
       "explanation": "A humorous take on their brotherhood; Encore is the aggressive one, Calm is the balancer.",
@@ -452,6 +499,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Laundo se ghanta ni likha jara",
+      "devanagari": "लौंडो से घंटा नी लिखा ज़रा",
       "speaker": "Encore ABJ",
       "translation": "These guys can't write worth a damn.",
       "explanation": "Criticizing the lyrical ability of other rappers.",
@@ -466,6 +514,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Fir bole hum hai rapper nahi hum artist",
+      "devanagari": "फिर बोले हम है rapper नहीं हम artist",
       "speaker": "Encore ABJ",
       "translation": "Then they say 'we're not rappers, we're artists'.",
       "explanation": "Mocking rappers who use the 'artist' tag as an excuse for poor technical rap skills.",
@@ -473,6 +522,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Beta tu hai rapper ni to darr mat",
+      "devanagari": "बेटा तू है rapper नी तो डर मत",
       "speaker": "Encore ABJ",
       "translation": "Son, if you're not a rapper, then don't be afraid.",
       "explanation": "Sarcasm: if you don't claim to be a rapper, you're safe from his lyrical attacks.",
@@ -480,6 +530,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Tera bhai microphone pe narbhaksh",
+      "devanagari": "तेरा भाई microphone पे नरभक्ष",
       "speaker": "Encore ABJ",
       "translation": "Your brother is a cannibal on the microphone.",
       "explanation": "Narbhaksh means cannibal. He devours other rappers lyrically.",
@@ -499,6 +550,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Jinke hai khud ke jaate par katt",
+      "devanagari": "जिनके है खुद के जाते पर कट्ट",
       "speaker": "Encore ABJ",
       "translation": "Those whose own wings are clipped.",
       "explanation": "Referring to people who lack talent or freedom.",
@@ -506,6 +558,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Unko hi lagti koel karkash",
+      "devanagari": "उनको ही लगती कोयल कर्कश",
       "speaker": "Encore ABJ",
       "translation": "They are the ones who find a cuckoo's song harsh.",
       "explanation": "A metaphor: Only those with no taste find beautiful music (his rap) annoying.",
@@ -519,6 +572,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Seedhe maut, sabke rahe hai sar katt",
+      "devanagari": "सीधे मौत, सबके रहे है सर कट्ट",
       "speaker": "Encore ABJ",
       "translation": "Seedhe Maut, cutting off everyone's heads.",
       "explanation": "A literal take on their name (Seedhe Maut = Instant Death), meaning they finish the competition.",
@@ -526,6 +580,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Tabhi hai badnaam bhi scene me kaafi",
+      "devanagari": "तभी है बदनाम भी scene में काफी",
       "speaker": "Encore ABJ",
       "translation": "That's why we're quite notorious in the scene too.",
       "explanation": "Acknowledging their reputation for being uncompromising and blunt.",
@@ -533,6 +588,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Lekin kabhi nahi maangi hai ijazat",
+      "devanagari": "लेकिन कभी नहीं माँगी है इजाज़त",
       "speaker": "Encore ABJ",
       "translation": "But we never asked for permission.",
       "explanation": "They did things their own way without seeking approval from industry gatekeepers.",
@@ -540,6 +596,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "To mere ghante se maange maafi",
+      "devanagari": "तो मेरे घंटे से माँगे माफ़ी",
       "speaker": "Encore ABJ",
       "translation": "So I don't give a damn about asking for forgiveness.",
       "explanation": "A defiant stance; they won't apologize for their success or methods.",
@@ -553,6 +610,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Naamcheen",
+      "devanagari": "नामचीन",
       "speaker": "Encore ABJ",
       "translation": "Famous.",
       "explanation": "Refers to the title and the status they've achieved.",
@@ -560,6 +618,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Bande namcheen, bande naamcheen, sava sher",
+      "devanagari": "बंदे नामचीन, बंदे नामचीन, सवा शेर",
       "speaker": "Chorus",
       "translation": "Famous guys, famous guys, one and a quarter times a lion.",
       "explanation": "Chorus repeat.",
@@ -567,6 +626,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Garje raat din jaise tan sen, dhaae keher",
+      "devanagari": "गरजे रात दिन जैसे Tansen, ढाए कहर",
       "speaker": "Chorus",
       "translation": "Roaring night and day like Tansen, wreaking havoc.",
       "explanation": "Chorus repeat.",
@@ -574,6 +634,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Mile peheli baar",
+      "devanagari": "मिले पहली बार",
       "speaker": "Chorus",
       "translation": "Met for the first time.",
       "explanation": "Chorus repeat.",
@@ -581,6 +642,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Par pehle hi jaanti hai vo haan khair",
+      "devanagari": "पर पहले ही जानती है वो हाँ खैर",
       "speaker": "Chorus",
       "translation": "But she already knows (me), anyway.",
       "explanation": "Chorus repeat.",
@@ -588,6 +650,7 @@ export const naamcheen: Song = {
     },
     {
       "original": "Bande kranti, bande naamcheen",
+      "devanagari": "बंदे क्रांति, बंदे नामचीन",
       "speaker": "Chorus",
       "translation": "Revolutionary guys, famous guys.",
       "explanation": "Final chorus line.",

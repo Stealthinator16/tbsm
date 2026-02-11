@@ -9,6 +9,7 @@ export const bas_jhut: Song = {
   "lyrics": [
     {
       "original": "Fuckin up fuckin up;",
+      "romanized": "Fuckin up fuckin up;",
       "speaker": "Hurricane",
       "translation": "Messing up, messing up;",
       "explanation": "Sets the mood of self-sabotage and mental turmoil that permeates the track.",
@@ -22,6 +23,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "लगता है खुद से ही डर क्यूँ है शक काफी देर से हूँ up",
+      "romanized": "Lagataa hai khuda se hee dara kyoon hai shaka kaaphee dera se hoon up",
       "speaker": "Hurricane",
       "translation": "Feels like I'm afraid of my own self, why is there doubt? I've been up for a long time.",
       "explanation": "Describes a state of insomnia and paranoia, where 'up' refers to being awake and feeling high-strung.",
@@ -41,6 +43,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "और शायद रातो में ढूंढ लूंगा सब कौन है मेरे साथ",
+      "romanized": "Aura shaayada raato men dhoondha loongaa saba kauna hai mere saatha",
       "speaker": "Hurricane",
       "translation": "And maybe in the nights, I'll find out who all are truly with me.",
       "explanation": "The artist reflects on how darkness and difficult times reveal who is actually loyal.",
@@ -54,6 +57,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "जब मैं बस कह पाऊं आधी बातें",
+      "romanized": "Jaba main basa kaha paaoon aadhee baaten",
       "speaker": "Hurricane",
       "translation": "When I can only manage to say half of what's on my mind.",
       "explanation": "Refers to the struggle of expressing complex emotions or the fear of being fully vulnerable.",
@@ -61,6 +65,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "ये आँखें बोलती सच",
+      "romanized": "Ye aankhen bolatee sacha",
       "speaker": "Hurricane",
       "translation": "These eyes speak the truth.",
       "explanation": "While words might be lies (Bas Jhut), the artist suggests that eyes cannot hide the reality.",
@@ -68,6 +73,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "क्या बस छुपना ही गलत",
+      "romanized": "Kyaa basa chhupanaa hee galata",
       "speaker": "Hurricane",
       "translation": "Is just hiding (the truth) wrong?",
       "explanation": "A rhetorical question about whether internalizing pain or keeping secrets is inherently bad.",
@@ -75,6 +81,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "क्युकी क्या है सच क्या है सच",
+      "romanized": "Kyukee kyaa hai sacha kyaa hai sacha",
       "speaker": "Hurricane",
       "translation": "Because what is truth? What is truth?",
       "explanation": "Existential questioning of reality in a world where everything feels fabricated.",
@@ -82,6 +89,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "थक गया हूँ क्यूँ है पूछते ये सब",
+      "romanized": "Thaka gayaa hoon kyoon hai poochhate ye saba",
       "speaker": "Hurricane",
       "translation": "I'm tired of them asking all this.",
       "explanation": "Weariness from the constant scrutiny and invasive questions from people.",
@@ -89,6 +97,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "कितनी दूर रहूँ अब",
+      "romanized": "Kitanee doora rahoon aba",
       "speaker": "Hurricane",
       "translation": "How far should I stay now?",
       "explanation": "Contemplating isolation or distancing himself from toxic environments.",
@@ -96,6 +105,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "मैं हूँ या तू है ये एक ही है बात",
+      "romanized": "Main hoon yaa too hai ye eka hee hai baata",
       "speaker": "Hurricane",
       "translation": "Whether it's me or you, it's the same thing.",
       "explanation": "Indicating a shared state of misery or the blurring of identities in a relationship.",
@@ -103,6 +113,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "क्यूँ है इतना काम तुझको साँसे लेले जल्दी से भेजदे मेरी ओर",
+      "romanized": "Kyoon hai itanaa kaama tujhako saanse lele jaldee se bhejade meree ora",
       "speaker": "Hurricane",
       "translation": "Why do you have so much work? Take a breath and send it my way quickly.",
       "explanation": "Asking for a moment of peace or presence from a partner who seems distant or busy.",
@@ -117,6 +128,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "क्युकी बातें ये सिर्फ लगती है",
+      "romanized": "Kyukee baaten ye sirpha lagatee hai",
       "speaker": "Hurricane",
       "translation": "Because these words only seem like...",
       "explanation": "Leading into the hook, suggesting that everything being said is superficial or fake.",
@@ -124,6 +136,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "बस झूट, बस झूट, बस झूट, बस झूट, बस झूट, बस झूट",
+      "romanized": "Basa jhoota, basa jhoota, basa jhoota, basa jhoota, basa jhoota, basa jhoota",
       "speaker": "Hurricane",
       "translation": "Just a lie, just a lie, just a lie...",
       "explanation": "The central hook, emphasizing that the promises and appearances around him are false.",
@@ -137,6 +150,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "बस झूट, बस झूट, बस झूट, बस झूट, बस झूट, बस झूट",
+      "romanized": "Basa jhoota, basa jhoota, basa jhoota, basa jhoota, basa jhoota, basa jhoota",
       "speaker": "Hurricane",
       "translation": "Just a lie, just a lie...",
       "explanation": "Repetition emphasizing the overwhelming sense of deception.",
@@ -144,6 +158,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "बस झूट, बस झूट",
+      "romanized": "Basa jhoota, basa jhoota",
       "speaker": "Hurricane",
       "translation": "Just a lie, just a lie.",
       "explanation": "Concluding the melodic intro/hook.",
@@ -151,6 +166,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "बस झूट बस झूट",
+      "romanized": "Basa jhoota basa jhoota",
       "speaker": "Encore ABJ",
       "translation": "Just a lie, just a lie.",
       "explanation": "Encore takes over the hook with a more aggressive/assertive tone.",
@@ -158,6 +174,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "बोले तूने करा मुझे मज़बूत मज़बूत",
+      "romanized": "Bole toone karaa mujhe maज़boota maज़boota",
       "speaker": "Encore ABJ",
       "translation": "You said you made me strong, so strong.",
       "explanation": "Addressing a partner who claims their toxic behavior helped him grow stronger.",
@@ -171,6 +188,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "पहले कहता था तुझी को मत टूट",
+      "romanized": "Pahale kahataa thaa tujhee ko mata toota",
       "speaker": "Encore ABJ",
       "translation": "Earlier I used to tell you 'don't break down'.",
       "explanation": "Recalling a time when he was the emotional support and anchor for the other person.",
@@ -178,6 +196,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "पहले कहता था तुझी को मत टूट",
+      "romanized": "Pahale kahataa thaa tujhee ko mata toota",
       "speaker": "Encore ABJ",
       "translation": "Earlier I used to tell you 'don't break down'.",
       "explanation": "Repetition highlights the irony of his current state compared to the past.",
@@ -185,6 +204,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "अब मैं कहता हूँ खुदी को मत कूद",
+      "romanized": "Aba main kahataa hoon khudee ko mata kooda",
       "speaker": "Encore ABJ",
       "translation": "Now I tell myself 'don't jump'.",
       "explanation": "A dark metaphor for self-preservation and preventing himself from a complete mental breakdown or suicide.",
@@ -198,6 +218,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "अब मैं कहता हूँ खुदी को मत कूद",
+      "romanized": "Aba main kahataa hoon khudee ko mata kooda",
       "speaker": "Encore ABJ",
       "translation": "Now I tell myself 'don't jump'.",
       "explanation": "Reiterating the internal battle to stay grounded despite the pain.",
@@ -205,6 +226,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "I mean, हूँ मैं मशरूफ मशरूफ",
+      "romanized": "I mean, hoon main masharoopha masharoopha",
       "speaker": "Encore ABJ",
       "translation": "I mean, I am busy, so busy.",
       "explanation": "Using a busy schedule as an excuse to avoid dealing with emotional hurt.",
@@ -218,6 +240,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "बैठा studio में करूँ महसूस महसूस",
+      "romanized": "Baithaa studio men karoon mahasoosa mahasoosa",
       "speaker": "Encore ABJ",
       "translation": "Sitting in the studio, feeling it all.",
       "explanation": "The studio is the space where he processes his raw emotions into his craft.",
@@ -225,6 +248,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "लेकिन यादें करे तेरी मुझे numb थोड़ा भण्ड तैरे दिल मेरा बोलू मत डूब मत डूब",
+      "romanized": "Lekina yaaden kare teree mujhe numb thoड़aa bhanda taire dila meraa boloo mata dooba mata dooba",
       "speaker": "Encore ABJ",
       "translation": "But memories of you make me numb, a bit high; my heart floats in yours, I say don't sink.",
       "explanation": "A complex line describing intoxication and emotional paralysis; warning his heart not to lose itself in her.",
@@ -243,6 +267,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "कूड़े जैसे खो चूका था खत्ते में",
+      "romanized": "Kooड़e jaise kho chookaa thaa khatte men",
       "speaker": "Encore ABJ",
       "translation": "I was lost like trash in a landfill.",
       "explanation": "Expressing a deep sense of worthlessness and abandonment.",
@@ -262,6 +287,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "तेरा दिल थी मेरी मन्ज़िल और मैं खो चूका था रस्ते में",
+      "romanized": "Teraa dila thee meree manज़ila aura main kho chookaa thaa raste men",
       "speaker": "Encore ABJ",
       "translation": "Your heart was my destination, and I had gotten lost on the way.",
       "explanation": "Poetic imagery of a failed journey toward love that ended in confusion.",
@@ -276,6 +302,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "कहते चीज़े है समझ नहीं आती रट्टे से",
+      "romanized": "Kahate cheeज़e hai samajha naheen aatee ratte se",
       "speaker": "Encore ABJ",
       "translation": "They say things aren't understood by rote learning.",
       "explanation": "A metaphor stating that emotional understanding can't be forced or memorized like a school lesson.",
@@ -295,6 +322,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "मैं जप रहा था तुझको पर समझ नहीं आते मत्थे में",
+      "romanized": "Main japa rahaa thaa tujhako para samajha naheen aate matthe men",
       "speaker": "Encore ABJ",
       "translation": "I was chanting your name, but it doesn't get into my head.",
       "explanation": "He was devotedly focused on her, but the relationship remained incomprehensible and illogical.",
@@ -319,6 +347,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "अब यहाँ नशे नहीं होते आधे से",
+      "romanized": "Aba yahaan nashe naheen hote aadhe se",
       "speaker": "Encore ABJ",
       "translation": "Now, getting half-high doesn't work here.",
       "explanation": "He needs extreme forms of distraction because mild ones no longer numb the pain.",
@@ -326,6 +355,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "जो देखे तुझको आधा उसका सर बजादे आधे से",
+      "romanized": "Jo dekhe tujhako aadhaa usakaa sara bajaade aadhe se",
       "speaker": "Encore ABJ",
       "translation": "If someone sees you partially, smash their head with a half-brick.",
       "explanation": "Violent wordplay where 'Aadha' (half) refers to a half-sized brick or bottle, showing extreme possessiveness or frustration.",
@@ -339,6 +369,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "तेरी बातें हमको तोड़े वरना दम कहाँ इस लाठी में",
+      "romanized": "Teree baaten hamako toड़e varanaa dama kahaan isa laathee men",
       "speaker": "Encore ABJ",
       "translation": "Your words break me, otherwise there is no strength in this stick.",
       "explanation": "Stating that emotional abuse (words) is far more damaging than any physical punishment (the stick).",
@@ -352,6 +383,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "वो करदे सीने में skating बैठे वादों के फट्टे पे",
+      "romanized": "Vo karade seene men skating baithe vaadon ke phatte pe",
       "speaker": "Encore ABJ",
       "translation": "They go skating in my chest, sitting on the boards of promises.",
       "explanation": "Metaphor for sharp, sliding pain caused by broken promises (the planks/boards).",
@@ -365,6 +397,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "बस झूट, बस झूट, बस झूट, बस झूट, बस झूट, बस झूट",
+      "romanized": "Basa jhoota, basa jhoota, basa jhoota, basa jhoota, basa jhoota, basa jhoota",
       "speaker": "Encore ABJ",
       "translation": "Just a lie, just a lie...",
       "explanation": "Hook repeat.",
@@ -372,6 +405,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "बस झूट, बस झूट, बस झूट, बस झूट, बस झूट, बस झूट",
+      "romanized": "Basa jhoota, basa jhoota, basa jhoota, basa jhoota, basa jhoota, basa jhoota",
       "speaker": "Encore ABJ",
       "translation": "Just a lie, just a lie...",
       "explanation": "Hook repeat.",
@@ -379,6 +413,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "बस झूट, बस झूट",
+      "romanized": "Basa jhoota, basa jhoota",
       "speaker": "Encore ABJ",
       "translation": "Just a lie, just a lie.",
       "explanation": "Hook ending.",
@@ -386,6 +421,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "बस झूट बस झूट",
+      "romanized": "Basa jhoota basa jhoota",
       "speaker": "Calm",
       "translation": "Just a lie, just a lie.",
       "explanation": "Calm enters with a smoother, melodic flow for his verse.",
@@ -393,6 +429,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "तूने करा मुझे मज़बूत मज़बूत",
+      "romanized": "Toone karaa mujhe maज़boota maज़boota",
       "speaker": "Calm",
       "translation": "You made me strong, so strong.",
       "explanation": "Echoing Encore's sentiment about the hardening effect of pain.",
@@ -400,6 +437,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "मत पूछ मत पूछ",
+      "romanized": "Mata poochha mata poochha",
       "speaker": "Calm",
       "translation": "Don't ask, don't ask.",
       "explanation": "Shutting down conversation to avoid revisiting the trauma.",
@@ -407,6 +445,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "मेरा दर्द हैगा तेरा क्या कसूर कसूर",
+      "romanized": "Meraa darda haigaa teraa kyaa kasoora kasoora",
       "speaker": "Calm",
       "translation": "The pain is mine, what's your fault in it?",
       "explanation": "A sarcastic or resigned take on personal suffering within the relationship.",
@@ -420,6 +459,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "हूँ मैं मशहूर बस तू ही देखे जैसा हूँ मैं",
+      "romanized": "Hoon main mashahoora basa too hee dekhe jaisaa hoon main",
       "speaker": "Calm",
       "translation": "I am famous, but only you see me for who I really am.",
       "explanation": "Highlights the disconnect between his public 'star' persona and his true, vulnerable self known to the partner.",
@@ -433,6 +473,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "वैसे मुझे ढूंढ",
+      "romanized": "Vaise mujhe dhoondha",
       "speaker": "Calm",
       "translation": "Look for me in that way.",
       "explanation": "Asking for an authentic connection beyond the fame.",
@@ -440,6 +481,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "मजबूर मजबूर",
+      "romanized": "Majaboora majaboora",
       "speaker": "Calm",
       "translation": "Helpless, helpless.",
       "explanation": "Despite the fame and power, he feels completely helpless in this situation.",
@@ -447,6 +489,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "हूँ मैं दिखे मेरे आगे खाली तू",
+      "romanized": "Hoon main dikhe mere aage khaalee too",
       "speaker": "Calm",
       "translation": "I am here, but I only see you in front of me.",
       "explanation": "Reflects the tunnel vision and obsession one has for someone even after things go bad.",
@@ -454,6 +497,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "है four in the morning",
+      "romanized": "Hai four in the morning",
       "speaker": "Calm",
       "translation": "It's 4 in the morning.",
       "explanation": "Classic trope of late-night vulnerability and overthinking.",
@@ -461,6 +505,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "हम दोनों थे साथ ही",
+      "romanized": "Hama donon the saatha hee",
       "speaker": "Calm",
       "translation": "We both were together.",
       "explanation": "Recalling a moment of physical closeness that lacked emotional depth.",
@@ -468,6 +513,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "बोलो I'm all ears",
+      "romanized": "Bolo I'm all ears",
       "speaker": "Calm",
       "translation": "Speak, I'm all ears.",
       "explanation": "Willingness to listen, though skeptical of what will be said.",
@@ -481,6 +527,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "नहीं बोलती क्या चाहती",
+      "romanized": "Naheen bolatee kyaa chaahatee",
       "speaker": "Calm",
       "translation": "She doesn't say what she wants.",
       "explanation": "Frustration with the partner's lack of transparency and clear communication.",
@@ -488,6 +535,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "दू झूट को नहीं माफ़ी",
+      "romanized": "Doo jhoota ko naheen maaफ़ee",
       "speaker": "Calm",
       "translation": "I won't forgive the lies.",
       "explanation": "Finality in his stance; the deception has permanently broken the trust.",
@@ -495,6 +543,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "Four in the morning",
+      "romanized": "Four in the morning",
       "speaker": "Calm",
       "translation": "Four in the morning.",
       "explanation": "Repeating the time to emphasize the lonely atmosphere.",
@@ -502,6 +551,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "When I feel I'm falling",
+      "romanized": "When I feel I'm falling",
       "speaker": "Calm",
       "translation": "When I feel I'm falling.",
       "explanation": "Expressing the feeling of losing control or descending into depression.",
@@ -509,6 +559,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "तब होता कोई साथ नहीं",
+      "romanized": "Taba hotaa koee saatha naheen",
       "speaker": "Calm",
       "translation": "Then no one is by my side.",
       "explanation": "The realization that despite being 'famous', he is ultimately alone in his struggles.",
@@ -516,6 +567,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "बस झूट, बस झूट, बस झूट, बस झूट, बस झूट, बस झूट",
+      "romanized": "Basa jhoota, basa jhoota, basa jhoota, basa jhoota, basa jhoota, basa jhoota",
       "speaker": "Calm",
       "translation": "Just a lie, just a lie...",
       "explanation": "Final hook iteration.",
@@ -523,6 +575,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "बस झूट, बस झूट, बस झूट, बस झूट, बस झूट, बस झूट",
+      "romanized": "Basa jhoota, basa jhoota, basa jhoota, basa jhoota, basa jhoota, basa jhoota",
       "speaker": "Calm",
       "translation": "Just a lie, just a lie...",
       "explanation": "Fading out with the theme of the song.",
@@ -530,6 +583,7 @@ export const bas_jhut: Song = {
     },
     {
       "original": "बस झूट, बस झूट",
+      "romanized": "Basa jhoota, basa jhoota",
       "speaker": "Calm",
       "translation": "Just a lie, just a lie.",
       "explanation": "Final fading lines.",

@@ -9,6 +9,7 @@ export const mud: Song = {
   "lyrics": [
     {
       "original": "लौंडे यहाँ के came from the mud",
+      "romanized": "Launde yahaan ke came from the mud",
       "speaker": "Calm",
       "translation": "The boys from here came from the mud.",
       "explanation": "'Mud' (Keechad) is a metaphor for the slums or impoverished beginnings. It signifies the 'started from the bottom' journey of Delhi rappers.",
@@ -33,6 +34,7 @@ export const mud: Song = {
     },
     {
       "original": "आता नहीं है देना ज़्यादा fuck",
+      "romanized": "Aataa naheen hai denaa zyaadaa fuck",
       "speaker": "Calm",
       "translation": "Don't really give much of a fuck anymore.",
       "explanation": "Calm expresses indifference towards critics and external drama, a common theme in SM's 'don't care' attitude.",
@@ -46,6 +48,7 @@ export const mud: Song = {
     },
     {
       "original": "जितना मिले ज़्यादा है पर कम",
+      "romanized": "Jitanaa mile zyaadaa hai para kama",
       "speaker": "Calm",
       "translation": "Whatever we get is a lot, yet it feels like too little.",
       "explanation": "The duality of being grateful for how far they've come while maintaining an insatiable hunger for more success.",
@@ -53,6 +56,7 @@ export const mud: Song = {
     },
     {
       "original": "चाकू गुड्डी पर है for a buck",
+      "romanized": "Chaakoo guddee para hai for a buck",
       "speaker": "Calm",
       "translation": "A knife at the throat for just a dollar.",
       "explanation": "Illustrates the desperation of the streets where people are willing to commit violence for petty amounts of money.",
@@ -71,6 +75,7 @@ export const mud: Song = {
     },
     {
       "original": "मेरे बंदे और ये दिक्कत आते दबे दबे पाँव",
+      "romanized": "Mere bande aura ye dikkata aate dabe dabe paanva",
       "speaker": "OG Lucifer",
       "translation": "My crew and these troubles arrive stealthily.",
       "explanation": "In the hood, both your backup and your problems often show up unannounced and quietly.",
@@ -84,6 +89,7 @@ export const mud: Song = {
     },
     {
       "original": "और फ़िक्र खाती जेबें कटी बसद सिखाए दाँव",
+      "romanized": "Aura fikra khaatee jeben katee basada sikhaae daanva",
       "speaker": "OG Lucifer",
       "translation": "Worry eats us up, pockets are picked, and chaos teaches us the moves.",
       "explanation": "Living in poverty ('jebein kati') and chaos ('basad') forces one to learn survival tactics ('daav').",
@@ -108,6 +114,7 @@ export const mud: Song = {
     },
     {
       "original": "और यहाँ मुँह होता बंद तो बावे साज़िश करती sound",
+      "romanized": "Aura yahaan munha hotaa banda to baave saazisha karatee sound",
       "speaker": "OG Lucifer",
       "translation": "And here, when mouths are shut, conspiracies start making noise.",
       "explanation": "Silence in the streets is often a warning sign that someone is plotting against you.",
@@ -121,6 +128,7 @@ export const mud: Song = {
     },
     {
       "original": "मेरी ज़िंदगी बताती everything is fair in war",
+      "romanized": "Meree zindagee bataatee everything is fair in waar",
       "speaker": "OG Lucifer",
       "translation": "My life tells me that everything is fair in war.",
       "explanation": "The rapper views his daily struggle for survival as a literal war where rules are secondary to survival.",
@@ -128,6 +136,7 @@ export const mud: Song = {
     },
     {
       "original": "लोगों का बिका है नसीब वाह",
+      "romanized": "Logon kaa bikaa hai naseeba vaaha",
       "speaker": "OG Lucifer",
       "translation": "People have sold their destinies, wow.",
       "explanation": "A commentary on how people compromise their integrity and 'fate' for quick money or survival.",
@@ -141,6 +150,7 @@ export const mud: Song = {
     },
     {
       "original": "मिला नहीं कुछ तो नज़दीदा",
+      "romanized": "Milaa naheen kuchha to nazadeedaa",
       "speaker": "OG Lucifer",
       "translation": "If they got nothing, they became 'nazeed-da' (bitter/envious).",
       "explanation": "People who fail to achieve success often become bitter or try to stay close only to exploit others.",
@@ -148,6 +158,7 @@ export const mud: Song = {
     },
     {
       "original": "ये असले छुपाते अतीत वोह",
+      "romanized": "Ye asale chhupaate ateeta voha",
       "speaker": "OG Lucifer",
       "translation": "They hide their weapons and their past.",
       "explanation": "Describing the 'street' life where people keep their criminal history and firearms concealed.",
@@ -161,6 +172,7 @@ export const mud: Song = {
     },
     {
       "original": "औदा ना होता है कनीज़ का",
+      "romanized": "Audaa naa hotaa hai kaneeza kaa",
       "speaker": "OG Lucifer",
       "translation": "A servant has no status or rank.",
       "explanation": "Using 'kaniz' (slave/servant) to say that followers and 'yes-men' never command true respect.",
@@ -174,6 +186,7 @@ export const mud: Song = {
     },
     {
       "original": "कीचड़ से आते वो खाते हैं शर्म",
+      "romanized": "Keechara se aate vo khaate hain sharma",
       "speaker": "OG Lucifer",
       "translation": "Those who come from the mud feel ashamed of it.",
       "explanation": "Criticizing people who try to hide their humble or 'ghetto' origins once they find a little success.",
@@ -187,6 +200,7 @@ export const mud: Song = {
     },
     {
       "original": "जेबों में पड़ी है दिल्ली की फ़ॉर्म",
+      "romanized": "Jebon men paree hai dillee kee forma",
       "speaker": "OG Lucifer",
       "translation": "Delhi's 'form' is always in our pockets.",
       "explanation": "'Form' refers to attitude, peak performance, or 'swag' specific to the streets of Delhi.",
@@ -206,6 +220,7 @@ export const mud: Song = {
     },
     {
       "original": "एक तरफ़ हरा है एक तरफ़ बर्फ़",
+      "romanized": "Eka tarafa haraa hai eka tarafa barfa",
       "speaker": "OG Lucifer",
       "translation": "On one side it's green, on the other it's ice.",
       "explanation": "Likely referring to the drug trade: 'Hara' (weed) and 'Barf' (ice/crystal meth or cocaine).",
@@ -230,6 +245,7 @@ export const mud: Song = {
     },
     {
       "original": "रोटी के पीछे है जान की शर्त",
+      "romanized": "Rotee ke peechhe hai jaana kee sharta",
       "speaker": "OG Lucifer",
       "translation": "For a simple meal, your life is the bet.",
       "explanation": "Highlighting the extreme risks people take in the underworld just to secure basic necessities.",
@@ -237,6 +253,7 @@ export const mud: Song = {
     },
     {
       "original": "बावे पैदा हुए तड़पते कभी दो चेहरे नहीं रखते",
+      "romanized": "Baave paidaa hue tarapate kabhee do chehare naheen rakhate",
       "speaker": "OG Lucifer",
       "translation": "Bro, we were born struggling but we never wear two faces.",
       "explanation": "He emphasizes authenticity; no matter how hard life gets, they remain real and not 'two-faced'.",
@@ -244,6 +261,7 @@ export const mud: Song = {
     },
     {
       "original": "और जो वादे से मुकरते वो भी मर जाते निहत्थे",
+      "romanized": "Aura jo vaade se mukarate vo bhee mara jaate nihatthe",
       "speaker": "OG Lucifer",
       "translation": "And those who break their promises die unarmed/defenseless.",
       "explanation": "The 'street code' dictates that disloyalty leads to a dishonorable end.",
@@ -257,6 +275,7 @@ export const mud: Song = {
     },
     {
       "original": "बावे छोटे छोटे घर पर यहाँ बड़े बड़े सपने",
+      "romanized": "Baave chhote chhote ghara para yahaan bare bare sapane",
       "speaker": "OG Lucifer",
       "translation": "Bro, small houses here but the dreams are massive.",
       "explanation": "A classic hip-hop sentiment of rising above one's physical environment through ambition.",
@@ -264,6 +283,7 @@ export const mud: Song = {
     },
     {
       "original": "और जो बंदे खाते खार उनके दे देंगे हलक में",
+      "romanized": "Aura jo bande khaate khaara unake de denge halaka men",
       "speaker": "OG Lucifer",
       "translation": "And those who harbor envy, we'll shove it down their throats.",
       "explanation": "A violent warning to those who are jealous ('khaate khaar') of their progress.",
@@ -282,6 +302,7 @@ export const mud: Song = {
     },
     {
       "original": "उदासी!",
+      "romanized": "Udaasee!",
       "speaker": "OG Lucifer",
       "translation": "Sadness!",
       "explanation": "A sudden exclamation acknowledging the underlying melancholy of their hard life.",
@@ -289,6 +310,7 @@ export const mud: Song = {
     },
     {
       "original": "खुश रहने के लिए बावे आज भी ले रहा substance",
+      "romanized": "Khusha rahane ke lie baave aaja bhee le rahaa substance",
       "speaker": "OG Lucifer",
       "translation": "To stay happy, bro, I'm still using substances today.",
       "explanation": "A raw admission of using drugs as a coping mechanism for the stress of their reality.",
@@ -302,6 +324,7 @@ export const mud: Song = {
     },
     {
       "original": "और ये सासी पुलिस वकील बावे रहते मेरे touch में",
+      "romanized": "Aura ye saasee pulisa vakeela baave rahate mere touch men",
       "speaker": "OG Lucifer",
       "translation": "And these Sansi, police, and lawyers stay in touch with me.",
       "explanation": "Reference to the Sansi community and the constant involvement with the legal system.",
@@ -315,6 +338,7 @@ export const mud: Song = {
     },
     {
       "original": "और वो smack बेचके घर चलाती बेटा है assistant",
+      "romanized": "Aura vo smack bechake ghara chalaatee betaa hai assistant",
       "speaker": "OG Lucifer",
       "translation": "She runs the house by selling smack, and her son is the assistant.",
       "explanation": "A grim picture of generational drug peddling as a means of survival in the slums.",
@@ -328,6 +352,7 @@ export const mud: Song = {
     },
     {
       "original": "बावे came from the mud डल्ले क्यों उछाले कीचड़",
+      "romanized": "Baave came from the mud dalle kyon uchhaale keechara",
       "speaker": "OG Lucifer",
       "translation": "Bro, we came from the mud; why are these snitches throwing dirt?",
       "explanation": "If you are already from the 'mud', the 'dirt' (insults/accusations) thrown by enemies (dalle) doesn't affect you.",
@@ -341,6 +366,7 @@ export const mud: Song = {
     },
     {
       "original": "लौंडे यहाँ के came from the mud",
+      "romanized": "Launde yahaan ke came from the mud",
       "speaker": "Calm",
       "translation": "The boys from here came from the mud.",
       "explanation": "Chorus repeat: Reinforcing the theme of humble origins.",
@@ -348,6 +374,7 @@ export const mud: Song = {
     },
     {
       "original": "आता नहीं है देना ज़्यादा fuck",
+      "romanized": "Aataa naheen hai denaa zyaadaa fuck",
       "speaker": "Calm",
       "translation": "Don't really give much of a fuck.",
       "explanation": "Chorus repeat: Reinforcing indifference to the industry/haters.",
@@ -355,6 +382,7 @@ export const mud: Song = {
     },
     {
       "original": "जितना मिले ज़्यादा है पर कम",
+      "romanized": "Jitanaa mile zyaadaa hai para kama",
       "speaker": "Calm",
       "translation": "Whatever we get is a lot, yet it's not enough.",
       "explanation": "Chorus repeat: Continuous hunger for success.",
@@ -362,6 +390,7 @@ export const mud: Song = {
     },
     {
       "original": "चाकू गुड्डी पर है for a buck",
+      "romanized": "Chaakoo guddee para hai for a buck",
       "speaker": "Calm",
       "translation": "A knife at the throat for a buck.",
       "explanation": "Chorus repeat: The harsh reality of poverty and violence.",
@@ -369,6 +398,7 @@ export const mud: Song = {
     },
     {
       "original": "मौत करती दरवाज़े में ठक ठक ठक",
+      "romanized": "Mauta karatee daravaaze men thaka thaka thaka",
       "speaker": "Bhaskar",
       "translation": "Death knocks on the door - knock, knock, knock.",
       "explanation": "Death is portrayed as a persistent visitor in the high-stakes life they lead.",
@@ -376,6 +406,7 @@ export const mud: Song = {
     },
     {
       "original": "वो पैसों की वसूली चाहती बावे पे बस प्यार है",
+      "romanized": "Vo paison kee vasoolee chaahatee baave pe basa pyaara hai",
       "speaker": "Bhaskar",
       "translation": "It wants to recover money, but bro only has love to give.",
       "explanation": "Life/Debt-collectors want cash, but the rapper values human loyalty and love more.",
@@ -395,6 +426,7 @@ export const mud: Song = {
     },
     {
       "original": "मेरा उठता न हाथ कभी इशारों में ही मरदे",
+      "romanized": "Meraa uthataa na haatha kabhee ishaaron men hee marade",
       "speaker": "Bhaskar",
       "translation": "I never have to raise a hand; they die by my signals.",
       "explanation": "Boasting about having shooters or associates who take care of enemies on his command.",
@@ -409,6 +441,7 @@ export const mud: Song = {
     },
     {
       "original": "वो चाहती तेरा खज़ाना ना love love",
+      "romanized": "Vo chaahatee teraa khazaanaa naa love love",
       "speaker": "Bhaskar",
       "translation": "She wants your treasure, not love love.",
       "explanation": "A warning about people who are only interested in your wealth and fame, not you.",
@@ -416,6 +449,7 @@ export const mud: Song = {
     },
     {
       "original": "तुझे लूट के दबाना चाहती दब दब दब",
+      "romanized": "Tujhe loota ke dabaanaa chaahatee daba daba daba",
       "speaker": "Bhaskar",
       "translation": "They want to rob you and suppress you - down, down, down.",
       "explanation": "The predatory nature of the industry/streets where people want to finish your career.",
@@ -430,6 +464,7 @@ export const mud: Song = {
     },
     {
       "original": "तू है KBC का सवाल तुझे lock करूँ डल्ली",
+      "romanized": "Too hai KBC kaa savaala tujhe lock karoon dallee",
       "speaker": "Bhaskar",
       "translation": "You're a KBC question, I'll 'lock' you, you snitch.",
       "explanation": "A play on Amitabh Bachchan's famous 'Lock kiya jaye' line from KBC, used here to mean finishing an opponent.",
@@ -448,6 +483,7 @@ export const mud: Song = {
     },
     {
       "original": "उसे पसंद sir name I’m already winning",
+      "romanized": "Use pasanda sir name I’m already wainning",
       "speaker": "Bhaskar",
       "translation": "She likes the surname; I’m already winning.",
       "explanation": "Having a reputable name or family legacy gives him an edge in the game.",
@@ -462,6 +498,7 @@ export const mud: Song = {
     },
     {
       "original": "और हो रही हाथों में खुजली तू क्या online bidding",
+      "romanized": "Aura ho rahee haathon men khujalee too kyaa online bidding",
       "speaker": "Bhaskar",
       "translation": "My hands are itching; what are you doing with online bidding?",
       "explanation": "Itching hands signify a desire to fight or money coming in; he mocks the opponent for being a 'keyboard warrior'.",
@@ -475,6 +512,7 @@ export const mud: Song = {
     },
     {
       "original": "और दे रहा five star service तुझे कष्ट क्या है डल्ली",
+      "romanized": "Aura de rahaa five star service tujhe kashta kyaa hai dallee",
       "speaker": "Bhaskar",
       "translation": "Providing five-star service, what's your problem, snitch?",
       "explanation": "Being high-quality/top-tier while the hater is annoyed by his success.",
@@ -482,6 +520,7 @@ export const mud: Song = {
     },
     {
       "original": "और बावे तेरा mud से जैसे मर्द बोले डल्ली",
+      "romanized": "Aura baave teraa mud se jaise marda bole dallee",
       "speaker": "Bhaskar",
       "translation": "And bro, from the mud, like a man calling out a pimp/snitch.",
       "explanation": "Reiterating his street credentials and calling out fakes.",
@@ -495,6 +534,7 @@ export const mud: Song = {
     },
     {
       "original": "ये दुनिया पूरी matrix है सच क्या है डल्ली",
+      "romanized": "Ye duniyaa pooree matrix hai sacha kyaa hai dallee",
       "speaker": "Bhaskar",
       "translation": "This whole world is a Matrix, what's the truth, snitch?",
       "explanation": "A reference to the movie 'The Matrix,' suggesting that the current system is an illusion or a trap.",
@@ -508,6 +548,7 @@ export const mud: Song = {
     },
     {
       "original": "मेरी आँखें तुझे search कर रही सुबह शाम डल्ली",
+      "romanized": "Meree aankhen tujhe search kara rahee subaha shaama dallee",
       "speaker": "Bhaskar",
       "translation": "My eyes are searching for you morning and evening, snitch.",
       "explanation": "He is on the lookout for his enemies 24/7.",
@@ -515,6 +556,7 @@ export const mud: Song = {
     },
     {
       "original": "मैंने धोखे देखे इतने ना है trust",
+      "romanized": "Mainne dhokhe dekhe itane naa hai trust",
       "speaker": "Bhaskar",
       "translation": "I've seen so many betrayals, there is no trust left.",
       "explanation": "Life in the hood has made him cynical and paranoid due to constant backstabbing.",
@@ -522,6 +564,7 @@ export const mud: Song = {
     },
     {
       "original": "तूने प्यार न देखा देखी है lust",
+      "romanized": "Toone pyaara na dekhaa dekhee hai lust",
       "speaker": "Bhaskar",
       "translation": "You haven't seen love, you've only seen lust.",
       "explanation": "Distinguishing between deep, loyal connections and superficial, temporary desires.",
@@ -535,6 +578,7 @@ export const mud: Song = {
     },
     {
       "original": "लौंडे यहाँ के came from the mud",
+      "romanized": "Launde yahaan ke came from the mud",
       "speaker": "Calm",
       "translation": "The boys from here came from the mud.",
       "explanation": "Chorus repeat.",
@@ -542,6 +586,7 @@ export const mud: Song = {
     },
     {
       "original": "आता नहीं है देना ज़्यादा fuck",
+      "romanized": "Aataa naheen hai denaa zyaadaa fuck",
       "speaker": "Calm",
       "translation": "Don't really give much of a fuck.",
       "explanation": "Chorus repeat.",
@@ -549,6 +594,7 @@ export const mud: Song = {
     },
     {
       "original": "जितना मिले ज़्यादा है पर कम",
+      "romanized": "Jitanaa mile zyaadaa hai para kama",
       "speaker": "Calm",
       "translation": "Whatever we get is a lot, yet it's not enough.",
       "explanation": "Chorus repeat.",
@@ -556,6 +602,7 @@ export const mud: Song = {
     },
     {
       "original": "चाकू गुड्डी पर है for a buck",
+      "romanized": "Chaakoo guddee para hai for a buck",
       "speaker": "Calm",
       "translation": "A knife at the throat for a buck.",
       "explanation": "Chorus repeat.",

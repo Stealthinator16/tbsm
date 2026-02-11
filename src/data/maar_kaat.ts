@@ -10,6 +10,7 @@ export const maar_kaat: Song = {
   "lyrics": [
     {
       "original": "सड़कों पे मार काट",
+      "romanized": "Sarakon pe maara kaata",
       "speaker": "Encore ABJ and Calm",
       "translation": "Carnage on the streets",
       "explanation": "'Maar Kaat' literally means hacking and killing, setting a violent and aggressive tone for the track.",
@@ -23,6 +24,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "चाहिए मुझे तेरी पूरी जायदाद",
+      "romanized": "Chaahie mujhe teree pooree jaayadaada",
       "speaker": "Encore ABJ and Calm",
       "translation": "I want your entire inheritance/property",
       "explanation": "A metaphorical way of saying they are taking over everything the opponent has built in the rap game.",
@@ -35,6 +37,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "खटिया खड़ी करूँ मैं by god",
+      "romanized": "Khatiyaa khaड़ee karoon main by god",
       "speaker": "Encore ABJ and Calm",
       "translation": "I’ll make life miserable for you, I swear to God",
       "explanation": "‘Khatiya khadi karna’ is a common Hindi idiom meaning to put someone in a very difficult or embarrassing spot.",
@@ -48,6 +51,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "लौंडो के हैं दस-दस माई-बाप",
+      "romanized": "Laundo ke hain dasa-dasa maaee-baapa",
       "speaker": "Encore ABJ and Calm",
       "translation": "These boys have ten different fathers/protectors",
       "explanation": "A dig at rappers who rely on multiple mentors or influential figures (industry plants) to sustain their careers.",
@@ -67,6 +71,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "इन्हें करूँ hush (shush)",
+      "romanized": "Inhen karoon hush (shush)",
       "speaker": "Encore ABJ and Calm",
       "translation": "I'll make them hush (shush)",
       "explanation": "Encore and Calm are silencing the noise and the competition.",
@@ -74,6 +79,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "जाए आप",
+      "romanized": "Jaae aapa",
       "speaker": "Encore ABJ and Calm",
       "translation": "Please leave / You may go",
       "explanation": "A sarcastically polite way of dismissing irrelevant rappers from the scene.",
@@ -81,6 +87,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "इससे करूँ shush with a tight cloth",
+      "romanized": "Isase karoon shush waith a tight cloth",
       "speaker": "Encore ABJ and Calm",
       "translation": "I'll silence them with this, using a tight cloth",
       "explanation": "Continuing the violent imagery, implying gagging or smothering someone to keep them quiet.",
@@ -88,6 +95,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "अब नहीं करेगा bite और gun on the mic",
+      "romanized": "Aba naheen karegaa bite aura gun on the mic",
       "speaker": "Encore ABJ and Calm",
       "translation": "Now he won't 'bite' (copy) or use 'gun talk' on the mic",
       "explanation": "'Bite' is hip-hop slang for stealing someone's style or lyrics. SM is calling out fake 'gangsta' personas.",
@@ -107,6 +115,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "Got soul और ये भाई dotSus तेरे गले पे जो चैन करे shine बोहोत",
+      "romanized": "Got soul aura ye bhaaee dotSus tere gale pe jo chaina kare shine bohota",
       "speaker": "Encore ABJ and Calm",
       "translation": "Got soul and this brother dotSus, that chain on your neck shines a lot",
       "explanation": "A shoutout to dotSus (affiliate/producer). The mention of the 'shining chain' often precedes a threat of robbery in drill music.",
@@ -119,6 +128,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "पैसा मना करा क्योंकि चाहिए नहीं कोई mindfuck",
+      "romanized": "Paisaa manaa karaa kyonki chaahie naheen koee mindfuck",
       "speaker": "Encore ABJ and Calm",
       "translation": "Refused the money because I don't want any mental stress",
       "explanation": "Prioritizing peace of mind and artistic integrity over shady deals or dirty money that brings trouble.",
@@ -126,6 +136,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "I want the Tsunami",
+      "romanized": "I want the Tsunami",
       "speaker": "Encore ABJ and Calm",
       "translation": "I want the Tsunami",
       "explanation": "Metaphor for wanting a massive, unstoppable wave of impact in the music industry.",
@@ -133,6 +144,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "खुदा की ज़ुबानी",
+      "romanized": "Khudaa kee ज़ubaanee",
       "speaker": "Encore ABJ and Calm",
       "translation": "In the words of God",
       "explanation": "Suggesting that their success or their words are divinely ordained or pure truth.",
@@ -140,6 +152,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "तोतला कह रहे पर तेरा भाई टूटा नहीं",
+      "romanized": "Totalaa kaha rahe para teraa bhaaee tootaa naheen",
       "speaker": "Encore ABJ and Calm",
       "translation": "They call me a lisper/stutterer, but your brother isn't broken",
       "explanation": "Calm addresses critics who mock his fast, slur-heavy delivery by calling it 'totla' (lisping).",
@@ -153,6 +166,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "था-था-था थप्पड़ पे थूथ तेरी सुझा दी",
+      "romanized": "Thaa-thaa-thaa thappaड़ pe thootha teree sujhaa dee",
       "speaker": "Encore ABJ and Calm",
       "translation": "Tha-tha-tha, I've swollen your face with slaps",
       "explanation": "Uses alliteration with the 'th' sound to mock the lisper insult while asserting physical dominance.",
@@ -165,6 +179,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "सुपारी मुँह-मांगी",
+      "romanized": "Supaaree munha-maangee",
       "speaker": "Encore ABJ and Calm",
       "translation": "A contract killing fee of my choice",
       "explanation": "'Supari' refers to a contract killing. SM claims to be high-priced lyrical assassins.",
@@ -178,6 +193,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "जंगल का jumanji",
+      "romanized": "Jangala kaa jumanji",
       "speaker": "Encore ABJ and Calm",
       "translation": "The Jumanji of the jungle",
       "explanation": "The rap scene is a wild, dangerous game where the rules change constantly, much like the movie Jumanji.",
@@ -192,6 +208,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "आएंगे नहीं बचाने फूफा जी",
+      "romanized": "Aaenge naheen bachaane phoophaa jee",
       "speaker": "Encore ABJ and Calm",
       "translation": "Even your uncle (Fufa ji) won't come to save you",
       "explanation": "In North India, 'Fufa ji' often represents influential relatives. SM says no amount of 'approach' or connections will help.",
@@ -205,6 +222,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "दोनों शेर शुरू से खूँखार है तूफ़ानी जुगाड़ू Business call करे, \"भाई बैठा कहाँ है\"",
+      "romanized": "Donon shera shuroo se khoonkhaara hai tooफ़aanee jugaaड़oo Business call kare, \\\"bhaaee baithaa kahaan hai\\\"",
       "speaker": "Encore ABJ and Calm",
       "translation": "Both lions have been ferocious since the start; stormy and resourceful, making a business call asking, \"Brother, where you at?\"",
       "explanation": "Seedhe Maut describes their hunger and their 'on-call' readiness for both business and confrontation.",
@@ -223,6 +241,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "बुला रही Kota वो क्योंकि बोहोत दिन हो गए फूँका नहीं",
+      "romanized": "Bulaa rahee Kota vo kyonki bohota dina ho gae phoonkaa naheen",
       "speaker": "Encore ABJ and Calm",
       "translation": "Kota is calling because it's been many days since I've smoked",
       "explanation": "Reference to the city of Kota, likely a place where they score or hang out with Lil Bhavi's crew.",
@@ -242,6 +261,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "Beaton को चोदूँ मैं चोदने की बीमारी",
+      "romanized": "Beaton ko chodoon main chodane kee beemaaree",
       "speaker": "Lil Bhavi",
       "translation": "I murder the beats, I have a sickness for it",
       "explanation": "Lil Bhavi uses aggressive slang to describe his ability to completely dominate any instrumental.",
@@ -249,6 +269,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "नशों से है आँखें बंद नहीं",
+      "romanized": "Nashon se hai aankhen banda naheen",
       "speaker": "Lil Bhavi",
       "translation": "My eyes aren't closed despite the intoxication",
       "explanation": "Even when high, he remains alert and aware of his surroundings.",
@@ -263,6 +284,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "बावे मैं हूँ Gorkhali",
+      "romanized": "Baave main hoon Gorkhali",
       "speaker": "Lil Bhavi",
       "translation": "Brother, I am Gorkhali",
       "explanation": "Bhavi claims his Gorkha heritage, known historically for being fierce and brave warriors.",
@@ -280,6 +302,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "इकहत्तर बजे पैरों तले दबे तेरी आवाज़",
+      "romanized": "Ikahattara baje pairon tale dabe teree aavaaज़",
       "speaker": "Lil Bhavi",
       "translation": "At 71 o'clock, your voice is crushed under my feet",
       "explanation": "'71' likely refers to a sector or area code (like 110071) representing his territory.",
@@ -292,6 +315,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "है दिल्ली में है कब्ज़ा",
+      "romanized": "Hai dillee men hai kabज़aa",
       "speaker": "Lil Bhavi",
       "translation": "We have control over Delhi",
       "explanation": "Claiming territorial dominance over the capital city's underground scene.",
@@ -310,6 +334,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "मेरे भाई है सारे शिकारी",
+      "romanized": "Mere bhaaee hai saare shikaaree",
       "speaker": "Lil Bhavi",
       "translation": "All my brothers are hunters",
       "explanation": "Suggesting his crew is dangerous and always looking for 'prey' or opportunities.",
@@ -317,6 +342,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "चुचे दिखा baby अपनी pinnak साड़ी हटा",
+      "romanized": "Chuche dikhaa baby apanee pinnak saaड़ee hataa",
       "speaker": "Lil Bhavi",
       "translation": "Show me your chest baby, remove the saree of your pride/high",
       "explanation": "Explicit street-style lyricism. 'Pinnak' refers to a state of intoxication or stubborn arrogance.",
@@ -330,6 +356,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "देखे जब वो baawe मुझे दिखी ना कोई वजह",
+      "romanized": "Dekhe jaba vo baawae mujhe dikhee naa koee vajaha",
       "speaker": "Lil Bhavi",
       "translation": "When she looks at me, brother, I saw no reason (to stop)",
       "explanation": "Continuing the raw, unfiltered vibe of his verse.",
@@ -344,6 +371,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "Nine one में बावे हम सभी कर रहे मज़ा",
+      "romanized": "Nine one men baave hama sabhee kara rahe maज़aa",
       "speaker": "Lil Bhavi",
       "translation": "In 91, brother, we are all having fun",
       "explanation": "'Nine one' (+91) is the international dialing code for India, representing the country/scene.",
@@ -351,6 +379,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "दल्लो की ये बातें सुनके मुझे लगे मज़ाक",
+      "romanized": "Dallo kee ye baaten sunake mujhe lage maज़aaka",
       "speaker": "Lil Bhavi",
       "translation": "Hearing the talk of these pimps/sell-outs feels like a joke",
       "explanation": "Dismissing critics or untrustworthy people in the industry as irrelevant.",
@@ -364,6 +393,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "Yeah, fuck this shit, तेरी बहन की चूत में- (Uhm, uhm, uhm)",
+      "romanized": "Yeah, fuck this shit, teree bahana kee choota men- (Uhm, uhm, uhm)",
       "speaker": "Lil Bhavi",
       "translation": "Yeah, fuck this shit, in your sister's... (explicit)",
       "explanation": "A very common, aggressive Delhi-style insult used to show total disregard for the opponent.",
@@ -371,6 +401,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "दिल्ली की मैं आशिकी में बहा दूँ लहू",
+      "romanized": "Dillee kee main aashikee men bahaa doon lahoo",
       "speaker": "Lil Bhavi",
       "translation": "In the name of Delhi's love, I'll shed blood",
       "explanation": "He is so loyal to his city that he is willing to resort to violence for it.",
@@ -383,6 +414,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "मैं ना आता बन्दों की बातों में कहाँ ना सुनु",
+      "romanized": "Main naa aataa bandon kee baaton men kahaan naa sunu",
       "speaker": "Lil Bhavi",
       "translation": "I don't get influenced by people's talk, I don't listen",
       "explanation": "Filtering out the noise and 'hearsay' to stay focused on his own path.",
@@ -390,6 +422,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "अगर चेलो को सुनना तो दल्ले खाले तू गू",
+      "romanized": "Agara chelo ko sunanaa to dalle khaale too goo",
       "speaker": "Lil Bhavi",
       "translation": "If you want to listen to disciples/lackeys, then eat shit, you pimp",
       "explanation": "A harsh dismissal of people who follow inferior rappers or 'yes-men'.",
@@ -403,6 +436,7 @@ export const maar_kaat: Song = {
     },
     {
       "original": "तेरी बहन की चूत-",
+      "romanized": "Teree bahana kee choota-",
       "speaker": "Lil Bhavi",
       "translation": "Your sister's... (explicit)",
       "explanation": "The track ends abruptly on a raw insult, maintaining the 'Maar Kaat' energy until the last second.",

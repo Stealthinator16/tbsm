@@ -9,6 +9,7 @@ export const banda_down: Song = {
   "lyrics": [
     {
       "original": "आते ये तूफ़ान तब भी ठहरे नाओ",
+      "romanized": "Aate ye tooफ़aana taba bhee thahare naao",
       "speaker": "Calm and Encore ABJ",
       "translation": "Even when storms arrive, the boat doesn't stop.",
       "explanation": "A metaphor for resilience; despite the chaos or 'storms' in the music industry or life, Seedhe Maut keeps moving forward.",
@@ -27,6 +28,7 @@ export const banda_down: Song = {
     },
     {
       "original": "भाई पे है भरोसा I can't let em down",
+      "romanized": "Bhaaee pe hai bharosaa I can't let em dowan",
       "speaker": "Calm and Encore ABJ",
       "translation": "I trust my brother, I can't let them down.",
       "explanation": "Refers to the unbreakable bond between Calm and Encore; they carry the weight of each other's expectations.",
@@ -41,6 +43,7 @@ export const banda_down: Song = {
     },
     {
       "original": "आया studio I’m feeling better now",
+      "romanized": "Aayaa studio I’m feeling better nowa",
       "speaker": "Calm and Encore ABJ",
       "translation": "I came to the studio, I'm feeling better now.",
       "explanation": "The studio is their sanctuary where they vent and find peace through music.",
@@ -48,6 +51,7 @@ export const banda_down: Song = {
     },
     {
       "original": "कहाँ गयी drink I need another around",
+      "romanized": "Kahaan gayee drink I need another around",
       "speaker": "Calm and Encore ABJ",
       "translation": "Where did the drink go? I need another round.",
       "explanation": "Setting the theme of the song—excessive partying and intoxication.",
@@ -55,6 +59,7 @@ export const banda_down: Song = {
     },
     {
       "original": "(Whoa)",
+      "romanized": "(Whoa)",
       "speaker": "Calm and Encore ABJ",
       "translation": "(Whoa)",
       "explanation": "Ad-lib for transition.",
@@ -62,6 +67,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Another round",
+      "romanized": "Another round",
       "speaker": "Calm and Encore ABJ",
       "translation": "Another round",
       "explanation": "Repetition emphasizing the cycle of drinking.",
@@ -69,6 +75,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Another round",
+      "romanized": "Another round",
       "speaker": "Calm and Encore ABJ",
       "translation": "Another round",
       "explanation": "Continuing the hype for the hook.",
@@ -76,6 +83,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Another round",
+      "romanized": "Another round",
       "speaker": "Calm and Encore ABJ",
       "translation": "Another round",
       "explanation": "Continuing the hype for the hook.",
@@ -83,6 +91,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Another round",
+      "romanized": "Another round",
       "speaker": "Calm and Encore ABJ",
       "translation": "Another round",
       "explanation": "Final repetition of the drink demand.",
@@ -90,6 +99,7 @@ export const banda_down: Song = {
     },
     {
       "original": "ना दिखे कुछ और, सुनु अंधा sounds ( सुनु sounds, सुनु sounds, सुनु sounds, सुनु sounds)",
+      "romanized": "Naa dikhe kuchha aura, sunu andhaa sounds ( sunu sounds, sunu sounds, sunu sounds, sunu sounds)",
       "speaker": "Calm and Encore ABJ",
       "translation": "Can't see anything else, just hearing 'blind' (massive) sounds.",
       "explanation": "A state of sensory overload where the music is so loud/good it's all-consuming.",
@@ -103,6 +113,7 @@ export const banda_down: Song = {
     },
     {
       "original": "हा कोई रोक लो हो रहा है बंदा down",
+      "romanized": "Haa koee roka lo ho rahaa hai bandaa dowan",
       "speaker": "Calm and Encore ABJ",
       "translation": "Yeah, someone stop him, the guy is going down.",
       "explanation": "'Banda Down' refers to someone passing out or getting excessively faded/high.",
@@ -122,6 +133,7 @@ export const banda_down: Song = {
     },
     {
       "original": "I burn the cash like",
+      "romanized": "I burn the cash like",
       "speaker": "Calm and Encore ABJ",
       "translation": "I burn the cash like",
       "explanation": "Flexing their financial freedom and lifestyle.",
@@ -129,6 +141,7 @@ export const banda_down: Song = {
     },
     {
       "original": "नहीं चाहिए शैतान",
+      "romanized": "Naheen chaahie shaitaana",
       "speaker": "Calm and Encore ABJ",
       "translation": "I don't want the devil.",
       "explanation": "Seeking to avoid negativity or 'demons' despite the wild lifestyle.",
@@ -136,6 +149,7 @@ export const banda_down: Song = {
     },
     {
       "original": "बस चाहिए शान्ति",
+      "romanized": "Basa chaahie shaanti",
       "speaker": "Calm and Encore ABJ",
       "translation": "I just want peace.",
       "explanation": "A contrast to the loud lifestyle; a desire for mental stability.",
@@ -143,6 +157,7 @@ export const banda_down: Song = {
     },
     {
       "original": "और खुश रहे परिवार",
+      "romanized": "Aura khusha rahe parivaara",
       "speaker": "Calm and Encore ABJ",
       "translation": "And for my family to stay happy.",
       "explanation": "Highlighting their ultimate motivation: providing for their loved ones.",
@@ -150,6 +165,7 @@ export const banda_down: Song = {
     },
     {
       "original": "They say I sound like",
+      "romanized": "They say I sound like",
       "speaker": "Calm and Encore ABJ",
       "translation": "They say I sound like",
       "explanation": "Addressing comparisons made by critics or fans.",
@@ -157,6 +173,7 @@ export const banda_down: Song = {
     },
     {
       "original": "I'm not the same guy",
+      "romanized": "I'm not the same guy",
       "speaker": "Calm and Encore ABJ",
       "translation": "I'm not the same guy",
       "explanation": "Acknowledging personal growth or a change in persona due to success.",
@@ -164,6 +181,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Well I don't give a fuck",
+      "romanized": "Well I don't give a fuck",
       "speaker": "Calm and Encore ABJ",
       "translation": "Well I don't give a fuck",
       "explanation": "Classic DHH nonchalance toward outside opinions.",
@@ -171,6 +189,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Bawe I knew the price",
+      "romanized": "Bawe I knew the price",
       "speaker": "Calm and Encore ABJ",
       "translation": "Bro, I knew the price.",
       "explanation": "'Bawe' is Delhi slang for bro. It means he knew the sacrifices required for fame.",
@@ -184,6 +203,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Baby I’m too precise",
+      "romanized": "Baby I’m too precise",
       "speaker": "Calm and Encore ABJ",
       "translation": "Baby I’m too precise",
       "explanation": "Boasting about his technical rap skills and accuracy in the game.",
@@ -191,6 +211,7 @@ export const banda_down: Song = {
     },
     {
       "original": "कर लेता हूँ decide",
+      "romanized": "Kara letaa hoon decide",
       "speaker": "Calm and Encore ABJ",
       "translation": "I make the decisions.",
       "explanation": "Asserting dominance and control over his career.",
@@ -198,6 +219,7 @@ export const banda_down: Song = {
     },
     {
       "original": "तो लेके टूटा knife",
+      "romanized": "To leke tootaa knife",
       "speaker": "Calm and Encore ABJ",
       "translation": "So taking a broken knife,",
       "explanation": "Metaphor for making do with whatever they had to fight their way up.",
@@ -207,6 +229,7 @@ export const banda_down: Song = {
     },
     {
       "original": "करू इनको euthanize",
+      "romanized": "Karoo inako euthanize",
       "speaker": "Calm and Encore ABJ",
       "translation": "I euthanize them.",
       "explanation": "A dark metaphor for putting the competition to rest effortlessly.",
@@ -220,6 +243,7 @@ export const banda_down: Song = {
     },
     {
       "original": "ये सारे look alike",
+      "romanized": "Ye saare look alike",
       "speaker": "Calm and Encore ABJ",
       "translation": "They are all look-alikes.",
       "explanation": "Calling out generic rappers who lack originality.",
@@ -227,6 +251,7 @@ export const banda_down: Song = {
     },
     {
       "original": "जाने who the highest",
+      "romanized": "Jaane waho the highest",
       "speaker": "Calm and Encore ABJ",
       "translation": "They know who is the highest.",
       "explanation": "Double entendre: highest in terms of success and intoxication.",
@@ -234,6 +259,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Seedhe maut तेरी ज़िन्दगी की हूँ दवाई",
+      "romanized": "Seedhe maut teree ज़indagee kee hoon davaaee",
       "speaker": "Calm and Encore ABJ",
       "translation": "Seedhe Maut is the medicine for your life.",
       "explanation": "Claiming their music is therapeutic for the listeners.",
@@ -247,6 +273,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Seedhe maut तेरे ज़िन्दगी की हूँ दवाई",
+      "romanized": "Seedhe maut tere ज़indagee kee hoon davaaee",
       "speaker": "Calm and Encore ABJ",
       "translation": "Seedhe Maut is the medicine for your life.",
       "explanation": "Repetition for emphasis on their impact.",
@@ -256,6 +283,7 @@ export const banda_down: Song = {
     },
     {
       "original": "चढ़ते सर पे हैं लाडले if I be too nice",
+      "romanized": "Chaढ़te sara pe hain laadale if I be too nice",
       "speaker": "Calm and Encore ABJ",
       "translation": "They walk all over me if I'm too nice, dear.",
       "explanation": "If they show kindness, people try to take advantage of them.",
@@ -270,6 +298,7 @@ export const banda_down: Song = {
     },
     {
       "original": "रहता चूदा मेरा भेजा कहता ठीक हूँ भाई",
+      "romanized": "Rahataa choodaa meraa bhejaa kahataa theeka hoon bhaaee",
       "speaker": "Calm and Encore ABJ",
       "translation": "My mind stays messed up, but I say 'I'm fine, bro'.",
       "explanation": "Honest take on mental exhaustion while putting on a brave face.",
@@ -289,6 +318,7 @@ export const banda_down: Song = {
     },
     {
       "original": "कैसी गलती है वो अगर के सीखूं नहीं?",
+      "romanized": "Kaisee galatee hai vo agara ke seekhoon naheen?",
       "speaker": "Calm and Encore ABJ",
       "translation": "Is it even a mistake if I don't learn from it?",
       "explanation": "A rhetorical question about the nature of growth and repetition.",
@@ -303,6 +333,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Seedhe maut सुनके होना है सबने मिट्टी (मिट्टी, मिट्टी)",
+      "romanized": "Seedhe maut sunake honaa hai sabane mittee (mittee, mittee)",
       "speaker": "Calm and Encore ABJ",
       "translation": "Everyone turns to dust after hearing Seedhe Maut.",
       "explanation": "Implies their bars are so heavy/lethal that the competition is destroyed.",
@@ -316,6 +347,7 @@ export const banda_down: Song = {
     },
     {
       "original": "खाते खौफ हमसे सारे गम है सिट्टी-पिट्ठी ( पिट्ठी, पिट्ठी)",
+      "romanized": "Khaate khaupha hamase saare gama hai sittee-pitthee ( pitthee, pitthee)",
       "speaker": "Calm and Encore ABJ",
       "translation": "They are all scared of us, they've lost their nerves.",
       "explanation": "'Sitti-pitti gum' is a Hindi idiom for being terrified.",
@@ -334,6 +366,7 @@ export const banda_down: Song = {
     },
     {
       "original": "लेते loss नहीं हम पूरी रात है litty (litty)",
+      "romanized": "Lete loss naheen hama pooree raata hai litty (litty)",
       "speaker": "Calm and Encore ABJ",
       "translation": "We don't take losses, the whole night is litty.",
       "explanation": "Winning streak coupled with high energy/partying.",
@@ -347,6 +380,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Dl91 लिखे खत",
+      "romanized": "Dl91 likhe khata",
       "speaker": "Calm and Encore ABJ",
       "translation": "DL91 writes letters.",
       "explanation": "DL91 refers to a Delhi area code/pincode associated with the crew/AB 17.",
@@ -360,6 +394,7 @@ export const banda_down: Song = {
     },
     {
       "original": "लिखे चिट्ठी (चिट्ठी, चिट्ठी, चिट्ठी)",
+      "romanized": "Likhe chitthee (chitthee, chitthee, chitthee)",
       "speaker": "Calm and Encore ABJ",
       "translation": "Writes notes/letters.",
       "explanation": "Refers to the lyrical content they are sending out to the world.",
@@ -367,6 +402,7 @@ export const banda_down: Song = {
     },
     {
       "original": "आते ये तूफ़ान तब भी ठहरे नाओ",
+      "romanized": "Aate ye tooफ़aana taba bhee thahare naao",
       "speaker": "Calm and Encore ABJ",
       "translation": "Even when storms arrive, the boat doesn't stop.",
       "explanation": "Chorus repetition: Resilience.",
@@ -374,6 +410,7 @@ export const banda_down: Song = {
     },
     {
       "original": "भाई पे है भरोसा I can't let em down",
+      "romanized": "Bhaaee pe hai bharosaa I can't let em dowan",
       "speaker": "Calm and Encore ABJ",
       "translation": "I trust my brother, I can't let them down.",
       "explanation": "Chorus repetition: Loyalty.",
@@ -381,6 +418,7 @@ export const banda_down: Song = {
     },
     {
       "original": "आया studio I'm feeling better now",
+      "romanized": "Aayaa studio I'm feeling better nowa",
       "speaker": "Calm and Encore ABJ",
       "translation": "I came to the studio, I'm feeling better now.",
       "explanation": "Chorus repetition: Healing through music.",
@@ -388,6 +426,7 @@ export const banda_down: Song = {
     },
     {
       "original": "कहाँ गयी drink I need another around",
+      "romanized": "Kahaan gayee drink I need another around",
       "speaker": "Calm and Encore ABJ",
       "translation": "Where did the drink go? I need another round.",
       "explanation": "Chorus repetition: Party theme.",
@@ -395,6 +434,7 @@ export const banda_down: Song = {
     },
     {
       "original": "(Whoa)",
+      "romanized": "(Whoa)",
       "speaker": "Calm and Encore ABJ",
       "translation": "(Whoa)",
       "explanation": "Ad-lib.",
@@ -402,6 +442,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Another round",
+      "romanized": "Another round",
       "speaker": "Calm and Encore ABJ",
       "translation": "Another round",
       "explanation": "Repetition.",
@@ -409,6 +450,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Another round",
+      "romanized": "Another round",
       "speaker": "Calm and Encore ABJ",
       "translation": "Another round",
       "explanation": "Repetition.",
@@ -416,6 +458,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Another round",
+      "romanized": "Another round",
       "speaker": "Calm and Encore ABJ",
       "translation": "Another round",
       "explanation": "Repetition.",
@@ -423,6 +466,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Another round",
+      "romanized": "Another round",
       "speaker": "Calm and Encore ABJ",
       "translation": "Another round",
       "explanation": "Repetition.",
@@ -430,6 +474,7 @@ export const banda_down: Song = {
     },
     {
       "original": "ना दिखे कुछ और, सुनु अंधा sounds ( सुनु sounds, सुनु sounds, सुनु sounds, सुनु sounds)",
+      "romanized": "Naa dikhe kuchha aura, sunu andhaa sounds ( sunu sounds, sunu sounds, sunu sounds, sunu sounds)",
       "speaker": "Calm and Encore ABJ",
       "translation": "Can't see anything else, just hearing 'blind' sounds.",
       "explanation": "Chorus repetition: Immersion.",
@@ -437,6 +482,7 @@ export const banda_down: Song = {
     },
     {
       "original": "हा कोई रोक लो हो रहा है बंदा down",
+      "romanized": "Haa koee roka lo ho rahaa hai bandaa dowan",
       "speaker": "Calm and Encore ABJ",
       "translation": "Yeah, someone stop him, the guy is going down.",
       "explanation": "Chorus repetition: Over-intoxication.",
@@ -444,6 +490,7 @@ export const banda_down: Song = {
     },
     {
       "original": "कोई रोक लो मुझे पीने से",
+      "romanized": "Koee roka lo mujhe peene se",
       "speaker": "Bhaskar",
       "translation": "Someone stop me from drinking.",
       "explanation": "Bhaskar begins his verse expressing a lack of self-control due to emotional pain.",
@@ -451,6 +498,7 @@ export const banda_down: Song = {
     },
     {
       "original": "ना कोई पाया मुझे जीने से",
+      "romanized": "Naa koee paayaa mujhe jeene se",
       "speaker": "Bhaskar",
       "translation": "No one could stop me from living (my way).",
       "explanation": "Despite his struggles, he lives life on his own terms.",
@@ -458,6 +506,7 @@ export const banda_down: Song = {
     },
     {
       "original": "मुझे life बनानी है paradise",
+      "romanized": "Mujhe life banaanee hai paradise",
       "speaker": "Bhaskar",
       "translation": "I want to make my life a paradise.",
       "explanation": "Aspiring for a better, more peaceful reality.",
@@ -465,6 +514,7 @@ export const banda_down: Song = {
     },
     {
       "original": "मेरा हर season है valentine",
+      "romanized": "Meraa hara season hai valentine",
       "speaker": "Bhaskar",
       "translation": "Every season for me is Valentine's.",
       "explanation": "Implies he is always in a state of love or seeking it, perhaps to his detriment.",
@@ -472,6 +522,7 @@ export const banda_down: Song = {
     },
     {
       "original": "तूने block करा गया landline",
+      "romanized": "Toone block karaa gayaa landline",
       "speaker": "Bhaskar",
       "translation": "You blocked me, and the landline is gone too.",
       "explanation": "Symbolizes a complete loss of communication with a lover.",
@@ -479,6 +530,7 @@ export const banda_down: Song = {
     },
     {
       "original": "उस दल्ली की किरणें है day light",
+      "romanized": "Usa dallee kee kiranen hai day light",
       "speaker": "Bhaskar",
       "translation": "The rays of that 'Dilli' (Delhi) are my daylight.",
       "explanation": "Deep connection to his city; Delhi's vibe is his source of energy.",
@@ -492,6 +544,7 @@ export const banda_down: Song = {
     },
     {
       "original": "मुझे याद आ रही दल्ली की late night",
+      "romanized": "Mujhe yaada aa rahee dallee kee late night",
       "speaker": "Bhaskar",
       "translation": "I'm missing those late nights in Delhi.",
       "explanation": "Nostalgia for the nightlife and memories associated with the city.",
@@ -499,6 +552,7 @@ export const banda_down: Song = {
     },
     {
       "original": "हो गयी stuck तेरी याद में जहाँ भी आगयी साथ",
+      "romanized": "Ho gayee stuck teree yaada men jahaan bhee aagayee saatha",
       "speaker": "Bhaskar",
       "translation": "I got stuck in your memory, wherever it followed me.",
       "explanation": "Feeling haunted by the memory of a past relationship.",
@@ -506,6 +560,7 @@ export const banda_down: Song = {
     },
     {
       "original": "वो दल्ली मेरे system में fuck करे program",
+      "romanized": "Vo dallee mere system men fuck kare program",
       "speaker": "Bhaskar",
       "translation": "That Delhi is in my system, messing with my program.",
       "explanation": "His upbringing and the city's influence dictate his chaotic behavior.",
@@ -513,6 +568,7 @@ export const banda_down: Song = {
     },
     {
       "original": "हो गयी stuck तेरी याद आगयी मेरे साथ करू दारू पिके दल्ली के दरवाज़े में पेशाब",
+      "romanized": "Ho gayee stuck teree yaada aagayee mere saatha karoo daaroo pike dallee ke daravaaज़e men peshaaba",
       "speaker": "Bhaskar",
       "translation": "Stuck with your memory, I drink and pee at the gates of Delhi.",
       "explanation": "Raw, rebellious imagery of dealing with heartbreak through public intoxication.",
@@ -532,6 +588,7 @@ export const banda_down: Song = {
     },
     {
       "original": "कोई रोक लो मुझे पीने से मेरा दिल जोड़ दो सीने में",
+      "romanized": "Koee roka lo mujhe peene se meraa dila joड़ do seene men",
       "speaker": "Bhaskar",
       "translation": "Someone stop me from drinking, fix my heart in my chest.",
       "explanation": "A plea for emotional healing instead of using alcohol as a band-aid.",
@@ -539,6 +596,7 @@ export const banda_down: Song = {
     },
     {
       "original": "मेरा दिल जोड़ दो सीने में",
+      "romanized": "Meraa dila joड़ do seene men",
       "speaker": "Ab 17",
       "translation": "Fix my heart in my chest.",
       "explanation": "Bridge transition; AB 17 repeats the emotional sentiment.",
@@ -546,6 +604,7 @@ export const banda_down: Song = {
     },
     {
       "original": "और मोटी player है बगल में तेरे lemme play",
+      "romanized": "Aura motee player hai bagala men tere lemme play",
       "speaker": "Ab 17",
       "translation": "And there's a big player next to you, let me play.",
       "explanation": "Switching from emotional to confident/aggressive 'player' persona.",
@@ -553,6 +612,7 @@ export const banda_down: Song = {
     },
     {
       "original": "और तेरी खुशबू से जुड़े ना जो वो क्या नशे",
+      "romanized": "Aura teree khushaboo se juड़e naa jo vo kyaa nashe",
       "speaker": "Ab 17",
       "translation": "If a high isn't linked to your scent, what kind of high is it?",
       "explanation": "Suggesting that the person's presence is more intoxicating than actual drugs.",
@@ -560,6 +620,7 @@ export const banda_down: Song = {
     },
     {
       "original": "बस तेरी जासूसी में लगा हुआ हूँ profile trace",
+      "romanized": "Basa teree jaasoosee men lagaa huaa hoon profile trace",
       "speaker": "Ab 17",
       "translation": "I'm just busy spying on you, tracing your profile.",
       "explanation": "Modern reference to 'stalking' or keeping tabs on an ex/crush online.",
@@ -567,6 +628,7 @@ export const banda_down: Song = {
     },
     {
       "original": "और baawe पैसा कर रहा पैदा मेरा dopamine",
+      "romanized": "Aura baawae paisaa kara rahaa paidaa meraa dopamine",
       "speaker": "Ab 17",
       "translation": "And bro, making money is producing my dopamine.",
       "explanation": "He gets his happiness/high from financial success.",
@@ -580,6 +642,7 @@ export const banda_down: Song = {
     },
     {
       "original": "अमीर घराने का नहीं baawe I don't talk shit",
+      "romanized": "Ameera gharaane kaa naheen baawae I don't talk shit",
       "speaker": "Ab 17",
       "translation": "I'm not from a rich family, bro, I don't talk shit.",
       "explanation": "Asserting his 'street' credibility and humble beginnings.",
@@ -587,6 +650,7 @@ export const banda_down: Song = {
     },
     {
       "original": "और baawe गाँव में चलरी छोड़ें पूरा bag post",
+      "romanized": "Aura baawae gaanva men chalaree chhoड़en pooraa bag post",
       "speaker": "Ab 17",
       "translation": "And bro, the village is buzzing, they're posting the whole bag.",
       "explanation": "Reference to success spreading back to his roots/village.",
@@ -594,6 +658,7 @@ export const banda_down: Song = {
     },
     {
       "original": "पत्थर cook करने बैठा खा मेरा lab coat",
+      "romanized": "Patthara cook karane baithaa khaa meraa lab coat",
       "speaker": "Ab 17",
       "translation": "Sitting to cook 'stones', eat my lab coat.",
       "explanation": "'Patthar' (stones/crack metaphor) refers to crafting hard-hitting bars as if he's in a lab.",
@@ -607,6 +672,7 @@ export const banda_down: Song = {
     },
     {
       "original": "दिल्ली का DNA जाना तूने attack zone",
+      "romanized": "Dillee kaa DNA jaanaa toone attack zone",
       "speaker": "Ab 17",
       "translation": "You've entered the attack zone, the DNA of Delhi.",
       "explanation": "Warning others about the aggressive nature of Delhi rappers.",
@@ -614,6 +680,7 @@ export const banda_down: Song = {
     },
     {
       "original": "और मिले ऐसी कोई जो पूछे ना मेरी back story",
+      "romanized": "Aura mile aisee koee jo poochhe naa meree back story",
       "speaker": "Ab 17",
       "translation": "And hope to find someone who doesn't ask about my backstory.",
       "explanation": "Wishing for a fresh start without the baggage of his past.",
@@ -621,6 +688,7 @@ export const banda_down: Song = {
     },
     {
       "original": "दस बातें लिखनी कैसे रोकूँ ना मेरा main topic",
+      "romanized": "Dasa baaten likhanee kaise rokoon naa meraa main topic",
       "speaker": "Ab 17",
       "translation": "How do I stop myself from writing ten things? It's my main topic.",
       "explanation": "His life experiences are his primary source of lyrics; he can't stop venting.",
@@ -628,6 +696,7 @@ export const banda_down: Song = {
     },
     {
       "original": "मारेंगे baawe in silence जैसे cyanide",
+      "romanized": "Maarenge baawae in silence jaise cyanide",
       "speaker": "Ab 17",
       "translation": "We'll kill it in silence, bro, like cyanide.",
       "explanation": "Silent but deadly approach to the game or his enemies.",
@@ -641,6 +710,7 @@ export const banda_down: Song = {
     },
     {
       "original": "और मेरी खिड़की से दिख रही हर समय bright side",
+      "romanized": "Aura meree khiड़kee se dikha rahee hara samaya bright side",
       "speaker": "Ab 17",
       "translation": "And from my window, I see the bright side all the time.",
       "explanation": "Optimism despite his struggles.",
@@ -648,6 +718,7 @@ export const banda_down: Song = {
     },
     {
       "original": "तेरी party में vibe नहीं running dry dry",
+      "romanized": "Teree party men vibe naheen running dry dry",
       "speaker": "Ab 17",
       "translation": "Your party has no vibe, it's running dry.",
       "explanation": "Dissing the competition's energy or lifestyle.",
@@ -662,6 +733,7 @@ export const banda_down: Song = {
     },
     {
       "original": "यहां plug है certified जिसका थैया सामान लाये",
+      "romanized": "Yahaan plug hai certified jisakaa thaiyaa saamaana laaye",
       "speaker": "Ab 17",
       "translation": "The plug here is certified, bringing the 'goods' to the spot.",
       "explanation": "'Plug' refers to a supplier (could be for music, substances, or vibes).",
@@ -680,6 +752,7 @@ export const banda_down: Song = {
     },
     {
       "original": "मेरा वक़्त चलरा है पैसा लाये नयी timeline",
+      "romanized": "Meraa vaक़ta chalaraa hai paisaa laaye nayee timeline",
       "speaker": "Ab 17",
       "translation": "My time is running, money brought a new timeline.",
       "explanation": "Wealth has completely changed his life trajectory.",
@@ -687,6 +760,7 @@ export const banda_down: Song = {
     },
     {
       "original": "ये लम्बी linee देरी fuel मुझे जैसे nitro",
+      "romanized": "Ye lambee linee deree fuel mujhe jaise nitro",
       "speaker": "Ab 17",
       "translation": "These long lines give me fuel like nitro.",
       "explanation": "Double entendre: Could refer to lines of coke or long lines of written bars.",
@@ -700,6 +774,7 @@ export const banda_down: Song = {
     },
     {
       "original": "और baawe vibe ले रहा हूँ feel करे मुझे diagnos",
+      "romanized": "Aura baawae vibe le rahaa hoon feel kare mujhe diagnos",
       "speaker": "Ab 17",
       "translation": "And bro, I'm taking the vibe, feel me like a diagnosis.",
       "explanation": "His vibe is so strong it needs to be studied/analyzed.",
@@ -707,6 +782,7 @@ export const banda_down: Song = {
     },
     {
       "original": "और बदल season लाना चाहरे baawe time stop",
+      "romanized": "Aura badala season laanaa chaahare baawae time stop",
       "speaker": "Ab 17",
       "translation": "And the seasons change, they want to stop time, bro.",
       "explanation": "The desire to freeze a moment of peak success.",
@@ -714,6 +790,7 @@ export const banda_down: Song = {
     },
     {
       "original": "[Chorus: Calm and",
+      "romanized": "[Chorus: Calm and",
       "speaker": "Ab 17",
       "translation": "[Chorus: Calm and",
       "explanation": "Bracketed text indicating the start of the final chorus.",
@@ -721,6 +798,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Encore ABJ",
+      "romanized": "Encore ABJ",
       "speaker": "Ab 17",
       "translation": "Encore ABJ",
       "explanation": "Credit for the chorus.",
@@ -728,6 +806,7 @@ export const banda_down: Song = {
     },
     {
       "original": "]",
+      "romanized": "]",
       "speaker": "Ab 17",
       "translation": "]",
       "explanation": "Closing bracket.",
@@ -735,6 +814,7 @@ export const banda_down: Song = {
     },
     {
       "original": "आते ये तूफ़ान तब भी ठहरे नाओ",
+      "romanized": "Aate ye tooफ़aana taba bhee thahare naao",
       "speaker": "Ab 17",
       "translation": "Even when storms arrive, the boat doesn't stop.",
       "explanation": "Final chorus: Resilience.",
@@ -742,6 +822,7 @@ export const banda_down: Song = {
     },
     {
       "original": "भाई पे है भरोसा I can't let em down",
+      "romanized": "Bhaaee pe hai bharosaa I can't let em dowan",
       "speaker": "Ab 17",
       "translation": "I trust my brother, I can't let them down.",
       "explanation": "Final chorus: Loyalty.",
@@ -749,6 +830,7 @@ export const banda_down: Song = {
     },
     {
       "original": "आया studio I'm feeling better now",
+      "romanized": "Aayaa studio I'm feeling better nowa",
       "speaker": "Ab 17",
       "translation": "I came to the studio, I'm feeling better now.",
       "explanation": "Final chorus: Healing.",
@@ -756,6 +838,7 @@ export const banda_down: Song = {
     },
     {
       "original": "कहाँ गयी drink I need another around",
+      "romanized": "Kahaan gayee drink I need another around",
       "speaker": "Ab 17",
       "translation": "Where did the drink go? I need another round.",
       "explanation": "Final chorus: Party cycle.",
@@ -770,6 +853,7 @@ export const banda_down: Song = {
     },
     {
       "original": "(Whoa)",
+      "romanized": "(Whoa)",
       "speaker": "Ab 17",
       "translation": "(Whoa)",
       "explanation": "Ad-lib.",
@@ -777,6 +861,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Another round",
+      "romanized": "Another round",
       "speaker": "Ab 17",
       "translation": "Another round",
       "explanation": "Repetition.",
@@ -784,6 +869,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Another round",
+      "romanized": "Another round",
       "speaker": "Ab 17",
       "translation": "Another round",
       "explanation": "Repetition.",
@@ -791,6 +877,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Another round",
+      "romanized": "Another round",
       "speaker": "Ab 17",
       "translation": "Another round",
       "explanation": "Repetition.",
@@ -805,6 +892,7 @@ export const banda_down: Song = {
     },
     {
       "original": "Another round",
+      "romanized": "Another round",
       "speaker": "Ab 17",
       "translation": "Another round",
       "explanation": "Repetition.",
@@ -812,6 +900,7 @@ export const banda_down: Song = {
     },
     {
       "original": "ना दिखे कुछ और, सुनु अंधा sounds ( सुनु sounds, सुनु sounds, सुनु sounds, सुनु sounds)",
+      "romanized": "Naa dikhe kuchha aura, sunu andhaa sounds ( sunu sounds, sunu sounds, sunu sounds, sunu sounds)",
       "speaker": "Ab 17",
       "translation": "Can't see anything else, just hearing blind sounds.",
       "explanation": "Final chorus: Overload.",
@@ -819,6 +908,7 @@ export const banda_down: Song = {
     },
     {
       "original": "हा कोई रोक लो हो रहा है बंदा down",
+      "romanized": "Haa koee roka lo ho rahaa hai bandaa dowan",
       "speaker": "Ab 17",
       "translation": "Yeah, someone stop him, the guy is going down.",
       "explanation": "The track concludes on the 'down' state of intoxication.",

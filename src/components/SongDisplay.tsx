@@ -1,12 +1,14 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
 import { Song, LyricLine } from '../types';
 import { albums } from '../data/albums';
 import MobileDrawer from './MobileDrawer';
 import SongStats from './SongStats';
 import { getArtistColor } from '../utils/colors';
+
+type ScriptMode = 'devanagari' | 'roman';
 
 interface SongDisplayProps {
   song: Song;
@@ -17,6 +19,25 @@ const ENCORE_COLOR = '#f472b6'; // Pink-400
 
 export default function SongDisplay({ song }: SongDisplayProps) {
   const [selectedLine, setSelectedLine] = useState<number | null>(null);
+  const [scriptMode, setScriptMode] = useState<ScriptMode>('devanagari');
+
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem('scriptMode') as ScriptMode | null;
+      if (saved === 'devanagari' || saved === 'roman') setScriptMode(saved);
+    } catch {}
+  }, []);
+
+  const toggleScript = () => {
+    const next: ScriptMode = scriptMode === 'devanagari' ? 'roman' : 'devanagari';
+    setScriptMode(next);
+    try { localStorage.setItem('scriptMode', next); } catch {}
+  };
+
+  const getDisplayText = (line: LyricLine) => {
+    if (scriptMode === 'devanagari') return line.devanagari ?? line.original;
+    return line.romanized ?? line.original;
+  };
 
   const selectedLyric = selectedLine !== null ? song.lyrics[selectedLine] : null;
 
@@ -86,7 +107,7 @@ export default function SongDisplay({ song }: SongDisplayProps) {
           <div className="mb-6 border-b border-tbsm-red/20 pb-6">
             <h3 className="text-[9px] font-mono text-zinc-500 uppercase mb-2 tracking-widest">Original</h3>
             <p className="text-lg font-mono font-medium text-white leading-relaxed">
-              {selectedLyric.original}
+              {getDisplayText(selectedLyric)}
             </p>
           </div>
         )}
@@ -206,8 +227,16 @@ export default function SongDisplay({ song }: SongDisplayProps) {
           </div>
 
           <div className="flex items-center justify-between border-b border-zinc-900 pb-2">
-            <h2 className="text-xs uppercase tracking-[0.4em] text-zinc-600 font-bold">Lyrics / Hindi</h2>
-            <span className="text-[10px] font-mono text-zinc-700">SCRIPT MODE</span>
+            <h2 className="text-xs uppercase tracking-[0.4em] text-zinc-600 font-bold">
+              Lyrics / {scriptMode === 'devanagari' ? 'Hindi' : 'Hinglish'}
+            </h2>
+            <button
+              onClick={toggleScript}
+              className="text-sm font-mono px-2 py-1 rounded-sm border border-zinc-800 hover:border-tbsm-red/50 text-zinc-400 hover:text-white transition-colors"
+              title={scriptMode === 'devanagari' ? 'Switch to Hinglish (Roman)' : 'Switch to Hindi (Devanagari)'}
+            >
+              {scriptMode === 'devanagari' ? 'A' : 'अ'}
+            </button>
           </div>
 
           <div className="space-y-12">
@@ -251,7 +280,7 @@ export default function SongDisplay({ song }: SongDisplayProps) {
                           className="text-lg md:text-xl leading-relaxed font-mono font-medium"
                           style={selectedLine === index ? {} : textStyle}
                         >
-                          {lyric.original}
+                          {getDisplayText(lyric)}
                         </p>
                       </div>
                     ))}

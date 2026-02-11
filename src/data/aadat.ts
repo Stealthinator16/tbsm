@@ -9,6 +9,7 @@ export const aadat: Song = {
   "lyrics": [
     {
       "original": "उन्हें आदत हो गई है एक दुसरे की वो प्यार नहीं",
+      "romanized": "Unhen aadata ho gaee hai eka dusare kee vo pyaara naheen",
       "speaker": "Chorus",
       "translation": "They've just become a habit for each other, it's not love.",
       "explanation": "The core theme of the song: distinguishing between a genuine emotional connection and the routine of being with someone out of habit.",
@@ -22,6 +23,7 @@ export const aadat: Song = {
     },
     {
       "original": "उन्हें आदत हो गई है साथ रहने की वो साथ नहीं",
+      "romanized": "Unhen aadata ho gaee hai saatha rahane kee vo saatha naheen",
       "speaker": "Chorus",
       "translation": "They're used to living together, but they aren't really 'together'.",
       "explanation": "Points out the emotional distance between people who are physically present but mentally disconnected.",
@@ -29,6 +31,7 @@ export const aadat: Song = {
     },
     {
       "original": "उन्हें आदत है, एक दुसरे की परवाह नहीं",
+      "romanized": "Unhen aadata hai, eka dusare kee paravaaha naheen",
       "speaker": "Chorus",
       "translation": "They have the habit, but they don't actually care for each other.",
       "explanation": "Highlights the lack of empathy and care in a relationship that is sustained only by routine.",
@@ -36,6 +39,7 @@ export const aadat: Song = {
     },
     {
       "original": "हमे आदत हो गई है वो प्यार नहीं",
+      "romanized": "Hame aadata ho gaee hai vo pyaara naheen",
       "speaker": "Chorus",
       "translation": "We've become a habit, this isn't love.",
       "explanation": "The speaker internalizes the chorus, realizing his own situation is just a repetitive cycle.",
@@ -43,6 +47,7 @@ export const aadat: Song = {
     },
     {
       "original": "खेल है लगे, no ball bat",
+      "romanized": "Khela hai lage, no ball bat",
       "speaker": "Encore ABJ",
       "translation": "It feels like a game, no ball, no bat.",
       "explanation": "Using cricket metaphors to describe a relationship where the rules are unclear or unfair.",
@@ -56,6 +61,7 @@ export const aadat: Song = {
     },
     {
       "original": "तेरे लिए bold हूँ, ball फेंक",
+      "romanized": "Tere lie bold hoon, ball phenka",
       "speaker": "Encore ABJ",
       "translation": "I'm 'bold' for you, throw the ball.",
       "explanation": "Wordplay on being 'bold' (brave/direct) and being 'bowled' out in cricket.",
@@ -69,6 +75,7 @@ export const aadat: Song = {
     },
     {
       "original": "कर नहीं सके, तो call cap",
+      "romanized": "Kara naheen sake, to call cap",
       "speaker": "Encore ABJ",
       "translation": "If you can't do it, call it 'cap' (a lie).",
       "explanation": "'Cap' is slang for lying. He's telling the person to call out the bluff if they can't follow through.",
@@ -82,6 +89,7 @@ export const aadat: Song = {
     },
     {
       "original": "करके बजे, तो call facts",
+      "romanized": "Karake baje, to call facts",
       "speaker": "Encore ABJ",
       "translation": "If it actually happens, then call it facts.",
       "explanation": "Contrasting 'cap' (lies) with 'facts'—only value what is actually proven by actions.",
@@ -89,6 +97,7 @@ export const aadat: Song = {
     },
     {
       "original": "उसे चाहिये time और प्यार और कुछ कुछ मेहेंगे कपडे, all of that",
+      "romanized": "Use chaahiye time aura pyaara aura kuchha kuchha mehenge kapade, all of that",
       "speaker": "Encore ABJ",
       "translation": "She wants time, love, and some expensive clothes—all of that.",
       "explanation": "Listing the demands of a partner that combine emotional needs with materialistic desires.",
@@ -96,6 +105,7 @@ export const aadat: Song = {
     },
     {
       "original": "मुझे चाहिये time और दोस्त,joint और studio",
+      "romanized": "Mujhe chaahiye time aura dosta,joint aura studio",
       "speaker": "Encore ABJ",
       "translation": "I want time, my friends, a joint, and the studio.",
       "explanation": "Encore contrasts his partner's needs with his own simple but focused requirements for his craft and lifestyle.",
@@ -114,6 +124,7 @@ export const aadat: Song = {
     },
     {
       "original": "सबकुछ all rap",
+      "romanized": "Sabakuchha all rap",
       "speaker": "Encore ABJ",
       "translation": "Everything is centered around rap.",
       "explanation": "Affirming that his entire life and priorities revolve around his music.",
@@ -121,6 +132,7 @@ export const aadat: Song = {
     },
     {
       "original": "बंदी है अच्छी पर relationship है toxic",
+      "romanized": "Bandee hai achchhee para relationship hai toxic",
       "speaker": "Encore ABJ",
       "translation": "The girl is good, but the relationship is toxic.",
       "explanation": "A classic dilemma where two good individuals create a negative environment when together.",
@@ -140,6 +152,7 @@ export const aadat: Song = {
     },
     {
       "original": "बस करते झूठे वादे just like horlicks",
+      "romanized": "Basa karate jhoothe vaade just like horlicks",
       "speaker": "Encore ABJ",
       "translation": "Just making false promises, just like Horlicks.",
       "explanation": "Reference to Horlicks advertisements promising growth (taller, stronger, sharper) which many consider exaggerated or 'false' promises.",
@@ -159,6 +172,7 @@ export const aadat: Song = {
     },
     {
       "original": "मेरा कुत्ता मर गया feeling just like john wick",
+      "romanized": "Meraa kuttaa mara gayaa feeling just like john waick",
       "speaker": "Encore ABJ",
       "translation": "My dog died, now I'm feeling just like John Wick.",
       "explanation": "Reference to the movie John Wick, where the protagonist goes on a rampage after his dog is killed.",
@@ -178,6 +192,7 @@ export const aadat: Song = {
     },
     {
       "original": "Icon बनना था जैसे Akon पर बन गए convict",
+      "romanized": "Icon bananaa thaa jaise Akon para bana gae convict",
       "speaker": "Encore ABJ",
       "translation": "Wanted to be an 'Icon' like Akon, but ended up a 'convict'.",
       "explanation": "Wordplay on Akon’s name and his label/brand 'Convict Muzik'. He feels trapped in a situation despite wanting legendary status.",
@@ -202,6 +217,7 @@ export const aadat: Song = {
     },
     {
       "original": "उन्हें आदत हो गई है एक दुसरे की वो प्यार नहीं",
+      "romanized": "Unhen aadata ho gaee hai eka dusare kee vo pyaara naheen",
       "speaker": "Chorus",
       "translation": "They've just become a habit for each other, it's not love.",
       "explanation": "Repetition of the chorus to reinforce the cycle of habit.",
@@ -216,6 +232,7 @@ export const aadat: Song = {
     },
     {
       "original": "उन्हें आदत हो गई है साथ रहने की वो साथ नहीं",
+      "romanized": "Unhen aadata ho gaee hai saatha rahane kee vo saatha naheen",
       "speaker": "Chorus",
       "translation": "They're used to living together, but they aren't really 'together'.",
       "explanation": "Reiteration of emotional disconnect.",
@@ -223,6 +240,7 @@ export const aadat: Song = {
     },
     {
       "original": "उन्हें आदत है, एक दुसरे की परवाह नहीं",
+      "romanized": "Unhen aadata hai, eka dusare kee paravaaha naheen",
       "speaker": "Chorus",
       "translation": "They have the habit, but they don't actually care for each other.",
       "explanation": "Reiteration of lack of care.",
@@ -230,6 +248,7 @@ export const aadat: Song = {
     },
     {
       "original": "हमे आदत हो गई है वो प्यार नहीं",
+      "romanized": "Hame aadata ho gaee hai vo pyaara naheen",
       "speaker": "Chorus",
       "translation": "We've become a habit, this isn't love.",
       "explanation": "Reiteration of self-realization.",
@@ -237,6 +256,7 @@ export const aadat: Song = {
     },
     {
       "original": "वो आदत!",
+      "romanized": "Vo aadata!",
       "speaker": "Chorus",
       "translation": "That habit!",
       "explanation": "Emphasizing the word 'habit' as a burden.",
@@ -244,6 +264,7 @@ export const aadat: Song = {
     },
     {
       "original": "Icedout पर भूला ना करना इबादत",
+      "romanized": "Icedout para bhoolaa naa karanaa ibaadata",
       "speaker": "Chorus",
       "translation": "Dripping in jewelry, but don't forget to pray.",
       "explanation": "Even with success and diamonds (iced out), one should stay grounded and spiritual.",
@@ -262,6 +283,7 @@ export const aadat: Song = {
     },
     {
       "original": "कोई chanel भेजरी नंबर Baawe ignore it",
+      "romanized": "Koee chanel bhejaree nanbara Baawae ignore it",
       "speaker": "Chorus",
       "translation": "Some girl is sending her number on the 'channel' (or wearing Chanel), brother ignore it.",
       "explanation": "'Baawe' is Delhi/Seedhe Maut slang for 'brother'. He's advising to ignore distractions from women.",
@@ -281,6 +303,7 @@ export const aadat: Song = {
     },
     {
       "original": "कैसे story camino foil छोड़ना चाहारा baawe call him",
+      "romanized": "Kaise story camino foil chhoड़naa chaahaaraa baawae call him",
       "speaker": "Chorus",
       "translation": "How's the story, brother? He wants to leave the foil, call him.",
       "explanation": "'Foil' and 'Camino' are often used in drug culture contexts (chasing/smoking). He's talking about a friend trying to quit a habit.",
@@ -294,6 +317,7 @@ export const aadat: Song = {
     },
     {
       "original": "Camino साथ खड़ा है मेरे I बस bowling",
+      "romanized": "Camino saatha khaड़aa hai mere I basa bowaling",
       "speaker": "Chorus",
       "translation": "Camino is standing with me, I'm just 'bowling' (rolling/moving).",
       "explanation": "Could refer to a friend or the brand, suggesting he's continuing his momentum with his team.",
@@ -314,6 +338,7 @@ export const aadat: Song = {
     },
     {
       "original": "मेरी foil लकीरे नापे आदत sorry",
+      "romanized": "Meree foil lakeere naape aadata sorry",
       "speaker": "Chorus",
       "translation": "My foil measures the lines, sorry it's a habit.",
       "explanation": "Explicit drug imagery used as a metaphor for an addiction or a destructive lifestyle habit.",
@@ -338,6 +363,7 @@ export const aadat: Song = {
     },
     {
       "original": "बुस तिरछी चलारहा line pipe बड़े मेरी ओर",
+      "romanized": "Busa tirachhee chalaarahaa line pipe baड़e meree ora",
       "speaker": "Chorus",
       "translation": "Just moving the line diagonally, the 'pipes' (attention/pressure) are growing towards me.",
       "explanation": "Continuing the 'line' metaphor, potentially referring to the path he's taking in the industry.",
@@ -345,6 +371,7 @@ export const aadat: Song = {
     },
     {
       "original": "बस powder पिघला के जारा दोस्त मेरा on top",
+      "romanized": "Basa powader pighalaa ke jaaraa dosta meraa on top",
       "speaker": "Chorus",
       "translation": "Just melting the powder, my friend is going to the top.",
       "explanation": "Dark imagery suggesting that the grind (or the habits) are the fuel for their rise.",
@@ -352,6 +379,7 @@ export const aadat: Song = {
     },
     {
       "original": "वो भावुक chanel करे मुझे call करे मुझे call",
+      "romanized": "Vo bhaavuka chanel kare mujhe call kare mujhe call",
       "speaker": "Chorus",
       "translation": "She's getting emotional, calling me again and again.",
       "explanation": "The partner is reaching out emotionally while he is preoccupied with his habits or work.",
@@ -359,6 +387,7 @@ export const aadat: Song = {
     },
     {
       "original": "हर dream करी travel मेरी double cup syrup",
+      "romanized": "Hara dream karee travel meree double cup syrup",
       "speaker": "Chorus",
       "translation": "Traveled through every dream, my double cup filled with syrup.",
       "explanation": "Reference to 'lean' (syrup), common in hip-hop as a way to cope or escape reality.",
@@ -372,6 +401,7 @@ export const aadat: Song = {
     },
     {
       "original": "हर capsule में bluff",
+      "romanized": "Hara capsule men bluff",
       "speaker": "Chorus",
       "translation": "Every capsule is a bluff/lie.",
       "explanation": "Suggesting that the 'fixes' or pills people take are just temporary illusions.",
@@ -379,6 +409,7 @@ export const aadat: Song = {
     },
     {
       "original": "Baawe अब करे मैंने सब",
+      "romanized": "Baawae aba kare mainne saba",
       "speaker": "Chorus",
       "translation": "Brother, I've done it all now.",
       "explanation": "A sense of exhaustion or having experienced every high and low of the lifestyle.",
@@ -386,6 +417,7 @@ export const aadat: Song = {
     },
     {
       "original": "मेरी gram से भरी हुई sox",
+      "romanized": "Meree gram se bharee huee sox",
       "speaker": "Chorus",
       "translation": "My socks are filled with grams.",
       "explanation": "Slang for carrying substances (grams of drugs) hidden in socks.",
@@ -393,6 +425,7 @@ export const aadat: Song = {
     },
     {
       "original": "Weela gully में खड़ा तो doubt",
+      "romanized": "Weela gully men khaड़aa to doubt",
       "speaker": "Chorus",
       "translation": "Standing idle in the alleyway creates doubt.",
       "explanation": "If you're just loitering in the 'gully' (streets), people look at you with suspicion.",
@@ -400,6 +433,7 @@ export const aadat: Song = {
     },
     {
       "original": "मेरी आदतें गन्दी  I'm out",
+      "romanized": "Meree aadaten gandee I'm out",
       "speaker": "Chorus",
       "translation": "My habits are bad, I'm out.",
       "explanation": "A moment of clarity admitting his flaws and wanting to exit the situation.",
@@ -414,6 +448,7 @@ export const aadat: Song = {
     },
     {
       "original": "उन्हें आदत हो गई है एक दुसरे की वो प्यार नहीं",
+      "romanized": "Unhen aadata ho gaee hai eka dusare kee vo pyaara naheen",
       "speaker": "Chorus",
       "translation": "They've just become a habit for each other, it's not love.",
       "explanation": "The recurring realization that habit is masquerading as love.",
@@ -421,6 +456,7 @@ export const aadat: Song = {
     },
     {
       "original": "उन्हें आदत हो गई है साथ रहने की वो साथ नहीं",
+      "romanized": "Unhen aadata ho gaee hai saatha rahane kee vo saatha naheen",
       "speaker": "Chorus",
       "translation": "They're used to living together, but they aren't really 'together'.",
       "explanation": "Physical proximity vs. emotional distance.",
@@ -435,6 +471,7 @@ export const aadat: Song = {
     },
     {
       "original": "उन्हें आदत है, एक दुसरे की परवाह नहीं",
+      "romanized": "Unhen aadata hai, eka dusare kee paravaaha naheen",
       "speaker": "Chorus",
       "translation": "They have the habit, but they don't actually care for each other.",
       "explanation": "Routine over care.",
@@ -449,6 +486,7 @@ export const aadat: Song = {
     },
     {
       "original": "हमे आदत हो गई है वो प्यार नहीं",
+      "romanized": "Hame aadata ho gaee hai vo pyaara naheen",
       "speaker": "Chorus",
       "translation": "We've become a habit, this isn't love.",
       "explanation": "Final chorus transition into Calm's verse.",
@@ -456,6 +494,7 @@ export const aadat: Song = {
     },
     {
       "original": "वो अब भी देखे मेरी राह कहीं",
+      "romanized": "Vo aba bhee dekhe meree raaha kaheen",
       "speaker": "Calm",
       "translation": "She's still waiting for me somewhere.",
       "explanation": "Calm reflects on someone who still holds out hope for him despite his habits.",
@@ -463,6 +502,7 @@ export const aadat: Song = {
     },
     {
       "original": "कितनी पीली मुझे याद नहीं",
+      "romanized": "Kitanee peelee mujhe yaada naheen",
       "speaker": "Calm",
       "translation": "I don't remember how much I've drunk.",
       "explanation": "Loss of count/control due to excessive drinking (or other habits).",
@@ -470,6 +510,7 @@ export const aadat: Song = {
     },
     {
       "original": "आदत हो गयी हमे प्यार नहीं",
+      "romanized": "Aadata ho gayee hame pyaara naheen",
       "speaker": "Calm",
       "translation": "It's become a habit for us, not love.",
       "explanation": "Calm echoes the main sentiment of the song.",
@@ -477,6 +518,7 @@ export const aadat: Song = {
     },
     {
       "original": "आदत हो हमे गयी प्यार नहीं",
+      "romanized": "Aadata ho hame gayee pyaara naheen",
       "speaker": "Calm",
       "translation": "We've become habituated, it's not love.",
       "explanation": "Slight variation in phrasing for emphasis.",
@@ -484,6 +526,7 @@ export const aadat: Song = {
     },
     {
       "original": "हा तुम साथ हो लेकिन पास नहीं",
+      "romanized": "Haa tuma saatha ho lekina paasa naheen",
       "speaker": "Calm",
       "translation": "Yes, you are with me, but not close to me.",
       "explanation": "The ultimate description of emotional detachment in a relationship.",
@@ -491,6 +534,7 @@ export const aadat: Song = {
     },
     {
       "original": "कहती आते हो तुम हाथ नहीं",
+      "romanized": "Kahatee aate ho tuma haatha naheen",
       "speaker": "Calm",
       "translation": "She says you 'come' (visit), but I can't 'catch' you (hold you).",
       "explanation": "She feels he is elusive and emotionally unavailable even when present.",
@@ -498,6 +542,7 @@ export const aadat: Song = {
     },
     {
       "original": "हम club में करा रहे थे moshpit",
+      "romanized": "Hama club men karaa rahe the moshpit",
       "speaker": "Calm",
       "translation": "We were starting moshpits in the club.",
       "explanation": "Seedhe Maut is famous for their high-energy shows and moshpits.",
@@ -511,6 +556,7 @@ export const aadat: Song = {
     },
     {
       "original": "सात समंदर पार कहीं",
+      "romanized": "Saata samandara paara kaheen",
       "speaker": "Calm",
       "translation": "Somewhere across the seven seas.",
       "explanation": "Referring to their international reach or the distance he feels from his 'home' self.",
@@ -525,6 +571,7 @@ export const aadat: Song = {
     },
     {
       "original": "Baby I'll buy you that Gucci, that Kenzo, that Prada जो चाहिए वो बोल",
+      "romanized": "Baby I'll buy you that Gucci, that Kenzo, that Prada jo chaahie vo bola",
       "speaker": "Calm",
       "translation": "Baby I'll buy you that Gucci, Kenzo, Prada—just say what you want.",
       "explanation": "Using wealth and luxury brands to compensate for emotional absence.",
@@ -538,6 +585,7 @@ export const aadat: Song = {
     },
     {
       "original": "बोली के वादा जो तोड़ा ना जाता वो मिले कहीं तभी मुँह खोल",
+      "romanized": "Bolee ke vaadaa jo toड़aa naa jaataa vo mile kaheen tabhee munha khola",
       "speaker": "Calm",
       "translation": "She said 'Speak only if you can find a promise that can't be broken'.",
       "explanation": "The partner calls him out, demanding integrity and real commitment over expensive gifts.",
@@ -545,6 +593,7 @@ export const aadat: Song = {
     },
     {
       "original": "आदत है भूलने की आदत है toxic हूँ आदत है खोने की लोग",
+      "romanized": "Aadata hai bhoolane kee aadata hai toxic hoon aadata hai khone kee loga",
       "speaker": "Calm",
       "translation": "I have a habit of forgetting, I'm toxic, I have a habit of losing people.",
       "explanation": "Calm's brutal self-admission of his flaws and his 'toxic' nature.",
@@ -552,6 +601,7 @@ export const aadat: Song = {
     },
     {
       "original": "आदत है जोटो की studio और noto की",
+      "romanized": "Aadata hai joto kee studio aura noto kee",
       "speaker": "Calm",
       "translation": "I'm addicted to joints, the studio, and the money.",
       "explanation": "'Joto' is slang for joints; 'Noto' refers to currency notes. His life is defined by these three things.",
@@ -570,6 +620,7 @@ export const aadat: Song = {
     },
     {
       "original": "आदत है सुनने की गोट",
+      "romanized": "Aadata hai sunane kee gota",
       "speaker": "Calm",
       "translation": "I'm used to hearing that I'm the GOAT.",
       "explanation": "GOAT (Greatest of All Time). He's become habituated to the constant praise and fame.",
@@ -589,6 +640,7 @@ export const aadat: Song = {
     },
     {
       "original": "आदत है लेने की BT हमेशा पर इस बार not taking that road",
+      "romanized": "Aadata hai lene kee BT hameshaa para isa baara not taking that road",
       "speaker": "Calm",
       "translation": "I'm used to getting 'BT' (bad trips/stress) always, but this time I'm not taking that road.",
       "explanation": "'BT' is slang for 'Bad Trip' or a stressful situation. He's deciding to avoid the negativity this time.",
@@ -602,6 +654,7 @@ export const aadat: Song = {
     },
     {
       "original": "I'm fucked up हूँ stu में फिर BK को तंग करूँ",
+      "romanized": "I'm fucked up hoon stu men phira BK ko tanga karoon",
       "speaker": "Calm",
       "translation": "I'm fucked up in the studio, annoying BK again.",
       "explanation": "BK refers to Bharg, their frequent producer/collaborator. It shows their close-knit creative process.",
@@ -621,6 +674,7 @@ export const aadat: Song = {
     },
     {
       "original": "फिरसे कोई देना नी hope",
+      "romanized": "Phirase koee denaa nee hope",
       "speaker": "Calm",
       "translation": "Don't want to give anyone hope again.",
       "explanation": "Avoiding making promises he can't keep to prevent further hurt.",
@@ -635,6 +689,7 @@ export const aadat: Song = {
     },
     {
       "original": "I’m Fucked up fuck love",
+      "romanized": "I’m Fucked up fuck love",
       "speaker": "Calm",
       "translation": "I'm messed up, forget love.",
       "explanation": "Dismissing the idea of love because of his current state of mind.",
@@ -642,6 +697,7 @@ export const aadat: Song = {
     },
     {
       "original": "आदत hai खाने की चोट पर",
+      "romanized": "Aadata hai khaane kee chota para",
       "speaker": "Calm",
       "translation": "I have a habit of getting hurt/getting 'hit'.",
       "explanation": "'Chot khana' means getting hurt or betrayed; he's used to the pain.",
@@ -649,6 +705,7 @@ export const aadat: Song = {
     },
     {
       "original": "Baby I'll buy you that Gucci,that Kenzo, that Prada जो चाहिए वो बोल",
+      "romanized": "Baby I'll buy you that Gucci,that Kenzo, that Prada jo chaahie vo bola",
       "speaker": "Calm",
       "translation": "Baby I'll buy you that Gucci, Kenzo, Prada—just say what you want.",
       "explanation": "Returning to the hollow offer of luxury brands.",
@@ -663,6 +720,7 @@ export const aadat: Song = {
     },
     {
       "original": "उन्हें आदत हो गई है एक दुसरे की वो प्यार नहीं",
+      "romanized": "Unhen aadata ho gaee hai eka dusare kee vo pyaara naheen",
       "speaker": "Chorus",
       "translation": "They've just become a habit for each other, it's not love.",
       "explanation": "Final thematic reinforcement.",
@@ -677,6 +735,7 @@ export const aadat: Song = {
     },
     {
       "original": "उन्हें आदत हो गई है साथ रहने की वो साथ नहीं",
+      "romanized": "Unhen aadata ho gaee hai saatha rahane kee vo saatha naheen",
       "speaker": "Chorus",
       "translation": "They're used to living together, but they aren't really 'together'.",
       "explanation": "Final thematic reinforcement.",
@@ -684,6 +743,7 @@ export const aadat: Song = {
     },
     {
       "original": "उन्हें आदत है, एक दुसरे की परवाह नहीं",
+      "romanized": "Unhen aadata hai, eka dusare kee paravaaha naheen",
       "speaker": "Chorus",
       "translation": "They have the habit, but they don't actually care for each other.",
       "explanation": "Final thematic reinforcement.",
@@ -691,6 +751,7 @@ export const aadat: Song = {
     },
     {
       "original": "हमे आदत हो गई है वो प्यार नहीं",
+      "romanized": "Hame aadata ho gaee hai vo pyaara naheen",
       "speaker": "Chorus",
       "translation": "We've become a habit, this isn't love.",
       "explanation": "The song ends on the realization that habit has replaced genuine connection.",

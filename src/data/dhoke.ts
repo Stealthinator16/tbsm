@@ -9,6 +9,7 @@ export const dhoke: Song = {
   "lyrics": [
     {
       "original": "धोके, ख़ारी है तू अपनों से",
+      "romanized": "Dhoke, khaaree hai too apnon se",
       "speaker": "Encore ABJ",
       "translation": "Betrayals, you've been cast out/rejected by your own.",
       "explanation": "The song opens with themes of betrayal. 'Khari' implies being discarded or standing alone after being cheated by close ones.",
@@ -22,6 +23,7 @@ export const dhoke: Song = {
     },
     {
       "original": "रोके, हासिल होगा कुछ नहीं तू",
+      "romanized": "Roke, haasil hogaa kuchh naheen too",
       "speaker": "Encore ABJ",
       "translation": "By stopping, you won't achieve anything.",
       "explanation": "Encore suggests that stagnation or grieving over betrayal won't lead to progress.",
@@ -29,6 +31,7 @@ export const dhoke: Song = {
     },
     {
       "original": "खोके, पारी है तू खुद यहाँ खोके",
+      "romanized": "Khoke, paaree hai too khud yahaan khoke",
       "speaker": "Encore ABJ",
       "translation": "Having lost it all, you are playing the game while losing yourself here.",
       "explanation": "A play on the word 'Khoke' which can mean 'crores' (money) or 'having lost'. It highlights the cost of the hustle.",
@@ -42,6 +45,7 @@ export const dhoke: Song = {
     },
     {
       "original": "धोके",
+      "romanized": "Dhoke",
       "speaker": "Calm",
       "translation": "Betrayals.",
       "explanation": "Calm reinforces the central theme of the track.",
@@ -49,6 +53,7 @@ export const dhoke: Song = {
     },
     {
       "original": "ख़ारी है तू, आजा यहाँ है no pain",
+      "romanized": "Khaaree hai too, aajaa yahaan hai no pain",
       "speaker": "Calm",
       "translation": "You've been rejected, come here where there is no pain.",
       "explanation": "Calm offers a space of escapism (likely through substances or music) from the pain of betrayal.",
@@ -56,6 +61,7 @@ export const dhoke: Song = {
     },
     {
       "original": "वो ढूंढे भरोसा, वो ढूंढे hope ही",
+      "romanized": "Vo dhoondhe bharosaa, vo dhoondhe hope hee",
       "speaker": "Calm",
       "translation": "She looks for trust, she looks for hope.",
       "explanation": "Describing a person (or the soul) searching for stability in a deceptive environment.",
@@ -70,6 +76,7 @@ export const dhoke: Song = {
     },
     {
       "original": "अपनों से गाली सुने रोज़ ही",
+      "romanized": "Apnon se gaalee sune roz hee",
       "speaker": "Calm",
       "translation": "Getting insulted by her own people every day.",
       "explanation": "Highlights domestic or internal conflict that breaks one's spirit.",
@@ -77,6 +84,7 @@ export const dhoke: Song = {
     },
     {
       "original": "नशीली है तू, लगे जैसे cocaine",
+      "romanized": "Nasheelee hai too, lage jaise cocaine",
       "speaker": "Calm",
       "translation": "You are intoxicating, like cocaine.",
       "explanation": "Comparing a person or a lifestyle to a high-intensity drug addiction.",
@@ -91,6 +99,7 @@ export const dhoke: Song = {
     },
     {
       "original": "धोका देने दूंगा तुझे रोज़ में",
+      "romanized": "Dhokaa dene doongaa tujhe roz men",
       "speaker": "Calm",
       "translation": "I'll let you betray me daily.",
       "explanation": "A sign of toxic attachment where one accepts betrayal just to keep the person around.",
@@ -98,6 +107,7 @@ export const dhoke: Song = {
     },
     {
       "original": "बता क्या है दिक्कत तेरा दोस्त में",
+      "romanized": "Bataa kyaa hai dikkt teraa dost men",
       "speaker": "Calm",
       "translation": "Tell me, what is the problem with your friend?",
       "explanation": "Questioning the flaws in close relationships.",
@@ -105,6 +115,7 @@ export const dhoke: Song = {
     },
     {
       "original": "तू खुली मेरे आगे and it’s okay",
+      "romanized": "Too khulee mere aage and it’s okay",
       "speaker": "Calm",
       "translation": "You are open/vulnerable before me and it's okay.",
       "explanation": "Acceptance of vulnerability and raw emotions.",
@@ -112,6 +123,7 @@ export const dhoke: Song = {
     },
     {
       "original": "ढूंढूं तुझे जब भी आती तू shows पे",
+      "romanized": "Dhoondhoon tujhe jab bhee aatee too shows pe",
       "speaker": "Calm",
       "translation": "I look for you whenever you come to my shows.",
       "explanation": "The crossover between the artist's professional life and personal longing.",
@@ -119,6 +131,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मरहम बनूं तेरा अगर चोट है",
+      "romanized": "Marhm banoon teraa agr chot hai",
       "speaker": "Calm",
       "translation": "I'll be your ointment if you are wounded.",
       "explanation": "A promise of healing and support.",
@@ -126,6 +139,7 @@ export const dhoke: Song = {
     },
     {
       "original": "आजा मेरे पास और जला जोटे",
+      "romanized": "Aajaa mere paas aur jalaa jote",
       "speaker": "Calm",
       "translation": "Come to me and light up a joint.",
       "explanation": "Escaping reality through smoking together. 'Jote' is Delhi slang for a joint.",
@@ -139,6 +153,7 @@ export const dhoke: Song = {
     },
     {
       "original": "वो कहती दे दे साथ हाँ, वो ही बहुत है",
+      "romanized": "Vo kahtee de de saath haan, vo hee bahut hai",
       "speaker": "Calm",
       "translation": "She says just stay by my side, that's enough.",
       "explanation": "Simplicity in support is often all that's required.",
@@ -146,6 +161,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मैं पकडूं तेरे आंसू, यूं नहीं रोते",
+      "romanized": "Main pakdoon tere aansoo, yoon naheen rote",
       "speaker": "Calm",
       "translation": "I'll catch your tears, don't cry like this.",
       "explanation": "A comforting gesture to stop someone from grieving.",
@@ -153,6 +169,7 @@ export const dhoke: Song = {
     },
     {
       "original": "आजा मेरे साथ और जला जोटे",
+      "romanized": "Aajaa mere saath aur jalaa jote",
       "speaker": "Calm",
       "translation": "Come with me and light up a joint.",
       "explanation": "Repetition of the invitation to find peace through shared indulgence.",
@@ -160,6 +177,7 @@ export const dhoke: Song = {
     },
     {
       "original": "शांति में सबसे अलग होके",
+      "romanized": "Shaanti men sabse alg hoke",
       "speaker": "Calm",
       "translation": "In peace, being different from everyone else.",
       "explanation": "Finding a unique sense of calm away from the crowd.",
@@ -167,6 +185,7 @@ export const dhoke: Song = {
     },
     {
       "original": "आ कर Netflix and chill like you like to",
+      "romanized": "Aa kar Netflix and chill like you like to",
       "speaker": "Calm",
       "translation": "Come and Netflix and chill like you like to.",
       "explanation": "Modern slang for hanging out and hooking up/relaxing.",
@@ -174,6 +193,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मैं जानूं कितने देखे तूने",
+      "romanized": "Main jaanoon kitne dekhe toone",
       "speaker": "Calm",
       "translation": "I know how many you have seen.",
       "explanation": "Leading into the hook, referring to the number of betrayals witnessed.",
@@ -188,6 +208,7 @@ export const dhoke: Song = {
     },
     {
       "original": "धोके, ख़ारी है तू अपनों से",
+      "romanized": "Dhoke, khaaree hai too apnon se",
       "speaker": "Encore ABJ",
       "translation": "Betrayals, you've been cast out by your own.",
       "explanation": "Hook repeats, emphasizing the isolation caused by deceit.",
@@ -195,6 +216,7 @@ export const dhoke: Song = {
     },
     {
       "original": "रोके, हासिल होगा कुछ नहीं तू",
+      "romanized": "Roke, haasil hogaa kuchh naheen too",
       "speaker": "Encore ABJ",
       "translation": "By stopping, you won't achieve anything.",
       "explanation": "Hook repeats, urging to keep moving forward.",
@@ -202,6 +224,7 @@ export const dhoke: Song = {
     },
     {
       "original": "खोके, पारी है तू खुद यहाँ खोके",
+      "romanized": "Khoke, paaree hai too khud yahaan khoke",
       "speaker": "Encore ABJ",
       "translation": "Having lost it all, you are playing the game while losing yourself.",
       "explanation": "Hook repeats the cost of the street life/hustle.",
@@ -209,6 +232,7 @@ export const dhoke: Song = {
     },
     {
       "original": "सब कुछ ok",
+      "romanized": "Sab kuchh ok",
       "speaker": "Lil Bhavi",
       "translation": "Everything is okay.",
       "explanation": "Bhavi enters with a nonchalant attitude toward the chaos.",
@@ -216,6 +240,7 @@ export const dhoke: Song = {
     },
     {
       "original": "(Ok है)",
+      "romanized": "(Ok hai)",
       "speaker": "Lil Bhavi",
       "translation": "(It's okay).",
       "explanation": "Ad-lib reinforcing the mood.",
@@ -223,6 +248,7 @@ export const dhoke: Song = {
     },
     {
       "original": "दोस्त ने दिया थप्पड़ बावे सर पे दो case",
+      "romanized": "Dost ne diyaa thappr baave sar pe do case",
       "speaker": "Lil Bhavi",
       "translation": "A friend slapped (betrayed) me, and now I have two legal cases, bro.",
       "explanation": "Betrayal leading to legal trouble. 'Baave' is iconic Seedhe Maut/Delhi slang for brother/homie.",
@@ -236,6 +262,7 @@ export const dhoke: Song = {
     },
     {
       "original": "पीछे PCR और आगे बीमार road rage",
+      "romanized": "Peechhe PCR aur aage beemaar road rage",
       "speaker": "Lil Bhavi",
       "translation": "PCR (Police) behind me and a sick road rage incident ahead.",
       "explanation": "Describing the chaotic life on Delhi streets.",
@@ -255,6 +282,7 @@ export const dhoke: Song = {
     },
     {
       "original": "ख़त्म करी सारी बातें चालू ghost face",
+      "romanized": "Khatm karee saaree baaten chaaloo ghost face",
       "speaker": "Lil Bhavi",
       "translation": "Ended all talk, now turning on the ghost face.",
       "explanation": "Cutting ties and becoming cold/unreachable (Ghosting).",
@@ -269,6 +297,7 @@ export const dhoke: Song = {
     },
     {
       "original": "डाली का हूं आशिक़ पर वो लग रही cocaine",
+      "romanized": "Daalee kaa hoon aashiq par vo lag rahee cocaine",
       "speaker": "Lil Bhavi",
       "translation": "I'm a lover of the girl/street, but she feels like cocaine.",
       "explanation": "'Daali' is a slang term for a girl in certain Delhi dialects. Compares her to a drug high again.",
@@ -288,6 +317,7 @@ export const dhoke: Song = {
     },
     {
       "original": "Slay वो करती जारी, डाली मुझको लगती demon slayer",
+      "romanized": "Slay vo kartee jaaree, daalee mujhko lagtee demon slayer",
       "speaker": "Lil Bhavi",
       "translation": "She keeps slaying, girl looks like a 'Demon Slayer' to me.",
       "explanation": "Referencing the popular anime 'Demon Slayer' while using the 'slay' fashion/attitude slang.",
@@ -307,6 +337,7 @@ export const dhoke: Song = {
     },
     {
       "original": "देती वो सवारी पूरी, बावे I’m gonna pay her",
+      "romanized": "Detee vo savaaree pooree, baave I’m gonna pay her",
       "speaker": "Lil Bhavi",
       "translation": "She gives the full ride, bro I'm gonna pay her.",
       "explanation": "Could refer to a literal ride or a metaphor for the 'ride' of life/loyalty.",
@@ -321,6 +352,7 @@ export const dhoke: Song = {
     },
     {
       "original": "वो automatic असला रखती, बावे जब ये shit got real",
+      "romanized": "Vo automatic aslaa rakhtee, baave jab ye shit got real",
       "speaker": "Lil Bhavi",
       "translation": "She keeps an automatic weapon, bro, when things got real.",
       "explanation": "'Asla' means weaponry. Implies she is dangerous or well-protected.",
@@ -328,6 +360,7 @@ export const dhoke: Song = {
     },
     {
       "original": "वो fashion star और काली लगती मुझको, करती cure",
+      "romanized": "Vo fashion star aur kaalee lagtee mujhko, kartee cure",
       "speaker": "Lil Bhavi",
       "translation": "She's a fashion star and looks like 'Kaali' (Goddess) to me, she cures me.",
       "explanation": "Juxtaposing high fashion with the healing power of the fierce Goddess Kaali.",
@@ -342,6 +375,7 @@ export const dhoke: Song = {
     },
     {
       "original": "बेशक मेरी trap life पे nails हैं उसके done",
+      "romanized": "Beshk meree trap life pe nails hain uske done",
       "speaker": "Lil Bhavi",
       "translation": "Of course her nails are done despite my trap life.",
       "explanation": "The contrast between his gritty 'trap' lifestyle and her polished appearance.",
@@ -361,6 +395,7 @@ export const dhoke: Song = {
     },
     {
       "original": "Vision मेरी fish eye पे ये ढूंढे her",
+      "romanized": "Vision meree fish eye pe ye dhoondhe her",
       "speaker": "Lil Bhavi",
       "translation": "My vision is on a fish-eye lens, searching for her.",
       "explanation": "A reference to the wide-angle 'fish-eye' lens common in skate/hip-hop videos.",
@@ -375,6 +410,7 @@ export const dhoke: Song = {
     },
     {
       "original": "कहने को ये first time पर उसमें हो रहा stuck",
+      "romanized": "Kahne ko ye first time par usmen ho rahaa stuck",
       "speaker": "Lil Bhavi",
       "translation": "Supposedly the first time, but I'm getting stuck in it.",
       "explanation": "Falling deeper into a situation than intended.",
@@ -382,6 +418,7 @@ export const dhoke: Song = {
     },
     {
       "original": "डाली का मैं छीनना चाहता सारा वक़्त",
+      "romanized": "Daalee kaa main chheennaa chaahtaa saaraa vaqt",
       "speaker": "Lil Bhavi",
       "translation": "I want to steal all of the girl's time.",
       "explanation": "Expressing intense desire and possessiveness.",
@@ -389,6 +426,7 @@ export const dhoke: Song = {
     },
     {
       "original": "देने के लिए दिल और बचा सारा trust",
+      "romanized": "Dene ke lie dil aur bachaa saaraa trust",
       "speaker": "Lil Bhavi",
       "translation": "I have my heart and all my remaining trust to give.",
       "explanation": "Despite the betrayals mentioned earlier, he still has trust for this one person.",
@@ -396,6 +434,7 @@ export const dhoke: Song = {
     },
     {
       "original": "अब खामियाँ नहीं दिखती, दिखता सारा काला सच",
+      "romanized": "Ab khaamiyaan naheen dikhtee, dikhtaa saaraa kaalaa sach",
       "speaker": "Lil Bhavi",
       "translation": "Now I don't see flaws, I see the whole dark truth.",
       "explanation": "A moment of clarity where the harsh reality of the world becomes clear.",
@@ -403,6 +442,7 @@ export const dhoke: Song = {
     },
     {
       "original": "ये भूखे बंदे चाहते तेरा सारा राज़",
+      "romanized": "Ye bhookhe bande chaahte teraa saaraa raaz",
       "speaker": "Lil Bhavi",
       "translation": "These hungry people want all your secrets.",
       "explanation": "Warning about people who want to exploit someone's vulnerabilities.",
@@ -410,6 +450,7 @@ export const dhoke: Song = {
     },
     {
       "original": "तू देती उनको प्यार और वो देते बस",
+      "romanized": "Too detee unko pyaar aur vo dete bas",
       "speaker": "Lil Bhavi",
       "translation": "You give them love and they only give...",
       "explanation": "Leads back into the word 'Dhoke' (betrayals).",
@@ -417,6 +458,7 @@ export const dhoke: Song = {
     },
     {
       "original": "धोके, ख़ारी है तू अपनों से",
+      "romanized": "Dhoke, khaaree hai too apnon se",
       "speaker": "Encore ABJ",
       "translation": "Betrayals, you've been cast out by your own.",
       "explanation": "Hook repeats.",
@@ -424,6 +466,7 @@ export const dhoke: Song = {
     },
     {
       "original": "रोके, हासिल होगा कुछ नहीं तू",
+      "romanized": "Roke, haasil hogaa kuchh naheen too",
       "speaker": "Encore ABJ",
       "translation": "By stopping, you won't achieve anything.",
       "explanation": "Hook repeats.",
@@ -431,6 +474,7 @@ export const dhoke: Song = {
     },
     {
       "original": "खोके, पारी है तू खुद यहाँ खोके",
+      "romanized": "Khoke, paaree hai too khud yahaan khoke",
       "speaker": "Encore ABJ",
       "translation": "Having lost it all, you are playing the game here.",
       "explanation": "Hook repeats.",
@@ -438,6 +482,7 @@ export const dhoke: Song = {
     },
     {
       "original": "तू पूछे क्या देखा इन आँखों ने? बस धोके",
+      "romanized": "Too poochhe kyaa dekhaa in aankhon ne? Bas dhoke",
       "speaker": "Bhaskar",
       "translation": "You ask what these eyes have seen? Only betrayals.",
       "explanation": "Bhaskar begins his verse focusing on his lived experiences of being cheated.",
@@ -445,6 +490,7 @@ export const dhoke: Song = {
     },
     {
       "original": "जब घर पे न राशन, डाली देखे मैंने धोके",
+      "romanized": "Jab ghar pe na raashn, daalee dekhe mainne dhoke",
       "speaker": "Bhaskar",
       "translation": "When there was no food at home, girl, I saw betrayals.",
       "explanation": "Poverty makes betrayal sting even more; friends and family often disappear when resources are low.",
@@ -452,6 +498,7 @@ export const dhoke: Song = {
     },
     {
       "original": "और चोरी कर रहे घर पे बंदे, देखे मैंने धोके",
+      "romanized": "Aur choree kar rahe ghar pe bande, dekhe mainne dhoke",
       "speaker": "Bhaskar",
       "translation": "And people were stealing at home, I saw betrayals.",
       "explanation": "The ultimate betrayal: theft by those you live with.",
@@ -459,6 +506,7 @@ export const dhoke: Song = {
     },
     {
       "original": "ये दिल है टूटा लाखों बार, तू चाहे heartbeat सुन ले",
+      "romanized": "Ye dil hai tootaa laakhon baar, too chaahe heartbeat sun le",
       "speaker": "Bhaskar",
       "translation": "This heart has broken a million times, listen to the heartbeat if you want.",
       "explanation": "Evidence of his struggle is written in his pain.",
@@ -466,6 +514,7 @@ export const dhoke: Song = {
     },
     {
       "original": "सुन",
+      "romanized": "Sun",
       "speaker": "Bhaskar",
       "translation": "Listen.",
       "explanation": "Demanding attention for his story.",
@@ -473,6 +522,7 @@ export const dhoke: Song = {
     },
     {
       "original": "तेरा बाव़ा जान लेने जा रही अपनी swimming pool में",
+      "romanized": "Teraa baavaa jaan lene jaa rahee apnee swimming pool men",
       "speaker": "Bhaskar",
       "translation": "Your brother is going to take a life (or risk it) in his own swimming pool.",
       "explanation": "Likely a metaphor for drowning in his own environment or a dark flex.",
@@ -480,6 +530,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मैं खा धोके बड़े प्यार में, मेरे co-ed school से",
+      "romanized": "Main khaa dhoke bare pyaar men, mere co-ed school se",
       "speaker": "Bhaskar",
       "translation": "I got betrayed in love, back in my co-ed school.",
       "explanation": "Tracing his history of heartbreak back to his school days.",
@@ -487,6 +538,7 @@ export const dhoke: Song = {
     },
     {
       "original": "और बाव़े बंदे पी रहे थेसे, मैं माल बाव़े",
+      "romanized": "Aur baave bande pee rahe these, main maal baave",
       "speaker": "Bhaskar",
       "translation": "And bro, people were drinking... I was with the goods, bro.",
       "explanation": "Refers to the street economy and substance use in his circle.",
@@ -494,6 +546,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मैंने धोके देखे हर एक शाम",
+      "romanized": "Mainne dhoke dekhe har ek shaam",
       "speaker": "Bhaskar",
       "translation": "I saw betrayals every single evening.",
       "explanation": "Betrayal was a routine part of his life.",
@@ -501,6 +554,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मुझे धोका दे रहा समाज",
+      "romanized": "Mujhe dhokaa de rahaa samaaj",
       "speaker": "Bhaskar",
       "translation": "Society is betraying me.",
       "explanation": "Moving from personal to systemic betrayal.",
@@ -508,6 +562,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मुझे धोका दे रहा सामान",
+      "romanized": "Mujhe dhokaa de rahaa saamaan",
       "speaker": "Bhaskar",
       "translation": "My belongings/substances are betraying me.",
       "explanation": "Could refer to faulty products or drugs not giving the 'high' or escape anymore.",
@@ -515,6 +570,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मुझे धोका दे रहा अनाज",
+      "romanized": "Mujhe dhokaa de rahaa anaaj",
       "speaker": "Bhaskar",
       "translation": "My food is betraying me.",
       "explanation": "A deep metaphor for sustenance failing to keep him satisfied or alive.",
@@ -522,6 +578,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मुझे धोका दे रहा बाप मेरा, खाली पेट जो सो रहा",
+      "romanized": "Mujhe dhokaa de rahaa baap meraa, khaalee pet jo so rahaa",
       "speaker": "Bhaskar",
       "translation": "My father is betraying me, sleeping on an empty stomach.",
       "explanation": "The guilt and pain of seeing a parent suffer in poverty feels like a betrayal of life.",
@@ -529,6 +586,7 @@ export const dhoke: Song = {
     },
     {
       "original": "तू न जाने वो दर्द जब वो कट्टा खाली हो रहा",
+      "romanized": "Too na jaane vo dard jab vo kattaa khaalee ho rahaa",
       "speaker": "Bhaskar",
       "translation": "You don't know the pain when that country pistol is being emptied.",
       "explanation": "'Katta' is a homemade gun. Refers to the violence or the 'misfire' of life's chances.",
@@ -542,6 +600,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मैंने शुरू करे नशे, डाली दो रुपये का भोला",
+      "romanized": "Mainne shuroo kare nashe, daalee do rupye kaa bholaa",
       "speaker": "Bhaskar",
       "translation": "I started using drugs, girl, even the two-rupee 'Bhola'.",
       "explanation": "'Bhola' is a very cheap, potent cannabis-infused candy sold in North India.",
@@ -555,6 +614,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मैंने दिल्ली नापी पैरों से जब कर रहे थे तुम Ola",
+      "romanized": "Mainne dillee naapee pairon se jab kar rahe the tum Ola",
       "speaker": "Bhaskar",
       "translation": "I walked all over Delhi while you were taking Olas.",
       "explanation": "A classic struggle vs. privilege bar. He walked because he couldn't afford cabs.",
@@ -562,6 +622,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मैंने काफी देखे धोके यहाँ, बस wait कर रहा मैं मौके का",
+      "romanized": "Mainne kaaphee dekhe dhoke yahaan, bas wait kar rahaa main mauke kaa",
       "speaker": "Bhaskar",
       "translation": "I've seen many betrayals here, just waiting for my opportunity.",
       "explanation": "Turning past pain into patience for a future 'break'.",
@@ -569,6 +630,7 @@ export const dhoke: Song = {
     },
     {
       "original": "पहले कर रहा 9 से 5, ये rap बना मेरा रोशनदान",
+      "romanized": "Pahle kar rahaa 9 se 5, ye rap banaa meraa roshndaan",
       "speaker": "Bhaskar",
       "translation": "I was doing a 9 to 5, then rap became my skylight/ventilator.",
       "explanation": "'Roshandan' is a ventilator window; rap was his way to breathe and see light in a dark life.",
@@ -576,6 +638,7 @@ export const dhoke: Song = {
     },
     {
       "original": "बाव़े रोशनी से बना morning star",
+      "romanized": "Baave roshnee se banaa morning star",
       "speaker": "Bhaskar",
       "translation": "Bro, from the light I became the morning star.",
       "explanation": "'Morning Star' usually refers to Lucifer or a bright beginning; here it means rising to fame.",
@@ -583,6 +646,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मैंने trap करा जब knowledge न",
+      "romanized": "Mainne trap karaa jab knowledge na",
       "speaker": "Bhaskar",
       "translation": "I trapped (sold drugs/hustled) when I had no knowledge.",
       "explanation": "Hustling out of necessity and ignorance.",
@@ -590,6 +654,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मैंने job करी, कभी college न",
+      "romanized": "Mainne job karee, kabhee college na",
       "speaker": "Bhaskar",
       "translation": "I worked jobs, never went to college.",
       "explanation": "Emphasizing his blue-collar/street education over formal schooling.",
@@ -597,6 +662,7 @@ export const dhoke: Song = {
     },
     {
       "original": "ना आँसू करते falling, जाने कितने देखूं धोके यहाँ",
+      "romanized": "Naa aansoo karte falling, jaane kitne dekhoon dhoke yahaan",
       "speaker": "Bhaskar",
       "translation": "Tears don't fall anymore, I've seen so many betrayals here.",
       "explanation": "Becoming numb to pain after experiencing too much of it.",
@@ -604,6 +670,7 @@ export const dhoke: Song = {
     },
     {
       "original": "जाने कितने आँसू पी चुका जब पी ले माँ की दाल",
+      "romanized": "Jaane kitne aansoo pee chukaa jab pee le maan kee daal",
       "speaker": "Bhaskar",
       "translation": "I've swallowed so many tears while eating the dal made by my mother.",
       "explanation": "Eating simple food in poverty while hiding his sorrow from his mother.",
@@ -611,6 +678,7 @@ export const dhoke: Song = {
     },
     {
       "original": "जाने कितनी सदियाँ मैं जी करूँ दिल से बात",
+      "romanized": "Jaane kitnee sadiyaan main jee karoon dil se baat",
       "speaker": "Bhaskar",
       "translation": "Who knows how many centuries I've lived, talking from my heart.",
       "explanation": "His struggle makes him feel old and wise beyond his years.",
@@ -618,6 +686,7 @@ export const dhoke: Song = {
     },
     {
       "original": "तुझे याद है धोका, पर न याद है मेरा प्यार",
+      "romanized": "Tujhe yaad hai dhokaa, par na yaad hai meraa pyaar",
       "speaker": "Bhaskar",
       "translation": "You remember the betrayal, but you don't remember my love.",
       "explanation": "People tend to fixate on the negative and forget the devotion offered.",
@@ -625,6 +694,7 @@ export const dhoke: Song = {
     },
     {
       "original": "बाव़े ने झाई काटी पार्कों में सोके",
+      "romanized": "Baave ne jhaaee kaatee paarkon men soke",
       "speaker": "Bhaskar",
       "translation": "Your brother spent his time sleeping in parks.",
       "explanation": "A reference to homelessness or roughing it out during the struggle.",
@@ -632,6 +702,7 @@ export const dhoke: Song = {
     },
     {
       "original": "मैं कर रहा sacrifice, वो समझे ये है धोका",
+      "romanized": "Main kar rahaa sacrifice, vo samjhe ye hai dhokaa",
       "speaker": "Bhaskar",
       "translation": "I am making sacrifices, but she thinks it's a betrayal.",
       "explanation": "A common theme: the distance required for the hustle is misinterpreted as neglect or cheating.",
@@ -639,6 +710,7 @@ export const dhoke: Song = {
     },
     {
       "original": "धोके, ख़ारी है तू अपनों से",
+      "romanized": "Dhoke, khaaree hai too apnon se",
       "speaker": "Encore ABJ",
       "translation": "Betrayals, you've been cast out by your own.",
       "explanation": "Hook repeats.",
@@ -646,6 +718,7 @@ export const dhoke: Song = {
     },
     {
       "original": "रोके, हासिल होगा कुछ नहीं तू",
+      "romanized": "Roke, haasil hogaa kuchh naheen too",
       "speaker": "Encore ABJ",
       "translation": "By stopping, you won't achieve anything.",
       "explanation": "Hook repeats.",
@@ -653,6 +726,7 @@ export const dhoke: Song = {
     },
     {
       "original": "खोके, पारी है तू खुद यहाँ खोके",
+      "romanized": "Khoke, paaree hai too khud yahaan khoke",
       "speaker": "Encore ABJ",
       "translation": "Having lost it all, you are playing the game here.",
       "explanation": "Hook repeats.",
@@ -660,6 +734,7 @@ export const dhoke: Song = {
     },
     {
       "original": "बस खाली रखियो अपना mind right",
+      "romanized": "Bas khaalee rakhiyo apnaa mind right",
       "speaker": "Encore ABJ",
       "translation": "Just keep your mind right.",
       "explanation": "Advice to stay focused despite the surrounding deceit.",
@@ -667,6 +742,7 @@ export const dhoke: Song = {
     },
     {
       "original": "सब कुछ clear है, हो जाता in the hindsight",
+      "romanized": "Sab kuchh clear hai, ho jaataa in the hindsight",
       "speaker": "Encore ABJ",
       "translation": "Everything is clear, it becomes so in hindsight.",
       "explanation": "Looking back, the reasons for betrayals and struggles become obvious.",
@@ -674,6 +750,7 @@ export const dhoke: Song = {
     },
     {
       "original": "तभी सुर और studio है मेरी night life",
+      "romanized": "Tabhee sur aur studio hai meree night life",
       "speaker": "Encore ABJ",
       "translation": "That's why melodies and the studio are my nightlife.",
       "explanation": "Choosing work/art over the superficial 'party' nightlife.",
@@ -681,6 +758,7 @@ export const dhoke: Song = {
     },
     {
       "original": "तेरी शक्ल देखी and it’s all white lies",
+      "romanized": "Teree shakl dekhee and it’s all white lies",
       "speaker": "Encore ABJ",
       "translation": "I saw your face and it's all white lies.",
       "explanation": "Seeing through the harmless-seeming lies of a partner or associate.",
@@ -688,6 +766,7 @@ export const dhoke: Song = {
     },
     {
       "original": "It’s all धोके",
+      "romanized": "It’s all dhoke",
       "speaker": "Encore ABJ",
       "translation": "It's all betrayals.",
       "explanation": "Concluding that everything around is built on deception.",

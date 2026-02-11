@@ -10,6 +10,7 @@ export const mmm: Song = {
   "lyrics": [
     {
       "original": "Jaaga to",
+      "devanagari": "जागा तो",
       "speaker": "Calm",
       "translation": "When I woke up...",
       "explanation": "Calm begins narrating his day, setting the scene of waking up late after a long night.",
@@ -17,6 +18,7 @@ export const mmm: Song = {
     },
     {
       "original": "Paani mein Crocin ek ghula ke",
+      "devanagari": "पानी में Crocin एक घुला के",
       "speaker": "Calm",
       "translation": "Dissolved a Crocin in water.",
       "explanation": "He wakes up hungover or unwell, popping a painkiller first thing in the morning.",
@@ -30,6 +32,7 @@ export const mmm: Song = {
     },
     {
       "original": "Daale cortez utha jagah do",
+      "devanagari": "डाले Cortez उठा जगह दो",
       "speaker": "Calm",
       "translation": "Put on the Cortez, got up, make room.",
       "explanation": "He throws on his Nike Cortez sneakers and gets moving, telling people to step aside.",
@@ -43,6 +46,7 @@ export const mmm: Song = {
     },
     {
       "original": "Baje the dupher ke sawa do",
+      "devanagari": "बजे थे दुपहर के सवा दो",
       "speaker": "Calm",
       "translation": "It was quarter past two in the afternoon.",
       "explanation": "He woke up at 2:15 PM, showing the late-night rapper lifestyle of sleeping in late.",
@@ -50,6 +54,7 @@ export const mmm: Song = {
     },
     {
       "original": "Baje the subha tak dabake",
+      "devanagari": "बजे थे सुबह तक दबाके",
       "speaker": "Calm",
       "translation": "Was partying hard until morning.",
       "explanation": "He was up all night partying, which is why he woke up so late.",
@@ -63,6 +68,7 @@ export const mmm: Song = {
     },
     {
       "original": "Sab bole bas judge kare tumhe log",
+      "devanagari": "सब बोले बस judge करे तुम्हें लोग",
       "speaker": "Calm",
       "translation": "Everyone says people will just judge you.",
       "explanation": "People around him warn that others will judge his lifestyle and choices.",
@@ -70,6 +76,7 @@ export const mmm: Song = {
     },
     {
       "original": "Hoga kya dekhenge khud aage",
+      "devanagari": "होगा क्या देखेंगे ख़ुद आगे",
       "speaker": "Calm",
       "translation": "What happens, we'll see for ourselves ahead.",
       "explanation": "A carefree dismissal of the judgment -- he'll deal with whatever comes his way.",
@@ -77,6 +84,7 @@ export const mmm: Song = {
     },
     {
       "original": "Tak tab hai pappu lo pakad lo",
+      "devanagari": "तक तब है पप्पू लो पकड़ लो",
       "speaker": "Calm",
       "translation": "Until then, here Pappu, hold on to this.",
       "explanation": "Dismissing someone as 'Pappu' (a clueless person), telling them to just deal with it for now.",
@@ -90,6 +98,7 @@ export const mmm: Song = {
     },
     {
       "original": "Hai PS4 likha techrider mein",
+      "devanagari": "है PS4 लिखा tech rider में",
       "speaker": "Calm",
       "translation": "PS4 is written in my tech rider.",
       "explanation": "They've included a PlayStation 4 in their technical rider for shows, showing how they mix gaming with their touring lifestyle.",
@@ -103,6 +112,7 @@ export const mmm: Song = {
     },
     {
       "original": "FIFA likhaaya bakaaeda bey",
+      "devanagari": "FIFA लिखाया बाक़ायदा बे",
       "speaker": "Calm",
       "translation": "Got FIFA written in properly, bro.",
       "explanation": "They specifically requested FIFA (the football video game) in their rider, emphasizing how seriously they take their gaming.",
@@ -116,6 +126,7 @@ export const mmm: Song = {
     },
     {
       "original": "Stage bada gaand faad Line up",
+      "devanagari": "Stage बड़ा गांड फाड़ lineup",
       "speaker": "Calm",
       "translation": "Big stage, ass-tearing lineup.",
       "explanation": "They're performing on big stages with killer lineups, destroying it every time.",
@@ -129,6 +140,7 @@ export const mmm: Song = {
     },
     {
       "original": "Bande raate kaate lino pe",
+      "devanagari": "बंदे रातें काटे lino पे",
       "speaker": "Calm",
       "translation": "The guys spent nights on the linoleum floor.",
       "explanation": "Reflecting on the grind -- sleeping on floors during tours or early days when they had nothing.",
@@ -142,6 +154,7 @@ export const mmm: Song = {
     },
     {
       "original": "Accha bura yaha na laaiyo oye",
+      "devanagari": "अच्छा बुरा यहाँ ना लाइयो ओए",
       "speaker": "Calm",
       "translation": "Don't bring your good-bad talk here, hey.",
       "explanation": "Telling people not to bring their moral judgments or gossip into his space.",
@@ -149,6 +162,7 @@ export const mmm: Song = {
     },
     {
       "original": "Puraane khilaadi kuch mayoae",
+      "devanagari": "पुराने खिलाड़ी कुछ मायूसे",
       "speaker": "Calm",
       "translation": "The old players are a bit disheartened.",
       "explanation": "Veteran rappers in the scene are losing hope because Seedhe Maut is taking over.",
@@ -162,6 +176,7 @@ export const mmm: Song = {
     },
     {
       "original": "Badhna chahte khud ni Sunna chahta kuch ni saalo se jeere parchaiyo mein (chutiye)",
+      "devanagari": "बढ़ना चाहते ख़ुद नी सुनना चाहता कुछ नी सालो से जीरे परछाइयो में (चूतिये)",
       "speaker": "Calm",
       "translation": "They want to grow but don't want to improve themselves. Don't want to listen to anything, been living in shadows for years (idiots).",
       "explanation": "Calm calls out rappers who want success but refuse to put in the work or take feedback, living in obscurity for years.",
@@ -175,6 +190,7 @@ export const mmm: Song = {
     },
     {
       "original": "Inn jaise parose kadhaiyo mein",
+      "devanagari": "इन जैसे परोसे कढ़ाइयो में",
       "speaker": "Calm",
       "translation": "I'll serve these guys up in pots.",
       "explanation": "He'll cook these rappers metaphorically -- serving them up like food in a kadhai (wok).",
@@ -188,6 +204,7 @@ export const mmm: Song = {
     },
     {
       "original": "Dikhti kyu jalan badhaiyo mein",
+      "devanagari": "दिखती क्यूँ जलन बधाइयो में",
       "speaker": "Calm",
       "translation": "Why does jealousy show up even in congratulations?",
       "explanation": "Calling out fake people whose jealousy is visible even when they're supposedly congratulating him.",
@@ -201,6 +218,7 @@ export const mmm: Song = {
     },
     {
       "original": "Dalai lama saitama jhai mein main Kai bana",
+      "devanagari": "Dalai Lama Saitama झाई में मैं Kai बना",
       "speaker": "Calm",
       "translation": "Dalai Lama, Saitama -- in the fight, I became Kai.",
       "explanation": "He's as calm as the Dalai Lama, as powerful as Saitama (One Punch Man), and transforms like Kai (Dragon Ball Z villain) in battle.",
@@ -224,6 +242,7 @@ export const mmm: Song = {
     },
     {
       "original": "Inko hu Rakhta main dairo mein",
+      "devanagari": "इनको हूँ रखता मैं दायरो में",
       "speaker": "Calm",
       "translation": "I keep them in circles.",
       "explanation": "He keeps his rivals running in circles, unable to keep up with him.",
@@ -237,6 +256,7 @@ export const mmm: Song = {
     },
     {
       "original": "Deal karu mana dekh signed hu main",
+      "devanagari": "Deal करू मना देख signed हूँ मैं",
       "speaker": "Calm",
       "translation": "I'll make deals, don't refuse -- look, I'm signed.",
       "explanation": "He's telling people to take him seriously because he has a legitimate deal and is a signed artist.",
@@ -244,6 +264,7 @@ export const mmm: Song = {
     },
     {
       "original": "Aaj ke liye Bruce Almighty main",
+      "devanagari": "आज के लिए Bruce Almighty मैं",
       "speaker": "Calm",
       "translation": "For today, I'm Bruce Almighty.",
       "explanation": "He feels all-powerful today, like Jim Carrey's character in Bruce Almighty who temporarily gains God's powers.",
@@ -257,6 +278,7 @@ export const mmm: Song = {
     },
     {
       "original": "Zyada na daalta main tang kahi",
+      "devanagari": "ज़्यादा ना डालता मैं टाँग कहीं",
       "speaker": "Calm",
       "translation": "I don't stick my legs out too much anywhere.",
       "explanation": "He doesn't overstep or interfere in others' business -- he stays in his lane.",
@@ -264,6 +286,7 @@ export const mmm: Song = {
     },
     {
       "original": "Kuch hai bas dil se jinse thoda tight hu main",
+      "devanagari": "कुछ है बस दिल से जिनसे थोड़ा tight हूँ मैं",
       "speaker": "Calm",
       "translation": "There are just a few people I'm genuinely tight with from the heart.",
       "explanation": "He keeps a small, close circle of real friends he truly cares about.",
@@ -277,6 +300,7 @@ export const mmm: Song = {
     },
     {
       "original": "Sunn, Swiggy kar chicken wings abhi toh",
+      "devanagari": "सुन, Swiggy कर chicken wings अभी तोह",
       "speaker": "Calm",
       "translation": "Listen, order chicken wings on Swiggy right now.",
       "explanation": "Casual lifestyle moment -- ordering food delivery while chilling at home.",
@@ -290,6 +314,7 @@ export const mmm: Song = {
     },
     {
       "original": "Khate hue dekhenge Naruto",
+      "devanagari": "खाते हुए देखेंगे Naruto",
       "speaker": "Calm",
       "translation": "We'll watch Naruto while eating.",
       "explanation": "A relatable slice-of-life bar -- eating delivery food while binge-watching anime.",
@@ -303,6 +328,7 @@ export const mmm: Song = {
     },
     {
       "original": "Chalegi poori raat daaru main Tansen hu",
+      "devanagari": "चलेगी पूरी रात दारू मैं तानसेन हूँ",
       "speaker": "Calm",
       "translation": "Drinks will flow all night, I'm Tansen.",
       "explanation": "Drinking all night while comparing himself to Tansen, the legendary Mughal-era musician, implying his musical genius flows even while intoxicated.",
@@ -316,6 +342,7 @@ export const mmm: Song = {
     },
     {
       "original": "Hogi yaha baarish main gaadu to",
+      "devanagari": "होगी यहाँ बारिश मैं गाड़ू तो",
       "speaker": "Calm",
       "translation": "If it rains here, I'll drive through it.",
       "explanation": "Nothing stops his momentum -- even rain won't slow him down.",
@@ -323,6 +350,7 @@ export const mmm: Song = {
     },
     {
       "original": "Udegi kali fukaadu jo",
+      "devanagari": "उड़ेगी काली फुकाड़ू जो",
       "speaker": "Calm",
       "translation": "The dark smoke will rise from the braggart.",
       "explanation": "The posers and braggarts will be exposed and destroyed -- their smoke (kali) will rise as they burn out.",
@@ -336,6 +364,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ungli se parwat uthadu toh",
+      "devanagari": "उँगली से पर्वत उठादू तोह",
       "speaker": "Calm",
       "translation": "If I lift a mountain with my finger...",
       "explanation": "A reference to the Hindu mythological story of Lord Krishna lifting the Govardhan mountain on his finger -- Calm claims similar godlike power.",
@@ -349,6 +378,7 @@ export const mmm: Song = {
     },
     {
       "original": "Aao sharan lo",
+      "devanagari": "आओ शरण लो",
       "speaker": "Calm",
       "translation": "Come, take shelter.",
       "explanation": "Continuing the Krishna metaphor -- just as villagers took shelter under the mountain, Calm tells rivals to submit and take refuge.",
@@ -362,6 +392,7 @@ export const mmm: Song = {
     },
     {
       "original": "Hu jaise main Modi ki government",
+      "devanagari": "हूँ जैसे मैं Modi की government",
       "speaker": "Calm",
       "translation": "I'm like Modi's government.",
       "explanation": "Comparing himself to the BJP government under Narendra Modi -- dominant, unavoidable, and in control of everything whether you like it or not.",
@@ -375,6 +406,7 @@ export const mmm: Song = {
     },
     {
       "original": "Chahta main zyada yaha maamla garam ho",
+      "devanagari": "चाहता मैं ज़्यादा यहाँ मामला गरम हो",
       "speaker": "Calm",
       "translation": "I want things to heat up even more here.",
       "explanation": "He thrives on intensity and competition -- he wants the scene to get even more heated.",
@@ -388,6 +420,7 @@ export const mmm: Song = {
     },
     {
       "original": "Jab jebe bhari padhe paise chale Starbucks",
+      "devanagari": "जब जेबें भरी पड़े पैसे चले Starbucks",
       "speaker": "Calm",
       "translation": "When the pockets are full, we head to Starbucks.",
       "explanation": "When money comes in, they treat themselves to Starbucks -- a flex in the Indian context where Starbucks is seen as premium.",
@@ -401,6 +434,7 @@ export const mmm: Song = {
     },
     {
       "original": "Crew poora sab khana khaaye chaar waqt",
+      "devanagari": "Crew पूरा सब खाना खाए चार वक़्त",
       "speaker": "Calm",
       "translation": "The whole crew eats food four times a day.",
       "explanation": "He makes sure his entire crew is fed well -- four meals a day. Taking care of his people is a priority.",
@@ -408,6 +442,7 @@ export const mmm: Song = {
     },
     {
       "original": "Pohoche 24/7 chahiye Sour Punk",
+      "devanagari": "पहुँचे 24/7 चाहिए Sour Punk",
       "speaker": "Calm",
       "translation": "Need Sour Punk available 24/7 wherever we go.",
       "explanation": "A fun, casual demand -- he wants his favorite candy available at all times.",
@@ -421,6 +456,7 @@ export const mmm: Song = {
     },
     {
       "original": "Jaha bhi dikha bole bhai \"Chal, suna chaar shabd\"",
+      "devanagari": "जहाँ भी दिखा बोले भाई \"चल, सुना चार शब्द\"",
       "speaker": "Calm",
       "translation": "Wherever they see me, they say 'Come on, spit a few bars.'",
       "explanation": "People constantly ask him to freestyle whenever they spot him in public -- a sign of his popularity but also an annoyance.",
@@ -434,6 +470,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ye halwa nahi hai baat ta firru beta sunna hai toh leke ticket show pe aa",
+      "devanagari": "ये हलवा नहीं है बात ता फिर्रू बेटा सुनना है तोह लेके ticket show पे आ",
       "speaker": "Calm",
       "translation": "This isn't easy, kid. If you want to hear me, buy a ticket and come to the show.",
       "explanation": "He's not giving out free performances. His art has value -- you want to hear him, pay for it at a show.",
@@ -447,6 +484,7 @@ export const mmm: Song = {
     },
     {
       "original": "Tera favourite rapper daala body bag mein feku body kaha hai Duvidha",
+      "devanagari": "तेरा favourite rapper डाला body bag में फेकू body कहाँ है दुविधा",
       "speaker": "Calm",
       "translation": "Put your favorite rapper in a body bag, I'll throw the body -- where is the dilemma?",
       "explanation": "He's metaphorically murdering other rappers lyrically and disposing of them without any hesitation or moral conflict.",
@@ -465,6 +503,7 @@ export const mmm: Song = {
     },
     {
       "original": "Mujhe ek hi chale yaha na neki dost hai palte jaise haath mein paisa aaya",
+      "devanagari": "मुझे एक ही चले यहाँ ना नेकी दोस्त है पलटे जैसे हाथ में पैसा आया",
       "speaker": "Calm",
       "translation": "Only one thing works for me here -- no good friends left, they flip the moment money comes into their hands.",
       "explanation": "A real observation about how money changes people. Friends turn fake once financial success arrives.",
@@ -472,6 +511,7 @@ export const mmm: Song = {
     },
     {
       "original": "Banke dekha accha kata bura seekha wahi se mujhe saala teherna aaya",
+      "devanagari": "बनके देखा अच्छा कटा बुरा सीखा वहीं से मुझे साला ठहरना आया",
       "speaker": "Calm",
       "translation": "Tried being good, learned the hard way -- that's where I learned patience.",
       "explanation": "He tried being a good person and got burned for it. Those hard experiences taught him to be patient and cautious.",
@@ -479,6 +519,7 @@ export const mmm: Song = {
     },
     {
       "original": "Baaki lit hai theek hu mila gig hai agar",
+      "devanagari": "बाक़ी lit है ठीक हूँ मिला gig है अगर",
       "speaker": "Calm",
       "translation": "Otherwise it's all lit, I'm fine if I've got a gig.",
       "explanation": "Despite the negativity, life is good as long as he has shows and work coming in.",
@@ -492,6 +533,7 @@ export const mmm: Song = {
     },
     {
       "original": "Saari chitt hai top hai karna humme sabar",
+      "devanagari": "सारी चित्त है top है करना हमें सबर",
       "speaker": "Calm",
       "translation": "All focus, on top -- we need patience.",
       "explanation": "They're focused and at the top of their game, but patience is still needed for the long-term vision.",
@@ -505,6 +547,7 @@ export const mmm: Song = {
     },
     {
       "original": "Hai ni plan hain bade lage time hai magar",
+      "devanagari": "है नी plan हैं बड़े लगे time है मगर",
       "speaker": "Calm",
       "translation": "The plans are big but they take time.",
       "explanation": "They have ambitious plans for their career but acknowledge that success takes time.",
@@ -512,6 +555,7 @@ export const mmm: Song = {
     },
     {
       "original": "Sez aur Lambo saari hai ye mili bhagat",
+      "devanagari": "Sez और Lambo सारी है ये मिली भगत",
       "speaker": "Calm",
       "translation": "Sez and Lambo -- it's all a conspiracy.",
       "explanation": "Crediting their producers Sez on the Beat and Lambo -- they're all working together in perfect sync, like a well-planned conspiracy of quality.",
@@ -535,6 +579,7 @@ export const mmm: Song = {
     },
     {
       "original": "Hoke dekha calm kaam aata nahi",
+      "devanagari": "होके देखा Calm काम आता नहीं",
       "speaker": "Calm",
       "translation": "Tried being calm -- it doesn't work.",
       "explanation": "A wordplay on his name 'Calm' -- he tried staying calm but it doesn't help when you need to go hard.",
@@ -548,6 +593,7 @@ export const mmm: Song = {
     },
     {
       "original": "Daalo harr jagah naak kaam zyada nahi",
+      "devanagari": "डालो हर जगह नाक काम ज़्यादा नहीं",
       "speaker": "Calm",
       "translation": "You stick your nose everywhere, your actual output is nothing.",
       "explanation": "Calling out people who meddle in everything but don't produce any real work themselves.",
@@ -561,6 +607,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ye khade leke side mein pom pom",
+      "devanagari": "ये खड़े लेके side में pom pom",
       "speaker": "Calm",
       "translation": "These guys are standing on the sideline with pom-poms.",
       "explanation": "Dismissing rival rappers as cheerleaders -- they're not in the game, just watching from the side.",
@@ -574,6 +621,7 @@ export const mmm: Song = {
     },
     {
       "original": "Kifaayeti don bohot hai lungi mein naada nahi",
+      "devanagari": "किफ़ायती don बहोत है लुंगी में नाड़ा नहीं",
       "speaker": "Calm",
       "translation": "There are too many budget dons -- lungi with no drawstring.",
       "explanation": "Mocking self-proclaimed gangster rappers as cheap imitations. A lungi without a drawstring falls down -- they can't even hold themselves together.",
@@ -592,6 +640,7 @@ export const mmm: Song = {
     },
     {
       "original": "100 logo se milu roz upar se fooku main tabhi to tujhe pehchaana nahi",
+      "devanagari": "100 लोगो से मिलू रोज़ ऊपर से फूकू मैं तभी तो तुझे पहचाना नहीं",
       "speaker": "Calm",
       "translation": "I meet 100 people daily and I'm high on top of that, that's why I didn't recognize you.",
       "explanation": "Between meeting tons of people and being stoned, he genuinely doesn't remember random people who claim to know him.",
@@ -605,6 +654,7 @@ export const mmm: Song = {
     },
     {
       "original": "Yaha apne randi rone laana nahi",
+      "devanagari": "यहाँ अपने रंडी रोने लाना नहीं",
       "speaker": "Calm",
       "translation": "Don't bring your crying and whining here.",
       "explanation": "He doesn't want to hear anyone's complaints or sob stories.",
@@ -618,6 +668,7 @@ export const mmm: Song = {
     },
     {
       "original": "Hai yaha pe nahi lawda bhi lala koi",
+      "devanagari": "है यहाँ पे नहीं लौड़ा भी लाला कोई",
       "speaker": "Calm",
       "translation": "There's nobody here, not even a damn soul.",
       "explanation": "Nobody in the scene can match up -- there's no real competition around.",
@@ -625,6 +676,7 @@ export const mmm: Song = {
     },
     {
       "original": "Main bhulaadu hai bhi Dybala koi aake",
+      "devanagari": "मैं भुलादू है भी Dybala कोई आके",
       "speaker": "Calm",
       "translation": "I'll make them forget even if there's a Dybala out there.",
       "explanation": "Even if someone as skilled as Paulo Dybala shows up, Calm will outshine them and make the audience forget about them.",
@@ -638,6 +690,7 @@ export const mmm: Song = {
     },
     {
       "original": "Jitaadu me sab inhe Salah koi",
+      "devanagari": "जिताडू मैं सब इन्हें Salah कोई",
       "speaker": "Calm",
       "translation": "I'll make everyone win -- no advice needed from anyone.",
       "explanation": "A double meaning: 'Salah' as in Mohamed Salah the footballer who wins matches, and 'salah' meaning advice in Hindi. He doesn't need anyone's guidance.",
@@ -651,6 +704,7 @@ export const mmm: Song = {
     },
     {
       "original": "Jo roke toke kare baka nahi",
+      "devanagari": "जो रोके टोके करे बका नहीं",
       "speaker": "Calm",
       "translation": "Whoever tries to stop or question me -- I won't talk nonsense.",
       "explanation": "He won't waste words on people who try to hold him back. He lets his work speak.",
@@ -658,6 +712,7 @@ export const mmm: Song = {
     },
     {
       "original": "Chewbacca hu beta main yaha ka nahi",
+      "devanagari": "Chewbacca हूँ बेटा मैं यहाँ का नहीं",
       "speaker": "Calm",
       "translation": "I'm Chewbacca, kid -- I'm not from around here.",
       "explanation": "Comparing himself to Chewbacca from Star Wars -- he's a different breed, not from this world, an alien in this scene.",
@@ -671,6 +726,7 @@ export const mmm: Song = {
     },
     {
       "original": "Schumacher ki gaadi ghumaakar yaha khadi kardu wapas mera bharosa nahi",
+      "devanagari": "Schumacher की गाड़ी घुमाकर यहाँ खड़ी करदू वापस मेरा भरोसा नहीं",
       "speaker": "Calm",
       "translation": "I'll drive Schumacher's car around and park it right back here -- don't trust me though.",
       "explanation": "He moves at top speed like Schumacher's F1 car and can do the impossible, but warns you can't predict what he'll do next.",
@@ -684,6 +740,7 @@ export const mmm: Song = {
     },
     {
       "original": "Sez paaji lao pakda do Groza nayi",
+      "devanagari": "Sez पाजी लाओ पकड़ा दो Groza नई",
       "speaker": "Calm",
       "translation": "Sez bro, pass me a new Groza.",
       "explanation": "Asking Sez on the Beat (his producer) to hand him a fresh beat, likened to a Groza -- a powerful assault rifle from PUBG Mobile, hugely popular in India.",
@@ -702,6 +759,7 @@ export const mmm: Song = {
     },
     {
       "original": "Main tufaan hu Hawa ka jhoka nahi",
+      "devanagari": "मैं तूफ़ान हूँ हवा का झोका नहीं",
       "speaker": "Calm",
       "translation": "I'm a storm, not just a gust of wind.",
       "explanation": "He's not a passing breeze that comes and goes -- he's a full-blown storm that can't be ignored.",
@@ -709,6 +767,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ha du bhaidi baddua dhoka nahi",
+      "devanagari": "हा दू भैड़ी बद्दुआ धोखा नहीं",
       "speaker": "Calm",
       "translation": "Yeah, I'll give curses, not betrayal.",
       "explanation": "He might curse you to your face, but he'll never stab you in the back. He keeps it real and upfront.",
@@ -722,6 +781,7 @@ export const mmm: Song = {
     },
     {
       "original": "Tootan mein milega khokha nahi",
+      "devanagari": "तूटन में मिलेगा खोखा नहीं",
       "speaker": "Calm",
       "translation": "In the ruins you'll find substance, not an empty shell.",
       "explanation": "Even when everything falls apart, what Seedhe Maut leaves behind has real substance -- not hollow, empty content.",
@@ -735,6 +795,7 @@ export const mmm: Song = {
     },
     {
       "original": "Main kyu karu judge apne college mein",
+      "devanagari": "मैं क्यूँ करू judge अपने college में",
       "speaker": "Calm",
       "translation": "Why would I go judge at some college event?",
       "explanation": "He's past the point of judging college rap competitions -- he's a professional artist now, beyond that level.",
@@ -742,6 +803,7 @@ export const mmm: Song = {
     },
     {
       "original": "Milra jab peti se upar ek show ka sahi",
+      "devanagari": "मिलरा जब पेटी से ऊपर एक show का सही",
       "speaker": "Calm",
       "translation": "When I'm getting paid over a lakh per show, right?",
       "explanation": "He earns over one lakh (100,000 rupees) per show, so college gigs with small payouts don't make sense anymore.",
@@ -755,6 +817,7 @@ export const mmm: Song = {
     },
     {
       "original": "Show ke baad todi taang aur kari party firr ghanto tak mujhe kuch hota nahi",
+      "devanagari": "Show के बाद तोड़ी टाँग और करी party फिर घंटो तक मुझे कुछ होता नहीं",
       "speaker": "Calm",
       "translation": "After the show, kicked back and partied -- then for hours nothing affects me.",
       "explanation": "Post-show routine: party hard and then enter a zone where nothing can bother him.",
@@ -768,6 +831,7 @@ export const mmm: Song = {
     },
     {
       "original": "Groupies pe maaru main gota nahi",
+      "devanagari": "Groupies पे मारू मैं गोटा नहीं",
       "speaker": "Calm",
       "translation": "I don't waste my time on groupies.",
       "explanation": "Despite being a touring rapper with access to groupies, he doesn't engage with them -- he stays focused.",
@@ -781,6 +845,7 @@ export const mmm: Song = {
     },
     {
       "original": "Chutiye khayaalo mein khota nahi",
+      "devanagari": "चूतिये ख़यालो में खोटा नहीं",
       "speaker": "Calm",
       "translation": "No flaw in my thoughts, idiot.",
       "explanation": "His thinking is sharp and there's no fault in his vision or plans.",
@@ -794,6 +859,7 @@ export const mmm: Song = {
     },
     {
       "original": "Mo hone ni dega koi paper sign",
+      "devanagari": "मो होने नी देगा कोई paper sign",
       "speaker": "Calm",
       "translation": "Won't let anyone sign me over on paper blindly.",
       "explanation": "He won't let himself get exploited by unfair contracts -- a real concern in the Indian music industry where artists often get bad deals.",
@@ -801,6 +867,7 @@ export const mmm: Song = {
     },
     {
       "original": "Jabtak dikhe usse contract me locha kahi",
+      "devanagari": "जबतक दिखे उससे contract में लोचा कहीं",
       "speaker": "Calm",
       "translation": "Until I see there's some issue hidden in the contract somewhere.",
       "explanation": "He stays vigilant about contracts, making sure there are no hidden clauses or catches.",
@@ -814,6 +881,7 @@ export const mmm: Song = {
     },
     {
       "original": "Hai mere yaha party to hai sabko pata ki poori raat kisiko sona nahi",
+      "devanagari": "है मेरे यहाँ party तो है सबको पता कि पूरी रात किसीको सोना नहीं",
       "speaker": "Calm",
       "translation": "If there's a party at my place, everyone knows nobody's sleeping all night.",
       "explanation": "Calm closes his verse with a classic party bar -- his gatherings are legendary and go on until morning.",
@@ -821,6 +889,7 @@ export const mmm: Song = {
     },
     {
       "original": "Maa boli sheher badnaam hai",
+      "devanagari": "माँ बोली शहर बदनाम है",
       "speaker": "Encore ABJ",
       "translation": "Mom said the city has a bad reputation.",
       "explanation": "Encore opens by recalling his mother's warning about living in Delhi/NCR -- a city known for being rough.",
@@ -828,6 +897,7 @@ export const mmm: Song = {
     },
     {
       "original": "Yaha lad ek haath se aur ek haath rakhio jeb pe",
+      "devanagari": "यहाँ लड़ एक हाथ से और एक हाथ रखियो जेब पे",
       "speaker": "Encore ABJ",
       "translation": "Fight with one hand here and keep the other hand on your pocket.",
       "explanation": "His mother's advice: always be ready to fight, but also protect your wallet. The city will test you both physically and financially.",
@@ -835,6 +905,7 @@ export const mmm: Song = {
     },
     {
       "original": "Jatt se batwa ret de",
+      "devanagari": "जट से बटवा रेत दे",
       "speaker": "Encore ABJ",
       "translation": "A Jatt will make you hand over your wallet on sand.",
       "explanation": "Warning about getting robbed -- Jatts are stereotypically portrayed as tough in North Indian culture, and the image is of being held up in a desolate area.",
@@ -853,6 +924,7 @@ export const mmm: Song = {
     },
     {
       "original": "Batwara, nahi koi safe play",
+      "devanagari": "बँटवारा, नहीं कोई safe play",
       "speaker": "Encore ABJ",
       "translation": "It's a division, there's no safe play here.",
       "explanation": "There's no playing it safe in this city -- everything is divided and you have to pick a side.",
@@ -866,6 +938,7 @@ export const mmm: Song = {
     },
     {
       "original": "Gareeb the lekin anek the",
+      "devanagari": "ग़रीब थे लेकिन अनेक थे",
       "speaker": "Encore ABJ",
       "translation": "We were poor but we were many.",
       "explanation": "They came from poverty but had strength in numbers -- their crew was large and tight-knit.",
@@ -873,6 +946,7 @@ export const mmm: Song = {
     },
     {
       "original": "Kiya aisa kuch",
+      "devanagari": "किया ऐसा कुछ",
       "speaker": "Encore ABJ",
       "translation": "Did something like that...",
       "explanation": "A transition line -- they managed to do something remarkable despite the odds.",
@@ -880,6 +954,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ab main aur meri gandi aadate",
+      "devanagari": "अब मैं और मेरी गंदी आदतें",
       "speaker": "Encore ABJ",
       "translation": "Now it's me and my bad habits.",
       "explanation": "He acknowledges his vices and flaws, being honest about who he is now that he's made it.",
@@ -887,6 +962,7 @@ export const mmm: Song = {
     },
     {
       "original": "Mile roz roz fir khaana khaaye ek hi mej pe",
+      "devanagari": "मिले रोज़ रोज़ फिर खाना खाए एक ही मेज़ पे",
       "speaker": "Encore ABJ",
       "translation": "We meet every day and eat at the same table.",
       "explanation": "Despite success, the crew still eats together daily -- loyalty and brotherhood remain unchanged.",
@@ -894,6 +970,7 @@ export const mmm: Song = {
     },
     {
       "original": "Gati hui abhi tez tez",
+      "devanagari": "गति हुई अभी तेज़ तेज़",
       "speaker": "Encore ABJ",
       "translation": "The pace has gotten faster and faster now.",
       "explanation": "Their career momentum is accelerating rapidly.",
@@ -901,6 +978,7 @@ export const mmm: Song = {
     },
     {
       "original": "Tareefo mein chupi hate hate",
+      "devanagari": "तारीफ़ो में छुपी hate hate",
       "speaker": "Encore ABJ",
       "translation": "Hatred is hidden in the compliments.",
       "explanation": "People compliment them to their face but secretly hate them -- classic snake behavior in the scene.",
@@ -908,6 +986,7 @@ export const mmm: Song = {
     },
     {
       "original": "Laathi do maaru mai snake snake",
+      "devanagari": "लाठी दो मारू मैं snake snake",
       "speaker": "Encore ABJ",
       "translation": "Give me a stick, I'll beat the snakes.",
       "explanation": "He'll deal with the two-faced people like you deal with snakes -- with a stick.",
@@ -915,6 +994,7 @@ export const mmm: Song = {
     },
     {
       "original": "Bata ho ya ho Bape Vape",
+      "devanagari": "Bata हो या हो Bape Vape",
       "speaker": "Encore ABJ",
       "translation": "Whether it's Bata or Bape, Vape.",
       "explanation": "Whether he's wearing cheap Bata shoes or expensive Bape clothing, he stays the same. Money hasn't changed his core.",
@@ -933,6 +1013,7 @@ export const mmm: Song = {
     },
     {
       "original": "Zindagi tolu mai khushi mein",
+      "devanagari": "ज़िंदगी तोलू मैं ख़ुशी में",
       "speaker": "Encore ABJ",
       "translation": "I'll weigh my life in happiness.",
       "explanation": "He measures his life by happiness, not material wealth.",
@@ -940,6 +1021,7 @@ export const mmm: Song = {
     },
     {
       "original": "Paisa rakh jhanto ke bagal me bhaga mai jhaant/2 ka laga raasta",
+      "devanagari": "पैसा रख झांटो के बगल में भागा मैं झांट/2 का लगा रास्ता",
       "speaker": "Encore ABJ",
       "translation": "Keep the money next to your pubes, I ran the worthless path.",
       "explanation": "A raw, vulgar bar dismissing money-chasers. He took the path nobody valued and made it work.",
@@ -953,6 +1035,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ye haanf gae pehele hi kadam me (Kyu be)",
+      "devanagari": "ये हाँफ गए पहले ही क़दम में (क्यूँ बे)",
       "speaker": "Encore ABJ",
       "translation": "These guys got winded on the first step itself (Why, bro?).",
       "explanation": "Mocking other rappers who gave up early or couldn't keep pace even at the beginning.",
@@ -966,6 +1049,7 @@ export const mmm: Song = {
     },
     {
       "original": "Hanji akad hai kis baat ki?",
+      "devanagari": "हाँजी अकड़ है किस बात की?",
       "speaker": "Encore ABJ",
       "translation": "Yes, what's the arrogance about?",
       "explanation": "Questioning other rappers' ego -- what have they actually done to justify their attitude?",
@@ -979,6 +1063,7 @@ export const mmm: Song = {
     },
     {
       "original": "Jab pata hai ki Kendrick, Cole aur bhot log abhi upar se upar",
+      "devanagari": "जब पता है कि Kendrick, Cole और बहोत लोग अभी ऊपर से ऊपर",
       "speaker": "Encore ABJ",
       "translation": "When you know Kendrick, Cole, and many others are still levels above.",
       "explanation": "A humbling acknowledgment that global greats like Kendrick Lamar and J. Cole are still far ahead. Indian rappers have no reason to be arrogant when the bar is that high.",
@@ -997,6 +1082,7 @@ export const mmm: Song = {
     },
     {
       "original": "Hai jaana humein sabse door par",
+      "devanagari": "है जाना हमें सबसे दूर पर",
       "speaker": "Encore ABJ",
       "translation": "We still have to go the farthest.",
       "explanation": "They know they have a long way to go -- the journey is far from over.",
@@ -1004,6 +1090,7 @@ export const mmm: Song = {
     },
     {
       "original": "Pechana apna asli roop jab",
+      "devanagari": "पहचाना अपना असली रूप जब",
       "speaker": "Encore ABJ",
       "translation": "When we recognized our true form...",
       "explanation": "The moment they understood their real identity and potential as artists, everything changed.",
@@ -1011,6 +1098,7 @@ export const mmm: Song = {
     },
     {
       "original": "Maut dedi sabke sar pe koodkar",
+      "devanagari": "मौत दे दी सबके सर पे कूदकर",
       "speaker": "Encore ABJ",
       "translation": "Gave death to everyone by jumping over their heads.",
       "explanation": "Once they found their identity, they leapfrogged over everyone in the scene. 'Maut' (death) is also their group name -- Seedhe Maut delivered death to the competition.",
@@ -1024,6 +1112,7 @@ export const mmm: Song = {
     },
     {
       "original": "Lekin Baka nahi kuch bhi jhoot",
+      "devanagari": "लेकिन बका नहीं कुछ भी झूठ",
       "speaker": "Encore ABJ",
       "translation": "But I don't speak any lies.",
       "explanation": "Everything he says is truthful -- no fabricated stories or fake flexes.",
@@ -1031,6 +1120,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ye Tharrake dete seedhe moot",
+      "devanagari": "ये थर्राके देते सीधे मूत",
       "speaker": "Encore ABJ",
       "translation": "These guys tremble and piss themselves straight.",
       "explanation": "Their rivals are so scared of Seedhe Maut that they literally shake with fear.",
@@ -1049,6 +1139,7 @@ export const mmm: Song = {
     },
     {
       "original": "Dakaiti kari choda naii saboot",
+      "devanagari": "डकैती करी छोड़ा नई सबूत",
       "speaker": "Encore ABJ",
       "translation": "Committed the robbery and left no evidence.",
       "explanation": "They've robbed the scene of all its glory and left no evidence behind -- a clean heist on the rap game.",
@@ -1056,6 +1147,7 @@ export const mmm: Song = {
     },
     {
       "original": "Hai kaii sapoot support me",
+      "devanagari": "है कई सपूत support में",
       "speaker": "Encore ABJ",
       "translation": "There are many loyal supporters behind us.",
       "explanation": "They have a loyal fanbase and supporters backing them up.",
@@ -1069,6 +1161,7 @@ export const mmm: Song = {
     },
     {
       "original": "To guest list bhar",
+      "devanagari": "तो guest list भर",
       "speaker": "Encore ABJ",
       "translation": "So the guest list is full.",
       "explanation": "Their shows are packed -- the guest list is always full because of their strong support base.",
@@ -1076,6 +1169,7 @@ export const mmm: Song = {
     },
     {
       "original": "Daso dhakoslo pe baksheesh madh",
+      "devanagari": "दसो धकोसलो पे बख़्शीश मद",
       "speaker": "Encore ABJ",
       "translation": "Tips on ten pretenses -- whatever.",
       "explanation": "People offer fake praise and rewards based on false pretenses, and he sees through it all.",
@@ -1094,6 +1188,7 @@ export const mmm: Song = {
     },
     {
       "original": "Kar",
+      "devanagari": "कर",
       "speaker": "Encore ABJ",
       "translation": "Do it.",
       "explanation": "A short, punchy command -- just do it, stop talking.",
@@ -1101,6 +1196,7 @@ export const mmm: Song = {
     },
     {
       "original": "Mai chala rang race",
+      "devanagari": "मैं चला रंग race",
       "speaker": "Encore ABJ",
       "translation": "I ran the color race.",
       "explanation": "He's been in the rat race of life, dealing with all its colors and complexities.",
@@ -1114,6 +1210,7 @@ export const mmm: Song = {
     },
     {
       "original": "Pare rakh, kare sab play Kabhi",
+      "devanagari": "परे रख, करे सब play कभी",
       "speaker": "Encore ABJ",
       "translation": "Set aside, everyone plays sometimes.",
       "explanation": "Put your ego aside -- everyone gets played at some point in life.",
@@ -1121,6 +1218,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ab kare press play",
+      "devanagari": "अब करे press play",
       "speaker": "Encore ABJ",
       "translation": "Now press play.",
       "explanation": "Now it's time to start -- press play on the music and let it speak.",
@@ -1128,6 +1226,7 @@ export const mmm: Song = {
     },
     {
       "original": "Kiya jab start mila kahi support ni",
+      "devanagari": "किया जब start मिला कहीं support नी",
       "speaker": "Encore ABJ",
       "translation": "When we started, we got no support from anywhere.",
       "explanation": "Nobody backed them in the beginning -- they built everything from scratch without any industry support.",
@@ -1135,6 +1234,7 @@ export const mmm: Song = {
     },
     {
       "original": "2-300 zada koi vajood nai",
+      "devanagari": "2-300 ज़्यादा कोई वजूद नई",
       "speaker": "Encore ABJ",
       "translation": "Beyond 200-300 people, there was no existence.",
       "explanation": "In their early days, they only had a couple hundred listeners. Beyond that, they were invisible.",
@@ -1142,6 +1242,7 @@ export const mmm: Song = {
     },
     {
       "original": "Andhera tha maine 3 teer chode",
+      "devanagari": "अँधेरा था मैंने 3 तीर छोड़े",
       "speaker": "Encore ABJ",
       "translation": "It was dark and I shot three arrows.",
       "explanation": "In complete uncertainty (darkness), he took his shots blindly -- and they all landed.",
@@ -1149,6 +1250,7 @@ export const mmm: Song = {
     },
     {
       "original": "Lage sab sateek gaya koi achook naii",
+      "devanagari": "लगे सब सटीक गया कोई अचूक नई",
       "speaker": "Encore ABJ",
       "translation": "All hit their mark, none missed.",
       "explanation": "Every move they made was precise and successful -- no wasted effort.",
@@ -1167,6 +1269,7 @@ export const mmm: Song = {
     },
     {
       "original": "Chue sab dil raha koi achoot nai",
+      "devanagari": "छुए सब दिल रहा कोई अछूत नई",
       "speaker": "Encore ABJ",
       "translation": "Touched all hearts, nobody was left untouched.",
       "explanation": "Their music reached everyone without discrimination -- no one was left out.",
@@ -1180,6 +1283,7 @@ export const mmm: Song = {
     },
     {
       "original": "Hate aai lekin hui mehsoos naii",
+      "devanagari": "Hate आई लेकिन हुई महसूस नई",
       "speaker": "Encore ABJ",
       "translation": "Hate came but it wasn't felt.",
       "explanation": "They received hate but it didn't affect them -- they were too focused to feel it.",
@@ -1187,6 +1291,7 @@ export const mmm: Song = {
     },
     {
       "original": "Hui, fir koi mehfoos naii",
+      "devanagari": "हुई, फिर कोई महफ़ूज़ नई",
       "speaker": "Encore ABJ",
       "translation": "When it did hit, then nobody was safe.",
       "explanation": "When they finally acknowledged the hate, they came back with force and nobody in the scene was safe from their response.",
@@ -1200,6 +1305,7 @@ export const mmm: Song = {
     },
     {
       "original": "Maru bhale hi tera koi kasoor ni",
+      "devanagari": "मारू भले ही तेरा कोई कसूर नी",
       "speaker": "Encore ABJ",
       "translation": "I'll strike even if you're not at fault.",
       "explanation": "He's so aggressive that collateral damage doesn't concern him -- even bystanders aren't safe.",
@@ -1207,6 +1313,7 @@ export const mmm: Song = {
     },
     {
       "original": "Aake leke daagdo jooti",
+      "devanagari": "आके लेके दागदो जूती",
       "speaker": "Encore ABJ",
       "translation": "Come and hit them with a shoe.",
       "explanation": "Hitting someone with a shoe is a deep insult in South Asian culture. He's saying he'll humiliate anyone who deserves it.",
@@ -1220,6 +1327,7 @@ export const mmm: Song = {
     },
     {
       "original": "Agar kahi koi baat ho joothi",
+      "devanagari": "अगर कहीं कोई बात हो झूठी",
       "speaker": "Encore ABJ",
       "translation": "If anything said is a lie...",
       "explanation": "If anyone speaks falsely about them, there will be consequences.",
@@ -1227,6 +1335,7 @@ export const mmm: Song = {
     },
     {
       "original": "Yaha marr rahi janta bhooki",
+      "devanagari": "यहाँ मर रही जनता भूखी",
       "speaker": "Encore ABJ",
       "translation": "Here the people are dying hungry.",
       "explanation": "A socially conscious bar -- while the rich waste resources, common people are starving. Encore brings real-world awareness into his verse.",
@@ -1234,6 +1343,7 @@ export const mmm: Song = {
     },
     {
       "original": "Lekin Vaha vo banare moorti",
+      "devanagari": "लेकिन वहाँ वो बनारे मूर्ती",
       "speaker": "Encore ABJ",
       "translation": "But over there, they're building statues.",
       "explanation": "A political commentary -- the government spends money building statues while people go hungry. Likely a reference to expensive statue projects in India.",
@@ -1247,6 +1357,7 @@ export const mmm: Song = {
     },
     {
       "original": "Jaanu dard jaise akatsuki",
+      "devanagari": "जानू दर्द जैसे Akatsuki",
       "speaker": "Encore ABJ",
       "translation": "I know pain like Akatsuki.",
       "explanation": "The Akatsuki from Naruto are driven by deep personal pain and loss. Encore relates to that -- his art comes from a place of real suffering.",
@@ -1260,6 +1371,7 @@ export const mmm: Song = {
     },
     {
       "original": "Zada dukhi na",
+      "devanagari": "ज़्यादा दुखी ना",
       "speaker": "Encore ABJ",
       "translation": "Don't be too sad.",
       "explanation": "A quick reassurance -- he's acknowledging the pain but telling himself (or the listener) not to dwell on it too much.",
@@ -1267,6 +1379,7 @@ export const mmm: Song = {
     },
     {
       "original": "Bahane kamm main bumm hu fat ta swah",
+      "devanagari": "बहाने कम मैं बम हूँ फट ता स्वाह",
       "speaker": "Encore ABJ",
       "translation": "Fewer excuses -- I'm a bomb, I explode into ashes.",
       "explanation": "No excuses, only action. He's a bomb that detonates and reduces everything to ash -- pure destruction on the mic.",
@@ -1280,6 +1393,7 @@ export const mmm: Song = {
     },
     {
       "original": "Karta shaq main shabd ka mustafa",
+      "devanagari": "करता शक़ मैं शब्द का मुस्तफ़ा",
       "speaker": "Encore ABJ",
       "translation": "I doubt words -- I'm the chosen one of words.",
       "explanation": "He questions everything through his lyrics while positioning himself as the master of words. 'Mustafa' means 'the chosen one.'",
@@ -1293,6 +1407,7 @@ export const mmm: Song = {
     },
     {
       "original": "Harta dukh, main dard ka inteqam",
+      "devanagari": "हरता दुख, मैं दर्द का इंतेक़ाम",
       "speaker": "Encore ABJ",
       "translation": "I erase sorrow -- I'm revenge against pain.",
       "explanation": "His music is his weapon against suffering. He channels his pain into art as a form of revenge against life's hardships.",
@@ -1306,6 +1421,7 @@ export const mmm: Song = {
     },
     {
       "original": "Kancha bottle chalta, banta ah",
+      "devanagari": "कंचा bottle चलता, बंता आह",
       "speaker": "Encore ABJ",
       "translation": "Marble soda bottle works, Banta -- ah.",
       "explanation": "A nostalgic reference to the cheap Banta soda sold on Delhi streets in glass marble bottles. He stays connected to his humble roots.",
@@ -1324,6 +1440,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ladta sober, bhand to hasta raha",
+      "devanagari": "लड़ता sober, भांड तो हसता रहा",
       "speaker": "Encore ABJ",
       "translation": "I fight when sober, when drunk I just laugh.",
       "explanation": "Sober, he's confrontational and intense. Drunk, he lets go and finds everything amusing -- a duality in his personality.",
@@ -1337,6 +1454,7 @@ export const mmm: Song = {
     },
     {
       "original": "Pata mujhe teri hasi fake fake",
+      "devanagari": "पता मुझे तेरी हँसी fake fake",
       "speaker": "Encore ABJ",
       "translation": "I know your laughter is fake, fake.",
       "explanation": "He sees through people's fake smiles and forced laughter -- they pretend to be happy for him but aren't genuine.",
@@ -1344,6 +1462,7 @@ export const mmm: Song = {
     },
     {
       "original": "Tu tabse jalta tha",
+      "devanagari": "तू तबसे जलता था",
       "speaker": "Encore ABJ",
       "translation": "You've been burning with jealousy since then.",
       "explanation": "Calling out a specific hater who's been envious of Seedhe Maut's success for a long time.",
@@ -1357,6 +1476,7 @@ export const mmm: Song = {
     },
     {
       "original": "Jabse apna anthem nikla tha ya tabse jabse",
+      "devanagari": "जबसे अपना anthem निकला था या तबसे जबसे",
       "speaker": "Encore ABJ",
       "translation": "Ever since our anthem dropped, or maybe even before that.",
       "explanation": "The jealousy started when their breakthrough track came out, or possibly even earlier when people first sensed their potential.",
@@ -1364,6 +1484,7 @@ export const mmm: Song = {
     },
     {
       "original": "Tujhko lagi bhanak",
+      "devanagari": "तुझको लगी भनक",
       "speaker": "Encore ABJ",
       "translation": "You got a hint...",
       "explanation": "The hater sensed early on that Seedhe Maut was going to blow up.",
@@ -1377,6 +1498,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ke seedhe maut jaega 2 saal mein chamak",
+      "devanagari": "के Seedhe Maut जाएगा 2 साल में चमक",
       "speaker": "Encore ABJ",
       "translation": "That Seedhe Maut will shine in two years.",
       "explanation": "The hater realized early that Seedhe Maut would blow up within two years, and it drove them crazy with envy.",
@@ -1390,6 +1512,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ro matt chup ho kaan khol ke sun ab",
+      "devanagari": "रो मत चुप हो कान खोल के सुन अब",
       "speaker": "Encore ABJ",
       "translation": "Don't cry, shut up, open your ears and listen now.",
       "explanation": "Telling the haters to stop whining and pay attention -- Seedhe Maut has something important to say.",
@@ -1397,6 +1520,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ab iss saal hum bhed denge falak",
+      "devanagari": "अब इस साल हम भेद देंगे फ़लक",
       "speaker": "Encore ABJ",
       "translation": "This year we will pierce the sky.",
       "explanation": "A powerful declaration -- this year they will break through to the highest levels, piercing the heavens.",
@@ -1410,6 +1534,7 @@ export const mmm: Song = {
     },
     {
       "original": "Eersha ne maardi hai matt",
+      "devanagari": "ईर्ष्या ने मारदी है मत",
       "speaker": "Encore ABJ",
       "translation": "Jealousy has killed their sense.",
       "explanation": "Envy has clouded the haters' judgment so much that they can't think straight anymore.",
@@ -1423,6 +1548,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ab har ek jeet jaye inki aankho me khatak",
+      "devanagari": "अब हर एक जीत जाए इनकी आँखो में खटक",
       "speaker": "Encore ABJ",
       "translation": "Now every single win of ours stings in their eyes.",
       "explanation": "Each victory Seedhe Maut achieves is a thorn in the haters' eyes -- they can't stand watching them succeed.",
@@ -1436,6 +1562,7 @@ export const mmm: Song = {
     },
     {
       "original": "Pak pak",
+      "devanagari": "पक पक",
       "speaker": "Encore ABJ",
       "translation": "Quack quack.",
       "explanation": "Setting up the next line's duck metaphor with the sound ducks make.",
@@ -1443,6 +1570,7 @@ export const mmm: Song = {
     },
     {
       "original": "Inki thoot jaise batak",
+      "devanagari": "इनकी ठूट जैसे बतक",
       "speaker": "Encore ABJ",
       "translation": "Their mouths run like ducks.",
       "explanation": "The haters' mouths flap endlessly like ducks quacking -- all noise, no substance.",
@@ -1456,6 +1584,7 @@ export const mmm: Song = {
     },
     {
       "original": "Dekhi naii chain",
+      "devanagari": "देखी नई चैन",
       "speaker": "Encore ABJ",
       "translation": "Haven't seen peace.",
       "explanation": "He hasn't known peace or comfort -- life has been a constant struggle.",
@@ -1463,6 +1592,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ye aur gae bidak",
+      "devanagari": "ये और गए बिदक",
       "speaker": "Encore ABJ",
       "translation": "And these guys got even more spooked.",
       "explanation": "While Encore kept grinding through hardship, his rivals got scared and rattled.",
@@ -1476,6 +1606,7 @@ export const mmm: Song = {
     },
     {
       "original": "Dikhata jo yaaro ko peeth hai vo karmo se ban jata neech hai lagake ye paiso ke par chahte udd jana usi zamee se jaha khate the free me",
+      "devanagari": "दिखाता जो यारो को पीठ है वो कर्मो से बन जाता नीच है लगाके ये पैसो के पर चाहते उड़ जाना उसी ज़मीं से जहाँ खाते थे free में",
       "speaker": "Encore ABJ",
       "translation": "The one who shows his back to friends becomes lowly through his actions -- putting on wings of money, they want to fly away from the same ground where they used to eat for free.",
       "explanation": "A deep bar about fake people who betray their friends. Once they get money, they try to fly above the same community that fed them when they had nothing. Their backstabbing makes them morally inferior.",
@@ -1494,6 +1625,7 @@ export const mmm: Song = {
     },
     {
       "original": "Tu pee mera semen",
+      "devanagari": "तू पी मेरा semen",
       "speaker": "Encore ABJ",
       "translation": "Drink my semen.",
       "explanation": "A vulgar, aggressive dismissal aimed at haters -- raw and unapologetic disrespect.",
@@ -1501,6 +1633,7 @@ export const mmm: Song = {
     },
     {
       "original": "Jalti hai teri hai ye janhit me jaari hai",
+      "devanagari": "जलती है तेरी है ये जनहित में जारी है",
       "speaker": "Encore ABJ",
       "translation": "Your jealousy is burning -- this is issued in public interest.",
       "explanation": "His music making haters jealous is a public service announcement. A reference to Indian TV's mandatory 'janhit mein jaari' PSA disclaimers.",
@@ -1514,6 +1647,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ye jaise gk",
+      "devanagari": "ये जैसे GK",
       "speaker": "Encore ABJ",
       "translation": "This is like GK (general knowledge).",
       "explanation": "What he's saying should be common knowledge -- everyone should know Seedhe Maut's standing by now.",
@@ -1527,6 +1661,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ab Har jaga yaariya ab paali sab awwal khiladi 96 -18 se Gk noida",
+      "devanagari": "अब हर जगह यारियाँ अब पाली सब अव्वल खिलाड़ी 96-18 से GK Noida",
       "speaker": "Encore ABJ",
       "translation": "Now friendships everywhere, raised them all as top players since '96-'18 -- from GK to Noida.",
       "explanation": "From 1996 (their birth year) to 2018 (when they blew up), they've built connections across Delhi NCR, from South Delhi's Greater Kailash to Noida. They've nurtured real ones everywhere.",
@@ -1550,6 +1685,7 @@ export const mmm: Song = {
     },
     {
       "original": "NCR",
+      "devanagari": "NCR",
       "speaker": "Encore ABJ",
       "translation": "NCR.",
       "explanation": "A shout-out to the National Capital Region -- the Delhi metropolitan area that is home to Seedhe Maut.",
@@ -1563,6 +1699,7 @@ export const mmm: Song = {
     },
     {
       "original": "Agar kiya tune zikar mujhe abki baar",
+      "devanagari": "अगर किया तूने ज़िक्र मुझे अबकी बार",
       "speaker": "Encore ABJ",
       "translation": "If you mention me this time...",
       "explanation": "A warning -- if anyone name-drops or disrespects him again, there will be consequences.",
@@ -1570,6 +1707,7 @@ export const mmm: Song = {
     },
     {
       "original": "Sar jaega fatt du mai addhe maar",
+      "devanagari": "सर जाएगा फट दू मैं अड्ढे मार",
       "speaker": "Encore ABJ",
       "translation": "Your head will split open, I'll give you half a beating.",
       "explanation": "Even half his effort is enough to destroy someone -- a threat of overwhelming force.",
@@ -1577,6 +1715,7 @@ export const mmm: Song = {
     },
     {
       "original": "Cheeremaar dost artist hai bharte hai tangent pe laal jaise Betadine",
+      "devanagari": "चीरेमार दोस्त artist हैं भरते हैं tangent पे लाल जैसे Betadine",
       "speaker": "Encore ABJ",
       "translation": "Pickpocket friends who are artists fill up tangents, red like Betadine.",
       "explanation": "His so-called friends in the scene are thieves who steal ideas. They go off on tangents and leave wounds that need Betadine antiseptic -- their betrayal leaves marks.",
@@ -1595,6 +1734,7 @@ export const mmm: Song = {
     },
     {
       "original": "Peeche aag lagi tere jaise Hanuman jaaye Sita pe",
+      "devanagari": "पीछे आग लगी तेरे जैसे Hanuman जाए Sita पे",
       "speaker": "Encore ABJ",
       "translation": "Fire is lit behind you, like Hanuman going to rescue Sita.",
       "explanation": "A reference to the Ramayana where Hanuman's tail was set on fire and he used it to burn Lanka. Encore is the fire behind his enemies, burning everything down as he goes on his mission.",
@@ -1613,6 +1753,7 @@ export const mmm: Song = {
     },
     {
       "original": "10 tere chehre walo mein ungliya 100 hai to fark na pade tu konsa haath rakhe Gita pe",
+      "devanagari": "10 तेरे चेहरे वालो में उँगलियाँ 100 है तो फ़र्क ना पड़े तू कौनसा हाथ रखे Gita पे",
       "speaker": "Encore ABJ",
       "translation": "Among 10 people with your face, there are 100 fingers -- so it doesn't matter which hand you place on the Gita.",
       "explanation": "There are so many two-faced people like you that your oath on the Gita means nothing. Even if you swear on the holy book, nobody can tell which version of you is speaking the truth.",
@@ -1626,6 +1767,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ye sach nahi, arth yahi",
+      "devanagari": "ये सच नहीं, अर्थ यही",
       "speaker": "Encore ABJ",
       "translation": "This isn't the truth, but the meaning is this:",
       "explanation": "Transitioning to a reflective closing -- the literal words may not capture it, but the deeper meaning is what matters.",
@@ -1633,6 +1775,7 @@ export const mmm: Song = {
     },
     {
       "original": "Ke hum pe tha kuch bhi naii",
+      "devanagari": "के हम पे था कुछ भी नई",
       "speaker": "Encore ABJ",
       "translation": "That we had nothing on us.",
       "explanation": "They started with absolutely nothing -- no money, no connections, no resources.",
@@ -1640,6 +1783,7 @@ export const mmm: Song = {
     },
     {
       "original": "Shayad ab kuch bhi nahi hai",
+      "devanagari": "शायद अब कुछ भी नहीं है",
       "speaker": "Encore ABJ",
       "translation": "Maybe even now we have nothing.",
       "explanation": "Even after success, he questions whether they truly have anything -- a moment of existential reflection.",
@@ -1647,6 +1791,7 @@ export const mmm: Song = {
     },
     {
       "original": "Chaha badla nahi",
+      "devanagari": "चाहा बदला नहीं",
       "speaker": "Encore ABJ",
       "translation": "Never wanted revenge.",
       "explanation": "Despite the hate and hardship, they never sought revenge -- they just focused on their craft.",
@@ -1654,6 +1799,7 @@ export const mmm: Song = {
     },
     {
       "original": "Paisa humein badla nahi",
+      "devanagari": "पैसा हमें बदला नहीं",
       "speaker": "Encore ABJ",
       "translation": "Money hasn't changed us.",
       "explanation": "A powerful statement -- financial success hasn't altered who they are at their core.",
@@ -1667,6 +1813,7 @@ export const mmm: Song = {
     },
     {
       "original": "To jo the, hum ab bhi vahi hai",
+      "devanagari": "तो जो थे, हम अब भी वही हैं",
       "speaker": "Encore ABJ",
       "translation": "So who we were, we still are.",
       "explanation": "They remain the same people they were before fame -- grounded, real, unchanged.",
@@ -1674,6 +1821,7 @@ export const mmm: Song = {
     },
     {
       "original": "Par jaane poora scene ke hai kisse jaake ladna aur kisse doori sahi hai",
+      "devanagari": "पर जाने पूरा scene के है किससे जाके लड़ना और किससे दूरी सही है",
       "speaker": "Encore ABJ",
       "translation": "But we know the whole scene -- who to fight with and from whom to keep distance.",
       "explanation": "With experience, they've learned to navigate the politics of the DHH scene -- knowing who deserves confrontation and who should just be avoided.",
@@ -1681,6 +1829,7 @@ export const mmm: Song = {
     },
     {
       "original": "Humse famous bhot lekin poocho humse behtar kaun to honi choo bhi nahi hai",
+      "devanagari": "हमसे famous बहोत लेकिन पूछो हमसे बेहतर कौन तो होनी छू भी नहीं है",
       "speaker": "Encore ABJ",
       "translation": "Many are more famous than us, but ask who's better than us -- it's not even close.",
       "explanation": "A definitive closing statement. Others may have more fame or followers, but in terms of pure skill and artistry, nobody touches Seedhe Maut.",
@@ -1694,6 +1843,7 @@ export const mmm: Song = {
     },
     {
       "original": "Seedhe maut",
+      "devanagari": "Seedhe Maut",
       "speaker": "Encore ABJ",
       "translation": "Seedhe Maut.",
       "explanation": "The final stamp -- a simple, definitive sign-off with their name. Straight death.",

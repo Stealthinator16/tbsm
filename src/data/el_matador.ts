@@ -10,6 +10,7 @@ export const el_matador: Song = {
   "lyrics": [
     {
       "original": "तेज़ है लहर पर ऊपर चले Jetski",
+      "romanized": "Tez hai lahr par oopr chale Jetski",
       "speaker": "Calm",
       "translation": "The wave is fast, but I'm riding a Jetski on top of it.",
       "explanation": "Calm uses the 'wave' as a metaphor for trends or the fast-paced industry. Instead of just swimming, he's navigating it with superior speed and control (the Jetski).",
@@ -23,6 +24,7 @@ export const el_matador: Song = {
     },
     {
       "original": "Aim इतना अच्छा ये लौंडे पूछें sensi",
+      "romanized": "Aim itnaa achchhaa ye launde poochhen sensi",
       "speaker": "Calm",
       "translation": "My aim is so good, these kids ask for my sensitivity settings.",
       "explanation": "A gaming reference (FPS games like Valorant/CS). 'Sensi' is short for mouse sensitivity. He implies his lyrical precision is so high that others want to know his 'settings'.",
@@ -36,6 +38,7 @@ export const el_matador: Song = {
     },
     {
       "original": "नहीं करता phone पे बात माँ-बाप के साथ हो जाता हूँ senti",
+      "romanized": "Naheen kartaa phone pe baat maan-baap ke saath ho jaataa hoon senti",
       "speaker": "Calm",
       "translation": "I don't talk on the phone; I get emotional with my parents.",
       "explanation": "Calm reveals a vulnerable side, explaining that long phone calls with parents make him sentimental ('senti'), likely due to the distance or his busy lifestyle.",
@@ -49,6 +52,7 @@ export const el_matador: Song = {
     },
     {
       "original": "और जब भी होता साथ कुछ अच्छा होते बन्दे envy",
+      "romanized": "Aur jab bhee hotaa saath kuchh achchhaa hote bande envy",
       "speaker": "Calm",
       "translation": "And whenever something good happens to me, people get envious.",
       "explanation": "A commentary on the jealousy that follows success in the rap scene.",
@@ -56,6 +60,7 @@ export const el_matador: Song = {
     },
     {
       "original": "दिखता है शक्ल पे दिखती है इनकी jealousy",
+      "romanized": "Dikhtaa hai shakl pe dikhtee hai inkee jealousy",
       "speaker": "Calm",
       "translation": "It's visible on their faces, their jealousy is evident.",
       "explanation": "He notes that his detractors can't even hide their resentment; it's written all over them.",
@@ -63,6 +68,7 @@ export const el_matador: Song = {
     },
     {
       "original": "ये चाहे लिखले मेरसे ज़्यादा भड़वे still ain’t good as me",
+      "romanized": "Ye chaahe likhle merse zyaadaa bharve still ain’t good as me",
       "speaker": "Calm",
       "translation": "They can write more than me, but these sellouts still aren't as good as me.",
       "explanation": "Quality over quantity. Calm asserts that even if rivals write more volume, they can't match his skill level.",
@@ -76,6 +82,7 @@ export const el_matador: Song = {
     },
     {
       "original": "Come match the soul ये सारे show they got me packing more",
+      "romanized": "Come match the soul ye saare show they got me packing more",
       "speaker": "Calm",
       "translation": "Try to match my soul; these shows have me packing more (crowds/money).",
       "explanation": "He challenges others to match his depth while boasting about sold-out shows and financial growth.",
@@ -83,6 +90,7 @@ export const el_matador: Song = {
     },
     {
       "original": "Come catch the goat ये सारे low they got me rapping more",
+      "romanized": "Come catch the goat ye saare low they got me rapping more",
       "speaker": "Calm",
       "translation": "Come catch the GOAT; they are all low, and that makes me rap even more.",
       "explanation": "GOAT (Greatest of All Time). He feels energized by being ahead of the competition.",
@@ -96,6 +104,7 @@ export const el_matador: Song = {
     },
     {
       "original": "I cracked the code जैसे 2013 में macklemore",
+      "romanized": "I cracked the code jaise 2013 men macklemore",
       "speaker": "Calm",
       "translation": "I cracked the code like Macklemore did in 2013.",
       "explanation": "Refers to Macklemore's independent success in 2013 with 'The Heist'. Seedhe Maut prides itself on its independent rise in India.",
@@ -109,6 +118,7 @@ export const el_matador: Song = {
     },
     {
       "original": "I mastered flows when you mastered the art of capping more",
+      "romanized": "I mastered flows when you mastered the art of capping more",
       "speaker": "Calm",
       "translation": "I mastered flows while you mastered the art of lying.",
       "explanation": "'Capping' is hip-hop slang for lying or faking a lifestyle. Calm contrasts his technical growth with his rivals' fake personas.",
@@ -122,6 +132,7 @@ export const el_matador: Song = {
     },
     {
       "original": "Snapping रोज़ ये sound है सांड और भाई El Matador",
+      "romanized": "Snapping roz ye sound hai saand aur bhaaee El Matador",
       "speaker": "Calm",
       "translation": "Snapping every day; the sound is like a bull and your brother is El Matador.",
       "explanation": "An 'El Matador' is a bullfighter. Calm sees the aggressive beat/industry as the bull and himself as the one conquering it.",
@@ -135,6 +146,7 @@ export const el_matador: Song = {
     },
     {
       "original": "वो Back and forth नहीं करती sauce ऐसी she can’t ignore it",
+      "romanized": "Vo Back and forth naheen kartee sauce aisee she can’t ignore it",
       "speaker": "Calm",
       "translation": "She doesn't go back and forth; my 'sauce' is something she can't ignore.",
       "explanation": "'Sauce' refers to his charisma and style. He's saying his vibe is so strong there's no room for hesitation.",
@@ -142,6 +154,7 @@ export const el_matador: Song = {
     },
     {
       "original": "मैं ढूंढू दिल और दिमाग वो जहाँ ढूंढे tattoo gold chain",
+      "romanized": "Main dhoondhoo dil aur dimaag vo jahaan dhoondhe tattoo gold chain",
       "speaker": "Calm",
       "translation": "I search for heart and mind, where they look for tattoos and gold chains.",
       "explanation": "A critique of superficiality. He values intellect and emotion over material displays of wealth.",
@@ -149,6 +162,7 @@ export const el_matador: Song = {
     },
     {
       "original": "गन्दी M और सस्ता cocaine",
+      "romanized": "Gandee M aur sastaa cocaine",
       "speaker": "Calm",
       "translation": "Bad MDMA and cheap cocaine.",
       "explanation": "Describing the dark, hollow side of the party/drug culture they see around them.",
@@ -168,6 +182,7 @@ export const el_matador: Song = {
     },
     {
       "original": "Fendi,men with no brain",
+      "romanized": "Fendi,men with no brain",
       "speaker": "Calm",
       "translation": "Fendi, men with no brains.",
       "explanation": "People wearing luxury brands but lacking substance or intelligence.",
@@ -187,6 +202,7 @@ export const el_matador: Song = {
     },
     {
       "original": "मैं बस ढूंढू थोड़ी शान्ति",
+      "romanized": "Main bas dhoondhoo thoree shaanti",
       "speaker": "Calm",
       "translation": "I'm just looking for a bit of peace.",
       "explanation": "Despite the fame, his ultimate goal is mental tranquility.",
@@ -194,6 +210,7 @@ export const el_matador: Song = {
     },
     {
       "original": "Nothing she was hoping",
+      "romanized": "Nothing she was hoping",
       "speaker": "Calm",
       "translation": "It was nothing like she was hoping for.",
       "explanation": "The reality of this lifestyle is often grittier and less glamorous than outsiders expect.",
@@ -201,6 +218,7 @@ export const el_matador: Song = {
     },
     {
       "original": "No गन्दी M और सस्ता cocaine",
+      "romanized": "No gandee M aur sastaa cocaine",
       "speaker": "Calm",
       "translation": "No bad MDMA and cheap cocaine.",
       "explanation": "Repeating the rejection of that lifestyle.",
@@ -208,6 +226,7 @@ export const el_matador: Song = {
     },
     {
       "original": "Fendi, men with no brain",
+      "romanized": "Fendi, men with no brain",
       "speaker": "Calm",
       "translation": "Fendi, men with no brain.",
       "explanation": "Reiterating the critique of superficial status symbols.",
@@ -215,6 +234,7 @@ export const el_matador: Song = {
     },
     {
       "original": "बैठा ना कोसू मैं किस्मत को दूर ही हूँ सबसे मैं ठीक",
+      "romanized": "Baithaa naa kosoo main kismt ko door hee hoon sabse main theek",
       "speaker": "GhAatak",
       "translation": "I don't sit and curse my luck; I'm better off away from everyone.",
       "explanation": "GhAatak begins his verse by choosing self-reliance and solitude over complaining about his fate.",
@@ -222,6 +242,7 @@ export const el_matador: Song = {
     },
     {
       "original": "लगे रहा सपनो में जी अपनों में जी खुशियों के बीच रहा ज़ख्मों में जी",
+      "romanized": "Lage rahaa sapno men jee apnon men jee khushiyon ke beech rahaa zakhmon men jee",
       "speaker": "GhAatak",
       "translation": "Kept at my dreams, stayed with my people; amidst happiness, I lived with my wounds.",
       "explanation": "Highlighting the duality of his life—outward success and community, but inward pain and trauma.",
@@ -229,6 +250,7 @@ export const el_matador: Song = {
     },
     {
       "original": "खुदसे करे कुछ प्रशनो में जी",
+      "romanized": "Khudse kare kuchh prashno men jee",
       "speaker": "GhAatak",
       "translation": "Lived within some questions to myself.",
       "explanation": "Refers to a period of intense self-reflection and internal conflict.",
@@ -236,6 +258,7 @@ export const el_matador: Song = {
     },
     {
       "original": "रहा अटका अतीत के सदमे में ही मैंने ढूंढ के देखा फिर काफी दफा सुकून शराब और ग़ज़लों में भी",
+      "romanized": "Rahaa atkaa ateet ke sadme men hee mainne dhoondh ke dekhaa phir kaaphee daphaa sukoon sharaab aur gazlon men bhee",
       "speaker": "GhAatak",
       "translation": "Stuck in the trauma of the past; I tried searching for peace many times in alcohol and ghazals.",
       "explanation": "He opens up about dealing with past trauma through both healthy (art/poetry) and unhealthy (alcohol) coping mechanisms.",
@@ -243,6 +266,7 @@ export const el_matador: Song = {
     },
     {
       "original": "मैं घिसता रहा होरा था कुछ भी ना",
+      "romanized": "Main ghistaa rahaa horaa thaa kuchh bhee naa",
       "speaker": "GhAatak",
       "translation": "I kept grinding, but nothing was happening.",
       "explanation": "Refers to the long struggle period where effort didn't seem to yield results.",
@@ -250,6 +274,7 @@ export const el_matador: Song = {
     },
     {
       "original": "जीवन baawe बस कोहरा था कुछ भी ना",
+      "romanized": "Jeevn baawe bas kohraa thaa kuchh bhee naa",
       "speaker": "GhAatak",
       "translation": "Life, brother, was just fog, nothing else.",
       "explanation": "Fog ('kohra') represents the uncertainty and lack of vision he had for his future.",
@@ -263,6 +288,7 @@ export const el_matador: Song = {
     },
     {
       "original": "लगन थी हिम्मत और बोला था कुछ भी ना",
+      "romanized": "Lagn thee himmt aur bolaa thaa kuchh bhee naa",
       "speaker": "GhAatak",
       "translation": "There was dedication and courage, and I didn't say a word.",
       "explanation": "He worked in silence, letting his hustle speak for itself.",
@@ -270,6 +296,7 @@ export const el_matador: Song = {
     },
     {
       "original": "दिल में दबाया सब खोला था कुछ भी ना",
+      "romanized": "Dil men dabaayaa sab kholaa thaa kuchh bhee naa",
       "speaker": "GhAatak",
       "translation": "Buried everything in my heart, didn't open up about anything.",
       "explanation": "Suppression of emotions to stay focused on the grind.",
@@ -277,6 +304,7 @@ export const el_matador: Song = {
     },
     {
       "original": "अपनों पे जान हाज़िर baawe मैं कर रहा था नौकरी",
+      "romanized": "Apnon pe jaan haazir baawe main kar rahaa thaa naukree",
       "speaker": "GhAatak",
       "translation": "Ready to die for my people, brother; I was working a job.",
       "explanation": "He was working a regular job to survive while maintaining loyalty to his circle.",
@@ -284,6 +312,7 @@ export const el_matador: Song = {
     },
     {
       "original": "कर रहा था session और सोता था चार घंटे होरा क्या होश नहीं",
+      "romanized": "Kar rahaa thaa session aur sotaa thaa chaar ghante horaa kyaa hosh naheen",
       "speaker": "GhAatak",
       "translation": "Was doing studio sessions and sleeping four hours; I had no sense of what was happening.",
       "explanation": "The exhausting reality of trying to make it in music while working/surviving.",
@@ -291,6 +320,7 @@ export const el_matador: Song = {
     },
     {
       "original": "सोचु कब रौशनी जीवन में आये तो करदु मैं sort scene",
+      "romanized": "Sochu kab raushnee jeevn men aaye to kardu main sort scene",
       "speaker": "GhAatak",
       "translation": "Wondering when light would enter my life so I could fix my situation.",
       "explanation": "'Sort scene' is common DHH slang for fixing one's life or achieving success.",
@@ -304,6 +334,7 @@ export const el_matador: Song = {
     },
     {
       "original": "गुसा भरा मेरे भीतर toxic",
+      "romanized": "Gusaa bharaa mere bheetr toxic",
       "speaker": "GhAatak",
       "translation": "Anger filled inside me, it's toxic.",
       "explanation": "The struggle created a toxic level of resentment and rage within him.",
@@ -311,6 +342,7 @@ export const el_matador: Song = {
     },
     {
       "original": "Beato पे चढ़ता तो करता Autopsy",
+      "romanized": "Beato pe charhtaa to kartaa Autopsy",
       "speaker": "GhAatak",
       "translation": "When I get on beats, I perform an autopsy.",
       "explanation": "A metaphor for his technical skill; he dissects the beat so thoroughly it's like a medical examination of a corpse.",
@@ -318,6 +350,7 @@ export const el_matador: Song = {
     },
     {
       "original": "Record ही कर रहा मैं baawe recordin",
+      "romanized": "Record hee kar rahaa main baawe recordin",
       "speaker": "GhAatak",
       "translation": "I'm just recording, brother, recording.",
       "explanation": "Focusing solely on the work, ignoring all distractions.",
@@ -332,6 +365,7 @@ export const el_matador: Song = {
     },
     {
       "original": "दल्ले बस चाहे ये baawe we don't win",
+      "romanized": "Dalle bas chaahe ye baawe we don't win",
       "speaker": "GhAatak",
       "translation": "The sellouts just want us not to win.",
       "explanation": "He feels the industry 'pimps' or haters are rooting for his failure.",
@@ -351,6 +385,7 @@ export const el_matador: Song = {
     },
     {
       "original": "बहुत को करना है साबित गलत",
+      "romanized": "Bahut ko karnaa hai saabit galt",
       "speaker": "GhAatak",
       "translation": "Have to prove many people wrong.",
       "explanation": "Proving doubters wrong is a primary motivator.",
@@ -358,6 +393,7 @@ export const el_matador: Song = {
     },
     {
       "original": "दाव खेला मैंने जब ना थी कोई suriety",
+      "romanized": "Daav khelaa mainne jab naa thee koee suriety",
       "speaker": "GhAatak",
       "translation": "I took a gamble when there was no certainty.",
       "explanation": "Referring to the risk of choosing rap as a career when success wasn't guaranteed.",
@@ -365,6 +401,7 @@ export const el_matador: Song = {
     },
     {
       "original": "मेहनत से किस्मत दी आखिर पलट",
+      "romanized": "Mehnt se kismt dee aakhir palt",
       "speaker": "GhAatak",
       "translation": "Hard work finally flipped my fate.",
       "explanation": "Success was earned through effort, not just luck.",
@@ -372,6 +409,7 @@ export const el_matador: Song = {
     },
     {
       "original": "रहता मैं चुप चाप ये दिन थे बड़े घुसतक",
+      "romanized": "Rahtaa main chup chaap ye din the bare ghustk",
       "speaker": "GhAatak",
       "translation": "I stayed quiet, but those days were very intrusive/difficult.",
       "explanation": "He endured the hard times silently despite the overwhelming pressure.",
@@ -379,6 +417,7 @@ export const el_matador: Song = {
     },
     {
       "original": "जीना चाहा baawe था मौत खड़ी थी उस पार",
+      "romanized": "Jeenaa chaahaa baawe thaa maut kharee thee us paar",
       "speaker": "GhAatak",
       "translation": "I wanted to live, brother, but death was standing on the other side.",
       "explanation": "A reference to mental health struggles or the precarious nature of his past life.",
@@ -386,6 +425,7 @@ export const el_matador: Song = {
     },
     {
       "original": "लड़ते बस हटलो से अपनों को गया कुछ हार",
+      "romanized": "Larte bas hatlo se apnon ko gayaa kuchh haar",
       "speaker": "GhAatak",
       "translation": "Just fighting hurdles, lost some of my own people.",
       "explanation": "The journey to the top cost him certain relationships or friends.",
@@ -393,6 +433,7 @@ export const el_matador: Song = {
     },
     {
       "original": "सीख लिया समय से ना बड़ा कोई उस्ताद",
+      "romanized": "Seekh liyaa samy se naa baraa koee ustaad",
       "speaker": "GhAatak",
       "translation": "Learned that there's no teacher greater than time.",
       "explanation": "Experience and time are the ultimate educators.",
@@ -406,6 +447,7 @@ export const el_matador: Song = {
     },
     {
       "original": "कसली कमर और छोड़ी कसर ना थी दुःख दब",
+      "romanized": "Kaslee kamr aur chhoree kasr naa thee duhkh dab",
       "speaker": "GhAatak",
       "translation": "Tightened my belt and left no stone unturned; the sorrow was buried.",
       "explanation": "He prepared for the battle and worked relentlessly, burying his grief in the process.",
@@ -413,6 +455,7 @@ export const el_matador: Song = {
     },
     {
       "original": "दिल में करती बातें थी अपनों की baawe उत्पाद",
+      "romanized": "Dil men kartee baaten thee apnon kee baawe utpaad",
       "speaker": "GhAatak",
       "translation": "Thoughts of my people were creating a ruckus in my heart.",
       "explanation": "The worry or chaos regarding his family/friends was constantly on his mind.",
@@ -420,6 +463,7 @@ export const el_matador: Song = {
     },
     {
       "original": "कल था लगता baawe बस रही है खाली घुट सांस",
+      "romanized": "Kal thaa lagtaa baawe bas rahee hai khaalee ghut saans",
       "speaker": "GhAatak",
       "translation": "Yesterday it felt like I was just gasping for air.",
       "explanation": "A metaphor for the feeling of suffocation caused by poverty or stress.",
@@ -427,6 +471,7 @@ export const el_matador: Song = {
     },
     {
       "original": "हर घडी ने एक सी हवा ने बदला रुख आज",
+      "romanized": "Har ghadee ne ek see havaa ne badlaa rukh aaj",
       "speaker": "GhAatak",
       "translation": "Every moment was the same, but the wind changed direction today.",
       "explanation": "After a long period of stagnation, things have finally changed for the better.",
@@ -434,6 +479,7 @@ export const el_matador: Song = {
     },
     {
       "original": "परसो मैं CRPF camp वाले park में मार रहा था जोटे",
+      "romanized": "Parso main CRPF camp vaale park men maar rahaa thaa jote",
       "speaker": "Encore ABJ",
       "translation": "Day before yesterday, I was smoking up in the CRPF camp park.",
       "explanation": "Encore grounds his verse in a specific, gritty memory of smoking marijuana ('jote') in a park near a government camp.",
@@ -452,6 +498,7 @@ export const el_matador: Song = {
     },
     {
       "original": "कल आया नया office देख के बाईसवे floor पे",
+      "romanized": "Kal aayaa nayaa office dekh ke baaeesve floor pe",
       "speaker": "Encore ABJ",
       "translation": "Yesterday I saw the new office on the 22nd floor.",
       "explanation": "Contrasting the previous line; he's gone from smoking in public parks to having high-rise offices.",
@@ -466,6 +513,7 @@ export const el_matador: Song = {
     },
     {
       "original": "होना चाहता था दूर शायद इन लोगो के शोर से",
+      "romanized": "Honaa chaahtaa thaa door shaayd in logo ke shor se",
       "speaker": "Encore ABJ",
       "translation": "I wanted to get away, maybe from the noise of these people.",
       "explanation": "Success brings a different kind of 'noise' (fake people, industry chatter) that he wants to escape.",
@@ -473,6 +521,7 @@ export const el_matador: Song = {
     },
     {
       "original": "बगावत की बू आती दोस्तों की ओर से",
+      "romanized": "Bagaavt kee boo aatee doston kee or se",
       "speaker": "Encore ABJ",
       "translation": "I smell rebellion/betrayal from the direction of friends.",
       "explanation": "The 'El Matador' theme of caution; he senses betrayal from within his circle as he grows.",
@@ -480,6 +529,7 @@ export const el_matador: Song = {
     },
     {
       "original": "कामियाबी की सीढ़ी चढ़के खड़े घुटने पे ठोकरे",
+      "romanized": "Kaamiyaabee kee seerhee charhke khare ghutne pe thokre",
       "speaker": "Encore ABJ",
       "translation": "After climbing the ladder of success, my knees are battered.",
       "explanation": "Success wasn't an easy climb; it took a toll on him physically and mentally.",
@@ -487,6 +537,7 @@ export const el_matador: Song = {
     },
     {
       "original": "बन्दे है Roadie नहीं, भंडी-भंडी में आगए रोड पे",
+      "romanized": "Bande hai Roadie naheen, bhandee-bhandee men aagae rod pe",
       "speaker": "Encore ABJ",
       "translation": "We aren't Roadies, but we ended up on the road while high.",
       "explanation": "Wordplay on the TV show 'Roadies'. 'Bhandi' means being intoxicated. He means they aren't trying to be tough for TV, they actually live on the streets.",
@@ -500,6 +551,7 @@ export const el_matador: Song = {
     },
     {
       "original": "कमरे में दो से ज़्यादा देखे नहीं जाते है थोपड़े",
+      "romanized": "Kamre men do se zyaadaa dekhe naheen jaate hai thopre",
       "speaker": "Encore ABJ",
       "translation": "I can't stand seeing more than two faces in a room.",
       "explanation": "Reflects his social anxiety or his preference for a very small, trusted inner circle.",
@@ -507,6 +559,7 @@ export const el_matador: Song = {
     },
     {
       "original": "खुलता है मुँह ज़्यादा उसके तुरंत खुलते है खोपड़े",
+      "romanized": "Khultaa hai munh zyaadaa uske turnt khulte hai khopre",
       "speaker": "Encore ABJ",
       "translation": "If his mouth opens too much, skulls get opened immediately.",
       "explanation": "A direct threat—reckless talking leads to violent consequences.",
@@ -514,6 +567,7 @@ export const el_matador: Song = {
     },
     {
       "original": "Consistent हूँ जैसे दर्द किसी बूढ़े के जोड़ पे",
+      "romanized": "Consistent hoon jaise dard kisee boorhe ke jor pe",
       "speaker": "Encore ABJ",
       "translation": "I'm as consistent as the pain in an old man's joints.",
       "explanation": "A brilliant and dark simile comparing his constant work ethic to the persistent ache of arthritis.",
@@ -521,6 +575,7 @@ export const el_matador: Song = {
     },
     {
       "original": "Salman जैसे competition हड़काता हूँ phone पे",
+      "romanized": "Salman jaise competition harkaataa hoon phone pe",
       "speaker": "Encore ABJ",
       "translation": "Like Salman, I intimidate the competition over the phone.",
       "explanation": "Refers to Bollywood star Salman Khan's industry reputation for making intimidating phone calls.",
@@ -534,6 +589,7 @@ export const el_matador: Song = {
     },
     {
       "original": "कुछ रखती google pay और कुछ रखती यहाँपे phonepe",
+      "romanized": "Kuchh rakhtee google pay aur kuchh rakhtee yahaanpe phonepe",
       "speaker": "Encore ABJ",
       "translation": "Some use Google Pay and some use PhonePe.",
       "explanation": "Referring to modern transactional relationships where everything is about digital payments.",
@@ -541,6 +597,7 @@ export const el_matador: Song = {
     },
     {
       "original": "पर यहाँ पर एक नहीं जो रखती है प्यार ऊपर note के",
+      "romanized": "Par yahaan par ek naheen jo rakhtee hai pyaar oopr note ke",
       "speaker": "Encore ABJ",
       "translation": "But there's not one here who values love above money.",
       "explanation": "He laments that he hasn't found anyone who values genuine emotion over cash ('notes').",
@@ -548,6 +605,7 @@ export const el_matador: Song = {
     },
     {
       "original": "प्यार दे बदले में प्यार ले",
+      "romanized": "Pyaar de badle men pyaar le",
       "speaker": "Encore ABJ",
       "translation": "Give love and take love in return.",
       "explanation": "A simple call for reciprocity and genuine human connection.",
@@ -555,6 +613,7 @@ export const el_matador: Song = {
     },
     {
       "original": "एक दे दिल से और उसके बदले में चार ले",
+      "romanized": "Ek de dil se aur uske badle men chaar le",
       "speaker": "Encore ABJ",
       "translation": "Give one from the heart and get four in return.",
       "explanation": "If you are genuine, the rewards (love/respect) will multiply.",
@@ -562,6 +621,7 @@ export const el_matador: Song = {
     },
     {
       "original": "हवस भरी आँखों से लौंडे सड़क पे ताड़ रे",
+      "romanized": "Havs bharee aankhon se launde sark pe taar re",
       "speaker": "Encore ABJ",
       "translation": "With lustful eyes, guys are ogling on the streets.",
       "explanation": "Critiquing the predatory 'creep' culture common on city streets.",
@@ -575,6 +635,7 @@ export const el_matador: Song = {
     },
     {
       "original": "यहाँ हम बैठे इन जज़्बातों को समाचार का आकार दे. TBSM",
+      "romanized": "Yahaan ham baithe in jazbaaton ko samaachaar kaa aakaar de. TBSM",
       "speaker": "Encore ABJ",
       "translation": "Here we sit, giving these emotions the shape of news. TBSM.",
       "explanation": "They view their music as a 'news report' of their internal and external reality. TBSM is their signature sign-off.",

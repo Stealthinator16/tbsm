@@ -10,6 +10,7 @@ export const kodak: Song = {
   "lyrics": [
     {
       "original": "Yeah",
+      "romanized": "Yeah",
       "speaker": "King",
       "translation": "Yeah",
       "explanation": "King opens the track with an ad-lib to set the tone.",
@@ -17,6 +18,7 @@ export const kodak: Song = {
     },
     {
       "original": "मैं खींचूँ अपने पागलपन की photo, है fact",
+      "romanized": "Main kheenchoon apne paaglpn kee photo, hai fact",
       "speaker": "King",
       "translation": "I take a photo of my madness, it's a fact.",
       "explanation": "King captures his wild lifestyle on camera, owning it as his reality.",
@@ -30,6 +32,7 @@ export const kodak: Song = {
     },
     {
       "original": "मैंने खींची अपने iPhone से पर moment Kodak",
+      "romanized": "Mainne kheenchee apne iPhone se par moment Kodak",
       "speaker": "King",
       "translation": "I took it on my iPhone but the moment is Kodak.",
       "explanation": "The photo was taken on a modern iPhone, but the moment is timeless like a Kodak film photograph. Kodak here is a double entendre - the camera brand and a 'Kodak moment' meaning a picture-perfect memory.",
@@ -43,6 +46,7 @@ export const kodak: Song = {
     },
     {
       "original": "मैं आया पत्ते pack करने बस you should know that",
+      "romanized": "Main aayaa patte pack karne bas you should know that",
       "speaker": "King",
       "translation": "I came just to pack up the cards, you should know that.",
       "explanation": "King says he's here to clean up and dominate the game. 'Patte pack karna' means to wrap things up or to dominate completely.",
@@ -56,6 +60,7 @@ export const kodak: Song = {
     },
     {
       "original": "I'm feeling like I'm GOAT, man, I gotta show that (J-J-J-J)",
+      "romanized": "I'm feeling like I'm GOAT, man, I gotta show that (J-J-J-J)",
       "speaker": "King",
       "translation": "I'm feeling like I'm the GOAT, man, I gotta show that.",
       "explanation": "King feels like the Greatest Of All Time and wants to prove it through his work.",
@@ -69,6 +74,7 @@ export const kodak: Song = {
     },
     {
       "original": "Gotta show that (J-J-J)",
+      "romanized": "Gotta show that (J-J-J)",
       "speaker": "King",
       "translation": "Gotta show that.",
       "explanation": "Repeating the hook, reinforcing his intent to prove his status.",
@@ -76,6 +82,7 @@ export const kodak: Song = {
     },
     {
       "original": "Yeah, yeah",
+      "romanized": "Yeah, yeah",
       "speaker": "King",
       "translation": "Yeah, yeah.",
       "explanation": "Ad-lib transitioning into the verse.",
@@ -83,6 +90,7 @@ export const kodak: Song = {
     },
     {
       "original": "आके देख लो, भाई, मैंने नहीं खींची रजाई, थोड़ी-सी हुई पड़ी झाई",
+      "romanized": "Aake dekh lo, bhaaee, mainne naheen kheenchee rajaaee, thoree-see huee paree jhaaee",
       "speaker": "King",
       "translation": "Come and see, bro, I didn't pull the blanket over, I got a little tan.",
       "explanation": "King says he's not hiding under a blanket - he's been out in the sun living life, getting tanned. He's flexing his active, outdoor lifestyle.",
@@ -101,6 +109,7 @@ export const kodak: Song = {
     },
     {
       "original": "वो खींच रही tie, किसने है पट्टी पड़ाई? North-East से आई",
+      "romanized": "Vo kheench rahee tie, kisne hai pattee paraaee? North-East se aaee",
       "speaker": "King",
       "translation": "She's pulling my tie, who taught her this game? She came from the North-East.",
       "explanation": "A girl is pulling him closer by his tie. He describes her as being from North-East India, setting up the next lines about her.",
@@ -119,6 +128,7 @@ export const kodak: Song = {
     },
     {
       "original": "खाने में रोटी नहीं, rice, दिखने में छोटी नहीं, बढ़िया है height",
+      "romanized": "Khaane men rotee naheen, rice, dikhne men chhotee naheen, barhiyaa hai height",
       "speaker": "King",
       "translation": "She eats rice not roti, she's not short, good height.",
       "explanation": "Describing the North-Eastern girl - rice is the staple food in that region rather than roti. He also compliments her height.",
@@ -126,6 +136,7 @@ export const kodak: Song = {
     },
     {
       "original": "NCC gate के बाहर है लगा दी मैंने गाड़ी और वो मुझे ढूँढ़ती आई",
+      "romanized": "NCC gate ke baahr hai lagaa dee mainne gaaree aur vo mujhe dhoonrhtee aaee",
       "speaker": "King",
       "translation": "I parked my car outside NCC gate and she came looking for me.",
       "explanation": "King parked outside the NCC gate and the girl came searching for him, showing she's into him.",
@@ -139,6 +150,7 @@ export const kodak: Song = {
     },
     {
       "original": "साथ में एक चेली पकड़ती लाई, सफ़र में हो गई दो-दो लुगाई",
+      "romanized": "Saath men ek chelee pakrtee laaee, safr men ho gaee do-do lugaaee",
       "speaker": "King",
       "translation": "She brought a friend along with her, now I've got two women on this ride.",
       "explanation": "The girl brought her friend, so now King has two women with him. He's bragging about the situation.",
@@ -157,6 +169,7 @@ export const kodak: Song = {
     },
     {
       "original": "दोनों लुगाई के हैं बंदे घर बैठे सोच रहे, \"Baby नज़र नहीं आई\"",
+      "romanized": "Donon lugaaee ke hain bande ghar baithe soch rahe, \"Baby nazr naheen aaee\"",
       "speaker": "King",
       "translation": "Both women have men sitting at home thinking, 'Baby hasn't showed up.'",
       "explanation": "Both girls have boyfriends waiting at home wondering where they are, while they're out with King.",
@@ -164,6 +177,7 @@ export const kodak: Song = {
     },
     {
       "original": "Baby नज़र कैसे आएगी जो साथ गई मेरे? उसका lifestyle थोड़ा high",
+      "romanized": "Baby nazr kaise aaegee jo saath gaee mere? Uskaa lifestyle thoraa high",
       "speaker": "King",
       "translation": "How will she show up when she's gone with me? Her lifestyle is a bit high.",
       "explanation": "She won't be back because she's with King living it up. Her lifestyle is upscale and fast.",
@@ -171,6 +185,7 @@ export const kodak: Song = {
     },
     {
       "original": "She loves go for wine and dine, she loves to party every night",
+      "romanized": "She loves go for wine and dine, she loves to party every night",
       "speaker": "King",
       "translation": "She loves to go for wine and dine, she loves to party every night.",
       "explanation": "Describing the girl's lifestyle as someone who enjoys partying and fine dining regularly.",
@@ -178,6 +193,7 @@ export const kodak: Song = {
     },
     {
       "original": "और average हर बंदी की तरह तेरी baby ने एक से tattoo छुपाए",
+      "romanized": "Aur average har bandee kee tarh teree baby ne ek se tattoo chhupaae",
       "speaker": "King",
       "translation": "And like every average girl, your baby has hidden more than one tattoo.",
       "explanation": "King mocks the boyfriends, saying their girls have secret tattoos they don't know about - implying she has a hidden wild side.",
@@ -185,6 +201,7 @@ export const kodak: Song = {
     },
     {
       "original": "मिलेगा पक्का देख कलाई, collarbone पे चिड़िया उड़ाई",
+      "romanized": "Milegaa pakkaa dekh kalaaee, collarbone pe chiriyaa uraaee",
       "speaker": "King",
       "translation": "You'll definitely find one on the wrist, and a bird flying on the collarbone.",
       "explanation": "Describing typical tattoo placements - a wrist tattoo and a bird tattoo on the collarbone, common trendy tattoo choices.",
@@ -192,6 +209,7 @@ export const kodak: Song = {
     },
     {
       "original": "और एक तो tattoo ऐसी जगह पे जो अब तक तूने भी देखा ना, भाई",
+      "romanized": "Aur ek to tattoo aisee jagh pe jo ab tak toone bhee dekhaa naa, bhaaee",
       "speaker": "King",
       "translation": "And one tattoo is in a spot that even you haven't seen yet, bro.",
       "explanation": "There's a tattoo in an intimate spot that even the boyfriend hasn't discovered, implying King has seen more of her than the boyfriend has.",
@@ -199,6 +217,7 @@ export const kodak: Song = {
     },
     {
       "original": "लिखा, \"Bite me, bed पे fight me\"",
+      "romanized": "Likhaa, \"Bite me, bed pe fight me\"",
       "speaker": "King",
       "translation": "It says, 'Bite me, fight me in bed.'",
       "explanation": "The hidden tattoo has a provocative message, revealing her wild side.",
@@ -206,6 +225,7 @@ export const kodak: Song = {
     },
     {
       "original": "Kawasaki, कहती, \"Ride me",
+      "romanized": "Kawasaki, kahtee, \"Ride me",
       "speaker": "King",
       "translation": "Kawasaki, she says, 'Ride me.'",
       "explanation": "Comparing her to a Kawasaki motorcycle - fast, powerful, and she wants to be ridden. A sexual metaphor mixing bikes and intimacy.",
@@ -219,6 +239,7 @@ export const kodak: Song = {
     },
     {
       "original": "I'm so lonely, I'm so dicy\"",
+      "romanized": "I'm so lonely, I'm so dicy\"",
       "speaker": "King",
       "translation": "I'm so lonely, I'm so risky.",
       "explanation": "She claims to be lonely and unpredictable, adding to her seductive persona.",
@@ -232,6 +253,7 @@ export const kodak: Song = {
     },
     {
       "original": "या तो बंदे को बोल दो \"मैं friend के घर\" और सो जाओ तुम भी nicely",
+      "romanized": "Yaa to bande ko bol do \"main friend ke ghar\" aur so jaao tum bhee nicely",
       "speaker": "King",
       "translation": "Either tell the guy 'I'm at a friend's place' and sleep nicely too.",
       "explanation": "King advises her to lie to her boyfriend and stay the night with him instead.",
@@ -239,6 +261,7 @@ export const kodak: Song = {
     },
     {
       "original": "पूरी रात वो घर पे नहीं आई, सुल्तान कर गया पूरी चढ़ाई",
+      "romanized": "Pooree raat vo ghar pe naheen aaee, sultaan kar gayaa pooree charhaaee",
       "speaker": "King",
       "translation": "She didn't come home all night, the Sultan completed his conquest.",
       "explanation": "She spent the whole night out, and King, calling himself the Sultan (king/ruler), completed his conquest - a sexual metaphor.",
@@ -257,6 +280,7 @@ export const kodak: Song = {
     },
     {
       "original": "मैंने झाँझ में pen उठा कर ही लिख दी पन्ने पे एक सिखाई",
+      "romanized": "Mainne jhaanjh men pen uthaa kar hee likh dee panne pe ek sikhaaee",
       "speaker": "King",
       "translation": "In a flash, I picked up the pen and wrote a lesson on the page.",
       "explanation": "King claims he effortlessly wrote this verse teaching everyone a lesson, doing it quickly and skillfully.",
@@ -270,6 +294,7 @@ export const kodak: Song = {
     },
     {
       "original": "ऐसा कुत्ता पालने का फ़ायदा नहीं जो सर्दी में माँगे रज़ाई",
+      "romanized": "Aisaa kuttaa paalne kaa faaydaa naheen jo sardee men maange razaaee",
       "speaker": "King",
       "translation": "No point keeping a dog that asks for a blanket in winter.",
       "explanation": "A guard dog that needs comfort in the cold is useless. Metaphor for people who can't handle tough situations - they're not worth keeping around.",
@@ -283,6 +308,7 @@ export const kodak: Song = {
     },
     {
       "original": "ऐसी कुतिया नहीं बनती पालतू जो market में खेली खिलाई",
+      "romanized": "Aisee kutiyaa naheen bantee paaltoo jo market men khelee khilaaee",
       "speaker": "King",
       "translation": "A bitch that's been playing around in the market can't become a house pet.",
       "explanation": "A stray dog that's used to roaming freely can't be domesticated. Metaphor for someone with a wild past who can't settle down.",
@@ -296,6 +322,7 @@ export const kodak: Song = {
     },
     {
       "original": "ऐसे बंदे नहीं होते दोस्त कभी जो सबसे दोस्ती बढ़ाएं",
+      "romanized": "Aise bande naheen hote dost kabhee jo sabse dostee barhaaen",
       "speaker": "King",
       "translation": "People who try to befriend everyone are never real friends.",
       "explanation": "King drops a life lesson - someone who's friends with everybody is loyal to nobody.",
@@ -303,6 +330,7 @@ export const kodak: Song = {
     },
     {
       "original": "और तेज़ rap करके कोई फ़ायदा नहीं जब बात ही समझ ना आए",
+      "romanized": "Aur tez rap karke koee faaydaa naheen jab baat hee samjh naa aae",
       "speaker": "King",
       "translation": "And there's no point rapping fast when people can't even understand what you're saying.",
       "explanation": "A direct shot at fast rappers (possibly Seedhe Maut themselves in a playful jab) - speed means nothing if the content doesn't land.",
@@ -310,6 +338,7 @@ export const kodak: Song = {
     },
     {
       "original": "जन्म से जाती समझ ना आए, रक़म के साथ ही सनम भी आए",
+      "romanized": "Janm se jaatee samjh naa aae, raqm ke saath hee sanm bhee aae",
       "speaker": "King",
       "translation": "Never understood caste since birth, lovers come only when the money comes.",
       "explanation": "King says he's never cared about caste, and observes that women/lovers only appear when wealth arrives.",
@@ -328,6 +357,7 @@ export const kodak: Song = {
     },
     {
       "original": "आके सीधे उतार के लत्ते, मौत भी नंगा नाच नचाए",
+      "romanized": "Aake seedhe utaar ke latte, maut bhee nangaa naach nachaae",
       "speaker": "King",
       "translation": "Coming straight and stripping the clothes off, even death makes you dance naked.",
       "explanation": "Life strips you bare. King references Seedhe Maut by name ('Maut' meaning death) - even SM makes people dance to their tune. 'Nanga naach' is a Hindi idiom meaning public humiliation.",
@@ -351,6 +381,7 @@ export const kodak: Song = {
     },
     {
       "original": "हम भी बैठे खेल खिलाएँ, अंतिम साँस तक पेलते जाएँगे खाँसके",
+      "romanized": "Ham bhee baithe khel khilaaen, antim saans tak pelte jaaenge khaanske",
       "speaker": "King",
       "translation": "We'll sit and play the game too, we'll keep pushing till the last breath, coughing.",
       "explanation": "They'll keep hustling until the very end, even if they're coughing (from smoking or exhaustion). A declaration of relentless grind.",
@@ -364,6 +395,7 @@ export const kodak: Song = {
     },
     {
       "original": "खाएँगे माई के हाथ से roll भी भाई के हाथ का",
+      "romanized": "Khaaenge maaee ke haath se roll bhee bhaaee ke haath kaa",
       "speaker": "King",
       "translation": "We'll eat food from mother's hands and smoke rolls from a brother's hands.",
       "explanation": "A wholesome yet street line - he eats home-cooked food from his mother and smokes joints rolled by his homies. 'Roll' is a double entendre for roti (bread roll) and a joint.",
@@ -377,6 +409,7 @@ export const kodak: Song = {
     },
     {
       "original": "झाई में साथ में beat बना दी UKato ने, कहता के \"भाई, इसे चोद के जाएँगे\"",
+      "romanized": "Jhaaee men saath men beat banaa dee UKato ne, kahtaa ke \"bhaaee, ise chod ke jaaenge\"",
       "speaker": "King",
       "translation": "In a flash, UKato made the beat alongside, saying 'Bro, we'll destroy this and move on.'",
       "explanation": "Producer UKato quickly made the beat and said they'll absolutely murder this track. 'Chod ke jaayenge' is a vulgar way of saying they'll dominate it.",
@@ -395,6 +428,7 @@ export const kodak: Song = {
     },
     {
       "original": "मैंने भी गलियाँ बना दी हैं highway, मोटी कमाई है",
+      "romanized": "Mainne bhee galiyaan banaa dee hain highway, motee kamaaee hai",
       "speaker": "King",
       "translation": "I've turned the streets into highways, the earnings are fat.",
       "explanation": "King has elevated from the streets to the big leagues - his small lanes have become highways, meaning he's making major money now.",
@@ -408,6 +442,7 @@ export const kodak: Song = {
     },
     {
       "original": "Pant सिलाई है खाकी color की, एक rapper की पूरे साल की कमाई",
+      "romanized": "Pant silaaee hai khaakee color kee, ek rapper kee poore saal kee kamaaee",
       "speaker": "King",
       "translation": "Got khaki pants tailored that cost another rapper's entire year's earnings.",
       "explanation": "His custom-made pants alone cost more than what another rapper makes in a whole year. A flex on his wealth compared to the competition.",
@@ -421,6 +456,7 @@ export const kodak: Song = {
     },
     {
       "original": "What the fuck? Who's calling me?",
+      "romanized": "What the fuck? Who's calling me?",
       "speaker": "King",
       "translation": "What the fuck? Who's calling me?",
       "explanation": "King's verse is interrupted by a phone call, transitioning into the skit that connects the three verses.",
@@ -428,6 +464,7 @@ export const kodak: Song = {
     },
     {
       "original": "क्या चोद है, यार? मैं नहीं कर रहा बात",
+      "romanized": "Kyaa chod hai, yaar? Main naheen kar rahaa baat",
       "speaker": "King",
       "translation": "What the hell, man? I'm not talking right now.",
       "explanation": "King is annoyed at being interrupted, dismissing the call.",
@@ -441,6 +478,7 @@ export const kodak: Song = {
     },
     {
       "original": "Calm, सुन, तू सुना अपनी",
+      "romanized": "Calm, sun, too sunaa apnee",
       "speaker": "King",
       "translation": "Calm, listen, you tell me yours.",
       "explanation": "King tells Calm (from Seedhe Maut) to go ahead and share his story, passing the baton.",
@@ -454,6 +492,7 @@ export const kodak: Song = {
     },
     {
       "original": "और सुन, Encore को call कर के पूछ ले, \"कहाँ पर है वो?\"",
+      "romanized": "Aur sun, Encore ko call kar ke poochh le, \"kahaan par hai vo?\"",
       "speaker": "King",
       "translation": "And listen, call Encore and ask him, 'Where is he?'",
       "explanation": "King tells Calm to contact Encore ABJ (the other half of Seedhe Maut) so he can join in too.",
@@ -467,6 +506,7 @@ export const kodak: Song = {
     },
     {
       "original": "मैं आता हूँ तब तक fame मूत के",
+      "romanized": "Main aataa hoon tab tak fame moot ke",
       "speaker": "King",
       "translation": "I'll come back after I take a piss on fame.",
       "explanation": "King casually says he'll be back after dismissing fame like it's nothing - he's so above it he can piss on it.",
@@ -480,6 +520,7 @@ export const kodak: Song = {
     },
     {
       "original": "Yeah (Prrah)",
+      "romanized": "Yeah (Prrah)",
       "speaker": "Calm",
       "translation": "Yeah.",
       "explanation": "Calm starts his verse with his signature ad-lib.",
@@ -487,6 +528,7 @@ export const kodak: Song = {
     },
     {
       "original": "कहानी एक बंदी की मिलती थी मुझे हौज़ ख़ास में (Wooaah)",
+      "romanized": "Kahaanee ek bandee kee miltee thee mujhe hauz khaas men (Wooaah)",
       "speaker": "Calm",
       "translation": "Story of a girl who used to meet me in Hauz Khas.",
       "explanation": "Calm begins a storytelling verse about a girl he used to see around Hauz Khas, a popular nightlife and party area in South Delhi.",
@@ -500,6 +542,7 @@ export const kodak: Song = {
     },
     {
       "original": "थी party starter, मिली NCC gatе पे दस बार (हाँ)",
+      "romanized": "Thee party starter, milee NCC gatе pe das baar (haan)",
       "speaker": "Calm",
       "translation": "She was a party starter, ran into her at NCC gate ten times.",
       "explanation": "She was always the life of the party. He kept bumping into her at the NCC gate area, a frequent hangout spot.",
@@ -513,6 +556,7 @@ export const kodak: Song = {
     },
     {
       "original": "मिलती थी party में, दिखती गाड़ियों में line'ein काटती",
+      "romanized": "Miltee thee party men, dikhtee gaariyon men line'ein kaattee",
       "speaker": "Calm",
       "translation": "She'd show up at parties, seen in cars cutting lines.",
       "explanation": "She was always at parties and could be seen riding around in cars, skipping queues - living a fast social life.",
@@ -526,6 +570,7 @@ export const kodak: Song = {
     },
     {
       "original": "फ़िर दिखी Aurobindo Market में कहीं मेरे दोस्तों के साथ",
+      "romanized": "Fir dikhee Aurobindo Market men kaheen mere doston ke saath",
       "speaker": "Calm",
       "translation": "Then I saw her at Aurobindo Market somewhere with my friends.",
       "explanation": "He spots her at Aurobindo Market, another South Delhi landmark, hanging out with his own friend group.",
@@ -539,6 +584,7 @@ export const kodak: Song = {
     },
     {
       "original": "ये बात है २०१४ की, करता था promotion",
+      "romanized": "Ye baat hai  kee, kartaa thaa promotion",
       "speaker": "Calm",
       "translation": "This is a story from 2014, I used to do promotions.",
       "explanation": "Setting the timeline - back in 2014, Calm was doing promotional work, likely for events or his early music career.",
@@ -546,6 +592,7 @@ export const kodak: Song = {
     },
     {
       "original": "हल्का-फुल्का पैसा, बाप की गाड़ी, भरता तेल हर रोज़ ही",
+      "romanized": "Halkaa-phulkaa paisaa, baap kee gaaree, bhartaa tel har roz hee",
       "speaker": "Calm",
       "translation": "Light money, dad's car, filling fuel every day.",
       "explanation": "He was making meager money, borrowing his father's car and spending his earnings on petrol. A picture of a struggling young man.",
@@ -553,6 +600,7 @@ export const kodak: Song = {
     },
     {
       "original": "I was brokе as fuck, करने आता था काम",
+      "romanized": "I was brokе as fuck, karne aataa thaa kaam",
       "speaker": "Calm",
       "translation": "I was broke as fuck, I'd come to do work.",
       "explanation": "He was dead broke but still showed up to hustle and work on his craft.",
@@ -560,6 +608,7 @@ export const kodak: Song = {
     },
     {
       "original": "और DJ Karma ने शुरू में कह दिया था, \"Stay away from pussy\" (Show पे बोला)",
+      "romanized": "Aur DJ Karma ne shuroo men kah diyaa thaa, \"Stay away from pussy\" (Show pe bolaa)",
       "speaker": "Calm",
       "translation": "And DJ Karma told me early on, 'Stay away from pussy.' (He said it at a show.)",
       "explanation": "DJ Karma, a mentor figure, warned him early in his career to stay focused and avoid distractions from women.",
@@ -573,6 +622,7 @@ export const kodak: Song = {
     },
     {
       "original": "तो मैं था काम पे एक दिन, आके कहती, \"Where's your friend?\" (कहाँ है?)",
+      "romanized": "To main thaa kaam pe ek din, aake kahtee, \"Where's your friend?\" (kahaan hai?)",
       "speaker": "Calm",
       "translation": "So I was at work one day, she came and asked, 'Where's your friend?'",
       "explanation": "The girl showed up to his workplace looking for his friend, who she was dating.",
@@ -580,6 +630,7 @@ export const kodak: Song = {
     },
     {
       "original": "कर रहे थे date वो दोनों सालों से, \"नहीं पता, बहन\" (अबे, मुझे क्या पता?)",
+      "romanized": "Kar rahe the date vo donon saalon se, \"naheen pataa, bahn\" (abe, mujhe kyaa pataa?)",
       "speaker": "Calm",
       "translation": "They had been dating for years, 'I don't know, sister.' (Dude, how would I know?)",
       "explanation": "She was dating his friend for years, and Calm didn't want to get involved - brushing it off politely while internally not caring.",
@@ -587,6 +638,7 @@ export const kodak: Song = {
     },
     {
       "original": "\"वो pick नहीं कर रहा है call, उसे बोल दे ना की, \"Call me back\"\"",
+      "romanized": "\"vo pick naheen kar rahaa hai call, use bol de naa kee, \"Call me back\"\"",
       "speaker": "Calm",
       "translation": "'He's not picking up the phone, tell him to call me back.'",
       "explanation": "She's frustrated that her boyfriend isn't answering and asks Calm to relay the message.",
@@ -594,6 +646,7 @@ export const kodak: Song = {
     },
     {
       "original": "I told her, \"Cool\" और चल पड़ा करने काम like it never happened (माँ चुदाए ना)",
+      "romanized": "I told her, \"Cool\" aur chal paraa karne kaam like it never happened (maan chudaae naa)",
       "speaker": "Calm",
       "translation": "I told her, 'Cool' and went back to work like it never happened.",
       "explanation": "Calm brushes it off completely, following DJ Karma's advice to stay away from drama and focus on work.",
@@ -601,6 +654,7 @@ export const kodak: Song = {
     },
     {
       "original": "फ़िर एक रात club में किसी उसी दोस्त के साथ ही हूँ (Uh)",
+      "romanized": "Fir ek raat club men kisee usee dost ke saath hee hoon (Uh)",
       "speaker": "Calm",
       "translation": "Then one night I'm at the club with that same friend.",
       "explanation": "The story continues - he's out at a club with the same friend who was dating the girl.",
@@ -608,6 +662,7 @@ export const kodak: Song = {
     },
     {
       "original": "है बस एक whiskey का पैसा तो मैं एक glass ही लूँ (Uh, I was broke as fuck, bro)",
+      "romanized": "Hai bas ek whiskey kaa paisaa to main ek glass hee loon (Uh, I was broke as fuck, bro)",
       "speaker": "Calm",
       "translation": "I only have money for one whiskey so I'll just get one glass.",
       "explanation": "He's so broke he can only afford a single glass of whiskey at the club. A raw, honest admission.",
@@ -615,6 +670,7 @@ export const kodak: Song = {
     },
     {
       "original": "उन दोनों का breakup हो गया, मिलते हैं लेकिन, shit is cool",
+      "romanized": "Un donon kaa breakup ho gayaa, milte hain lekin, shit is cool",
       "speaker": "Calm",
       "translation": "Those two broke up, they still meet though, shit is cool.",
       "explanation": "His friend and the girl have broken up but still see each other around, keeping things civil.",
@@ -622,6 +678,7 @@ export const kodak: Song = {
     },
     {
       "original": "उस रात भी मिले, दोनों थोड़े awkward थे, मैं खड़ा दूर (Uh)",
+      "romanized": "Us raat bhee mile, donon thore awkward the, main kharaa door (Uh)",
       "speaker": "Calm",
       "translation": "They met that night too, both a bit awkward, I stood at a distance.",
       "explanation": "The ex-couple ran into each other at the club and it was awkward. Calm kept his distance from the situation.",
@@ -629,6 +686,7 @@ export const kodak: Song = {
     },
     {
       "original": "निकला phone से जैसे ही, बंदी आके बैठी close (Shit)",
+      "romanized": "Niklaa phone se jaise hee, bandee aake baithee close (Shit)",
       "speaker": "Calm",
       "translation": "As soon as I looked up from my phone, she came and sat close.",
       "explanation": "The moment Calm looked up from his phone, the girl moved in close to him. An unexpected move.",
@@ -636,6 +694,7 @@ export const kodak: Song = {
     },
     {
       "original": "मैं bar पे था उस glass के साथ, वो आके पूछ रही, \"कैसे हो?\" (बस हूँ ठीक)",
+      "romanized": "Main bar pe thaa us glass ke saath, vo aake poochh rahee, \"kaise ho?\" (bas hoon theek)",
       "speaker": "Calm",
       "translation": "I was at the bar with my glass, she came and asked, 'How are you?' (I'm fine.)",
       "explanation": "He's nursing his one affordable drink at the bar when she approaches him with small talk.",
@@ -643,6 +702,7 @@ export const kodak: Song = {
     },
     {
       "original": "मैंने कहा, \"सही\" और आँखें ढूँढने लग गईं दोस्त को",
+      "romanized": "Mainne kahaa, \"sahee\" aur aankhen dhoondhne lag gaeen dost ko",
       "speaker": "Calm",
       "translation": "I said, 'I'm good' and my eyes started searching for my friend.",
       "explanation": "Calm gives a short answer and immediately looks around for his friend, uncomfortable with the situation since she's his friend's ex.",
@@ -650,6 +710,7 @@ export const kodak: Song = {
     },
     {
       "original": "तो वो आने लग गई पास और पूछ रही, \"Will you buy me a drink or no?\" (अबे, चल)",
+      "romanized": "To vo aane lag gaee paas aur poochh rahee, \"Will you buy me a drink or no?\" (abe, chal)",
       "speaker": "Calm",
       "translation": "She kept coming closer and asked, 'Will you buy me a drink or no?'",
       "explanation": "She's making a move on Calm, asking him to buy her a drink. The irony is he can barely afford his own drink.",
@@ -657,6 +718,7 @@ export const kodak: Song = {
     },
     {
       "original": "मैंने कहा, \"नहीं, ये वाली share कर लो\" (Ha-ha)",
+      "romanized": "Mainne kahaa, \"naheen, ye vaalee share kar lo\" (Ha-ha)",
       "speaker": "Calm",
       "translation": "I said, 'No, just share this one.' (Ha-ha)",
       "explanation": "A classic broke-guy move - he can't afford another drink so he offers to share his only glass. Both funny and honest.",
@@ -664,6 +726,7 @@ export const kodak: Song = {
     },
     {
       "original": "दोस्त नहीं दिखा कहीं, भीड़ थी बहुत",
+      "romanized": "Dost naheen dikhaa kaheen, bheer thee bahut",
       "speaker": "Calm",
       "translation": "Couldn't see my friend anywhere, the crowd was too thick.",
       "explanation": "His friend has disappeared into the crowd, leaving Calm alone with the girl.",
@@ -671,6 +734,7 @@ export const kodak: Song = {
     },
     {
       "original": "दोस्त की ex tryna feel me, bro",
+      "romanized": "Dost kee ex tryna feel me, bro",
       "speaker": "Calm",
       "translation": "My friend's ex is trying to feel me, bro.",
       "explanation": "He breaks the fourth wall to address the listener directly - his friend's ex-girlfriend is hitting on him and he's caught in an awkward spot.",
@@ -678,6 +742,7 @@ export const kodak: Song = {
     },
     {
       "original": "मेरे सर में चल रही हैं चीज़ें सब (बहनचोद)",
+      "romanized": "Mere sar men chal rahee hain cheezen sab (bahnchod)",
       "speaker": "Calm",
       "translation": "Everything's running through my head.",
       "explanation": "His mind is racing, thinking about the implications - his loyalty to his friend vs the situation unfolding.",
@@ -685,6 +750,7 @@ export const kodak: Song = {
     },
     {
       "original": "जैसे \"इस बंदी का scene क्या है?\"",
+      "romanized": "Jaise \"is bandee kaa scene kyaa hai?\"",
       "speaker": "Calm",
       "translation": "Like, 'What's this girl's deal?'",
       "explanation": "He's trying to figure out what her intentions are.",
@@ -698,6 +764,7 @@ export const kodak: Song = {
     },
     {
       "original": "और कोशिश है मेरी इसे भाव कम दूँ (भाव कम)",
+      "romanized": "Aur koshish hai meree ise bhaav kam doon (bhaav kam)",
       "speaker": "Calm",
       "translation": "And I'm trying to give her less attention.",
       "explanation": "He's deliberately trying to act disinterested to avoid the situation.",
@@ -711,6 +778,7 @@ export const kodak: Song = {
     },
     {
       "original": "Like how do I tell him कि उसने ये पूछा की \"क्या तुम पे grind कर लूँ?\" (Ha-ha)",
+      "romanized": "Like how do I tell him ki usne ye poochhaa kee \"kyaa tum pe grind kar loon?\" (Ha-ha)",
       "speaker": "Calm",
       "translation": "Like, how do I tell him that she asked, 'Can I grind on you?'",
       "explanation": "The girl asks to grind on him at the club, and Calm is thinking about how he'd ever explain this to his friend. A hilariously awkward moment.",
@@ -718,6 +786,7 @@ export const kodak: Song = {
     },
     {
       "original": "नौ साल बाद, बैठा था stu' में, बुला रहे थे दोस्त अपने घर पे, थी house party (Prrah)",
+      "romanized": "Nau saal baad, baithaa thaa stu' men, bulaa rahe the dost apne ghar pe, thee house party (Prrah)",
       "speaker": "Calm",
       "translation": "Nine years later, I was sitting in the studio, friends called me to a house party.",
       "explanation": "Fast forward nine years to 2023 - Calm is now established, working in his studio when friends invite him to a house party.",
@@ -731,6 +800,7 @@ export const kodak: Song = {
     },
     {
       "original": "\"अच्छा change होगा,\" ये सोच के चला गया और काफ़ी थे लोग जिन्हें जानता नहीं (Woo)",
+      "romanized": "\"achchhaa change hogaa,\" ye soch ke chalaa gayaa aur kaafee the log jinhen jaantaa naheen (Woo)",
       "speaker": "Calm",
       "translation": "'It'll be a good change,' thinking that, I went, and there were many people I didn't know.",
       "explanation": "He decides to go for a change of pace from studio life, but finds the party full of strangers.",
@@ -738,6 +808,7 @@ export const kodak: Song = {
     },
     {
       "original": "वहाँ दिखा मुझे एक जाना-पहचाना-सा चेहरा, थी, बावे, वो वही बंदी (Shit)",
+      "romanized": "Vahaan dikhaa mujhe ek jaanaa-pahchaanaa-saa chehraa, thee, baave, vo vahee bandee (Shit)",
       "speaker": "Calm",
       "translation": "There I saw a familiar face, damn, it was the same girl.",
       "explanation": "At the party, he recognizes a face - it's the same girl from nine years ago. Life coming full circle.",
@@ -751,6 +822,7 @@ export const kodak: Song = {
     },
     {
       "original": "अलग-सी लग रही थी, अलग थे कपड़े और अलग थी बंदी की energy (ये बात है?)",
+      "romanized": "Alg-see lag rahee thee, alg the kapre aur alg thee bandee kee energy (ye baat hai?)",
       "speaker": "Calm",
       "translation": "She looked different, different clothes and the girl's energy was different.",
       "explanation": "She has completely transformed - her appearance, style, and entire vibe are different from the party girl he once knew.",
@@ -758,6 +830,7 @@ export const kodak: Song = {
     },
     {
       "original": "ऐसे की वो कभी वैसी तो थी ही नहीं (Ha-ha)",
+      "romanized": "Aise kee vo kabhee vaisee to thee hee naheen (Ha-ha)",
       "speaker": "Calm",
       "translation": "As if she was never like that at all.",
       "explanation": "Her transformation is so complete that it seems like her old wild self never even existed.",
@@ -765,6 +838,7 @@ export const kodak: Song = {
     },
     {
       "original": "जैसे दारू तो कभी कहीं पी ही नहीं (Ooh)",
+      "romanized": "Jaise daaroo to kabhee kaheen pee hee naheen (Ooh)",
       "speaker": "Calm",
       "translation": "As if she never drank alcohol anywhere.",
       "explanation": "She now carries herself as though she never touched alcohol, despite her previous party lifestyle.",
@@ -772,6 +846,7 @@ export const kodak: Song = {
     },
     {
       "original": "जैसे नशे और हौज़ ख़ास में जी ही नहीं (Ooh)",
+      "romanized": "Jaise nashe aur hauz khaas men jee hee naheen (Ooh)",
       "speaker": "Calm",
       "translation": "As if she never lived the intoxication and Hauz Khas life.",
       "explanation": "She acts as if she never experienced the wild Hauz Khas party scene and substance use.",
@@ -785,6 +860,7 @@ export const kodak: Song = {
     },
     {
       "original": "इस बंदी से सीखा मैं एक ही चीज़",
+      "romanized": "Is bandee se seekhaa main ek hee cheez",
       "speaker": "Calm",
       "translation": "From this girl I learned just one thing.",
       "explanation": "Calm transitions from observation to the lesson he took from her story.",
@@ -792,6 +868,7 @@ export const kodak: Song = {
     },
     {
       "original": "कि कैसे कुछ चीज़ें बदल देती ज़िंदगी, पहले वो डूबी थी दारू में",
+      "romanized": "Ki kaise kuchh cheezen badl detee zindgee, pahle vo doobee thee daaroo men",
       "speaker": "Calm",
       "translation": "That some things change your life completely - before she was drowning in alcohol.",
       "explanation": "He reflects on how certain things - responsibility, love, motherhood - can completely transform a person. She was once lost in alcohol.",
@@ -799,6 +876,7 @@ export const kodak: Song = {
     },
     {
       "original": "अब उसके गले में choker नहीं, वो मंगलसूत्र पहनी है",
+      "romanized": "Ab uske gale men choker naheen, vo manglsootr pahnee hai",
       "speaker": "Calm",
       "translation": "Now around her neck is not a choker, she's wearing a mangalsutra.",
       "explanation": "The choker necklace of her party days has been replaced by a mangalsutra - the sacred necklace worn by married Hindu women. A powerful visual symbol of her transformation.",
@@ -817,6 +895,7 @@ export const kodak: Song = {
     },
     {
       "original": "पहले थी groupie, अब दूध की धुली है",
+      "romanized": "Pahle thee groupie, ab doodh kee dhulee hai",
       "speaker": "Calm",
       "translation": "Before she was a groupie, now she's washed in milk.",
       "explanation": "'Doodh ki dhuli' is a Hindi idiom meaning someone pure and blameless. The contrast between her past as a groupie and her current pure, domestic image is striking.",
@@ -835,6 +914,7 @@ export const kodak: Song = {
     },
     {
       "original": "पहले था rapper कोई daddy, अब बच्चों की mummy है, घरेलू बंदी है",
+      "romanized": "Pahle thaa rapper koee daddy, ab bachchon kee mummy hai, ghareloo bandee hai",
       "speaker": "Calm",
       "translation": "Before some rapper was her daddy, now she's a mother to kids, a domestic woman.",
       "explanation": "She went from calling some rapper 'daddy' to being an actual mother. 'Gharelu bandi' means a homely, domestic woman - the complete opposite of what she was.",
@@ -848,6 +928,7 @@ export const kodak: Song = {
     },
     {
       "original": "शायद वो सोचे की, \"पहले बहुत मस्ती की है, अभी दो बच्चे और पति है\"",
+      "romanized": "Shaayd vo soche kee, \"pahle bahut mastee kee hai, abhee do bachche aur pati hai\"",
       "speaker": "Calm",
       "translation": "Maybe she thinks, 'I've had enough fun before, now I have two kids and a husband.'",
       "explanation": "Calm imagines her inner thought - she's had her fill of fun and now embraces family life with two children and a husband.",
@@ -855,6 +936,7 @@ export const kodak: Song = {
     },
     {
       "original": "बदली वो क्यूँकि बहुत थी ज़िम्मेदारियाँ",
+      "romanized": "Badlee vo kyoonki bahut thee zimmedaariyaan",
       "speaker": "Calm",
       "translation": "She changed because there were too many responsibilities.",
       "explanation": "Her transformation wasn't sudden - it came from the weight of responsibilities that come with marriage and motherhood.",
@@ -862,6 +944,7 @@ export const kodak: Song = {
     },
     {
       "original": "बहुत अच्छी माँ है और अपने लिए वक्त नहीं है (Prrah)",
+      "romanized": "Bahut achchhee maan hai aur apne lie vakt naheen hai (Prrah)",
       "speaker": "Calm",
       "translation": "She's a great mother and has no time for herself.",
       "explanation": "A respectful observation - she's completely dedicated to her children, leaving no time for her old life or even herself.",
@@ -869,6 +952,7 @@ export const kodak: Song = {
     },
     {
       "original": "किया जो सही लगा देख के, अतीत को फेंके वो जेब से",
+      "romanized": "Kiyaa jo sahee lagaa dekh ke, ateet ko phenke vo jeb se",
       "speaker": "Calm",
       "translation": "She did what felt right and threw the past out of her pocket.",
       "explanation": "She made a conscious decision to leave her past behind, discarding it like something from her pocket. No regrets, just forward movement.",
@@ -876,6 +960,7 @@ export const kodak: Song = {
     },
     {
       "original": "उसने ये सोचा कि \"ये बता, कब तक कोई भागेगा और बचेगा चैन से?",
+      "romanized": "Usne ye sochaa ki \"ye bataa, kab tak koee bhaagegaa aur bachegaa chain se?",
       "speaker": "Calm",
       "translation": "She thought, 'Tell me, how long can someone keep running and live in peace?'",
       "explanation": "She realized you can't run from reality forever. At some point you have to settle down and find genuine peace instead of temporary highs.",
@@ -883,6 +968,7 @@ export const kodak: Song = {
     },
     {
       "original": "किया जो सही लगा देख के",
+      "romanized": "Kiyaa jo sahee lagaa dekh ke",
       "speaker": "Calm",
       "translation": "She did what felt right.",
       "explanation": "Repeating the sentiment - she made her choice and it was the right one for her. Calm respects it without judgment.",
@@ -890,6 +976,7 @@ export const kodak: Song = {
     },
     {
       "original": "Fuck, Encore कहाँ है, यार? इसे phone करता हूँ, एक second",
+      "romanized": "Fuck, Encore kahaan hai, yaar? Ise phone kartaa hoon, ek second",
       "speaker": "Calm & Encore ABJ",
       "translation": "Fuck, where is Encore, man? Let me call him, one second.",
       "explanation": "The phone skit returns. Calm is trying to reach Encore to pass the mic, connecting the verses.",
@@ -897,6 +984,7 @@ export const kodak: Song = {
     },
     {
       "original": "(*Phone rings*)",
+      "romanized": "(*Phone rings*)",
       "speaker": "Calm & Encore ABJ",
       "translation": "(Phone rings)",
       "explanation": "Sound effect of the phone ringing, continuing the skit.",
@@ -904,6 +992,7 @@ export const kodak: Song = {
     },
     {
       "original": "Hello",
+      "romanized": "Hello",
       "speaker": "Calm & Encore ABJ",
       "translation": "Hello.",
       "explanation": "Encore picks up the phone.",
@@ -911,6 +1000,7 @@ export const kodak: Song = {
     },
     {
       "original": "अबे यार, बंदी तो पलट गई, यार, ये",
+      "romanized": "Abe yaar, bandee to palt gaee, yaar, ye",
       "speaker": "Calm & Encore ABJ",
       "translation": "Dude, the girl totally flipped on me, man.",
       "explanation": "Encore is telling Calm about his situation - the girl he was with has turned on him or changed up.",
@@ -924,6 +1014,7 @@ export const kodak: Song = {
     },
     {
       "original": "जिसके साथ मैं आया हूँ, यार, show के बाद",
+      "romanized": "Jiske saath main aayaa hoon, yaar, show ke baad",
       "speaker": "Calm & Encore ABJ",
       "translation": "The one I came with, man, after the show.",
       "explanation": "He's talking about a girl he brought home after a show/concert.",
@@ -931,6 +1022,7 @@ export const kodak: Song = {
     },
     {
       "original": "हाँ भाई, I told her, no fucking feelings, bro (Pfrr)",
+      "romanized": "Haan bhaaee, I told her, no fucking feelings, bro (Pfrr)",
       "speaker": "Calm & Encore ABJ",
       "translation": "Yeah bro, I told her, no fucking feelings, bro.",
       "explanation": "Encore had made it clear from the start that it was casual, no emotional attachment.",
@@ -938,6 +1030,7 @@ export const kodak: Song = {
     },
     {
       "original": "पता नहीं, क्या कह रही है? \"दोस्तों से बात कर ले मेरे\"",
+      "romanized": "Pataa naheen, kyaa kah rahee hai? \"doston se baat kar le mere\"",
       "speaker": "Calm & Encore ABJ",
       "translation": "I don't know, what is she saying? 'Talk to my friends.'",
       "explanation": "The girl wants Encore to meet her friends and get serious, which is exactly what he wanted to avoid.",
@@ -945,6 +1038,7 @@ export const kodak: Song = {
     },
     {
       "original": "रुक, मैं तेरेको callback करता हूँ, यार, दो घंटे दे मेरेको, सब समझाता हूँ",
+      "romanized": "Ruk, main tereko callback kartaa hoon, yaar, do ghante de mereko, sab samjhaataa hoon",
       "speaker": "Calm & Encore ABJ",
       "translation": "Wait, I'll call you back, man, give me two hours, I'll explain everything.",
       "explanation": "Encore needs to handle the situation first and promises to call back with the full story.",
@@ -952,6 +1046,7 @@ export const kodak: Song = {
     },
     {
       "original": "उस dumb bitch को बातें समझ नहीं आ रहीं तो ये extra slow है",
+      "romanized": "Us dumb bitch ko baaten samjh naheen aa raheen to ye extra slow hai",
       "speaker": "Encore ABJ",
       "translation": "If that dumb bitch can't understand what I'm saying, she's extra slow.",
       "explanation": "Encore's verse begins aggressively. He's frustrated that the girl doesn't understand his boundaries about keeping things casual.",
@@ -959,6 +1054,7 @@ export const kodak: Song = {
     },
     {
       "original": "\"I really love you for the night पर मेरेपे extra दो हैं (हाँ, जी)",
+      "romanized": "\"I really love you for the night par merepe extra do hain (haan, jee)",
       "speaker": "Encore ABJ",
       "translation": "'I really love you for the night but I have two extra on me.'",
       "explanation": "He's telling her he enjoyed the night but he has other options. He's being upfront about not being exclusive.",
@@ -966,6 +1062,7 @@ export const kodak: Song = {
     },
     {
       "original": "अगली दो रात के लिए, तेरे नए daddy के साथ",
+      "romanized": "Aglee do raat ke lie, tere nae daddy ke saath",
       "speaker": "Encore ABJ",
       "translation": "For the next two nights, with your new daddy.",
       "explanation": "He's telling her to find someone else for the upcoming nights, calling her next man her 'new daddy' dismissively.",
@@ -973,6 +1070,7 @@ export const kodak: Song = {
     },
     {
       "original": "हर रात नई J' Lo' है जो चाहती तुझसे extra low है (Facts)",
+      "romanized": "Har raat naee J' Lo' hai jo chaahtee tujhse extra low hai (Facts)",
       "speaker": "Encore ABJ",
       "translation": "Every night there's a new J.Lo who wants something extra low from you.",
       "explanation": "He compares the girls to Jennifer Lopez - beautiful women approach him nightly wanting something more intimate.",
@@ -986,6 +1084,7 @@ export const kodak: Song = {
     },
     {
       "original": "और extra thick है और sexy lips हैं\"",
+      "romanized": "Aur extra thick hai aur sexy lips hain\"",
       "speaker": "Encore ABJ",
       "translation": "And she's extra thick with sexy lips.",
       "explanation": "Describing the physical attributes of the women who approach him.",
@@ -993,6 +1092,7 @@ export const kodak: Song = {
     },
     {
       "original": "Hold up, चल रहे मेरे extra lips हैं",
+      "romanized": "Hold up, chal rahe mere extra lips hain",
       "speaker": "Encore ABJ",
       "translation": "Hold up, my extra lips are moving.",
       "explanation": "He catches himself talking too much - 'extra lips' meaning he's running his mouth. A moment of self-awareness.",
@@ -1000,6 +1100,7 @@ export const kodak: Song = {
     },
     {
       "original": "क्यूँकि अब वो लग रही extra jealous और ये extra risk hai",
+      "romanized": "Kyoonki ab vo lag rahee extra jealous aur ye extra risk hai",
       "speaker": "Encore ABJ",
       "translation": "Because now she's looking extra jealous and this is extra risky.",
       "explanation": "The girl is getting jealous hearing all this, and Encore recognizes the situation is becoming dangerous.",
@@ -1007,6 +1108,7 @@ export const kodak: Song = {
     },
     {
       "original": "एक नकली rape के case में jail, without the bail है",
+      "romanized": "Ek naklee rape ke case men jail, without the bail hai",
       "speaker": "Encore ABJ",
       "translation": "A fake rape case means jail without bail.",
       "explanation": "He's wary that a scorned woman could file a false case against him, which could mean serious jail time. A real fear in the Indian context where such accusations can be weaponized.",
@@ -1014,6 +1116,7 @@ export const kodak: Song = {
     },
     {
       "original": "और वो भी extra shit है तो ध्यान से",
+      "romanized": "Aur vo bhee extra shit hai to dhyaan se",
       "speaker": "Encore ABJ",
       "translation": "And that's extra shit too, so be careful.",
       "explanation": "He reminds himself to tread carefully given the risks involved.",
@@ -1021,6 +1124,7 @@ export const kodak: Song = {
     },
     {
       "original": "सोच के मैं वापस bed पे उसके साथ में (हाँ)",
+      "romanized": "Soch ke main vaaps bed pe uske saath men (haan)",
       "speaker": "Encore ABJ",
       "translation": "Thinking, I'm back in bed with her.",
       "explanation": "Despite the mental calculations and risks, he finds himself back in bed with her anyway.",
@@ -1028,6 +1132,7 @@ export const kodak: Song = {
     },
     {
       "original": "मेरा हाथ जाए उसकी टाँग से होता हुआ अंदरूनी झांग पे",
+      "romanized": "Meraa haath jaae uskee taang se hotaa huaa androonee jhaang pe",
       "speaker": "Encore ABJ",
       "translation": "My hand goes along her leg to her inner thigh.",
       "explanation": "A vivid, intimate description of the physical moment between them.",
@@ -1041,6 +1146,7 @@ export const kodak: Song = {
     },
     {
       "original": "कमर से खैंचूँ उसको अपने पास में",
+      "romanized": "Kamr se khainchoon usko apne paas men",
       "speaker": "Encore ABJ",
       "translation": "I pull her close by the waist.",
       "explanation": "He pulls her in closer to him by the waist, building the intimate scene.",
@@ -1048,6 +1154,7 @@ export const kodak: Song = {
     },
     {
       "original": "कलाई को जितना tight से पकड़ूँ, उतनी लंबी साँस ले (हाँ)",
+      "romanized": "Kalaaee ko jitnaa tight se pakroon, utnee lanbee saans le (haan)",
       "speaker": "Encore ABJ",
       "translation": "The tighter I grip her wrist, the deeper the breath she takes.",
       "explanation": "Describing the physical intensity between them - his grip and her reaction.",
@@ -1055,6 +1162,7 @@ export const kodak: Song = {
     },
     {
       "original": "गले से आता उसके कान पे बोलूँ, \"मेरी छोटी-मोटी-सी बातों को जान दे",
+      "romanized": "Gale se aataa uske kaan pe boloon, \"meree chhotee-motee-see baaton ko jaan de",
       "speaker": "Encore ABJ",
       "translation": "Coming close to her neck, I whisper in her ear, 'Don't take my small talk too seriously.",
       "explanation": "In this intimate moment, he whispers to her not to overthink or get attached to the casual things he says.",
@@ -1062,6 +1170,7 @@ export const kodak: Song = {
     },
     {
       "original": "मैं रहता हूँ distant\" \"कितना distant?\" \"Bitch, सातवें आसमान पे",
+      "romanized": "Main rahtaa hoon distant\" \"kitnaa distant?\" \"Bitch, saatven aasmaan pe",
       "speaker": "Encore ABJ",
       "translation": "'I stay distant.' 'How distant?' 'Bitch, on the seventh sky.'",
       "explanation": "A back-and-forth dialogue in the bedroom. She asks how distant he keeps himself, and he says he's on the seventh sky - 'saatva aasmaan' is the highest heaven in Islamic cosmology, meaning he's unreachably far emotionally.",
@@ -1075,6 +1184,7 @@ export const kodak: Song = {
     },
     {
       "original": "बाकियों ने बेच दिए हैं अपने पर पहले ही कौड़ी के दाम पे (कौड़ी के)",
+      "romanized": "Baakiyon ne bech die hain apne par pahle hee kauree ke daam pe (kauree ke)",
       "speaker": "Encore ABJ",
       "translation": "Others have already sold their wings for pennies.",
       "explanation": "Other men gave up their freedom and identity for cheap - 'kaudhi ke daam' means for the price of a cowrie shell, virtually nothing. He won't make the same mistake.",
@@ -1093,6 +1203,7 @@ export const kodak: Song = {
     },
     {
       "original": "It's funny कौन, क्या-क्या कर सकता है \"Sorry\" के नाम पे (Sorry)",
+      "romanized": "It's funny kaun, kyaa-kyaa kar saktaa hai \"Sorry\" ke naam pe (Sorry)",
       "speaker": "Encore ABJ",
       "translation": "It's funny what people can do in the name of 'Sorry.'",
       "explanation": "He finds it amusing how people will do anything and everything just to say sorry and get back with someone. Apologies are used as manipulation.",
@@ -1100,6 +1211,7 @@ export const kodak: Song = {
     },
     {
       "original": "और उससे याद आया, आज रात के लिए thank you",
+      "romanized": "Aur usse yaad aayaa, aaj raat ke lie thank you",
       "speaker": "Encore ABJ",
       "translation": "And that reminds me, thank you for tonight.",
       "explanation": "He pivots smoothly - all that deep talk reminds him to thank her for the night. He keeps it transactional.",
@@ -1107,6 +1219,7 @@ export const kodak: Song = {
     },
     {
       "original": "कल रात, नया hotel bed (Yeah), नया restaurant (Yeah), नया menu",
+      "romanized": "Kal raat, nayaa hotel bed (Yeah), nayaa restaurant (Yeah), nayaa menu",
       "speaker": "Encore ABJ",
       "translation": "Tomorrow night, new hotel bed, new restaurant, new menu.",
       "explanation": "Tomorrow he moves on - new hotel, new restaurant, new experience, possibly a new woman. The cycle continues.",
@@ -1114,6 +1227,7 @@ export const kodak: Song = {
     },
     {
       "original": "तेरा दिल तोड़ना होता तो मैं पहले ही देता कह झूठ",
+      "romanized": "Teraa dil tornaa hotaa to main pahle hee detaa kah jhooth",
       "speaker": "Encore ABJ",
       "translation": "If I wanted to break your heart, I would have lied from the start.",
       "explanation": "He justifies his honesty - he didn't lie or lead her on. If he wanted to hurt her, he could have been fake. Instead, he was upfront about his intentions.",
@@ -1121,6 +1235,7 @@ export const kodak: Song = {
     },
     {
       "original": "Emotionally unavailable, there's nothing that you can do\"",
+      "romanized": "Emotionally unavailable, there's nothing that you can do\"",
       "speaker": "Encore ABJ",
       "translation": "Emotionally unavailable, there's nothing that you can do.",
       "explanation": "The final declaration - he's emotionally unavailable and she can't change that. He closes the door on any possibility of something deeper.",
@@ -1128,6 +1243,7 @@ export const kodak: Song = {
     },
     {
       "original": "और वो सुन रही है इतने इत्मीनान के साथ",
+      "romanized": "Aur vo sun rahee hai itne itmeenaan ke saath",
       "speaker": "Encore ABJ",
       "translation": "And she's listening with so much composure.",
       "explanation": "Despite his brutal honesty, she listens calmly and patiently. Her composure surprises him.",
@@ -1141,6 +1257,7 @@ export const kodak: Song = {
     },
     {
       "original": "है होंठ अभी भी चल रहे उसके कान के पास",
+      "romanized": "Hai honth abhee bhee chal rahe uske kaan ke paas",
       "speaker": "Encore ABJ",
       "translation": "My lips are still moving near her ear.",
       "explanation": "He's still whispering to her, close and intimate, creating tension between his emotional distance and physical proximity.",
@@ -1148,6 +1265,7 @@ export const kodak: Song = {
     },
     {
       "original": "और उसने बोला, \"Fine, I get it पर ये तेरा ही है loss",
+      "romanized": "Aur usne bolaa, \"Fine, I get it par ye teraa hee hai loss",
       "speaker": "Encore ABJ",
       "translation": "And she said, 'Fine, I get it, but this is your loss.'",
       "explanation": "She accepts his terms but flips the power dynamic - telling him that he's the one missing out, not her.",
@@ -1155,6 +1273,7 @@ export const kodak: Song = {
     },
     {
       "original": "But, promise me, you'll call again\"",
+      "romanized": "But, promise me, you'll call again\"",
       "speaker": "Encore ABJ",
       "translation": "But, promise me, you'll call again.",
       "explanation": "Her final request - she doesn't fight it, just asks him to call her again. She's playing the long game.",
@@ -1162,6 +1281,7 @@ export const kodak: Song = {
     },
     {
       "original": "मैं हस के बोला उसे, \"Of course, bye\" (Ha-ha)",
+      "romanized": "Main has ke bolaa use, \"Of course, bye\" (Ha-ha)",
       "speaker": "Encore ABJ",
       "translation": "I laughed and told her, 'Of course, bye.'",
       "explanation": "He agrees with a laugh, but the laugh suggests he probably won't call. An ambiguous, somewhat melancholic ending to the encounter.",
@@ -1169,6 +1289,7 @@ export const kodak: Song = {
     },
     {
       "original": "(*Phone rings*)",
+      "romanized": "(*Phone rings*)",
       "speaker": "Encore ABJ",
       "translation": "(Phone rings)",
       "explanation": "The phone skit returns one last time, connecting back to the story framework.",
@@ -1176,6 +1297,7 @@ export const kodak: Song = {
     },
     {
       "original": "Hello, हाँ, भाई",
+      "romanized": "Hello, haan, bhaaee",
       "speaker": "Encore ABJ",
       "translation": "Hello, yeah, bro.",
       "explanation": "Encore answers the callback from Calm.",
@@ -1183,6 +1305,7 @@ export const kodak: Song = {
     },
     {
       "original": "हाँ, यार, गई वो",
+      "romanized": "Haan, yaar, gaee vo",
       "speaker": "Encore ABJ",
       "translation": "Yeah, man, she left.",
       "explanation": "He confirms the girl has gone. The situation is resolved.",
@@ -1190,6 +1313,7 @@ export const kodak: Song = {
     },
     {
       "original": "सुबह गई",
+      "romanized": "Subh gaee",
       "speaker": "Encore ABJ",
       "translation": "She left in the morning.",
       "explanation": "She stayed the night and left in the morning, a casual ending to the encounter.",
@@ -1197,6 +1321,7 @@ export const kodak: Song = {
     },
     {
       "original": "छोड़, बताता हूँ तेरेको मिलके, कहाँ है तू?",
+      "romanized": "Chhor, bataataa hoon tereko milke, kahaan hai too?",
       "speaker": "Encore ABJ",
       "translation": "Forget it, I'll tell you when we meet, where are you?",
       "explanation": "Encore wants to save the full story for an in-person conversation rather than discussing it over the phone.",
@@ -1204,6 +1329,7 @@ export const kodak: Song = {
     },
     {
       "original": "King के यहाँ है?",
+      "romanized": "King ke yahaan hai?",
       "speaker": "Encore ABJ",
       "translation": "You're at King's place?",
       "explanation": "He asks if Calm is at King's place, tying all three artists together and closing the phone-call narrative.",
@@ -1217,6 +1343,7 @@ export const kodak: Song = {
     },
     {
       "original": "ठीक है, address भेज, पहुँच रहा हूँ मैं",
+      "romanized": "Theek hai, address bhej, pahunch rahaa hoon main",
       "speaker": "Encore ABJ",
       "translation": "Alright, send the address, I'm on my way.",
       "explanation": "The song ends with Encore heading to meet up with Calm and King, closing the phone-skit framework that connects the three verses.",

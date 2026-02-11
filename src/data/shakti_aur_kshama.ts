@@ -9,6 +9,7 @@ export const shakti_aur_kshama: Song = {
   "lyrics": [
     {
       "original": "Mere pass do shashtra mai chunu kya shakti ya kshama",
+      "devanagari": "मेरे पास दो शस्त्र मैं चुनूँ क्या शक्ति या क्षमा",
       "speaker": "Encore ABJ",
       "translation": "I have two weapons with me; should I choose power or forgiveness?",
       "explanation": "Encore introduces the central theme of the song, posing a moral dilemma between exercising force (Shakti) and showing mercy (Kshama).",
@@ -38,6 +39,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Mere pass ek lafz hai mai kahu kya shakti ya kshama",
+      "devanagari": "मेरे पास एक लफ़्ज़ है मैं कहूँ क्या शक्ति या क्षमा",
       "speaker": "Encore ABJ",
       "translation": "I have one word left; should I say power or forgiveness?",
       "explanation": "He ponders which value defines him more in his current state of mind.",
@@ -51,6 +53,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Mera kya kartavya hai, shakti ya kshama",
+      "devanagari": "मेरा क्या कर्तव्य है, शक्ति या क्षमा",
       "speaker": "Encore ABJ",
       "translation": "What is my duty: power or forgiveness?",
       "explanation": "Questioning the 'Dharma' or moral duty of an artist and a man when faced with conflict.",
@@ -64,6 +67,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Mere pass do shashtra mai chunu kya shakti ya kshama",
+      "devanagari": "मेरे पास दो शस्त्र मैं चुनूँ क्या शक्ति या क्षमा",
       "speaker": "Encore ABJ",
       "translation": "I have two weapons with me; should I choose power or forgiveness?",
       "explanation": "Repetition emphasizing the struggle of choice between being feared or being kind.",
@@ -71,6 +75,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Ye kehte tu peeta kyu itni",
+      "devanagari": "ये कहते तू पीता क्यूँ इतनी",
       "speaker": "Calm",
       "translation": "They ask me, 'Why do you drink so much?'",
       "explanation": "Calm begins his verse by addressing the external criticism regarding his substance use.",
@@ -78,6 +83,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Mai peeta hu tabhi wo cheeze mai likhta nahi",
+      "devanagari": "मैं पीता हूँ तभी वो चीज़ें मैं लिखता नहीं",
       "speaker": "Calm",
       "translation": "I drink so that I don't have to write about those things.",
       "explanation": "A heavy line suggesting he uses alcohol as a coping mechanism to suppress traumatic memories he isn't ready to put into lyrics.",
@@ -85,6 +91,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Aata hu tute hue ghar se",
+      "devanagari": "आता हूँ टूटे हुए घर से",
       "speaker": "Calm",
       "translation": "I come from a broken home.",
       "explanation": "Refers to domestic instability or emotional trauma within his family during his upbringing.",
@@ -92,6 +99,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Hai bhulne ki koshish aur chaara koi dikhta nahi",
+      "devanagari": "है भूलने की कोशिश और चारा कोई दिखता नहीं",
       "speaker": "Calm",
       "translation": "I'm trying to forget, and I see no other way out.",
       "explanation": "Expressing a sense of helplessness where intoxication feels like the only escape.",
@@ -105,6 +113,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Saharanpur do hazar paanch hua naana ka dehaant ha the wo bhi sharabi",
+      "devanagari": "सहारनपुर दो हज़ार पाँच हुआ नाना का देहांत हा थे वो भी शराबी",
       "speaker": "Calm",
       "translation": "Saharanpur 2005, my maternal grandfather passed away; he was an alcoholic too.",
       "explanation": "Calm shares a specific, painful memory, noting a generational cycle of addiction.",
@@ -118,6 +127,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Tha ek raat mai ghar par aur baap ne lagali, aur ugle jo sach kabhi suna ni",
+      "devanagari": "था एक रात मैं घर पर और बाप ने लगाली, और उगले जो सच कभी सुना नी",
       "speaker": "Calm",
       "translation": "I was home one night and my father got drunk, and he blurted out truths I'd never heard before.",
       "explanation": "Describes a vulnerable and perhaps violent or shocking moment of realization involving his father.",
@@ -125,6 +135,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Baap pe tha sabkuch aur bada bhai padha hai mehenge se mehenge schoolo mei",
+      "devanagari": "बाप पे था सबकुछ और बड़ा भाई पढ़ा है महंगे से महंगे स्कूलो में",
       "speaker": "Calm",
       "translation": "My father once had everything, and my elder brother studied in the most expensive schools.",
       "explanation": "Highlighting the family's previous financial prosperity before their downfall.",
@@ -132,6 +143,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Jab unpe thi shakti kuch ghar wale lagate nazar aur papa the juuye mei",
+      "devanagari": "जब उनपे थी शक्ति कुछ घरवाले लगाते नज़र और पापा थे जुए में",
       "speaker": "Calm",
       "translation": "When they had power, some relatives cast an evil eye, and my dad was into gambling.",
       "explanation": "Attributing the loss of wealth to both external jealousy ('nazar') and internal vices like gambling.",
@@ -145,6 +157,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Hua tha paida mai marne ki haalat mei rehta tha dada ki dua mei",
+      "devanagari": "हुआ था पैदा मैं मरने की हालत में रहता था दादा की दुआ में",
       "speaker": "Calm",
       "translation": "I was born in a critical condition, surviving only through my grandfather's prayers.",
       "explanation": "Refers to health complications at birth and the spiritual support from his grandfather.",
@@ -152,6 +165,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Jis din hua paida maa roi thi unhe thi chahiye еk beti par hua main",
+      "devanagari": "जिस दिन हुआ पैदा माँ रोई थी उन्हें थी चाहिए एक बेटी पर हुआ मैं",
       "speaker": "Calm",
       "translation": "The day I was born, my mother cried; she wanted a daughter, but it was me.",
       "explanation": "A deeply personal and vulnerable line about feeling unwanted or failing expectations from birth.",
@@ -159,6 +173,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Baap pe tha karza aya ghar merе koi leke",
+      "devanagari": "बाप पे था कर्ज़ा आया घर मेरे कोई लेके",
       "speaker": "Calm",
       "translation": "My father was in debt, and someone came to our house for it.",
       "explanation": "Describes the reality of living with financial instability and the threat of creditors.",
@@ -172,6 +187,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Katta mei chupa tha kamre mei",
+      "devanagari": "कट्टा में छुपा था कमरे में",
       "speaker": "Calm",
       "translation": "I was hiding in the room with a country-made pistol.",
       "explanation": "Shows the extreme circumstances of his youth where he felt the need for a weapon for protection.",
@@ -185,6 +201,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Ye duniya hai krur, shakti ya kshama kya lagta hai chuna us bande ne",
+      "devanagari": "ये दुनिया है क्रूर, शक्ति या क्षमा क्या लगता है चुना उस बंदे ने",
       "speaker": "Calm",
       "translation": "This world is cruel; what do you think that guy chose—power or forgiveness?",
       "explanation": "Asking the listener to judge his past actions based on the harsh environment he grew up in.",
@@ -198,6 +215,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Aur pehle thi jitni bhi shakti bas mangi thi bapu ne kshama us lamhe pe",
+      "devanagari": "और पहले थी जितनी भी शक्ति बस माँगी थी बापू ने क्षमा उस लम्हे पे",
       "speaker": "Calm",
       "translation": "Whatever power we had before, my father just ended up asking for forgiveness at that moment.",
       "explanation": "A tragic reversal where the father’s 'Shakti' failed, leaving him only with 'Kshama' (begging for mercy).",
@@ -212,6 +230,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Launda tha bullakad, hounga me yaha par, ye kabhi nahi socha tha sapne me",
+      "devanagari": "लौंडा था बुल्लकड़, होऊँगा मैं यहाँ पर, ये कभी नहीं सोचा था सपने में",
       "speaker": "Calm",
       "translation": "I was a forgetful kid; I never even dreamed I'd end up here.",
       "explanation": "Reflecting on his journey from a troubled youth to a successful artist.",
@@ -219,6 +238,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Vo to tha accha dupakne me, ha dekha hai sabko tadapte hue",
+      "devanagari": "वो तो था अच्छा दुपकने में, हा देखा है सबको तड़पते हुए",
       "speaker": "Calm",
       "translation": "He was good at hiding; yes, I've seen everyone suffering.",
       "explanation": "Calm refers to his survival instinct of staying low ('dupakne') while witnessing the misery around him.",
@@ -226,6 +246,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Ek dusre pe dhanda sarakte hue, andar hi andar roz apno ko marte hue",
+      "devanagari": "एक दूसरे पे धंधा सरकते हुए, अंदर ही अंदर रोज़ अपनो को मारते हुए",
       "speaker": "Calm",
       "translation": "Watching business deals shift hands, and watching loved ones die inside every day.",
       "explanation": "Observing the cutthroat nature of the world and the slow emotional death of people close to him.",
@@ -240,6 +261,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Aayi hampe jab shakti to jalte hue, shakti thi zyada toh kshama se darte hue",
+      "devanagari": "आई हमपे जब शक्ति तो जलते हुए, शक्ति थी ज़्यादा तो क्षमा से डरते हुए",
       "speaker": "Calm",
       "translation": "When we gained power, people were jealous; having too much power made us fear the act of forgiving.",
       "explanation": "Explains that once you have power, forgiveness can be perceived as weakness, which is a dangerous position.",
@@ -247,6 +269,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Maa kehti hai lamhe pighalte gaye [?] ki ham bhi to sathi hi me galte gaye",
+      "devanagari": "माँ कहती है लम्हे पिघलते गए [?] कि हम भी तो साथी ही में गलते गए",
       "speaker": "Calm",
       "translation": "Mother says moments kept melting away... that we also dissolved together like companions.",
       "explanation": "A poetic reflection on time passing and the family eroding under the weight of their struggles.",
@@ -254,6 +277,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Mere pass do shashtra mai chunu kya shakti ya kshama",
+      "devanagari": "मेरे पास दो शस्त्र मैं चुनूँ क्या शक्ति या क्षमा",
       "speaker": "Encore ABJ",
       "translation": "I have two weapons with me; should I choose power or forgiveness?",
       "explanation": "Hook repeat: Re-evaluating the theme after Calm's gritty personal verse.",
@@ -261,6 +285,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Mere pass ek lafz hai mai kahu kya shakti ya kshama",
+      "devanagari": "मेरे पास एक लफ़्ज़ है मैं कहूँ क्या शक्ति या क्षमा",
       "speaker": "Encore ABJ",
       "translation": "I have one word left; should I say power or forgiveness?",
       "explanation": "Hook repeat.",
@@ -268,6 +293,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Mera kya kartavya hai, shakti ya kshama",
+      "devanagari": "मेरा क्या कर्तव्य है, शक्ति या क्षमा",
       "speaker": "Encore ABJ",
       "translation": "What is my duty: power or forgiveness?",
       "explanation": "Hook repeat.",
@@ -275,6 +301,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Mere pass do shashtra mai chunu kya shakti ya kshama",
+      "devanagari": "मेरे पास दो शस्त्र मैं चुनूँ क्या शक्ति या क्षमा",
       "speaker": "Encore ABJ",
       "translation": "I have two weapons with me; should I choose power or forgiveness?",
       "explanation": "Hook repeat.",
@@ -282,6 +309,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Na zaban thami aaye dilbar",
+      "devanagari": "ना ज़बान थमी आए दिलबर",
       "speaker": "Encore Abj",
       "translation": "The tongue didn't stop, O beloved.",
       "explanation": "Encore asserts his relentless flow and lyrical prowess.",
@@ -295,6 +323,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Na lagam laagi is dil par",
+      "devanagari": "ना लगाम लागी इस दिल पर",
       "speaker": "Encore Abj",
       "translation": "No reins were put on this heart.",
       "explanation": "He is uninhibited and follows his heart without restraint.",
@@ -302,6 +331,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Ye junoon hamare rap skills par",
+      "devanagari": "ये जुनून हमारे rap skills पर",
       "speaker": "Encore Abj",
       "translation": "This passion is evident in our rap skills.",
       "explanation": "The drive they have translates directly into the quality of their craft.",
@@ -309,6 +339,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Vidya Ram Dhari Singh Dinkar ki",
+      "devanagari": "विद्या रामधारी सिंह दिनकर की",
       "speaker": "Encore Abj",
       "translation": "The knowledge/wisdom of Ramdhari Singh Dinkar.",
       "explanation": "A direct homage to the legendary Indian poet whose poem 'Shakti Aur Kshama' inspired this song.",
@@ -322,6 +353,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Kavi kehna chahte hai mafi kayaro ke muh se acchi nahi lagti",
+      "devanagari": "कवि कहना चाहते है माफ़ी कायरो के मुँह से अच्छी नहीं लगती",
       "speaker": "Encore Abj",
       "translation": "The poet wants to say that forgiveness doesn't look good coming from cowards.",
       "explanation": "Paraphrasing Dinkar's philosophy: Forgiveness is only meaningful if you have the power to punish.",
@@ -335,6 +367,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Kshama deti hai unko hi shobha jinki swamini bani shakti",
+      "devanagari": "क्षमा देती है उनको ही शोभा जिनकी स्वामिनी बनी शक्ति",
       "speaker": "Encore Abj",
       "translation": "Forgiveness only suits those who have mastered power.",
       "explanation": "Another reference to the poem—mercy is a virtue of the strong, not an excuse for the weak.",
@@ -342,6 +375,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Mere bachpan se din kate anxiety mai, lage hands tied",
+      "devanagari": "मेरे बचपन से दिन कटे anxiety में, लगे hands tied",
       "speaker": "Encore Abj",
       "translation": "Since childhood, my days were spent in anxiety, feeling like my hands were tied.",
       "explanation": "Encore opens up about his own mental struggles and the feeling of being restricted by circumstances.",
@@ -349,6 +383,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Handwriting hai bakwas toh they can't write",
+      "devanagari": "Handwriting है बकवास तो they can't write",
       "speaker": "Encore Abj",
       "translation": "My handwriting is terrible, so they think I can't write (lyrics).",
       "explanation": "A play on words between literal handwriting and the 'writing' of his destiny or rap verses.",
@@ -356,6 +391,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Landmine hu mai you can run but you can't hide",
+      "devanagari": "Landmine हूँ मैं you can run but you can't hide",
       "speaker": "Encore Abj",
       "translation": "I'm a landmine; you can run, but you can't hide.",
       "explanation": "Warning his detractors that he is explosive and unavoidable once triggered.",
@@ -363,6 +399,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Manguide uppar ha sabhi se buy a land slide",
+      "devanagari": "मैं guided ऊपर हा सभी से buy a landslide",
       "speaker": "Encore Abj",
       "translation": "I'm guided from above, winning by a landslide over everyone.",
       "explanation": "Asserting his dominance in the scene through divine guidance and sheer talent.",
@@ -370,6 +407,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "School me khelta tha clubo ke liye cricket",
+      "devanagari": "School में खेलता था क्लबो के लिए cricket",
       "speaker": "Encore Abj",
       "translation": "In school, I used to play cricket for clubs.",
       "explanation": "Encore frequently mentions his past as a promising cricketer before hip-hop.",
@@ -377,6 +415,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Left arm medium bachpan se baller",
+      "devanagari": "Left arm medium बचपन से baller",
       "speaker": "Encore Abj",
       "translation": "A left-arm medium pacer since I was a kid.",
       "explanation": "Specific detail about his cricket specialty.",
@@ -384,6 +423,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Galio me sickest se clubo me hojata tha nervous aur hogya career hit wicket",
+      "devanagari": "गलियो में sickest से क्लबो में होजाता था nervous और होगया career hit wicket",
       "speaker": "Encore Abj",
       "translation": "The 'sickest' player in the streets, but I'd get nervous in clubs, and my career ended in a 'hit wicket'.",
       "explanation": "Using a cricket metaphor ('hit wicket'—getting out by your own mistake) to describe how his nerves ruined his sports career.",
@@ -397,6 +437,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Par jaha mai raha sabke saath sahi, waha log khaali rahe bas unhi ke saath sahi",
+      "devanagari": "पर जहाँ मैं रहा सबके साथ सही, वहाँ लोग खाली रहे बस उन्ही के साथ सही",
       "speaker": "Encore Abj",
       "translation": "But while I stayed true to everyone, people there only stayed true to those...",
       "explanation": "Reflecting on the lack of loyalty and the conditional nature of support in his old circles.",
@@ -411,6 +452,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Jo khele unse behtar, ye kya hai bakwas bhai, Jo unse uppar banaye unhi ko baap bhai",
+      "devanagari": "जो खेले उनसे बेहतर, ये क्या है बकवास भाई, जो उनसे ऊपर बनाए उन्ही को बाप भाई",
       "speaker": "Encore Abj",
       "translation": "...who played better than them. What nonsense, brother! Whoever is above them, they treat like a god.",
       "explanation": "Criticizing people who only respect power or success rather than character.",
@@ -425,6 +467,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Kahani mei chupi ek seekh hai, logo ko lagta hai ke wo hai uppar jab rakhte hai auro ko wo khudse neeche, kshama ko shakti ki need hai",
+      "devanagari": "कहानी में छुपी एक सीख है, लोगो को लगता है के वो है ऊपर जब रखते है औरो को वो ख़ुदसे नीचे, क्षमा को शक्ति की नीड है",
       "speaker": "Encore Abj",
       "translation": "There's a lesson hidden in the story: people think they are 'up' when they put others 'down'. Forgiveness needs power.",
       "explanation": "Defining true superiority. He reiterates that forgiveness is empty without the strength to back it up.",
@@ -432,6 +475,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Tabhi hum rap karte hai yaha banne ko best",
+      "devanagari": "तभी हम rap करते है यहाँ बनने को best",
       "speaker": "Encore Abj",
       "translation": "That's why we rap here, to be the best.",
       "explanation": "Their ambition is fueled by the desire to attain the 'Shakti' (power) required to be truly merciful.",
@@ -439,6 +483,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Asia me nahi puri duniya me best",
+      "devanagari": "Asia में नहीं पूरी दुनिया में best",
       "speaker": "Encore Abj",
       "translation": "Not just in Asia, but the best in the whole world.",
       "explanation": "Seedhe Maut's global aspirations.",
@@ -446,6 +491,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Shama fitrat me hai, busy(?) bohot pehle se",
+      "devanagari": "क्षमा फ़ितरत में है, busy(?) बहोत पहले से",
       "speaker": "Encore Abj",
       "translation": "Forgiveness is in my nature; I've been busy with it for a long time.",
       "explanation": "Claiming that being forgiving is his natural state, even before the fame.",
@@ -453,6 +499,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Lekin ab seedhe maut shakti hai yes",
+      "devanagari": "लेकिन अब सीधे मौत शक्ति है yes",
       "speaker": "Encore Abj",
       "translation": "But now, Seedhe Maut is the power, yes.",
       "explanation": "Asserting that they have now achieved the status and influence (Shakti) they once lacked.",
@@ -460,6 +507,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Toh rakhte hai kisi ko neeche nahi khudse",
+      "devanagari": "तो रखते है किसी को नीचे नहीं ख़ुदसे",
       "speaker": "Encore Abj",
       "translation": "So we don't keep anyone below us.",
       "explanation": "Because they are powerful, they choose to be humble and not look down on others.",
@@ -474,6 +522,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Aur uppar ho aisa koi vyakti nahi bana",
+      "devanagari": "और ऊपर हो ऐसा कोई व्यक्ति नहीं बना",
       "speaker": "Encore Abj",
       "translation": "And no man has been born who is above us.",
       "explanation": "While they don't look down on others, they don't allow anyone to dominate them either.",
@@ -488,6 +537,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Maaru say push ups aur kho jau bhakti mai",
+      "devanagari": "मारू सौ push ups और खो जाऊँ भक्ति में",
       "speaker": "Encore Abj",
       "translation": "I do a hundred pushups and lose myself in devotion.",
       "explanation": "Combining physical discipline with spiritual/artistic devotion ('Bhakti').",
@@ -495,6 +545,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Do mere shashtra hai shakti aur kshama",
+      "devanagari": "दो मेरे शस्त्र है शक्ति और क्षमा",
       "speaker": "Encore Abj",
       "translation": "My two weapons are power and forgiveness.",
       "explanation": "Concluding that he has integrated both values into his identity.",
@@ -502,6 +553,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Mere pass do shashtra mai chunu kya shakti ya kshama",
+      "devanagari": "मेरे पास दो शस्त्र मैं चुनूँ क्या शक्ति या क्षमा",
       "speaker": "Encore ABJ",
       "translation": "I have two weapons with me; should I choose power or forgiveness?",
       "explanation": "Final hook repetition.",
@@ -509,6 +561,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Mere pass ek lafz hai mai kahu kya shakti ya kshama",
+      "devanagari": "मेरे पास एक लफ़्ज़ है मैं कहूँ क्या शक्ति या क्षमा",
       "speaker": "Encore ABJ",
       "translation": "I have one word left; should I say power or forgiveness?",
       "explanation": "Final hook repetition.",
@@ -516,6 +569,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Mera kya kartavya hai, shakti ya kshama",
+      "devanagari": "मेरा क्या कर्तव्य है, शक्ति या क्षमा",
       "speaker": "Encore ABJ",
       "translation": "What is my duty: power or forgiveness?",
       "explanation": "Final hook repetition.",
@@ -523,6 +577,7 @@ export const shakti_aur_kshama: Song = {
     },
     {
       "original": "Mere pass do shashtra mai chunu kya shakti ya kshama",
+      "devanagari": "मेरे पास दो शस्त्र मैं चुनूँ क्या शक्ति या क्षमा",
       "speaker": "Encore ABJ",
       "translation": "I have two weapons with me; should I choose power or forgiveness?",
       "explanation": "Final hook repetition.",

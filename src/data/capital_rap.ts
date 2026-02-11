@@ -9,6 +9,7 @@ export const capital_rap: Song = {
   "lyrics": [
     {
       "original": "You're now listening to DL91 FM",
+      "romanized": "You're now listening to DL91 FM",
       "speaker": "Seedhe Maut",
       "translation": "You're now listening to DL91 FM",
       "explanation": "Mimics a radio station intro. DL91 refers to their crew/area identity in Delhi (DL is the Delhi vehicle code).",
@@ -22,6 +23,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "ये बोलते थे whack ये बोलते थे cap",
+      "romanized": "Ye bolte the whack ye bolte the cap",
       "speaker": "Calm",
       "translation": "They used to say I was whack, they used to say it was all cap.",
       "explanation": "'Whack' means bad or talentless. 'Cap' is slang for lying. He’s addressing early critics who doubted them.",
@@ -40,6 +42,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "I went for the gat थे बन्दे दो ghaint",
+      "romanized": "I went for the gat the bande do ghaint",
       "speaker": "Calm",
       "translation": "I reached for the gun, there were two cool guys.",
       "explanation": "'Gat' is slang for a gun. 'Ghaint' is Punjabi/Delhi slang for cool or impressive, referring to the duo.",
@@ -58,6 +61,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "था धन्धे में पैर now look what I did",
+      "romanized": "Thaa dhandhe men pair now look what I did",
       "speaker": "Calm",
       "translation": "I had a foot in the business, now look what I did.",
       "explanation": "He entered the rap industry (dhanda) seriously, and now he has achieved massive success.",
@@ -71,6 +75,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "माँ करे relax now look where I'm at",
+      "romanized": "Maan kare relax now look where I'm at",
       "speaker": "Calm",
       "translation": "My mother relaxes now, look where I'm at.",
       "explanation": "His financial success has allowed his mother to live comfortably without stress.",
@@ -78,6 +83,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "ये बोलते थे रहन दे करता था rap",
+      "romanized": "Ye bolte the rahn de kartaa thaa rap",
       "speaker": "Calm",
       "translation": "They used to say 'let it be' while I was rapping.",
       "explanation": "People used to tell him to quit rapping because they didn't see it as a viable path.",
@@ -85,6 +91,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मैं करता था नशे बस नशे थे साथ",
+      "romanized": "Main kartaa thaa nashe bas nashe the saath",
       "speaker": "Calm",
       "translation": "I used to do drugs, only the high was my companion.",
       "explanation": "A reference to past struggles with substance use or a period of loneliness.",
@@ -98,6 +105,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मैं कल तक था कोई नहीं, आज हूँ मैं best",
+      "romanized": "Main kal tak thaa koee naheen, aaj hoon main best",
       "speaker": "Calm",
       "translation": "Until yesterday I was nobody, today I'm the best.",
       "explanation": "The classic trajectory of the duo from underground nobodies to the top of the food chain.",
@@ -105,6 +113,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मै कल तक था dead आज Rolie की flex",
+      "romanized": "Mai kal tak thaa dead aaj Rolie kee flex",
       "speaker": "Calm",
       "translation": "Yesterday I was 'dead' (broke), today I'm flexing a Rolex.",
       "explanation": "'Rolie' is common hip-hop slang for a Rolex watch, a symbol of extreme wealth.",
@@ -124,6 +133,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "ये बोलते थे whack ये बोलते थे cap",
+      "romanized": "Ye bolte the whack ye bolte the cap",
       "speaker": "Calm",
       "translation": "They used to say I was whack, they used to say it was all cap.",
       "explanation": "Repetition of the hook emphasizing the shift from being doubted to being successful.",
@@ -131,6 +141,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "I went for the gat थे बन्दे दो",
+      "romanized": "I went for the gat the bande do",
       "speaker": "Calm",
       "translation": "I reached for the gun, there were two of us.",
       "explanation": "Emphasizing the duo's unity and readiness for battle.",
@@ -138,6 +149,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "दो बन्दे थे mad हां कर रहे थे duty",
+      "romanized": "Do bande the mad haan kar rahe the duty",
       "speaker": "Calm",
       "translation": "Two guys were mad, yes they were doing their duty.",
       "explanation": "Refers to Calm and Encore working with insane dedication as if it were a mission.",
@@ -145,6 +157,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "है बेटा ये खेल जो Checkers नहीं chess",
+      "romanized": "Hai betaa ye khel jo Checkers naheen chess",
       "speaker": "Calm",
       "translation": "Son, this game is chess, not checkers.",
       "explanation": "A metaphor for the complexity of the rap game; it requires strategy (chess) not just simple moves (checkers).",
@@ -152,6 +165,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मैं लेता नहीं सांस ना करे कोई बेहेस",
+      "romanized": "Main letaa naheen saans naa kare koee behes",
       "speaker": "Calm",
       "translation": "I don't take a breath, so no one can argue.",
       "explanation": "A reference to his 'breathless' fast-flow delivery which leaves no room for rebuttal.",
@@ -159,6 +173,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "पड़े नहीं बाल कोई ऊपर हूँ jet",
+      "romanized": "Pare naheen baal koee oopr hoon jet",
       "speaker": "Calm",
       "translation": "Not a hair out of place, I'm high up like a jet.",
       "explanation": "He is untouchable and operating at a level far above his competitors.",
@@ -166,6 +181,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "तेरा भाई Seedhe Maut",
+      "romanized": "Teraa bhaaee Seedhe Maut",
       "speaker": "Calm",
       "translation": "Your brother, Seedhe Maut.",
       "explanation": "Signature sign-off/shoutout for the duo.",
@@ -173,6 +189,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "करे कौन test",
+      "romanized": "Kare kaun test",
       "speaker": "Calm",
       "translation": "Who's going to test me?",
       "explanation": "A challenge to other rappers to try and match their skill level.",
@@ -180,6 +197,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "फूकि तो डाली नहीं सालो को घास",
+      "romanized": "Phooki to daalee naheen saalo ko ghaas",
       "speaker": "Calm",
       "translation": "I smoked up but didn't give those bastards the time of day.",
       "explanation": "Wordplay on 'ghaas daalna' (paying attention) and smoking up (phookna).",
@@ -193,6 +211,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "दो बन्दे थे ghaint",
+      "romanized": "Do bande the ghaint",
       "speaker": "Encore ABJ",
       "translation": "Two guys were cool.",
       "explanation": "Repeating the hook to set up his correction.",
@@ -200,6 +219,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "क्या मतलब “थे” ghaint?",
+      "romanized": "Kyaa matlb “the” ghaint?",
       "speaker": "Encore ABJ",
       "translation": "What do you mean they 'were' cool?",
       "explanation": "Encore questions the past tense, suggesting they are even better now.",
@@ -207,6 +227,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "दो बन्दे “है” ghaint",
+      "romanized": "Do bande “hai” ghaint",
       "speaker": "Encore ABJ",
       "translation": "Two guys 'are' cool.",
       "explanation": "Correcting the tense to the present.",
@@ -214,6 +235,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "दो बन्दे है भयंकर",
+      "romanized": "Do bande hai bhaynkr",
       "speaker": "Encore ABJ",
       "translation": "Two guys are formidable.",
       "explanation": "Describing their current status as powerful and scary for the competition.",
@@ -221,6 +243,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "कौन है यहाँ best",
+      "romanized": "Kaun hai yahaan best",
       "speaker": "Encore ABJ",
       "translation": "Who is the best here?",
       "explanation": "A rhetorical question directed at the DHH scene.",
@@ -228,6 +251,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "हम दो बन्दे answer",
+      "romanized": "Ham do bande answer",
       "speaker": "Encore ABJ",
       "translation": "We two guys are the answer.",
       "explanation": "Asserting that Seedhe Maut is the answer to who is the best.",
@@ -235,6 +259,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Rappers थे fan",
+      "romanized": "Rappers the fan",
       "speaker": "Encore ABJ",
       "translation": "Rappers were fans.",
       "explanation": "Peers in the industry used to look up to them.",
@@ -242,6 +267,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "अब है मेरे fangs पर",
+      "romanized": "Ab hai mere fangs par",
       "speaker": "Encore ABJ",
       "translation": "Now they are on my fangs.",
       "explanation": "Wordplay on 'fans' and 'fangs'. Suggests he is devouring his competition.",
@@ -249,6 +275,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "बड़ो से सीखा और अपने मसलो से बनाया खुद ही का छत्तीसवा chamber",
+      "romanized": "Baro se seekhaa aur apne maslo se banaayaa khud hee kaa chhatteesvaa chamber",
       "speaker": "Encore ABJ",
       "translation": "Learned from the elders and built my own 36th chamber from my issues.",
       "explanation": "Reference to 'The 36th Chamber of Shaolin', iconic in Wu-Tang Clan hip-hop culture. It represents mastery.",
@@ -262,6 +289,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मन रहता music में ज़ादा नहीं ऐसा नहीं हुआ की जीता ना हूँ मैं कोई स्वयंवर",
+      "romanized": "Man rahtaa music men zaadaa naheen aisaa naheen huaa kee jeetaa naa hoon main koee svaynvr",
       "speaker": "Encore ABJ",
       "translation": "My mind stays in music mostly; it’s not like I haven’t won every Swayamvar.",
       "explanation": "Swayamvar is an ancient practice of choosing a husband. He wins every 'contest' or competition he enters.",
@@ -275,6 +303,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "रोका था custom पे",
+      "romanized": "Rokaa thaa custom pe",
       "speaker": "Calm",
       "translation": "I was stopped at customs.",
       "explanation": "Refers to being questioned at the airport due to his appearance or belongings.",
@@ -282,6 +311,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "सोना था बोहोत",
+      "romanized": "Sonaa thaa bohot",
       "speaker": "Calm",
       "translation": "There was a lot of gold.",
       "explanation": "He was carrying significant gold jewellery, a sign of his wealth.",
@@ -289,6 +319,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "बोला की rapper हूँ",
+      "romanized": "Bolaa kee rapper hoon",
       "speaker": "Calm",
       "translation": "I told them I'm a rapper.",
       "explanation": "Explaining his lifestyle/wealth to authority figures.",
@@ -296,6 +327,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "करा और check",
+      "romanized": "Karaa aur check",
       "speaker": "Calm",
       "translation": "They checked even more.",
       "explanation": "Humorous take on how saying 'I'm a rapper' made the authorities more suspicious.",
@@ -303,6 +335,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "करना था rap जैसे खेली थी bet",
+      "romanized": "Karnaa thaa rap jaise khelee thee bet",
       "speaker": "Calm",
       "translation": "I had to rap like I was playing a bet.",
       "explanation": "He treated his career like a high-stakes gamble on himself.",
@@ -310,6 +343,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "हु baawe तुम अलग ये कहता था Sez",
+      "romanized": "Hu baawe tum alg ye kahtaa thaa Sez",
       "speaker": "Calm",
       "translation": "Sez used to say, 'Brother, you guys are different'.",
       "explanation": "Sez on the Beat (legendary producer) recognized their unique style early on. 'Baawe' is Delhi slang.",
@@ -328,6 +362,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Set करे practice चल fuck it again",
+      "romanized": "Set kare practice chal fuck it again",
       "speaker": "Calm",
       "translation": "Set the practice, let's go, fuck it again.",
       "explanation": "Refers to their relentless practice and 'do it till you get it' attitude.",
@@ -335,6 +370,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "DL91 you don’t fuck with the gang",
+      "romanized": "DL91 you don’t fuck with the gang",
       "speaker": "Calm",
       "translation": "DL91, you don’t mess with the gang.",
       "explanation": "Warning to anyone trying to challenge their Delhi-based crew.",
@@ -342,6 +378,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "रहता था आँखों के आगे बस red",
+      "romanized": "Rahtaa thaa aankhon ke aage bas red",
       "speaker": "Calm",
       "translation": "Only red used to stay before my eyes.",
       "explanation": "'Seeing red' implies anger or a bloodthirsty focus on winning.",
@@ -349,6 +386,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "सरफिरे छोड़ा नहीं तोड़ी और गांड़",
+      "romanized": "Sarphire chhoraa naheen toree aur gaanr",
       "speaker": "Calm",
       "translation": "Crazy ones, we didn't leave them, we broke their backs (asses).",
       "explanation": "Crude slang for dominating and defeating opponents completely.",
@@ -356,6 +394,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "ओये Calm? (क्या हुआ?)",
+      "romanized": "Oye Calm? (kyaa huaa?)",
       "speaker": "Encore ABJ",
       "translation": "Hey Calm? (What happened?)",
       "explanation": "Dialogue interlude between the two members.",
@@ -363,6 +402,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "उन चुतियो बच्चो का दिमाग फिर गया है क्या बोल रहे है की मैं अपनी बात से पलट गया",
+      "romanized": "Un chutiyo bachcho kaa dimaag phir gayaa hai kyaa bol rahe hai kee main apnee baat se palt gayaa",
       "speaker": "Encore ABJ",
       "translation": "Have those stupid kids lost their minds? They’re saying I’ve gone back on my word.",
       "explanation": "Addressing online rumors or critics who claim they have 'sold out'.",
@@ -377,6 +417,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "हम आज भी है scalp dem आज भी है हाय राम",
+      "romanized": "Ham aaj bhee hai scalp dem aaj bhee hai haay raam",
       "speaker": "Encore ABJ",
       "translation": "We are still 'Scalp Dem', still 'Haye Ram'.",
       "explanation": "References to their early hits/roots to prove they haven't changed.",
@@ -395,6 +436,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "आज भी है वही legedary duo लेकिन साडे वेल्ले लौण्डो को यहाँपे घंटे का नहीं काम",
+      "romanized": "Aaj bhee hai vahee legedary duo lekin saade velle laundo ko yahaanpe ghante kaa naheen kaam",
       "speaker": "Encore ABJ",
       "translation": "Still the same legendary duo, but idle guys have no damn business here.",
       "explanation": "They are still the best, and they don't have time for people wasting time (velle).",
@@ -414,6 +456,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "आज भी मे बोलता हूँ जो दिल और दिमाग में है",
+      "romanized": "Aaj bhee me boltaa hoon jo dil aur dimaag men hai",
       "speaker": "Encore ABJ",
       "translation": "Even today, I say what is in my heart and mind.",
       "explanation": "Asserting their authenticity and honesty in their lyrics.",
@@ -421,6 +464,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "जले जाए जिसकी भी जले गांड़",
+      "romanized": "Jale jaae jiskee bhee jale gaanr",
       "speaker": "Encore ABJ",
       "translation": "Let whoever's butt is burning, keep burning.",
       "explanation": "Common slang for people who are jealous of their success.",
@@ -428,6 +472,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "ये बोलते थे whack ये बोलते थे cap",
+      "romanized": "Ye bolte the whack ye bolte the cap",
       "speaker": "Chorus",
       "translation": "They used to say I was whack, they used to say it was all cap.",
       "explanation": "Chorus hook repeated.",
@@ -435,6 +480,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "I went for the gat थे बन्दे दो ghaint",
+      "romanized": "I went for the gat the bande do ghaint",
       "speaker": "Chorus",
       "translation": "I reached for the gun, there were two cool guys.",
       "explanation": "Chorus hook repeated.",
@@ -442,6 +488,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "था धन्धे में पैर Now look what I did",
+      "romanized": "Thaa dhandhe men pair Now look what I did",
       "speaker": "Chorus",
       "translation": "I had a foot in the business, now look what I did.",
       "explanation": "Chorus hook repeated.",
@@ -449,6 +496,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "माँ करे Relax Now Look where I'm at",
+      "romanized": "Maan kare Relax Now Look where I'm at",
       "speaker": "Chorus",
       "translation": "My mother relaxes now, look where I'm at.",
       "explanation": "Chorus hook repeated.",
@@ -456,6 +504,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "ये बोलते थे रहन दे करता था rap",
+      "romanized": "Ye bolte the rahn de kartaa thaa rap",
       "speaker": "Chorus",
       "translation": "They used to say 'let it be' while I was rapping.",
       "explanation": "Chorus hook repeated.",
@@ -463,6 +512,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मैं करता था नशे बस नशे थे साथ",
+      "romanized": "Main kartaa thaa nashe bas nashe the saath",
       "speaker": "Chorus",
       "translation": "I used to do drugs, only the high was with me.",
       "explanation": "Chorus hook repeated.",
@@ -470,6 +520,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मैं कल तक था कोई नहीं, आज हूँ मैं best",
+      "romanized": "Main kal tak thaa koee naheen, aaj hoon main best",
       "speaker": "Chorus",
       "translation": "Until yesterday I was nobody, today I'm the best.",
       "explanation": "Chorus hook repeated.",
@@ -477,6 +528,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मै कल तक था dead आज Rolie की flex",
+      "romanized": "Mai kal tak thaa dead aaj Rolie kee flex",
       "speaker": "Chorus",
       "translation": "Yesterday I was 'dead', today I'm flexing a Rolex.",
       "explanation": "Chorus hook repeated.",
@@ -484,6 +536,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "कमर मै चापड़ मैं कर रहा हूँ flex",
+      "romanized": "Kamr mai chaapr main kar rahaa hoon flex",
       "speaker": "Lil Bhavi",
       "translation": "Cleaver at the waist, I'm flexing.",
       "explanation": "Bhavi brings a 'trap' aesthetic. 'Chapad' is a heavy knife or meat cleaver.",
@@ -497,6 +550,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Came from the mud baawe इसलिए हम blessed",
+      "romanized": "Came from the mud baawe islie ham blessed",
       "speaker": "Lil Bhavi",
       "translation": "Came from the mud, brother, that's why we're blessed.",
       "explanation": "Classic 'rags to riches' narrative common in trap music.",
@@ -510,6 +564,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Ice गेरी cup और lean करे दिल में मेरा froze",
+      "romanized": "Ice geree cup aur lean kare dil men meraa froze",
       "speaker": "Lil Bhavi",
       "translation": "Threw ice in the cup and Lean made my heart freeze.",
       "explanation": "'Lean' is a recreational drug drink. 'Ice' refers to diamonds/jewellery or literal ice.",
@@ -528,6 +583,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Trap करूँ सारा दिन",
+      "romanized": "Trap karoon saaraa din",
       "speaker": "Lil Bhavi",
       "translation": "I trap all day long.",
       "explanation": "Refers to the trap music lifestyle and the grind associated with it.",
@@ -541,6 +597,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "क्यों की ये कचरो की दिल्ली है",
+      "romanized": "Kyon kee ye kachro kee dillee hai",
       "speaker": "Lil Bhavi",
       "translation": "Because this is the Delhi of 'garbage' (gritty side).",
       "explanation": "A raw, unfiltered view of the capital city.",
@@ -548,6 +605,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Baawe मुझे रहना नहीं broke",
+      "romanized": "Baawe mujhe rahnaa naheen broke",
       "speaker": "Lil Bhavi",
       "translation": "Brother, I don't want to stay broke.",
       "explanation": "His motivation for working hard in the music business.",
@@ -561,6 +619,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Baawe lean ने करा मुझे damage",
+      "romanized": "Baawe lean ne karaa mujhe damage",
       "speaker": "Lil Bhavi",
       "translation": "Brother, Lean has damaged me.",
       "explanation": "Acknowledging the negative health effects of substance abuse.",
@@ -568,6 +627,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Healing करे मेरी bad bitch",
+      "romanized": "Healing kare meree bad bitch",
       "speaker": "Lil Bhavi",
       "translation": "My 'bad bitch' heals me.",
       "explanation": "Slang for a confident, attractive woman providing him support.",
@@ -581,6 +641,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "नशे फट रे जैसे Prestige",
+      "romanized": "Nashe phat re jaise Prestige",
       "speaker": "Lil Bhavi",
       "translation": "The high is exploding like a Prestige pressure cooker.",
       "explanation": "Simile referencing a famous Indian pressure cooker brand known for its whistle/pressure.",
@@ -594,6 +655,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "हम है आगे दुश्मन past tense",
+      "romanized": "Ham hai aage dushmn past tense",
       "speaker": "Lil Bhavi",
       "translation": "We are ahead, enemies are past tense.",
       "explanation": "Clever use of grammar to say they have surpassed their enemies.",
@@ -601,6 +663,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Shirt और जूते दोनों branded",
+      "romanized": "Shirt aur joote donon branded",
       "speaker": "Lil Bhavi",
       "translation": "Both shirt and shoes are branded.",
       "explanation": "Flexing his expensive attire.",
@@ -608,6 +671,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Money callin my phone",
+      "romanized": "Money callin my phone",
       "speaker": "Lil Bhavi",
       "translation": "Money is calling my phone.",
       "explanation": "Metaphor for being constantly in demand and earning.",
@@ -615,6 +679,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Baawe चल री trap life जैसे Narcos",
+      "romanized": "Baawe chal ree trap life jaise Narcos",
       "speaker": "Lil Bhavi",
       "translation": "Brother, the trap life is going on like Narcos.",
       "explanation": "Comparing his life to the high-stakes world of the Netflix show 'Narcos'.",
@@ -628,6 +693,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "पसंद ना है red light ना वहां की hoes",
+      "romanized": "Pasnd naa hai red light naa vahaan kee hoes",
       "speaker": "Lil Bhavi",
       "translation": "I don't like red lights or the hoes there.",
       "explanation": "Disdain for the red-light districts/low-level lifestyle.",
@@ -635,6 +701,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "ज़ुबान पे है गाने और हरवक्त है कश",
+      "romanized": "Zubaan pe hai gaane aur harvkt hai kash",
       "speaker": "Lil Bhavi",
       "translation": "Songs on my tongue and always a 'drag' (smoke).",
       "explanation": "Constantly making music and smoking.",
@@ -648,6 +715,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "दल्ली होरी cheap, baawe loosing interest",
+      "romanized": "Dallee horee cheap, baawe loosing interest",
       "speaker": "Lil Bhavi",
       "translation": "Delhi is getting cheap, brother, I'm losing interest.",
       "explanation": "Criticism of how the scene or city vibe is deteriorating.",
@@ -655,6 +723,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Baawe मेरी trap life कैसे करूँ trust",
+      "romanized": "Baawe meree trap life kaise karoon trust",
       "speaker": "Lil Bhavi",
       "translation": "Brother, it's my trap life, how can I trust anyone?",
       "explanation": "Paranoia associated with a street-centric or successful lifestyle.",
@@ -662,6 +731,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "रहा चुनी ऐसी धीरे कर रही हो numb",
+      "romanized": "Rahaa chunee aisee dheere kar rahee ho numb",
       "speaker": "Lil Bhavi",
       "translation": "Stayed with a 'Chunni' (high) that's slowly making me numb.",
       "explanation": "The numbing effect of drugs or the cold lifestyle he leads.",
@@ -669,6 +739,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "ये बोलते थे whack ये बोलते थे cap",
+      "romanized": "Ye bolte the whack ye bolte the cap",
       "speaker": "Calm",
       "translation": "They used to say I was whack, they used to say it was all cap.",
       "explanation": "Final chorus repetition.",
@@ -676,6 +747,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "I went for the gat थे बन्दे दो ghaint",
+      "romanized": "I went for the gat the bande do ghaint",
       "speaker": "Calm",
       "translation": "I reached for the gun, there were two cool guys.",
       "explanation": "Final chorus repetition.",
@@ -683,6 +755,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "था धन्धे में पैर now look what I did",
+      "romanized": "Thaa dhandhe men pair now look what I did",
       "speaker": "Calm",
       "translation": "I had a foot in the business, now look what I did.",
       "explanation": "Final chorus repetition.",
@@ -690,6 +763,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "माँ करे relax now look where I'm at",
+      "romanized": "Maan kare relax now look where I'm at",
       "speaker": "Calm",
       "translation": "My mother relaxes now, look where I'm at.",
       "explanation": "Final chorus repetition.",
@@ -697,6 +771,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "ये बोलते थे रहन दे करता था rap",
+      "romanized": "Ye bolte the rahn de kartaa thaa rap",
       "speaker": "Calm",
       "translation": "They used to say 'let it be' while I was rapping.",
       "explanation": "Final chorus repetition.",
@@ -704,6 +779,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मैं करता था नशे बस नशे थे साथ",
+      "romanized": "Main kartaa thaa nashe bas nashe the saath",
       "speaker": "Calm",
       "translation": "I used to do drugs, only the high was with me.",
       "explanation": "Final chorus repetition.",
@@ -718,6 +794,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मैं कल तक था कोई नहीं, आज हूँ मैं best",
+      "romanized": "Main kal tak thaa koee naheen, aaj hoon main best",
       "speaker": "Calm",
       "translation": "Until yesterday I was nobody, today I'm the best.",
       "explanation": "Final chorus repetition.",
@@ -725,6 +802,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मै कल तक था dead आज Rolie की flex",
+      "romanized": "Mai kal tak thaa dead aaj Rolie kee flex",
       "speaker": "Calm",
       "translation": "Yesterday I was 'dead', today I'm flexing a Rolex.",
       "explanation": "Final chorus repetition.",
@@ -732,6 +810,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "जानवर है भूखा",
+      "romanized": "Jaanvr hai bhookhaa",
       "speaker": "Calm",
       "translation": "The beast is hungry.",
       "explanation": "Describing his hunger for success and dominance.",
@@ -746,6 +825,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "They won't understand",
+      "romanized": "They won't understand",
       "speaker": "Calm",
       "translation": "They won't understand.",
       "explanation": "Critics can't comprehend his drive or vision.",
@@ -753,6 +833,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "चिराग है",
+      "romanized": "Chiraag hai",
       "speaker": "Calm",
       "translation": "It's the 'Chirag' (lamp/light).",
       "explanation": "Likely a reference to Chirag Delhi, or him being the 'light' of the scene.",
@@ -766,6 +847,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मिले जो करूँ डिमांड",
+      "romanized": "Mile jo karoon dimaand",
       "speaker": "Calm",
       "translation": "I get whatever I demand.",
       "explanation": "Refers to his high status where his requests are fulfilled.",
@@ -773,6 +855,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मन करे लौण्डो का करूँ The End",
+      "romanized": "Man kare laundo kaa karoon The End",
       "speaker": "Calm",
       "translation": "I feel like ending these guys.",
       "explanation": "Hyperbolic threat to eliminate the competition.",
@@ -780,6 +863,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "हँसा जब Rolie पे पड़ा था dent",
+      "romanized": "Hansaa jab Rolie pe paraa thaa dent",
       "speaker": "Calm",
       "translation": "I laughed when the Rolex got a dent.",
       "explanation": "He's so rich that damaging a Rolex is just funny to him now.",
@@ -787,6 +871,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "करूँ जो मन करे चौदी नी बेहेन",
+      "romanized": "Karoon jo man kare chaudee nee behen",
       "speaker": "Calm",
       "translation": "I do whatever I want, don't talk back, sister/friend.",
       "explanation": "Colloquial Delhi aggression.",
@@ -794,6 +879,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "अब छोडू मे flight क्युकी छोड़ी नी train",
+      "romanized": "Ab chhodoo me flight kyukee chhoree nee train",
       "speaker": "Calm",
       "translation": "Now I take flights because I didn't miss the train (opportunity).",
       "explanation": "Wordplay on transport. He never missed an opportunity, so now he travels in style.",
@@ -801,6 +887,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "पैरों में Nike और मोटी सी चैन",
+      "romanized": "Pairon men Nike aur motee see chain",
       "speaker": "Calm",
       "translation": "Nike on my feet and a thick chain.",
       "explanation": "Classic rap aesthetics of success.",
@@ -808,6 +895,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "पैसो का तूफ़ान fuck थोड़ी सी rain",
+      "romanized": "Paiso kaa toofaan fuck thoree see rain",
       "speaker": "Calm",
       "translation": "A storm of money, fuck just a little rain.",
       "explanation": "He's making massive amounts of money, not just small bits.",
@@ -815,6 +903,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Kendrick और Wayne की बकचोदी pain दे",
+      "romanized": "Kendrick aur Wayne kee bakchodee pain de",
       "speaker": "Encore ABJ",
       "translation": "The nonsense talk about Kendrick and Wayne gives me pain.",
       "explanation": "He's annoyed by superficial comparisons to legends like Kendrick Lamar and Lil Wayne.",
@@ -833,6 +922,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "वक़्त खेले game",
+      "romanized": "Vaqt khele game",
       "speaker": "Encore ABJ",
       "translation": "Time plays games.",
       "explanation": "Acknowledging how life changes over time.",
@@ -840,6 +930,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "कुछ नी है same",
+      "romanized": "Kuchh nee hai same",
       "speaker": "Encore ABJ",
       "translation": "Nothing is the same.",
       "explanation": "Reflecting on how much their lives have changed since they started.",
@@ -847,6 +938,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मै लेता नी shame",
+      "romanized": "Mai letaa nee shame",
       "speaker": "Encore ABJ",
       "translation": "I don't feel any shame.",
       "explanation": "He is proud of his journey and his choices.",
@@ -854,6 +946,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "ना दु झूठा blame",
+      "romanized": "Naa du jhoothaa blame",
       "speaker": "Encore ABJ",
       "translation": "I don't give false blame.",
       "explanation": "He takes responsibility and speaks facts.",
@@ -868,6 +961,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "I stick with the plan",
+      "romanized": "I stick with the plan",
       "speaker": "Encore ABJ",
       "translation": "I stick with the plan.",
       "explanation": "His success comes from staying disciplined and following his path.",
@@ -875,6 +969,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "पर नहीं हूँ मैं plain",
+      "romanized": "Par naheen hoon main plain",
       "speaker": "Encore ABJ",
       "translation": "But I am not plain.",
       "explanation": "Wordplay on 'plane'. He's unique, not ordinary/simple.",
@@ -882,6 +977,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "करूँ skydive, I don't stick with the plane",
+      "romanized": "Karoon skydive, I don't stick with the plane",
       "speaker": "Encore ABJ",
       "translation": "I skydive, I don't stick with the plane.",
       "explanation": "Continues the plane wordplay; he takes risks and exits the ordinary.",
@@ -889,6 +985,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "रहु मिले high",
+      "romanized": "Rahu mile high",
       "speaker": "Encore ABJ",
       "translation": "I stay high (elevated).",
       "explanation": "Could refer to being intoxicated or being at a high status.",
@@ -896,6 +993,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "करूँ stickup पे swing",
+      "romanized": "Karoon stickup pe swing",
       "speaker": "Encore ABJ",
       "translation": "I swing on a stickup.",
       "explanation": "Aggressive street imagery/posturing.",
@@ -903,6 +1001,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "तुझे करूँ bye bye",
+      "romanized": "Tujhe karoon bye bye",
       "speaker": "Encore ABJ",
       "translation": "I tell you bye bye.",
       "explanation": "Dismissing his opponents.",
@@ -910,6 +1009,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "And you swing on my लिंग",
+      "romanized": "And you swing on my ling",
       "speaker": "Encore ABJ",
       "translation": "And you swing on my dick.",
       "explanation": "Crude insult suggesting opponents are obsessed with him or beneath him.",
@@ -917,6 +1017,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "तेरे जैसे करे swing on my लिंग",
+      "romanized": "Tere jaise kare swing on my ling",
       "speaker": "Encore ABJ",
       "translation": "People like you swing on my dick.",
       "explanation": "Repetition of the insult for emphasis.",
@@ -924,6 +1025,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "एक पैर इनकी गांड़ में one Foot on the gas",
+      "romanized": "Ek pair inkee gaanr men one Foot on the gas",
       "speaker": "Calm and Encore ABJ",
       "translation": "One foot in their ass, one foot on the gas.",
       "explanation": "He is attacking his haters while simultaneously accelerating his career.",
@@ -931,6 +1033,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "They tryna catch me पर Whip हैगी fast",
+      "romanized": "They tryna catch me par Whip haigee fast",
       "speaker": "Calm and Encore ABJ",
       "translation": "They're trying to catch me but the whip (car) is fast.",
       "explanation": "'Whip' is slang for a car. He's moving too fast for anyone to compete.",
@@ -944,6 +1047,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Team मेरी गलत है लेती नी rest",
+      "romanized": "Team meree galt hai letee nee rest",
       "speaker": "Calm and Encore ABJ",
       "translation": "My team is crazy (galat), they don't take a rest.",
       "explanation": "Acknowledging the hard-working crew behind Seedhe Maut.",
@@ -951,6 +1055,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "ये बोलते थे whack अभी रखते हैं cash",
+      "romanized": "Ye bolte the whack abhee rakhte hain cash",
       "speaker": "Calm and Encore ABJ",
       "translation": "They used to say whack, now we hold the cash.",
       "explanation": "Contrast between past criticism and current wealth.",
@@ -958,6 +1063,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "Capital cash पे capital property capital stocks और capital rap",
+      "romanized": "Capital cash pe capital property capital stocks aur capital rap",
       "speaker": "Calm and Encore ABJ",
       "translation": "Capital cash, capital property, capital stocks, and capital rap.",
       "explanation": "Wordplay on 'Capital' meaning both the city of Delhi and financial assets.",
@@ -971,6 +1077,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "हा है वो confused",
+      "romanized": "Haa hai vo confused",
       "speaker": "Calm and Encore ABJ",
       "translation": "Yes, they are confused.",
       "explanation": "Critics can't figure out their success or style.",
@@ -985,6 +1092,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "उन्हें समझ नी आता मैं हूँ थोड़ा सा wise और हूँ थोड़ा सा ratchet",
+      "romanized": "Unhen samjh nee aataa main hoon thoraa saa wise aur hoon thoraa saa ratchet",
       "speaker": "Calm and Encore ABJ",
       "translation": "They don't understand that I'm a little wise and a little ratchet.",
       "explanation": "'Ratchet' is slang for being ghetto or rowdy. He is a mix of street smarts and intellect.",
@@ -998,6 +1106,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "ये बोलते थे whack ये बोलते थे cap",
+      "romanized": "Ye bolte the whack ye bolte the cap",
       "speaker": "Calm",
       "translation": "They used to say I was whack, they used to say it was all cap.",
       "explanation": "Final hook repetition.",
@@ -1005,6 +1114,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "I went for the gat थे बन्दे दो ghaint",
+      "romanized": "I went for the gat the bande do ghaint",
       "speaker": "Calm",
       "translation": "I reached for the gun, there were two cool guys.",
       "explanation": "Final hook repetition.",
@@ -1012,6 +1122,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "था धन्धे में पैर now look what I did",
+      "romanized": "Thaa dhandhe men pair now look what I did",
       "speaker": "Calm",
       "translation": "I had a foot in the business, now look what I did.",
       "explanation": "Final hook repetition.",
@@ -1026,6 +1137,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "माँ करे relax now look where I'm at",
+      "romanized": "Maan kare relax now look where I'm at",
       "speaker": "Calm",
       "translation": "My mother relaxes now, look where I'm at.",
       "explanation": "Final hook repetition.",
@@ -1033,6 +1145,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "ये बोलते थे रहन दे करता था rap",
+      "romanized": "Ye bolte the rahn de kartaa thaa rap",
       "speaker": "Calm",
       "translation": "They used to say 'let it be' while I was rapping.",
       "explanation": "Final hook repetition.",
@@ -1047,6 +1160,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मैं करता था नशे बस नशे थे साथ",
+      "romanized": "Main kartaa thaa nashe bas nashe the saath",
       "speaker": "Calm",
       "translation": "I used to do drugs, only the high was with me.",
       "explanation": "Final hook repetition.",
@@ -1054,6 +1168,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मैं कल तक था कोई नहीं, आज हूँ मैं best",
+      "romanized": "Main kal tak thaa koee naheen, aaj hoon main best",
       "speaker": "Calm",
       "translation": "Until yesterday I was nobody, today I'm the best.",
       "explanation": "Final hook repetition.",
@@ -1061,6 +1176,7 @@ export const capital_rap: Song = {
     },
     {
       "original": "मै कल तक था dead आज Rolie की flex",
+      "romanized": "Mai kal tak thaa dead aaj Rolie kee flex",
       "speaker": "Calm",
       "translation": "Yesterday I was 'dead', today I'm flexing a Rolex.",
       "explanation": "Final hook repetition.",

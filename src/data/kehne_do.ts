@@ -9,6 +9,7 @@ export const kehne_do: Song = {
   "lyrics": [
     {
       "original": "बीते ही जाते जज्बात",
+      "romanized": "Beete hee jaate jajbaat",
       "speaker": "Encore ABJ",
       "translation": "Emotions just keep fading away",
       "explanation": "The artist describes a state of emotional numbness where feelings pass by without being processed.",
@@ -22,6 +23,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आते ही नहीं आँख तक",
+      "romanized": "Aate hee naheen aankh tak",
       "speaker": "Encore ABJ",
       "translation": "They don't even reach my eyes",
       "explanation": "He is unable to cry or express his grief outwardly, suggesting a deep internal suppression.",
@@ -29,6 +31,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "अब दिल भी कर रहा है दरख्वास्त (कि)",
+      "romanized": "Ab dil bhee kar rahaa hai darkhvaast (ki)",
       "speaker": "Encore ABJ",
       "translation": "Now even my heart is making a request (that)",
       "explanation": "His inner self is pleading for an emotional release.",
@@ -48,6 +51,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आँखों को बहने दो दो",
+      "romanized": "Aankhon ko bahne do do",
       "speaker": "Encore ABJ",
       "translation": "Let the eyes flow, let them",
       "explanation": "A call to stop holding back tears and finally let the emotions out.",
@@ -55,6 +59,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "होने दो दिल को हल्का और थोड़ा सा",
+      "romanized": "Hone do dil ko halkaa aur thoraa saa",
       "speaker": "Encore ABJ",
       "translation": "Let the heart feel a bit lighter",
       "explanation": "Crying is seen as a way to unburden the soul and find relief.",
@@ -62,6 +67,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "लोगों का क्या है",
+      "romanized": "Logon kaa kyaa hai",
       "speaker": "Encore ABJ",
       "translation": "What about the people?",
       "explanation": "A rhetorical question dismissing the opinions or judgments of society.",
@@ -69,6 +75,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "दुनिया को कहने दो दो",
+      "romanized": "Duniyaa ko kahne do do",
       "speaker": "Encore ABJ",
       "translation": "Let the world say what they want",
       "explanation": "A core theme of the song: ignoring 'Log Kya Kahenge' (what will people say) to focus on one's own peace.",
@@ -76,6 +83,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "ना डरो बस फटो",
+      "romanized": "Naa daro bas phato",
       "speaker": "Encore ABJ",
       "translation": "Don't be afraid, just explode",
       "explanation": "Encouraging the listener to release their pent-up energy and emotions without fear.",
@@ -83,6 +91,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "और बढ़ो",
+      "romanized": "Aur barho",
       "speaker": "Encore ABJ",
       "translation": "And move forward",
       "explanation": "Growth follows the process of emotional release.",
@@ -90,6 +99,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "ना सहो",
+      "romanized": "Naa saho",
       "speaker": "Encore ABJ",
       "translation": "Don't endure it",
       "explanation": "Advice against silently suffering through pain or societal pressure.",
@@ -97,6 +107,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बस बजो",
+      "romanized": "Bas bajo",
       "speaker": "Encore ABJ",
       "translation": "Just ring out / Just perform",
       "explanation": "'Bajo' is DHH slang for being loud, performing, or making your presence felt.",
@@ -110,6 +121,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "A shift to a more relaxed, intimate setting to escape the world's noise.",
@@ -124,6 +136,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते I'm that rich",
+      "romanized": "Bande jaante I'm that rich",
       "speaker": "Encore ABJ",
       "translation": "The boys know I'm that rich",
       "explanation": "Referring to both financial success and richness in talent/status.",
@@ -131,6 +144,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते I'm that lit",
+      "romanized": "Bande jaante I'm that lit",
       "speaker": "Encore ABJ",
       "translation": "The boys know I'm that lit",
       "explanation": "Confirming his high energy and influence in the scene.",
@@ -138,6 +152,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Repeating the invitation for a peaceful escape.",
@@ -145,6 +160,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते it's hattrick",
+      "romanized": "Bande jaante it's hattrick",
       "speaker": "Encore ABJ",
       "translation": "The boys know it's a hat-trick",
       "explanation": "Likely referring to consecutive hit releases or major career milestones.",
@@ -152,6 +168,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते I'm that lit",
+      "romanized": "Bande jaante I'm that lit",
       "speaker": "Encore ABJ",
       "translation": "The boys know I'm that lit",
       "explanation": "Reiterating his status.",
@@ -159,6 +176,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Hook continuation.",
@@ -166,6 +184,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Hook continuation.",
@@ -173,6 +192,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "तेरा नशा करे brain damage",
+      "romanized": "Teraa nashaa kare brain damage",
       "speaker": "Bhaskar",
       "translation": "Your intoxication causes brain damage",
       "explanation": "Likening the intense effect of a person (or substance) to a neurological impact.",
@@ -180,6 +200,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "और हो रही बॉडी को तेरे बिना बेचैनी",
+      "romanized": "Aur ho rahee bodee ko tere binaa bechainee",
       "speaker": "Bhaskar",
       "translation": "And my body feels restless without you",
       "explanation": "Describing withdrawal-like symptoms when away from the person.",
@@ -187,6 +208,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "मैं कर रहा boring summer sewer में जब पानी निकले मोटर में",
+      "romanized": "Main kar rahaa boring summer sewer men jab paanee nikle motr men",
       "speaker": "Bhaskar",
       "translation": "I'm spending a boring summer, like when water flows from a sewer motor",
       "explanation": "A gritty, Delhi-centric metaphor for a mundane and perhaps slightly unpleasant lifestyle.",
@@ -194,6 +216,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "वो चाहती जाना होटल में पर पास ना पड़े हैं 50 Cent",
+      "romanized": "Vo chaahtee jaanaa hotl men par paas naa pare hain 50 Cent",
       "speaker": "Bhaskar",
       "translation": "She wants to go to a hotel, but I don't even have 50 cents",
       "explanation": "A play on the rapper '50 Cent' and literally lacking the money for a luxury stay.",
@@ -207,6 +230,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "वो कहती अरमानों को ख्वाब तक ही रहने दो",
+      "romanized": "Vo kahtee armaanon ko khvaab tak hee rahne do",
       "speaker": "Bhaskar",
       "translation": "She says let the desires remain only in dreams",
       "explanation": "The partner is being pragmatic or pessimistic, suggesting their hopes won't come true.",
@@ -221,6 +245,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "वो कहती आँसुओं को आंस तक ही रहने दो",
+      "romanized": "Vo kahtee aansuon ko aans tak hee rahne do",
       "speaker": "Bhaskar",
       "translation": "She says let the tears stay within the hope",
       "explanation": "A wordplay on 'Aansu' (tears) and 'Aas' (hope), suggesting suppressed pain.",
@@ -228,6 +253,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "हां मेरा दिल तुझे चाह रहा है",
+      "romanized": "Haan meraa dil tujhe chaah rahaa hai",
       "speaker": "Bhaskar",
       "translation": "Yes, my heart is wanting you",
       "explanation": "A simple admission of longing.",
@@ -235,6 +261,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "मैंने जो भी पाया अब जा रहा है",
+      "romanized": "Mainne jo bhee paayaa ab jaa rahaa hai",
       "speaker": "Bhaskar",
       "translation": "Whatever I gained is now leaving",
       "explanation": "Expressing a sense of loss or the fleeting nature of success and happiness.",
@@ -242,6 +269,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "और डल्ली ले रहा मैं address",
+      "romanized": "Aur dallee le rahaa main address",
       "speaker": "Bhaskar",
       "translation": "And in Delhi, I'm taking the address",
       "explanation": "'Dalli' is slang for Delhi. He's trying to find his way or meeting someone.",
@@ -255,6 +283,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "तेरे माँ बाप करें bed rest",
+      "romanized": "Tere maan baap karen bed rest",
       "speaker": "Bhaskar",
       "translation": "Your parents are taking bed rest",
       "explanation": "Implying the parents are asleep or away, giving them privacy.",
@@ -262,6 +291,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "मुझे call करे हुई undress",
+      "romanized": "Mujhe call kare huee undress",
       "speaker": "Bhaskar",
       "translation": "She calls me while undressed",
       "explanation": "Describing a moment of sexual intimacy or vulnerability.",
@@ -269,6 +299,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "सारे secret करें confess",
+      "romanized": "Saare secret karen confess",
       "speaker": "Bhaskar",
       "translation": "Confessing all the secrets",
       "explanation": "Intimacy leads to total honesty and emotional exposure.",
@@ -276,6 +307,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "हां मेरा दिल तुझे छूने आ रहा है",
+      "romanized": "Haan meraa dil tujhe chhoone aa rahaa hai",
       "speaker": "Bhaskar",
       "translation": "Yes, my heart is coming to touch you",
       "explanation": "Metaphorical or physical movement towards the beloved.",
@@ -283,6 +315,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "हां मेरा दिल डूबता जा रहा है",
+      "romanized": "Haan meraa dil doobtaa jaa rahaa hai",
       "speaker": "Bhaskar",
       "translation": "Yes, my heart is sinking",
       "explanation": "Feeling overwhelmed or falling deep into emotion/despair.",
@@ -290,6 +323,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Hook repetition.",
@@ -297,6 +331,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते I'm that rich",
+      "romanized": "Bande jaante I'm that rich",
       "speaker": "Encore ABJ",
       "translation": "The boys know I'm that rich",
       "explanation": "Hook repetition.",
@@ -304,6 +339,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते I'm that lit",
+      "romanized": "Bande jaante I'm that lit",
       "speaker": "Encore ABJ",
       "translation": "The boys know I'm that lit",
       "explanation": "Hook repetition.",
@@ -311,6 +347,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Hook repetition.",
@@ -318,6 +355,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते it's hattrick",
+      "romanized": "Bande jaante it's hattrick",
       "speaker": "Encore ABJ",
       "translation": "The boys know it's a hat-trick",
       "explanation": "Hook repetition.",
@@ -325,6 +363,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते I'm that lit",
+      "romanized": "Bande jaante I'm that lit",
       "speaker": "Encore ABJ",
       "translation": "The boys know I'm that lit",
       "explanation": "Hook repetition.",
@@ -332,6 +371,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Hook repetition.",
@@ -339,6 +379,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Hook repetition.",
@@ -346,6 +387,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "धुआँ धुआँ बादल बावे chimney जैसे हम",
+      "romanized": "Dhuaan dhuaan baadl baave chimney jaise ham",
       "speaker": "Lil Bhavi",
       "translation": "Smoke everywhere like clouds, brother, we are like chimneys",
       "explanation": "Refers to heavy smoking (likely weed). 'Bawe' is a common Delhi/DHH term for bro.",
@@ -359,6 +401,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "ये पिनक मेरी बातें सुनती सारे सुन रहे ग़म",
+      "romanized": "Ye pink meree baaten suntee saare sun rahe gam",
       "speaker": "Lil Bhavi",
       "translation": "This intoxication listens to my words, everyone is listening to my sorrows",
       "explanation": "'Pinak' refers to a state of being high where one becomes talkative or introspective.",
@@ -372,6 +415,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "Cup में vedic scene है",
+      "romanized": "Cup men vedic scene hai",
       "speaker": "Lil Bhavi",
       "translation": "There is a 'Vedic' scene in the cup",
       "explanation": "Vedic usually refers to something herbal or ancient; here it likely means bhang or weed in a cup.",
@@ -385,6 +429,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "डल्ली किसी से ना कम",
+      "romanized": "Dallee kisee se naa kam",
       "speaker": "Lil Bhavi",
       "translation": "Delhi is second to none",
       "explanation": "Expressing pride in his city, Delhi.",
@@ -392,6 +437,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "जब हम दोनों हैं साथ यहाँ डल्ली",
+      "romanized": "Jab ham donon hain saath yahaan dallee",
       "speaker": "Lil Bhavi",
       "translation": "When we both are together here in Delhi",
       "explanation": "Focusing on the connection with a partner in their city.",
@@ -399,6 +445,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "क्यों रूके यहाँ हम",
+      "romanized": "Kyon rooke yahaan ham",
       "speaker": "Lil Bhavi",
       "translation": "Why should we stop here?",
       "explanation": "A desire to move beyond limits or current situations.",
@@ -406,6 +453,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "हां हां",
+      "romanized": "Haan haan",
       "speaker": "Lil Bhavi",
       "translation": "Yeah yeah",
       "explanation": "Ad-lib.",
@@ -413,6 +461,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "डल्ली",
+      "romanized": "Dallee",
       "speaker": "Lil Bhavi",
       "translation": "Delhi",
       "explanation": "Reiterating the setting.",
@@ -420,6 +469,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "Fucked up mentally मैं चाहिए तेरा साथ डल्ली",
+      "romanized": "Fucked up mentally main chaahie teraa saath dallee",
       "speaker": "Lil Bhavi",
       "translation": "I'm mentally messed up, I need your company in Delhi",
       "explanation": "A raw admission of mental health struggles and needing support.",
@@ -427,6 +477,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "Trust lust love issues रह चुका है past",
+      "romanized": "Trust lust love issues rah chukaa hai past",
       "speaker": "Lil Bhavi",
       "translation": "Trust, lust, and love issues have been my past",
       "explanation": "Acknowledging a history of toxic or complicated relationships.",
@@ -434,6 +485,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "डल्ली",
+      "romanized": "Dallee",
       "speaker": "Lil Bhavi",
       "translation": "Delhi",
       "explanation": "Ad-lib.",
@@ -441,6 +493,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "पिछली डल्ली बावे not mine",
+      "romanized": "Pichhlee dallee baave not mine",
       "speaker": "Lil Bhavi",
       "translation": "The previous girl wasn't mine, bro",
       "explanation": "Using 'Dalli' here as a slang/objectification for a girl from the previous relationship.",
@@ -454,6 +507,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "Insta जैसे porn site",
+      "romanized": "Insta jaise porn site",
       "speaker": "Lil Bhavi",
       "translation": "Instagram is like a porn site",
       "explanation": "Commenting on the hyper-sexualized nature of social media content.",
@@ -461,6 +515,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "मेरे लंड कह रही bonkai",
+      "romanized": "Mere land kah rahee bonkai",
       "speaker": "Lil Bhavi",
       "translation": "My [explicit] is saying 'Bankai'",
       "explanation": "A sexual double entendre using 'Bankai' (the ultimate power release from the anime *Bleach*).",
@@ -480,6 +535,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "वो डल्ली",
+      "romanized": "Vo dallee",
       "speaker": "Lil Bhavi",
       "translation": "That girl",
       "explanation": "Referring to a specific person.",
@@ -487,6 +543,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "हां हां हां",
+      "romanized": "Haan haan haan",
       "speaker": "Lil Bhavi",
       "translation": "Yeah yeah yeah",
       "explanation": "Ad-libs.",
@@ -494,6 +551,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "वो डल्ली",
+      "romanized": "Vo dallee",
       "speaker": "Lil Bhavi",
       "translation": "That girl",
       "explanation": "Repeating the focus on her.",
@@ -508,6 +566,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "Trapstar नहीं हूँ उसके लिए मैं funny",
+      "romanized": "Trapstar naheen hoon uske lie main funny",
       "speaker": "Lil Bhavi",
       "translation": "I'm not a Trapstar, to her I'm just funny",
       "explanation": "He doesn't have to put on a tough 'street' persona with her; he can be himself.",
@@ -521,6 +580,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "जो भी तुझे दिक्कत u can trust me",
+      "romanized": "Jo bhee tujhe dikkt u can trust me",
       "speaker": "Lil Bhavi",
       "translation": "Whatever your problem is, you can trust me",
       "explanation": "Offering himself as a confidant.",
@@ -528,6 +588,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "पर जब भी जाने दूर है तुझे को",
+      "romanized": "Par jab bhee jaane door hai tujhe ko",
       "speaker": "Lil Bhavi",
       "translation": "But whenever you have to go far away",
       "explanation": "Addressing the pain of distance or separation.",
@@ -535,6 +596,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "Tell me",
+      "romanized": "Tell me",
       "speaker": "Lil Bhavi",
       "translation": "Tell me",
       "explanation": "Asking for communication.",
@@ -542,6 +604,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आँखों को बहने दो दो",
+      "romanized": "Aankhon ko bahne do do",
       "speaker": "Encore ABJ",
       "translation": "Let the eyes flow, let them",
       "explanation": "Chorus reprise.",
@@ -549,6 +612,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "होने दो दिल को हल्का और थोड़ा सा",
+      "romanized": "Hone do dil ko halkaa aur thoraa saa",
       "speaker": "Encore ABJ",
       "translation": "Let the heart feel a bit lighter",
       "explanation": "Chorus reprise.",
@@ -556,6 +620,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "लोगों का क्या है",
+      "romanized": "Logon kaa kyaa hai",
       "speaker": "Encore ABJ",
       "translation": "What about the people?",
       "explanation": "Chorus reprise.",
@@ -563,6 +628,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "दुनिया को कहने दो दो",
+      "romanized": "Duniyaa ko kahne do do",
       "speaker": "Encore ABJ",
       "translation": "Let the world say what they want",
       "explanation": "Chorus reprise.",
@@ -570,6 +636,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "ना डरो बस फटो",
+      "romanized": "Naa daro bas phato",
       "speaker": "Encore ABJ",
       "translation": "Don't be afraid, just explode",
       "explanation": "Chorus reprise.",
@@ -577,6 +644,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "और बढ़ो",
+      "romanized": "Aur barho",
       "speaker": "Encore ABJ",
       "translation": "And move forward",
       "explanation": "Chorus reprise.",
@@ -591,6 +659,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "ना सहो",
+      "romanized": "Naa saho",
       "speaker": "Encore ABJ",
       "translation": "Don't endure it",
       "explanation": "Chorus reprise.",
@@ -598,6 +667,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बस बजो",
+      "romanized": "Bas bajo",
       "speaker": "Encore ABJ",
       "translation": "Just ring out",
       "explanation": "Chorus reprise.",
@@ -612,6 +682,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Chorus reprise.",
@@ -619,6 +690,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते I'm that rich",
+      "romanized": "Bande jaante I'm that rich",
       "speaker": "Encore ABJ",
       "translation": "The boys know I'm that rich",
       "explanation": "Chorus reprise.",
@@ -626,6 +698,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते I'm that lit",
+      "romanized": "Bande jaante I'm that lit",
       "speaker": "Encore ABJ",
       "translation": "The boys know I'm that lit",
       "explanation": "Chorus reprise.",
@@ -633,6 +706,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Chorus reprise.",
@@ -647,6 +721,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते it's hattrick",
+      "romanized": "Bande jaante it's hattrick",
       "speaker": "Encore ABJ",
       "translation": "The boys know it's a hat-trick",
       "explanation": "Chorus reprise.",
@@ -654,6 +729,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते I'm that lit",
+      "romanized": "Bande jaante I'm that lit",
       "speaker": "Encore ABJ",
       "translation": "The boys know I'm that lit",
       "explanation": "Chorus reprise.",
@@ -661,6 +737,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Chorus reprise.",
@@ -668,6 +745,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Chorus reprise.",
@@ -675,6 +753,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "साथ हो तो बोलो ना आँखों को कहने दो",
+      "romanized": "Saath ho to bolo naa aankhon ko kahne do",
       "speaker": "Calm",
       "translation": "When you're with me, don't speak, let the eyes talk",
       "explanation": "Suggesting that their non-verbal connection is stronger than words.",
@@ -682,6 +761,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "Baby कुछ चीजों को अनकहा रहने दो",
+      "romanized": "Baby kuchh cheejon ko ankhaa rahne do",
       "speaker": "Calm",
       "translation": "Baby, let some things remain unsaid",
       "explanation": "Valuing the mystery or the silence in their relationship.",
@@ -689,6 +769,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "साथ हो तो छोड़ो सब बाहों में रहने दो",
+      "romanized": "Saath ho to chhoro sab baahon men rahne do",
       "speaker": "Calm",
       "translation": "If we're together, leave everything else and stay in my arms",
       "explanation": "Asking the partner to forget external worries and focus on the embrace.",
@@ -696,6 +777,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "Faded है फिर से जब घर रखे पैर कभी",
+      "romanized": "Faded hai phir se jab ghar rakhe pair kabhee",
       "speaker": "Calm",
       "translation": "I'm faded again whenever I step into the house",
       "explanation": "Being high or mentally exhausted upon returning home.",
@@ -703,6 +785,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "चाहता नहीं तू गहरे पानी में तैर कभी",
+      "romanized": "Chaahtaa naheen too gahre paanee men tair kabhee",
       "speaker": "Calm",
       "translation": "You never want to swim in deep waters",
       "explanation": "Metaphor for avoiding deep emotional involvement or risky situations.",
@@ -710,6 +793,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "Busy हूँ क्योंकि हैं बड़े से plan अभी",
+      "romanized": "Busy hoon kyonki hain bare se plan abhee",
       "speaker": "Calm",
       "translation": "I'm busy because there are big plans right now",
       "explanation": "Focusing on his career and future ambitions.",
@@ -717,6 +801,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "भरने दे भुस्सी है मिला नहीं चैन अभी",
+      "romanized": "Bharne de bhussee hai milaa naheen chain abhee",
       "speaker": "Calm",
       "translation": "Let me create a storm, I haven't found peace yet",
       "explanation": "'Bhussi bharna' is slang for dominating or working intensely to the point of destruction.",
@@ -730,6 +815,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "I hope वो समझे जब करूँ मैं msg नहीं",
+      "romanized": "I hope vo samjhe jab karoon main msg naheen",
       "speaker": "Calm",
       "translation": "I hope she understands when I don't message",
       "explanation": "Asking for patience regarding his busy schedule and lack of communication.",
@@ -737,6 +823,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आँखों को कहने दो आँखों को बहने दो",
+      "romanized": "Aankhon ko kahne do aankhon ko bahne do",
       "speaker": "Calm",
       "translation": "Let the eyes speak, let the eyes flow",
       "explanation": "Echoing the main theme of emotional expression through eyes/tears.",
@@ -744,6 +831,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बातों को रहने दो चाहता नहीं कहना कुछ",
+      "romanized": "Baaton ko rahne do chaahtaa naheen kahnaa kuchh",
       "speaker": "Calm",
       "translation": "Let the words be, I don't want to say anything",
       "explanation": "Choosing silence over verbal explanation.",
@@ -751,6 +839,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "पहले इन शब्दों से सबको निपटने दो",
+      "romanized": "Pahle in shabdon se sabko niptne do",
       "speaker": "Calm",
       "translation": "First let everyone deal with these words",
       "explanation": "Referring to his lyrics/music as the primary way he deals with the world.",
@@ -758,6 +847,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बोले ना बहुत हैं हम दो की energy",
+      "romanized": "Bole naa bahut hain ham do kee energy",
       "speaker": "Calm",
       "translation": "Even if we don't speak, our energy together is plenty",
       "explanation": "The vibe between the two of them is sufficient without conversation.",
@@ -765,6 +855,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "साथ है तू दुनिया को सह लूंगा आने दो",
+      "romanized": "Saath hai too duniyaa ko sah loongaa aane do",
       "speaker": "Calm",
       "translation": "If you are with me, I'll endure the world, let it come",
       "explanation": "The partner's support gives him the strength to face any external challenge.",
@@ -772,6 +863,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "जाने वो कौन हूँ मैं कहती हो मेहनती",
+      "romanized": "Jaane vo kaun hoon main kahtee ho mehntee",
       "speaker": "Calm",
       "translation": "Who knows who I am? You call me hardworking",
       "explanation": "Reflecting on his identity and how his partner perceives his hustle.",
@@ -779,6 +871,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "कहती है पसंद ये killer mentality",
+      "romanized": "Kahtee hai pasnd ye killer mentality",
       "speaker": "Calm",
       "translation": "She says she likes this 'killer mentality'",
       "explanation": "She admires his aggressive focus and drive in the rap game.",
@@ -786,6 +879,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "जाने ये game है मेरे लिए challenge नहीं",
+      "romanized": "Jaane ye game hai mere lie challenge naheen",
       "speaker": "Calm",
       "translation": "Know that this game is not a challenge for me",
       "explanation": "Confidently stating that he has mastered the music industry/rap game.",
@@ -793,6 +887,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "साथ हो तो बोलो ना आँखों को कहने दो",
+      "romanized": "Saath ho to bolo naa aankhon ko kahne do",
       "speaker": "Calm",
       "translation": "When you're with me, don't speak, let the eyes talk",
       "explanation": "Verse repetition for emphasis.",
@@ -800,6 +895,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "चाहती हो कितना है लिखा वो चेहरे पे",
+      "romanized": "Chaahtee ho kitnaa hai likhaa vo chehre pe",
       "speaker": "Calm",
       "translation": "How much you want [me] is written on your face",
       "explanation": "Her feelings are visible through her expressions.",
@@ -807,6 +903,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "होने दो हल्का तुम दिल को भी कहने दो",
+      "romanized": "Hone do halkaa tum dil ko bhee kahne do",
       "speaker": "Calm",
       "translation": "Let yourself feel light, let your heart speak too",
       "explanation": "Encouraging the partner to also release her emotions.",
@@ -814,6 +911,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "देती हो खुद को नहीं वक्त कभी जरा सा",
+      "romanized": "Detee ho khud ko naheen vakt kabhee jaraa saa",
       "speaker": "Calm",
       "translation": "You never give yourself even a little bit of time",
       "explanation": "Observing the partner's selflessness or over-busy nature.",
@@ -821,6 +919,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "लेती हो BT पर कहती नहीं किसी को",
+      "romanized": "Letee ho BT par kahtee naheen kisee ko",
       "speaker": "Calm",
       "translation": "You take a 'Bad Trip' (stress) but don't tell anyone",
       "explanation": "'BT' is slang for a bad experience or stress. She suffers in silence.",
@@ -834,6 +933,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "I know मैं कहता नहीं दिखे सब मुझे भी",
+      "romanized": "I know main kahtaa naheen dikhe sab mujhe bhee",
       "speaker": "Calm",
       "translation": "I know I don't say it, but I see everything too",
       "explanation": "He is observant and notices her pain even if he isn't vocal about it.",
@@ -841,6 +941,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "हां मैं भी तेरे ही जैसा हूँ",
+      "romanized": "Haan main bhee tere hee jaisaa hoon",
       "speaker": "Calm",
       "translation": "Yes, I am just like you",
       "explanation": "Finding common ground in their shared habit of suppressing emotions.",
@@ -848,6 +949,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आँखों को बहने दो दो",
+      "romanized": "Aankhon ko bahne do do",
       "speaker": "Encore ABJ",
       "translation": "Let the eyes flow, let them",
       "explanation": "Final chorus section.",
@@ -855,6 +957,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "होने दो दिल को हल्का और थोड़ा सा",
+      "romanized": "Hone do dil ko halkaa aur thoraa saa",
       "speaker": "Encore ABJ",
       "translation": "Let the heart feel a bit lighter",
       "explanation": "Final chorus section.",
@@ -862,6 +965,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "लोगों का क्या है",
+      "romanized": "Logon kaa kyaa hai",
       "speaker": "Encore ABJ",
       "translation": "What about the people?",
       "explanation": "Final chorus section.",
@@ -869,6 +973,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "दुनिया को कहने दो दो",
+      "romanized": "Duniyaa ko kahne do do",
       "speaker": "Encore ABJ",
       "translation": "Let the world say what they want",
       "explanation": "Final chorus section.",
@@ -876,6 +981,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "ना डरो बस फटो",
+      "romanized": "Naa daro bas phato",
       "speaker": "Encore ABJ",
       "translation": "Don't be afraid, just explode",
       "explanation": "Final chorus section.",
@@ -883,6 +989,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "और बढ़ो",
+      "romanized": "Aur barho",
       "speaker": "Encore ABJ",
       "translation": "And move forward",
       "explanation": "Final chorus section.",
@@ -890,6 +997,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "ना सहो",
+      "romanized": "Naa saho",
       "speaker": "Encore ABJ",
       "translation": "Don't endure it",
       "explanation": "Final chorus section.",
@@ -897,6 +1005,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बस बजो",
+      "romanized": "Bas bajo",
       "speaker": "Encore ABJ",
       "translation": "Just ring out",
       "explanation": "Final chorus section.",
@@ -904,6 +1013,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Outro repetition.",
@@ -911,6 +1021,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते I'm that rich",
+      "romanized": "Bande jaante I'm that rich",
       "speaker": "Encore ABJ",
       "translation": "The boys know I'm that rich",
       "explanation": "Outro repetition.",
@@ -918,6 +1029,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते I'm that lit",
+      "romanized": "Bande jaante I'm that lit",
       "speaker": "Encore ABJ",
       "translation": "The boys know I'm that lit",
       "explanation": "Outro repetition.",
@@ -925,6 +1037,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Outro repetition.",
@@ -932,6 +1045,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते it's hattrick",
+      "romanized": "Bande jaante it's hattrick",
       "speaker": "Encore ABJ",
       "translation": "The boys know it's a hat-trick",
       "explanation": "Outro repetition.",
@@ -939,6 +1053,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "बंदे जानते I'm that lit",
+      "romanized": "Bande jaante I'm that lit",
       "speaker": "Encore ABJ",
       "translation": "The boys know I'm that lit",
       "explanation": "Outro repetition.",
@@ -946,6 +1061,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Outro repetition.",
@@ -953,6 +1069,7 @@ export const kehne_do: Song = {
     },
     {
       "original": "आ जा chill करें Netflix",
+      "romanized": "Aa jaa chill karen Netflix",
       "speaker": "Encore ABJ",
       "translation": "Come over, let's chill with Netflix",
       "explanation": "Final line.",

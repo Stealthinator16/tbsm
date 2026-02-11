@@ -9,6 +9,7 @@ export const mp3: Song = {
   "lyrics": [
     {
       "original": "मैं जानू क्यों करे तू दोस्ती",
+      "romanized": "Main jaanoo kyon kare too dostee",
       "speaker": "Calm",
       "translation": "I know why you're trying to be friends.",
       "explanation": "Calm addresses people who are suddenly acting friendly now that he has achieved fame and success.",
@@ -22,6 +23,7 @@ export const mp3: Song = {
     },
     {
       "original": "एहमियत मालूम है note की",
+      "romanized": "Ehamiyata maalooma hai note kee",
       "speaker": "Calm",
       "translation": "I know the importance of money.",
       "explanation": "He understands the value of financial stability after the struggle.",
@@ -35,6 +37,7 @@ export const mp3: Song = {
     },
     {
       "original": "उसी से पूछेंगे लोग भी",
+      "romanized": "Usee se poochhenge loga bhee",
       "speaker": "Calm",
       "translation": "People will only value you based on that.",
       "explanation": "A commentary on how society's respect is often tied to a person's wealth.",
@@ -42,6 +45,7 @@ export const mp3: Song = {
     },
     {
       "original": "यहाँ कमी नी महसूस हो bros की",
+      "romanized": "Yahaan kamee nee mahasoosa ho bros kee",
       "speaker": "Calm",
       "translation": "I don't feel a lack of brothers here.",
       "explanation": "He has his loyal circle, so he doesn't need fake new friends.",
@@ -55,6 +59,7 @@ export const mp3: Song = {
     },
     {
       "original": "जब जाते थे cypher हम battle से पहले बस सुनते थे DOPE D-O-D",
+      "romanized": "Jaba jaate the cypher hama battle se pahale basa sunate the DOPE D-O-D",
       "speaker": "Calm",
       "translation": "Back when we went to cyphers, before battles, we only listened to Dope D.O.D.",
       "explanation": "Reference to the Dutch hardcore hip-hop group Dope D.O.D., who influenced their early aggressive style.",
@@ -73,6 +78,7 @@ export const mp3: Song = {
     },
     {
       "original": "Rap game बनाये भाई COD",
+      "romanized": "Rap game banaaye bhaaee COD",
       "speaker": "Calm",
       "translation": "Brother, I've turned the rap game into Call of Duty.",
       "explanation": "Comparing the competitive nature of rap to the shooter game COD.",
@@ -86,6 +92,7 @@ export const mp3: Song = {
     },
     {
       "original": "इन्हें करूँ जाऊँ shoot DOP",
+      "romanized": "Inhen karoon jaaoon shoot DOP",
       "speaker": "Calm",
       "translation": "I'll shoot them like a DOP.",
       "explanation": "A double entendre on 'shoot'—shooting a video (as a Director of Photography) vs. shooting in a game/battle.",
@@ -99,6 +106,7 @@ export const mp3: Song = {
     },
     {
       "original": "यहाँ कमी नी चुतियों की",
+      "romanized": "Yahaan kamee nee chutiyon kee",
       "speaker": "Calm",
       "translation": "There's no shortage of idiots here.",
       "explanation": "A blunt observation about the number of foolish or fake people in the scene.",
@@ -112,6 +120,7 @@ export const mp3: Song = {
     },
     {
       "original": "यहाँ कमी नहीं चुतियों की;",
+      "romanized": "Yahaan kamee naheen chutiyon kee;",
       "speaker": "Hurricane",
       "translation": "There is no shortage of idiots here.",
       "explanation": "Repetition for emphasis in the hook/bridge.",
@@ -119,6 +128,7 @@ export const mp3: Song = {
     },
     {
       "original": "वो करे जाए text;",
+      "romanized": "Vo kare jaae text;",
       "speaker": "Hurricane",
       "translation": "She keeps on texting.",
       "explanation": "Referring to someone trying to get his attention constantly.",
@@ -126,6 +136,7 @@ export const mp3: Song = {
     },
     {
       "original": "मैं बोला wassup;",
+      "romanized": "Main bolaa waassup;",
       "speaker": "Hurricane",
       "translation": "I just said, 'Wassup?'",
       "explanation": "A casual, detached response to the constant texting.",
@@ -133,6 +144,7 @@ export const mp3: Song = {
     },
     {
       "original": "कहती Don't leave me on seen",
+      "romanized": "Kahatee Don't leave me on seen",
       "speaker": "Hurricane",
       "translation": "She says, 'Don't leave me on seen.'",
       "explanation": "Modern dating/social media slang where 'seen' implies being ignored.",
@@ -152,6 +164,7 @@ export const mp3: Song = {
     },
     {
       "original": "हाँ studio में काट दिया दिन हाँ पहले तू दोस्त ठीक थी",
+      "romanized": "Haan studio men kaata diyaa dina haan pahale too dosta theeka thee",
       "speaker": "Hurricane",
       "translation": "Spent the whole day in the studio; you were better off as just a friend.",
       "explanation": "Reflecting on how things get complicated when a friendship turns into something else, especially with a busy artist life.",
@@ -159,6 +172,7 @@ export const mp3: Song = {
     },
     {
       "original": "Man I feel like this life chose me",
+      "romanized": "Man I feel like this life chose me",
       "speaker": "Hurricane",
       "translation": "Man, I feel like this life chose me.",
       "explanation": "The artist feels his path in music was destiny rather than just a choice.",
@@ -166,6 +180,7 @@ export const mp3: Song = {
     },
     {
       "original": "तीन दिन तीन MP3s",
+      "romanized": "Teena dina teena MP3s",
       "speaker": "Hurricane",
       "translation": "Three days, three MP3s.",
       "explanation": "Highlighting high productivity—making three songs in three days.",
@@ -179,6 +194,7 @@ export const mp3: Song = {
     },
     {
       "original": "ये भड़वे NPC",
+      "romanized": "Ye bhaड़ve NPC",
       "speaker": "Calm",
       "translation": "These losers are just NPCs.",
       "explanation": "Calling rivals 'Non-Playable Characters'—unimportant, scripted background characters in his life's game.",
@@ -192,6 +208,7 @@ export const mp3: Song = {
     },
     {
       "original": "काटे ये ज़बान है कैंची सी",
+      "romanized": "Kaate ye ज़baana hai kainchee see",
       "speaker": "Calm",
       "translation": "My tongue cuts like a pair of scissors.",
       "explanation": "A metaphor for sharp, biting lyrics and rap flow.",
@@ -206,6 +223,7 @@ export const mp3: Song = {
     },
     {
       "original": "Ronaldo Messi सी",
+      "romanized": "Ronaldo Messi see",
       "speaker": "Calm",
       "translation": "Like Ronaldo and Messi.",
       "explanation": "Comparing the duo Seedhe Maut to the two greatest football players—implying they are the GOATs of the game.",
@@ -219,6 +237,7 @@ export const mp3: Song = {
     },
     {
       "original": "बचपन में Em’ की वो casette सी",
+      "romanized": "Bachapana men Em’ kee vo casette see",
       "speaker": "Calm",
       "translation": "Like that Eminem cassette from childhood.",
       "explanation": "Nostalgic reference to Eminem (Em'), who was a primary inspiration for many DHH rappers.",
@@ -238,6 +257,7 @@ export const mp3: Song = {
     },
     {
       "original": "गाड़ी दो second में सौ पोहोचती",
+      "romanized": "Gaaड़ee do second men sau pohochatee",
       "speaker": "Calm",
       "translation": "The car hits a hundred in two seconds.",
       "explanation": "A metaphor for their rapid rise to success and high-speed lifestyle.",
@@ -245,6 +265,7 @@ export const mp3: Song = {
     },
     {
       "original": "गलत थी संगती",
+      "romanized": "Galata thee sangatee",
       "speaker": "Calm",
       "translation": "The company I kept was wrong.",
       "explanation": "Acknowledging a past where he associated with the wrong people.",
@@ -259,6 +280,7 @@ export const mp3: Song = {
     },
     {
       "original": "खड़ी की company",
+      "romanized": "Khaड़ee kee company",
       "speaker": "Calm",
       "translation": "But I built my own company.",
       "explanation": "Moving from bad influences to building his own business/brand (Azadi Records/DL91).",
@@ -266,6 +288,7 @@ export const mp3: Song = {
     },
     {
       "original": "करूँ ना compromise",
+      "romanized": "Karoon naa compromise",
       "speaker": "Calm",
       "translation": "I don't compromise.",
       "explanation": "Strict adherence to his artistic vision and quality.",
@@ -273,6 +296,7 @@ export const mp3: Song = {
     },
     {
       "original": "अच्छी थी गन्दगी",
+      "romanized": "Achchhee thee gandagee",
       "speaker": "Calm",
       "translation": "The 'dirt' was actually good.",
       "explanation": "The struggles and rough environment they came from shaped their authentic sound.",
@@ -280,6 +304,7 @@ export const mp3: Song = {
     },
     {
       "original": "Seedhe Maut देरे तो मिले यहाँ सजा पर",
+      "romanized": "Seedhe Maut dere to mile yahaan sajaa para",
       "speaker": "Calm",
       "translation": "If Seedhe Maut is giving it, it’s treated like a punishment here.",
       "explanation": "Wordplay on 'Saza' (punishment/arrangement). Their bars are so heavy they feel like a sentence to rivals.",
@@ -293,6 +318,7 @@ export const mp3: Song = {
     },
     {
       "original": "आगे कला के वो काम पड़ी",
+      "romanized": "Aage kalaa ke vo kaama paड़ee",
       "speaker": "Calm",
       "translation": "It all came in handy for the art.",
       "explanation": "Everything he went through eventually served as fuel for his music.",
@@ -300,6 +326,7 @@ export const mp3: Song = {
     },
     {
       "original": "मैं जानू क्यों करे तू दोस्ती",
+      "romanized": "Main jaanoo kyon kare too dostee",
       "speaker": "Calm",
       "translation": "I know why you're trying to be friends.",
       "explanation": "Reiterating the skepticism towards fake associations.",
@@ -307,6 +334,7 @@ export const mp3: Song = {
     },
     {
       "original": "एहमियत मालूम है note की",
+      "romanized": "Ehamiyata maalooma hai note kee",
       "speaker": "Calm",
       "translation": "I know the importance of money.",
       "explanation": "Understanding that money drives many people's loyalty.",
@@ -314,6 +342,7 @@ export const mp3: Song = {
     },
     {
       "original": "उसी से पूछेंगे लोग भी",
+      "romanized": "Usee se poochhenge loga bhee",
       "speaker": "Calm",
       "translation": "People will only value you based on that.",
       "explanation": "Society judges success by the bank balance.",
@@ -321,6 +350,7 @@ export const mp3: Song = {
     },
     {
       "original": "यहाँ कमी नी महसूस हो bros की",
+      "romanized": "Yahaan kamee nee mahasoosa ho bros kee",
       "speaker": "Calm",
       "translation": "I don't feel a lack of brothers here.",
       "explanation": "Content with his day-one circle.",
@@ -328,6 +358,7 @@ export const mp3: Song = {
     },
     {
       "original": "जब जाते थे cypher हम battle से पहले बस सुनते थे DOPE D-O-D",
+      "romanized": "Jaba jaate the cypher hama battle se pahale basa sunate the DOPE D-O-D",
       "speaker": "Calm",
       "translation": "Back when we went to cyphers, before battles, we only listened to Dope D.O.D.",
       "explanation": "Recalling their roots and musical influences.",
@@ -335,6 +366,7 @@ export const mp3: Song = {
     },
     {
       "original": "Rap game बनाये भाई COD",
+      "romanized": "Rap game banaaye bhaaee COD",
       "speaker": "Calm",
       "translation": "Brother, I've turned the rap game into Call of Duty.",
       "explanation": "Treating rap like a strategic, competitive battlefield.",
@@ -342,6 +374,7 @@ export const mp3: Song = {
     },
     {
       "original": "इन्हें करूँ जाऊँ shoot DOP",
+      "romanized": "Inhen karoon jaaoon shoot DOP",
       "speaker": "Calm",
       "translation": "I'll shoot them like a DOP.",
       "explanation": "Visualizing his lyrical dominance as cinematic 'shots'.",
@@ -349,6 +382,7 @@ export const mp3: Song = {
     },
     {
       "original": "यहाँ कमी नी चुतियों की",
+      "romanized": "Yahaan kamee nee chutiyon kee",
       "speaker": "Calm",
       "translation": "There's no shortage of idiots here.",
       "explanation": "Concluding that the industry is full of pretenders.",
@@ -356,6 +390,7 @@ export const mp3: Song = {
     },
     {
       "original": "ये वाला उनके लिए जो लेके चलते चोदे छतीस",
+      "romanized": "Ye vaalaa unake lie jo leke chalate chode chhateesa",
       "speaker": "Encore ABJ",
       "translation": "This one is for those who walk around acting tough.",
       "explanation": "‘Chode chhatees’ refers to someone puffing out their chest (36 inches) to act arrogant or intimidating.",
@@ -369,6 +404,7 @@ export const mp3: Song = {
     },
     {
       "original": "घरवालों की है दस और बाकी पैसो की है छब्बीस",
+      "romanized": "Gharavaalon kee hai dasa aura baakee paiso kee hai chhabbeesa",
       "speaker": "Encore ABJ",
       "translation": "Ten for the family, and the other twenty-six for money.",
       "explanation": "Part of a counting rhyme scheme. Likely refers to dividing his worries or priorities (10 for family, 26 for financial goals).",
@@ -383,6 +419,7 @@ export const mp3: Song = {
     },
     {
       "original": "दिमाग से अस्सी के उम्र से है अभी भी पच्चीस",
+      "romanized": "Dimaaga se assee ke umra se hai abhee bhee pachcheesa",
       "speaker": "Encore ABJ",
       "translation": "Eighty in mind, but still twenty-five in age.",
       "explanation": "He possesses the wisdom of an old man despite being young.",
@@ -390,6 +427,7 @@ export const mp3: Song = {
     },
     {
       "original": "तेरे दो verses मेरे लिए है just another बत्तीस",
+      "romanized": "Tere do verses mere lie hai just another batteesa",
       "speaker": "Encore ABJ",
       "translation": "Your two verses are just another joke (teeth) to me.",
       "explanation": "‘Battis’ (32) refers to teeth. He’s saying your verses make him laugh/show his teeth because they aren't a threat.",
@@ -409,6 +447,7 @@ export const mp3: Song = {
     },
     {
       "original": "माँ बोली झुक के जी ना आगे तू किसी के हरगिज़",
+      "romanized": "Maan bolee jhuka ke jee naa aage too kisee ke haragiज़",
       "speaker": "Encore ABJ",
       "translation": "Mother said, 'Never live your life bowing down to anyone.'",
       "explanation": "Encore shares a principle of self-respect taught by his mother.",
@@ -416,6 +455,7 @@ export const mp3: Song = {
     },
     {
       "original": "बन्दे है Rockstar सुर बंदी दिखती जैसे Nargiz",
+      "romanized": "Bande hai Rockstar sura bandee dikhatee jaise Nargiz",
       "speaker": "Encore ABJ",
       "translation": "We are Rockstars, and the girl looks like Nargis.",
       "explanation": "Reference to the movie 'Rockstar' starring Ranbir Kapoor and Nargis Fakhri.",
@@ -429,6 +469,7 @@ export const mp3: Song = {
     },
     {
       "original": "बोला था तुझे मैं पहले भी",
+      "romanized": "Bolaa thaa tujhe main pahale bhee",
       "speaker": "Encore ABJ",
       "translation": "I told you this before as well.",
       "explanation": "Reiterating a past warning or statement about their success.",
@@ -436,6 +477,7 @@ export const mp3: Song = {
     },
     {
       "original": "Indudstry खालेंगे",
+      "romanized": "Indudstry khaalenge",
       "speaker": "Encore ABJ",
       "translation": "We will consume the industry.",
       "explanation": "Expressing their ambition to dominate the Indian music scene.",
@@ -443,6 +485,7 @@ export const mp3: Song = {
     },
     {
       "original": "Mixtape in 2017",
+      "romanized": "Mixtape in 2017",
       "speaker": "Encore ABJ",
       "translation": "Mixtape in 2017.",
       "explanation": "Reference to '2KaTe' or their early work when they started gaining underground traction.",
@@ -450,6 +493,7 @@ export const mp3: Song = {
     },
     {
       "original": "तबसे था music हमेशा से दूजा और रखा है दोस्ती को पहले पे, पहले से",
+      "romanized": "Tabase thaa music hameshaa se doojaa aura rakhaa hai dostee ko pahale pe, pahale se",
       "speaker": "Encore ABJ",
       "translation": "Music was always second; friendship was always first, right from the start.",
       "explanation": "Highlighting that the bond between Calm and Encore is more important than the business.",
@@ -457,6 +501,7 @@ export const mp3: Song = {
     },
     {
       "original": "पर पहले से पहले",
+      "romanized": "Para pahale se pahale",
       "speaker": "Encore ABJ",
       "translation": "But even before the 'before'...",
       "explanation": "Emphasizing their long-term history.",
@@ -464,6 +509,7 @@ export const mp3: Song = {
     },
     {
       "original": "दे नेहले पे देहले",
+      "romanized": "De nehale pe dehale",
       "speaker": "Encore ABJ",
       "translation": "Giving a fitting response to every move.",
       "explanation": "An idiom (Dehle pe Nehla) meaning to outdo someone or counter a move perfectly.",
@@ -477,6 +523,7 @@ export const mp3: Song = {
     },
     {
       "original": "पर आगे बस बढ़े जाए enemy",
+      "romanized": "Para aage basa baढ़e jaae enemy",
       "speaker": "Encore ABJ",
       "translation": "But the enemies just keep increasing as we move forward.",
       "explanation": "As they grow, so does the envy and number of rivals.",
@@ -484,6 +531,7 @@ export const mp3: Song = {
     },
     {
       "original": "पर हमने किसी की माँ भी नी चौदी",
+      "romanized": "Para hamane kisee kee maan bhee nee chaudee",
       "speaker": "Encore ABJ",
       "translation": "But we didn't even offend anyone (literally: didn't do anything wrong to anyone).",
       "explanation": "Using aggressive slang to say they haven't initiated unnecessary beef or wronged anyone.",
@@ -497,6 +545,7 @@ export const mp3: Song = {
     },
     {
       "original": "हम पापा है rappers के पहले से ही",
+      "romanized": "Hama paapaa hai rappers ke pahale se hee",
       "speaker": "Encore ABJ",
       "translation": "We've been the fathers of these rappers from the start.",
       "explanation": "Claiming seniority and superior skill over other rappers in the scene.",
@@ -504,6 +553,7 @@ export const mp3: Song = {
     },
     {
       "original": "Rohini printer apartment की छतो पे सपने जो देखे वो पैसो में print होरे है",
+      "romanized": "Rohini printer apartment kee chhato pe sapane jo dekhe vo paiso men print hore hai",
       "speaker": "Encore ABJ",
       "translation": "The dreams we saw on the rooftops of Rohini Printer Apartments are now being printed as money.",
       "explanation": "A beautiful full-circle moment—their humble beginnings in Rohini have turned into a lucrative career.",
@@ -517,6 +567,7 @@ export const mp3: Song = {
     },
     {
       "original": "पापा को मालूम है की उनकी नौकरी के दिन थोड़े है",
+      "romanized": "Paapaa ko maalooma hai kee unakee naukaree ke dina thoड़e hai",
       "speaker": "Encore ABJ",
       "translation": "Father knows that his working days are numbered.",
       "explanation": "Encore is now successful enough to let his father retire soon.",
@@ -524,6 +575,7 @@ export const mp3: Song = {
     },
     {
       "original": "क्युकी अब गलियों में Negi के लड़के के ढिंढोरे है",
+      "romanized": "Kyukee aba galiyon men Negi ke laड़ke ke dhindhore hai",
       "speaker": "Encore ABJ",
       "translation": "Because now the 'Negi boy' is being celebrated in the streets.",
       "explanation": "Encore's real surname is Negi. He's proud that his name is famous in his neighborhood.",
@@ -537,6 +589,7 @@ export const mp3: Song = {
     },
     {
       "original": "DL91 hip-hop का pincode है",
+      "romanized": "DL91 hip-hop kaa pincode hai",
       "speaker": "Encore ABJ",
       "translation": "DL91 is the pincode of hip-hop.",
       "explanation": "DL91 refers to the vehicle registration area of North-West Delhi (Rohini). He's claiming his area is the capital of rap.",
@@ -550,6 +603,7 @@ export const mp3: Song = {
     },
     {
       "original": "फट रहे है जैसे pepsi में menthol है",
+      "romanized": "Phata rahe hai jaise pepsi men menthol hai",
       "speaker": "Encore ABJ",
       "translation": "Exploding like mentos in a Pepsi bottle.",
       "explanation": "A metaphor for their sudden and explosive impact on the culture.",
@@ -557,6 +611,7 @@ export const mp3: Song = {
     },
     {
       "original": "SM और BK दिल्ली और बंगाल है (बंगाल है)",
+      "romanized": "SM aura BK dillee aura bangaala hai (bangaala hai)",
       "speaker": "Encore ABJ",
       "translation": "SM and BK represent Delhi and Bengal.",
       "explanation": "Seedhe Maut (Delhi) and likely a reference to their collaborator or manager's roots/crew reaching Bengal.",
@@ -570,6 +625,7 @@ export const mp3: Song = {
     },
     {
       "original": "और जी में जो भी हो दबाके ना रखे तू खुलजा यहाँ",
+      "romanized": "Aura jee men jo bhee ho dabaake naa rakhe too khulajaa yahaan",
       "speaker": "Encore ABJ",
       "translation": "Whatever is in your heart, don't suppress it; open up here.",
       "explanation": "Encouraging authenticity and emotional release through the music.",
@@ -577,6 +633,7 @@ export const mp3: Song = {
     },
     {
       "original": "खुलके बोल खुलके जी हाथ ऊपर खुलके गए",
+      "romanized": "Khulake bola khulake jee haatha oopara khulake gae",
       "speaker": "Encore ABJ",
       "translation": "Speak freely, live freely, hands up, they went all out.",
       "explanation": "Describes the vibe of their live shows and their philosophy of life.",
@@ -584,6 +641,7 @@ export const mp3: Song = {
     },
     {
       "original": "ये वाला उनके लिए जो लेके चलते चोदे छतीस",
+      "romanized": "Ye vaalaa unake lie jo leke chalate chode chhateesa",
       "speaker": "Encore ABJ",
       "translation": "This one is for those who walk around acting tough.",
       "explanation": "Reiterating the target of his bars—the fake tough guys.",
@@ -591,6 +649,7 @@ export const mp3: Song = {
     },
     {
       "original": "घरवालों की है दस और बाकी पैसो की है छब्बीस",
+      "romanized": "Gharavaalon kee hai dasa aura baakee paiso kee hai chhabbeesa",
       "speaker": "Encore ABJ",
       "translation": "Ten for the family, and the other twenty-six for money.",
       "explanation": "Repeating the structural rhyme scheme regarding his priorities.",
@@ -598,6 +657,7 @@ export const mp3: Song = {
     },
     {
       "original": "दिमाग से अस्सी के उम्र से है अभी भी पच्चीस",
+      "romanized": "Dimaaga se assee ke umra se hai abhee bhee pachcheesa",
       "speaker": "Encore ABJ",
       "translation": "Eighty in mind, but still twenty-five in age.",
       "explanation": "Old soul, young energy.",
@@ -605,6 +665,7 @@ export const mp3: Song = {
     },
     {
       "original": "तेरे दो verses मेरे लिए है just another बत्तीस",
+      "romanized": "Tere do verses mere lie hai just another batteesa",
       "speaker": "Encore ABJ",
       "translation": "Your two verses are just another joke to me.",
       "explanation": "Dismissing his opponent's efforts as laughable.",
@@ -612,6 +673,7 @@ export const mp3: Song = {
     },
     {
       "original": "माँ बोली झुक के जी ना आगे तू किसी के हरगिज़",
+      "romanized": "Maan bolee jhuka ke jee naa aage too kisee ke haragiज़",
       "speaker": "Encore ABJ",
       "translation": "Mother said, 'Never live your life bowing down to anyone.'",
       "explanation": "The core mantra of his life—uncompromising pride.",
@@ -619,6 +681,7 @@ export const mp3: Song = {
     },
     {
       "original": "बन्दे है Rockstar सुर बंदी दिखती जैसे Nargiz",
+      "romanized": "Bande hai Rockstar sura bandee dikhatee jaise Nargiz",
       "speaker": "Encore ABJ",
       "translation": "We are Rockstars, and the girl looks like Nargis.",
       "explanation": "Final callback to the Rockstar imagery.",

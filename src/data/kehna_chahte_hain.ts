@@ -9,6 +9,7 @@ export const kehna_chahte_hain: Song = {
   "lyrics": [
     {
       "original": "कहना है जो कह नहीं पा रहा हूँ",
+      "romanized": "Kahnaa hai jo kah naheen paa rahaa hoon",
       "speaker": "Encore ABJ",
       "translation": "What I want to say, I'm unable to express.",
       "explanation": "Encore starts the project with a repetitive, meditative line about the struggle of expression, setting the stage for the mixtape's raw emotion.",
@@ -22,6 +23,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "कहना है जो कह नहीं पा रहा हूँ",
+      "romanized": "Kahnaa hai jo kah naheen paa rahaa hoon",
       "speaker": "Encore ABJ",
       "translation": "What I want to say, I'm unable to express.",
       "explanation": "Repetition emphasizing the internal conflict and the need for a creative outlet.",
@@ -29,6 +31,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "कहना है जो कह नहीं पा रहा हूँ",
+      "romanized": "Kahnaa hai jo kah naheen paa rahaa hoon",
       "speaker": "Encore ABJ",
       "translation": "What I want to say, I'm unable to express.",
       "explanation": "The loop builds a sense of being stuck in one's own thoughts.",
@@ -36,6 +39,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "कहना है जो कह नहीं पा रहा हूँ",
+      "romanized": "Kahnaa hai jo kah naheen paa rahaa hoon",
       "speaker": "Encore ABJ",
       "translation": "What I want to say, I'm unable to express.",
       "explanation": "The mantra of a creator who finds words insufficient until they are set to music.",
@@ -43,6 +47,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "कहना है जो कह नहीं पा रहा हूँ",
+      "romanized": "Kahnaa hai jo kah naheen paa rahaa hoon",
       "speaker": "Encore ABJ",
       "translation": "What I want to say, I'm unable to express.",
       "explanation": "The continuation of the vocal loop.",
@@ -50,6 +55,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "कहना है जो कह नहीं पा रहा हूँ",
+      "romanized": "Kahnaa hai jo kah naheen paa rahaa hoon",
       "speaker": "Encore ABJ",
       "translation": "What I want to say, I'm unable to express.",
       "explanation": "The final repetition before the atmosphere shifts to a classroom setting.",
@@ -57,6 +63,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "कहना है जो कह नहीं पा रहा हूँ",
+      "romanized": "Kahnaa hai jo kah naheen paa rahaa hoon",
       "speaker": "Encore ABJ",
       "translation": "What I want to say, I'm unable to express.",
       "explanation": "Fading out to make way for the skit.",
@@ -64,6 +71,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "कवि कहना चाहते हैं कि—",
+      "romanized": "Kavi kahnaa chaahte hain ki—",
       "speaker": "Encore ABJ",
       "translation": "The poet wants to say that—",
       "explanation": "A classic phrase used in Indian schools where teachers interpret poetry. It sets up the 'classroom' theme of the intro.",
@@ -77,6 +85,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "भाई, क्या हुआ उस period में?",
+      "romanized": "Bhaaee, kyaa huaa us period men?",
       "speaker": "Calm, Encore ABJ & Unknown",
       "translation": "Bro, what happened in that period?",
       "explanation": "Students (represented by SM) whispering in class, confused by the lecture.",
@@ -96,6 +105,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "कुछ समझ नहीं आया, भाई, ma'am क्या कह रही हैं",
+      "romanized": "Kuchh samjh naheen aayaa, bhaaee, ma'am kyaa kah rahee hain",
       "speaker": "Calm, Encore ABJ & Unknown",
       "translation": "Didn't understand a thing, bro, what is ma'am saying.",
       "explanation": "Expressing the disconnect between formal education and actual understanding/feeling.",
@@ -103,6 +113,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "कवि क्या कहना चाह रहे हैं",
+      "romanized": "Kavi kyaa kahnaa chaah rahe hain",
       "speaker": "Calm, Encore ABJ & Unknown",
       "translation": "What the poet is trying to say.",
       "explanation": "Mocking the academic over-analysis of art.",
@@ -117,6 +128,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "अरे, अगला period भी उसी का ही है",
+      "romanized": "Are, aglaa period bhee usee kaa hee hai",
       "speaker": "Calm, Encore ABJ & Unknown",
       "translation": "Hey, the next period is also her class.",
       "explanation": "A common school-life frustration of having a 'double period' of a boring subject.",
@@ -124,6 +136,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "अगला period भी?",
+      "romanized": "Aglaa period bhee?",
       "speaker": "Calm, Encore ABJ & Unknown",
       "translation": "The next period too?",
       "explanation": "Expressing disbelief and exhaustion.",
@@ -131,6 +144,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "अबे यार!",
+      "romanized": "Abe yaar!",
       "speaker": "Calm, Encore ABJ & Unknown",
       "translation": "Oh man! / Oh brother!",
       "explanation": "Typical Delhi slang used to express frustration or annoyance.",
@@ -144,6 +158,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "यार, मेरेको तो बस यही समझ में आया कि—",
+      "romanized": "Yaar, mereko to bas yahee samjh men aayaa ki—",
       "speaker": "Calm, Encore ABJ & Unknown",
       "translation": "Friend, I only understood this much that—",
       "explanation": "One student (Calm) has a realization amidst the confusion.",
@@ -151,6 +166,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "क्या?",
+      "romanized": "Kyaa?",
       "speaker": "Calm, Encore ABJ & Unknown",
       "translation": "What?",
       "explanation": "The others waiting for the conclusion.",
@@ -158,6 +174,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "अगर कुछ कह नहीं पा रहे हो तो वही चीज़ गा के सुना दो",
+      "romanized": "Agr kuchh kah naheen paa rahe ho to vahee cheez gaa ke sunaa do",
       "speaker": "Calm, Encore ABJ & Unknown",
       "translation": "If you can't say something, then just sing it for them.",
       "explanation": "The core philosophy of the duo: music is the ultimate medium for thoughts that can't be expressed in normal conversation.",
@@ -171,6 +188,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "Yo, yo, yo, yo, yo",
+      "romanized": "Yo, yo, yo, yo, yo",
       "speaker": "Calm",
       "translation": "Yo, yo, yo, yo, yo",
       "explanation": "Calm transitions from the skit into the host/intro persona.",
@@ -178,6 +196,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "Hold on, hold on, hold on",
+      "romanized": "Hold on, hold on, hold on",
       "speaker": "Calm",
       "translation": "Hold on, hold on, hold on",
       "explanation": "Building anticipation for the mixtape.",
@@ -185,6 +204,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "This is it, fam, this is it",
+      "romanized": "This is it, fam, this is it",
       "speaker": "Calm",
       "translation": "This is it, fam, this is it",
       "explanation": "Confirming to the audience that the long-awaited project is here.",
@@ -198,6 +218,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "This is exactly how we are in it",
+      "romanized": "This is exactly how we are in it",
       "speaker": "Calm",
       "translation": "This is exactly how we are in it",
       "explanation": "Promising authenticity and a 'raw' look into their lives.",
@@ -205,6 +226,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "This is how we feel",
+      "romanized": "This is how we feel",
       "speaker": "Calm",
       "translation": "This is how we feel",
       "explanation": "The mixtape is an expression of their current state of mind.",
@@ -212,6 +234,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "Sometimes we sing, sometimes we don't",
+      "romanized": "Sometimes we sing, sometimes we don't",
       "speaker": "Calm",
       "translation": "Sometimes we sing, sometimes we don't",
       "explanation": "Acknowledging their versatility (switching between melodic flows and hard rap).",
@@ -226,6 +249,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "And sometimes we just feel what we say",
+      "romanized": "And sometimes we just feel what we say",
       "speaker": "Calm",
       "translation": "And sometimes we just feel what we say",
       "explanation": "Emphasizing the emotional depth of their lyrics.",
@@ -233,6 +257,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "Hope our feelings get through",
+      "romanized": "Hope our feelings get through",
       "speaker": "Calm",
       "translation": "Hope our feelings get through",
       "explanation": "A message to the listeners (the 'TBS' or Teradevians) to connect with the art.",
@@ -240,6 +265,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "This is Lunch Break",
+      "romanized": "This is Lunch Break",
       "speaker": "Calm",
       "translation": "This is Lunch Break",
       "explanation": "Announcing the title of the mixtape, which signifies a break from the 'regular' album cycle to give fans something raw.",
@@ -247,6 +273,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "Brought to you by—",
+      "romanized": "Brought to you by—",
       "speaker": "Calm",
       "translation": "Brought to you by—",
       "explanation": "The lead-up to the reveal.",
@@ -254,6 +281,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "Best in the business, Seedhe fucking Maut",
+      "romanized": "Best in the business, Seedhe fucking Maut",
       "speaker": "Calm",
       "translation": "Best in the business, Seedhe fucking Maut",
       "explanation": "Asserting their dominance in the Indian Hip Hop scene.",
@@ -267,6 +295,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "Yeah!",
+      "romanized": "Yeah!",
       "speaker": "Calm",
       "translation": "Yeah!",
       "explanation": "Energy building.",
@@ -274,6 +303,7 @@ export const kehna_chahte_hain: Song = {
     },
     {
       "original": "(School bell rings)",
+      "romanized": "(School bell rings)",
       "speaker": "Calm",
       "translation": "(School bell rings)",
       "explanation": "The bell signifies the end of the lesson and the literal start of 'Lunch Break'.",

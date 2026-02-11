@@ -10,6 +10,7 @@ export const kaanch_ke_ghar: Song = {
   "lyrics": [
     {
       "original": "कांचो के घर जिनके होते, वो दूजों के घरों पे पत्थर नी फेंकते",
+      "romanized": "Kaancho ke ghar jinke hote, vo doojon ke gharon pe patthr nee phenkte",
       "speaker": "Chorus",
       "translation": "Those who live in glass houses don't throw stones at others' homes.",
       "explanation": "The hook is based on the Hindi proverb equivalent to 'people in glass houses shouldn't throw stones,' setting up the theme that SOS has too many skeletons to be dissing anyone.",
@@ -23,6 +24,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तुझे मैं बोला था रहन दे, चुप हूँ, अब आगे से ज़्यादा नी फैलते",
+      "romanized": "Tujhe main bolaa thaa rahn de, chup hoon, ab aage se zyaadaa nee phailte",
       "speaker": "Chorus",
       "translation": "I told you to let it go, I'm quiet, but from now on don't spread yourself too thin.",
       "explanation": "SM warned SOS to stop, saying they were staying silent, but now that SOS kept pushing, SM won't hold back anymore.",
@@ -36,6 +38,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "अब तुझे hype ऐसी दूंगा की भूला नी पाएगा, रहेगा सहम के",
+      "romanized": "Ab tujhe hype aisee doongaa kee bhoolaa nee paaegaa, rahegaa sahm ke",
       "speaker": "Chorus",
       "translation": "Now I'll give you the kind of hype you'll never forget, you'll live in fear.",
       "explanation": "SM is threatening to give SOS notoriety of the worst kind - the kind that leaves them terrified rather than famous.",
@@ -49,6 +52,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "कांचो के घर जिनके होते, वो दूजों के घरों पे पत्थर नी फेंकते",
+      "romanized": "Kaancho ke ghar jinke hote, vo doojon ke gharon pe patthr nee phenkte",
       "speaker": "Chorus",
       "translation": "Those who live in glass houses don't throw stones at others' homes.",
       "explanation": "Repetition of the hook, reinforcing the central message of hypocrisy.",
@@ -56,6 +60,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "आजा सुनाऊं एक कश्मीरी कहानी",
+      "romanized": "Aajaa sunaaoon ek kashmeeree kahaanee",
       "speaker": "Chorus",
       "translation": "Come, let me tell you a Kashmiri story.",
       "explanation": "SM begins the storytelling format, framing the entire beef as a narrative. 'Kashmiri' because SOS is a Kashmiri rap duo.",
@@ -69,6 +74,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "दो rapper की जिनको थी चाहिए आज़ादी, हां",
+      "romanized": "Do rapper kee jinko thee chaahie aazaadee, haan",
       "speaker": "Chorus",
       "translation": "About two rappers who wanted Azadi (freedom), yeah.",
       "explanation": "Double meaning - SOS wanted 'azadi' (freedom) both politically as Kashmiris and literally wanted to be on Azadi Records, the label.",
@@ -82,6 +88,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Quota लगा के आए label में",
+      "romanized": "Quota lagaa ke aae label men",
       "speaker": "Chorus",
       "translation": "They got into the label through a quota.",
       "explanation": "SM alleges SOS got signed not on merit but through some form of preferential treatment, like a reservation quota.",
@@ -95,6 +102,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "आते ही चालू label की बरबादी",
+      "romanized": "Aate hee chaaloo label kee barbaadee",
       "speaker": "Chorus",
       "translation": "As soon as they arrived, the label's destruction began.",
       "explanation": "SM claims SOS started causing problems at Azadi Records from the moment they joined.",
@@ -108,6 +116,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "आज़ादी के owner थे दो",
+      "romanized": "Aazaadee ke owner the do",
       "speaker": "Chorus",
       "translation": "Azadi had two owners.",
       "explanation": "Establishing that Azadi Records was co-owned by two people, setting up the next lines.",
@@ -115,6 +124,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "एक था Uday और दूसरा था Mo",
+      "romanized": "Ek thaa Uday aur doosraa thaa Mo",
       "speaker": "Chorus",
       "translation": "One was Uday and the other was Mo.",
       "explanation": "Naming the two co-owners of Azadi Records: Uday and Mo Joshi.",
@@ -133,6 +143,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Uday संभालता था Ahmer को",
+      "romanized": "Uday sanbhaaltaa thaa Ahmer ko",
       "speaker": "Chorus",
       "translation": "Uday used to manage Ahmer.",
       "explanation": "Explaining the management structure - Uday handled Ahmer's career at the label.",
@@ -146,6 +157,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "और Mo Prabh, Tienas, Seedhe Maut को पर",
+      "romanized": "Aur Mo Prabh, Tienas, Seedhe Maut ko par",
       "speaker": "Chorus",
       "translation": "And Mo handled Prabh, Tienas, and Seedhe Maut, but...",
       "explanation": "Mo Joshi managed the bigger roster including Prabh Deep, Tienas, and Seedhe Maut. The trailing 'par' (but) sets up a twist.",
@@ -164,6 +176,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Uday को privileged होने का guilt था",
+      "romanized": "Uday ko privileged hone kaa guilt thaa",
       "speaker": "Chorus",
       "translation": "Uday had guilt about being privileged.",
       "explanation": "SM suggests Uday felt guilty about his privileged background, which influenced his decision-making at the label.",
@@ -171,6 +184,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "You already know how it goes",
+      "romanized": "You already know how it goes",
       "speaker": "Chorus",
       "translation": "You already know how it goes.",
       "explanation": "An aside to the listener, implying that privilege guilt leading to poor decisions is a predictable pattern.",
@@ -178,6 +192,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "एक संभाला नहीं जा रहा था उससे",
+      "romanized": "Ek sanbhaalaa naheen jaa rahaa thaa usse",
       "speaker": "Chorus",
       "translation": "He couldn't even handle one artist.",
       "explanation": "Uday was already struggling to manage even one artist (Ahmer) properly.",
@@ -185,6 +200,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "वो sign कर आया फिर नए rapper दो और",
+      "romanized": "Vo sign kar aayaa phir nae rapper do aur",
       "speaker": "Chorus",
       "translation": "Yet he went and signed two more new rappers.",
       "explanation": "Despite not managing his existing roster well, Uday signed SOS (two more rappers) to the label.",
@@ -192,6 +208,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "हम बोले जो करना है कर लेकिन why do they flow जैसे Seedhe Maut flow?",
+      "romanized": "Ham bole jo karnaa hai kar lekin why do they flow jaise Seedhe Maut flow?",
       "speaker": "Chorus",
       "translation": "We said do what you want, but why do they flow like Seedhe Maut flows?",
       "explanation": "SM noticed immediately that SOS's rap style was heavily derived from their own flow and raised the concern.",
@@ -199,6 +216,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "वो बोला के SOS fan है तुम्हारे",
+      "romanized": "Vo bolaa ke SOS fan hai tumhaare",
       "speaker": "Chorus",
       "translation": "He said SOS are fans of yours.",
       "explanation": "The label's response was dismissive - they explained away the similarities by saying SOS were just SM fans.",
@@ -206,6 +224,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "वो सीखे हैं हिंदी rap करना तुम दोनों से",
+      "romanized": "Vo seekhe hain hindee rap karnaa tum donon se",
       "speaker": "Chorus",
       "translation": "They learned to rap in Hindi from the two of you.",
       "explanation": "The label tried to flatter SM by saying SOS literally learned Hindi rap from them, justifying the similar style.",
@@ -213,6 +232,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "हम बोले, \"Okay\"",
+      "romanized": "Ham bole, \"Okay\"",
       "speaker": "Chorus",
       "translation": "We said, \"Okay.\"",
       "explanation": "SM reluctantly accepted the explanation and let it go at the time.",
@@ -220,6 +240,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "हम होते अगर Prabh जैसे, SOS कभी label में ही नहीं होते",
+      "romanized": "Ham hote agr Prabh jaise, SOS kabhee label men hee naheen hote",
       "speaker": "Chorus",
       "translation": "If we were like Prabh, SOS would never have been on the label.",
       "explanation": "SM implies that Prabh Deep would have pushed back harder against SOS joining. SM was too easygoing and didn't throw their weight around to block the signing.",
@@ -233,6 +254,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "हम पालते नी चोंचले",
+      "romanized": "Ham paalte nee chonchle",
       "speaker": "Chorus",
       "translation": "We don't entertain drama.",
       "explanation": "SM says they don't do tantrums or diva behavior - they just focus on work.",
@@ -246,6 +268,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "हम सर नीचे रखते हैं और फाड़ते हैं भोसड़े",
+      "romanized": "Ham sar neeche rakhte hain aur phaarte hain bhosre",
       "speaker": "Chorus",
       "translation": "We keep our heads down and destroy it.",
       "explanation": "SM's work ethic - they stay humble and let their music speak, ripping it up without the politics.",
@@ -259,6 +282,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Now back to the story",
+      "romanized": "Now back to the story",
       "speaker": "Chorus",
       "translation": "Now back to the story.",
       "explanation": "Returning to the narrative after the brief aside about their character.",
@@ -266,6 +290,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "हम बैठे थे Goa में, SA के साथ Nanchaku serve किया, cook किया",
+      "romanized": "Ham baithe the Goa men, SA ke saath Nanchaku serve kiyaa, cook kiyaa",
       "speaker": "Chorus",
       "translation": "We were sitting in Goa, served and cooked Nanchaku with SA.",
       "explanation": "SM was in Goa with SA (a friend/associate), hanging out and working on music. 'Cook' and 'serve' are hip-hop terms for making and releasing music.",
@@ -289,6 +314,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Kitchen में नफरत था stove में, SA बोला—",
+      "romanized": "Kitchen men naphrt thaa stove men, SA bolaa—",
       "speaker": "Chorus",
       "translation": "There was hatred cooking on the stove in the kitchen, SA said—",
       "explanation": "Extends the cooking metaphor - there was creative fire (and maybe frustration) brewing, and SA gave them an idea.",
@@ -296,6 +322,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "SA बोला, unreleased गानों की mixtape बनादो",
+      "romanized": "SA bolaa, unreleased gaanon kee mixtape banaado",
       "speaker": "Chorus",
       "translation": "SA said, make a mixtape of your unreleased songs.",
       "explanation": "SA suggested that SM compile their unreleased tracks into a mixtape, which became the project 'Na'.",
@@ -303,6 +330,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "बना डाली \"न\"",
+      "romanized": "Banaa daalee \"na\"",
       "speaker": "Chorus",
       "translation": "So we made 'Na'.",
       "explanation": "SM followed through on the suggestion and created their mixtape called 'Na' (meaning 'No').",
@@ -316,6 +344,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "और जैसे ही निकाला वो project तो सुनने में आया कि label में चल रही हवा की",
+      "romanized": "Aur jaise hee nikaalaa vo project to sunne men aayaa ki label men chal rahee havaa kee",
       "speaker": "Chorus",
       "translation": "And as soon as that project dropped, we heard rumors circulating in the label that...",
       "explanation": "After releasing 'Na', SM started hearing gossip and rumors floating around within Azadi Records.",
@@ -329,6 +358,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Label के दो हिजड़े rapper हैं",
+      "romanized": "Label ke do hijre rapper hain",
       "speaker": "Chorus",
       "translation": "The label has two 'hijra' rappers.",
       "explanation": "SM reveals SOS was calling them slurs behind their back within the label, using a derogatory term.",
@@ -342,6 +372,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Mo से माँग रहे डेढ़ लाख की तनख्वाह",
+      "romanized": "Mo se maang rahe derh laakh kee tankhvaah",
       "speaker": "Chorus",
       "translation": "Asking Mo for a salary of one and a half lakhs.",
       "explanation": "SOS were demanding 1.5 lakh rupees (about $1800) from Mo Joshi as a salary, which SM found absurd given SOS's contribution.",
@@ -360,6 +391,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Shoot करने को एक video जिसमें था हम ही पे diss (तुम ही पे diss?)",
+      "romanized": "Shoot karne ko ek video jismen thaa ham hee pe diss (tum hee pe diss?)",
       "speaker": "Chorus",
       "translation": "To shoot a video that was a diss aimed at us (at you guys?)",
       "explanation": "The most audacious part - SOS asked the label to fund a music video for a song that dissed SM, who were on the same label. The parenthetical shows disbelief.",
@@ -367,6 +399,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "हम ही पे diss",
+      "romanized": "Ham hee pe diss",
       "speaker": "Chorus",
       "translation": "A diss on us.",
       "explanation": "Confirming the absurdity - yes, SOS wanted Azadi Records to pay for a diss video targeting SM, their own labelmates.",
@@ -374,6 +407,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "एक minute, एक minute भाई, मेरको समझने दे",
+      "romanized": "Ek minute, ek minute bhaaee, merko samjhne de",
       "speaker": "Chorus",
       "translation": "One minute, one minute bro, let me understand this.",
       "explanation": "SM breaks the fourth wall, pausing the story to process the absurdity of what they're narrating, adding dramatic effect.",
@@ -381,6 +415,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तो पहले ये तुम्हारे label में आते हैं, तुम्हारी गांड चाटते हैं, तुम्हें GOAT बताते हैं",
+      "romanized": "To pahle ye tumhaare label men aate hain, tumhaaree gaand chaatte hain, tumhen GOAT bataate hain",
       "speaker": "Chorus",
       "translation": "So first they join your label, kiss your ass, call you the GOAT.",
       "explanation": "SM summarizes SOS's behavior - they joined the label, sucked up to SM by calling them the greatest, all as a calculated move.",
@@ -399,6 +434,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "उसके बाद बोलते हैं, तुमने इनकी album का concept चोरी कर लिया हैउसके लिए तुमपे diss बनाते हैं और तुम्हारी label से उसकी video fund करने के पैसे मांगते हैं?",
+      "romanized": "Uske baad bolte hain, tumne inkee album kaa concept choree kar liyaa haiuske lie tumpe diss banaate hain aur tumhaaree label se uskee video fund karne ke paise maangte hain?",
       "speaker": "Chorus",
       "translation": "Then they say you stole their album concept, make a diss track about it, and ask YOUR label to fund the video for it?",
       "explanation": "SM lays out the entire absurd chain of events: SOS accused SM of stealing their concept, wrote a diss about it, and then asked Azadi Records (SM's own label) to pay for the diss video. The sheer audacity is the point.",
@@ -406,6 +442,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "कांचो के घर जिनके होते, वो दूजों के घरों पे पत्थर नी फेंकते",
+      "romanized": "Kaancho ke ghar jinke hote, vo doojon ke gharon pe patthr nee phenkte",
       "speaker": "Chorus",
       "translation": "Those who live in glass houses don't throw stones at others' homes.",
       "explanation": "Hook returns after the revelation, now hitting harder because the listener understands the full context of SOS's hypocrisy.",
@@ -413,6 +450,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तुझे मैं बोला था रहन दे, चुप हूँ, अब आगे से ज़्यादा नी फैलते",
+      "romanized": "Tujhe main bolaa thaa rahn de, chup hoon, ab aage se zyaadaa nee phailte",
       "speaker": "Chorus",
       "translation": "I told you to let it go, I'm quiet, but from now on don't spread yourself too thin.",
       "explanation": "Reiterating the warning - SM had been patient but SOS pushed too far.",
@@ -420,6 +458,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "अब तुझे hype ऐसी दूंगा की भूला नी पाएगा, रहेगा सहम के",
+      "romanized": "Ab tujhe hype aisee doongaa kee bhoolaa nee paaegaa, rahegaa sahm ke",
       "speaker": "Chorus",
       "translation": "Now I'll give you the kind of hype you'll never forget, you'll live in fear.",
       "explanation": "The threat of exposure and retaliation, promising lasting consequences.",
@@ -427,6 +466,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "कांचो के घर जिनके होते, वो दूजों के घरों पे पत्थर नी फेंकते",
+      "romanized": "Kaancho ke ghar jinke hote, vo doojon ke gharon pe patthr nee phenkte",
       "speaker": "Chorus",
       "translation": "Those who live in glass houses don't throw stones at others' homes.",
       "explanation": "Hook repetition closing the second section.",
@@ -434,6 +474,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "पिछले verse में तुझे दे दिया सब कुछ",
+      "romanized": "Pichhle verse men tujhe de diyaa sab kuchh",
       "speaker": "Chorus",
       "translation": "In the last verse I gave you everything.",
       "explanation": "SM gave the full backstory and context in the previous verse, being transparent about the situation.",
@@ -441,6 +482,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "और इस वाले में तेरा छीन लूँगा सब कुछ",
+      "romanized": "Aur is vaale men teraa chheen loongaa sab kuchh",
       "speaker": "Chorus",
       "translation": "And in this one I'll snatch everything from you.",
       "explanation": "Now that the story has been told, SM shifts to attack mode - this verse will destroy SOS's reputation.",
@@ -448,6 +490,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Confront नी करा ये मुँह पे",
+      "romanized": "Confront nee karaa ye munh pe",
       "speaker": "Chorus",
       "translation": "He never confronted us to our face.",
       "explanation": "SM calls out SOS for being cowardly - never saying anything directly but always operating behind their backs.",
@@ -455,6 +498,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "बस पीछे ही पीछे से करता रहा फुस-फुस",
+      "romanized": "Bas peechhe hee peechhe se kartaa rahaa phus-phus",
       "speaker": "Chorus",
       "translation": "Just kept whispering behind our backs.",
       "explanation": "SOS only talked shit in secret, never openly, emphasizing their cowardice.",
@@ -468,6 +512,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "अब लड़की का नाम ला रहा है बीच में",
+      "romanized": "Ab larkee kaa naam laa rahaa hai beech men",
       "speaker": "Chorus",
       "translation": "Now he's bringing a girl's name into the middle of this.",
       "explanation": "SOS dragged a woman into the beef, which SM considers a cowardly and low move.",
@@ -475,6 +520,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तो address भी ले आ, क्यों रहा है छुप-छुप?",
+      "romanized": "To address bhee le aa, kyon rahaa hai chhup-chhup?",
       "speaker": "Chorus",
       "translation": "Then bring the address too, why are you hiding?",
       "explanation": "SM dares SOS to come out in the open if they want to make things personal, instead of hiding and making indirect jabs.",
@@ -482,6 +528,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "फूँकू मैं घास पर जब मिलेगा धुआँ",
+      "romanized": "Phoonkoo main ghaas par jab milegaa dhuaan",
       "speaker": "Chorus",
       "translation": "I smoke the grass, and when there's smoke...",
       "explanation": "Double meaning - smoking weed (grass) and the smoke/fire metaphor for destruction. Where there's smoke, there's fire.",
@@ -500,6 +547,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "उड़ेगा वो, होगा नी कुश-कुश",
+      "romanized": "Uregaa vo, hogaa nee kush-kush",
       "speaker": "Chorus",
       "translation": "He'll get blown away, it won't be all kush-kush (comfortable).",
       "explanation": "Wordplay on 'kush' - the weed strain and 'khush' (happy). SOS will get destroyed and there won't be anything pleasant about it.",
@@ -513,6 +561,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तू केहरा है concept बताया है Mo को",
+      "romanized": "Too kehraa hai concept bataayaa hai Mo ko",
       "speaker": "Chorus",
       "translation": "You're saying you told your concept to Mo.",
       "explanation": "SOS claimed they shared their album concept with Mo Joshi and that he leaked it to SM. SM is calling this out.",
@@ -526,6 +575,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तो ला साले proof दे",
+      "romanized": "To laa saale proof de",
       "speaker": "Chorus",
       "translation": "Then bring the proof, you bastard.",
       "explanation": "SM demands evidence for SOS's claim that their concept was stolen, calling their bluff.",
@@ -533,6 +583,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "कब तक तू पलेगा झूठ पे",
+      "romanized": "Kab tak too palegaa jhooth pe",
       "speaker": "Chorus",
       "translation": "How long will you survive on lies?",
       "explanation": "SM says SOS's entire narrative is built on lies and it can't sustain them forever.",
@@ -546,6 +597,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तूने बताया था Uday को",
+      "romanized": "Toone bataayaa thaa Uday ko",
       "speaker": "Chorus",
       "translation": "You told Uday.",
       "explanation": "SM clarifies that SOS told their concept to Uday, not Mo - a key factual distinction that undermines SOS's accusation.",
@@ -553,6 +605,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "वो बोला किसी को कुछ नहीं",
+      "romanized": "Vo bolaa kisee ko kuchh naheen",
       "speaker": "Chorus",
       "translation": "He didn't tell anyone anything.",
       "explanation": "Uday never passed SOS's concept along to anyone, making SOS's claim of concept theft baseless.",
@@ -560,6 +613,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "वो था drug abuse में",
+      "romanized": "Vo thaa drug abuse men",
       "speaker": "Chorus",
       "translation": "He was deep in drug abuse.",
       "explanation": "Uday was dealing with substance abuse issues at the time, so he wasn't even in a state to be leaking concepts to anyone.",
@@ -567,6 +621,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तैरो तुम सब मेरे मूत में",
+      "romanized": "Tairo tum sab mere moot men",
       "speaker": "Chorus",
       "translation": "All of you can swim in my piss.",
       "explanation": "A deeply dismissive insult directed at everyone involved in the false accusations.",
@@ -574,6 +629,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "देते रहो fakе interviews पे fake intеrviews",
+      "romanized": "Dete raho fakе interviews pe fake intеrviews",
       "speaker": "Chorus",
       "translation": "Keep giving fake interviews after fake interviews.",
       "explanation": "SM accuses SOS of lying in public interviews, pushing a false narrative about the beef to media outlets.",
@@ -581,6 +637,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "बदलते रहो लोगों के views पर अंतर रहेगा इन views में",
+      "romanized": "Badlte raho logon ke views par antr rahegaa in views men",
       "speaker": "Chorus",
       "translation": "Keep changing people's views, but there will always be a difference in these views.",
       "explanation": "Wordplay on 'views' - SOS can try to manipulate public opinion (views), but the difference in YouTube views between SM and SOS tells the real story of who's winning.",
@@ -594,6 +651,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "ये दो लौंडे हैं इतने जाली की पीठ पीछे देते हैं Ahmer को गाली",
+      "romanized": "Ye do launde hain itne jaalee kee peeth peechhe dete hain Ahmer ko gaalee",
       "speaker": "Chorus",
       "translation": "These two guys are so fake that they talk shit about Ahmer behind his back.",
       "explanation": "SM reveals that SOS trash-talked their own labelmate Ahmer in private, exposing their two-faced nature.",
@@ -607,6 +665,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "और कहते हैं बाप पे है पैसा बहुत उसके",
+      "romanized": "Aur kahte hain baap pe hai paisaa bahut uske",
       "speaker": "Chorus",
       "translation": "And they say his father has a lot of money.",
       "explanation": "SOS dismissed Ahmer by saying he only got opportunities because his father is wealthy, undermining Ahmer's own talent and effort.",
@@ -614,6 +673,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तो देखा नी उसने है struggle ज़रा भी और",
+      "romanized": "To dekhaa nee usne hai struggle zaraa bhee aur",
       "speaker": "Chorus",
       "translation": "So he hasn't seen any struggle at all, and...",
       "explanation": "SOS claimed Ahmer never struggled because of family wealth - a jealous and dismissive take that SM is now exposing.",
@@ -621,6 +681,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तुम अगर ये बातें नहीं कहते",
+      "romanized": "Tum agr ye baaten naheen kahte",
       "speaker": "Chorus",
       "translation": "If you hadn't said these things...",
       "explanation": "SM sets up a conditional - if SOS had kept their mouths shut, none of this would have come to light.",
@@ -628,6 +689,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तो ये कभी मेरे कानों तक नी आती",
+      "romanized": "To ye kabhee mere kaanon tak nee aatee",
       "speaker": "Chorus",
       "translation": "This would have never reached my ears.",
       "explanation": "SM wouldn't have known about SOS's trash-talking if SOS hadn't been so careless with their gossip.",
@@ -635,6 +697,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "और अगर मैं कहरा हूँ झूठ तो हाथ रख Quran पे",
+      "romanized": "Aur agr main kahraa hoon jhooth to haath rakh Quran pe",
       "speaker": "Chorus",
       "translation": "And if I'm lying, then put your hand on the Quran.",
       "explanation": "SM challenges SOS to swear on the Quran that SM is lying, knowing SOS (being Muslim) would not dare swear falsely on their holy book.",
@@ -648,6 +711,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "और खाले कसम ख़ुदा की, I dare",
+      "romanized": "Aur khaale kasm khudaa kee, I dare",
       "speaker": "Chorus",
       "translation": "And swear on God, I dare you.",
       "explanation": "Doubling down on the challenge - SM dares SOS to swear before God that the allegations are false.",
@@ -661,6 +725,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तुम्हे जानी सच चाहिए तो सुन",
+      "romanized": "Tumhe jaanee sach chaahie to sun",
       "speaker": "Chorus",
       "translation": "If you want to know the truth, then listen.",
       "explanation": "SM addresses the audience directly, about to reveal the real story of their struggle and rise.",
@@ -668,6 +733,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Seedhe Maut के struggle में रही है कई layer",
+      "romanized": "Seedhe Maut ke struggle men rahee hai kaee layer",
       "speaker": "Chorus",
       "translation": "Seedhe Maut's struggle has had many layers.",
       "explanation": "Their journey wasn't straightforward - there were multiple levels of obstacles including label politics, jealousy, and betrayal.",
@@ -675,6 +741,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "पांच साल पहले महीना था June",
+      "romanized": "Paanch saal pahle maheenaa thaa June",
       "speaker": "Chorus",
       "translation": "Five years ago, the month was June.",
       "explanation": "Pinpointing a specific moment in time (approximately 2019) when a critical event happened at the label.",
@@ -682,6 +749,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Mo बोला Prabh है label का star player",
+      "romanized": "Mo bolaa Prabh hai label kaa star player",
       "speaker": "Chorus",
       "translation": "Mo said Prabh is the label's star player.",
       "explanation": "Mo Joshi explicitly told SM that Prabh Deep was the label's priority artist, meaning SM was secondary in the label's plans.",
@@ -695,6 +763,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "करा हमने cap नी, ना छोड़ा हमने हौसला",
+      "romanized": "Karaa hamne cap nee, naa chhoraa hamne hauslaa",
       "speaker": "Chorus",
       "translation": "We didn't cap, nor did we lose our spirit.",
       "explanation": "Despite being told they weren't the label's priority, SM didn't lie about it or let it break their resolve.",
@@ -713,6 +782,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "हम खड़े रहे वही, हम बने रहे team player",
+      "romanized": "Ham khare rahe vahee, ham bane rahe team player",
       "speaker": "Chorus",
       "translation": "We stood right there, we stayed team players.",
       "explanation": "Unlike others who might have caused drama or left, SM stayed loyal and continued to work within the label framework.",
@@ -720,6 +790,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "फटी जब Bayaan और फटी फिर Nayaab",
+      "romanized": "Phatee jab Bayaan aur phatee phir Nayaab",
       "speaker": "Chorus",
       "translation": "When Bayaan blew up, and then Nayaab blew up.",
       "explanation": "SM's two albums - Bayaan (2019) and Nayaab (2022) - both became massive hits, proving the label wrong about them being secondary.",
@@ -743,6 +814,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तो फिर आयी सारी नज़रें हम ही पे, we here",
+      "romanized": "To phir aayee saaree nazren ham hee pe, we here",
       "speaker": "Chorus",
       "translation": "Then all eyes were on us, we're here.",
       "explanation": "After both albums succeeded massively, SM became the undeniable stars - not just of the label but of Indian hip-hop. 'We here' declares their arrival.",
@@ -750,6 +822,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तो पाजी हुए jealous और insecure से",
+      "romanized": "To paajee hue jealous aur insecure se",
       "speaker": "Chorus",
       "translation": "So the 'brothers' got jealous and insecure.",
       "explanation": "SOS (sarcastically called 'paaji'/brother) became jealous of SM's success and felt threatened.",
@@ -763,6 +836,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "वो बैठे हैं घर पे और हम हैं tour पे",
+      "romanized": "Vo baithe hain ghar pe aur ham hain tour pe",
       "speaker": "Chorus",
       "translation": "They're sitting at home while we're out on tour.",
       "explanation": "The contrast is stark - SM is touring and performing sold-out shows while SOS has no live demand.",
@@ -770,6 +844,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "एक वक्त था ऐसा की हम कर रहे हर show open",
+      "romanized": "Ek vakt thaa aisaa kee ham kar rahe har show open",
       "speaker": "Chorus",
       "translation": "There was a time when we were opening every show.",
       "explanation": "SM humbly recalls when they were the opening act, playing before other artists.",
@@ -777,6 +852,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "और वो कर रहे हर show close थे",
+      "romanized": "Aur vo kar rahe har show close the",
       "speaker": "Chorus",
       "translation": "And they were closing every show.",
       "explanation": "SOS (or Prabh Deep) used to be the headlining act closing shows while SM opened. The roles have since reversed.",
@@ -784,6 +860,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "पर जहाँ हम चलते थे प्यार से",
+      "romanized": "Par jahaan ham chalte the pyaar se",
       "speaker": "Chorus",
       "translation": "But where we moved with love and respect...",
       "explanation": "SM conducted themselves with humility and genuine connection with their audience.",
@@ -791,6 +868,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "वो रखता fans को चाकू की नोक पे",
+      "romanized": "Vo rakhtaa fans ko chaakoo kee nok pe",
       "speaker": "Chorus",
       "translation": "He kept fans at knifepoint.",
       "explanation": "SOS had an aggressive, hostile attitude toward their own fans, threatening and alienating them rather than building a loyal base.",
@@ -804,6 +882,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Fans पे चिल्लाता तो show पे नहीं आता कोई",
+      "romanized": "Fans pe chillaataa to show pe naheen aataa koee",
       "speaker": "Chorus",
       "translation": "If you yell at fans, nobody comes to your shows.",
       "explanation": "SM explains the simple cause and effect - SOS's hostile behavior drove away their fanbase, leading to poor show attendance.",
@@ -811,6 +890,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "फिर भी वो सरे आम label को दोष दे, आंह",
+      "romanized": "Phir bhee vo sare aam label ko dosh de, aanh",
       "speaker": "Chorus",
       "translation": "Yet he openly blames the label for it.",
       "explanation": "Instead of taking responsibility for alienating their fans, SOS publicly blamed Azadi Records for their declining career.",
@@ -824,6 +904,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "ना है मुझे किसी से प्यार और ना है मुझे किसी से दुश्मनी",
+      "romanized": "Naa hai mujhe kisee se pyaar aur naa hai mujhe kisee se dushmnee",
       "speaker": "Chorus",
       "translation": "I have no love for anyone nor enmity with anyone.",
       "explanation": "SM positions themselves as neutral - they're not doing this out of personal hatred but to set the record straight.",
@@ -831,6 +912,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "अगर कोई act करे sus' तो बनाऊँ उसे victim",
+      "romanized": "Agr koee act kare sus' to banaaoon use victim",
       "speaker": "Chorus",
       "translation": "If anyone acts sus, I'll make them a victim.",
       "explanation": "If someone behaves shadily, SM will call them out and expose them, making them pay the consequences.",
@@ -844,6 +926,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "और witness को दे रहा हूँ hush money",
+      "romanized": "Aur witness ko de rahaa hoon hush money",
       "speaker": "Chorus",
       "translation": "And I'm giving the witnesses hush money.",
       "explanation": "Sarcastic/metaphorical - SM is so confident in their narrative that they joke about silencing witnesses, flipping the mafia/crime metaphor.",
@@ -857,6 +940,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "ये label के साँप, दो मुहे, डस के चले गए मुझे",
+      "romanized": "Ye label ke saanp, do muhe, das ke chale gae mujhe",
       "speaker": "Chorus",
       "translation": "These label snakes, two-faced, bit me and left.",
       "explanation": "Referring to SOS (and possibly label management) as double-headed snakes who betrayed SM and then moved on as if nothing happened.",
@@ -875,6 +959,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "अभी भी लगता है shock, ये duo है बेटा हमारा",
+      "romanized": "Abhee bhee lagtaa hai shock, ye duo hai betaa hamaaraa",
       "speaker": "Chorus",
       "translation": "It's still shocking, this duo is our offspring.",
       "explanation": "SM claims SOS as their 'son' in rap terms - SOS learned everything from SM, so SM calling them their offspring is the ultimate assertion of superiority.",
@@ -882,6 +967,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "SOS का मतलब है \"Straight Outta SeedheMaut\" bitch",
+      "romanized": "SOS kaa matlb hai \"Straight Outta SeedheMaut\" bitch",
       "speaker": "Chorus",
       "translation": "SOS means 'Straight Outta Seedhe Maut,' bitch.",
       "explanation": "SM redefines SOS's name as an acronym for 'Straight Outta Seedhe Maut,' claiming SOS is just a derivative of their style. A devastating punchline.",
@@ -895,6 +981,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "कांचो के घर जिनके होते, वो दूजों के घरों पे पत्थर नी फेंकते",
+      "romanized": "Kaancho ke ghar jinke hote, vo doojon ke gharon pe patthr nee phenkte",
       "speaker": "Chorus",
       "translation": "Those who live in glass houses don't throw stones at others' homes.",
       "explanation": "Hook returns after the heaviest allegations, now carrying the weight of all the exposed hypocrisy.",
@@ -902,6 +989,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तुझे मैं बोला था रहन दे, चुप हूँ, अब आगे से ज़्यादा नी फैलते",
+      "romanized": "Tujhe main bolaa thaa rahn de, chup hoon, ab aage se zyaadaa nee phailte",
       "speaker": "Chorus",
       "translation": "I told you to let it go, I'm quiet, but from now on don't spread yourself too thin.",
       "explanation": "The warning SM gave SOS before this track dropped - they chose silence first, but SOS kept pushing.",
@@ -909,6 +997,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "अब तुझे hype ऐसी दूंगा की भूला नी पाएगा, रहेगा सहम के",
+      "romanized": "Ab tujhe hype aisee doongaa kee bhoolaa nee paaegaa, rahegaa sahm ke",
       "speaker": "Chorus",
       "translation": "Now I'll give you the kind of hype you'll never forget, you'll live in fear.",
       "explanation": "SM is delivering on their promise - this track IS the unforgettable hype they warned about.",
@@ -916,6 +1005,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "कांचो के घर जिनके होते, वो दूजों के घरों पे पत्थर नी फेंकते",
+      "romanized": "Kaancho ke ghar jinke hote, vo doojon ke gharon pe patthr nee phenkte",
       "speaker": "Chorus",
       "translation": "Those who live in glass houses don't throw stones at others' homes.",
       "explanation": "Hook closing the third section.",
@@ -923,6 +1013,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "शैतान के साथ करते नी शैतानी",
+      "romanized": "Shaitaan ke saath karte nee shaitaanee",
       "speaker": "Chorus",
       "translation": "Don't mess with the devil.",
       "explanation": "Encore ABJ's verse begins with a warning - you don't try to out-evil the devil himself. SM is the wrong one to pick a fight with.",
@@ -936,6 +1027,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "इस वाले verse के लिए नहीं हूँ मैं sorry",
+      "romanized": "Is vaale verse ke lie naheen hoon main sorry",
       "speaker": "Chorus",
       "translation": "I'm not sorry for this verse.",
       "explanation": "Encore declares he has no remorse for what he's about to say - the gloves are fully off.",
@@ -943,6 +1035,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Calm वाला verse तेरे लिए था ही नहीं ज़रा भी",
+      "romanized": "Calm vaalaa verse tere lie thaa hee naheen zaraa bhee",
       "speaker": "Chorus",
       "translation": "Calm's verse wasn't even aimed at you at all.",
       "explanation": "Encore clarifies that Calm's verse in an earlier track (likely 'TT') was aimed at a different rapper, not SOS - but SOS took offense anyway and made themselves a target.",
@@ -956,6 +1049,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "वो कोई और था rapper जिसने अपनी माँ चुदाली",
+      "romanized": "Vo koee aur thaa rapper jisne apnee maan chudaalee",
       "speaker": "Chorus",
       "translation": "That was some other rapper who got himself screwed.",
       "explanation": "The previous diss was about a different rapper entirely - SOS inserted themselves into a beef that wasn't even about them.",
@@ -963,6 +1057,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "लेकिन तू भी है हरामी, जानी",
+      "romanized": "Lekin too bhee hai haraamee, jaanee",
       "speaker": "Chorus",
       "translation": "But you're also a bastard, buddy.",
       "explanation": "Even though the original diss wasn't about SOS, Encore acknowledges SOS deserves it too because of their own shady behavior.",
@@ -981,6 +1076,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "बातें हैं घुमा रहा, जानी",
+      "romanized": "Baaten hain ghumaa rahaa, jaanee",
       "speaker": "Chorus",
       "translation": "You're twisting words, buddy.",
       "explanation": "Accusing SOS of manipulating the narrative and distorting facts in their version of events.",
@@ -994,6 +1090,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "उड़े कहीं तीर और तू अपने में घुसाले जानी",
+      "romanized": "Ure kaheen teer aur too apne men ghusaale jaanee",
       "speaker": "Chorus",
       "translation": "Arrows flew elsewhere and you stuck them in yourself, buddy.",
       "explanation": "The diss arrows were aimed at someone else, but SOS voluntarily took offense and made themselves the target. They literally did it to themselves.",
@@ -1007,6 +1104,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "हिजड़े को दो ताली जानी *तालियाँ*",
+      "romanized": "Hijre ko do taalee jaanee *taaliyaan*",
       "speaker": "Chorus",
       "translation": "Give the hijra a clap, buddy. *claps*",
       "explanation": "A mocking line throwing SOS's own slur back at them. SOS called SM 'hijde' earlier, and Encore sarcastically says to give them a clap - referencing the stereotypical clapping gesture, while the sound effect of claps emphasizes the mockery.",
@@ -1020,6 +1118,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "क्या बे जानी?",
+      "romanized": "Kyaa be jaanee?",
       "speaker": "Chorus",
       "translation": "What's up, buddy?",
       "explanation": "A taunting, confrontational address to SOS, daring them to respond.",
@@ -1027,6 +1126,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तुझे लगा हमें तेरे बारे में पता नहीं जानी? ले फिर",
+      "romanized": "Tujhe lagaa hamen tere baare men pataa naheen jaanee? Le phir",
       "speaker": "Chorus",
       "translation": "You thought we didn't know about you, buddy? Well then, here you go.",
       "explanation": "Encore warns that SM knows all of SOS's secrets and is about to drop the most damaging allegations.",
@@ -1034,6 +1134,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "ये दोनों phone hack करते हैं",
+      "romanized": "Ye donon phone hack karte hain",
       "speaker": "Chorus",
       "translation": "These two hack phones.",
       "explanation": "SM makes a serious allegation that SOS hacks into people's phones to access private content.",
@@ -1041,6 +1142,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Kashmir में लड़कियों की nudes leak करते हैं",
+      "romanized": "Kashmir men larkiyon kee nudes leak karte hain",
       "speaker": "Chorus",
       "translation": "They leak girls' nudes in Kashmir.",
       "explanation": "The most serious allegation - SM accuses SOS of leaking women's intimate photos without consent, a criminal act.",
@@ -1048,6 +1150,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "और जिस दिन उन लड़कियों के नाम पता चल गए",
+      "romanized": "Aur jis din un larkiyon ke naam pataa chal gae",
       "speaker": "Chorus",
       "translation": "And the day those girls' names come out...",
       "explanation": "SM threatens that when the identities of the victims become known, there will be severe consequences for SOS.",
@@ -1055,6 +1158,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "उस दिन तेरे घरों पे बिछ जानी कब्रें हैं",
+      "romanized": "Us din tere gharon pe bichh jaanee kabren hain",
       "speaker": "Chorus",
       "translation": "That day, graves will be laid at your doorstep.",
       "explanation": "A grave threat - when the truth about the leaked photos comes out fully, it will be the end for SOS. Using 'graves at your doorstep' as a metaphor for total destruction.",
@@ -1068,6 +1172,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "कोई साला नामर्द ही होगा जो beef के पीछे करे बंदी बदनाम",
+      "romanized": "Koee saalaa naamrd hee hogaa jo beef ke peechhe kare bandee badnaam",
       "speaker": "Chorus",
       "translation": "Only a coward would defame a woman behind a beef.",
       "explanation": "SM calls out the ultimate cowardice - dragging women into a rap beef and ruining their reputations to get at your rivals.",
@@ -1086,6 +1191,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "जो कहना है मुझको कह, रंडी के बच्चे",
+      "romanized": "Jo kahnaa hai mujhko kah, randee ke bachche",
       "speaker": "Chorus",
       "translation": "Say what you have to say to me, son of a whore.",
       "explanation": "SM demands SOS direct their aggression at them directly instead of involving innocent women.",
@@ -1093,6 +1199,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "ले लूंगा वरना तेरी अम्मी का नाम मैं",
+      "romanized": "Le loongaa varnaa teree ammee kaa naam main",
       "speaker": "Chorus",
       "translation": "Otherwise I'll bring your mother's name into this.",
       "explanation": "A threat of escalation - if SOS keeps dragging women into the beef, SM will go after SOS's own mother. A warning to keep it between the rappers.",
@@ -1100,6 +1207,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तुम्हे सही में लगा हमें तुम्हारे बारे में कुछ नहीं पता भाई?",
+      "romanized": "Tumhe sahee men lagaa hamen tumhaare baare men kuchh naheen pataa bhaaee?",
       "speaker": "Chorus",
       "translation": "You really thought we didn't know anything about you, bro?",
       "explanation": "SM reiterates that they have deep knowledge of SOS's secrets and wrongdoings, transitioning into the most damaging revelations.",
@@ -1107,6 +1215,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "कैसे तुम Delhi और Kashmir में बंदियों के साथ सोते हो और फिर बिना उनकी consent के उनकी photo लेते हो और आपस में दोस्तों को भेजते हो",
+      "romanized": "Kaise tum Delhi aur Kashmir men bandiyon ke saath sote ho aur phir binaa unkee consent ke unkee photo lete ho aur aaps men doston ko bhejte ho",
       "speaker": "Chorus",
       "translation": "How you sleep with girls in Delhi and Kashmir, then take their photos without consent and share them with your friends.",
       "explanation": "SM publicly accuses SOS of a pattern of sexual exploitation - sleeping with women, secretly photographing them, and distributing the images without consent. This is a serious criminal allegation.",
@@ -1120,6 +1229,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "और वो लड़की जिसकी video leak हुई है",
+      "romanized": "Aur vo larkee jiskee video leak huee hai",
       "speaker": "Chorus",
       "translation": "And that girl whose video was leaked...",
       "explanation": "SM references a specific incident of a leaked video, making the accusation concrete rather than abstract.",
@@ -1127,6 +1237,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "कृपया सामने आइए, आपका सच हम बयान करेंगे",
+      "romanized": "Kripyaa saamne aaie, aapkaa sach ham bayaan karenge",
       "speaker": "Chorus",
       "translation": "Please come forward, we will tell your truth.",
       "explanation": "SM directly addresses the victim(s), encouraging them to come forward and promising to support them in telling their story. 'Bayaan' (statement/testimony) is also a reference to SM's own album name.",
@@ -1140,6 +1251,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तब तक के लिए और सच",
+      "romanized": "Tab tak ke lie aur sach",
       "speaker": "Chorus",
       "translation": "Until then, more truth.",
       "explanation": "SM has more to reveal while waiting for victims to come forward - the exposure isn't over.",
@@ -1147,6 +1259,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "इनमें से एक का है नाम Aatankki पर दूसरा है आतंकवादी",
+      "romanized": "Inmen se ek kaa hai naam Aatankki par doosraa hai aatnkvaadee",
       "speaker": "Chorus",
       "translation": "One of them is named Aatankki, but the other one is the real terrorist.",
       "explanation": "A devastating wordplay - 'Aatankki' is one SOS member's rap name (meaning terrorist), but SM says the OTHER member is the actual terrorist in terms of his actions.",
@@ -1165,6 +1278,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Bro ये पथरबाज़ है",
+      "romanized": "Bro ye pathrbaaz hai",
       "speaker": "Chorus",
       "translation": "Bro, this guy is a stone-pelter.",
       "explanation": "SM calls SOS a 'patharbaz' (stone-pelter), directly referencing the stone-pelting protests in Kashmir against the Indian army, tying back to the glass houses/stone-throwing theme of the song.",
@@ -1178,6 +1292,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Army पे पथ्थर है फेंकता और चिढ़ता है भारत से",
+      "romanized": "Army pe paththr hai phenktaa aur chirhtaa hai bhaart se",
       "speaker": "Chorus",
       "translation": "He throws stones at the army and hates India.",
       "explanation": "SM accuses SOS of being involved in stone-pelting against the Indian army and harboring anti-India sentiments while simultaneously earning money in India.",
@@ -1185,6 +1300,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "भोसड़ी का पथरबाज़ है",
+      "romanized": "Bhosree kaa pathrbaaz hai",
       "speaker": "Chorus",
       "translation": "The motherfucker is a stone-pelter.",
       "explanation": "Repeating the stone-pelter accusation with added profanity for emphasis.",
@@ -1192,6 +1308,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "छाती पे निशान है इसकी, ये दोस्तों पे flex है करता",
+      "romanized": "Chhaatee pe nishaan hai iskee, ye doston pe flex hai kartaa",
       "speaker": "Chorus",
       "translation": "He has a scar on his chest, and he flexes it to his friends.",
       "explanation": "SM reveals that one SOS member has a scar on his chest (likely from a stone-pelting incident with the army) and brags about it to friends as a badge of honor.",
@@ -1205,6 +1322,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "ये पथरबाज़ है",
+      "romanized": "Ye pathrbaaz hai",
       "speaker": "Chorus",
       "translation": "He's a stone-pelter.",
       "explanation": "Repetition of the accusation, hammering the point home.",
@@ -1212,6 +1330,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "भारत में है ये कमाता और उसी पे पथ्थर मारे",
+      "romanized": "Bhaart men hai ye kamaataa aur usee pe paththr maare",
       "speaker": "Chorus",
       "translation": "He earns his money in India and throws stones at the same country.",
       "explanation": "SM highlights the hypocrisy - SOS earns their livelihood performing in India while allegedly harboring and acting on anti-India sentiments. This ties directly back to the glass houses theme.",
@@ -1219,6 +1338,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "हाँ ये पथरबाज़ है",
+      "romanized": "Haan ye pathrbaaz hai",
       "speaker": "Chorus",
       "translation": "Yeah, he's a stone-pelter.",
       "explanation": "Final repetition of the stone-pelter accusation to close out this section.",
@@ -1226,6 +1346,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "और वो बिलकुल सही clip use करी है तूने हमारी",
+      "romanized": "Aur vo bilkul sahee clip use karee hai toone hamaaree",
       "speaker": "Chorus",
       "translation": "And you used exactly the right clip of ours.",
       "explanation": "SM sarcastically thanks SOS for using a clip of SM in their diss, saying it actually ended up proving SM's point rather than hurting them.",
@@ -1233,6 +1354,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "लोगों को दिखना चाहिए कैसे सँपोले पाले हैं भाई",
+      "romanized": "Logon ko dikhnaa chaahie kaise sanpole paale hain bhaaee",
       "speaker": "Chorus",
       "translation": "People should see what kind of snakes we raised, bro.",
       "explanation": "SM says the world should see how SOS, whom SM nurtured and helped grow, turned into snakes and bit the hand that fed them.",
@@ -1246,6 +1368,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "जिस दिन से तुम्हारा सच पता चला है ना, उस दिन से दूर हूँ तुमसे",
+      "romanized": "Jis din se tumhaaraa sach pataa chalaa hai naa, us din se door hoon tumse",
       "speaker": "Chorus",
       "translation": "From the day your truth came out, I've been distant from you.",
       "explanation": "SM reveals they already cut ties with SOS once they learned the truth about their character, long before this track.",
@@ -1253,6 +1376,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "और इस गाने में कही गई हर एक बात सच है",
+      "romanized": "Aur is gaane men kahee gaee har ek baat sach hai",
       "speaker": "Chorus",
       "translation": "And every single thing said in this song is the truth.",
       "explanation": "SM stands behind every allegation made in the track, declaring it all factual.",
@@ -1260,6 +1384,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तभी तुमसे कहता हूँ",
+      "romanized": "Tabhee tumse kahtaa hoon",
       "speaker": "Chorus",
       "translation": "That's why I tell you...",
       "explanation": "Setting up the final hook with the weight of all the evidence presented throughout the song.",
@@ -1267,6 +1392,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "कांचो के घर जिनके होते, वो दूजों के घरों पे पत्थर नी फेंकते",
+      "romanized": "Kaancho ke ghar jinke hote, vo doojon ke gharon pe patthr nee phenkte",
       "speaker": "Chorus",
       "translation": "Those who live in glass houses don't throw stones at others' homes.",
       "explanation": "The final hook now carries the full weight of every revelation - SOS's glass house of hypocrisy, exploitation, and lies has been completely shattered.",
@@ -1274,6 +1400,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "तुझे मैं बोला था रहन दे, चुप हूँ, अब आगे से ज़्यादा नी फैलते",
+      "romanized": "Tujhe main bolaa thaa rahn de, chup hoon, ab aage se zyaadaa nee phailte",
       "speaker": "Chorus",
       "translation": "I told you to let it go, I'm quiet, but from now on don't spread yourself too thin.",
       "explanation": "The warning that was ignored, now fulfilled through this track.",
@@ -1281,6 +1408,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "अब तुझे hype ऐसी दूंगा की भूला नी पाएगा, रहेगा सहम के",
+      "romanized": "Ab tujhe hype aisee doongaa kee bhoolaa nee paaegaa, rahegaa sahm ke",
       "speaker": "Chorus",
       "translation": "Now I'll give you the kind of hype you'll never forget, you'll live in fear.",
       "explanation": "The promise delivered - this track IS the unforgettable hype.",
@@ -1288,6 +1416,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "कांचो के घर जिनके होते, वो दूजों के घरों पे पत्थर नी फेंकते",
+      "romanized": "Kaancho ke ghar jinke hote, vo doojon ke gharon pe patthr nee phenkte",
       "speaker": "Chorus",
       "translation": "Those who live in glass houses don't throw stones at others' homes.",
       "explanation": "Final hook repetition, closing the main song before the Mo Joshi outro.",
@@ -1295,6 +1424,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Yo listen, to think that I leaked their album concept jesus fucking ridiculous",
+      "romanized": "Yo listen, to think that I leaked their album concept jesus fucking ridiculous",
       "speaker": "Mo Joshi",
       "translation": "Yo listen, to think that I leaked their album concept, jesus, it's fucking ridiculous.",
       "explanation": "Mo Joshi's voice clip begins - he's ranting about SOS's accusation that he leaked their album concept to SM. He finds it absurd.",
@@ -1308,6 +1438,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Like I've got better things to do with my time man",
+      "romanized": "Like I've got better things to do with my time man",
       "speaker": "Mo Joshi",
       "translation": "Like I've got better things to do with my time, man.",
       "explanation": "Mo Joshi dismisses the accusation as beneath him, saying he has more important things to worry about than leaking someone's concept.",
@@ -1315,6 +1446,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "I wasn't even managing them, Uday the fucking prick was managing them",
+      "romanized": "I wasn't even managing them, Uday the fucking prick was managing them",
       "speaker": "Mo Joshi",
       "translation": "I wasn't even managing them, Uday the fucking prick was managing them.",
       "explanation": "Mo clarifies that SOS was under Uday's management, not his, so he wouldn't have even had access to their concepts. He also throws shade at his co-founder Uday.",
@@ -1328,6 +1460,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Same with Ali and Ahmer",
+      "romanized": "Same with Ali and Ahmer",
       "speaker": "Mo Joshi",
       "translation": "Same with Ali and Ahmer.",
       "explanation": "Mo confirms that Ali and Ahmer were also under Uday's management, not his, further distancing himself from responsibility.",
@@ -1341,6 +1474,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "I didn't hear their songs, let alone leak a fuckin' album concept",
+      "romanized": "I didn't hear their songs, let alone leak a fuckin' album concept",
       "speaker": "Mo Joshi",
       "translation": "I didn't hear their songs, let alone leak a fucking album concept.",
       "explanation": "Mo claims he was so uninvolved with SOS that he hadn't even listened to their music, making the concept-leaking accusation even more absurd.",
@@ -1348,6 +1482,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Two insecure little fucking pricks",
+      "romanized": "Two insecure little fucking pricks",
       "speaker": "Mo Joshi",
       "translation": "Two insecure little fucking pricks.",
       "explanation": "Mo's unfiltered assessment of SOS - calling them insecure and petty.",
@@ -1355,6 +1490,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Half the time I didn't even know they'd be a fucking duo, they split up every other day",
+      "romanized": "Half the time I didn't even know they'd be a fucking duo, they split up every other day",
       "speaker": "Mo Joshi",
       "translation": "Half the time I didn't even know they'd be a fucking duo, they split up every other day.",
       "explanation": "Mo reveals SOS had constant internal problems, breaking up and reuniting repeatedly, making them an unreliable investment for the label.",
@@ -1362,6 +1498,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Talking shit behind each other's backs",
+      "romanized": "Talking shit behind each other's backs",
       "speaker": "Mo Joshi",
       "translation": "Talking shit behind each other's backs.",
       "explanation": "Mo exposes that SOS members would trash-talk each other when apart, revealing deep dysfunction within the duo.",
@@ -1369,6 +1506,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "Man fuck ya skeptical, not gonna invest money in those two dicks",
+      "romanized": "Man fuck ya skeptical, not gonna invest money in those two dicks",
       "speaker": "Mo Joshi",
       "translation": "Man fuck ya, skeptical, not gonna invest money in those two dicks.",
       "explanation": "Mo explains why the label didn't invest heavily in SOS - they were too unstable and unreliable to be worth the financial risk.",
@@ -1376,6 +1514,7 @@ export const kaanch_ke_ghar: Song = {
     },
     {
       "original": "They just need to move on and get the fuck on with their lives",
+      "romanized": "They just need to move on and get the fuck on with their lives",
       "speaker": "Mo Joshi",
       "translation": "They just need to move on and get the fuck on with their lives.",
       "explanation": "Mo's closing statement - SOS should stop blaming others and move forward. This final line from the label co-founder himself puts the ultimate stamp on SM's narrative.",

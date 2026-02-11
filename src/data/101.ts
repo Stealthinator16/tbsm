@@ -9,6 +9,7 @@ export const _101: Song = {
   "lyrics": [
     {
       "original": "Kiski galti kiske sar pe",
+      "devanagari": "किसकी गलती किसके सर पे",
       "speaker": "Encore",
       "translation": "Whose fault falls on whose head?",
       "explanation": "Encore questions the lack of accountability in the scene or society, asking who is being blamed for what.",
@@ -27,6 +28,7 @@ export const _101: Song = {
     },
     {
       "original": "Kisse jalti kisse banti, huh?",
+      "devanagari": "किससे जलती किससे बनती, huh?",
       "speaker": "Encore",
       "translation": "Who are you jealous of, and who do you get along with?",
       "explanation": "He's asking about the listener's or rival's social dynamics and animosity.",
@@ -45,6 +47,7 @@ export const _101: Song = {
     },
     {
       "original": "Linein deri aage se tu jo",
+      "devanagari": "लाइनें देरी आगे से तू जो",
       "speaker": "Encore",
       "translation": "The lines (hints/attitudes) you're giving me...",
       "explanation": "Referring to someone acting up or showing attitude toward them.",
@@ -52,6 +55,7 @@ export const _101: Song = {
     },
     {
       "original": "To fark naii padta kiski bandi ho",
+      "devanagari": "To fark naii padta kiski bandi ho",
       "speaker": "Encore",
       "translation": "Then it doesn't matter whose girl you are.",
       "explanation": "Encore is asserting his indifference to social status or associations when confronted.",
@@ -65,6 +69,7 @@ export const _101: Song = {
     },
     {
       "original": "101",
+      "devanagari": "101",
       "speaker": "Encore",
       "translation": "101",
       "explanation": "The title refers to the auspicious number (Shagun) and also implies a '101' introductory course to their greatness.",
@@ -72,6 +77,7 @@ export const _101: Song = {
     },
     {
       "original": "Daaka Daala maala maal hai crew",
+      "devanagari": "डाका डाला माला माल है crew",
       "speaker": "Encore and Calm",
       "translation": "We committed a robbery, the crew is loaded with wealth.",
       "explanation": "Metaphor for taking over the music industry and making significant money.",
@@ -96,6 +102,7 @@ export const _101: Song = {
     },
     {
       "original": "Shaakal aaya shakalaka boom",
+      "devanagari": "Shaakal aaya shakalaka boom",
       "speaker": "Encore and Calm",
       "translation": "Shaakal has arrived, Shaka Laka Boom!",
       "explanation": "A wordplay mix of the villain 'Shaakal' (from the movie Shaan) and the magic pencil show 'Shaka Laka Boom Boom'.",
@@ -115,6 +122,7 @@ export const _101: Song = {
     },
     {
       "original": "Me Kaka, Tiki Taka kaatu chu",
+      "devanagari": "मी Kaka, Tiki Taka काटू चू",
       "speaker": "Encore and Calm",
       "translation": "I'm Kaka, Tiki Taka, cutting through.",
       "explanation": "References footballer Kaka, the Tiki Taka passing style, and the magic phrase 'Kaatu Chu' from Shaka Laka Boom Boom.",
@@ -133,6 +141,7 @@ export const _101: Song = {
     },
     {
       "original": "Laaya saath me bhaala yabadabadoo",
+      "devanagari": "लाया साथ में भाला yabadabadoo",
       "speaker": "Encore and Calm",
       "translation": "Brought a spear with me, Yabadabadoo!",
       "explanation": "A mix of aggressive imagery (spear) and Fred Flintstone's catchphrase to show their whimsical yet dangerous style.",
@@ -157,6 +166,7 @@ export const _101: Song = {
     },
     {
       "original": "Bhai 101",
+      "devanagari": "भाई 101",
       "speaker": "Encore and Calm",
       "translation": "Brother, 101.",
       "explanation": "Reiterating the theme of being top-tier/auspicious.",
@@ -164,6 +174,7 @@ export const _101: Song = {
     },
     {
       "original": "Kaale dhabbe paale",
+      "devanagari": "काले धब्बे पाले",
       "speaker": "Encore and Calm",
       "translation": "Nurtured the black spots (stains).",
       "explanation": "Referring to their struggles, past mistakes, or the 'darker' side of their upbringing.",
@@ -171,6 +182,7 @@ export const _101: Song = {
     },
     {
       "original": "Hum pille",
+      "devanagari": "हम पिल्ले",
       "speaker": "Encore and Calm",
       "translation": "We pups.",
       "explanation": "Self-referential slang for being the young, hungry underdogs who grew into beasts.",
@@ -190,6 +202,7 @@ export const _101: Song = {
     },
     {
       "original": "101",
+      "devanagari": "101",
       "speaker": "Encore and Calm",
       "translation": "101",
       "explanation": "Repetition for the hook.",
@@ -197,6 +210,7 @@ export const _101: Song = {
     },
     {
       "original": "Ek se ek hai mere 100 bhes",
+      "devanagari": "एक से एक है मेरे 100 भेस",
       "speaker": "Encore and Calm",
       "translation": "I have a hundred different avatars, each better than the last.",
       "explanation": "Refers to their versatility and ability to change flows/personas.",
@@ -210,6 +224,7 @@ export const _101: Song = {
     },
     {
       "original": "Nishana laga feka Shuriken",
+      "devanagari": "निशाना लगा फेंका Shuriken",
       "speaker": "Calm and Encore",
       "translation": "Took aim and threw a Shuriken.",
       "explanation": "Imagery of a ninja/shinobi (Naruto reference) to describe their precision in rap.",
@@ -223,6 +238,7 @@ export const _101: Song = {
     },
     {
       "original": "Ken aur Ryu bhare Shoryuken (Ay)",
+      "devanagari": "Ken और Ryu भरे Shoryuken (Ay)",
       "speaker": "Calm and Encore",
       "translation": "Ken and Ryu performing a Shoryuken.",
       "explanation": "Street Fighter reference; Seedhe Maut compares themselves to the iconic duo using their signature uppercut move.",
@@ -247,6 +263,7 @@ export const _101: Song = {
     },
     {
       "original": "Peeli agle din tha Supersonic",
+      "devanagari": "पीली अगले दिन था Supersonic",
       "speaker": "Calm and Encore",
       "translation": "Drank up, and the next day was Supersonic.",
       "explanation": "Refers to performing at the Vh1 Supersonic festival after a night of partying.",
@@ -260,6 +277,7 @@ export const _101: Song = {
     },
     {
       "original": "Haan thi lagi padi meri show k din (skrr)",
+      "devanagari": "हाँ थी लगी पड़ी मेरी show के दिन (skrr)",
       "speaker": "Calm and Encore",
       "translation": "Yeah, I was struggling/exhausted on the day of the show.",
       "explanation": "Admitting to being tired or hungover but still delivering on stage.",
@@ -267,6 +285,7 @@ export const _101: Song = {
     },
     {
       "original": "Scooty sawari bhi na ruki",
+      "devanagari": "स्कूटी सवारी भी ना रुकी",
       "speaker": "Calm and Encore",
       "translation": "Even the scooty ride didn't stop.",
       "explanation": "Reference to their early days traveling to shows on a scooter, showing their hustle.",
@@ -274,6 +293,7 @@ export const _101: Song = {
     },
     {
       "original": "(skkr)",
+      "devanagari": "(skkr)",
       "speaker": "Calm and Encore",
       "translation": "(skrr)",
       "explanation": "Ad-lib representing the sound of tires/speed.",
@@ -281,6 +301,7 @@ export const _101: Song = {
     },
     {
       "original": "Noida se leke Nizamuddin",
+      "devanagari": "Noida से लेके Nizamuddin",
       "speaker": "Calm and Encore",
       "translation": "From Noida to Nizamuddin.",
       "explanation": "Mapping their reach across the NCR (National Capital Region).",
@@ -294,6 +315,7 @@ export const _101: Song = {
     },
     {
       "original": "(ha)",
+      "devanagari": "(ha)",
       "speaker": "Calm and Encore",
       "translation": "(ha)",
       "explanation": "Ad-lib.",
@@ -301,6 +323,7 @@ export const _101: Song = {
     },
     {
       "original": "Kehete jo maa ka hi khata",
+      "devanagari": "कहेते जो माँ का ही खाता",
       "speaker": "Calm and Encore",
       "translation": "Those who say I only live off my mother...",
       "explanation": "Addressing critics who claim they aren't self-made.",
@@ -308,6 +331,7 @@ export const _101: Song = {
     },
     {
       "original": "Tu ab aake dekh aa zara teri mmm..",
+      "devanagari": "तू अब आके देख आ ज़रा तेरी mmm..",
       "speaker": "Calm and Encore",
       "translation": "Now you come and see, your [censored]...",
       "explanation": "A playful/aggressive threat, leaving the insult to the listener's imagination.",
@@ -315,6 +339,7 @@ export const _101: Song = {
     },
     {
       "original": "101",
+      "devanagari": "101",
       "speaker": "Calm and Encore",
       "translation": "101",
       "explanation": "Hook.",
@@ -335,6 +360,7 @@ export const _101: Song = {
     },
     {
       "original": "(Android ka charger hai terepe?)",
+      "devanagari": "(Android का charger है तेरेपे?)",
       "speaker": "Calm and Encore",
       "translation": "(Do you have an Android charger?)",
       "explanation": "An organic skit-like interjection, common in Seedhe Maut's raw recording style.",
@@ -342,6 +368,7 @@ export const _101: Song = {
     },
     {
       "original": "Phone dekha battery 2% hai",
+      "devanagari": "Phone देखा battery 2% है",
       "speaker": "Encore",
       "translation": "Checked my phone, battery is at 2%.",
       "explanation": "Setting a chaotic, real-life scene.",
@@ -349,6 +376,7 @@ export const _101: Song = {
     },
     {
       "original": "Room kiya hotbox mara stone cold flow log bole May mei bhi thand hai",
+      "devanagari": "Room किया hotbox मारा stone cold flow लोग बोले May में भी ठंड है",
       "speaker": "Encore",
       "translation": "Hotboxed the room, dropped a stone-cold flow, people say it's cold even in May.",
       "explanation": "A 'hotbox' is smoking in an enclosed space; 'Stone Cold' references Steve Austin. The flow is so 'cool' it negates the Delhi summer heat.",
@@ -367,6 +395,7 @@ export const _101: Song = {
     },
     {
       "original": "Merme ghamand hai",
+      "devanagari": "मेरमें घमंड है",
       "speaker": "Encore",
       "translation": "I have some pride/arrogance.",
       "explanation": "Encore admits to having an ego, which is necessary for a top rapper.",
@@ -380,6 +409,7 @@ export const _101: Song = {
     },
     {
       "original": "Thoda bhot",
+      "devanagari": "थोड़ा बहोत",
       "speaker": "Encore",
       "translation": "A little bit.",
       "explanation": "Quantifying his ego.",
@@ -387,6 +417,7 @@ export const _101: Song = {
     },
     {
       "original": "Zyada nai",
+      "devanagari": "ज़्यादा नई",
       "speaker": "Encore",
       "translation": "Not too much.",
       "explanation": "Staying grounded despite the fame.",
@@ -394,6 +425,7 @@ export const _101: Song = {
     },
     {
       "original": "Bhoka bhot",
+      "devanagari": "भोंका बहोत",
       "speaker": "Encore",
       "translation": "Barked a lot.",
       "explanation": "Refers to rivals who talk a lot but don't act.",
@@ -401,6 +433,7 @@ export const _101: Song = {
     },
     {
       "original": "Kata nai",
+      "devanagari": "काटा नई",
       "speaker": "Encore",
       "translation": "Didn't bite.",
       "explanation": "Continuation of the dog metaphor: all bark, no bite.",
@@ -408,6 +441,7 @@ export const _101: Song = {
     },
     {
       "original": "Khota shauk",
+      "devanagari": "खोटा शौक",
       "speaker": "Encore",
       "translation": "False/Useless hobbies.",
       "explanation": "He doesn't indulge in shallow interests.",
@@ -415,6 +449,7 @@ export const _101: Song = {
     },
     {
       "original": "Pala nai",
+      "devanagari": "पाला नई",
       "speaker": "Encore",
       "translation": "Didn't nurture.",
       "explanation": "He didn't waste time on useless habits.",
@@ -422,6 +457,7 @@ export const _101: Song = {
     },
     {
       "original": "Dhuua dhake aasmaan",
+      "devanagari": "धुआ ढके आसमान",
       "speaker": "Encore",
       "translation": "Smoke covers the sky.",
       "explanation": "A reference to Delhi's pollution and also the 'smoke' (conflict/hype) they create.",
@@ -436,6 +472,7 @@ export const _101: Song = {
     },
     {
       "original": "Dilli meri baat maan",
+      "devanagari": "दिल्ली मेरी बात मान",
       "speaker": "Encore",
       "translation": "Delhi, listen to me.",
       "explanation": "Addressing their home city.",
@@ -443,6 +480,7 @@ export const _101: Song = {
     },
     {
       "original": "Har safed ke yaha pe saat ranng hai",
+      "devanagari": "हर सफ़ेद के यहाँ पे सात रंग है",
       "speaker": "Encore",
       "translation": "Every white (light) here has seven colors.",
       "explanation": "A scientific metaphor (prism) suggesting that things aren't as simple as they look; there's depth in everything.",
@@ -450,6 +488,7 @@ export const _101: Song = {
     },
     {
       "original": "Aise baate jamti nahi to door se dekh ke khush rao",
+      "devanagari": "ऐसे बातें जमती नहीं तो दूर से देख के खुश रहो",
       "speaker": "Encore",
       "translation": "If you don't vibe with this, just watch from a distance and be happy.",
       "explanation": "Telling haters to stay away if they don't understand the craft.",
@@ -457,6 +496,7 @@ export const _101: Song = {
     },
     {
       "original": "Dekho khali meri image nai mai acha nai",
+      "devanagari": "देखो खाली मेरी image नई मैं अच्छा नई",
       "speaker": "Encore",
       "translation": "Look, it's not just my image, I'm not a 'good' guy.",
       "explanation": "He's not trying to be a role model; he's being himself.",
@@ -464,6 +504,7 @@ export const _101: Song = {
     },
     {
       "original": "Hu asli",
+      "devanagari": "हूँ असली",
       "speaker": "Encore",
       "translation": "I am real.",
       "explanation": "Authenticity is the core of Seedhe Maut.",
@@ -471,6 +512,7 @@ export const _101: Song = {
     },
     {
       "original": "Is baat me koi bhi shaq na ho",
+      "devanagari": "इस बात में कोई भी शक ना हो",
       "speaker": "Encore",
       "translation": "Let there be no doubt about this.",
       "explanation": "Asserting his claim.",
@@ -478,6 +520,7 @@ export const _101: Song = {
     },
     {
       "original": "Ke hamari saari parvarish",
+      "devanagari": "के हमारी सारी परवरिश",
       "speaker": "Encore",
       "translation": "That our entire upbringing...",
       "explanation": "Starting to talk about their background.",
@@ -485,6 +528,7 @@ export const _101: Song = {
     },
     {
       "original": "Sadak shiksha praapti me beeti",
+      "devanagari": "सड़क शिक्षा प्राप्ति में बीती",
       "speaker": "Encore",
       "translation": "Was spent gaining street education.",
       "explanation": "Learned life lessons from the streets of Delhi rather than just books.",
@@ -498,6 +542,7 @@ export const _101: Song = {
     },
     {
       "original": "BT fir na ho",
+      "devanagari": "BT फिर ना हो",
       "speaker": "Encore",
       "translation": "Don't have a 'Bad Trip' later.",
       "explanation": "BT is common DHH/Delhi slang for a 'Bad Trip' or a bad situation.",
@@ -511,6 +556,7 @@ export const _101: Song = {
     },
     {
       "original": "Jab padhae hume koi patti",
+      "devanagari": "जब पढ़ाए हमें कोई पट्टी",
       "speaker": "Encore",
       "translation": "When someone tries to brainwash/manipulate us.",
       "explanation": "'Patti padhana' is an idiom for misleading someone.",
@@ -518,6 +564,7 @@ export const _101: Song = {
     },
     {
       "original": "Fode nakki",
+      "devanagari": "फोड़े नक्की",
       "speaker": "Encore",
       "translation": "Settle it definitely.",
       "explanation": "'Nakki' means to finish or finalize a matter.",
@@ -525,6 +572,7 @@ export const _101: Song = {
     },
     {
       "original": "Chal ho nakki ya se oye",
+      "devanagari": "चल हो नक्की या से ओए",
       "speaker": "Encore",
       "translation": "Go on, get lost from here now.",
       "explanation": "Dismissing someone annoying.",
@@ -532,6 +580,7 @@ export const _101: Song = {
     },
     {
       "original": "Aaho!",
+      "devanagari": "आहो!",
       "speaker": "Encore",
       "translation": "Yes!",
       "explanation": "Punjabi-style exclamation of agreement.",
@@ -539,6 +588,7 @@ export const _101: Song = {
     },
     {
       "original": "Aa khada ho chal",
+      "devanagari": "आ खड़ा हो चल",
       "speaker": "Encore",
       "translation": "Come on, stand up.",
       "explanation": "Challenging someone to face him.",
@@ -546,6 +596,7 @@ export const _101: Song = {
     },
     {
       "original": "Ye ra stage dikha wow wow factor",
+      "devanagari": "ये रा stage दिखा wow wow factor",
       "speaker": "Encore",
       "translation": "Here's the stage, show me your 'wow' factor.",
       "explanation": "Seedhe Maut is known for their stage presence; Encore challenges others to match it.",
@@ -553,6 +604,7 @@ export const _101: Song = {
     },
     {
       "original": "Kiya fir naam, mara chaanta phenk kar",
+      "devanagari": "किया फिर नाम, मारा चांटा फेंक कर",
       "speaker": "Encore",
       "translation": "Made a name, threw a slap.",
       "explanation": "Metaphorically slapping the industry with their success.",
@@ -560,6 +612,7 @@ export const _101: Song = {
     },
     {
       "original": "Dikhe jo chor",
+      "devanagari": "दिखे जो चोर",
       "speaker": "Encore",
       "translation": "The thieves I saw...",
       "explanation": "Referring to people who steal styles or credit.",
@@ -574,6 +627,7 @@ export const _101: Song = {
     },
     {
       "original": "Kiye 1-2 tour",
+      "devanagari": "किए 1-2 tour",
       "speaker": "Encore",
       "translation": "Did 1-2 tours.",
       "explanation": "Refers to their early touring experience.",
@@ -588,6 +642,7 @@ export const _101: Song = {
     },
     {
       "original": "Ghooma 7-8 sheher",
+      "devanagari": "घूमा 7-8 शहर",
       "speaker": "Encore",
       "translation": "Traveled through 7-8 cities.",
       "explanation": "Expanding their reach.",
@@ -595,6 +650,7 @@ export const _101: Song = {
     },
     {
       "original": "Mile 1-2 actor",
+      "devanagari": "मिले 1-2 actor",
       "speaker": "Encore",
       "translation": "Met 1-2 actors.",
       "explanation": "Referring to fake people in the industry who act like something they aren't.",
@@ -602,6 +658,7 @@ export const _101: Song = {
     },
     {
       "original": "Sar na chadhe (huh)",
+      "devanagari": "सर ना चढ़े (huh)",
       "speaker": "Encore",
       "translation": "Don't let it go to your head.",
       "explanation": "Warning against arrogance.",
@@ -609,6 +666,7 @@ export const _101: Song = {
     },
     {
       "original": "Paisa mere zara sa, yahan",
+      "devanagari": "पैसा मेरे ज़रा सा, यहाँ",
       "speaker": "Encore",
       "translation": "A little bit of money here...",
       "explanation": "Downplaying his wealth to stay humble.",
@@ -616,6 +674,7 @@ export const _101: Song = {
     },
     {
       "original": "Jane mujhe sara jaha",
+      "devanagari": "जाने मुझे सारा जहाँ",
       "speaker": "Encore",
       "translation": "The whole world knows me.",
       "explanation": "Global recognition of the brand Seedhe Maut.",
@@ -623,6 +682,7 @@ export const _101: Song = {
     },
     {
       "original": "Shah Jahan",
+      "devanagari": "Shah Jahan",
       "speaker": "Encore",
       "translation": "Shah Jahan.",
       "explanation": "Likening his legacy/impact to the Mughal Emperor who built the Taj Mahal.",
@@ -630,6 +690,7 @@ export const _101: Song = {
     },
     {
       "original": "Sar dard, karanama",
+      "devanagari": "सर दर्द, कारनामा",
       "speaker": "Encore",
       "translation": "A headache, an exploit.",
       "explanation": "He's a headache for his rivals because of his great deeds.",
@@ -637,6 +698,7 @@ export const _101: Song = {
     },
     {
       "original": "Haath maar, Maradonna",
+      "devanagari": "हाथ मार, Maradonna",
       "speaker": "Encore",
       "translation": "Hand strike, Maradona.",
       "explanation": "Refers to Maradona's 'Hand of God' goal. He’s making moves that are legendary and maybe slightly controversial.",
@@ -650,6 +712,7 @@ export const _101: Song = {
     },
     {
       "original": "Mat kar, pari pana",
+      "devanagari": "मत कर, परी पाना",
       "speaker": "Encore",
       "translation": "Don't act like a fairy/delicate.",
       "explanation": "Telling people to stop being soft or acting entitled.",
@@ -657,6 +720,7 @@ export const _101: Song = {
     },
     {
       "original": "Kabse keh ra hoon na",
+      "devanagari": "कबसे कह रा हूँ ना",
       "speaker": "Encore",
       "translation": "I've been telling you for a while, right?",
       "explanation": "Reasserting his previous warnings.",
@@ -671,6 +735,7 @@ export const _101: Song = {
     },
     {
       "original": "Faeda kya choomke",
+      "devanagari": "फ़ायदा क्या चूमके",
       "speaker": "Encore",
       "translation": "What's the point of kissing it?",
       "explanation": "Why play nice or show fake affection...",
@@ -685,6 +750,7 @@ export const _101: Song = {
     },
     {
       "original": "Joot jab rakh ke de sakte thoot pe, uhh",
+      "devanagari": "जूत जब रख के दे सकते थूत पे, uhh",
       "speaker": "Encore",
       "translation": "When you can just land a boot on the face.",
       "explanation": "A violent metaphor for being direct and aggressive instead of sugar-coating.",
@@ -704,6 +770,7 @@ export const _101: Song = {
     },
     {
       "original": "Baje Hum loop pe (hum loop pe)",
+      "devanagari": "बजे हम loop पे (हम loop पे)",
       "speaker": "Encore",
       "translation": "We play on loop.",
       "explanation": "Their music is so good people listen repeatedly.",
@@ -711,6 +778,7 @@ export const _101: Song = {
     },
     {
       "original": "Chalte rahe tum bas ek hi loop pe, uhh",
+      "devanagari": "चलते रहे तुम बस एक ही loop पे, uhh",
       "speaker": "Encore",
       "translation": "You guys just kept walking in the same loop.",
       "explanation": "Rivals are stuck in the same old patterns while SM evolves.",
@@ -725,6 +793,7 @@ export const _101: Song = {
     },
     {
       "original": "Soche ham dabbe se bahar",
+      "devanagari": "सोचे हम डब्बे से बाहर",
       "speaker": "Encore",
       "translation": "We think out of the box.",
       "explanation": "Creative innovation.",
@@ -732,6 +801,7 @@ export const _101: Song = {
     },
     {
       "original": "Soche ke tu kare ball bhot sahi",
+      "devanagari": "सोचे के तू करे ball बहोत सही",
       "speaker": "Encore",
       "translation": "You think you're bowling really well.",
       "explanation": "Cricket metaphor for someone thinking they are doing a good job.",
@@ -739,6 +809,7 @@ export const _101: Song = {
     },
     {
       "original": "Aake khaega har tappe pe chaar",
+      "devanagari": "आके खाएगा हर टप्पे पे चार",
       "speaker": "Encore",
       "translation": "You'll get hit for a four on every bounce.",
       "explanation": "No matter how good you think you are, I will dominate you (hit boundaries).",
@@ -746,6 +817,7 @@ export const _101: Song = {
     },
     {
       "original": "Kare koi par war nai Seedhe Maut tera parvardigaar",
+      "devanagari": "करे कोई पर वार नई Seedhe Maut तेरा परवरदिगार",
       "speaker": "Encore",
       "translation": "No one can counter-attack; Seedhe Maut is your provider/god.",
       "explanation": "An intense claim of superiority in the rap game.",
@@ -765,6 +837,7 @@ export const _101: Song = {
     },
     {
       "original": "Yaha muh pe bolne waale kamm hain aur",
+      "devanagari": "यहाँ मुँह पे बोलने वाले कम हैं और",
       "speaker": "Calm",
       "translation": "There are fewer people here who speak to your face, and...",
       "explanation": "Calm notes the lack of direct honesty in the industry.",
@@ -772,6 +845,7 @@ export const _101: Song = {
     },
     {
       "original": "Zyada jo baatein kare thodi badake (thodi si)",
+      "devanagari": "ज़्यादा जो बातें करे थोड़ी बढ़ाके (थोड़ी सी)",
       "speaker": "Calm",
       "translation": "...More who talk with a lot of exaggeration.",
       "explanation": "People hype themselves up or gossip falsely.",
@@ -786,6 +860,7 @@ export const _101: Song = {
     },
     {
       "original": "Aaya tha karne me maze par",
+      "devanagari": "आया था करने में मज़े पर",
       "speaker": "Calm",
       "translation": "I came here to have fun, but...",
       "explanation": "Calm's initial intention was just to enjoy the art.",
@@ -793,6 +868,7 @@ export const _101: Song = {
     },
     {
       "original": "Niklunga unki me thodi si sadake (ch*tiye)",
+      "devanagari": "निकलूँगा उनकी में थोड़ी सी सड़के (ch*tiye)",
       "speaker": "Calm",
       "translation": "I'll end up burning them a little bit.",
       "explanation": "'Sadake' implies causing irritation or 'burning' someone with success or bars.",
@@ -800,6 +876,7 @@ export const _101: Song = {
     },
     {
       "original": "Inn jaise pe hota afsos hai",
+      "devanagari": "इन जैसे पे होता अफ़सोस है",
       "speaker": "Calm",
       "translation": "I feel sorry for people like them.",
       "explanation": "Pity for his rivals' incompetence.",
@@ -807,6 +884,7 @@ export const _101: Song = {
     },
     {
       "original": "Soch ye dono pe boli bhi lagalein",
+      "devanagari": "सोच ये दोनों पे बोली भी लगालें",
       "speaker": "Calm",
       "translation": "Think, they might even try to bid on us.",
       "explanation": "People trying to buy their talent or put a price on them.",
@@ -814,6 +892,7 @@ export const _101: Song = {
     },
     {
       "original": "Par rehna matt galat faimi me hum",
+      "devanagari": "पर रहना मत ग़लतफ़हमी में हम",
       "speaker": "Calm",
       "translation": "But don't be under any misunderstanding...",
       "explanation": "Warning against underestimating them.",
@@ -821,6 +900,7 @@ export const _101: Song = {
     },
     {
       "original": "Upar se koodenge ghodi bhi banake",
+      "devanagari": "ऊपर से कूदेंगे घोड़ी भी बनाके",
       "speaker": "Calm",
       "translation": "We'll jump from above and make a 'ghodi' (mockery/submission) out of you.",
       "explanation": "Delhi slang for physically dominating or humiliating someone.",
@@ -846,6 +926,7 @@ export const _101: Song = {
     },
     {
       "original": "Ha tha jazbati me pehle",
+      "devanagari": "हा था जज़्बाती में पहले",
       "speaker": "Calm",
       "translation": "Yes, I was emotional before.",
       "explanation": "Calm admits he used to care more or be more sensitive.",
@@ -859,6 +940,7 @@ export const _101: Song = {
     },
     {
       "original": "Par Abhi nahi",
+      "devanagari": "पर अभी नहीं",
       "speaker": "Calm",
       "translation": "But not now.",
       "explanation": "He has hardened his heart for the business.",
@@ -873,6 +955,7 @@ export const _101: Song = {
     },
     {
       "original": "Abhi nahi",
+      "devanagari": "अभी नहीं",
       "speaker": "Calm",
       "translation": "Not now.",
       "explanation": "Emphasis.",
@@ -887,6 +970,7 @@ export const _101: Song = {
     },
     {
       "original": "Abhi kehna jo woh keh le",
+      "devanagari": "अभी कहना जो वो कह ले",
       "speaker": "Calm",
       "translation": "Let them say what they want now.",
       "explanation": "Indifference to criticism.",
@@ -894,6 +978,7 @@ export const _101: Song = {
     },
     {
       "original": "Baad me",
+      "devanagari": "बाद में",
       "speaker": "Calm",
       "translation": "Later on.",
       "explanation": "Referring to future consequences.",
@@ -901,6 +986,7 @@ export const _101: Song = {
     },
     {
       "original": "Me Bhool na jaaun, bhaav bhi khaun, ya na nibhau",
+      "devanagari": "मैं भूल ना जाऊँ, भाव भी खाऊँ, या ना निभाऊँ",
       "speaker": "Calm",
       "translation": "Whether I forget, act expensive, or don't fulfill...",
       "explanation": "Acknowledging that his attitude might change with success.",
@@ -914,6 +1000,7 @@ export const _101: Song = {
     },
     {
       "original": "Rishto ka theka ni liya",
+      "devanagari": "रिश्तों का ठेका नी लिया",
       "speaker": "Calm",
       "translation": "I haven't taken a contract for relationships.",
       "explanation": "He's not obligated to maintain every connection or please everyone.",
@@ -921,6 +1008,7 @@ export const _101: Song = {
     },
     {
       "original": "Abhi se apne bhi ajnabi hain kuch jo BT the thode se",
+      "devanagari": "अभी से अपने भी अजनबी हैं कुछ जो BT थे थोड़े से",
       "speaker": "Calm",
       "translation": "Even some of my own are strangers now, those who were a bit of a 'Bad Trip'.",
       "explanation": "Cutting off toxic friends/family who caused stress.",
@@ -935,6 +1023,7 @@ export const _101: Song = {
     },
     {
       "original": "Yaad hai aati jab hai quarter ander aise rishte baje mere lawde pe",
+      "devanagari": "याद है आती जब है quarter अंदर ऐसे रिश्ते बजे मेरे लौड़े पे",
       "speaker": "Calm",
       "translation": "I only remember them when I've had a quarter (alcohol), and I don't give a damn about those relations.",
       "explanation": "Vulgar Delhi slang to show total disregard for fake friends.",
@@ -948,6 +1037,7 @@ export const _101: Song = {
     },
     {
       "original": "Me bola me pehle bhi rehta tha touch me nahi",
+      "devanagari": "मैं बोला मैं पहले भी रहता था touch में नहीं",
       "speaker": "Calm",
       "translation": "I said I wasn't in touch with them before either.",
       "explanation": "He was always distant from fake people.",
@@ -955,6 +1045,7 @@ export const _101: Song = {
     },
     {
       "original": "Ye bata abhi kya alag hai? (kuch bhi nahi)",
+      "devanagari": "ये बता अभी क्या अलग है? (कुछ भी नहीं)",
       "speaker": "Calm",
       "translation": "Tell me, what's different now? (Nothing).",
       "explanation": "Fame hasn't changed his fundamental stance on people.",
@@ -969,6 +1060,7 @@ export const _101: Song = {
     },
     {
       "original": "Aur pehle se karra tha hustle jab",
+      "devanagari": "और पहले से करा था hustle जब",
       "speaker": "Calm",
       "translation": "And I was already hustling back when...",
       "explanation": "Long-term commitment to the game.",
@@ -976,6 +1068,7 @@ export const _101: Song = {
     },
     {
       "original": "Papa ko lagta tha beta nasamajh hai",
+      "devanagari": "पापा को लगता था बेटा नासमझ है",
       "speaker": "Calm",
       "translation": "...Dad thought his son was naive/clueless.",
       "explanation": "Parents' initial skepticism about a rap career.",
@@ -990,6 +1083,7 @@ export const _101: Song = {
     },
     {
       "original": "Hoga jo bola tha pehle se pata tha thoda to khone ko dono pe bacha ni kuch bhi",
+      "devanagari": "होगा जो बोला था पहले से पता था थोड़ा तो खोने को दोनों पे बचा नी कुछ भी",
       "speaker": "Calm",
       "translation": "I knew what would happen, we both had nothing to lose.",
       "explanation": "The 'nothing to lose' mentality gave them the hunger to succeed.",
@@ -997,6 +1091,7 @@ export const _101: Song = {
     },
     {
       "original": "Bole ye",
+      "devanagari": "बोले ये",
       "speaker": "Calm",
       "translation": "They say...",
       "explanation": "Transition line.",
@@ -1004,6 +1099,7 @@ export const _101: Song = {
     },
     {
       "original": "Dolo se bolu me zoro se sick hu me Zorro se Piccolo bharose bethe to",
+      "devanagari": "Dolo से बोलू मैं ज़ोरो से sick हूँ मैं Zorro से Piccolo भरोसे बैठे तो",
       "speaker": "Calm",
       "translation": "I speak louder than Dolo (medicine), I'm sicker than Zoro or Piccolo, if you're relying on them...",
       "explanation": "Rapid-fire internal rhymes referencing Dolo-650, Zoro (One Piece), and Piccolo (DBZ).",
@@ -1022,6 +1118,7 @@ export const _101: Song = {
     },
     {
       "original": "Jhuk beam",
+      "devanagari": "झुक beam",
       "speaker": "Calm",
       "translation": "Duck for the beam.",
       "explanation": "Warning of a lyrical attack or 'beam' of energy.",
@@ -1029,6 +1126,7 @@ export const _101: Song = {
     },
     {
       "original": "Khaaoge",
+      "devanagari": "खाओगे",
       "speaker": "Calm",
       "translation": "You will take the hit.",
       "explanation": "Consequences of challenging them.",
@@ -1036,6 +1134,7 @@ export const _101: Song = {
     },
     {
       "original": "Paer rakhe dono",
+      "devanagari": "पैर रखे दोनो",
       "speaker": "Calm",
       "translation": "Kept both feet...",
       "explanation": "Setting up the next line.",
@@ -1043,6 +1142,7 @@ export const _101: Song = {
     },
     {
       "original": "Nao pe",
+      "devanagari": "नाव पे",
       "speaker": "Calm",
       "translation": "...On the boat.",
       "explanation": "Meaning they are fully committed or navigating the waves of the industry.",
@@ -1050,6 +1150,7 @@ export const _101: Song = {
     },
     {
       "original": "Jalegi badi",
+      "devanagari": "जलेगी बड़ी",
       "speaker": "Calm",
       "translation": "It will burn a lot.",
       "explanation": "Envy of others will burn bright.",
@@ -1057,6 +1158,7 @@ export const _101: Song = {
     },
     {
       "original": "Chao me",
+      "devanagari": "छाँव में",
       "speaker": "Calm",
       "translation": "In the shade.",
       "explanation": "Even in comfortable situations, they'll feel the burn of SM's success.",
@@ -1064,6 +1166,7 @@ export const _101: Song = {
     },
     {
       "original": "Fategi poori",
+      "devanagari": "फटेगी पूरी",
       "speaker": "Calm",
       "translation": "It will completely tear.",
       "explanation": "Slang for being extremely scared or shocked.",
@@ -1071,6 +1174,7 @@ export const _101: Song = {
     },
     {
       "original": "Gaao ki",
+      "devanagari": "गाँव की",
       "speaker": "Calm",
       "translation": "The whole village's.",
       "explanation": "Everyone around will be shocked.",
@@ -1078,6 +1182,7 @@ export const _101: Song = {
     },
     {
       "original": "Karenge jab ye",
+      "devanagari": "करेंगे जब ये",
       "speaker": "Calm",
       "translation": "When they do this...",
       "explanation": "Transition.",
@@ -1085,6 +1190,7 @@ export const _101: Song = {
     },
     {
       "original": "Shaolin",
+      "devanagari": "Shaolin",
       "speaker": "Calm",
       "translation": "Shaolin.",
       "explanation": "Referring to Kung Fu/Shaolin techniques as a metaphor for their disciplined rap style.",
@@ -1098,6 +1204,7 @@ export const _101: Song = {
     },
     {
       "original": "Usse pehle jao",
+      "devanagari": "उससे पहले जाओ",
       "speaker": "Calm",
       "translation": "Before that, go...",
       "explanation": "Transition.",
@@ -1105,6 +1212,7 @@ export const _101: Song = {
     },
     {
       "original": "Laao gin",
+      "devanagari": "लाओ gin",
       "speaker": "Calm",
       "translation": "...Bring the Gin.",
       "explanation": "Rhyme scheme continuation and a call for a drink.",
@@ -1131,6 +1239,7 @@ export const _101: Song = {
     },
     {
       "original": "Hum Ruke ni to",
+      "devanagari": "हम रुके नी तो",
       "speaker": "Calm",
       "translation": "If we don't stop, then...",
       "explanation": "Unstoppable momentum.",
@@ -1138,6 +1247,7 @@ export const _101: Song = {
     },
     {
       "original": "Foul ye",
+      "devanagari": "Foul ये",
       "speaker": "Calm",
       "translation": "This is a foul.",
       "explanation": "Their skill is so high it feels illegal/unfair to others.",
@@ -1145,6 +1255,7 @@ export const _101: Song = {
     },
     {
       "original": "Kare me khelu rowdy",
+      "devanagari": "करे मैं खेलू rowdy",
       "speaker": "Calm",
       "translation": "I play it rowdy.",
       "explanation": "Aggressive, unfiltered style.",
@@ -1152,6 +1263,7 @@ export const _101: Song = {
     },
     {
       "original": "To bata kata cake kaha hai",
+      "devanagari": "तो बता कटा cake कहाँ है",
       "speaker": "Calm",
       "translation": "Then tell me, where is the cut cake?",
       "explanation": "Idiom for sharing the success/money.",
@@ -1159,6 +1271,7 @@ export const _101: Song = {
     },
     {
       "original": "Batega sabme tu leke aa (leke aa)",
+      "devanagari": "बटेगा सबमें तू लेके आ (लेके आ)",
       "speaker": "Calm",
       "translation": "It will be shared among all, you bring it.",
       "explanation": "Seedhe Maut takes care of their team/crew.",
@@ -1166,6 +1279,7 @@ export const _101: Song = {
     },
     {
       "original": "Kahi aisi ni unity dekhega",
+      "devanagari": "कहीं ऐसी नी unity देखेगा",
       "speaker": "Calm",
       "translation": "You won't see such unity anywhere else.",
       "explanation": "Boasting about the strength of the TBS (The Big Scene) or SM crew.",
@@ -1173,6 +1287,7 @@ export const _101: Song = {
     },
     {
       "original": "Gharwaalo ko pata tha chhati se ladka ye",
+      "devanagari": "घरवालों को पता था छठी से लड़का ये",
       "speaker": "Calm",
       "translation": "My family knew since 6th grade that this boy...",
       "explanation": "Long-standing rebellious or unique nature.",
@@ -1180,6 +1295,7 @@ export const _101: Song = {
     },
     {
       "original": "Mandir me maatha nahi tekega",
+      "devanagari": "मंदिर में माथा नहीं टेकेगा",
       "speaker": "Calm",
       "translation": "...Won't bow his head in a temple.",
       "explanation": "Suggesting a rebellious, non-conformist, or perhaps atheist/self-reliant attitude.",
@@ -1187,6 +1303,7 @@ export const _101: Song = {
     },
     {
       "original": "101",
+      "devanagari": "101",
       "speaker": "Calm",
       "translation": "101",
       "explanation": "Hook.",
@@ -1194,6 +1311,7 @@ export const _101: Song = {
     },
     {
       "original": "Daaka Daala maala maal hai crew",
+      "devanagari": "डाका डाला माला माल है crew",
       "speaker": "Encore and Calm",
       "translation": "Robbed the place, the crew is rich.",
       "explanation": "Hook repetition.",
@@ -1201,6 +1319,7 @@ export const _101: Song = {
     },
     {
       "original": "Shaakal aaya shakalaka boom",
+      "devanagari": "शाकाल आया शकलका boom",
       "speaker": "Encore and Calm",
       "translation": "Shaakal came, Shaka Laka Boom.",
       "explanation": "Hook repetition.",
@@ -1208,6 +1327,7 @@ export const _101: Song = {
     },
     {
       "original": "Me Kaka, Tiki Taka kaatu chu",
+      "devanagari": "मी Kaka, Tiki Taka काटू चू",
       "speaker": "Encore and Calm",
       "translation": "I'm Kaka, Tiki Taka, cutting through.",
       "explanation": "Hook repetition.",
@@ -1215,6 +1335,7 @@ export const _101: Song = {
     },
     {
       "original": "Laaya saath me bhaala yabadabadoo",
+      "devanagari": "लाया साथ में भाला yabadabadoo",
       "speaker": "Encore and Calm",
       "translation": "Brought a spear, Yabadabadoo!",
       "explanation": "Hook repetition.",
@@ -1229,6 +1350,7 @@ export const _101: Song = {
     },
     {
       "original": "Bhai 101",
+      "devanagari": "भाई 101",
       "speaker": "Encore and Calm",
       "translation": "Brother 101.",
       "explanation": "Hook repetition.",
@@ -1236,6 +1358,7 @@ export const _101: Song = {
     },
     {
       "original": "Kaale dhabbe paale",
+      "devanagari": "काले धब्बे पाले",
       "speaker": "Encore and Calm",
       "translation": "Nurtured the black spots.",
       "explanation": "Hook repetition.",
@@ -1250,6 +1373,7 @@ export const _101: Song = {
     },
     {
       "original": "Hum pille",
+      "devanagari": "हम पिल्ले",
       "speaker": "Encore and Calm",
       "translation": "We pups.",
       "explanation": "Hook repetition.",
@@ -1264,6 +1388,7 @@ export const _101: Song = {
     },
     {
       "original": "101",
+      "devanagari": "101",
       "speaker": "Encore and Calm",
       "translation": "101",
       "explanation": "Hook repetition.",
@@ -1271,6 +1396,7 @@ export const _101: Song = {
     },
     {
       "original": "Ek se ek hai mere 100 bhes",
+      "devanagari": "एक से एक है मेरे 100 भेस",
       "speaker": "Encore and Calm",
       "translation": "I have 100 avatars, each better than the last.",
       "explanation": "Final hook line.",

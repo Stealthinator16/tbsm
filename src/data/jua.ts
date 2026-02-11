@@ -9,6 +9,7 @@ export const jua: Song = {
   "lyrics": [
     {
       "original": "Sez on the beat boy",
+      "devanagari": "Sez on the beat boy",
       "speaker": "Seedhe Maut",
       "translation": "Sez on the beat, boy.",
       "explanation": "This is the signature producer tag of Sez on the Beat, who produced the track 'Jua' and the entire 'Nayaab' album.",
@@ -28,6 +29,7 @@ export const jua: Song = {
     },
     {
       "original": "Unhe bola bhaago door matt",
+      "devanagari": "उन्हें बोला भागो दूर मत",
       "speaker": "Calm",
       "translation": "I told them to run, but not too far.",
       "explanation": "Setting a scene of urgency or a warning, possibly referring to people trying to escape their problems or the authorities.",
@@ -35,6 +37,7 @@ export const jua: Song = {
     },
     {
       "original": "Khoya kya tu puch matt",
+      "devanagari": "खोया क्या तू पूछ मत",
       "speaker": "Calm",
       "translation": "Don't ask what I've lost.",
       "explanation": "A gambler's lament where the losses are so significant and painful that they'd rather not talk about them.",
@@ -42,6 +45,7 @@ export const jua: Song = {
     },
     {
       "original": "Wo maarna chahte bada haath",
+      "devanagari": "वो मारना चाहते बड़ा हाथ",
       "speaker": "Calm",
       "translation": "They want to hit the jackpot.",
       "explanation": "'Bada haath maarna' is a common Hindi idiom for pulling off a big heist or making a lot of money quickly through luck or shortcuts.",
@@ -55,6 +59,7 @@ export const jua: Song = {
     },
     {
       "original": "Par ni jante uski keemat",
+      "devanagari": "पर नी जानते उसकी कीमत",
       "speaker": "Calm",
       "translation": "But they don't know the price of it.",
       "explanation": "Suggests that the quest for a 'big win' comes with hidden costs—emotional, physical, or moral.",
@@ -62,6 +67,7 @@ export const jua: Song = {
     },
     {
       "original": "Jaha dikhe patte beth",
+      "devanagari": "जहाँ दिखे पत्ते बैठ",
       "speaker": "Calm",
       "translation": "He sits wherever cards are being played.",
       "explanation": "Describes the compulsive nature of the gambler who cannot resist a game when he see cards.",
@@ -75,6 +81,7 @@ export const jua: Song = {
     },
     {
       "original": "Jaan lage satte pe",
+      "devanagari": "जान लगे सट्टे पे",
       "speaker": "Calm",
       "translation": "Life is put on the line for a bet.",
       "explanation": "The stakes have evolved from just money ('Satta') to his very life and well-being.",
@@ -94,6 +101,7 @@ export const jua: Song = {
     },
     {
       "original": "Baap kare bag firr pack",
+      "devanagari": "बाप करे bag फिर pack",
       "speaker": "Calm",
       "translation": "Dad packs his bags again.",
       "explanation": "Suggests the instability of a gambler's life—constantly moving or fleeing from creditors due to losses.",
@@ -101,6 +109,7 @@ export const jua: Song = {
     },
     {
       "original": "Kaash lage jackpot dad",
+      "devanagari": "काश लगे jackpot dad",
       "speaker": "Calm",
       "translation": "I wish Dad hits the jackpot.",
       "explanation": "The desperate, innocent hope of a child that one big win will solve all the family's problems.",
@@ -108,6 +117,7 @@ export const jua: Song = {
     },
     {
       "original": "Baap ki hai Kismat trash",
+      "devanagari": "बाप की है किस्मत trash",
       "speaker": "Calm",
       "translation": "Dad's luck is trash.",
       "explanation": "A harsh realization that the 'big win' isn't coming because the father is perpetually unlucky.",
@@ -121,6 +131,7 @@ export const jua: Song = {
     },
     {
       "original": "Dilaaye g i joe jeete jab bhi cash",
+      "devanagari": "दिलाए G.I. Joe जीते जब भी cash",
       "speaker": "Calm",
       "translation": "He'd buy me G.I. Joes whenever he won cash.",
       "explanation": "Recalling rare moments of happiness where gambling wins were used to buy toys for the child.",
@@ -134,6 +145,7 @@ export const jua: Song = {
     },
     {
       "original": "Par ye gandi aeb doobaye poori fam ko to boli Ma mujhe door hi reh",
+      "devanagari": "पर ये गंदी ऐब डुबाए पूरी fam को तो बोली माँ मुझे दूर ही रह",
       "speaker": "Calm",
       "translation": "But this bad vice is drowning the whole family, so Mom told me to stay away.",
       "explanation": "'Aeb' refers to a vice or bad habit. The mother is trying to protect the narrator from the father's toxic cycle.",
@@ -153,6 +165,7 @@ export const jua: Song = {
     },
     {
       "original": "Wo bole",
+      "devanagari": "वो बोले",
       "speaker": "Calm",
       "translation": "He says...",
       "explanation": "Shifting the perspective to the gambler's (the father's) justifications.",
@@ -160,6 +173,7 @@ export const jua: Song = {
     },
     {
       "original": "Wo jagah jaaye bhaad me sach sunn",
+      "devanagari": "वो जगह जाए भाड़ में सच सुन",
       "speaker": "Calm",
       "translation": "Let that place go to hell, listen to the truth.",
       "explanation": "The father dismisses the gambling dens and attempts to explain his 'real' motives.",
@@ -174,6 +188,7 @@ export const jua: Song = {
     },
     {
       "original": "Me betha waha taaki sahi ho sab",
+      "devanagari": "मैं बैठा वहाँ ताकि सही हो सब",
       "speaker": "Calm",
       "translation": "I sat there so everything would be right.",
       "explanation": "A classic gambler's delusion: believing that more gambling is the only way to fix the mess created by gambling.",
@@ -181,6 +196,7 @@ export const jua: Song = {
     },
     {
       "original": "Mile tumhe jo bhi chahiye tab",
+      "devanagari": "मिले तुम्हें जो भी चाहिए तब",
       "speaker": "Calm",
       "translation": "So you could get whatever you needed then.",
       "explanation": "The gambler claims he is playing for the sake of providing for his family.",
@@ -188,6 +204,7 @@ export const jua: Song = {
     },
     {
       "original": "Wapas du wo saare paise Ma ne gehne girvi rakh k mujhe diye the tab",
+      "devanagari": "वापस दू वो सारे पैसे माँ ने गहने गिरवी रख के मुझे दिए थे तब",
       "speaker": "Calm",
       "translation": "To return the money Mom gave me after mortgaging her jewelry.",
       "explanation": "A heartbreaking detail common in middle-class Indian households where jewelry is the last asset sold to cover debts.",
@@ -201,6 +218,7 @@ export const jua: Song = {
     },
     {
       "original": "Gire case jo peeche padhe fеku muh pe paise bolu aage kahio matt",
+      "devanagari": "गिरे case जो पीछे पड़े फेकू मुँह पे पैसे बोलू आगे कहियो मत",
       "speaker": "Calm",
       "translation": "If cases are filed against me, I'll throw money at them and tell them to stay quiet.",
       "explanation": "A fantasy of power where winning big would allow him to bribe his way out of legal and financial troubles.",
@@ -208,6 +226,7 @@ export const jua: Song = {
     },
     {
       "original": "Yе Jua Latt hai",
+      "devanagari": "ये जुआ लत है",
       "speaker": "Calm",
       "translation": "This gambling is an addiction.",
       "explanation": "The hook of the song, identifying gambling ('Jua') as a chronic 'Latt' (addiction).",
@@ -226,6 +245,7 @@ export const jua: Song = {
     },
     {
       "original": "Hai kua Talab hai",
+      "devanagari": "है कुआ तलब है",
       "speaker": "Calm",
       "translation": "It's a bottomless pit, it's a craving.",
       "explanation": "Metaphorically comparing gambling to a 'Kua' (well/pit) that swallows everything, driven by 'Talab' (intense craving).",
@@ -250,6 +270,7 @@ export const jua: Song = {
     },
     {
       "original": "Ye Jua Latt hai",
+      "devanagari": "ये जुआ लत है",
       "speaker": "Calm",
       "translation": "This gambling is an addiction.",
       "explanation": "Repetition for emphasis on the theme.",
@@ -264,6 +285,7 @@ export const jua: Song = {
     },
     {
       "original": "Hai kua Talab hai",
+      "devanagari": "है कुआ तलब है",
       "speaker": "Calm",
       "translation": "It's a bottomless pit, it's a craving.",
       "explanation": "Repetition emphasizing the inescapable nature of the vice.",
@@ -278,6 +300,7 @@ export const jua: Song = {
     },
     {
       "original": "Ye jua latt hai",
+      "devanagari": "ये जुआ लत है",
       "speaker": "Calm",
       "translation": "This gambling is an addiction.",
       "explanation": "Chorus continued.",
@@ -285,6 +308,7 @@ export const jua: Song = {
     },
     {
       "original": "Par abhi bani meri majboori",
+      "devanagari": "पर अभी बनी मेरी मजबूरी",
       "speaker": "Calm",
       "translation": "But now it has become my necessity.",
       "explanation": "The transition from gambling for fun to gambling because of 'majboori' (compulsion/debt).",
@@ -298,6 +322,7 @@ export const jua: Song = {
     },
     {
       "original": "Hai kua talab hai",
+      "devanagari": "है कुआ तलब है",
       "speaker": "Calm",
       "translation": "It's a bottomless pit, it's a craving.",
       "explanation": "Hook continues.",
@@ -305,6 +330,7 @@ export const jua: Song = {
     },
     {
       "original": "Ye maange kaise karu sab poori",
+      "devanagari": "ये माँगें कैसे करू सब पूरी",
       "speaker": "Calm",
       "translation": "How do I fulfill all these demands?",
       "explanation": "The crushing weight of financial expectations that the gambler can no longer meet.",
@@ -312,6 +338,7 @@ export const jua: Song = {
     },
     {
       "original": "Ye jua latt hai",
+      "devanagari": "ये जुआ लत है",
       "speaker": "Calm",
       "translation": "This gambling is an addiction.",
       "explanation": "Hook continues.",
@@ -319,6 +346,7 @@ export const jua: Song = {
     },
     {
       "original": "Poore tevar aage roulette table",
+      "devanagari": "पूरे तेवर आगे roulette table",
       "speaker": "Calm",
       "translation": "Full of attitude in front of the roulette table.",
       "explanation": "Maintaining a false sense of confidence and 'Tevar' (style/attitude) while losing it all.",
@@ -338,6 +366,7 @@ export const jua: Song = {
     },
     {
       "original": "Ghuma chahiye mujhe 1 aur 13 keval",
+      "devanagari": "घुमा चाहिए मुझे 1 और 13 केवल",
       "speaker": "Calm",
       "translation": "Spin it, I only want 1 and 13.",
       "explanation": "Specific numbers on the roulette wheel. 13 is often associated with bad luck, highlighting the irony.",
@@ -345,6 +374,7 @@ export const jua: Song = {
     },
     {
       "original": "Khali khali karo khali karo jeb harr",
+      "devanagari": "ख़ाली ख़ाली करो ख़ाली करो जेब हर",
       "speaker": "Calm",
       "translation": "Empty out, empty out every single pocket.",
       "explanation": "The ultimate result of the game: everyone involved ends up with empty pockets.",
@@ -352,6 +382,7 @@ export const jua: Song = {
     },
     {
       "original": "Khelre ho taash",
+      "devanagari": "खेलरे हो ताश",
       "speaker": "Encore ABJ",
       "translation": "You are playing cards.",
       "explanation": "Encore enters, directly addressing the subject (likely the father figure).",
@@ -365,6 +396,7 @@ export const jua: Song = {
     },
     {
       "original": "Parko me",
+      "devanagari": "पार्को में",
       "speaker": "Encore ABJ",
       "translation": "In the parks.",
       "explanation": "Refers to local parks where men often gather to gamble, a common sight in Indian neighborhoods.",
@@ -372,6 +404,7 @@ export const jua: Song = {
     },
     {
       "original": "Maa hai naraz",
+      "devanagari": "माँ है नाराज़",
       "speaker": "Encore ABJ",
       "translation": "Mom is angry.",
       "explanation": "Highlighting the domestic discord caused by the addiction.",
@@ -379,6 +412,7 @@ export const jua: Song = {
     },
     {
       "original": "11 baje",
+      "devanagari": "11 बजे",
       "speaker": "Encore ABJ",
       "translation": "At 11 PM.",
       "explanation": "Indicating the late hours and the neglect of family time.",
@@ -386,6 +420,7 @@ export const jua: Song = {
     },
     {
       "original": "Aap peere sharab",
+      "devanagari": "आप पीरे शराब",
       "speaker": "Encore ABJ",
       "translation": "You're drinking alcohol.",
       "explanation": "Gambling and alcoholism are shown as twin vices destroying the home.",
@@ -393,6 +428,7 @@ export const jua: Song = {
     },
     {
       "original": "Pta hai mujhe",
+      "devanagari": "पता है मुझे",
       "speaker": "Encore ABJ",
       "translation": "I know it.",
       "explanation": "The narrator is no longer a child; he sees the situation for what it is.",
@@ -400,6 +436,7 @@ export const jua: Song = {
     },
     {
       "original": "Ye bure nashe hai bure nashe hai bure nashe",
+      "devanagari": "ये बुरे नशे हैं बुरे नशे हैं बुरे नशे",
       "speaker": "Encore ABJ",
       "translation": "These are bad addictions, bad addictions, bad addictions.",
       "explanation": "Reiterating that these 'nashe' (intoxicants/habits) are purely destructive.",
@@ -413,6 +450,7 @@ export const jua: Song = {
     },
     {
       "original": "Bure fase bure fase bure",
+      "devanagari": "बुरे फसे बुरे फसे बुरे",
       "speaker": "Encore ABJ",
       "translation": "Badly trapped, badly trapped.",
       "explanation": "The feeling of being stuck in a cycle with no easy exit.",
@@ -420,6 +458,7 @@ export const jua: Song = {
     },
     {
       "original": "Lagi hai aag",
+      "devanagari": "लगी है आग",
       "speaker": "Encore ABJ",
       "translation": "There's a fire lit.",
       "explanation": "Metaphor for the chaos and destruction in their lives.",
@@ -427,6 +466,7 @@ export const jua: Song = {
     },
     {
       "original": "Sabhi jale",
+      "devanagari": "सभी जले",
       "speaker": "Encore ABJ",
       "translation": "Everyone is burning.",
       "explanation": "In an addicted household, every family member suffers the consequences ('burns').",
@@ -434,6 +474,7 @@ export const jua: Song = {
     },
     {
       "original": "Khada hu saath",
+      "devanagari": "खड़ा हूँ साथ",
       "speaker": "Encore ABJ",
       "translation": "I'm standing by you.",
       "explanation": "Despite the flaws, the son stays with the father, showing loyalty or cultural duty.",
@@ -441,6 +482,7 @@ export const jua: Song = {
     },
     {
       "original": "Chahu ki bas",
+      "devanagari": "चाहूँ कि बस",
       "speaker": "Encore ABJ",
       "translation": "I just wish...",
       "explanation": "Expressing his simple desire for peace.",
@@ -448,6 +490,7 @@ export const jua: Song = {
     },
     {
       "original": "Na bane mazak",
+      "devanagari": "ना बने मज़ाक",
       "speaker": "Encore ABJ",
       "translation": "...that it doesn't become a mockery.",
       "explanation": "Protecting the family's dignity from societal gossip and ridicule.",
@@ -455,6 +498,7 @@ export const jua: Song = {
     },
     {
       "original": "Mai tera sab",
+      "devanagari": "मैं तेरा सब",
       "speaker": "Encore ABJ",
       "translation": "I am everything of yours.",
       "explanation": "The son becomes the father's support system.",
@@ -462,6 +506,7 @@ export const jua: Song = {
     },
     {
       "original": "Aur tu mera baap",
+      "devanagari": "और तू मेरा बाप",
       "speaker": "Encore ABJ",
       "translation": "And you are my father.",
       "explanation": "Acknowledging the undeniable bond despite the pain caused.",
@@ -476,6 +521,7 @@ export const jua: Song = {
     },
     {
       "original": "Namastute namastute",
+      "devanagari": "नमस्तुते नमस्तुते",
       "speaker": "Encore ABJ",
       "translation": "I bow to you, I bow to you.",
       "explanation": "A respectful salutation. It's also a callback to Seedhe Maut's hit song 'Namastute'.",
@@ -489,6 +535,7 @@ export const jua: Song = {
     },
     {
       "original": "Juyein ki latt se pare rahein ,pare rahein",
+      "devanagari": "जुएं की लत से परे रहें, परे रहें",
       "speaker": "Encore ABJ",
       "translation": "Stay away from the addiction of gambling, stay away.",
       "explanation": "A plea or a prayer to stay beyond the reach of this vice.",
@@ -496,6 +543,7 @@ export const jua: Song = {
     },
     {
       "original": "Jo darr jae, fuck that mai vo launda naii hai",
+      "devanagari": "जो डर जाए, fuck that मैं वो लौंडा नई है",
       "speaker": "Encore ABJ",
       "translation": "The one who gets scared, fuck that, I'm not that guy.",
       "explanation": "Encore asserts his strength; he won't let fear or the situation break him.",
@@ -509,6 +557,7 @@ export const jua: Song = {
     },
     {
       "original": "Bas",
+      "devanagari": "बस",
       "speaker": "Encore ABJ",
       "translation": "Enough.",
       "explanation": "A call for an end to the madness.",
@@ -516,6 +565,7 @@ export const jua: Song = {
     },
     {
       "original": "Par satta baji bas ki naii hai",
+      "devanagari": "पर सट्टा बाज़ी बस की नई है",
       "speaker": "Encore ABJ",
       "translation": "But gambling is not my cup of tea / I can't control it.",
       "explanation": "'Bas ki nahi' means he either doesn't want to partake or the consequences are too much to handle.",
@@ -529,6 +579,7 @@ export const jua: Song = {
     },
     {
       "original": "Hai maa ke kuch vaade",
+      "devanagari": "है माँ के कुछ वादे",
       "speaker": "Encore ABJ",
       "translation": "There are some promises made to Mom.",
       "explanation": "His motivation to stay clean and succeed comes from his promises to his mother.",
@@ -536,6 +587,7 @@ export const jua: Song = {
     },
     {
       "original": "Hai jo khud nibhane",
+      "devanagari": "है जो ख़ुद निभाने",
       "speaker": "Encore ABJ",
       "translation": "Which I have to fulfill myself.",
       "explanation": "Taking personal responsibility for the family's future.",
@@ -543,6 +595,7 @@ export const jua: Song = {
     },
     {
       "original": "Sach hai yahan pe",
+      "devanagari": "सच है यहाँ पे",
       "speaker": "Encore ABJ",
       "translation": "The truth lies here.",
       "explanation": "Acknowledging the harsh reality of their situation.",
@@ -550,6 +603,7 @@ export const jua: Song = {
     },
     {
       "original": "Ye Jua Latt hai",
+      "devanagari": "ये जुआ लत है",
       "speaker": "Calm",
       "translation": "This gambling is an addiction.",
       "explanation": "Hook repeat.",
@@ -557,6 +611,7 @@ export const jua: Song = {
     },
     {
       "original": "Hai kua Talab hai",
+      "devanagari": "है कुआ तलब है",
       "speaker": "Calm",
       "translation": "It's a bottomless pit, it's a craving.",
       "explanation": "Hook repeat.",
@@ -564,6 +619,7 @@ export const jua: Song = {
     },
     {
       "original": "Ye Jua Latt hai",
+      "devanagari": "ये जुआ लत है",
       "speaker": "Calm",
       "translation": "This gambling is an addiction.",
       "explanation": "Hook repeat.",
@@ -571,6 +627,7 @@ export const jua: Song = {
     },
     {
       "original": "Hai kua Talab hai",
+      "devanagari": "है कुआ तलब है",
       "speaker": "Calm",
       "translation": "It's a bottomless pit, it's a craving.",
       "explanation": "Hook repeat.",
@@ -578,6 +635,7 @@ export const jua: Song = {
     },
     {
       "original": "Ye jua latt hai",
+      "devanagari": "ये जुआ लत है",
       "speaker": "Calm",
       "translation": "This gambling is an addiction.",
       "explanation": "Hook repeat.",
@@ -585,6 +643,7 @@ export const jua: Song = {
     },
     {
       "original": "Par abhi bani meri majboori",
+      "devanagari": "पर अभी बनी मेरी मजबूरी",
       "speaker": "Calm",
       "translation": "But now it has become my necessity.",
       "explanation": "Final emphasis on how a habit turns into a forced choice.",
@@ -592,6 +651,7 @@ export const jua: Song = {
     },
     {
       "original": "Hai kua talab hai",
+      "devanagari": "है कुआ तलब है",
       "speaker": "Calm",
       "translation": "It's a bottomless pit, it's a craving.",
       "explanation": "Hook repeat.",
@@ -599,6 +659,7 @@ export const jua: Song = {
     },
     {
       "original": "Ye maange kaise karu sab poori",
+      "devanagari": "ये माँगें कैसे करू सब पूरी",
       "speaker": "Calm",
       "translation": "How do I fulfill all these demands?",
       "explanation": "The despair of being unable to fix things.",
@@ -606,6 +667,7 @@ export const jua: Song = {
     },
     {
       "original": "Ye jua latt hai",
+      "devanagari": "ये जुआ लत है",
       "speaker": "Calm",
       "translation": "This gambling is an addiction.",
       "explanation": "Hook repeat.",
@@ -613,6 +675,7 @@ export const jua: Song = {
     },
     {
       "original": "Poore tevar aage roulette table",
+      "devanagari": "पूरे तेवर आगे roulette table",
       "speaker": "Calm",
       "translation": "Full of attitude in front of the roulette table.",
       "explanation": "The image of the gambler facing the table one last time.",
@@ -620,6 +683,7 @@ export const jua: Song = {
     },
     {
       "original": "Ghuma chahiye mujhe 1 aur 13 keval",
+      "devanagari": "घुमा चाहिए मुझे 1 और 13 केवल",
       "speaker": "Calm",
       "translation": "Spin it, I only want 1 and 13.",
       "explanation": "Relying on specific luck to get out of the hole.",
@@ -627,6 +691,7 @@ export const jua: Song = {
     },
     {
       "original": "Khali khali karo khali karo jeb harr",
+      "devanagari": "ख़ाली ख़ाली करो ख़ाली करो जेब हर",
       "speaker": "Calm",
       "translation": "Empty out, empty out every pocket.",
       "explanation": "The inevitable conclusion of the cycle.",
@@ -634,6 +699,7 @@ export const jua: Song = {
     },
     {
       "original": "Ye jua latt hai",
+      "devanagari": "ये जुआ लत है",
       "speaker": "Calm",
       "translation": "This gambling is an addiction.",
       "explanation": "Outro.",
@@ -641,6 +707,7 @@ export const jua: Song = {
     },
     {
       "original": "Latt hai",
+      "devanagari": "लत है",
       "speaker": "Calm",
       "translation": "It's an addiction.",
       "explanation": "Final fading words emphasizing the central theme.",

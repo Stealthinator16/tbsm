@@ -9,6 +9,7 @@ export const naksha: Song = {
   "lyrics": [
     {
       "original": "हा-हा, हा-हा, हा-हा, हा-हा",
+      "romanized": "Haa-haa, haa-haa, haa-haa, haa-haa",
       "speaker": "Seedhe Maut",
       "translation": "Ha-ha, ha-ha, ha-ha, ha-ha",
       "explanation": "Introductory ad-libs setting the energetic and slightly mocking tone of the track.",
@@ -16,6 +17,7 @@ export const naksha: Song = {
     },
     {
       "original": "रा-रा, रा-रा-रा-रा-रा-रा",
+      "romanized": "Raa-raa, raa-raa-raa-raa-raa-raa",
       "speaker": "Seedhe Maut",
       "translation": "Ra-ra, ra-ra-ra-ra-ra-ra",
       "explanation": "Melodic ad-libs used as a bridge into the rhythmic structure of the song.",
@@ -23,6 +25,7 @@ export const naksha: Song = {
     },
     {
       "original": "चस्का, चस्का, चस्का, चस्का",
+      "romanized": "Chaskaa, chaskaa, chaskaa, chaskaa",
       "speaker": "Seedhe Maut",
       "translation": "Addiction, addiction, addiction, addiction",
       "explanation": "Refers to the 'addiction' or craving for the hustle, the city life, or the art of rap.",
@@ -36,6 +39,7 @@ export const naksha: Song = {
     },
     {
       "original": "रा-रा, रा-रा-रा-रा-रा-रा",
+      "romanized": "Raa-raa, raa-raa-raa-raa-raa-raa",
       "speaker": "Seedhe Maut",
       "translation": "Ra-ra, ra-ra-ra-ra-ra-ra",
       "explanation": "Continuing the melodic intro ad-libs.",
@@ -43,6 +47,7 @@ export const naksha: Song = {
     },
     {
       "original": "नक्शा, नक्शा, नक्शा, नक्शा",
+      "romanized": "Nakshaa, nakshaa, nakshaa, nakshaa",
       "speaker": "Seedhe Maut",
       "translation": "Map, map, map, map",
       "explanation": "The title of the song; it refers to the geography of Delhi and the duo's personal 'blueprint' for success.",
@@ -56,6 +61,7 @@ export const naksha: Song = {
     },
     {
       "original": "राजधानी lap पे लगाया मैं तो लौंडो की गांड जलती है, नी कोई दोहराए",
+      "romanized": "Raajadhaanee lap pe lagaayaa main to laundo kee gaanda jalatee hai, nee koee doharaae",
       "speaker": "Encore ABJ",
       "translation": "I've put the capital on my lap, and these guys are jealous; no one can deny it.",
       "explanation": "Encore claims dominance over Delhi (the capital), suggesting he treats the city like his own territory, causing envy among peers.",
@@ -75,6 +81,7 @@ export const naksha: Song = {
     },
     {
       "original": "वो जाने मेरा नाम क्या है, काम क्या है, शहर क्या है",
+      "romanized": "Vo jaane meraa naama kyaa hai, kaama kyaa hai, shahara kyaa hai",
       "speaker": "Encore ABJ",
       "translation": "She/They know what my name is, what my work is, and what my city is.",
       "explanation": "Refers to his growing fame where his identity and his association with Delhi are well-established.",
@@ -82,6 +89,7 @@ export const naksha: Song = {
     },
     {
       "original": "जानते नी शहर में है चलता क्या है",
+      "romanized": "Jaanate nee shahara men hai chalataa kyaa hai",
       "speaker": "Encore ABJ",
       "translation": "They don't know what actually goes down in the city.",
       "explanation": "A jab at outsiders or 'fake' people who don't understand the gritty reality of Delhi's streets.",
@@ -89,6 +97,7 @@ export const naksha: Song = {
     },
     {
       "original": "कराऊँ तुझे दर्शन, Delhi के नाले के पार रहा हूँ, कहते उसे Jamna है",
+      "romanized": "Karaaoon tujhe darshana, Delhi ke naale ke paara rahaa hoon, kahate use Jamna hai",
       "speaker": "Encore ABJ",
       "translation": "Let me give you a tour; I’ve lived across the Delhi drain—they call it Jamna.",
       "explanation": "Refers to 'Jamnapaar' (East Delhi), separated by the Yamuna river. Historically, this area was considered less developed/rougher.",
@@ -102,6 +111,7 @@ export const naksha: Song = {
     },
     {
       "original": "कभी यहाँ कुत्ते भौंके \"भाऊ\", कभी यहाँ घोड़े चलते \"थायँ\"",
+      "romanized": "Kabhee yahaan kutte bhaunke \\\"bhaaoo\\\", kabhee yahaan ghore chalate \\\"thaayan\\\"",
       "speaker": "Encore ABJ",
       "translation": "Sometimes dogs bark 'Bhau' here, sometimes guns go 'Thayn'.",
       "explanation": "A play on sounds. 'Bhau' mimics a bark, and 'Ghodas' (horses) is slang for guns. 'Thayn' is the onomatopoeia for a gunshot.",
@@ -115,6 +125,7 @@ export const naksha: Song = {
     },
     {
       "original": "जनम हुआ खत्ते के पास वाले flat'on में, colony का नाम Ghazipur था (Ghazipur)",
+      "romanized": "Janama huaa khatte ke paasa vaale flat'on men, colony kaa naama Ghazipur thaa (Ghazipur)",
       "speaker": "Encore ABJ",
       "translation": "I was born in the flats near the landfill; the colony was named Ghazipur.",
       "explanation": "Encore references his upbringing near the massive Ghazipur landfill in East Delhi, emphasizing his humble and gritty roots.",
@@ -139,6 +150,7 @@ export const naksha: Song = {
     },
     {
       "original": "Park'on में कुत्ते के पिल्लों को पानी पिला रहे थे मैं और Apoorva (Apoorva)",
+      "romanized": "Park'on men kutte ke pillon ko paanee pilaa rahe the main aura Apoorva (Apoorva)",
       "speaker": "Encore ABJ",
       "translation": "Apoorva and I were giving water to puppies in the parks.",
       "explanation": "A personal childhood memory with his friend Apoorva, showing a softer side amidst the street narrative.",
@@ -153,6 +165,7 @@ export const naksha: Song = {
     },
     {
       "original": "Kalyan Puri भाई बैठा एक और Khichripur में है scam करे दूसरा (Scam)",
+      "romanized": "Kalyan Puri bhaaee baithaa eka aura Khichripur men hai scam kare doosaraa (Scam)",
       "speaker": "Encore ABJ",
       "translation": "One brother is in Kalyan Puri, another is running a scam in Khichripur.",
       "explanation": "Names specific East Delhi localities known for being low-income and high-hustle areas.",
@@ -171,6 +184,7 @@ export const naksha: Song = {
     },
     {
       "original": "\"School की donation है\" बोलके, पड़ोसियों से ऐंठ रहा है खूब सारा रोकड़ा (Cash)",
+      "romanized": "\\\"School kee donation hai\\\" bolake, parosiyon se aintha rahaa hai khooba saaraa rokaraa (Cash)",
       "speaker": "Encore ABJ",
       "translation": "Lying about 'school donations' to hustle a lot of cash out of neighbors.",
       "explanation": "A common street hustle/scam where kids or teens would collect money from neighbors under false pretenses.",
@@ -190,6 +204,7 @@ export const naksha: Song = {
     },
     {
       "original": "पांचवीं में घर हुआ change, आया खत्ते की परली side, जिसे कहते हैं Phase-3",
+      "romanized": "Paanchaveen men ghara huaa change, aayaa khatte kee paralee side, jise kahate hain Phase-3",
       "speaker": "Encore ABJ",
       "translation": "Moved houses in 5th grade, came to the other side of the landfill, called Phase-3.",
       "explanation": "Refers to Mayur Vihar Phase-3, another prominent East Delhi locality near the border.",
@@ -203,6 +218,7 @@ export const naksha: Song = {
     },
     {
       "original": "हाँ, Khora के लौंडे हैं street smart, Gharoli के लौंडे हैं देसी",
+      "romanized": "Haan, Khora ke launde hain street smart, Gharoli ke launde hain desee",
       "speaker": "Encore ABJ",
       "translation": "Yeah, Khora boys are street smart, Gharoli boys are desi.",
       "explanation": "Khora and Gharoli are areas on the Delhi-UP border. He's categorizing the 'vibe' of different neighborhoods.",
@@ -221,6 +237,7 @@ export const naksha: Song = {
     },
     {
       "original": "हाँ, Kondli के लौंडे हैं कांडी, नी सहते हैं Noida के बेइज्जती",
+      "romanized": "Haan, Kondli ke launde hain kaandee, nee sahate hain Noida ke beijjatee",
       "speaker": "Encore ABJ",
       "translation": "Yeah, Kondli boys are troublemakers; they don't take insults from Noida folks.",
       "explanation": "'Kandi' refers to someone who does 'kaand' (notorious acts). There's often a local rivalry between Delhi border areas and Noida.",
@@ -239,6 +256,7 @@ export const naksha: Song = {
     },
     {
       "original": "कभी Majnu ke tille पे momos, कभी Shahdara के station पे pastries",
+      "romanized": "Kabhee Majnu ke tille pe momos, kabhee Shahdara ke station pe pastries",
       "speaker": "Encore ABJ",
       "translation": "Sometimes momos at Majnu ka Tilla, sometimes pastries at Shahdara station.",
       "explanation": "Mapping the food habits associated with specific Delhi spots. Majnu ka Tilla is a famous Tibetan colony.",
@@ -258,6 +276,7 @@ export const naksha: Song = {
     },
     {
       "original": "East side मेरे दोस्तों की धरती है, लौंडे असली पर कपड़े नकली",
+      "romanized": "East side mere doston kee dharatee hai, launde asalee para kapare nakalee",
       "speaker": "Encore ABJ",
       "translation": "The East side is my friends' turf; the guys are real, even if the clothes are fake.",
       "explanation": "A classic hip-hop sentiment—authenticity of character ('realness') matters more than wearing original designer brands (often using first-copies from local markets).",
@@ -265,6 +284,7 @@ export const naksha: Song = {
     },
     {
       "original": "यहाँ आना है तो आ, तेरी मर्जी, तू खो जाएगा गलियों में Laxmi Nagar की",
+      "romanized": "Yahaan aanaa hai to aa, teree marjee, too kho jaaegaa galiyon men Laxmi Nagar kee",
       "speaker": "Encore ABJ",
       "translation": "Come here if you want, it's up to you, but you'll get lost in the alleys of Laxmi Nagar.",
       "explanation": "Laxmi Nagar is famous for its extremely narrow, maze-like congested streets where outsiders easily lose their way.",
@@ -284,6 +304,7 @@ export const naksha: Song = {
     },
     {
       "original": "तोड़े Seelampur में पसली, फिर जाकर Yamuna Bank में मस्ती",
+      "romanized": "Tore Seelampur men pasalee, phira jaakara Yamuna Bank men mastee",
       "speaker": "Encore ABJ",
       "translation": "Broke ribs in Seelampur, then chilled out at Yamuna Bank.",
       "explanation": "Seelampur is known for its scrap market and tough environment. Yamuna Bank is a nearby area where people often hang out.",
@@ -303,6 +324,7 @@ export const naksha: Song = {
     },
     {
       "original": "Jamnapaar का नक्शा खींचा, पढ़ले तू आ अगर है तेरे बस की",
+      "romanized": "Jamnapaar kaa nakshaa kheenchaa, parhale too aa agara hai tere basa kee",
       "speaker": "Encore ABJ",
       "translation": "I’ve drawn the map of Jamnapaar; come read it if you’re capable enough.",
       "explanation": "He has laid out the life of East Delhi in his lyrics; he challenges others to see if they can survive or understand that life.",
@@ -316,6 +338,7 @@ export const naksha: Song = {
     },
     {
       "original": "राजधानी हथियार, हत्थे चलते दाएं-बाएं",
+      "romanized": "Raajadhaanee hathiyaara, hatthe chalate daaen-baaen",
       "speaker": "Encore ABJ",
       "translation": "The capital is a weapon; hands move left and right.",
       "explanation": "Likening the city to a weapon. 'Hatthe' suggests physical altercations or quick movements in the streets.",
@@ -330,6 +353,7 @@ export const naksha: Song = {
     },
     {
       "original": "जल्दी ढूंढो उसका घर, छिपा बैठा कहाँ है, कहाँ है",
+      "romanized": "Jaldee dhoondho usakaa ghara, chhipaa baithaa kahaan hai, kahaan hai",
       "speaker": "Encore ABJ",
       "translation": "Quickly find his house; where is he hiding? Where is he?",
       "explanation": "Creating a sense of a chase or a street conflict where someone is being hunted down.",
@@ -337,6 +361,7 @@ export const naksha: Song = {
     },
     {
       "original": "जैसे मेला, बंदे गेड़ियों में मारे साये-साये",
+      "romanized": "Jaise melaa, bande geriyon men maare saaye-saaye",
       "speaker": "Encore ABJ",
       "translation": "Like a fair, guys zooming past in 'gedis'.",
       "explanation": "'Gedi' refers to cruising around in cars or bikes, often at high speeds ('saaye-saaye' represents the whooshing sound).",
@@ -356,6 +381,7 @@ export const naksha: Song = {
     },
     {
       "original": "इससे पहले होता hi, उसका हुआ bye-bye",
+      "romanized": "Isase pahale hotaa hi, usakaa huaa bye-bye",
       "speaker": "Encore ABJ",
       "translation": "Before a 'hi' could happen, it was already 'bye-bye' for him.",
       "explanation": "Indicating how quickly things escalate or end in the streets—getting eliminated before you even realize it.",
@@ -370,6 +396,7 @@ export const naksha: Song = {
     },
     {
       "original": "खत्ता खोका, पक्का मेरा",
+      "romanized": "Khattaa khokaa, pakkaa meraa",
       "speaker": "Encore ABJ",
       "translation": "The landfill and the cabin/hustle, they are surely mine.",
       "explanation": "'Khoka' can mean a small shop/cabin or slang for a large sum of money. Here it asserts his ownership over his territory.",
@@ -384,6 +411,7 @@ export const naksha: Song = {
     },
     {
       "original": "चस्का, चस्का, चस्का, चस्का",
+      "romanized": "Chaskaa, chaskaa, chaskaa, chaskaa",
       "speaker": "Encore ABJ",
       "translation": "Addiction, addiction, addiction, addiction",
       "explanation": "Reiteration of the 'chaska' theme—addiction to the game.",
@@ -391,6 +419,7 @@ export const naksha: Song = {
     },
     {
       "original": "Career मेरा इनके लिए है",
+      "romanized": "Career meraa inake lie hai",
       "speaker": "Encore ABJ",
       "translation": "My career is for them.",
       "explanation": "Dedicated his success to the people and places he’s rapping about.",
@@ -398,6 +427,7 @@ export const naksha: Song = {
     },
     {
       "original": "नक्शा, नक्शा, नक्शा, नक्शा",
+      "romanized": "Nakshaa, nakshaa, nakshaa, nakshaa",
       "speaker": "Encore ABJ",
       "translation": "Map, map, map, map",
       "explanation": "Repetition of the central theme.",
@@ -405,6 +435,7 @@ export const naksha: Song = {
     },
     {
       "original": "Delhi, Jamna, खत्ता मेरा",
+      "romanized": "Delhi, Jamna, khattaa meraa",
       "speaker": "Encore ABJ",
       "translation": "Delhi, Jamna, the landfill—they are mine.",
       "explanation": "Claiming his heritage and roots in these specific parts of the city.",
@@ -412,6 +443,7 @@ export const naksha: Song = {
     },
     {
       "original": "चस्का, चस्का, चस्का, चस्का",
+      "romanized": "Chaskaa, chaskaa, chaskaa, chaskaa",
       "speaker": "Encore ABJ",
       "translation": "Addiction, addiction, addiction, addiction",
       "explanation": "Hook continuation.",
@@ -419,6 +451,7 @@ export const naksha: Song = {
     },
     {
       "original": "Career मेरा इनके लिए है",
+      "romanized": "Career meraa inake lie hai",
       "speaker": "Encore ABJ",
       "translation": "My career is for them.",
       "explanation": "The success of Seedhe Maut is a win for the underrepresented areas of Delhi.",
@@ -426,6 +459,7 @@ export const naksha: Song = {
     },
     {
       "original": "नक्शा, नक्शा, नक्शा",
+      "romanized": "Nakshaa, nakshaa, nakshaa",
       "speaker": "Encore ABJ",
       "translation": "Map, map, map",
       "explanation": "Chorus closure.",
@@ -433,6 +467,7 @@ export const naksha: Song = {
     },
     {
       "original": "तेरा भाई",
+      "romanized": "Teraa bhaaee",
       "speaker": "Calm",
       "translation": "Your brother.",
       "explanation": "Calm's signature entry tag.",
@@ -447,6 +482,7 @@ export const naksha: Song = {
     },
     {
       "original": "Samaypur Badli से, समय पर बदला है",
+      "romanized": "Samaypur Badli se, samaya para badalaa hai",
       "speaker": "Calm",
       "translation": "From Samaypur Badli, things changed at the right time.",
       "explanation": "Wordplay on 'Samay' (Time). Samaypur Badli is the last station on the Yellow Line of the Delhi Metro.",
@@ -460,6 +496,7 @@ export const naksha: Song = {
     },
     {
       "original": "ABJ और मेरे पीछे आती खाली Jamna है",
+      "romanized": "ABJ aura mere peechhe aatee khaalee Jamna hai",
       "speaker": "Calm",
       "translation": "Behind ABJ and me flows the empty/polluted Jamna.",
       "explanation": "A visual of their backdrop as they represent the areas along the river.",
@@ -474,6 +511,7 @@ export const naksha: Song = {
     },
     {
       "original": "थैले वाला पानी पीती, metro की जनता है",
+      "romanized": "Thaile vaalaa paanee peetee, metro kee janataa hai",
       "speaker": "Calm",
       "translation": "The Metro crowd drinks water from pouches.",
       "explanation": "Observational lyric about the common man in Delhi who buys cheap 1-rupee water pouches ('thela' or 'theli' water).",
@@ -481,6 +519,7 @@ export const naksha: Song = {
     },
     {
       "original": "दिल्ली का लौंडा पीछे नी हटता है",
+      "romanized": "Dillee kaa laundaa peechhe nee hatataa hai",
       "speaker": "Calm",
       "translation": "A Delhi boy never backs down.",
       "explanation": "Highlighting the stubbornness and resilience of Delhi's youth.",
@@ -488,6 +527,7 @@ export const naksha: Song = {
     },
     {
       "original": "घूमा हूँ पूरा Pitampura जैसे मेरा कब्ज़ा है",
+      "romanized": "Ghoomaa hoon pooraa Pitampura jaise meraa kabzaa hai",
       "speaker": "Calm",
       "translation": "I’ve roamed all of Pitampura like I own it.",
       "explanation": "Calm represents North/West Delhi, and Pitampura is one of his main territories.",
@@ -507,6 +547,7 @@ export const naksha: Song = {
     },
     {
       "original": "निकला है दिल से ही दिल्ली का नक्शा है",
+      "romanized": "Nikalaa hai dila se hee dillee kaa nakshaa hai",
       "speaker": "Calm",
       "translation": "The map of Delhi has come straight from the heart.",
       "explanation": "His knowledge of the city isn't from a book, but from living its reality.",
@@ -514,6 +555,7 @@ export const naksha: Song = {
     },
     {
       "original": "DC Chowk पे cop की bike पे bag देके भागा उसे ढूंढा Rohini में एक हफ्ता है",
+      "romanized": "DC Chowak pe cop kee bike pe bag deke bhaagaa use dhoondhaa Rohini men eka haphtaa hai",
       "speaker": "Calm",
       "translation": "Left the bag on a cop's bike at DC Chowk and ran; searched for him in Rohini for a week.",
       "explanation": "Storytelling about a street incident/evading authority in Rohini (DC Chowk is a famous landmark there).",
@@ -532,6 +574,7 @@ export const naksha: Song = {
     },
     {
       "original": "दोस्त ने दिखाया CCTV",
+      "romanized": "Dosta ne dikhaayaa CCTV",
       "speaker": "Calm",
       "translation": "A friend showed me the CCTV footage.",
       "explanation": "Part of the narrative about tracking someone down.",
@@ -546,6 +589,7 @@ export const naksha: Song = {
     },
     {
       "original": "वो खड़ा था M2K पे, होता देखा phone गायब उसका Bittoo Tikki पे",
+      "romanized": "Vo kharaa thaa M2K pe, hotaa dekhaa phone gaayaba usakaa Bittoo Tikki pe",
       "speaker": "Calm",
       "translation": "He was standing at M2K, saw his phone disappear at Bittoo Tikki.",
       "explanation": "References local Rohini hotspots: M2K (cinema) and Bittoo Tikki Wala (famous food joint).",
@@ -570,6 +614,7 @@ export const naksha: Song = {
     },
     {
       "original": "उसे पता नहीं लगा वो कब phone को ले गए",
+      "romanized": "Use pataa naheen lagaa vo kaba phone ko le gae",
       "speaker": "Calm",
       "translation": "He didn't even realize when they made off with the phone.",
       "explanation": "Describing the skill of local pickpockets.",
@@ -577,6 +622,7 @@ export const naksha: Song = {
     },
     {
       "original": "Phone मिला OLX पे, लिखा Ghaffar",
+      "romanized": "Phone milaa OLX pe, likhaa Ghaffar",
       "speaker": "Calm",
       "translation": "Found the phone listed on OLX, location said Ghaffar.",
       "explanation": "Ghaffar Market (Karol Bagh) is notorious as the place where stolen electronics end up.",
@@ -590,6 +636,7 @@ export const naksha: Song = {
     },
     {
       "original": "बुलाया उसे Netaji Subhash के पास",
+      "romanized": "Bulaayaa use Netaji Subhash ke paasa",
       "speaker": "Calm",
       "translation": "Called him near Netaji Subhash (Place).",
       "explanation": "NSP (Netaji Subhash Place) is a major commercial hub in North Delhi used here as a meeting point for the 'sting'.",
@@ -603,6 +650,7 @@ export const naksha: Song = {
     },
     {
       "original": "और साथ सात ठुल्ले undercover, खाली shirt change करी",
+      "romanized": "Aura saatha saata thulle undercover, khaalee shirt change karee",
       "speaker": "Calm",
       "translation": "With seven undercover cops along; they just changed their shirts.",
       "explanation": "They set a trap for the thief with the help of 'Thulles' (slang for police officers).",
@@ -616,6 +664,7 @@ export const naksha: Song = {
     },
     {
       "original": "नीचे uniform में खड़े करे station के बाहर",
+      "romanized": "Neeche uniform men khare kare station ke baahara",
       "speaker": "Calm",
       "translation": "Had them standing in uniform outside the station.",
       "explanation": "The police were ready to pounce on the culprit.",
@@ -623,6 +672,7 @@ export const naksha: Song = {
     },
     {
       "original": "Operation है fire",
+      "romanized": "Operation hai fire",
       "speaker": "Calm",
       "translation": "The operation is lit/successful.",
       "explanation": "The plan to catch the thief worked.",
@@ -637,6 +687,7 @@ export const naksha: Song = {
     },
     {
       "original": "आया दोस्त से मिला तो कहता, \"आया सीधे आपके पास\"",
+      "romanized": "Aayaa dosta se milaa to kahataa, \\\"aayaa seedhe aapake paasa\\\"",
       "speaker": "Calm",
       "translation": "He came, met the friend and said, 'I came straight to you.'",
       "explanation": "The culprit unknowingly walked right into the trap.",
@@ -644,6 +695,7 @@ export const naksha: Song = {
     },
     {
       "original": "\"Kashmere Gate से और जाना मुझे काम पे वापस\"",
+      "romanized": "\\\"Kashmere Gate se aura jaanaa mujhe kaama pe vaapasa\\\"",
       "speaker": "Calm",
       "translation": "'I'm coming from Kashmere Gate and need to get back to work.'",
       "explanation": "The thief's excuse or cover story. Kashmere Gate is a major transit hub.",
@@ -663,6 +715,7 @@ export const naksha: Song = {
     },
     {
       "original": "बेटा जानता नी थाने जाएगा उस रात, एक phone से Tihar",
+      "romanized": "Betaa jaanataa nee thaane jaaegaa usa raata, eka phone se Tihar",
       "speaker": "Calm",
       "translation": "Kid doesn't know he's going to the station tonight; one phone call to Tihar.",
       "explanation": "Reference to Tihar Jail, South Asia's largest prison complex located in Delhi.",
@@ -676,6 +729,7 @@ export const naksha: Song = {
     },
     {
       "original": "आते यहाँ पे बहुत हैं बीमार, सोते हैं AIIMS के जो बाहर",
+      "romanized": "Aate yahaan pe bahuta hain beemaara, sote hain AIIMS ke jo baahara",
       "speaker": "Calm",
       "translation": "Many sick people come here, those who sleep outside AIIMS.",
       "explanation": "A grim reality of Delhi; thousands of people from across India wait/sleep on pavements outside AIIMS hospital for treatment.",
@@ -689,6 +743,7 @@ export const naksha: Song = {
     },
     {
       "original": "वहीं से दारू भी चलती है, गाड़ी भी भगती है, ठुल्ले भी छापते हज़ार",
+      "romanized": "Vaheen se daaroo bhee chalatee hai, gaaree bhee bhagatee hai, thulle bhee chhaapate hazaara",
       "speaker": "Calm",
       "translation": "Liquor flows there too, cars race, and cops collect thousands in bribes.",
       "explanation": "Describes the chaotic and corrupt ecosystem of the city streets.",
@@ -703,6 +758,7 @@ export const naksha: Song = {
     },
     {
       "original": "South-South side Delhi में रखते औज़ार, West-West side Delhi में रखते औकात में",
+      "romanized": "South-South side Delhi men rakhate auzaara, West-West side Delhi men rakhate aukaata men",
       "speaker": "Calm",
       "translation": "In South Delhi they keep 'tools' (weapons), in West Delhi they keep you in your place.",
       "explanation": "A generalization of the 'gangster' or 'tough guy' vibes of different zones of Delhi. 'Auzaar' is slang for weapons.",
@@ -722,6 +778,7 @@ export const naksha: Song = {
     },
     {
       "original": "Najafgarh freezer में रखते हैं लाशों को काट कर और scene हुआ तो भागते Hisar",
+      "romanized": "Najafgarh freezer men rakhate hain laashon ko kaata kara aura scene huaa to bhaagate Hisar",
       "speaker": "Calm",
       "translation": "In Najafgarh they chop bodies and keep them in freezers; if things get hot, they flee to Hisar.",
       "explanation": "References dark local crime stories (like the infamous Nikki Yadav case) and the common escape route to Haryana (Hisar).",
@@ -735,6 +792,7 @@ export const naksha: Song = {
     },
     {
       "original": "न-नक्शा ये Delhi का SM पे है safe and found",
+      "romanized": "Na-nakshaa ye Delhi kaa SM pe hai safe and found",
       "speaker": "Calm",
       "translation": "This map of Delhi is safe and found with SM (Seedhe Maut).",
       "explanation": "Meaning they are the true custodians of the city's stories.",
@@ -748,6 +806,7 @@ export const naksha: Song = {
     },
     {
       "original": "तभी हंसते हैं, लिखते जब bars",
+      "romanized": "Tabhee hansate hain, likhate jaba bars",
       "speaker": "Calm",
       "translation": "That's why we laugh when we write these bars.",
       "explanation": "They take pride in their lyrical ability to capture these harsh realities with ease.",
@@ -755,6 +814,7 @@ export const naksha: Song = {
     },
     {
       "original": "Delhi के हवा बोली, \"Never put your pen down\", तभी सारे कट्टे में रखे हैं [?]",
+      "romanized": "Delhi ke havaa bolee, \\\"Never put your pen dowan\\\", tabhee saare katte men rakhe hain [?]",
       "speaker": "Calm",
       "translation": "The Delhi wind said, 'Never put your pen down'; that's why everything is kept in the country-pistol.",
       "explanation": "'Katta' is a local country-made pistol. He likens his pen/rhymes to ammunition.",
@@ -768,6 +828,7 @@ export const naksha: Song = {
     },
     {
       "original": "राजधानी हथियार, हत्थे चलते दाएं-बाएं",
+      "romanized": "Raajadhaanee hathiyaara, hatthe chalate daaen-baaen",
       "speaker": "Encore ABJ",
       "translation": "The capital is a weapon; hands move left and right.",
       "explanation": "Chorus repeat.",
@@ -775,6 +836,7 @@ export const naksha: Song = {
     },
     {
       "original": "जल्दी ढूंढो उसका घर, छिपा बैठा कहाँ है, कहाँ है",
+      "romanized": "Jaldee dhoondho usakaa ghara, chhipaa baithaa kahaan hai, kahaan hai",
       "speaker": "Encore ABJ",
       "translation": "Quickly find his house; where is he hiding? Where is he?",
       "explanation": "Chorus repeat.",
@@ -782,6 +844,7 @@ export const naksha: Song = {
     },
     {
       "original": "जैसे मेला, बंदे गेड़ियों में मारे साये-साये",
+      "romanized": "Jaise melaa, bande geriyon men maare saaye-saaye",
       "speaker": "Encore ABJ",
       "translation": "Like a fair, guys zooming past in 'gedis'.",
       "explanation": "Chorus repeat.",
@@ -789,6 +852,7 @@ export const naksha: Song = {
     },
     {
       "original": "इससे पहले होता hi, उसका हुआ bye-bye",
+      "romanized": "Isase pahale hotaa hi, usakaa huaa bye-bye",
       "speaker": "Encore ABJ",
       "translation": "Before a 'hi' could happen, it was already 'bye-bye' for him.",
       "explanation": "Chorus repeat.",
@@ -796,6 +860,7 @@ export const naksha: Song = {
     },
     {
       "original": "खत्ता खोका, पक्का मेरा",
+      "romanized": "Khattaa khokaa, pakkaa meraa",
       "speaker": "Encore ABJ",
       "translation": "The landfill and the cabin/hustle, they are surely mine.",
       "explanation": "Chorus repeat.",
@@ -803,6 +868,7 @@ export const naksha: Song = {
     },
     {
       "original": "चस्का, चस्का, चस्का, चस्का",
+      "romanized": "Chaskaa, chaskaa, chaskaa, chaskaa",
       "speaker": "Encore ABJ",
       "translation": "Addiction, addiction, addiction, addiction",
       "explanation": "Chorus repeat.",
@@ -810,6 +876,7 @@ export const naksha: Song = {
     },
     {
       "original": "Career मेरा इनके लिए है",
+      "romanized": "Career meraa inake lie hai",
       "speaker": "Encore ABJ",
       "translation": "My career is for them.",
       "explanation": "Chorus repeat.",
@@ -817,6 +884,7 @@ export const naksha: Song = {
     },
     {
       "original": "नक्शा, नक्शा, नक्शा, नक्शा",
+      "romanized": "Nakshaa, nakshaa, nakshaa, nakshaa",
       "speaker": "Encore ABJ",
       "translation": "Map, map, map, map",
       "explanation": "Chorus repeat.",
@@ -824,6 +892,7 @@ export const naksha: Song = {
     },
     {
       "original": "Delhi, Jamna, खत्ता मेरा",
+      "romanized": "Delhi, Jamna, khattaa meraa",
       "speaker": "Encore ABJ",
       "translation": "Delhi, Jamna, the landfill—they are mine.",
       "explanation": "Chorus repeat.",
@@ -831,6 +900,7 @@ export const naksha: Song = {
     },
     {
       "original": "चस्का, चस्का, चस्का, चस्का",
+      "romanized": "Chaskaa, chaskaa, chaskaa, chaskaa",
       "speaker": "Encore ABJ",
       "translation": "Addiction, addiction, addiction, addiction",
       "explanation": "Chorus repeat.",
@@ -838,6 +908,7 @@ export const naksha: Song = {
     },
     {
       "original": "Career मेरा इनके लिए है",
+      "romanized": "Career meraa inake lie hai",
       "speaker": "Encore ABJ",
       "translation": "My career is for them.",
       "explanation": "Chorus repeat.",
@@ -845,6 +916,7 @@ export const naksha: Song = {
     },
     {
       "original": "नक्शा, नक्शा, नक्शा",
+      "romanized": "Nakshaa, nakshaa, nakshaa",
       "speaker": "Encore ABJ",
       "translation": "Map, map, map",
       "explanation": "Song ends by emphasizing the map one last time.",

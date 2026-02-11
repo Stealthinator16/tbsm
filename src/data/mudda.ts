@@ -10,6 +10,7 @@ export const mudda: Song = {
   "lyrics": [
     {
       "original": "Yeah",
+      "devanagari": "Yeah",
       "speaker": "Yung Sammy & Encore ABJ",
       "translation": "Yeah",
       "explanation": "Introductory ad-lib.",
@@ -17,6 +18,7 @@ export const mudda: Song = {
     },
     {
       "original": "Yung Sammy hai kya ? (tera Bhai)",
+      "devanagari": "Yung Sammy है क्या? (तेरा भाई)",
       "speaker": "Yung Sammy & Encore ABJ",
       "translation": "Is that Yung Sammy? (Your brother)",
       "explanation": "Yung Sammy introducing himself; Encore responding as 'your brother'.",
@@ -30,6 +32,7 @@ export const mudda: Song = {
     },
     {
       "original": "Ahh",
+      "devanagari": "Ahh",
       "speaker": "Yung Sammy & Encore ABJ",
       "translation": "Ahh",
       "explanation": "Ad-lib.",
@@ -37,6 +40,7 @@ export const mudda: Song = {
     },
     {
       "original": "Come on, come on, yeah",
+      "devanagari": "Come on, come on, yeah",
       "speaker": "Yung Sammy & Encore ABJ",
       "translation": "Come on, come on, yeah",
       "explanation": "Ad-lib.",
@@ -44,6 +48,7 @@ export const mudda: Song = {
     },
     {
       "original": "Okay",
+      "devanagari": "Okay",
       "speaker": "Yung Sammy & Encore ABJ",
       "translation": "Okay",
       "explanation": "Ad-lib.",
@@ -51,6 +56,7 @@ export const mudda: Song = {
     },
     {
       "original": "Yeah Yeah",
+      "devanagari": "Yeah Yeah",
       "speaker": "Yung Sammy & Encore ABJ",
       "translation": "Yeah Yeah",
       "explanation": "Ad-lib.",
@@ -58,6 +64,7 @@ export const mudda: Song = {
     },
     {
       "original": "Seedhe Maut Bitch!!",
+      "devanagari": "Seedhe Maut Bitch!!",
       "speaker": "Yung Sammy & Encore ABJ",
       "translation": "Seedhe Maut Bitch!!",
       "explanation": "Affirmation of Seedhe Maut's presence and dominance.",
@@ -65,6 +72,7 @@ export const mudda: Song = {
     },
     {
       "original": "Sammy",
+      "devanagari": "Sammy",
       "speaker": "Yung Sammy & Encore ABJ",
       "translation": "Sammy",
       "explanation": "Yung Sammy's tag.",
@@ -72,6 +80,7 @@ export const mudda: Song = {
     },
     {
       "original": "Yeah",
+      "devanagari": "Yeah",
       "speaker": "Yung Sammy & Encore ABJ",
       "translation": "Yeah",
       "explanation": "Ad-lib.",
@@ -79,6 +88,7 @@ export const mudda: Song = {
     },
     {
       "original": "DL91",
+      "devanagari": "DL91",
       "speaker": "Yung Sammy & Encore ABJ",
       "translation": "DL91",
       "explanation": "DL is Delhi, 91 is the telephone code for India. Shows where he is from.",
@@ -86,6 +96,7 @@ export const mudda: Song = {
     },
     {
       "original": "Tera Bhai",
+      "devanagari": "तेरा भाई",
       "speaker": "Yung Sammy & Encore ABJ",
       "translation": "Your brother",
       "explanation": "Reiterating the bond with Yung Sammy.",
@@ -99,6 +110,7 @@ export const mudda: Song = {
     },
     {
       "original": "Sammy",
+      "devanagari": "Sammy",
       "speaker": "Yung Sammy & Encore ABJ",
       "translation": "Sammy",
       "explanation": "Yung Sammy's tag.",
@@ -106,6 +118,7 @@ export const mudda: Song = {
     },
     {
       "original": "Get it",
+      "devanagari": "Get it",
       "speaker": "Yung Sammy & Encore ABJ",
       "translation": "Get it",
       "explanation": "Ad-lib.",
@@ -113,6 +126,7 @@ export const mudda: Song = {
     },
     {
       "original": "Woah",
+      "devanagari": "Woah",
       "speaker": "Yung Sammy & Encore ABJ",
       "translation": "Woah",
       "explanation": "Ad-lib.",
@@ -120,6 +134,7 @@ export const mudda: Song = {
     },
     {
       "original": "Seedhe Maut - Sammy hai, dikhta bas Grammy",
+      "devanagari": "Seedhe Maut - Sammy है, दिखता बस Grammy",
       "speaker": "Encore ABJ",
       "translation": "Seedhe Maut - Sammy's here, we only see Grammys",
       "explanation": "Asserting their success and ambition, aiming for Grammy awards.",
@@ -133,6 +148,7 @@ export const mudda: Song = {
     },
     {
       "original": "Chahe baithe hum London ya baithe hum Noida",
+      "devanagari": "चाहे बैठे हम London या बैठे हम Noida",
       "speaker": "Encore ABJ",
       "translation": "Whether we're sitting in London or sitting in Noida",
       "explanation": "Highlighting their reach and influence, irrespective of location.",
@@ -146,6 +162,7 @@ export const mudda: Song = {
     },
     {
       "original": "Lulli si shakal ke, bhidenge hum se",
+      "devanagari": "लुल्ली सी शकल के, भिड़ेंगे हम से",
       "speaker": "Encore ABJ",
       "translation": "With a dick-like face, you'll clash with us?",
       "explanation": "Disrespectful diss towards opponents. 'Lulli' is a derogatory term.",
@@ -159,6 +176,7 @@ export const mudda: Song = {
     },
     {
       "original": "Hum rapper complete hai jaise Cu Boi ka",
+      "devanagari": "हम rapper complete हैं जैसे Cu Boi का",
       "speaker": "Encore ABJ",
       "translation": "We are complete rappers like Cu Boi's...",
       "explanation": "Comparing their completeness as rappers to something from Cu Boi.",
@@ -172,6 +190,7 @@ export const mudda: Song = {
     },
     {
       "original": "Hona jo waise bhi hoyega",
+      "devanagari": "होना जो वैसे भी होएगा",
       "speaker": "Encore ABJ",
       "translation": "Whatever is meant to happen will happen anyway",
       "explanation": "Accepting fate.",
@@ -179,6 +198,7 @@ export const mudda: Song = {
     },
     {
       "original": "Tu toh pitega par bol kya kare tere boy ka",
+      "devanagari": "तू तोह पिटेगा पर बोल क्या करे तेरे boy का",
       "speaker": "Encore ABJ",
       "translation": "You will get beat up, but tell me, what will your boy do?",
       "explanation": "Threatening violence and questioning the capabilities of their opponent's friends.",
@@ -186,6 +206,7 @@ export const mudda: Song = {
     },
     {
       "original": "Sona tha bandi ke chucho mein",
+      "devanagari": "सोना था बंदी के चूचो में",
       "speaker": "Encore ABJ",
       "translation": "Was supposed to sleep in my girl's breasts",
       "explanation": "Suggesting an intimate situation with a girl.",
@@ -199,6 +220,7 @@ export const mudda: Song = {
     },
     {
       "original": "Lekin vo aaj ki raat se khabar pe soyega",
+      "devanagari": "लेकिन वो आज की रात से ख़बर पे सोएगा",
       "speaker": "Encore ABJ",
       "translation": "But from tonight, he'll be sleeping in the news",
       "explanation": "Threatening violence, implying the person will be dead and in the news.",
@@ -206,6 +228,7 @@ export const mudda: Song = {
     },
     {
       "original": "Kaha kise kitno ki maa chodi",
+      "devanagari": "कहा किसे कितनो की माँ चोदी",
       "speaker": "Encore ABJ",
       "translation": "Who did I fuck whose mother?",
       "explanation": "Aggressive and offensive taunt, a common diss in Indian rap.",
@@ -219,6 +242,7 @@ export const mudda: Song = {
     },
     {
       "original": "Kaha kise kitno ki maa chodi",
+      "devanagari": "कहा किसे कितनो की माँ चोदी",
       "speaker": "Encore ABJ",
       "translation": "Who did I fuck whose mother?",
       "explanation": "Repetition for emphasis.",
@@ -232,6 +256,7 @@ export const mudda: Song = {
     },
     {
       "original": "Hai hai",
+      "devanagari": "है है",
       "speaker": "Encore ABJ",
       "translation": "Hai hai",
       "explanation": "Ad-lib; expressing excitement or emphasis.",
@@ -239,6 +264,7 @@ export const mudda: Song = {
     },
     {
       "original": "Kamar se nikala ghoda aur bandi ko",
+      "devanagari": "कमर से निकाला घोड़ा और बंदी को",
       "speaker": "Encore ABJ",
       "translation": "Took out a horse from my waist and made the girl...",
       "explanation": "Metaphorical reference to his penis, comparing it to a horse. Followed by next line.",
@@ -257,6 +283,7 @@ export const mudda: Song = {
     },
     {
       "original": "Diya bana ghodi",
+      "devanagari": "दिया बना घोड़ी",
       "speaker": "Encore ABJ",
       "translation": "Turned into a mare",
       "explanation": "Completes the metaphor from previous line. The girl becomes a mare.",
@@ -270,6 +297,7 @@ export const mudda: Song = {
     },
     {
       "original": "Haa haa",
+      "devanagari": "हा हा",
       "speaker": "Encore ABJ",
       "translation": "Haa haa",
       "explanation": "Laughter, emphasizing the preceding lines.",
@@ -277,6 +305,7 @@ export const mudda: Song = {
     },
     {
       "original": "Muh chodi karte hai baalak",
+      "devanagari": "मुँह चोदी करते हैं बालक",
       "speaker": "Encore ABJ",
       "translation": "Kids do oral sex",
       "explanation": "A crude way to state that kids engage in sexual acts.",
@@ -290,6 +319,7 @@ export const mudda: Song = {
     },
     {
       "original": "Aur baalak aa karte hai muh chodi",
+      "devanagari": "और बालक आ करते हैं मुँह चोदी",
       "speaker": "Encore ABJ",
       "translation": "And the kids 'aa' while doing oral sex",
       "explanation": "Repeating and exaggerating the act with a sound effect.",
@@ -303,6 +333,7 @@ export const mudda: Song = {
     },
     {
       "original": "Shakle dikhte hain news akhbaaron mein",
+      "devanagari": "शक्लें दिखते हैं news अख़बारो में",
       "speaker": "Encore ABJ",
       "translation": "Faces are appearing in the news newspapers",
       "explanation": "Alluding to their rising fame and recognition.",
@@ -310,6 +341,7 @@ export const mudda: Song = {
     },
     {
       "original": "Jaise main hoon Modi ooh ooh",
+      "devanagari": "जैसे मैं हूँ Modi ooh ooh",
       "speaker": "Encore ABJ",
       "translation": "Like I am Modi ooh ooh",
       "explanation": "Comparing himself to Narendra Modi, the Prime Minister of India, suggesting widespread recognition.",
@@ -323,6 +355,7 @@ export const mudda: Song = {
     },
     {
       "original": "Kaha par hain rapper, ye dikhte nahi, gaayab hain",
+      "devanagari": "कहाँ पर हैं rapper, ये दिखते नहीं, ग़ायब हैं",
       "speaker": "Calm",
       "translation": "Where are the rappers? They aren't visible, they're disappeared",
       "explanation": "Questioning the whereabouts and relevance of other rappers, implying they are irrelevant.",
@@ -330,6 +363,7 @@ export const mudda: Song = {
     },
     {
       "original": "Dost inke SM pe flip ho rahi",
+      "devanagari": "दोस्त इनके SM पे flip हो रही",
       "speaker": "Calm",
       "translation": "Their friends are flipping on SM",
       "explanation": "Suggesting their opponents' friends are switching sides on social media.",
@@ -343,6 +377,7 @@ export const mudda: Song = {
     },
     {
       "original": "Janwar hain baithe, teen rapper nahi",
+      "devanagari": "जानवर हैं बैठे, तीन rapper नहीं",
       "speaker": "Calm",
       "translation": "Animals are sitting, not three rappers",
       "explanation": "Referring to themselves metaphorically as 'animals' to emphasize their raw talent and aggression. It refers to the fact that they are three on the song.",
@@ -350,6 +385,7 @@ export const mudda: Song = {
     },
     {
       "original": "Papa hu ladko ka, chaatey mein chup ho rahe",
+      "devanagari": "पापा हूँ लड़को का, चाटे में चुप हो रहे",
       "speaker": "Calm",
       "translation": "I'm the father of these boys, they're hiding in slaps",
       "explanation": "Claiming dominance, metaphorically saying they're hiding in shame and fear of his power.",
@@ -357,6 +393,7 @@ export const mudda: Song = {
     },
     {
       "original": "Ye mic pe chilla rahe par inke ye jhaate se vocal nahi clip ho rahe, na na",
+      "devanagari": "ये mic पे चिल्ला रहे पर इनके ये झाटे से vocal नहीं clip हो रहे, ना ना",
       "speaker": "Calm",
       "translation": "They're shouting on the mic, but their vocals aren't clipping even from their pubes, no no",
       "explanation": "Insulting their mic presence by implying their vocals aren't strong enough to even cause clipping, even with their pubic hair. A clever wordplay.",
@@ -370,6 +407,7 @@ export const mudda: Song = {
     },
     {
       "original": "Ye paisa, ye bitches, ye bud hai kamaaya",
+      "devanagari": "ये पैसा, ये bitches, ये bud है कमाया",
       "speaker": "Calm",
       "translation": "This money, these bitches, this bud, I've earned it",
       "explanation": "Listing the spoils of his success - money, women, and marijuana.",
@@ -388,6 +426,7 @@ export const mudda: Song = {
     },
     {
       "original": "Bas music se, fatah bin filmon ke",
+      "devanagari": "बस music से, फ़तह बिन फ़िल्मो के",
       "speaker": "Calm",
       "translation": "Only from music, victory without films",
       "explanation": "Highlighting that their success is purely from music, without relying on Bollywood or other film industries.",
@@ -401,6 +440,7 @@ export const mudda: Song = {
     },
     {
       "original": "Haan Greater Noida wala shit hai, saath hai Sammy jo",
+      "devanagari": "हाँ Greater Noida वाला shit है, साथ है Sammy जो",
       "speaker": "Calm",
       "translation": "Yeah, it's Greater Noida shit, with Sammy",
       "explanation": "Affirming their association with Greater Noida (area near Delhi) and their collaboration with Yung Sammy.",
@@ -414,6 +454,7 @@ export const mudda: Song = {
     },
     {
       "original": "Ek bandi Mo ko boli Calm se bajna hai, don’t say no",
+      "devanagari": "एक बंदी Mo को बोली Calm से बजना है, don't say no",
       "speaker": "Calm",
       "translation": "A girl told Mo she wants to get 'played' by Calm, don't say no",
       "explanation": "Suggesting that a girl is attracted to Calm and wants to sleep with him. \"Mo\" is likely a friend or associate who set up the situation.",
@@ -432,6 +473,7 @@ export const mudda: Song = {
     },
     {
       "original": "Main jau jaha paisa jaye, jab launde jaaye jaha booty go",
+      "devanagari": "मैं जाऊ जहाँ पैसा जाए, जब लौंडे जाए जहाँ booty go",
       "speaker": "Calm",
       "translation": "I go where the money goes, but the boys go where the booty goes",
       "explanation": "Differentiating his motives (money) from others (women).",
@@ -450,6 +492,7 @@ export const mudda: Song = {
     },
     {
       "original": "If the truth be told, yaha dono ladke nuke hain, phod",
+      "devanagari": "If the truth be told, यहाँ दोनो लड़के nuke हैं, फोड़",
       "speaker": "Calm",
       "translation": "If the truth be told, both boys here are nukes, explode",
       "explanation": "Declaring themselves as powerful forces ('nukes') ready to explode and dominate the scene.",
@@ -463,6 +506,7 @@ export const mudda: Song = {
     },
     {
       "original": "Yung Sammy aur Seedhe Maut, dekh bhai gaand toh tutni hai",
+      "devanagari": "Yung Sammy और Seedhe Maut, देख भाई गांड तोह टूटनी है",
       "speaker": "Yung Sammy",
       "translation": "Yung Sammy and Seedhe Maut, look brother, your ass is gonna break",
       "explanation": "Warning opponents about the consequences of facing Yung Sammy and Seedhe Maut, asserting dominance and threatening defeat.",
@@ -481,6 +525,7 @@ export const mudda: Song = {
     },
     {
       "original": "Bhari rakha poora system, life lage meri movie hai",
+      "devanagari": "भरी रखा पूरा system, life लगे मेरी movie है",
       "speaker": "Yung Sammy",
       "translation": "I've kept the whole system full, my life feels like a movie",
       "explanation": "Implying he has influence and control over the scene, and his life is exciting and cinematic.",
@@ -488,6 +533,7 @@ export const mudda: Song = {
     },
     {
       "original": "One of a kind aur bitch meri",
+      "devanagari": "One of a kind और bitch मेरी",
       "speaker": "Yung Sammy",
       "translation": "One of a kind and my bitch",
       "explanation": "Describing himself as unique and his girlfriend as desirable.",
@@ -501,6 +547,7 @@ export const mudda: Song = {
     },
     {
       "original": "Lage mujhe kaafi choosy hai",
+      "devanagari": "लगे मुझे काफ़ी choosy है",
       "speaker": "Yung Sammy",
       "translation": "Seems to me she's quite choosy",
       "explanation": "Suggesting his girlfriend is selective and has high standards.",
@@ -508,6 +555,7 @@ export const mudda: Song = {
     },
     {
       "original": "Ek bandi ho rahi mujhse kaafi frank, mere sar pe chadh ke kudd rahi hai",
+      "devanagari": "एक बंदी हो रही मुझसे काफ़ी frank, मेरे सर पे चढ़ के कूद रही है",
       "speaker": "Yung Sammy",
       "translation": "A girl is getting quite frank with me, climbing on my head and jumping",
       "explanation": "Describing a girl's forward behavior and sexual advances.",
@@ -521,6 +569,7 @@ export const mudda: Song = {
     },
     {
       "original": "Verse likha maine UK mein, aur Delhi mein jaake ye take liya",
+      "devanagari": "Verse लिखा मैंने UK में, और Delhi में जाके ये take लिया",
       "speaker": "Yung Sammy",
       "translation": "I wrote the verse in the UK, and recorded this take in Delhi",
       "explanation": "Detailing the production process, showing his international travel and work ethic.",
@@ -528,6 +577,7 @@ export const mudda: Song = {
     },
     {
       "original": "Kaafi pehle se tha studio mein locked in, fir LA mein jaake break liya",
+      "devanagari": "काफ़ी पहले से था studio में locked in, फिर LA में जाके break लिया",
       "speaker": "Yung Sammy",
       "translation": "I was locked in the studio for a while, then went to LA for a break",
       "explanation": "Highlighting his dedication to music and then taking a break in Los Angeles.",
@@ -535,6 +585,7 @@ export const mudda: Song = {
     },
     {
       "original": "Don’t give a fuck about a price tag, mera mann kiya toh phir le liya",
+      "devanagari": "Don’t give a fuck about a price tag, मेरा मन किया तोह फिर ले लिया",
       "speaker": "Yung Sammy",
       "translation": "Don't give a fuck about a price tag, if I want it, I just take it",
       "explanation": "Boasting about his wealth and ability to buy whatever he wants.",
@@ -542,6 +593,7 @@ export const mudda: Song = {
     },
     {
       "original": "Ek beti chod ka faltu bol raha, gaadi ki dikki mein gher diya",
+      "devanagari": "एक बेटीचोद का फ़ालतू बोल रहा, गाड़ी की डिक्की में घेर दिया",
       "speaker": "Yung Sammy",
       "translation": "A son of a bitch was talking nonsense, I surrounded him in the car trunk",
       "explanation": "Threatening violence and suggesting he trapped someone who was disrespecting him.",
@@ -555,6 +607,7 @@ export const mudda: Song = {
     },
     {
       "original": "Marta tha bunk mein Business Classes",
+      "devanagari": "मारता था bunk में Business Classes",
       "speaker": "Yung Sammy",
       "translation": "Used to skip Business Classes",
       "explanation": "He used to be uninterested with Business classes.",
@@ -562,6 +615,7 @@ export const mudda: Song = {
     },
     {
       "original": "But now I fly that shit",
+      "devanagari": "But now I fly that shit",
       "speaker": "Yung Sammy",
       "translation": "But now I fly that shit",
       "explanation": "Now he spends his money on business flights.",
@@ -569,6 +623,7 @@ export const mudda: Song = {
     },
     {
       "original": "Teacher jo kehti thi “tu likhta nahi achha”",
+      "devanagari": "Teacher जो कहती थी “तू लिखता नहीं अच्छा”",
       "speaker": "Yung Sammy",
       "translation": "The teacher who used to say 'you don't write well'",
       "explanation": "Recalling past criticism.",
@@ -576,6 +631,7 @@ export const mudda: Song = {
     },
     {
       "original": "She knows I write that shit",
+      "devanagari": "She knows I write that shit",
       "speaker": "Yung Sammy",
       "translation": "She knows I write that shit",
       "explanation": "Proving his former teacher wrong by showing his current success.",
@@ -583,6 +639,7 @@ export const mudda: Song = {
     },
     {
       "original": "Har ek bar mera holy verse",
+      "devanagari": "हर एक bar मेरा holy verse",
       "speaker": "Yung Sammy",
       "translation": "Every bar is my holy verse",
       "explanation": "Expressing self-confidence.",
@@ -590,6 +647,7 @@ export const mudda: Song = {
     },
     {
       "original": "Jaise karne lagta hoon main baptizing",
+      "devanagari": "जैसे करने लगता हूँ मैं baptizing",
       "speaker": "Yung Sammy",
       "translation": "Like I'm starting to baptize",
       "explanation": "Emphasising the cleansing the effect of his verses on the game.",
@@ -597,6 +655,7 @@ export const mudda: Song = {
     },
     {
       "original": "Don’t give a fuck about a bitch ego",
+      "devanagari": "Don’t give a fuck about a bitch ego",
       "speaker": "Yung Sammy",
       "translation": "Don't give a fuck about a bitch's ego",
       "explanation": "Dismissing the egos of women.",
@@ -610,6 +669,7 @@ export const mudda: Song = {
     },
     {
       "original": "Karta nahi peeche se backbiting",
+      "devanagari": "करता नहीं पीछे से backbiting",
       "speaker": "Yung Sammy",
       "translation": "I don't backbite from behind",
       "explanation": "Stating he doesn't talk behind people's backs.",
@@ -617,6 +677,7 @@ export const mudda: Song = {
     },
     {
       "original": "Yung Sammy, Seedhe Maut, yaha pe koi rakhna nahi pair, it’s a landmine thing, kya",
+      "devanagari": "Yung Sammy, Seedhe Maut, यहाँ पे कोई रखना नहीं pair, it's a landmine thing, क्या",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "Yung Sammy, Seedhe Maut, no one should step here, it's a landmine thing, right?",
       "explanation": "Warning others to stay away from their territory, implying danger and consequences.",
@@ -624,6 +685,7 @@ export const mudda: Song = {
     },
     {
       "original": "Na chale koi branding, na chale koi marketing, na chale koi franchise uhh",
+      "devanagari": "ना चले कोई branding, ना चले कोई marketing, ना चले कोई franchise uhh",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "No branding will work, no marketing will work, no franchise will work, uhh",
       "explanation": "Asserting their authenticity and disregard for commercial trends, stating that conventional methods won't affect them.",
@@ -631,6 +693,7 @@ export const mudda: Song = {
     },
     {
       "original": "Bata kaise na tutegi gaand ab inki, jab",
+      "devanagari": "बता कैसे ना टूटेगी गांड अब इनकी, जब",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "Tell me, how will their asses not break now, when",
       "explanation": "Questioning how their opponents will avoid defeat.",
@@ -644,6 +707,7 @@ export const mudda: Song = {
     },
     {
       "original": "Bacha koi chaara hi nahi",
+      "devanagari": "बचा कोई चारा ही नहीं",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "There's no way out left at all",
       "explanation": "There's no way out of this problem.",
@@ -651,6 +715,7 @@ export const mudda: Song = {
     },
     {
       "original": "Bata kaise na sukhengi praan, inke baap",
+      "devanagari": "बता कैसे ना सूखेंगी प्राण, इनके बाप",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "Tell me, how will their souls not dry up, their father",
       "explanation": "Questioning how their opponent's souls will avoid withering in fear, especially considering their fathers...",
@@ -664,6 +729,7 @@ export const mudda: Song = {
     },
     {
       "original": "Se hai bane koi sayana nahi, bitch",
+      "devanagari": "से है बने कोई सयाना नहीं, bitch",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "None of them has become wise or powerful from their father, bitch",
       "explanation": "Implying their opponent's fathers didn't pass on wisdom or power.",
@@ -677,6 +743,7 @@ export const mudda: Song = {
     },
     {
       "original": "Mere gang mein cheete hi cheete, aur",
+      "devanagari": "मेरे gang में चीते ही चीते, और",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "In my gang, it's all cheetahs, and",
       "explanation": "Referring to the members of his gang as Cheetahs, symbolizing speed, agility and predator instinct.",
@@ -690,6 +757,7 @@ export const mudda: Song = {
     },
     {
       "original": "Kabhi bhi saapon ko paala hi nahi",
+      "devanagari": "कभी भी साँपो को पाला ही नहीं",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "I have never raised snakes",
       "explanation": "Stating he doesn't associate with treacherous people.",
@@ -703,6 +771,7 @@ export const mudda: Song = {
     },
     {
       "original": "Likhu jab bhi lage jaise jaan aayi nayi",
+      "devanagari": "लिखू जब भी लगे जैसे जान आई नई",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "Whenever I write, it feels like new life has come",
       "explanation": "Describing the revitalizing effect of his writing process.",
@@ -710,6 +779,7 @@ export const mudda: Song = {
     },
     {
       "original": "Beaton pe main chadhun jaise baadh aayi kahin",
+      "devanagari": "Beats पे मैं चढ़ूँ जैसे बाढ़ आई कहीं",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "I ride the beats like a flood came somewhere",
       "explanation": "Comparing his riding of the beat to a destructive flood, highlighting his impact and dominance.",
@@ -723,6 +793,7 @@ export const mudda: Song = {
     },
     {
       "original": "Bags and bags and bags, damn",
+      "devanagari": "Bags and bags and bags, damn",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "Bags and bags and bags, damn",
       "explanation": "Displaying wealth.",
@@ -730,6 +801,7 @@ export const mudda: Song = {
     },
     {
       "original": "Khoke se niche toh aata hi nahi",
+      "devanagari": "खोखे से नीचे तोह आता ही नहीं",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "It doesn't go below a 'khoka'",
       "explanation": "Talking about the amount of money (never is less than a 'khoka').",
@@ -743,6 +815,7 @@ export const mudda: Song = {
     },
     {
       "original": "Apno se pada tera paala hi nahi",
+      "devanagari": "अपनो से पड़ा तेरा पाला ही नहीं",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "You haven't been raised by your own",
       "explanation": " implying that they are disconnected from their roots or a true community. Can also insinuate family issues.",
@@ -750,6 +823,7 @@ export const mudda: Song = {
     },
     {
       "original": "Gandhi toh tane kabhi chaapa hi nahi",
+      "devanagari": "Gandhi तोह तने कभी छापा ही नहीं",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "Gandhi never even printed you",
       "explanation": "Suggesting their opponents are worthless and not even worth the paper money is printed on. Gandhi represents the image on the Indian rupee.",
@@ -763,6 +837,7 @@ export const mudda: Song = {
     },
     {
       "original": "Oye hutt",
+      "devanagari": "ओए हट्ट",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "Oye hutt",
       "explanation": "Interjection.",
@@ -770,6 +845,7 @@ export const mudda: Song = {
     },
     {
       "original": "Leta hoon main halke mein, tumhe toh bil mein raho",
+      "devanagari": "लेता हूँ मैं हल्के में, तुम्हें तोह बिल में रहो",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "I take you lightly, so you stay in your hole",
       "explanation": "Underestimating their opponents and telling them to stay in their place.",
@@ -777,6 +853,7 @@ export const mudda: Song = {
     },
     {
       "original": "Sher abhi dahda hai nahi",
+      "devanagari": "शेर अभी दहाड़ा है नहीं",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "The lion hasn't roared yet",
       "explanation": "Suggesting they haven't fully unleashed their potential.",
@@ -790,6 +867,7 @@ export const mudda: Song = {
     },
     {
       "original": "Bhussi bharne mujhe chahiye chaar line nahi",
+      "devanagari": "भुस्सी भरने मुझे चाहिए चार line नहीं",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "I don't need four lines to fill you with husk",
       "explanation": "Saying it doesn't take much to insult or defeat his opponent. \"Bhussi bharna\" is an idiomatic expression.",
@@ -803,6 +881,7 @@ export const mudda: Song = {
     },
     {
       "original": "Aisa koi din nahi jabhi maal aaye nahi",
+      "devanagari": "ऐसा कोई दिन नहीं जभी माल आए नहीं",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "There isn't a day when the 'maal' doesn't arrive",
       "explanation": "Boasting abundance of drugs (or money).",
@@ -816,6 +895,7 @@ export const mudda: Song = {
     },
     {
       "original": "Kholu tera sarr jaise taala yahi daala",
+      "devanagari": "खोलू तेरा सर जैसे ताला यही डाला",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "I'll open your head like a lock I've put on",
       "explanation": "Threatening to crack open their opponent's head.",
@@ -823,6 +903,7 @@ export const mudda: Song = {
     },
     {
       "original": "Tere sar pe main maala, pade thai thai",
+      "devanagari": "तेरे सर पे मैं माला, पड़े ठाई ठाई",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "I'll put a garland on your head, it'll fall 'thai thai'",
       "explanation": "Threatening to beat them so hard that the garland(metaphor for beating) will constantly be falling. Thai Thai represents the sound that is made when someone falls",
@@ -830,6 +911,7 @@ export const mudda: Song = {
     },
     {
       "original": "Galat hue tere haalat yahi",
+      "devanagari": "ग़लत हुए तेरे हालात यही",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "Your situation will go wrong right here",
       "explanation": "Suggesting their opponents will face consequences immediately.",
@@ -837,6 +919,7 @@ export const mudda: Song = {
     },
     {
       "original": "Tera MUDDA banega aaj raat yahi",
+      "devanagari": "तेरा MUDDA बनेगा आज रात यही",
       "speaker": "Seedhe Maut & Yung Sammy",
       "translation": "Your 'MUDDA' will be made tonight right here",
       "explanation": "Declaring that their opponent's 'issue' (the 'mudda' they have) will be resolved or created tonight.",

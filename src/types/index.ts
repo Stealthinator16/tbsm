@@ -8,6 +8,8 @@ export interface Annotation {
 
 export interface LyricLine {
   original: string;
+  romanized?: string;
+  devanagari?: string;
   translation?: string;
   explanation?: string;
   annotations?: (Annotation | string)[];

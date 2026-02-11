@@ -9,6 +9,7 @@ export const bechara: Song = {
   "lyrics": [
     {
       "original": "रातें तेरे बिना छोटी हैं",
+      "romanized": "Raaten tere binaa chhotee hain",
       "speaker": "Calm",
       "translation": "Nights are shorter without you.",
       "explanation": "Usually, nights feel long when you miss someone. Calm subverts this, perhaps implying he's so restless or busy that time passes in a blur.",
@@ -16,6 +17,7 @@ export const bechara: Song = {
     },
     {
       "original": "नापे तेरे लिए पूरा ग्रह",
+      "romanized": "Naape tere lie pooraa graha",
       "speaker": "Calm",
       "translation": "I've measured the whole planet for you.",
       "explanation": "Hyperbole suggesting he has traveled far or would go to any lengths for the person he's addressing.",
@@ -29,6 +31,7 @@ export const bechara: Song = {
     },
     {
       "original": "ये आँखें तेरे लिए रोती हैं",
+      "romanized": "Ye aankhen tere lie rotee hain",
       "speaker": "Calm",
       "translation": "These eyes cry for you.",
       "explanation": "A direct expression of grief and the emotional toll of the separation.",
@@ -36,6 +39,7 @@ export const bechara: Song = {
     },
     {
       "original": "हिला दे तेरे लिए पूरा शहर",
+      "romanized": "Hilaa de tere lie pooraa shahara",
       "speaker": "Calm",
       "translation": "I’d shake the whole city for you.",
       "explanation": "Demonstrates his influence and power in the city (Delhi), asserting he would use his status for her.",
@@ -49,6 +53,7 @@ export const bechara: Song = {
     },
     {
       "original": "हिला दे तेरे लिए पूरा शहर",
+      "romanized": "Hilaa de tere lie pooraa shahara",
       "speaker": "Calm",
       "translation": "I’d shake the whole city for you.",
       "explanation": "Repetition for emphasis on his devotion and capabilities.",
@@ -56,6 +61,7 @@ export const bechara: Song = {
     },
     {
       "original": "जाने जान क्या रहा हूँ तुझे दिखाई",
+      "romanized": "Jaane jaana kyaa rahaa hoon tujhe dikhaaee",
       "speaker": "Encore ABJ",
       "translation": "My love, what do I look like to you now?",
       "explanation": "Encore questions how his partner perceives him now that he is a famous and perhaps changed person.",
@@ -69,6 +75,7 @@ export const bechara: Song = {
     },
     {
       "original": "सूरज हूँ, छिप रही है जैसे परछाई तू",
+      "romanized": "Sooraja hoon, chhipa rahee hai jaise parachhaaee too",
       "speaker": "Encore ABJ",
       "translation": "I am the sun, and you're hiding like a shadow.",
       "explanation": "A metaphor for his success (the sun) and how his partner is fading away or eclipsed by his bright spotlight.",
@@ -82,6 +89,7 @@ export const bechara: Song = {
     },
     {
       "original": "क्या यहाँ प्यार है",
+      "romanized": "Kyaa yahaan pyaara hai",
       "speaker": "Encore ABJ",
       "translation": "Is there love here?",
       "explanation": "A moment of existential doubt regarding the authenticity of the love he is receiving.",
@@ -89,6 +97,7 @@ export const bechara: Song = {
     },
     {
       "original": "क्या यहाँ प्यार है",
+      "romanized": "Kyaa yahaan pyaara hai",
       "speaker": "Encore ABJ",
       "translation": "Is there love here?",
       "explanation": "Repetition emphasizing the internal conflict and search for genuine connection.",
@@ -96,6 +105,7 @@ export const bechara: Song = {
     },
     {
       "original": "थक चुका है बेचारा",
+      "romanized": "Thaka chukaa hai bechaaraa",
       "speaker": "Encore ABJ",
       "translation": "The poor soul is exhausted.",
       "explanation": "Refers to the song title. He speaks of himself in the third person, showing weariness from the hustle and heartbreak.",
@@ -115,6 +125,7 @@ export const bechara: Song = {
     },
     {
       "original": "उसकी कमी से सीखा तो पता चला what I need",
+      "romanized": "Usakee kamee se seekhaa to pataa chalaa wahat I need",
       "speaker": "Calm",
       "translation": "Learning from her absence, I realized what I need.",
       "explanation": "Reflecting on a breakup and how the void left by her helped him understand his true needs.",
@@ -122,6 +133,7 @@ export const bechara: Song = {
     },
     {
       "original": "और याद आया गलतियों से मिलती है सीख",
+      "romanized": "Aura yaada aayaa galatiyon se milatee hai seekha",
       "speaker": "Calm",
       "translation": "And I remembered that lessons are learned from mistakes.",
       "explanation": "Accepting the failed relationship as a necessary learning experience for personal growth.",
@@ -129,6 +141,7 @@ export const bechara: Song = {
     },
     {
       "original": "मैं pen का हूँ GOAT पर वो दिल से थी sheep",
+      "romanized": "Main pen kaa hoon GOAT para vo dila se thee sheep",
       "speaker": "Calm",
       "translation": "I'm the GOAT with the pen, but she was a sheep at heart.",
       "explanation": "Wordplay: He is the 'Greatest Of All Time' at writing, but she was a follower or too innocent/naive (sheep).",
@@ -153,6 +166,7 @@ export const bechara: Song = {
     },
     {
       "original": "मैं गिन रहा था note पर वो गिन रही थी seeds",
+      "romanized": "Main gina rahaa thaa note para vo gina rahee thee seeds",
       "speaker": "Calm",
       "translation": "I was counting money, while she was counting seeds.",
       "explanation": "Contrast in priorities: He was focused on financial success (notes), while she was focused on growth or potential (seeds).",
@@ -172,6 +186,7 @@ export const bechara: Song = {
     },
     {
       "original": "थका हारा आया अपने दोस्त पे",
+      "romanized": "Thakaa haaraa aayaa apane dosta pe",
       "speaker": "Calm",
       "translation": "Exhausted and defeated, I came to my friend.",
       "explanation": "When life got tough, he relied on his circle/brotherhood (Seedhe Maut bond) for support.",
@@ -179,6 +194,7 @@ export const bechara: Song = {
     },
     {
       "original": "नहीं पसंद मुझे दुनिया के चोचले",
+      "romanized": "Naheen pasanda mujhe duniyaa ke chochale",
       "speaker": "Calm",
       "translation": "I don't like the world's pretenses.",
       "explanation": "Calm expresses his dislike for the fake drama and superficiality of the industry and society.",
@@ -192,6 +208,7 @@ export const bechara: Song = {
     },
     {
       "original": "रहता ऊपर, मुझे पसंद हैं बस घोंसले",
+      "romanized": "Rahataa oopara, mujhe pasanda hain basa ghonsale",
       "speaker": "Calm",
       "translation": "I stay high up; I only like nests.",
       "explanation": "Continuing a bird metaphor—he is at the top of the game but prefers the privacy and comfort of his own home ('nest').",
@@ -205,6 +222,7 @@ export const bechara: Song = {
     },
     {
       "original": "No pain, show fees, propane, Rolex",
+      "romanized": "No pain, show fees, propane, Rolex",
       "speaker": "Calm",
       "translation": "No pain, show fees, propane, Rolex",
       "explanation": "A list of the trappings of success: high energy (propane), luxury watches, and getting paid for shows.",
@@ -212,6 +230,7 @@ export const bechara: Song = {
     },
     {
       "original": "भाई ने रैपरों के खोले भोसड़े",
+      "romanized": "Bhaaee ne raiparon ke khole bhosare",
       "speaker": "Calm",
       "translation": "Your brother has destroyed these rappers.",
       "explanation": "Aggressive DHH slang indicating that he has completely dominated and outclassed his competition.",
@@ -231,6 +250,7 @@ export const bechara: Song = {
     },
     {
       "original": "ऐसे चोमू दिखे मुझे game में काफी रोज़ के",
+      "romanized": "Aise chomoo dikhe mujhe game men kaaphee roza ke",
       "speaker": "Calm",
       "translation": "I see fools like this in the game every day.",
       "explanation": "Dismissing mediocre rappers who try to act tough in the hip-hop scene.",
@@ -244,6 +264,7 @@ export const bechara: Song = {
     },
     {
       "original": "आया था यहाँ दिल्ली खाली सुविधा की खोज में",
+      "romanized": "Aayaa thaa yahaan dillee khaalee suvidhaa kee khoja men",
       "speaker": "Calm",
       "translation": "I came to Delhi just searching for opportunities.",
       "explanation": "A look back at his humble beginnings when he arrived in the city looking for basic means to succeed.",
@@ -251,6 +272,7 @@ export const bechara: Song = {
     },
     {
       "original": "लेकिन यहाँ पे घर बनाया परिणाम की सोच ने",
+      "romanized": "Lekina yahaan pe ghara banaayaa parinaama kee socha ne",
       "speaker": "Calm",
       "translation": "But the focus on results made me build a home here.",
       "explanation": "His drive for success and the outcomes of his hard work turned Delhi into his permanent base.",
@@ -258,6 +280,7 @@ export const bechara: Song = {
     },
     {
       "original": "कला से कलाकार्यकारी करे कलम की नोक पे",
+      "romanized": "Kalaa se kalaakaaryakaaree kare kalama kee noka pe",
       "speaker": "Encore ABJ",
       "translation": "Crafting artistry at the tip of the pen.",
       "explanation": "Encore highlights his dedication to technical lyricism and the power of his writing.",
@@ -271,6 +294,7 @@ export const bechara: Song = {
     },
     {
       "original": "हवा न लगे हवाबाज़ी हवाला होने दे",
+      "romanized": "Havaa na lage havaabaazee havaalaa hone de",
       "speaker": "Encore ABJ",
       "translation": "Don't let the arrogance hit me; let the business proceed.",
       "explanation": "Wordplay on 'Hawa' (air/ego). He wants to avoid being fake or arrogant ('Hawabaazi') while the money flows.",
@@ -284,6 +308,7 @@ export const bechara: Song = {
     },
     {
       "original": "ना कभी मैं, तभी सभी कवि के जैसा रोड पे",
+      "romanized": "Naa kabhee main, tabhee sabhee kavi ke jaisaa roda pe",
       "speaker": "Encore ABJ",
       "translation": "Not me, that's why I'm like every poet on the road.",
       "explanation": "Despite his fame, he identifies with the common man and the struggling poets on the street.",
@@ -291,6 +316,7 @@ export const bechara: Song = {
     },
     {
       "original": "हूँ बैठा यहाँ सुन रहा किस्से, पिसे दिल तो तोड़ के",
+      "romanized": "Hoon baithaa yahaan suna rahaa kisse, pise dila to toड़ ke",
       "speaker": "Encore ABJ",
       "translation": "Sitting here listening to stories of crushed and broken hearts.",
       "explanation": "He is an observer of the pain around him, which often fuels his song-writing.",
@@ -304,6 +330,7 @@ export const bechara: Song = {
     },
     {
       "original": "वो समझी नहीं",
+      "romanized": "Vo samajhee naheen",
       "speaker": "Encore ABJ",
       "translation": "She didn't understand.",
       "explanation": "A simple acknowledgment of the communication gap in his relationship.",
@@ -311,6 +338,7 @@ export const bechara: Song = {
     },
     {
       "original": "मैं प्यार का भूखा हूँ नहीं",
+      "romanized": "Main pyaara kaa bhookhaa hoon naheen",
       "speaker": "Encore ABJ",
       "translation": "I am not starving for love.",
       "explanation": "He claims he doesn't need desperate affection, perhaps out of a sense of self-sufficiency or pride.",
@@ -318,6 +346,7 @@ export const bechara: Song = {
     },
     {
       "original": "बस चाहता हूँ तू समझे",
+      "romanized": "Basa chaahataa hoon too samajhe",
       "speaker": "Encore ABJ",
       "translation": "I just want you to understand.",
       "explanation": "He values empathy and mutual understanding over just the label of 'love'.",
@@ -325,6 +354,7 @@ export const bechara: Song = {
     },
     {
       "original": "वो बोलती समझती है",
+      "romanized": "Vo bolatee samajhatee hai",
       "speaker": "Encore ABJ",
       "translation": "She says she understands.",
       "explanation": "His partner gives him verbal assurance, but the next line suggests otherwise.",
@@ -332,6 +362,7 @@ export const bechara: Song = {
     },
     {
       "original": "फिर हर बात पे क्यों गले पे लपकती है",
+      "romanized": "Phira hara baata pe kyon gale pe lapakatee hai",
       "speaker": "Encore ABJ",
       "translation": "Then why does she jump at my throat over everything?",
       "explanation": "Metaphor for constant arguing and conflict; her actions contradict her claim of understanding.",
@@ -345,6 +376,7 @@ export const bechara: Song = {
     },
     {
       "original": "कसम से",
+      "romanized": "Kasama se",
       "speaker": "Encore ABJ",
       "translation": "I swear.",
       "explanation": "An expression of frustration and sincerity.",
@@ -352,6 +384,7 @@ export const bechara: Song = {
     },
     {
       "original": "मैं लगता हूँ मतलबी",
+      "romanized": "Main lagataa hoon matalabee",
       "speaker": "Encore ABJ",
       "translation": "I seem selfish.",
       "explanation": "Acknowledging that his focus on career might make him appear self-centered to his partner.",
@@ -365,6 +398,7 @@ export const bechara: Song = {
     },
     {
       "original": "पर इस प्यार में अब बचा मतलब नहीं है",
+      "romanized": "Para isa pyaara men aba bachaa matalaba naheen hai",
       "speaker": "Encore ABJ",
       "translation": "But there's no meaning left in this love anymore.",
       "explanation": "Wordplay on 'Matlab' (meaning vs. selfish). He concludes the relationship has lost its purpose.",
@@ -372,6 +406,7 @@ export const bechara: Song = {
     },
     {
       "original": "रातें तेरे बिना छोटी हैं",
+      "romanized": "Raaten tere binaa chhotee hain",
       "speaker": "Calm",
       "translation": "Nights are shorter without you.",
       "explanation": "Chorus repetition: The nights pass by quickly because he's lost in his own world.",
@@ -379,6 +414,7 @@ export const bechara: Song = {
     },
     {
       "original": "नापे तेरे लिए पूरा ग्रह",
+      "romanized": "Naape tere lie pooraa graha",
       "speaker": "Calm",
       "translation": "I've measured the whole planet for you.",
       "explanation": "Chorus repetition: Stating the scale of his efforts.",
@@ -386,6 +422,7 @@ export const bechara: Song = {
     },
     {
       "original": "ये आँखें तेरे लिए रोती हैं",
+      "romanized": "Ye aankhen tere lie rotee hain",
       "speaker": "Calm",
       "translation": "These eyes cry for you.",
       "explanation": "Chorus repetition: Expressing deep sadness.",
@@ -393,6 +430,7 @@ export const bechara: Song = {
     },
     {
       "original": "हिला दे तेरे लिए पूरा शहर",
+      "romanized": "Hilaa de tere lie pooraa shahara",
       "speaker": "Calm",
       "translation": "I’d shake the whole city for you.",
       "explanation": "Chorus repetition: Reasserting his power and loyalty.",
@@ -400,6 +438,7 @@ export const bechara: Song = {
     },
     {
       "original": "हिला दे तेरे लिए पूरा शहर",
+      "romanized": "Hilaa de tere lie pooraa shahara",
       "speaker": "Calm",
       "translation": "I’d shake the whole city for you.",
       "explanation": "Chorus repetition.",
@@ -407,6 +446,7 @@ export const bechara: Song = {
     },
     {
       "original": "जाने जान क्या रहा हूँ तुझे दिखाई",
+      "romanized": "Jaane jaana kyaa rahaa hoon tujhe dikhaaee",
       "speaker": "Encore ABJ",
       "translation": "My love, what do I look like to you now?",
       "explanation": "Chorus repetition: Questioning his identity in her eyes.",
@@ -414,6 +454,7 @@ export const bechara: Song = {
     },
     {
       "original": "सूरज हूँ, छिप रही है जैसे परछाई तू",
+      "romanized": "Sooraja hoon, chhipa rahee hai jaise parachhaaee too",
       "speaker": "Encore ABJ",
       "translation": "I am the sun, and you're hiding like a shadow.",
       "explanation": "Chorus repetition: The metaphor of fame vs. distance.",
@@ -421,6 +462,7 @@ export const bechara: Song = {
     },
     {
       "original": "क्या यहाँ प्यार है",
+      "romanized": "Kyaa yahaan pyaara hai",
       "speaker": "Encore ABJ",
       "translation": "Is there love here?",
       "explanation": "Chorus repetition: Doubt about the relationship.",
@@ -428,6 +470,7 @@ export const bechara: Song = {
     },
     {
       "original": "क्या यहाँ प्यार है",
+      "romanized": "Kyaa yahaan pyaara hai",
       "speaker": "Encore ABJ",
       "translation": "Is there love here?",
       "explanation": "Chorus repetition.",
@@ -435,6 +478,7 @@ export const bechara: Song = {
     },
     {
       "original": "थक चुका है बेचारा",
+      "romanized": "Thaka chukaa hai bechaaraa",
       "speaker": "Encore ABJ",
       "translation": "The poor soul is exhausted.",
       "explanation": "Final line: The 'Bechara' (helpless version of the artist) is finally burnt out.",

@@ -9,6 +9,7 @@ export const pickup: Song = {
   "lyrics": [
     {
       "original": "Bigger-bigger बंदी thicker, diggin' deeper, seven figure",
+      "romanized": "Bigger-bigger bandee thicker, diggin' deeper, seven figure",
       "speaker": "Calm",
       "translation": "Bigger things, thicker girl, digging deeper, seven figures.",
       "explanation": "Calm flexes his high-status lifestyle, involving financial success and physical attractions.",
@@ -27,6 +28,7 @@ export const pickup: Song = {
     },
     {
       "original": "Kamakaze करे heat up लुटे चैन like it's a stick up",
+      "romanized": "Kamakaze kare heat up lute chain like it's a stick up",
       "speaker": "Calm",
       "translation": "Doing Kamikaze, heating it up, stealing peace like it's a stick-up.",
       "explanation": "Refers to high-intensity energy (Kamikaze) that disrupts the scene like an armed robbery (stick-up).",
@@ -45,6 +47,7 @@ export const pickup: Song = {
     },
     {
       "original": "Pickup pickup पैसा bitch और नशे अब भी fuck my shit up",
+      "romanized": "Pickup pickup paisaa bitch aur nashe ab bhee fuck my shit up",
       "speaker": "Calm",
       "translation": "Picking up money and girls, and drugs still mess me up.",
       "explanation": "A raw look at the vices of fame—money and substances—even while succeeding.",
@@ -63,6 +66,7 @@ export const pickup: Song = {
     },
     {
       "original": "महंगी ticket वही दोस्त महंगे शौक और",
+      "romanized": "Mahngee ticket vahee dost mahnge shauk aur",
       "speaker": "Calm",
       "translation": "Expensive tickets, the same old friends, and expensive habits.",
       "explanation": "Despite the high costs of their new life, they stick with their original crew.",
@@ -76,6 +80,7 @@ export const pickup: Song = {
     },
     {
       "original": "महंगी liquor",
+      "romanized": "Mahngee liquor",
       "speaker": "Calm",
       "translation": "Expensive liquor.",
       "explanation": "Refining tastes as they move up the social ladder.",
@@ -83,6 +88,7 @@ export const pickup: Song = {
     },
     {
       "original": "कलम है lais",
+      "romanized": "Kalm hai lais",
       "speaker": "Encore ABJ",
       "translation": "The pen is armed/equipped.",
       "explanation": "Encore uses 'lais' (armed) to describe his lyrical skills as weaponized.",
@@ -96,6 +102,7 @@ export const pickup: Song = {
     },
     {
       "original": "Beato पे lash out",
+      "romanized": "Beato pe lash out",
       "speaker": "Encore ABJ",
       "translation": "Lashing out on the beats.",
       "explanation": "Expressing intense aggression and flow over the production.",
@@ -103,6 +110,7 @@ export const pickup: Song = {
     },
     {
       "original": "हूँ मैं रहस्य",
+      "romanized": "Hoon main rahsy",
       "speaker": "Encore ABJ",
       "translation": "I am a mystery.",
       "explanation": "Claiming a complex, unpredictable persona that others can't figure out.",
@@ -110,6 +118,7 @@ export const pickup: Song = {
     },
     {
       "original": "साथी है दैत्य",
+      "romanized": "Saathee hai daity",
       "speaker": "Encore ABJ",
       "translation": "My companion is a demon.",
       "explanation": "Referring to his partner Calm or his crew as powerful, unstoppable forces.",
@@ -123,6 +132,7 @@ export const pickup: Song = {
     },
     {
       "original": "ना करूँ mess",
+      "romanized": "Naa karoon mess",
       "speaker": "Encore ABJ",
       "translation": "I don't make a mess.",
       "explanation": "Maintaining precision in his work and street reputation.",
@@ -130,6 +140,7 @@ export const pickup: Song = {
     },
     {
       "original": "सुने है masses",
+      "romanized": "Sune hai masses",
       "speaker": "Encore ABJ",
       "translation": "The masses listen.",
       "explanation": "Acknowledging their massive mainstream and underground following.",
@@ -137,6 +148,7 @@ export const pickup: Song = {
     },
     {
       "original": "बड़ा है gap",
+      "romanized": "Baraa hai gap",
       "speaker": "Encore ABJ",
       "translation": "The gap is wide.",
       "explanation": "Indicating the skill distance between Seedhe Maut and other rappers.",
@@ -144,6 +156,7 @@ export const pickup: Song = {
     },
     {
       "original": "काली है हश और हरा है cash",
+      "romanized": "Kaalee hai hash aur haraa hai cash",
       "speaker": "Encore ABJ",
       "translation": "The hash is black and the cash is green.",
       "explanation": "A color-coded reference to drugs and wealth.",
@@ -157,6 +170,7 @@ export const pickup: Song = {
     },
     {
       "original": "SM assassin",
+      "romanized": "SM assassin",
       "speaker": "Encore ABJ",
       "translation": "Seedhe Maut assassins.",
       "explanation": "A metaphor for killing every beat or competition they face.",
@@ -176,6 +190,7 @@ export const pickup: Song = {
     },
     {
       "original": "You can imagine",
+      "romanized": "You can imagine",
       "speaker": "Encore ABJ",
       "translation": "You can imagine.",
       "explanation": "Leaving the scale of their success to the listener's imagination.",
@@ -190,6 +205,7 @@ export const pickup: Song = {
     },
     {
       "original": "कितने है lakhs और कितनी है back",
+      "romanized": "Kitne hai lakhs aur kitnee hai back",
       "speaker": "Encore ABJ",
       "translation": "How many lakhs (money) and how much support/backup.",
       "explanation": "Flexing both their wealth and their strong street support.",
@@ -203,6 +219,7 @@ export const pickup: Song = {
     },
     {
       "original": "करे यहाँ cap तो पड़े यहाँ रहेपटे",
+      "romanized": "Kare yahaan cap to pare yahaan rahepte",
       "speaker": "Encore ABJ",
       "translation": "If you lie here, you'll get slapped.",
       "explanation": "Calling out fake rappers; 'cap' means lying, 'rehapte' is Delhi slang for slaps.",
@@ -221,6 +238,7 @@ export const pickup: Song = {
     },
     {
       "original": "Up in the map we up in the map",
+      "romanized": "Up in the map we up in the map",
       "speaker": "Encore ABJ",
       "translation": "We are rising on the map.",
       "explanation": "Putting Delhi and Indian Hip Hop on the global map.",
@@ -228,6 +246,7 @@ export const pickup: Song = {
     },
     {
       "original": "Pickup pickup",
+      "romanized": "Pickup pickup",
       "speaker": "Encore ABJ",
       "translation": "Pickup, pickup.",
       "explanation": "Refers to picking up momentum or picking up the earnings.",
@@ -235,6 +254,7 @@ export const pickup: Song = {
     },
     {
       "original": "पापा calling",
+      "romanized": "Paapaa calling",
       "speaker": "Encore ABJ",
       "translation": "Dad's calling.",
       "explanation": "The moment of realization or trouble when family intervenes in a wild lifestyle.",
@@ -242,6 +262,7 @@ export const pickup: Song = {
     },
     {
       "original": "होगई दिक्कत",
+      "romanized": "Hogee dikkat",
       "speaker": "Encore ABJ",
       "translation": "There's a problem now.",
       "explanation": "The consequence of being caught or interrupted.",
@@ -249,6 +270,7 @@ export const pickup: Song = {
     },
     {
       "original": "चेपू लौंडे रहे है चिपक",
+      "romanized": "Chepoo launde rahe hai chipk",
       "speaker": "Encore ABJ",
       "translation": "Clingy guys are sticking around.",
       "explanation": "Referring to 'clout-chasers' or annoying people trying to ride their success.",
@@ -262,6 +284,7 @@ export const pickup: Song = {
     },
     {
       "original": "गए ये मिनट से पहले निपट",
+      "romanized": "Ge ye mint se pahle nipt",
       "speaker": "Encore ABJ",
       "translation": "They were finished in less than a minute.",
       "explanation": "Showing how easily they deal with opposition.",
@@ -269,6 +292,7 @@ export const pickup: Song = {
     },
     {
       "original": "I mean sit-up sit-up",
+      "romanized": "I mean sit-up sit-up",
       "speaker": "Encore ABJ",
       "translation": "I mean sit-up, sit-up.",
       "explanation": "A play on 'pickup'—suggesting the competition should do sit-ups (discipline/punishment).",
@@ -276,6 +300,7 @@ export const pickup: Song = {
     },
     {
       "original": "कमर सीधी करके kit-up",
+      "romanized": "Kamr seedhee karke kit-up",
       "speaker": "Encore ABJ",
       "translation": "Straighten your back and gear up.",
       "explanation": "The phrase 'Kamar Seedhi' refers to Seedhe Maut's brand/motto of standing tall.",
@@ -289,6 +314,7 @@ export const pickup: Song = {
     },
     {
       "original": "Game है कातिल player है killer",
+      "romanized": "Game hai kaatil player hai killer",
       "speaker": "Encore ABJ",
       "translation": "The game is lethal, the player is a killer.",
       "explanation": "Confidence in their dominance in the rap industry.",
@@ -296,6 +322,7 @@ export const pickup: Song = {
     },
     {
       "original": "नहीं हम iller इल्म है फ़िक्र",
+      "romanized": "Naheen ham iller ilm hai fikr",
       "speaker": "Encore ABJ",
       "translation": "We aren't just 'ill', we have knowledge and concern.",
       "explanation": "Wordplay on 'iller' (dope) and 'Ilm' (knowledge/wisdom).",
@@ -309,6 +336,7 @@ export const pickup: Song = {
     },
     {
       "original": "फ़िक्र-फ़िक्र करे मां बाप जानते नहीं है बेटा किधर",
+      "romanized": "Fikr-fikr kare maan baap jaante naheen hai betaa kidhr",
       "speaker": "Calm",
       "translation": "Parents worry, not knowing where their son is.",
       "explanation": "Reflecting the disconnect between their street/fame life and traditional home life.",
@@ -316,6 +344,7 @@ export const pickup: Song = {
     },
     {
       "original": "जीतते जाते जिधर जोटे देख के जनता जाती बिगड़",
+      "romanized": "Jeette jaate jidhr jote dekh ke jantaa jaatee bigr",
       "explanation": "Winning wherever we go, people lose it when they see the joints (or the style).",
       "speaker": "Calm",
       "translation": "We win wherever we go; the crowd goes wild seeing the 'jote' (joints).",
@@ -329,6 +358,7 @@ export const pickup: Song = {
     },
     {
       "original": "Clique है lit और kick है जब कोई पूछे can I click a pic अब",
+      "romanized": "Clique hai lit aur kick hai jab koee poochhe can I click a pic ab",
       "speaker": "Calm",
       "translation": "The clique is lit, and it's a thrill (kick) when people ask for pics.",
       "explanation": "The excitement of fame and being recognized in public.",
@@ -343,6 +373,7 @@ export const pickup: Song = {
     },
     {
       "original": "दबे trigger भागे गीदड़ gun है bigger gun है निडर",
+      "romanized": "Dabe trigger bhaage geedr gun hai bigger gun hai nidr",
       "speaker": "Calm",
       "translation": "The trigger is pressed, cowards run; the gun is bigger and fearless.",
       "explanation": "Metaphorical 'gun' referring to their rap skills/voice scaring off rivals.",
@@ -356,6 +387,7 @@ export const pickup: Song = {
     },
     {
       "original": "मिलूँ में bag में",
+      "romanized": "Miloon men bag men",
       "speaker": "Calm",
       "translation": "Find me in the bag.",
       "explanation": "Meaning he is focused on the money ('in his bag').",
@@ -369,6 +401,7 @@ export const pickup: Song = {
     },
     {
       "original": "Pen है ghaint और gat है gap ये",
+      "romanized": "Pen hai ghaint aur gat hai gap ye",
       "speaker": "Calm",
       "translation": "The pen is great and this gap is huge.",
       "explanation": "Flexing writing skills and the distance from the rest.",
@@ -382,6 +415,7 @@ export const pickup: Song = {
     },
     {
       "original": "बढ़ूँ मैं आगे हूँ lap और rap में",
+      "romanized": "Barhoon main aage hoon lap aur rap men",
       "speaker": "Calm",
       "translation": "I'm moving ahead in the lap and in rap.",
       "explanation": "Racing metaphor—he's laps ahead of others in the rap game.",
@@ -389,6 +423,7 @@ export const pickup: Song = {
     },
     {
       "original": "बैठा विलायत में झाई में jet में",
+      "romanized": "Baithaa vilaayt men jhaaee men jet men",
       "speaker": "Calm",
       "translation": "Sitting abroad, in the haze, in a jet.",
       "explanation": "Flexing international travel and success.",
@@ -402,6 +437,7 @@ export const pickup: Song = {
     },
     {
       "original": "बैठे ये वेहम में ज़ेहन में हम हैं",
+      "romanized": "Baithe ye vehm men zehn men ham hain",
       "speaker": "Calm",
       "translation": "They live in delusion, while we are in their heads.",
       "explanation": "Others are confused while SM dominates their thoughts and the scene.",
@@ -409,6 +445,7 @@ export const pickup: Song = {
     },
     {
       "original": "साथ हैगा दैत्य बैठते ऐंठ में",
+      "romanized": "Saath haigaa daity baithte ainth men",
       "speaker": "Calm",
       "translation": "The demon is with me, we sit with pride/attitude.",
       "explanation": "Confidence and having powerful friends/energy.",
@@ -416,6 +453,7 @@ export const pickup: Song = {
     },
     {
       "original": "Hurricane beato पे he got our back then",
+      "romanized": "Hurricane beato pe he got our back then",
       "speaker": "Calm",
       "translation": "Hurricane is on the beats, he had our back then.",
       "explanation": "Shoutout to the producer 'Hurricane' for his support.",
@@ -423,6 +461,7 @@ export const pickup: Song = {
     },
     {
       "original": "कैसे ना फटू ये ज़बान है Mac10",
+      "romanized": "Kaise naa phatoo ye zabaan hai Mac10",
       "speaker": "Calm",
       "translation": "How can I not explode? This tongue is a Mac-10.",
       "explanation": "Comparing his rapid-fire delivery to a submachine gun.",
@@ -436,6 +475,7 @@ export const pickup: Song = {
     },
     {
       "original": "Dl91 हम हैं सभी से बेहतर",
+      "romanized": "Dl91 ham hain sabhee se behtr",
       "speaker": "Calm",
       "translation": "DL-91 (West Delhi), we are better than everyone.",
       "explanation": "Representing his area code in Delhi.",
@@ -449,6 +489,7 @@ export const pickup: Song = {
     },
     {
       "original": "Bigger-bigger बंदी thicker, diggin' deeper, seven figure",
+      "romanized": "Bigger-bigger bandee thicker, diggin' deeper, seven figure",
       "speaker": "CALM",
       "translation": "Bigger things, thicker girl, digging deeper, seven figures.",
       "explanation": "Chorus repetition: Flexing lifestyle and wealth.",
@@ -463,6 +504,7 @@ export const pickup: Song = {
     },
     {
       "original": "Kamakaze करे heat up लुटे चैन like it's a stick up",
+      "romanized": "Kamakaze kare heat up lute chain like it's a stick up",
       "speaker": "CALM",
       "translation": "Doing Kamikaze, heating it up, stealing peace like a stick-up.",
       "explanation": "Chorus repetition: High intensity energy.",
@@ -470,6 +512,7 @@ export const pickup: Song = {
     },
     {
       "original": "Pickup pickup पैसा bitch और नशे अब भी fuck my shit up",
+      "romanized": "Pickup pickup paisaa bitch aur nashe ab bhee fuck my shit up",
       "speaker": "CALM",
       "translation": "Picking up money and girls, and drugs still mess me up.",
       "explanation": "Chorus repetition: Vices and success.",
@@ -484,6 +527,7 @@ export const pickup: Song = {
     },
     {
       "original": "महंगी tickеt वही दोस्त महंगे शौक और",
+      "romanized": "Mahngee tickеt vahee dost mahnge shauk aur",
       "speaker": "CALM",
       "translation": "Expensive tickets, same friends, expensive habits.",
       "explanation": "Chorus repetition: Loyalty and luxury.",
@@ -498,6 +542,7 @@ export const pickup: Song = {
     },
     {
       "original": "महंगी liquor",
+      "romanized": "Mahngee liquor",
       "speaker": "CALM",
       "translation": "Expensive liquor.",
       "explanation": "Chorus repetition.",
@@ -505,6 +550,7 @@ export const pickup: Song = {
     },
     {
       "original": "Pickup pickup",
+      "romanized": "Pickup pickup",
       "speaker": "Encore ABJ",
       "translation": "Pickup, pickup.",
       "explanation": "Hook/Refrain.",
@@ -512,6 +558,7 @@ export const pickup: Song = {
     },
     {
       "original": "पापा calling",
+      "romanized": "Paapaa calling",
       "speaker": "Encore ABJ",
       "translation": "Dad's calling.",
       "explanation": "Refrain: Home reality vs Street life.",
@@ -519,6 +566,7 @@ export const pickup: Song = {
     },
     {
       "original": "होगई दिक्कत",
+      "romanized": "Hogee dikkat",
       "speaker": "Encore ABJ",
       "translation": "There's a problem now.",
       "explanation": "Refrain.",
@@ -526,6 +574,7 @@ export const pickup: Song = {
     },
     {
       "original": "चेपू लौंडे रहे है चिपक",
+      "romanized": "Chepoo launde rahe hai chipk",
       "speaker": "Encore ABJ",
       "translation": "Clingy guys are sticking around.",
       "explanation": "Refrain: Dealing with fake people.",
@@ -533,6 +582,7 @@ export const pickup: Song = {
     },
     {
       "original": "गये ये मिनट से पहले निपट",
+      "romanized": "Gaye ye mint se pahle nipt",
       "speaker": "Encore ABJ",
       "translation": "They were finished in less than a minute.",
       "explanation": "Refrain: Quick disposal of haters.",
@@ -540,6 +590,7 @@ export const pickup: Song = {
     },
     {
       "original": "बिकट बिकट baawe dragon काटे ticket",
+      "romanized": "Bikt bikt baawe dragon kaate ticket",
       "speaker": "OG Lucifer",
       "translation": "It's tough/intense, bro, the dragon punches the ticket.",
       "explanation": "Lucifer uses 'Bikat' (intense) and refers to smoking or fire-spitting rhymes.",
@@ -558,6 +609,7 @@ export const pickup: Song = {
     },
     {
       "original": "Sick है business देता इज़्ज़त क ख ग ना ख खपिटर",
+      "romanized": "Sick hai business detaa izzat k kh g naa kh khapitr",
       "speaker": "OG Lucifer",
       "translation": "The business is sick, it gives respect; I don't care for the basics.",
       "explanation": "His grind brings respect, and he's beyond the beginners (K-Kh-G).",
@@ -565,6 +617,7 @@ export const pickup: Song = {
     },
     {
       "original": "जनहित में रखी है जानकारी",
+      "romanized": "Janhit men rakhee hai jaankaaree",
       "speaker": "OG Lucifer",
       "translation": "The information is kept in public interest.",
       "explanation": "Playing on government 'public interest' notices, but for street knowledge.",
@@ -572,6 +625,7 @@ export const pickup: Song = {
     },
     {
       "original": "Baawе हवाबाजी पूरी खानदानी",
+      "romanized": "Baawе havaabaajee pooree khaandaanee",
       "speaker": "OG Lucifer",
       "translation": "Bro, the flexing is ancestral.",
       "explanation": "He comes from a lineage of being 'the man' or confident.",
@@ -585,6 +639,7 @@ export const pickup: Song = {
     },
     {
       "original": "चढ़ी धंधे के कंधे पे ईमानदारी",
+      "romanized": "Charhee dhandhe ke kandhe pe eemaandaaree",
       "speaker": "OG Lucifer",
       "translation": "Honesty is riding on the shoulder of the business.",
       "explanation": "Maintaining integrity even in a shady or tough business.",
@@ -592,6 +647,7 @@ export const pickup: Song = {
     },
     {
       "original": "लगी गाँधी पे पट्टी पे वो गांधारी",
+      "romanized": "Lagee gaandhee pe pattee pe vo gaandhaaree",
       "speaker": "OG Lucifer",
       "translation": "The blindfold is on Gandhi (money), she is Gandhari.",
       "explanation": "Brilliant wordplay: Gandhi is on currency notes; being blind to everything for money, like Gandhari.",
@@ -610,6 +666,7 @@ export const pickup: Song = {
     },
     {
       "original": "तेरी कार्यवाही करे kamikaze मेने काले कांड करे कालकाजी",
+      "romanized": "Teree kaaryavaahee kare kamikaze mene kaale kaand kare kaalkaajee",
       "speaker": "OG Lucifer",
       "translation": "Your actions are kamikaze; I did dark deeds in Kalkaji.",
       "explanation": "Referring to his past or street reputation in the Kalkaji area of Delhi.",
@@ -623,6 +680,7 @@ export const pickup: Song = {
     },
     {
       "original": "वादा",
+      "romanized": "Vaadaa",
       "speaker": "OG Lucifer",
       "translation": "Promise.",
       "explanation": "Emphasis on his word.",
@@ -630,6 +688,7 @@ export const pickup: Song = {
     },
     {
       "original": "वादा किया कभी टलता नहीं",
+      "romanized": "Vaadaa kiyaa kabhee taltaa naheen",
       "speaker": "OG Lucifer",
       "translation": "A promise made is never broken.",
       "explanation": "Street code—loyalty and keeping one's word.",
@@ -637,6 +696,7 @@ export const pickup: Song = {
     },
     {
       "original": "तू सामने से मीठा बस मार ताली",
+      "romanized": "Too saamne se meethaa bas maar taalee",
       "speaker": "OG Lucifer",
       "translation": "You are sweet to my face, just clap along.",
       "explanation": "Calling out two-faced people who act like fans but are fake.",
@@ -644,6 +704,7 @@ export const pickup: Song = {
     },
     {
       "original": "Area है गन्दा तो शरीर से बांस आती",
+      "romanized": "Area hai gandaa to shareer se baans aatee",
       "speaker": "OG Lucifer",
       "translation": "If the area is dirty, the body stinks.",
       "explanation": "Environment shapes a person; reflecting the grit of his neighborhood.",
@@ -657,6 +718,7 @@ export const pickup: Song = {
     },
     {
       "original": "उस गली की भाभी की टांग ठा दी",
+      "romanized": "Us galee kee bhaabhee kee taang thaa dee",
       "speaker": "OG Lucifer",
       "translation": "Lifted the leg of that alley's sister-in-law.",
       "explanation": "Aggressive, crude street talk flexing sexual dominance or neighborhood status.",
@@ -664,6 +726,7 @@ export const pickup: Song = {
     },
     {
       "original": "मेने पि नहीं बस बोतल से gargle की",
+      "romanized": "Mene pi naheen bas botl se gargle kee",
       "speaker": "OG Lucifer",
       "translation": "I didn't drink, I just gargled with the bottle.",
       "explanation": "Flexing excess—having so much alcohol he doesn't even need to drink it properly.",
@@ -671,6 +734,7 @@ export const pickup: Song = {
     },
     {
       "original": "जब पैसे उड़ाने तो calm भाई मानता नहीं",
+      "romanized": "Jab paise uraane to calm bhaaee maantaa naheen",
       "speaker": "OG Lucifer",
       "translation": "When it's time to blow money, Calm doesn't stop.",
       "explanation": "Acknowledging Calm's habit of spending big.",
@@ -678,6 +742,7 @@ export const pickup: Song = {
     },
     {
       "original": "Old school पहले फ़ोन china था micromax",
+      "romanized": "Old school pahle fon china thaa micromax",
       "speaker": "OG Lucifer",
       "translation": "Old school, the first phone was a China Micromax.",
       "explanation": "Humble beginnings before the current wealth.",
@@ -685,6 +750,7 @@ export const pickup: Song = {
     },
     {
       "original": "कटी पतंग तेरा Kai Po Che!",
+      "romanized": "Katee patng teraa Kai Po Che!",
       "speaker": "OG Lucifer",
       "translation": "Like a cut kite, Kai Po Che!",
       "explanation": "Victory shout in kite-flying; saying he's cut the competition down.",
@@ -698,6 +764,7 @@ export const pickup: Song = {
     },
     {
       "original": "पहले हथियार less अब बन रहा कुछ तेरा भाई fresh",
+      "romanized": "Pahle hathiyaar less ab ban rahaa kuchh teraa bhaaee fresh",
       "speaker": "OG Lucifer",
       "translation": "First I was 'less' on weapons, now your brother is becoming something fresh.",
       "explanation": "Growth from being unarmed/weak to a fresh, successful status.",
@@ -705,6 +772,7 @@ export const pickup: Song = {
     },
     {
       "original": "आशिक़ हूँ रंगों का गलियों में दिखता रंग रैली",
+      "romanized": "Aashiq hoon rangon kaa galiyon men dikhtaa rang railee",
       "speaker": "OG Lucifer",
       "translation": "I'm a lover of colors; I see color rallies in the streets.",
       "explanation": "Poetic take on the vibrant, chaotic life of the streets.",
@@ -712,6 +780,7 @@ export const pickup: Song = {
     },
     {
       "original": "इस matter में metal है baawe तू matter pistol लगे पूरी गंडमारी",
+      "romanized": "Is matter men metal hai baawe too matter pistol lage pooree gandmaaree",
       "speaker": "OG Lucifer",
       "translation": "There's metal (guns) in this matter, bro; you look like a pistol, looks like a real struggle.",
       "explanation": "Warning about the seriousness of the 'matter' (conflict).",
@@ -725,6 +794,7 @@ export const pickup: Song = {
     },
     {
       "original": "वो मेरे ही ख़ास जो जाते है rally में बनादे तुझे भी मंत्री",
+      "romanized": "Vo mere hee khaas jo jaate hai rally men banaade tujhe bhee mantree",
       "speaker": "OG Lucifer",
       "translation": "My close ones go to rallies, they could make you a minister.",
       "explanation": "Boasting about political connections and local influence.",
@@ -732,6 +802,7 @@ export const pickup: Song = {
     },
     {
       "original": "आती है पास वो groupie देख rupees तो baawe मेरे लण्ड पे ठण्ड बजी",
+      "romanized": "Aatee hai paas vo groupie dekh rupees to baawe mere land pe thand bajee",
       "speaker": "OG Lucifer",
       "translation": "The groupie comes close seeing the money, but I'm cold to it.",
       "explanation": "Being indifferent to shallow attention from gold-diggers.",
@@ -739,6 +810,7 @@ export const pickup: Song = {
     },
     {
       "original": "देखेंगे बाये भागेगा bye राजधानी कम सनसनी",
+      "romanized": "Dekhenge baaye bhaagegaa bye raajdhaanee kam sansnee",
       "speaker": "OG Lucifer",
       "translation": "We'll see, you'll run away saying bye; less of a train, more of a sensation.",
       "explanation": "Wordplay on Rajdhani (the fast train) and their sensational rise.",
@@ -753,6 +825,7 @@ export const pickup: Song = {
     },
     {
       "original": "No family ties बस family guy मेरे अंश बैठे करे अनशन ही",
+      "romanized": "No family ties bas family guy mere ansh baithe kare anashn hee",
       "speaker": "OG Lucifer",
       "translation": "No family ties, just a family guy; my offspring sit on a hunger strike.",
       "explanation": "Likely referring to his 'sons' (subordinate rappers) struggling or waiting for him.",
@@ -760,6 +833,7 @@ export const pickup: Song = {
     },
     {
       "original": "ये मुँह पे मीठे clap clap clap",
+      "romanized": "Ye munh pe meethe clap clap clap",
       "speaker": "OG Lucifer",
       "translation": "These people are sweet to your face, clap clap clap.",
       "explanation": "Sarcastic applause for the fakes and sycophants.",
@@ -774,6 +848,7 @@ export const pickup: Song = {
     },
     {
       "original": "सत्रा के सत्तर अब fact facts",
+      "romanized": "Satraa ke sattar ab fact facts",
       "speaker": "OG Lucifer",
       "translation": "From 17 to 70 now, facts only.",
       "explanation": "Referring to growth in age, percentage, or numbers.",
@@ -781,6 +856,7 @@ export const pickup: Song = {
     },
     {
       "original": "और मिलती रोटी उसको जिसके मुँह में नहीं दांत",
+      "romanized": "Aur miltee rotee usako jiske munh men naheen daant",
       "speaker": "OG Lucifer",
       "translation": "And the bread goes to those who have no teeth.",
       "explanation": "Proverbial: Sometimes the ones who can't use a resource are the ones given it.",
@@ -788,6 +864,7 @@ export const pickup: Song = {
     },
     {
       "original": "और खोले धोती अफरा तू तो उतरे औकात",
+      "romanized": "Aur khole dhotee apharaa too to utare aukaat",
       "speaker": "OG Lucifer",
       "translation": "Opening the dhoti; your real status is being exposed.",
       "explanation": "Metaphor for exposing someone's true, often lowly, nature.",
@@ -795,6 +872,7 @@ export const pickup: Song = {
     },
     {
       "original": "इकहत्तर इक्यानवे 4Life",
+      "romanized": "Ikahttar ikyaanve 4Life",
       "speaker": "OG Lucifer",
       "translation": "71, 91 for life.",
       "explanation": "Shoutout to Delhi area codes (DL-71, DL-91) representing their hoods.",
@@ -808,6 +886,7 @@ export const pickup: Song = {
     },
     {
       "original": "Bigger-bigger बंदी thicker, diggin' deeper, seven figure",
+      "romanized": "Bigger-bigger bandee thicker, diggin' deeper, seven figure",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Bigger things, thicker girl, digging deeper, seven figures.",
       "explanation": "Chorus by both SM members.",
@@ -815,6 +894,7 @@ export const pickup: Song = {
     },
     {
       "original": "Kamakaze करे heat up लुटे चैन like it's a stick up",
+      "romanized": "Kamakaze kare heat up lute chain like it's a stick up",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Doing Kamikaze, heating it up, stealing peace like a stick-up.",
       "explanation": "Chorus by both SM members.",
@@ -822,6 +902,7 @@ export const pickup: Song = {
     },
     {
       "original": "Pickup pickup",
+      "romanized": "Pickup pickup",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Pickup, pickup.",
       "explanation": "Outro Hook.",
@@ -829,6 +910,7 @@ export const pickup: Song = {
     },
     {
       "original": "पापा calling",
+      "romanized": "Paapaa calling",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Dad's calling.",
       "explanation": "Outro Hook.",
@@ -836,6 +918,7 @@ export const pickup: Song = {
     },
     {
       "original": "होगई दिक्कत",
+      "romanized": "Hogee dikkat",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "There's a problem now.",
       "explanation": "Outro Hook.",
@@ -843,6 +926,7 @@ export const pickup: Song = {
     },
     {
       "original": "चेपू लौंडे रहे है चिपक",
+      "romanized": "Chepoo launde rahe hai chipk",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Clingy guys are sticking around.",
       "explanation": "Outro Hook.",
@@ -850,6 +934,7 @@ export const pickup: Song = {
     },
     {
       "original": "गये ये मिनट से पहले निपट",
+      "romanized": "Gaye ye mint se pahle nipt",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "They were finished in less than a minute.",
       "explanation": "Outro Hook.",
@@ -857,6 +942,7 @@ export const pickup: Song = {
     },
     {
       "original": "Pickup pickup पैसा bitch और नशे अब भी fuck my shit up",
+      "romanized": "Pickup pickup paisaa bitch aur nashe ab bhee fuck my shit up",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Picking up money and girls, and drugs still mess me up.",
       "explanation": "Full Chorus Outro.",
@@ -864,6 +950,7 @@ export const pickup: Song = {
     },
     {
       "original": "महंगी ticket वही दोस्त महंगे शौक और",
+      "romanized": "Mahngee ticket vahee dost mahnge shauk aur",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Expensive tickets, same friends, expensive habits.",
       "explanation": "Loyalty flex.",
@@ -871,6 +958,7 @@ export const pickup: Song = {
     },
     {
       "original": "महंगी liquor",
+      "romanized": "Mahngee liquor",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Expensive liquor.",
       "explanation": "Final outro line.",
@@ -878,6 +966,7 @@ export const pickup: Song = {
     },
     {
       "original": "I mean sit-up sit-up",
+      "romanized": "I mean sit-up sit-up",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "I mean sit-up, sit-up.",
       "explanation": "Wordplay on discipline.",
@@ -885,6 +974,7 @@ export const pickup: Song = {
     },
     {
       "original": "कमर सीधी करके kit-up",
+      "romanized": "Kamr seedhee karke kit-up",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "Straighten your back and gear up.",
       "explanation": "Reference to the Seedhe Maut name/mentality.",
@@ -892,6 +982,7 @@ export const pickup: Song = {
     },
     {
       "original": "Game है कातिल player है killer",
+      "romanized": "Game hai kaatil player hai killer",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "The game is lethal, the player is a killer.",
       "explanation": "Final declaration of dominance.",
@@ -899,6 +990,7 @@ export const pickup: Song = {
     },
     {
       "original": "नहीं हम iller इल्म है फ़िक्र",
+      "romanized": "Naheen ham iller ilm hai fikr",
       "speaker": "CALM & ENCORE ABJ",
       "translation": "We aren't just 'ill', we have knowledge and concern.",
       "explanation": "Ending on a note of wisdom and consciousness.",

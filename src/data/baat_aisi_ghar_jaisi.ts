@@ -9,6 +9,7 @@ export const baat_aisi_ghar_jaisi: Song = {
   "lyrics": [
     {
       "original": "Yo SA, let's get it",
+      "romanized": "Yo SA, let's get it",
       "speaker": "Calm",
       "translation": "Yo SA, let's do this.",
       "explanation": "Calm addresses the producer, Sez on the Beat (SA), to start the track.",
@@ -22,6 +23,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "लगे हरकतों से जाना चाहती दूर",
+      "romanized": "Lage harakaton se jaanaa chaahatee doora",
       "speaker": "Calm",
       "translation": "Her actions suggest she wants to distance herself.",
       "explanation": "The artist notices a partner or someone close acting in a way that implies they are pulling away from the relationship.",
@@ -36,6 +38,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "मैं भी मन बनाके बैठा हूँ",
+      "romanized": "Main bhee mana banaake baithaa hoon",
       "speaker": "Calm",
       "translation": "I've also made up my mind.",
       "explanation": "Calm reciprocates the energy, deciding he's ready for the separation if that's what's happening.",
@@ -43,6 +46,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "कोई ऐसी जगह जहाँ पे लोग हो ज़्यादा cool",
+      "romanized": "Koee aisee jagaha jahaan pe loga ho ज़yaadaa cool",
       "speaker": "Calm",
       "translation": "Looking for some place where the people are 'cooler'.",
       "explanation": "A sarcastic or cynical take on people seeking superficial environments or 'cooler' social circles.",
@@ -57,6 +61,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "पर ऐसी ताज़ी साँस मिले इस side ही",
+      "romanized": "Para aisee taaज़ee saansa mile isa side hee",
       "speaker": "Calm",
       "translation": "But such a breath of fresh air is only found on this side.",
       "explanation": "He asserts that true authenticity and peace ('fresh air') are only found within his own inner circle ('this side').",
@@ -70,6 +75,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side",
+      "romanized": "Isa side",
       "speaker": "Calm",
       "translation": "On this side.",
       "explanation": "Emphasizing the importance of their own territory and reality.",
@@ -77,6 +83,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side, इस side, इस side ही",
+      "romanized": "Isa side, isa side, isa side hee",
       "speaker": "Calm",
       "translation": "On this side, this side, only on this side.",
       "explanation": "Repetition for emphasis on the exclusivity of their 'vibe'.",
@@ -84,6 +91,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "बात ऐसी घर जैसी",
+      "romanized": "Baata aisee ghara jaisee",
       "speaker": "Calm",
       "translation": "A feeling just like home.",
       "explanation": "The core theme of the song: finding a sense of belonging and comfort that feels like home.",
@@ -103,6 +111,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side",
+      "romanized": "Isa side",
       "speaker": "Calm",
       "translation": "On this side.",
       "explanation": "Referring to Seedhe Maut's circle and life.",
@@ -110,6 +119,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side, इस side, इस side ही",
+      "romanized": "Isa side, isa side, isa side hee",
       "speaker": "Calm",
       "translation": "On this side, this side, only on this side.",
       "explanation": "Reinforcing the communal feeling of their crew.",
@@ -117,6 +127,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "हैं ख्वाब थोड़े बड़े भी",
+      "romanized": "Hain khvaaba thoड़e baड़e bhee",
       "speaker": "Calm",
       "translation": "The dreams are a bit big too.",
       "explanation": "Acknowledging their high ambitions despite their grounded roots.",
@@ -124,6 +135,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "है पैसे छापने की बीमारी",
+      "romanized": "Hai paise chhaapane kee beemaaree",
       "speaker": "Calm",
       "translation": "I've got this sickness for printing money.",
       "explanation": "A metaphor for an obsession with financial success and productivity.",
@@ -131,6 +143,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side रहते भुंड फाड़ लिखारी",
+      "romanized": "Isa side rahate bhunda phaaड़ likhaaree",
       "speaker": "Calm",
       "translation": "Mind-blowing writers live on this side.",
       "explanation": "'Bhund faad' is DHH slang for something intense or exceptional. He's praising their lyrical prowess.",
@@ -149,6 +162,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side खड़े sharp मेरे शिकारी",
+      "romanized": "Isa side khaड़e sharp mere shikaaree",
       "speaker": "Calm",
       "translation": "On this side, my sharp hunters stand ready.",
       "explanation": "Refers to his loyal crew who are focused and ready to take on the industry.",
@@ -163,6 +177,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side करे काम बिना शिकायत",
+      "romanized": "Isa side kare kaama binaa shikaayata",
       "speaker": "Calm",
       "translation": "On this side, we work without complaining.",
       "explanation": "Highlighting the work ethic of the Seedhe Maut camp.",
@@ -170,6 +185,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "उसके आगे करा game flip",
+      "romanized": "Usake aage karaa game flip",
       "speaker": "Calm",
       "translation": "Flipped the game after that.",
       "explanation": "Refers to how they changed the dynamics of the Indian rap scene.",
@@ -177,6 +193,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "भुस्सी पहले भी भरी, I’m on that same shit",
+      "romanized": "Bhussee pahale bhee bharee, I’m on that same shit",
       "speaker": "Calm",
       "translation": "I've dominated before, I'm on that same grind.",
       "explanation": "'Bhussi bharna' means to destroy the competition or put in extreme effort.",
@@ -190,6 +207,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "और दिक्कत वही है शायद, I don't wanna change shit",
+      "romanized": "Aura dikkata vahee hai shaayada, I don't waanna change shit",
       "speaker": "Calm",
       "translation": "And maybe that's the problem, I don't want to change a thing.",
       "explanation": "Accepting his nature and his refusal to conform to industry standards.",
@@ -197,6 +215,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "पर उसके आगे पूरी दुनिया लगी basic",
+      "romanized": "Para usake aage pooree duniyaa lagee basic",
       "speaker": "Calm",
       "translation": "But beyond that, the whole world seems basic.",
       "explanation": "Finding his own reality so superior that everything else feels ordinary.",
@@ -211,6 +230,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "Fuck it man, I'm wasted",
+      "romanized": "Fuck it man, I'm wasted",
       "speaker": "Calm",
       "translation": "Forget it man, I'm wasted.",
       "explanation": "Expressing exhaustion or being under the influence of the lifestyle.",
@@ -218,6 +238,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "Why you make me go ape shit?",
+      "romanized": "Why you make me go ape shit?",
       "speaker": "Calm",
       "translation": "Why do you make me act crazy?",
       "explanation": "Questioning someone (or the industry) that triggers his wild side.",
@@ -225,6 +246,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "आज काफी खुश था stage पे",
+      "romanized": "Aaja kaaphee khusha thaa stage pe",
       "speaker": "Calm",
       "translation": "I was quite happy on stage today.",
       "explanation": "The momentary high of performing for the fans.",
@@ -232,6 +254,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "उतरके बुरा लगा, even when I aced it",
+      "romanized": "Utarake buraa lagaa, even wahen I aced it",
       "speaker": "Calm",
       "translation": "Felt bad after coming down, even though I killed it.",
       "explanation": "Refers to the post-performance 'crash' or loneliness artists feel after the adrenaline fades.",
@@ -239,6 +262,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "आजा इस side मेरी ओर",
+      "romanized": "Aajaa isa side meree ora",
       "speaker": "Calm",
       "translation": "Come to this side, towards me.",
       "explanation": "Inviting someone to leave the fake world and join his authentic reality.",
@@ -253,6 +277,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "आजा कम करूँ सारा शोर",
+      "romanized": "Aajaa kama karoon saaraa shora",
       "speaker": "Calm",
       "translation": "Come, let me quiet all the noise.",
       "explanation": "Offering peace and silence from the chaotic external world.",
@@ -260,6 +285,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "अगर सुनता नहीं कोई और",
+      "romanized": "Agara sunataa naheen koee aura",
       "speaker": "Calm",
       "translation": "If no one else listens to you.",
       "explanation": "Positioning himself as a listener and a true companion.",
@@ -274,6 +300,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "चाहे खुद जा करले खोज",
+      "romanized": "Chaahe khuda jaa karale khoja",
       "speaker": "Calm",
       "translation": "Go ahead and search for yourself if you want.",
       "explanation": "Giving the person the freedom to find what they think they are looking for.",
@@ -281,6 +308,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "पर ऐसी ताजी सांस मिले इस side ही",
+      "romanized": "Para aisee taajee saansa mile isa side hee",
       "speaker": "Calm & Calm & Encore ABJ",
       "translation": "But you'll only find this fresh air on this side.",
       "explanation": "Chorus reinforces that authenticity is localized to their 'home'.",
@@ -288,6 +316,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side",
+      "romanized": "Isa side",
       "speaker": "Calm & Calm & Encore ABJ",
       "translation": "On this side.",
       "explanation": "Territorial and emotional marker.",
@@ -295,6 +324,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side, इस side, इस side ही",
+      "romanized": "Isa side, isa side, isa side hee",
       "speaker": "Calm & Calm & Encore ABJ",
       "translation": "On this side, this side, only on this side.",
       "explanation": "Emphasizing their community.",
@@ -302,6 +332,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "बात ऐसी घर जैसी",
+      "romanized": "Baata aisee ghara jaisee",
       "speaker": "Calm & Calm & Encore ABJ",
       "translation": "A vibe just like home.",
       "explanation": "Reiteration of the central 'home-like' comfort.",
@@ -309,6 +340,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side",
+      "romanized": "Isa side",
       "speaker": "Calm & Calm & Encore ABJ",
       "translation": "On this side.",
       "explanation": "Referring to the TBS (Teritery) or their Delhi roots.",
@@ -316,6 +348,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side, इस side, इस side ही",
+      "romanized": "Isa side, isa side, isa side hee",
       "speaker": "Calm & Calm & Encore ABJ",
       "translation": "On this side, this side, only on this side.",
       "explanation": "The collective pride of Seedhe Maut.",
@@ -323,6 +356,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "है ख्वाब थोड़े बड़े, bro",
+      "romanized": "Hai khvaaba thoड़e baड़e, bro",
       "speaker": "Encore ABJ",
       "translation": "The dreams are a bit big, bro.",
       "explanation": "Encore begins his verse by acknowledging the magnitude of their aspirations.",
@@ -337,6 +371,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "खुद को stress देने की है बीमारी",
+      "romanized": "Khuda ko stress dene kee hai beemaaree",
       "speaker": "Encore ABJ",
       "translation": "I have this habit of stressing myself out.",
       "explanation": "Acknowledging the mental toll and overthinking that comes with being a perfectionist artist.",
@@ -351,6 +386,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "I know she fucks with them लिखारी’ज़ (हाँ!)",
+      "romanized": "I knowa she fucks waith them likhaaree’ज़ (haan!)",
       "speaker": "Encore ABJ",
       "translation": "I know she really likes writers.",
       "explanation": "He knows the person he is addressing appreciates poetry and lyrical depth.",
@@ -370,6 +406,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "रोज़ रात नई कविता गाती (हाँ!)",
+      "romanized": "Roza raata naee kavitaa gaatee (haan!)",
       "speaker": "Encore ABJ",
       "translation": "She recites a new poem every night.",
       "explanation": "Describing the person's poetic nature.",
@@ -384,6 +421,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "साहिर लुधियानवी, निदा फ़ाज़ली (Yeah!)",
+      "romanized": "Saahira ludhiyaanavee, nidaa faazalee (Yeah!)",
       "speaker": "Encore ABJ",
       "translation": "Sahir Ludhianvi, Nida Fazli.",
       "explanation": "References to legendary Urdu poets, showing the depth of the person's taste.",
@@ -402,6 +440,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "जाने जान मैं तेरे पीछे काफी दिल पकड़ के बैठा हूँ, तू सुन रही है मुझको क्या?",
+      "romanized": "Jaane jaana main tere peechhe kaaphee dila pakaड़ ke baithaa hoon, too suna rahee hai mujhako kyaa?",
       "speaker": "Encore ABJ",
       "translation": "My love, I've been waiting for you with a heavy heart, are you even listening to me?",
       "explanation": "Encore expresses his emotional vulnerability and wonders if his message is being received.",
@@ -409,6 +448,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "तू सुन रही है मुझको लेकिन तू समझ रही है क्या?",
+      "romanized": "Too suna rahee hai mujhako lekina too samajha rahee hai kyaa?",
       "speaker": "Encore ABJ",
       "translation": "You're listening to me, but are you actually understanding me?",
       "explanation": "A distinction between hearing words and comprehending the soul behind them.",
@@ -416,6 +456,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "समझ रही है मुझको लेकिन उसका कर रही है क्या?",
+      "romanized": "Samajha rahee hai mujhako lekina usakaa kara rahee hai kyaa?",
       "speaker": "Encore ABJ",
       "translation": "You understand me, but what are you doing with that understanding?",
       "explanation": "Questioning the lack of action or change despite having mutual understanding.",
@@ -423,6 +464,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "देखा उसका status and it really tripped me out",
+      "romanized": "Dekhaa usakaa status and it really tripped me out",
       "speaker": "Encore ABJ",
       "translation": "Saw her status and it really confused/upset me.",
       "explanation": "Modern relationship anxiety triggered by social media updates.",
@@ -437,6 +479,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "लिखा 'ज़िंदगी नी circle, we just spiral out'",
+      "romanized": "Likhaa 'zindagee nee circle, wae just spiral out'",
       "speaker": "Encore ABJ",
       "translation": "It said 'Life isn't a circle, we just spiral out'.",
       "explanation": "A deep observation that life doesn't always come back around; sometimes it just drifts further away.",
@@ -444,6 +487,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "मैं गया उसके पास, बोला \"ये मुझे समझाओ\"",
+      "romanized": "Main gayaa usake paasa, bolaa \\\"ye mujhe samajhaao\\\"",
       "speaker": "Encore ABJ",
       "translation": "I went to her and said, 'Explain this to me'.",
       "explanation": "Seeking clarity on the cryptic message she posted.",
@@ -451,6 +495,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "वो बोली \"Hear me out\"",
+      "romanized": "Vo bolee \\\"Hear me out\\\"",
       "speaker": "Encore ABJ",
       "translation": "She said, 'Hear me out'.",
       "explanation": "The beginning of a difficult explanation or conversation.",
@@ -458,6 +503,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "तू यहीं, मैं भी यहीं पे हूँ",
+      "romanized": "Too yaheen, main bhee yaheen pe hoon",
       "speaker": "Encore ABJ",
       "translation": "You are here, and I am here too.",
       "explanation": "Physical proximity versus emotional distance.",
@@ -465,6 +511,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "फिर क्यूँ खुद-ब-खुद हो रहे हैं दूर?",
+      "romanized": "Phira kyoon khuda-ba-khuda ho rahe hain doora?",
       "speaker": "Encore ABJ",
       "translation": "Then why are we naturally drifting apart?",
       "explanation": "The tragedy of growing distant without a specific fight or reason.",
@@ -472,6 +519,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "तू चाहे गोल दुनिया ले घूम",
+      "romanized": "Too chaahe gola duniyaa le ghooma",
       "speaker": "Encore ABJ",
       "translation": "You can travel the whole world if you want.",
       "explanation": "Suggesting that no matter where she goes, she won't find what they had.",
@@ -479,6 +527,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "पर ऐसी ताजी सांस मिले इस side ही",
+      "romanized": "Para aisee taajee saansa mile isa side hee",
       "speaker": "Calm & Calm & Encore ABJ",
       "translation": "But such fresh air is only found on this side.",
       "explanation": "Reiterating the core message after Encore's verse.",
@@ -486,6 +535,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side",
+      "romanized": "Isa side",
       "speaker": "Calm & Calm & Encore ABJ",
       "translation": "On this side.",
       "explanation": "Back to the comfort of their own reality.",
@@ -493,6 +543,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side, इस side, इस side ही",
+      "romanized": "Isa side, isa side, isa side hee",
       "speaker": "Calm & Calm & Encore ABJ",
       "translation": "On this side, this side, only on this side.",
       "explanation": "Emphasis on the 'Nayaab' (rare) vibe they share.",
@@ -500,6 +551,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "बात ऐसी घर जैसी",
+      "romanized": "Baata aisee ghara jaisee",
       "speaker": "Calm & Calm & Encore ABJ",
       "translation": "A feeling just like home.",
       "explanation": "The song concludes on the sentiment of homely belonging.",
@@ -507,6 +559,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side",
+      "romanized": "Isa side",
       "speaker": "Calm & Calm & Encore ABJ",
       "translation": "On this side.",
       "explanation": "Ending on a note of loyalty to their roots.",
@@ -514,6 +567,7 @@ export const baat_aisi_ghar_jaisi: Song = {
     },
     {
       "original": "इस side, इस side, इस side ही",
+      "romanized": "Isa side, isa side, isa side hee",
       "speaker": "Calm & Calm & Encore ABJ",
       "translation": "On this side, this side, only on this side.",
       "explanation": "Final repetition of the hook.",

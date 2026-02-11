@@ -9,6 +9,7 @@ export const taakat: Song = {
   "lyrics": [
     {
       "original": "मैं आता वहां से, जहां पे बच्चे बैठे मुंह फुलाके",
+      "romanized": "Main aataa vahaan se, jahaan pe bachche baithe munha phulaake",
       "speaker": "Encore ABJ",
       "translation": "I come from a place where kids sit with sulking faces.",
       "explanation": "Encore sets the scene of a strict or oppressive environment (likely school or a middle-class household) where children are constantly frustrated.",
@@ -21,6 +22,7 @@ export const taakat: Song = {
     },
     {
       "original": "क्योंकि ये teacher बिना बात के मार रहा है चांटे",
+      "romanized": "Kyonki ye teacher binaa baata ke maara rahaa hai chaante",
       "speaker": "Encore ABJ",
       "translation": "Because this teacher is slapping us for no reason.",
       "explanation": "A critique of the traditional, often unfair, disciplinary system in Indian schools.",
@@ -39,6 +41,7 @@ export const taakat: Song = {
     },
     {
       "original": "तो bunk है class'ein",
+      "romanized": "To bunk hai class'ein",
       "speaker": "Encore ABJ",
       "translation": "So classes are being bunked.",
       "explanation": "The natural reaction to a toxic school environment is rebellion—skipping classes.",
@@ -51,6 +54,7 @@ export const taakat: Song = {
     },
     {
       "original": "घर पे गई खबर तो टूटे गांड है",
+      "romanized": "Ghara pe gaee khabara to toote gaanda hai",
       "speaker": "Encore ABJ",
       "translation": "If news reaches home, my ass is grass.",
       "explanation": "Typical Indian upbringing context; the fear of parents finding out about skipping school.",
@@ -69,6 +73,7 @@ export const taakat: Song = {
     },
     {
       "original": "पर दम है गांड में",
+      "romanized": "Para dama hai gaanda men",
       "speaker": "Encore ABJ",
       "translation": "But I’ve got the guts.",
       "explanation": "Despite the fear, he asserts his bravery and resilience.",
@@ -81,6 +86,7 @@ export const taakat: Song = {
     },
     {
       "original": "इनके डोलों से बड़े ये आंड है",
+      "romanized": "Inake dolon se baड़े ye aanda hai",
       "speaker": "Encore ABJ",
       "translation": "My balls are bigger than their biceps.",
       "explanation": "A hyper-masculine boast comparing courage (balls) to physical size (biceps/dolo). 'Dolo' can also be a play on the medicine Dolo-650.",
@@ -97,6 +103,7 @@ export const taakat: Song = {
     },
     {
       "original": "अंदर से नाजुक चमड़ी मोटी दिल से मालामाल है",
+      "romanized": "Andara se naajuka chamaree motee dila se maalaamaala hai",
       "speaker": "Encore ABJ",
       "translation": "Soft on the inside, thick-skinned, and rich at heart.",
       "explanation": "A paradox of being emotionally aware but tough enough to handle the world, and rich in spirit/talent.",
@@ -104,6 +111,7 @@ export const taakat: Song = {
     },
     {
       "original": "मुकेश से कह दो के हम नई सदी के शक्तिमान है",
+      "romanized": "Mukesha se kaha do ke hama naee sadee ke shaktimaana hai",
       "speaker": "Encore ABJ",
       "translation": "Tell Mukesh that we are the Shaktimaan of the new century.",
       "explanation": "Reference to Mukesh Khanna, the actor who played Shaktimaan (India's first superhero). He's claiming the title for the new generation.",
@@ -126,6 +134,7 @@ export const taakat: Song = {
     },
     {
       "original": "बचपन से एक ही plan है",
+      "romanized": "Bachapana se eka hee plan hai",
       "speaker": "Encore ABJ",
       "translation": "Been having the same plan since childhood.",
       "explanation": "Consistency in his ambition to make it big.",
@@ -133,6 +142,7 @@ export const taakat: Song = {
     },
     {
       "original": "सब बड़ो की लेंगे कहके",
+      "romanized": "Saba baro kee lenge kahake",
       "speaker": "Encore ABJ",
       "translation": "Will take on all the elders/authorities openly.",
       "explanation": "A bold statement of challenging the status quo and established gatekeepers.",
@@ -145,6 +155,7 @@ export const taakat: Song = {
     },
     {
       "original": "अपने मन की सबसे पहले, अपने मन की–",
+      "romanized": "Apane mana kee sabase pahale, apane mana kee–",
       "speaker": "Encore ABJ",
       "translation": "Do what my heart says first, my own mind...",
       "explanation": "Prioritizing intuition and self-will over external advice.",
@@ -152,6 +163,7 @@ export const taakat: Song = {
     },
     {
       "original": "तू करे जाए आलस घातक आदत",
+      "romanized": "Too kare jaae aalasa ghaataka aadata",
       "speaker": "Encore ABJ",
       "translation": "You keep being lazy, a lethal habit.",
       "explanation": "Warning the listener that procrastination and lethargy are the biggest enemies of success.",
@@ -159,6 +171,7 @@ export const taakat: Song = {
     },
     {
       "original": "रहा नहीं बालक वाला ये मिजाज",
+      "romanized": "Rahaa naheen baalaka vaalaa ye mijaaja",
       "speaker": "Encore ABJ",
       "translation": "This temperament is no longer childish.",
       "explanation": "Signifying maturity and the loss of innocence in favor of a professional/hardened mindset.",
@@ -173,6 +186,7 @@ export const taakat: Song = {
     },
     {
       "original": "सब आदर कर, हम pen से बीमार",
+      "romanized": "Saba aadara kara, hama pen se beemaara",
       "speaker": "Encore ABJ",
       "translation": "Everyone show respect, we are 'sick' with the pen.",
       "explanation": "Using 'sick' in the hip-hop sense (dope/talented). His writing skills demand respect.",
@@ -185,6 +199,7 @@ export const taakat: Song = {
     },
     {
       "original": "है ताकत, है ताकत, लागत, शोहरत",
+      "romanized": "Hai taakata, hai taakata, laagata, shoharata",
       "speaker": "Encore ABJ",
       "translation": "There's power, there's power, investment, and fame.",
       "explanation": "Listing the components of their current life: power, the work put in, and the resulting fame.",
@@ -192,6 +207,7 @@ export const taakat: Song = {
     },
     {
       "original": "ऐंठ और आफत, माल और कविता",
+      "romanized": "Aintha aura aaphata, maala aura kavitaa",
       "speaker": "Encore ABJ",
       "translation": "Arrogance and trouble, weed and poetry.",
       "explanation": "The duality of the rap life: ego, chaos, drugs, and the art of lyricism.",
@@ -204,6 +220,7 @@ export const taakat: Song = {
     },
     {
       "original": "Benz और profit",
+      "romanized": "Benz aura profit",
       "speaker": "Encore ABJ",
       "translation": "Benz and profit.",
       "explanation": "The financial success and luxury cars they've earned.",
@@ -211,6 +228,7 @@ export const taakat: Song = {
     },
     {
       "original": "प्यार और परिवार संग",
+      "romanized": "Pyaara aura parivaara sanga",
       "speaker": "Encore ABJ",
       "translation": "With love and family.",
       "explanation": "Staying grounded despite the fame by keeping loved ones close.",
@@ -218,6 +236,7 @@ export const taakat: Song = {
     },
     {
       "original": "और साथ में SA",
+      "romanized": "Aura saatha men SA",
       "speaker": "Encore ABJ",
       "translation": "And with SA.",
       "explanation": "'SA' stands for Shastri Avenue, the crew/area Seedhe Maut represents.",
@@ -230,6 +249,7 @@ export const taakat: Song = {
     },
     {
       "original": "और सरेआम road पे moshpit",
+      "romanized": "Aura sareaama road pe moshpit",
       "speaker": "Encore ABJ",
       "translation": "And moshpits openly on the road.",
       "explanation": "Reflecting the high-energy, chaotic nature of their fan gatherings and performances.",
@@ -242,6 +262,7 @@ export const taakat: Song = {
     },
     {
       "original": "Hot shit, high power socket",
+      "romanized": "Hot shit, high power socket",
       "speaker": "Encore ABJ",
       "translation": "Hot shit, high power socket.",
       "explanation": "Metaphor for their explosive energy and 'electrifying' music.",
@@ -251,6 +272,7 @@ export const taakat: Song = {
     },
     {
       "original": "कहा-कहां गया ध्यान मेरा?",
+      "romanized": "Kahaa-kahaan gayaa dhyaana meraa?",
       "speaker": "Encore ABJ",
       "translation": "Where all did my mind wander?",
       "explanation": "A moment of introspection, perhaps distracted by the chaos of success.",
@@ -260,6 +282,7 @@ export const taakat: Song = {
     },
     {
       "original": "Shit, I lost it",
+      "romanized": "Shit, I lost it",
       "speaker": "Encore ABJ",
       "translation": "Shit, I lost it.",
       "explanation": "Realization of losing focus or perhaps losing his mind to the fast life.",
@@ -267,6 +290,7 @@ export const taakat: Song = {
     },
     {
       "original": "खड़ा हूं मैं चांद पे",
+      "romanized": "Kharaa hoon main chaanda pe",
       "speaker": "Encore ABJ",
       "translation": "I'm standing on the moon.",
       "explanation": "Feeling on top of the world; high status.",
@@ -274,6 +298,7 @@ export const taakat: Song = {
     },
     {
       "original": "I may jump off it",
+      "romanized": "I may jump off it",
       "speaker": "Encore ABJ",
       "translation": "I may jump off it.",
       "explanation": "Acknowledging the risk of the high they are on; success is a cliff.",
@@ -281,6 +306,7 @@ export const taakat: Song = {
     },
     {
       "original": "चुद चुकी मां मेरे इन कंधों की",
+      "romanized": "Chuda chukee maan mere ina kandhon kee",
       "speaker": "Encore ABJ",
       "translation": "My shoulders are completely wrecked.",
       "explanation": "Aggressive Delhi slang meaning his shoulders are exhausted from carrying burdens/responsibilities.",
@@ -293,6 +319,7 @@ export const taakat: Song = {
     },
     {
       "original": "छिद चुकी गांड तभी इन बंदों की",
+      "romanized": "Chhida chukee gaanda tabhee ina bandon kee",
       "speaker": "Encore ABJ",
       "translation": "That's why these guys are so butt-hurt.",
       "explanation": "Raw slang indicating his rivals/haters are jealous and 'pierced' by his success.",
@@ -305,6 +332,7 @@ export const taakat: Song = {
     },
     {
       "original": "चढ़ रही झांझ है अब इन भसड़ों की",
+      "romanized": "Charha rahee jhaanjha hai aba ina bhasaron kee",
       "speaker": "Encore ABJ",
       "translation": "The intoxication of this chaos is kicking in.",
       "explanation": "Finding a high in the madness and constant 'bhasad' (mess) of the industry.",
@@ -321,6 +349,7 @@ export const taakat: Song = {
     },
     {
       "original": "रही नहीं मानसिक है इन बच्चों सी",
+      "romanized": "Rahee naheen maanasika hai ina bachchon see",
       "speaker": "Encore ABJ",
       "translation": "My mentality isn't like these kids anymore.",
       "explanation": "Distancing himself from the immature rappers in the scene.",
@@ -328,6 +357,7 @@ export const taakat: Song = {
     },
     {
       "original": "करे यहां ना भूल के भी कोई बकचोदी",
+      "romanized": "Kare yahaan naa bhoola ke bhee koee bakachodee",
       "speaker": "Encore ABJ",
       "translation": "Don't even think about messing around here.",
       "explanation": "A stern warning against testing their patience or territory.",
@@ -340,6 +370,7 @@ export const taakat: Song = {
     },
     {
       "original": "वो चाहते बनूं doctor (Haan)",
+      "romanized": "Vo chaahate banoon doctor (Haan)",
       "speaker": "Calm",
       "translation": "They wanted me to be a doctor.",
       "explanation": "Refers to the typical Indian parental expectation of choosing a stable profession.",
@@ -347,6 +378,7 @@ export const taakat: Song = {
     },
     {
       "original": "जब छोटा था, बनना था, बस Kakarot",
+      "romanized": "Jaba chhotaa thaa, bananaa thaa, basa Kakarot",
       "speaker": "Calm",
       "translation": "When I was little, I just wanted to be Kakarot.",
       "explanation": "Calm preferred the world of Dragon Ball Z (Goku/Kakarot) over academics.",
@@ -359,6 +391,7 @@ export const taakat: Song = {
     },
     {
       "original": "Trauma लेके बड़े होते बंदे बोहोत",
+      "romanized": "Trauma leke bare hote bande bohota",
       "speaker": "Calm",
       "translation": "A lot of guys grow up carrying trauma.",
       "explanation": "Acknowledging the difficult childhoods and mental health issues in his environment.",
@@ -366,6 +399,7 @@ export const taakat: Song = {
     },
     {
       "original": "Role model था बस hip-hop",
+      "romanized": "Role model thaa basa hip-hop",
       "speaker": "Calm",
       "translation": "Hip-hop was my only role model.",
       "explanation": "Music was the only thing that guided him through his struggles.",
@@ -380,6 +414,7 @@ export const taakat: Song = {
     },
     {
       "original": "दोस्त गया jail दस साल कम से कम",
+      "romanized": "Dosta gayaa jail dasa saala kama se kama",
       "speaker": "Calm",
       "translation": "A friend went to jail for at least ten years.",
       "explanation": "Reflecting on the harsh reality of street life and crime among his peers.",
@@ -394,6 +429,7 @@ export const taakat: Song = {
     },
     {
       "original": "कोई बोला \"एक ही life है, don't fuck this up\"",
+      "romanized": "Koee bolaa \"eka hee life hai, don't fuck this up\"",
       "speaker": "Calm",
       "translation": "Someone said, 'You only have one life, don't fuck this up.'",
       "explanation": "A piece of advice given to him about making the most of his opportunities.",
@@ -401,6 +437,7 @@ export const taakat: Song = {
     },
     {
       "original": "उसने सुने बस आखिरी तीन शब्द",
+      "romanized": "Usane sune basa aakhiree teena shabda",
       "speaker": "Calm",
       "translation": "He only heard the last three words.",
       "explanation": "A witty line suggesting that instead of taking care of life, the person just focused on 'fuck this up'.",
@@ -408,6 +445,7 @@ export const taakat: Song = {
     },
     {
       "original": "है कर्म इस गाने का शीर्षक",
+      "romanized": "Hai karma isa gaane kaa sheershaka",
       "speaker": "Calm",
       "translation": "Karma is the title of this song.",
       "explanation": "Suggesting that the real theme is 'Karma' (though the song is called Taakat), emphasizing that you reap what you sow.",
@@ -415,6 +453,7 @@ export const taakat: Song = {
     },
     {
       "original": "पर कोई मांगे माफी लिखित तो लिखूंगा Deez Nuts",
+      "romanized": "Para koee maange maaphee likhita to likhoongaa Deez Nuts",
       "speaker": "Calm",
       "translation": "But if someone asks for a written apology, I'll write 'Deez Nuts'.",
       "explanation": "Calm’s unapologetic attitude, using a classic internet meme to dismiss his haters.",
@@ -427,6 +466,7 @@ export const taakat: Song = {
     },
     {
       "original": "शिव नरेश की T-Shirt से दोस्तों में तीस टके की deal तक",
+      "romanized": "Shiva naresha kee T-Shirt se doston men teesa take kee deal taka",
       "speaker": "Calm",
       "translation": "From wearing Shiv Naresh T-shirts to 30% deals among friends.",
       "explanation": "Tracing the journey from wearing cheap local sportswear (Shiv Naresh) to high-value business contracts.",
@@ -439,6 +479,7 @@ export const taakat: Song = {
     },
     {
       "original": "ABJ मैं Office'on में देरे थे interview, उस समय बीस रुपये भी थे बहुत (Woo)",
+      "romanized": "ABJ main Office'on men dere the interview, usa samaya beesa rupaye bhee the bahuta (Woo)",
       "speaker": "Calm",
       "translation": "ABJ and I were giving interviews in offices; back then, even twenty rupees was a lot.",
       "explanation": "Reminiscing about their early struggle days when they were broke and looking for any break.",
@@ -446,6 +487,7 @@ export const taakat: Song = {
     },
     {
       "original": "Body count उस समय भी था गलत",
+      "romanized": "Body count usa samaya bhee thaa galata",
       "speaker": "Calm",
       "translation": "The body count back then was also 'wrong'.",
       "explanation": "Likely referring to 'kills' in a lyrical sense or street reputation, emphasizing they were always dangerous.",
@@ -460,6 +502,7 @@ export const taakat: Song = {
     },
     {
       "original": "बना नी एक रात में बड़ा सा cult",
+      "romanized": "Banaa nee eka raata men baraa saa cult",
       "speaker": "Calm",
       "translation": "A massive cult following wasn't built in one night.",
       "explanation": "Emphasizing that their success and dedicated fanbase are the result of years of hard work.",
@@ -472,6 +515,7 @@ export const taakat: Song = {
     },
     {
       "original": "नल्ले बातें करे जाए",
+      "romanized": "Nalle baaten kare jaae",
       "speaker": "Calm",
       "translation": "Useless people keep talking.",
       "explanation": "Dismissing the chatter of those who aren't doing anything with their lives.",
@@ -484,6 +528,7 @@ export const taakat: Song = {
     },
     {
       "original": "गाने बजे जाए",
+      "romanized": "Gaane baje jaae",
       "speaker": "Calm",
       "translation": "The songs keep playing.",
       "explanation": "While others talk, their music continues to dominate.",
@@ -498,6 +543,7 @@ export const taakat: Song = {
     },
     {
       "original": "मुंह करा सबका बंद",
+      "romanized": "Munha karaa sabakaa banda",
       "speaker": "Calm",
       "translation": "Shut everyone's mouth.",
       "explanation": "Silencing critics with their success.",
@@ -512,6 +558,7 @@ export const taakat: Song = {
     },
     {
       "original": "तू करे जाए आलस घातक आदत",
+      "romanized": "Too kare jaae aalasa ghaataka aadata",
       "speaker": "Encore ABJ",
       "translation": "You keep being lazy, a lethal habit.",
       "explanation": "Hook repetition: emphasizing the danger of laziness.",
@@ -519,6 +566,7 @@ export const taakat: Song = {
     },
     {
       "original": "रहा नहीं बालक वाला ये मिजाज",
+      "romanized": "Rahaa naheen baalaka vaalaa ye mijaaja",
       "speaker": "Encore ABJ",
       "translation": "This temperament is no longer childish.",
       "explanation": "Hook repetition: maturity through struggle.",
@@ -533,6 +581,7 @@ export const taakat: Song = {
     },
     {
       "original": "सब आदर कर, हम pen से बीमार",
+      "romanized": "Saba aadara kara, hama pen se beemaara",
       "speaker": "Encore ABJ",
       "translation": "Everyone show respect, we are 'sick' with the pen.",
       "explanation": "Hook repetition: asserting lyrical dominance.",
@@ -540,6 +589,7 @@ export const taakat: Song = {
     },
     {
       "original": "है ताकत, है ताकत, लागत, शोहरत",
+      "romanized": "Hai taakata, hai taakata, laagata, shoharata",
       "speaker": "Encore ABJ",
       "translation": "There's power, there's power, investment, and fame.",
       "explanation": "Hook repetition: the fruits of their labor.",
@@ -547,6 +597,7 @@ export const taakat: Song = {
     },
     {
       "original": "ऐंठ और आफत, माल और कविता",
+      "romanized": "Aintha aura aaphata, maala aura kavitaa",
       "speaker": "Encore ABJ",
       "translation": "Arrogance and trouble, weed and poetry.",
       "explanation": "Hook repetition: the rap lifestyle ingredients.",
@@ -554,6 +605,7 @@ export const taakat: Song = {
     },
     {
       "original": "Benz और profit",
+      "romanized": "Benz aura profit",
       "speaker": "Encore ABJ",
       "translation": "Benz and profit.",
       "explanation": "Hook repetition.",
@@ -561,6 +613,7 @@ export const taakat: Song = {
     },
     {
       "original": "प्यार और परिवार संग",
+      "romanized": "Pyaara aura parivaara sanga",
       "speaker": "Encore ABJ",
       "translation": "With love and family.",
       "explanation": "Hook repetition.",
@@ -568,6 +621,7 @@ export const taakat: Song = {
     },
     {
       "original": "और साथ में SA",
+      "romanized": "Aura saatha men SA",
       "speaker": "Encore ABJ",
       "translation": "And with SA.",
       "explanation": "Hook repetition: representing Shastri Avenue.",
@@ -575,6 +629,7 @@ export const taakat: Song = {
     },
     {
       "original": "और सरेआम रोड पे moshpit",
+      "romanized": "Aura sareaama roda pe moshpit",
       "speaker": "Encore ABJ",
       "translation": "And moshpits openly on the road.",
       "explanation": "Hook repetition.",
@@ -582,6 +637,7 @@ export const taakat: Song = {
     },
     {
       "original": "अब चम्मच नही cup में है syrup",
+      "romanized": "Aba chammacha nahee cup men hai syrup",
       "speaker": "Lil Bhavi",
       "translation": "Now it's not a spoon, it's syrup in the cup.",
       "explanation": "Lil Bhavi refers to 'Lean' (Codeine cough syrup mixed with soda), a staple in trap culture.",
@@ -594,6 +650,7 @@ export const taakat: Song = {
     },
     {
       "original": "School में है पुड़िया, वो business",
+      "romanized": "School men hai puriyaa, vo business",
       "speaker": "Lil Bhavi",
       "translation": "There's a packet in school, that's business.",
       "explanation": "Dealing drugs in school—showing his 'street' origins.",
@@ -606,6 +663,7 @@ export const taakat: Song = {
     },
     {
       "original": "भावे मैं dagger, तू scissor",
+      "romanized": "Bhaave main dagger, too scissor",
       "speaker": "Lil Bhavi",
       "translation": "Bhavi is a dagger, you're just a pair of scissors.",
       "explanation": "Comparing his lethality to his opponent's harmlessness.",
@@ -613,6 +671,7 @@ export const taakat: Song = {
     },
     {
       "original": "जो सुन रहा colony वो real",
+      "romanized": "Jo suna rahaa colony vo real",
       "speaker": "Lil Bhavi",
       "translation": "The ones listening in the colony are the real ones.",
       "explanation": "Validating his audience in the local neighborhoods (colonies) of Delhi.",
@@ -620,6 +679,7 @@ export const taakat: Song = {
     },
     {
       "original": "मैं फसता नहीं भसड़ों में काबिल",
+      "romanized": "Main phasataa naheen bhasaron men kaabila",
       "speaker": "Lil Bhavi",
       "translation": "I don't get stuck in messes, I'm capable.",
       "explanation": "He is smart enough to navigate street chaos without getting caught or failing.",
@@ -632,6 +692,7 @@ export const taakat: Song = {
     },
     {
       "original": "उन्हें बोलूं नहीं सर जो है staaf से",
+      "romanized": "Unhen boloon naheen sara jo hai staaf se",
       "speaker": "Lil Bhavi",
       "translation": "I don't call them 'Sir' even if they're from the staff.",
       "explanation": "Total lack of respect for authority figures.",
@@ -639,6 +700,7 @@ export const taakat: Song = {
     },
     {
       "original": "मेरी टूटन ये चालू है रात–दिन",
+      "romanized": "Meree tootana ye chaaloo hai raata–dina",
       "speaker": "Lil Bhavi",
       "translation": "My 'breaking' is ongoing day and night.",
       "explanation": "Could refer to breaking the law, or the physical/mental toll of his lifestyle.",
@@ -651,6 +713,7 @@ export const taakat: Song = {
     },
     {
       "original": "बंदे कर चुके scene अब वो",
+      "romanized": "Bande kara chuke scene aba vo",
       "speaker": "Lil Bhavi",
       "translation": "The guys have already made the scene.",
       "explanation": "Claiming they have established their presence/dominance.",
@@ -658,6 +721,7 @@ export const taakat: Song = {
     },
     {
       "original": "हर समय रहस्यमय",
+      "romanized": "Hara samaya rahasyamaya",
       "speaker": "Lil Bhavi",
       "translation": "Mysterious at all times.",
       "explanation": "Keeping a low profile or being unpredictable.",
@@ -665,6 +729,7 @@ export const taakat: Song = {
     },
     {
       "original": "बनी थूत की चूत",
+      "romanized": "Banee thoota kee choota",
       "speaker": "Lil Bhavi",
       "translation": "The face was turned into a mess.",
       "explanation": "Very aggressive slang implying physical violence to someone's face.",
@@ -677,6 +742,7 @@ export const taakat: Song = {
     },
     {
       "original": "फुके घास ये विषैली",
+      "romanized": "Phuke ghaasa ye vishailee",
       "speaker": "Lil Bhavi",
       "translation": "Smoking this poisonous grass.",
       "explanation": "Refers to smoking high-potency marijuana.",
@@ -689,6 +755,7 @@ export const taakat: Song = {
     },
     {
       "original": "बंदे चार सौ बीस, बंदे पहुंचे कचहरी",
+      "romanized": "Bande chaara sau beesa, bande pahunche kachaharee",
       "speaker": "Lil Bhavi",
       "translation": "The guys are tricksters (420), they've reached the court.",
       "explanation": "Reference to Section 420 of IPC (cheating) and the legal trouble his associates are in.",
@@ -705,6 +772,7 @@ export const taakat: Song = {
     },
     {
       "original": "भावे लेंगे छीन मेरी साथी है maddy",
+      "romanized": "Bhaave lenge chheena meree saathee hai maddy",
       "speaker": "Lil Bhavi",
       "translation": "Bhavi will snatch it, my companion is Maddy.",
       "explanation": "A threat of taking what he wants by force, mentioning his associate.",
@@ -712,6 +780,7 @@ export const taakat: Song = {
     },
     {
       "original": "मेरे हाथ में लीन और उसमे है एक candy",
+      "romanized": "Mere haatha men leena aura usame hai eka candy",
       "speaker": "Lil Bhavi",
       "translation": "Lean in my hand, and there's a candy in it.",
       "explanation": "Lean is often served with Jolly Ranchers or other candies to sweeten the taste.",
@@ -730,6 +799,7 @@ export const taakat: Song = {
     },
     {
       "original": "हम देते घाव चले हाथो में चाबी",
+      "romanized": "Hama dete ghaava chale haatho men chaabee",
       "speaker": "Lil Bhavi",
       "translation": "We give wounds, walking with keys in hand.",
       "explanation": "Using keys as a makeshift weapon in street fights.",
@@ -737,6 +807,7 @@ export const taakat: Song = {
     },
     {
       "original": "हम निकले fast जब आए vilo की गाड़ी",
+      "romanized": "Hama nikale fast jaba aae vilo kee gaaree",
       "speaker": "Lil Bhavi",
       "translation": "We sped off when Vilo's car arrived.",
       "explanation": "Likely a reference to a specific person (Vilo) or an escape from a situation.",
@@ -751,6 +822,7 @@ export const taakat: Song = {
     },
     {
       "original": "मैं देरा trap, मेरा काम ना सरकारी",
+      "romanized": "Main deraa trap, meraa kaama naa sarakaaree",
       "speaker": "Lil Bhavi",
       "translation": "I'm delivering trap, my work isn't for the government.",
       "explanation": "He is a trap artist; his hustle is illegal or off-the-books.",
@@ -763,6 +835,7 @@ export const taakat: Song = {
     },
     {
       "original": "ये चापड़ gang",
+      "romanized": "Ye chaapara gang",
       "speaker": "Lil Bhavi",
       "translation": "This is the Chaper Gang.",
       "explanation": "Likely his specific crew name or a reference to 'Chapad' (cleaver) weapons.",
@@ -775,6 +848,7 @@ export const taakat: Song = {
     },
     {
       "original": "हर मुद्दों में शामिल है है समय",
+      "romanized": "Hara muddon men shaamila hai hai samaya",
       "speaker": "Lil Bhavi",
       "translation": "Time is involved in every issue.",
       "explanation": "Patience and timing are key to his street dealings.",
@@ -789,6 +863,7 @@ export const taakat: Song = {
     },
     {
       "original": "Cap none, नई है दिल्ली ये 71",
+      "romanized": "Cap none, naee hai dillee ye 71",
       "speaker": "Lil Bhavi",
       "translation": "No cap, this is the new Delhi 71.",
       "explanation": "'Cap' means lie. 71 refers to a South Delhi area code/pincode (110071 - Malviya Nagar/Saket area).",
@@ -805,6 +880,7 @@ export const taakat: Song = {
     },
     {
       "original": "Trap मेरी shit करूं rap कम",
+      "romanized": "Trap meree shit karoon rap kama",
       "speaker": "Lil Bhavi",
       "translation": "Trap is my thing, I rap less.",
       "explanation": "He identifies more with the 'Trap' sub-genre and lifestyle than standard rap.",
@@ -812,6 +888,7 @@ export const taakat: Song = {
     },
     {
       "original": "खचरा है वो भवि, वो past tense",
+      "romanized": "Khacharaa hai vo bhavi, vo past tense",
       "speaker": "Lil Bhavi",
       "translation": "That Bhavi was a 'khachra' (trash/useless), that's past tense.",
       "explanation": "He has evolved from his previous, less-refined self.",
@@ -824,6 +901,7 @@ export const taakat: Song = {
     },
     {
       "original": "Lube मुझे चाहिए ना vaseline",
+      "romanized": "Lube mujhe chaahie naa vaseline",
       "speaker": "Lil Bhavi",
       "translation": "I don't need lube or vaseline.",
       "explanation": "An aggressive sexual metaphor implying he goes into situations 'dry' or 'hard'.",
@@ -831,6 +909,7 @@ export const taakat: Song = {
     },
     {
       "original": "मुद्दा उछाला फिर cash in",
+      "romanized": "Muddaa uchhaalaa phira cash in",
       "speaker": "Lil Bhavi",
       "translation": "Raised an issue and then cashed in.",
       "explanation": "Capitalizing on controversy or situations for profit.",
@@ -838,6 +917,7 @@ export const taakat: Song = {
     },
     {
       "original": "सड़कों में खचरे है many",
+      "romanized": "Sarakon men khachare hai many",
       "speaker": "Lil Bhavi",
       "translation": "There are many 'khachras' (junkies/useless people) on the streets.",
       "explanation": "Seeing the low-lives in his environment.",
@@ -845,6 +925,7 @@ export const taakat: Song = {
     },
     {
       "original": "देखूं मैं बढ़ते गए enemies",
+      "romanized": "Dekhoon main barhate gae enemies",
       "speaker": "Lil Bhavi",
       "translation": "I see my enemies keeping on growing.",
       "explanation": "More success leads to more haters.",
@@ -852,6 +933,7 @@ export const taakat: Song = {
     },
     {
       "original": "तू करे जाए आलस घातक आदत",
+      "romanized": "Too kare jaae aalasa ghaataka aadata",
       "speaker": "Encore ABJ",
       "translation": "You keep being lazy, a lethal habit.",
       "explanation": "Final Hook: Re-emphasizing the theme of power vs. laziness.",
@@ -859,6 +941,7 @@ export const taakat: Song = {
     },
     {
       "original": "रहा नहीं बालक वाला ये मिजाज",
+      "romanized": "Rahaa naheen baalaka vaalaa ye mijaaja",
       "speaker": "Encore ABJ",
       "translation": "This temperament is no longer childish.",
       "explanation": "The change from a child in school to a man in the industry.",
@@ -866,6 +949,7 @@ export const taakat: Song = {
     },
     {
       "original": "सब आदर कर, हम pen से बीमार",
+      "romanized": "Saba aadara kara, hama pen se beemaara",
       "speaker": "Encore ABJ",
       "translation": "Everyone show respect, we are 'sick' with the pen.",
       "explanation": "Demanding respect for their artistry.",
@@ -873,6 +957,7 @@ export const taakat: Song = {
     },
     {
       "original": "है ताकत, है ताकत, लागत, शोहरत",
+      "romanized": "Hai taakata, hai taakata, laagata, shoharata",
       "speaker": "Encore ABJ",
       "translation": "There's power, there's power, investment, and fame.",
       "explanation": "The core theme: Taakat (Power).",
@@ -880,6 +965,7 @@ export const taakat: Song = {
     },
     {
       "original": "ऐंठ और आफत, माल और कविता",
+      "romanized": "Aintha aura aaphata, maala aura kavitaa",
       "speaker": "Encore ABJ",
       "translation": "Arrogance and trouble, weed and poetry.",
       "explanation": "The blend of grit and art.",
@@ -887,6 +973,7 @@ export const taakat: Song = {
     },
     {
       "original": "Benz और profit",
+      "romanized": "Benz aura profit",
       "speaker": "Encore ABJ",
       "translation": "Benz and profit.",
       "explanation": "The outcome of their power.",
@@ -894,6 +981,7 @@ export const taakat: Song = {
     },
     {
       "original": "प्यार और परिवार संग",
+      "romanized": "Pyaara aura parivaara sanga",
       "speaker": "Encore ABJ",
       "translation": "With love and family.",
       "explanation": "The support system.",
@@ -901,6 +989,7 @@ export const taakat: Song = {
     },
     {
       "original": "और साथ में SA",
+      "romanized": "Aura saatha men SA",
       "speaker": "Encore ABJ",
       "translation": "And with SA.",
       "explanation": "Shastri Avenue for life.",
@@ -908,6 +997,7 @@ export const taakat: Song = {
     },
     {
       "original": "और सरेआम रोड पे moshpit",
+      "romanized": "Aura sareaama roda pe moshpit",
       "speaker": "Encore ABJ",
       "translation": "And moshpits openly on the road.",
       "explanation": "Closing with the imagery of their chaotic live energy.",

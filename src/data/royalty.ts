@@ -9,6 +9,7 @@ export const royalty: Song = {
   "lyrics": [
     {
       "original": "'Cus we're running for royalty",
+      "devanagari": "'Cus we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Because we are chasing a royal lifestyle",
       "explanation": "The central theme of the song: the relentless pursuit of high status, wealth, and a 'king-like' life.",
@@ -22,6 +23,7 @@ export const royalty: Song = {
     },
     {
       "original": "We're running for",
+      "devanagari": "We're running for",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "We are running for",
       "explanation": "Building anticipation for the goal of their hustle.",
@@ -29,6 +31,7 @@ export const royalty: Song = {
     },
     {
       "original": "You're running for royalty",
+      "devanagari": "You're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "You are chasing a royal status",
       "explanation": "Shifting the perspective to the listener/society, pointing out that everyone is in this race.",
@@ -36,6 +39,7 @@ export const royalty: Song = {
     },
     {
       "original": "Running for royalty",
+      "devanagari": "Running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Chasing royalty",
       "explanation": "Repetition emphasizing the cycle of greed and ambition.",
@@ -43,6 +47,7 @@ export const royalty: Song = {
     },
     {
       "original": "You're running for",
+      "devanagari": "You're running for",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "You are running for",
       "explanation": "Rhythmic repetition in the hook.",
@@ -50,6 +55,7 @@ export const royalty: Song = {
     },
     {
       "original": "You're running for royalty",
+      "devanagari": "You're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "You are chasing a royal status",
       "explanation": "Reiterating the societal pressure to look 'rich'.",
@@ -57,6 +63,7 @@ export const royalty: Song = {
     },
     {
       "original": "Running for royalty",
+      "devanagari": "Running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Chasing royalty",
       "explanation": "Repetition for sonic impact.",
@@ -64,6 +71,7 @@ export const royalty: Song = {
     },
     {
       "original": "We're running for",
+      "devanagari": "We're running for",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "We are running for",
       "explanation": "Identifying themselves as part of the same rat race.",
@@ -71,6 +79,7 @@ export const royalty: Song = {
     },
     {
       "original": "We're running for royalty",
+      "devanagari": "We're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "We are chasing a royal lifestyle",
       "explanation": "Finalizing the hook's core statement.",
@@ -78,6 +87,7 @@ export const royalty: Song = {
     },
     {
       "original": "Running for royalty",
+      "devanagari": "Running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Chasing royalty",
       "explanation": "Repetition for emphasis.",
@@ -85,6 +95,7 @@ export const royalty: Song = {
     },
     {
       "original": "We're running for",
+      "devanagari": "We're running for",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "We are running for",
       "explanation": "Leading into the darker reality of this pursuit.",
@@ -92,6 +103,7 @@ export const royalty: Song = {
     },
     {
       "original": "Fatti jebe kahein jaake jeb kaat le",
+      "devanagari": "फटी जेबें कहीं जाके जेब काट ले",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Torn pockets might lead to pickpocketing someone else",
       "explanation": "Suggests that extreme poverty (torn pockets) forces people into crime (cutting others' pockets) to survive.",
@@ -105,6 +117,7 @@ export const royalty: Song = {
     },
     {
       "original": "Yeah we're running for royalty",
+      "devanagari": "Yeah we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Yeah, we're chasing a royal life",
       "explanation": "Irony: chasing 'royalty' while starting from the bottom.",
@@ -119,6 +132,7 @@ export const royalty: Song = {
     },
     {
       "original": "Kati jebe kahein jaake jeb kaat le",
+      "devanagari": "कटी जेबें कहीं जाके जेब काट ले",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Cut pockets might go and pickpocket others",
       "explanation": "Variation of the previous line; the cycle of theft driven by lack.",
@@ -133,6 +147,7 @@ export const royalty: Song = {
     },
     {
       "original": "Yeah we're running for royalty",
+      "devanagari": "Yeah we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Yeah, we're chasing royalty",
       "explanation": "Re-emphasizing the goal.",
@@ -140,6 +155,7 @@ export const royalty: Song = {
     },
     {
       "original": "Dhan ki talaash ki ye mann kare pehl",
+      "devanagari": "धन की तलाश की ये मन करे पहल",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "The mind takes the initiative to search for wealth",
       "explanation": "Internal desire and greed are what initiate the struggle for money.",
@@ -153,6 +169,7 @@ export const royalty: Song = {
     },
     {
       "original": "Yeah we're running for royalty",
+      "devanagari": "Yeah we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Yeah, we're chasing royalty",
       "explanation": "Connecting the mental desire to the physical chase.",
@@ -160,6 +177,7 @@ export const royalty: Song = {
     },
     {
       "original": "Hath ka nahi haan ye mann ka he mael",
+      "devanagari": "हाथ का नहीं हाँ ये मन का है मैल",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "It's not dirt on the hands, it's a stain on the soul",
       "explanation": "A play on the Hindi proverb 'Paisa haath ki mael hai' (Money is just dirt on hands). Encore argues money corrupts the mind, not just the hands.",
@@ -173,6 +191,7 @@ export const royalty: Song = {
     },
     {
       "original": "Yeah we're running for royalty",
+      "devanagari": "Yeah we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Yeah, we're chasing royalty",
       "explanation": "The recurring justification for the corruption described.",
@@ -180,6 +199,7 @@ export const royalty: Song = {
     },
     {
       "original": "Karu baat god se",
+      "devanagari": "करू बात God से",
       "speaker": "Encore ABJ",
       "translation": "I talk to God",
       "explanation": "Encore begins his verse with a spiritual confession or confrontation.",
@@ -187,6 +207,7 @@ export const royalty: Song = {
     },
     {
       "original": "Talk time khali",
+      "devanagari": "Talk time खाली",
       "speaker": "Encore ABJ",
       "translation": "The talk time is empty",
       "explanation": "A metaphor for having nothing left to say or God not responding; also a reference to old prepaid mobile balance.",
@@ -201,6 +222,7 @@ export const royalty: Song = {
     },
     {
       "original": "Zabaan jese Nathuram Godse",
+      "devanagari": "ज़बान जैसे Nathuram Godse",
       "speaker": "Encore ABJ",
       "translation": "Tongue like Nathuram Godse",
       "explanation": "A controversial double entendre: Godse killed Gandhi. Gandhi is on Indian currency. Encore's 'tongue' (lyrics) targets the pursuit of money/Gandhi notes.",
@@ -214,6 +236,7 @@ export const royalty: Song = {
     },
     {
       "original": "Jebe mange hariyali",
+      "devanagari": "जेबें माँगे हरियाली",
       "speaker": "Encore ABJ",
       "translation": "Pockets demand greenery",
       "explanation": "'Hariyali' (greenery) is slang for cash/money (referring to the color of high-value notes or prosperity).",
@@ -227,6 +250,7 @@ export const royalty: Song = {
     },
     {
       "original": "Jebe mange gandhi, jebe mange zindagi me aandhi",
+      "devanagari": "जेबें माँगे Gandhi, जेबें माँगे ज़िंदगी में आँधी",
       "speaker": "Encore ABJ",
       "translation": "Pockets want Gandhi (cash), pockets want a storm in life",
       "explanation": "'Gandhi' refers to the portrait on Indian currency. 'Aandhi' (storm) suggests a chaotic, fast-paced life or a windfall of money.",
@@ -240,6 +264,7 @@ export const royalty: Song = {
     },
     {
       "original": "Paisa nasha pyaar, jeevan ke khiladi",
+      "devanagari": "पैसा नशा प्यार, जीवन के खिलाड़ी",
       "speaker": "Encore ABJ",
       "translation": "Money, addiction, love—players of life",
       "explanation": "Listing the three main things that drive or ruin human existence.",
@@ -247,6 +272,7 @@ export const royalty: Song = {
     },
     {
       "original": "Jebe mange chaar lambi gadi",
+      "devanagari": "जेबें माँगे चार लम्बी गाड़ी",
       "speaker": "Encore ABJ",
       "translation": "Pockets demand four long cars",
       "explanation": "Materialistic desire for luxury vehicles as a sign of success.",
@@ -261,6 +287,7 @@ export const royalty: Song = {
     },
     {
       "original": "Chaahe kalam aadi karni pade jese Kalamadi",
+      "devanagari": "चाहे कलम आड़ी करनी पड़े जैसे Kalamadi",
       "speaker": "Encore ABJ",
       "translation": "Even if I have to bend my pen like Kalmadi",
       "explanation": "Wordplay on Suresh Kalmadi (politician involved in the CWG scam). 'Kalam aadi' means bending the pen/integrity for corruption.",
@@ -274,6 +301,7 @@ export const royalty: Song = {
     },
     {
       "original": "Mene aage piche dekha mujhe bohat mile, job kiye",
+      "devanagari": "मेने आगे पीछे देखा मुझे बहुत मिले, job किए",
       "speaker": "Encore ABJ",
       "translation": "I looked around and found many people working jobs",
       "explanation": "Observing the middle-class struggle and the standard path of employment.",
@@ -281,6 +309,7 @@ export const royalty: Song = {
     },
     {
       "original": "Ghoome college-on me bhi vo top kiye, drop kiye",
+      "devanagari": "घूमे college-ओं में भी वो top किए, drop किए",
       "speaker": "Encore ABJ",
       "translation": "They wandered in colleges, topped exams, or dropped out",
       "explanation": "Describing the various academic paths people take, all in the hope of future wealth.",
@@ -288,6 +317,7 @@ export const royalty: Song = {
     },
     {
       "original": "Sapno ko unke ye khauf chahiye",
+      "devanagari": "सपनों को उनके ये ख़ौफ़ चाहिए",
       "speaker": "Encore ABJ",
       "translation": "Their dreams need this fear",
       "explanation": "Suggests that fear of failure or poverty is what actually fuels their dreams.",
@@ -295,6 +325,7 @@ export const royalty: Song = {
     },
     {
       "original": "Jab tankha me kattoti unka boss kiye (Ha!)",
+      "devanagari": "जब तनखा में कटौती उनका boss किए (Ha!)",
       "speaker": "Encore ABJ",
       "translation": "When their boss cuts their salary (Ha!)",
       "explanation": "The harsh reality of the corporate 'royalty' chase: being at the mercy of a superior.",
@@ -302,6 +333,7 @@ export const royalty: Song = {
     },
     {
       "original": "Shaatir zabaan",
+      "devanagari": "शातिर ज़बान",
       "speaker": "Encore ABJ",
       "translation": "Cunning tongue",
       "explanation": "Encore acknowledging his own lyrical sharpness and wit.",
@@ -316,6 +348,7 @@ export const royalty: Song = {
     },
     {
       "original": "Shabdo ke teero pe dilki kamaan",
+      "devanagari": "शब्दों के तीरों पे दिलकी कमान",
       "speaker": "Encore ABJ",
       "translation": "The bow of the heart firing arrows of words",
       "explanation": "Metaphor for honest, heartfelt, but sharp lyricism.",
@@ -323,6 +356,7 @@ export const royalty: Song = {
     },
     {
       "original": "Sapno se aage he daulat ke daam",
+      "devanagari": "सपनों से आगे है दौलत के दाम",
       "speaker": "Encore ABJ",
       "translation": "The price of wealth is higher than dreams",
       "explanation": "The cost of becoming rich often requires sacrificing one's actual passions/dreams.",
@@ -330,6 +364,7 @@ export const royalty: Song = {
     },
     {
       "original": "Aur apno se upar he shohrat ki shaan",
+      "devanagari": "और अपनों से ऊपर है शोहरत की शान",
       "speaker": "Encore ABJ",
       "translation": "And the pride of fame is placed above loved ones",
       "explanation": "A critique of how people prioritize celebrity status over family and friends.",
@@ -337,6 +372,7 @@ export const royalty: Song = {
     },
     {
       "original": "Paisa me paisa me paisa me paisa me",
+      "devanagari": "पैसा में पैसा में पैसा में पैसा में",
       "speaker": "Encore ABJ",
       "translation": "In money, in money, in money...",
       "explanation": "Obsessive repetition reflecting a mind consumed by thoughts of cash.",
@@ -344,6 +380,7 @@ export const royalty: Song = {
     },
     {
       "original": "Paisa ke piche hi kesa sa rehta tha",
+      "devanagari": "पैसा के पीछे ही कैसा सा रहता था",
       "speaker": "Encore ABJ",
       "translation": "How I used to be, just chasing money",
       "explanation": "Reflecting on his past mindset before achieving success.",
@@ -351,6 +388,7 @@ export const royalty: Song = {
     },
     {
       "original": "Khudme par ab hu me dukhme",
+      "devanagari": "ख़ुदमें पर अब हूँ मैं दुखमें",
       "speaker": "Encore ABJ",
       "translation": "Within myself, but now I'm in sorrow",
       "explanation": "The realization that wealth doesn't necessarily bring happiness.",
@@ -358,6 +396,7 @@ export const royalty: Song = {
     },
     {
       "original": "Hai Paisa ilaaj ye khudko me kehta tha",
+      "devanagari": "है पैसा इलाज ये ख़ुदको मैं कहता था",
       "speaker": "Encore ABJ",
       "translation": "I used to tell myself that money is the cure",
       "explanation": "The fallacy that all problems disappear once you are rich.",
@@ -365,6 +404,7 @@ export const royalty: Song = {
     },
     {
       "original": "Tha mein khush mijaaz, ab khud pe shark bann ke",
+      "devanagari": "था मैं ख़ुश मिज़ाज, अब ख़ुद पे shark बनके",
       "speaker": "Encore ABJ",
       "translation": "I was happy-go-lucky, but now acting like a shark towards myself",
       "explanation": "He has become predatory and ruthless even with his own peace of mind to stay ahead.",
@@ -372,6 +412,7 @@ export const royalty: Song = {
     },
     {
       "original": "Karu sukh talaash aur dhuth dimaag ke saath",
+      "devanagari": "करू सुख तलाश और धुत दिमाग़ के साथ",
       "speaker": "Encore ABJ",
       "translation": "Searching for peace with a wasted/inebriated mind",
       "explanation": "Trying to find happiness while being mentally exhausted or intoxicated by the lifestyle.",
@@ -379,6 +420,7 @@ export const royalty: Song = {
     },
     {
       "original": "Mangu pyaar ki pyaas, bawaal",
+      "devanagari": "माँगू प्यार की प्यास, बवाल",
       "speaker": "Encore ABJ",
       "translation": "Craving the thirst for love, it's a mess",
       "explanation": "Seeking genuine affection in a world focused on 'royalty'. 'Bawaal' signifies a chaotic situation.",
@@ -392,6 +434,7 @@ export const royalty: Song = {
     },
     {
       "original": "Dimaag pe dhan ki he dhun sawaar",
+      "devanagari": "दिमाग़ पे धन की है धुन सवार",
       "speaker": "Encore ABJ",
       "translation": "The obsession with wealth is riding on the mind",
       "explanation": "Total preoccupation with earning money.",
@@ -399,6 +442,7 @@ export const royalty: Song = {
     },
     {
       "original": "'Cus we're running for royalty",
+      "devanagari": "'Cus we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Because we're chasing royalty",
       "explanation": "Returning to the hook.",
@@ -406,6 +450,7 @@ export const royalty: Song = {
     },
     {
       "original": "We're running for",
+      "devanagari": "We're running for",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "We are running for",
       "explanation": "Chorus repetition.",
@@ -413,6 +458,7 @@ export const royalty: Song = {
     },
     {
       "original": "You're running for royalty",
+      "devanagari": "You're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "You're chasing royalty",
       "explanation": "Chorus repetition.",
@@ -420,6 +466,7 @@ export const royalty: Song = {
     },
     {
       "original": "Running for royalty",
+      "devanagari": "Running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Chasing royalty",
       "explanation": "Chorus repetition.",
@@ -427,6 +474,7 @@ export const royalty: Song = {
     },
     {
       "original": "You're running for",
+      "devanagari": "You're running for",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "You're running for",
       "explanation": "Chorus repetition.",
@@ -434,6 +482,7 @@ export const royalty: Song = {
     },
     {
       "original": "You're running for royalty",
+      "devanagari": "You're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "You're chasing royalty",
       "explanation": "Chorus repetition.",
@@ -441,6 +490,7 @@ export const royalty: Song = {
     },
     {
       "original": "Running for royalty",
+      "devanagari": "Running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Chasing royalty",
       "explanation": "Chorus repetition.",
@@ -448,6 +498,7 @@ export const royalty: Song = {
     },
     {
       "original": "We're running for",
+      "devanagari": "We're running for",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "We are running for",
       "explanation": "Chorus repetition.",
@@ -455,6 +506,7 @@ export const royalty: Song = {
     },
     {
       "original": "We're running for royalty",
+      "devanagari": "We're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "We are chasing royalty",
       "explanation": "Chorus repetition.",
@@ -462,6 +514,7 @@ export const royalty: Song = {
     },
     {
       "original": "Running for royalty",
+      "devanagari": "Running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Chasing royalty",
       "explanation": "Chorus repetition.",
@@ -469,6 +522,7 @@ export const royalty: Song = {
     },
     {
       "original": "We're running for",
+      "devanagari": "We're running for",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "We are running for",
       "explanation": "Chorus repetition.",
@@ -476,6 +530,7 @@ export const royalty: Song = {
     },
     {
       "original": "Fatti jebe kahein jaake jeb kaat le",
+      "devanagari": "फटी जेबें कहीं जाके जेब काट ले",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Torn pockets might turn to pickpocketing",
       "explanation": "Chorus repetition.",
@@ -483,6 +538,7 @@ export const royalty: Song = {
     },
     {
       "original": "Yeah we're running for royalty",
+      "devanagari": "Yeah we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Yeah, we're chasing royalty",
       "explanation": "Chorus repetition.",
@@ -490,6 +546,7 @@ export const royalty: Song = {
     },
     {
       "original": "Kati jebe kahein jaake jeb kaat le",
+      "devanagari": "कटी जेबें कहीं जाके जेब काट ले",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Cut pockets might go and pickpocket others",
       "explanation": "Chorus repetition.",
@@ -497,6 +554,7 @@ export const royalty: Song = {
     },
     {
       "original": "Yeah we're running for royalty",
+      "devanagari": "Yeah we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Yeah, we're chasing royalty",
       "explanation": "Chorus repetition.",
@@ -504,6 +562,7 @@ export const royalty: Song = {
     },
     {
       "original": "Dhan ki talaash ki ye mann kare pehl",
+      "devanagari": "धन की तलाश की ये मन करे पहल",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "The mind initiates the search for wealth",
       "explanation": "Chorus repetition.",
@@ -511,6 +570,7 @@ export const royalty: Song = {
     },
     {
       "original": "Yeah we're running for royalty",
+      "devanagari": "Yeah we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Yeah, we're chasing royalty",
       "explanation": "Chorus repetition.",
@@ -518,6 +578,7 @@ export const royalty: Song = {
     },
     {
       "original": "Hath ka nahi haan ye mann ka he mael",
+      "devanagari": "हाथ का नहीं हाँ ये मन का है मैल",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Not hand-dirt, but a stain on the mind",
       "explanation": "Chorus repetition.",
@@ -538,6 +599,7 @@ export const royalty: Song = {
     },
     {
       "original": "Yeah we're running for royalty",
+      "devanagari": "Yeah we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Yeah, we're chasing royalty",
       "explanation": "Chorus repetition.",
@@ -545,6 +607,7 @@ export const royalty: Song = {
     },
     {
       "original": "(Brr, brr!)",
+      "devanagari": "(Brr, brr!)",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "(Ad-libs)",
       "explanation": "Calm's signature ad-libs before his verse.",
@@ -552,6 +615,7 @@ export const royalty: Song = {
     },
     {
       "original": "You're runnin' for nothing but money",
+      "devanagari": "You're runnin' for nothing but money",
       "speaker": "Calm",
       "translation": "You're chasing nothing but money",
       "explanation": "Calm starts by calling out the shallow pursuit of pure currency.",
@@ -559,6 +623,7 @@ export const royalty: Song = {
     },
     {
       "original": "We're nothing but dummies its funny",
+      "devanagari": "We're nothing but dummies its funny",
       "speaker": "Calm",
       "translation": "We are all just idiots, it's funny",
       "explanation": "Self-deprecating commentary on how easily people are manipulated by consumerism.",
@@ -566,6 +631,7 @@ export const royalty: Song = {
     },
     {
       "original": "You got no food on the table",
+      "devanagari": "You got no food on the table",
       "speaker": "Calm",
       "translation": "You have no food on the table",
       "explanation": "Pointing out the lack of basic necessities.",
@@ -573,6 +639,7 @@ export const royalty: Song = {
     },
     {
       "original": "But Jordans are more important, start stunting",
+      "devanagari": "But Jordans are more important, start stunting",
       "speaker": "Calm",
       "translation": "But Jordans are more important, start showing off",
       "explanation": "The irony of 'flexing' expensive sneakers (Jordans) while struggling for basic needs like food.",
@@ -586,6 +653,7 @@ export const royalty: Song = {
     },
     {
       "original": "The world is a mess",
+      "devanagari": "The world is a mess",
       "speaker": "Calm",
       "translation": "The world is a mess",
       "explanation": "A blunt observation of global/societal state.",
@@ -593,6 +661,7 @@ export const royalty: Song = {
     },
     {
       "original": "Like Modi you got on the fly",
+      "devanagari": "Like Modi you got on the fly",
       "speaker": "Calm",
       "translation": "Like Modi, you're looking sharp/on the move",
       "explanation": "Reference to PM Narendra Modi's image and travel.",
@@ -600,6 +669,7 @@ export const royalty: Song = {
     },
     {
       "original": "Suit worth 10 lac, royalty right?",
+      "devanagari": "Suit worth 10 lac, royalty right?",
       "speaker": "Calm",
       "translation": "A suit worth 1 million, that's royalty, right?",
       "explanation": "Refers to the controversy surrounding PM Modi's expensive monogrammed suit. A critique of showing off 'royalty' while the public struggles.",
@@ -607,6 +677,7 @@ export const royalty: Song = {
     },
     {
       "original": "We've been spending on everything we're depending on",
+      "devanagari": "We've been spending on everything we're depending on",
       "speaker": "Calm",
       "translation": "We've been spending on everything we depend on",
       "explanation": "The cycle of consumerism where we buy things we think we need to survive.",
@@ -614,6 +685,7 @@ export const royalty: Song = {
     },
     {
       "original": "Copping everything on television",
+      "devanagari": "Copping everything on television",
       "speaker": "Calm",
       "translation": "Buying everything seen on TV",
       "explanation": "How advertising dictates our desires.",
@@ -627,6 +699,7 @@ export const royalty: Song = {
     },
     {
       "original": "They're setting up a cobweb (yeah)",
+      "devanagari": "They're setting up a cobweb (yeah)",
       "speaker": "Calm",
       "translation": "They are setting up a cobweb",
       "explanation": "A trap designed by corporations to keep people spending.",
@@ -634,6 +707,7 @@ export const royalty: Song = {
     },
     {
       "original": "And its all set (wo!)",
+      "devanagari": "And its all set (wo!)",
       "speaker": "Calm",
       "translation": "And it is all set",
       "explanation": "The trap of capitalism is already fully functional.",
@@ -641,6 +715,7 @@ export const royalty: Song = {
     },
     {
       "original": "We've been walking in the trap since we learnt how to walk, Yeah",
+      "devanagari": "We've been walking in the trap since we learnt how to walk, Yeah",
       "speaker": "Calm",
       "translation": "We've been in this trap since we took our first steps",
       "explanation": "We are conditioned to be consumers from childhood.",
@@ -655,6 +730,7 @@ export const royalty: Song = {
     },
     {
       "original": "These companies are magnets attraction is what they say",
+      "devanagari": "These companies are magnets attraction is what they say",
       "speaker": "Calm",
       "translation": "These companies are magnets, 'attraction' is what they call it",
       "explanation": "Marketing is just a magnetic pull to take your money.",
@@ -662,6 +738,7 @@ export const royalty: Song = {
     },
     {
       "original": "Attracting the youth and we stupid",
+      "devanagari": "Attracting the youth and we stupid",
       "speaker": "Calm",
       "translation": "Attracting the youth, and we are stupid",
       "explanation": "The vulnerability of the younger generation to brand trends.",
@@ -669,6 +746,7 @@ export const royalty: Song = {
     },
     {
       "original": "We running for royalty",
+      "devanagari": "We running for royalty",
       "speaker": "Calm",
       "translation": "We are chasing royalty",
       "explanation": "Calm's turn to vocalize the chase.",
@@ -676,6 +754,7 @@ export const royalty: Song = {
     },
     {
       "original": "No money no loyalty, more money more rivalry",
+      "devanagari": "No money no loyalty, more money more rivalry",
       "speaker": "Calm",
       "translation": "No money leads to no loyalty; more money leads to more rivalry",
       "explanation": "A profound take on how relationships are dictated by financial status.",
@@ -683,6 +762,7 @@ export const royalty: Song = {
     },
     {
       "original": "If I ain't banking some cash will my momma be proud of me",
+      "devanagari": "If I ain't banking some cash will my momma be proud of me",
       "speaker": "Calm",
       "translation": "If I'm not making money, will my mother be proud of me?",
       "explanation": "The internal pressure of wanting to provide and be successful in the eyes of parents.",
@@ -690,6 +770,7 @@ export const royalty: Song = {
     },
     {
       "original": "Questions like this got shit burning inside of me",
+      "devanagari": "Questions like this got shit burning inside of me",
       "speaker": "Calm",
       "translation": "Questions like this are burning me up inside",
       "explanation": "The anxiety caused by the need to be financially successful.",
@@ -697,6 +778,7 @@ export const royalty: Song = {
     },
     {
       "original": "(Uoo!)",
+      "devanagari": "(Uoo!)",
       "speaker": "Calm",
       "translation": "(Ad-lib)",
       "explanation": "Expression of frustration or energy.",
@@ -704,6 +786,7 @@ export const royalty: Song = {
     },
     {
       "original": "A mansion",
+      "devanagari": "A mansion",
       "speaker": "Calm",
       "translation": "A mansion",
       "explanation": "The stereotypical dream of 'royalty'.",
@@ -711,6 +794,7 @@ export const royalty: Song = {
     },
     {
       "original": "Garage full of cars, a wall full of cash",
+      "devanagari": "Garage full of cars, a wall full of cash",
       "speaker": "Calm",
       "translation": "Garage full of cars, a wall full of cash",
       "explanation": "Vivid imagery of excessive wealth.",
@@ -718,6 +802,7 @@ export const royalty: Song = {
     },
     {
       "original": "We've been living a mirage, Imma do what i can",
+      "devanagari": "We've been living a mirage, Imma do what i can",
       "speaker": "Calm",
       "translation": "We've been living a mirage, I'll do what I can",
       "explanation": "Recognizing that this vision of wealth is often an illusion, yet still participating in the struggle.",
@@ -725,6 +810,7 @@ export const royalty: Song = {
     },
     {
       "original": "Manmade paper versus man",
+      "devanagari": "Manmade paper versus man",
       "speaker": "Calm",
       "translation": "Man-made paper (money) vs man",
       "explanation": "The irony of humans being enslaved by a piece of paper they created themselves.",
@@ -732,6 +818,7 @@ export const royalty: Song = {
     },
     {
       "original": "Imma talk about about what I dont have",
+      "devanagari": "Imma talk about about what I dont have",
       "speaker": "Calm",
       "translation": "I'm going to talk about what I don't have",
       "explanation": "Honesty in his rap about his current struggles versus the fake 'flex' culture.",
@@ -739,6 +826,7 @@ export const royalty: Song = {
     },
     {
       "original": "Just to have but I don't have, half of the time",
+      "devanagari": "Just to have but I don't have, half of the time",
       "speaker": "Calm",
       "translation": "Just to get it, but I don't have it most of the time",
       "explanation": "The constant cycle of wanting and lacking.",
@@ -746,6 +834,7 @@ export const royalty: Song = {
     },
     {
       "original": "You got money on your mind",
+      "devanagari": "You got money on your mind",
       "speaker": "Calm",
       "translation": "You have money on your mind",
       "explanation": "Obsession.",
@@ -753,6 +842,7 @@ export const royalty: Song = {
     },
     {
       "original": "The devil on your side",
+      "devanagari": "The devil on your side",
       "speaker": "Calm",
       "translation": "The devil on your side",
       "explanation": "Greed as a demonic influence.",
@@ -760,6 +850,7 @@ export const royalty: Song = {
     },
     {
       "original": "Compelling you to rhyme",
+      "devanagari": "Compelling you to rhyme",
       "speaker": "Calm",
       "translation": "Forcing you to rhyme",
       "explanation": "Using art solely as a means to make money rather than for the craft.",
@@ -767,6 +858,7 @@ export const royalty: Song = {
     },
     {
       "original": "Where its all fucked up",
+      "devanagari": "Where its all fucked up",
       "speaker": "Calm",
       "translation": "Where it's all messed up",
       "explanation": "The end result of this pursuit is a corrupted world.",
@@ -774,6 +866,7 @@ export const royalty: Song = {
     },
     {
       "original": "'Cus we're running for royalty",
+      "devanagari": "'Cus we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Because we're chasing royalty",
       "explanation": "Final hook repetition.",
@@ -781,6 +874,7 @@ export const royalty: Song = {
     },
     {
       "original": "We're running for",
+      "devanagari": "We're running for",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "We are running for",
       "explanation": "Final hook repetition.",
@@ -788,6 +882,7 @@ export const royalty: Song = {
     },
     {
       "original": "You're running for royalty",
+      "devanagari": "You're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "You're chasing royalty",
       "explanation": "Final hook repetition.",
@@ -795,6 +890,7 @@ export const royalty: Song = {
     },
     {
       "original": "Running for royalty",
+      "devanagari": "Running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Chasing royalty",
       "explanation": "Final hook repetition.",
@@ -802,6 +898,7 @@ export const royalty: Song = {
     },
     {
       "original": "You're running for",
+      "devanagari": "You're running for",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "You're running for",
       "explanation": "Final hook repetition.",
@@ -809,6 +906,7 @@ export const royalty: Song = {
     },
     {
       "original": "You're running for royalty",
+      "devanagari": "You're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "You're chasing royalty",
       "explanation": "Final hook repetition.",
@@ -816,6 +914,7 @@ export const royalty: Song = {
     },
     {
       "original": "Running for royalty",
+      "devanagari": "Running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Chasing royalty",
       "explanation": "Final hook repetition.",
@@ -823,6 +922,7 @@ export const royalty: Song = {
     },
     {
       "original": "We're running for",
+      "devanagari": "We're running for",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "We are running for",
       "explanation": "Final hook repetition.",
@@ -830,6 +930,7 @@ export const royalty: Song = {
     },
     {
       "original": "We're running for royalty",
+      "devanagari": "We're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "We are chasing royalty",
       "explanation": "Final hook repetition.",
@@ -837,6 +938,7 @@ export const royalty: Song = {
     },
     {
       "original": "Running for royalty",
+      "devanagari": "Running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Chasing royalty",
       "explanation": "Final hook repetition.",
@@ -844,6 +946,7 @@ export const royalty: Song = {
     },
     {
       "original": "We're running for",
+      "devanagari": "We're running for",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "We are running for",
       "explanation": "Final hook repetition.",
@@ -851,6 +954,7 @@ export const royalty: Song = {
     },
     {
       "original": "Fatti jebe kahein jaake jeb kaat le",
+      "devanagari": "फटी जेबें कहीं जाके जेब काट ले",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Torn pockets might turn to pickpocketing",
       "explanation": "Final hook repetition.",
@@ -858,6 +962,7 @@ export const royalty: Song = {
     },
     {
       "original": "Yeah we're running for royalty",
+      "devanagari": "Yeah we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Yeah, we're chasing royalty",
       "explanation": "Final hook repetition.",
@@ -865,6 +970,7 @@ export const royalty: Song = {
     },
     {
       "original": "Kati jebe kahein jaake jeb kaat le",
+      "devanagari": "कटी जेबें कहीं जाके जेब काट ले",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Cut pockets might go and pickpocket others",
       "explanation": "Final hook repetition.",
@@ -872,6 +978,7 @@ export const royalty: Song = {
     },
     {
       "original": "Yeah we're running for royalty",
+      "devanagari": "Yeah we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Yeah, we're chasing royalty",
       "explanation": "Final hook repetition.",
@@ -879,6 +986,7 @@ export const royalty: Song = {
     },
     {
       "original": "Dhan ki talaash ki ye mann kare pehl",
+      "devanagari": "धन की तलाश की ये मन करे पहल",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "The mind initiates the search for wealth",
       "explanation": "Final hook repetition.",
@@ -886,6 +994,7 @@ export const royalty: Song = {
     },
     {
       "original": "Yeah we're running for royalty",
+      "devanagari": "Yeah we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Yeah, we're chasing royalty",
       "explanation": "Final hook repetition.",
@@ -893,6 +1002,7 @@ export const royalty: Song = {
     },
     {
       "original": "Hath ka nahi haan ye mann ka he mael",
+      "devanagari": "हाथ का नहीं हाँ ये मन का है मैल",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Not hand-dirt, but a stain on the mind",
       "explanation": "Final hook repetition.",
@@ -900,6 +1010,7 @@ export const royalty: Song = {
     },
     {
       "original": "Yeah we're running for royalty",
+      "devanagari": "Yeah we're running for royalty",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Yeah, we're chasing royalty",
       "explanation": "Final hook repetition.",
@@ -907,6 +1018,7 @@ export const royalty: Song = {
     },
     {
       "original": "Karun baat God se",
+      "devanagari": "करूँ बात God से",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "I talk to God",
       "explanation": "Closing the song with a repeat of the spiritual confrontation.",
@@ -914,6 +1026,7 @@ export const royalty: Song = {
     },
     {
       "original": "Talk time khaali (khaali, khaali, khaali)",
+      "devanagari": "Talk time खाली (खाली, खाली, खाली)",
       "speaker": "Calm & Encore ABJ & Both",
       "translation": "Talk time is empty (empty...)",
       "explanation": "The silence from the divine/the void of materialism remains.",

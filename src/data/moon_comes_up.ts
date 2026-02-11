@@ -9,6 +9,7 @@ export const moon_comes_up: Song = {
   "lyrics": [
     {
       "original": "Sheeshe down south delhi me Ridein lu me bhar when the moon comes up",
+      "devanagari": "शीशे down south delhi में Ridein लू में भर when the moon comes up",
       "annotations": [
         {
           "text": "Sheeshe down south delhi me Ridein lu me bhar when the moon comes up",
@@ -25,10 +26,12 @@ export const moon_comes_up: Song = {
       ]
     },
     {
-      "original": "I was too fucked up Galti paale dum fucks"
+      "original": "I was too fucked up Galti paale dum fucks",
+      "devanagari": "I was too fucked up गलती पाले दम fucks"
     },
     {
       "original": "Karte khoob stunt bars Rehte tutant up",
+      "devanagari": "करते खूब stunt bars रहते tutant up",
       "annotations": [
         {
           "text": "Karte khoob stunt bars Rehte tutant up",
@@ -46,6 +49,7 @@ export const moon_comes_up: Song = {
     },
     {
       "original": "Bhai ka pluk paisa sab maange Bhediya khoon when the moon comes up",
+      "devanagari": "भाई का pluk पैसा सब माँगे भेड़िया खून when the moon comes up",
       "annotations": [
         {
           "text": "Bhai ka pluk paisa sab maange Bhediya khoon when the moon comes up",
@@ -62,10 +66,12 @@ export const moon_comes_up: Song = {
       ]
     },
     {
-      "original": "I know you try, she loves to ride Jo saath de brekar du flight"
+      "original": "I know you try, she loves to ride Jo saath de brekar du flight",
+      "devanagari": "I know you try, she loves to ride जो साथ दे break कर दू flight"
     },
     {
       "original": "Moonlight, brown eyes Pretty lips, now open the wide",
+      "devanagari": "Moonlight, brown eyes Pretty lips, now open the wide",
       "annotations": [
         {
           "text": "Moonlight, brown eyes Pretty lips, now open the wide",
@@ -76,10 +82,12 @@ export const moon_comes_up: Song = {
       ]
     },
     {
-      "original": "When the moon comes up uski saase raises"
+      "original": "When the moon comes up uski saase raises",
+      "devanagari": "When the moon comes up उसकी साँसे raises"
     },
     {
-      "original": "When the moon comes up uski chaale tazez"
+      "original": "When the moon comes up uski chaale tazez",
+      "devanagari": "When the moon comes up उसकी चाले तेज़"
     }
   ],
   "summary": "\"Moon Comes Up\" by Seedhe Maut depicts a hazy, late-night scene, likely in South Delhi, involving partying, intoxication, and a romantic encounter under the moonlight. The lyrics hint at a reckless lifestyle and a carefree attitude."

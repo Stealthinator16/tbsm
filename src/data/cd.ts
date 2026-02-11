@@ -9,6 +9,7 @@ export const cd: Song = {
   "lyrics": [
     {
       "original": "मैं आता वहाँ से जहाँपे लौंडे भरते रपट",
+      "romanized": "Main aataa vahaan se jahaanpe launde bharte rapt",
       "speaker": "Encore ABJ",
       "translation": "I come from a place where the boys file police reports.",
       "explanation": "Encore describes his roots in gritty Delhi neighborhoods where police cases (Rapat) and street altercations are a daily reality.",
@@ -27,6 +28,7 @@ export const cd: Song = {
     },
     {
       "original": "प्यार है जैसे पानी तो यहाँ लौंडे बन गए cactus",
+      "romanized": "Pyaar hai jaise paanee to yahaan launde ban gae cactus",
       "speaker": "Encore ABJ",
       "translation": "If love is like water, then the boys here have become cacti.",
       "explanation": "A metaphor for survival: just as a cactus adapts to live without water, these boys have become hardened to survive without love or softness.",
@@ -40,6 +42,7 @@ export const cd: Song = {
     },
     {
       "original": "Jackie Chan सा लड़ना आता है पर फिर भी actor",
+      "romanized": "Jackie Chan saa larnaa aataa hai par phir bhee actor",
       "speaker": "Encore ABJ",
       "translation": "I know how to fight like Jackie Chan, but I'm still an actor.",
       "explanation": "He claims real-life toughness but acknowledges that being a rapper involves a level of performance or public image.",
@@ -53,6 +56,7 @@ export const cd: Song = {
     },
     {
       "original": "Bible आती काम ना यहाँ survival करता matter",
+      "romanized": "Bible aatee kaam naa yahaan survival kartaa matter",
       "speaker": "Encore ABJ",
       "translation": "The Bible doesn't help here; only survival matters.",
       "explanation": "In the streets, religious scriptures or morality take a backseat to the raw necessity of staying alive.",
@@ -67,6 +71,7 @@ export const cd: Song = {
     },
     {
       "original": "रहते अलग sector लेकिन पैसा common factor",
+      "romanized": "Rahte alg sector lekin paisaa common factor",
       "speaker": "Encore ABJ",
       "translation": "We live in different sectors, but money is the common factor.",
       "explanation": "Refers to Delhi's sector-based urban planning. Despite different backgrounds, everyone is united by the hustle for wealth.",
@@ -80,6 +85,7 @@ export const cd: Song = {
     },
     {
       "original": "Check the jazba जब भी आता booth में",
+      "romanized": "Check the jazba jab bhee aataa booth men",
       "speaker": "Encore ABJ",
       "translation": "Check the passion whenever I enter the booth.",
       "explanation": "A flex on his unmatched energy and intensity during recording sessions.",
@@ -93,6 +99,7 @@ export const cd: Song = {
     },
     {
       "original": "Opps हैं बेटे, दिखता प्यार है इनकी माँ के रूप में",
+      "romanized": "Opps hain bete, dikhtaa pyaar hai inkee maan ke roop men",
       "speaker": "Encore ABJ",
       "translation": "They are enemies, son; the only love they get is from their mothers.",
       "explanation": "A cold line suggesting his enemies are so unlikable or weak that only their mothers could love them.",
@@ -106,6 +113,7 @@ export const cd: Song = {
     },
     {
       "original": "पिताजी से क्षमा माँग",
+      "romanized": "Pitaajee se kshamaa maang",
       "speaker": "Encore ABJ",
       "translation": "Ask your father for forgiveness.",
       "explanation": "Telling his rivals to repent for their failures or for the shame they bring to their families.",
@@ -113,6 +121,7 @@ export const cd: Song = {
     },
     {
       "original": "शर्मसार गंदा काम",
+      "romanized": "Sharmsaar gandaa kaam",
       "speaker": "Encore ABJ",
       "translation": "Shameful, dirty work.",
       "explanation": "Commenting on the low-quality effort or lifestyle of his competition.",
@@ -120,6 +129,7 @@ export const cd: Song = {
     },
     {
       "original": "लौंडे लगे bitch, इन कन्याओं का करूँ कन्यादान",
+      "romanized": "Launde lage bitch, in kanyaaon kaa karoon kanyaadaan",
       "speaker": "Encore ABJ",
       "translation": "These guys act like bitches; I'll perform the 'Kanyadaan' for these girls.",
       "explanation": "Emasculating his rivals by calling them girls and saying he'll 'give them away' like in a wedding ritual.",
@@ -133,6 +143,7 @@ export const cd: Song = {
     },
     {
       "original": "फ़ज़ूलों side हो, money count लगे Manikarnika",
+      "romanized": "Fazoolon side ho, money count lage Manikarnika",
       "speaker": "OG Lucifer",
       "translation": "Useless people step aside; my money counting sounds like Manikarnika.",
       "explanation": "Reference to the Queen of Jhansi or the burning ghats; implying his wealth is legendary or powerful as fire.",
@@ -147,6 +158,7 @@ export const cd: Song = {
     },
     {
       "original": "मेरी बात नशा है पानी का (flood), मेरी झाँट लगे तुझे money plant",
+      "romanized": "Meree baat nashaa hai paanee kaa (flood), meree jhaant lage tujhe money plant",
       "speaker": "OG Lucifer",
       "translation": "My words are like a flood; even my waste looks like a money plant to you.",
       "explanation": "An extreme flex suggesting that even his most trivial parts are more valuable than the listener's entire life.",
@@ -161,6 +173,7 @@ export const cd: Song = {
     },
     {
       "original": "Gyat gyat",
+      "romanized": "Gyat gyat",
       "speaker": "OG Lucifer",
       "translation": "Gyat gyat.",
       "explanation": "Internet slang used to express excitement or reaction to something impressive.",
@@ -174,6 +187,7 @@ export const cd: Song = {
     },
     {
       "original": "वो bitch area की Kareena",
+      "romanized": "Vo bitch area kee Kareena",
       "speaker": "OG Lucifer",
       "translation": "That girl is the Kareena (Kapoor) of the area.",
       "explanation": "Comparing a local girl to the famous Bollywood diva to denote her popularity or attitude.",
@@ -188,6 +202,7 @@ export const cd: Song = {
     },
     {
       "original": "ये cash रखता हँसी ना, area का लंगड़ा संविधान",
+      "romanized": "Ye cash rakhtaa hansee naa, area kaa langraa sanvidhaan",
       "speaker": "OG Lucifer",
       "translation": "This cash brings no laughter; it's the crippled constitution of the area.",
       "explanation": "Money is a serious, grim matter, and it dictates the broken laws of the street.",
@@ -197,6 +212,7 @@ export const cd: Song = {
     },
     {
       "original": "Rep करूँ 91, तेरे मुँह पे बनता 92",
+      "romanized": "Rep karoon 91, tere munh pe bantaa 92",
       "speaker": "OG Lucifer",
       "translation": "I represent 91, and I'll leave a 92 on your face.",
       "explanation": "+91 is India's country code. '92' likely refers to a slap or a punch that leaves a mark.",
@@ -210,6 +226,7 @@ export const cd: Song = {
     },
     {
       "original": "Villa करता bargain पर Thane में देता blinddate",
+      "romanized": "Villa kartaa bargain par Thane men detaa blinddate",
       "speaker": "OG Lucifer",
       "translation": "Bargaining for a villa but setting up blind dates in the police station.",
       "explanation": "Wordplay on 'Thane' (Mumbai district) and 'Thana' (Police station).",
@@ -223,6 +240,7 @@ export const cd: Song = {
     },
     {
       "original": "ज़िंदगी के ना मायने, तभी migraine देता mind games",
+      "romanized": "Zindgee ke naa maayne, tabhee migraine detaa mind games",
       "speaker": "OG Lucifer",
       "translation": "Life has no meaning, which is why mind games cause migraines.",
       "explanation": "Reflecting on existential dread and the stress of street politics.",
@@ -230,6 +248,7 @@ export const cd: Song = {
     },
     {
       "original": "तेरा घर का मौसम change करूँ, बावै गलियाँ बोले Tansen",
+      "romanized": "Teraa ghar kaa mausm change karoon, baavai galiyaan bole Tansen",
       "speaker": "OG Lucifer",
       "translation": "I'll change the weather in your house; bro, the streets call me Tansen.",
       "explanation": "Tansen was a legendary singer said to control weather with music. Lucifer claims his voice/influence has similar power.",
@@ -248,6 +267,7 @@ export const cd: Song = {
     },
     {
       "original": "तोड़ेगी कैसे रखे भाई पे बावै चार दिल",
+      "romanized": "Toregee kaise rakhe bhaaee pe baavai chaar dil",
       "speaker": "Calm",
       "translation": "How will she break it? Bro has four hearts.",
       "explanation": "Calm claims to be heartless or to have so many backups that a single heartbreak can't affect him.",
@@ -255,6 +275,7 @@ export const cd: Song = {
     },
     {
       "original": "कह रही थी दो हैं, लेकिन मैंने देखे चार till",
+      "romanized": "Kah rahee thee do hain, lekin mainne dekhe chaar till",
       "speaker": "Calm",
       "translation": "She said there were two, but I saw four until now.",
       "explanation": "Likely referring to girls, luxury items, or hits, mocking someone's false claims.",
@@ -262,6 +283,7 @@ export const cd: Song = {
     },
     {
       "original": "अंदर से bitch हैं, internet पे कहते बाहर मिल",
+      "romanized": "Andr se bitch hain, internet pe kahte baahr mil",
       "speaker": "Calm",
       "translation": "They are soft inside but act tough on the internet, saying 'meet me outside'.",
       "explanation": "Calling out keyboard warriors who are only brave behind a screen.",
@@ -269,6 +291,7 @@ export const cd: Song = {
     },
     {
       "original": "मैं नहीं देता fuck about your page, I'm in my car still",
+      "romanized": "Main naheen detaa fuck about your page, I'm in my car still",
       "speaker": "Calm",
       "translation": "I don't give a fuck about your page; I'm still in my car.",
       "explanation": "Calm is unbothered by social media noise; he's busy enjoying his success.",
@@ -276,6 +299,7 @@ export const cd: Song = {
     },
     {
       "original": "CEO, rap money made me बहुत rich",
+      "romanized": "CEO, rap money made me bahut rich",
       "speaker": "Calm",
       "translation": "CEO, rap money made me very rich.",
       "explanation": "A direct boast about the financial success of Seedhe Maut and their independent label.",
@@ -283,6 +307,7 @@ export const cd: Song = {
     },
     {
       "original": "है गेम में काफी soft kids, नहीं देखे इन्होंने moshpits",
+      "romanized": "Hai gem men kaaphee soft kids, naheen dekhe inhonne moshpits",
       "speaker": "Calm",
       "translation": "There are many soft kids in the game; they haven't seen real moshpits.",
       "explanation": "Criticizing new rappers who lack the experience and grit of real live underground hip-hop culture.",
@@ -296,6 +321,7 @@ export const cd: Song = {
     },
     {
       "original": "हूँ in the cockpit, वो करना चाहती lock lip",
+      "romanized": "Hoon in the cockpit, vo karnaa chaahtee lock lip",
       "speaker": "Calm",
       "translation": "I'm in the cockpit; she wants to lock lips.",
       "explanation": "He is in the pilot's seat (in control), and his status makes him attractive.",
@@ -310,6 +336,7 @@ export const cd: Song = {
     },
     {
       "original": "बस देखा bandi lost it, है ताकत ऐसी cosmic",
+      "romanized": "Bas dekhaa bandi lost it, hai taakt aisee cosmic",
       "speaker": "Calm",
       "translation": "Just saw the girl lose it; the power is cosmic.",
       "explanation": "His aura or performance is so intense that it overwhelms the crowd.",
@@ -324,6 +351,7 @@ export const cd: Song = {
     },
     {
       "original": "इकहत्तर और छियानवे",
+      "romanized": "Ikhttr aur chhiyaanve",
       "speaker": "Lil Bhavi",
       "translation": "71 and 96.",
       "explanation": "References to specific area codes or bus routes in Delhi, common in local hip-hop.",
@@ -338,6 +366,7 @@ export const cd: Song = {
     },
     {
       "original": "ठूँठ पे छाप दूँ बानवे",
+      "romanized": "Thoonth pe chhaap doon baanve",
       "speaker": "Lil Bhavi",
       "translation": "I'll print 92 on the tree stump.",
       "explanation": "Referring to marking territory or a specific gang/group identification.",
@@ -347,6 +376,7 @@ export const cd: Song = {
     },
     {
       "original": "यहाँ चूड़ा गुस्से पे पहले है बातों का समय बाद में (Ok है)",
+      "romanized": "Yahaan chooraa gusse pe pahle hai baaton kaa samy baad men (Ok hai)",
       "speaker": "Lil Bhavi",
       "translation": "Here, aggression comes first; talk comes later.",
       "explanation": "Bhavi uses 'Chuda' as a subverted identity, emphasizing a 'shoot first' street mentality.",
@@ -360,6 +390,7 @@ export const cd: Song = {
     },
     {
       "original": "Aadhaar नहीं है धार पे, गायब करता वार से",
+      "romanized": "Aadhaar naheen hai dhaar pe, gaayb kartaa vaar se",
       "speaker": "Lil Bhavi",
       "translation": "No ID on the blade's edge; I make them disappear with one strike.",
       "explanation": "Wordplay on 'Aadhaar' (ID) and 'Dhaar' (blade sharpness).",
@@ -374,6 +405,7 @@ export const cd: Song = {
     },
     {
       "original": "ये बंदे bitches बन गए, अब वो चाहते puppy गाल पे",
+      "romanized": "Ye bande bitches ban gae, ab vo chaahte puppy gaal pe",
       "speaker": "Lil Bhavi",
       "translation": "These guys became bitches; now they want a kiss on the cheek.",
       "explanation": "Mocking the softness and lack of masculinity in his rivals.",
@@ -383,6 +415,7 @@ export const cd: Song = {
     },
     {
       "original": "Murder है सर पे, कितने बावै उतनी बढ़ती इज़्ज़त",
+      "romanized": "Murder hai sar pe, kitne baavai utnee barhtee izzt",
       "speaker": "Lil Bhavi",
       "translation": "Murder charge on the head; the more brothers I have, the more respect I get.",
       "explanation": "Describing a street hierarchy where criminal reputation and crew size command respect.",
@@ -397,6 +430,7 @@ export const cd: Song = {
     },
     {
       "original": "हम हादसों में गंदे बावै, बाकी तेरी किस्मत",
+      "romanized": "Ham haadson men gande baavai, baakee teree kismt",
       "speaker": "Lil Bhavi",
       "translation": "We are bad news in accidents, bro; the rest is your luck.",
       "explanation": "If you cross them, violence is inevitable; survival is just a matter of luck.",
@@ -404,6 +438,7 @@ export const cd: Song = {
     },
     {
       "original": "Rekha ग़रीब ही थी तो बदली Dilli, बदली किस्मत",
+      "romanized": "Rekha gareeb hee thee to badlee Dilli, badlee kismt",
       "speaker": "Lil Bhavi",
       "translation": "If the poverty line was low, Delhi changed and so did luck.",
       "explanation": "Wordplay on the name 'Rekha' and the 'Poverty Line' (Gareebi Rekha), reflecting on his rise from struggle.",
@@ -417,6 +452,7 @@ export const cd: Song = {
     },
     {
       "original": "सिर्फ केवल सपने नहीं, ये चूड़ा लान है दोनों bigger",
+      "romanized": "Sirph kevl sapne naheen, ye chooraa laan hai donon bigger",
       "speaker": "Lil Bhavi",
       "translation": "It's not just dreams; this clan is bigger.",
       "explanation": "Boasting about the scale of his ambitions and his community.",
@@ -424,6 +460,7 @@ export const cd: Song = {
     },
     {
       "original": "Aahh",
+      "romanized": "Aahh",
       "speaker": "Bhaskar",
       "translation": "Aahh.",
       "explanation": "An ad-lib used to set the mood for his verse.",
@@ -433,6 +470,7 @@ export const cd: Song = {
     },
     {
       "original": "Topi रखता सिर पे जबसे करता rap",
+      "romanized": "Topi rakhtaa sir pe jabse kartaa rap",
       "speaker": "Bhaskar",
       "translation": "I've worn a cap since I started rapping.",
       "explanation": "Referring to the classic hip-hop aesthetic of wearing a fitted or snapback cap.",
@@ -440,6 +478,7 @@ export const cd: Song = {
     },
     {
       "original": "Young बावै no.1 they know the best",
+      "romanized": "Young baavai no.1 they know the best",
       "speaker": "Bhaskar",
       "translation": "Young bro is number one; they know who's the best.",
       "explanation": "Self-proclamation of his top position in the scene.",
@@ -449,6 +488,7 @@ export const cd: Song = {
     },
     {
       "original": "ग़लत है number तभी they don’t call me",
+      "romanized": "Galt hai number tabhee they don’t call me",
       "speaker": "Bhaskar",
       "translation": "They have the wrong number, that's why they don't call me.",
       "explanation": "A clever way to say that rivals can't reach his level or are too afraid to contact him.",
@@ -456,6 +496,7 @@ export const cd: Song = {
     },
     {
       "original": "सुन",
+      "romanized": "Sun",
       "speaker": "Bhaskar",
       "translation": "Listen.",
       "explanation": "Demanding attention for the upcoming lines.",
@@ -463,6 +504,7 @@ export const cd: Song = {
     },
     {
       "original": "Dilli cheat करा, तोड़ा मेरा promise",
+      "romanized": "Dilli cheat karaa, toraa meraa promise",
       "speaker": "Bhaskar",
       "translation": "Delhi cheated and broke its promise to me.",
       "explanation": "Reflecting on the hardships and broken dreams that come with living in a cold metropolis.",
@@ -472,6 +514,7 @@ export const cd: Song = {
     },
     {
       "original": "Fame जबसे ना same",
+      "romanized": "Fame jabse naa same",
       "speaker": "Bhaskar",
       "translation": "Since the fame arrived, things aren't the same.",
       "explanation": "How popularity changes one's life and relationships.",
@@ -479,6 +522,7 @@ export const cd: Song = {
     },
     {
       "original": "पैरों पे चमके Nike",
+      "romanized": "Pairon pe chamke Nike",
       "speaker": "Bhaskar",
       "translation": "Nike shining on my feet.",
       "explanation": "Flexing his expensive footwear.",
@@ -486,6 +530,7 @@ export const cd: Song = {
     },
     {
       "original": "और मुँह पे चमके blade",
+      "romanized": "Aur munh pe chamke blade",
       "speaker": "Bhaskar",
       "translation": "And a blade shining on my face.",
       "explanation": "Signifying street toughness or a scar earned through conflict.",
@@ -493,6 +538,7 @@ export const cd: Song = {
     },
     {
       "original": "मैं जबसे कर रहा rhyming, जब पकड़ी इन्होंने slate",
+      "romanized": "Main jabse kar rahaa rhyming, jab pakree inhonne slate",
       "speaker": "Bhaskar",
       "translation": "I've been rhyming since they first picked up a writing slate.",
       "explanation": "Bhaskar claims seniority over new rappers who were still in school when he started.",
@@ -500,6 +546,7 @@ export const cd: Song = {
     },
     {
       "original": "सीधा cash लेता ATM से, PayTM से hate",
+      "romanized": "Seedhaa cash letaa ATM se, PayTM se hate",
       "speaker": "Bhaskar",
       "translation": "I take cash directly from the ATM; I hate PayTM.",
       "explanation": "A preference for hard cash, often associated with untraceable street transactions.",
@@ -513,6 +560,7 @@ export const cd: Song = {
     },
     {
       "original": "Double cup syrup, बावै goo",
+      "romanized": "Double cup syrup, baavai goo",
       "speaker": "Ab 17",
       "translation": "Double cup syrup, bro, it's sticky.",
       "explanation": "Reference to lean culture (syrup mixed in a double cup).",
@@ -526,6 +574,7 @@ export const cd: Song = {
     },
     {
       "original": "मैं PayTM को troll कर रहा जबसे खोला phone",
+      "romanized": "Main PayTM ko troll kar rahaa jabse kholaa phone",
       "speaker": "Ab 17",
       "translation": "I've been trolling PayTM since I opened my phone.",
       "explanation": "Continuing the anti-digital payment theme from the previous verse.",
@@ -533,6 +582,7 @@ export const cd: Song = {
     },
     {
       "original": "Apraadh बता रहे बंदे जो भी चीज़ें कर रहा post",
+      "romanized": "Apraadh bataa rahe bande jo bhee cheezen kar rahaa post",
       "speaker": "Ab 17",
       "translation": "People are calling the things I post crimes.",
       "explanation": "His lifestyle or social media presence is so raw that it's viewed as illegal by outsiders.",
@@ -540,6 +590,7 @@ export const cd: Song = {
     },
     {
       "original": "ये music कर रहा brain wash, तो बावै कह रहा go",
+      "romanized": "Ye music kar rahaa brain wash, to baavai kah rahaa go",
       "speaker": "Ab 17",
       "translation": "This music is brainwashing you, so bro is saying 'go'.",
       "explanation": "His music is so infectious it takes over the listener's mind.",
@@ -547,6 +598,7 @@ export const cd: Song = {
     },
     {
       "original": "बावै go",
+      "romanized": "Baavai go",
       "speaker": "Ab 17",
       "translation": "Bro, go.",
       "explanation": "A rhythmic chant to keep the flow moving.",
@@ -554,6 +606,7 @@ export const cd: Song = {
     },
     {
       "original": "Couple of hand bags मैं कह रहा फिर भी go",
+      "romanized": "Couple of hand bags main kah rahaa phir bhee go",
       "speaker": "Ab 17",
       "translation": "A couple of hand bags, but I'm still saying 'go'.",
       "explanation": "Likely referring to carrying money or contraband.",
@@ -561,6 +614,7 @@ export const cd: Song = {
     },
     {
       "original": "Sеven up crash कर रहा बावै, pick no bone",
+      "romanized": "Sеven up crash kar rahaa baavai, pick no bone",
       "speaker": "Ab 17",
       "translation": "Mixing Seven Up, bro; don't start a fight.",
       "explanation": "Seven Up is used to mix lean. 'Pick no bone' means don't look for trouble.",
@@ -568,6 +622,7 @@ export const cd: Song = {
     },
     {
       "original": "जो दिख रहा bad day, उससे करना चाह रहा over",
+      "romanized": "Jo dikh rahaa bad day, usse karnaa chaah rahaa over",
       "speaker": "Ab 17",
       "translation": "Trying to get over what looks like a bad day.",
       "explanation": "Dealing with life's struggles and trying to move forward.",
@@ -575,6 +630,7 @@ export const cd: Song = {
     },
     {
       "original": "वफ़ाही दे रही passion, बस steps कर रहा follow",
+      "romanized": "Vafaahee de rahee passion, bas steps kar rahaa follow",
       "speaker": "Ab 17",
       "translation": "Passion gives me loyalty; I'm just following the steps.",
       "explanation": "Remaining true to his craft and following the path to success.",
@@ -589,6 +645,7 @@ export const cd: Song = {
     },
     {
       "original": "हारा मैं कभी ना, कबीला phase 3",
+      "romanized": "Haaraa main kabhee naa, kabeelaa phase 3",
       "speaker": "GhAatak",
       "translation": "I never lost; Tribe Phase 3.",
       "explanation": "Ghaatak refers to his crew (Kabeela) and likely a specific location or development stage (Phase 3).",
@@ -603,6 +660,7 @@ export const cd: Song = {
     },
     {
       "original": "टंगा तू बकरा है बली का, बैठ दी",
+      "romanized": "Tangaa too bakraa hai balee kaa, baith dee",
       "speaker": "GhAatak",
       "translation": "You're hanging like a sacrificial goat; sit down.",
       "explanation": "An insult comparing the rival to a helpless animal about to be slaughtered.",
@@ -610,6 +668,7 @@ export const cd: Song = {
     },
     {
       "original": "पैसे से आता ना सलीका Seth जी",
+      "romanized": "Paise se aataa naa saleekaa Seth jee",
       "speaker": "GhAatak",
       "translation": "Manners don't come with money, Mr. Businessman.",
       "explanation": "Critiquing wealthy people who lack respect or street smarts.",
@@ -617,6 +676,7 @@ export const cd: Song = {
     },
     {
       "original": "बना जो झूठा बस काली का taste",
+      "romanized": "Banaa jo jhoothaa bas kaalee kaa taste",
       "speaker": "GhAatak",
       "translation": "He who became a liar will taste Kali's wrath.",
       "explanation": "Reference to Goddess Kali; implying liars will face divine or deadly justice.",
@@ -630,6 +690,7 @@ export const cd: Song = {
     },
     {
       "original": "खेलने का दिल से वो तरीका देख रही",
+      "romanized": "Khelne kaa dil se vo tareekaa dekh rahee",
       "speaker": "GhAatak",
       "translation": "She is watching the way I play with heart.",
       "explanation": "Referring to a woman observing his genuine and passionate approach to life.",
@@ -637,6 +698,7 @@ export const cd: Song = {
     },
     {
       "original": "बनता अब आगे है Khalifa एक नहीं",
+      "romanized": "Bantaa ab aage hai Khalifa ek naheen",
       "speaker": "GhAatak",
       "translation": "It's not just one leader rising now.",
       "explanation": "Declaring that multiple greats are emerging from their collective.",
@@ -650,6 +712,7 @@ export const cd: Song = {
     },
     {
       "original": "पाँव रखूँ, बढ़ जाता ज़मीन का rate भी",
+      "romanized": "Paanv rakhoon, barh jaataa zameen kaa rate bhee",
       "speaker": "GhAatak",
       "translation": "Wherever I step, the land value increases.",
       "explanation": "An ultimate flex of influence—his presence makes anything more valuable.",
@@ -657,6 +720,7 @@ export const cd: Song = {
     },
     {
       "original": "क़ब्ज़ा लूँ Meerut से तेरा मैं खेत",
+      "romanized": "Qabzaa loon Meerut se teraa main khet",
       "speaker": "GhAatak",
       "translation": "I'll take over your farm in Meerut.",
       "explanation": "Asserting dominance over territory, specifically mentioning the tough city of Meerut.",
@@ -671,6 +735,7 @@ export const cd: Song = {
     },
     {
       "original": "काम सारा heavy weight, बावै में ना pair etiquettes",
+      "romanized": "Kaam saaraa heavy weight, baavai men naa pair etiquettes",
       "speaker": "GhAatak",
       "translation": "All my work is heavyweight; bro, I have no manners.",
       "explanation": "His impact is massive, and he doesn't care for social niceties or 'stepping' lightly.",
@@ -680,6 +745,7 @@ export const cd: Song = {
     },
     {
       "original": "हर move है अपना deliberate, भरेगा बावै pen ही पेट",
+      "romanized": "Har move hai apnaa deliberate, bharegaa baavai pen hee pet",
       "speaker": "GhAatak",
       "translation": "Every move is deliberate; bro, the pen will fill my stomach.",
       "explanation": "He is calculated, and his writing (lyrics) is his livelihood.",
@@ -687,6 +753,7 @@ export const cd: Song = {
     },
     {
       "original": "मिलने पे माफ़ी बस माँगे ये डल्ले delicate",
+      "romanized": "Milne pe maafee bas maange ye dalle delicate",
       "speaker": "GhAatak",
       "translation": "These delicate snitches only ask for forgiveness when we meet.",
       "explanation": "Rivals act tough online but beg for mercy when confronted in person.",
@@ -700,6 +767,7 @@ export const cd: Song = {
     },
     {
       "original": "जो चल रही जेबें खिंची blade, मौत में तेरी ready made",
+      "romanized": "Jo chal rahee jeben khinchee blade, maut men teree ready made",
       "speaker": "GhAatak",
       "translation": "Pockets are ready with blades; your death is ready-made.",
       "explanation": "A final warning of immediate violence for anyone who crosses him.",

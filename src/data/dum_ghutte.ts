@@ -10,6 +10,7 @@ export const dum_ghutte: Song = {
   "lyrics": [
     {
       "original": "Sez on the beat boy!",
+      "romanized": "Sez on the beat boy!",
       "speaker": "Seedhe Maut",
       "translation": "Sez on the beat boy!",
       "explanation": "The iconic producer tag of Sez on the Beat, who produced this track and is a pioneer of the Indian Hip Hop sound.",
@@ -23,6 +24,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz roz ghute dum",
+      "romanized": "Roz roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I feel suffocated",
       "explanation": "The central theme of the song: a constant, daily feeling of anxiety and being trapped.",
@@ -36,6 +38,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Reinforcing the repetitive and inescapable nature of his mental state.",
@@ -43,6 +46,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz ghute dum",
+      "romanized": "Roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day, I'm choking",
       "explanation": "Repetition used to mimic the cyclical nature of depression/anxiety.",
@@ -50,6 +54,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "I'm choking every day",
       "explanation": "Continuous emphasis on the struggle.",
@@ -57,6 +62,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz roz ghute dum, dum ghute roz",
+      "romanized": "Roz roz ghute dum, dum ghute roz",
       "speaker": "Unknown",
       "translation": "Every single day I suffocate, suffocation every day",
       "explanation": "A rhythmic chant that sets a claustrophobic tone for the track.",
@@ -64,6 +70,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Continuation of the hook.",
@@ -71,6 +78,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz ghute dum",
+      "romanized": "Roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I'm choking",
       "explanation": "Continuation of the hook.",
@@ -78,6 +86,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz roz ghute dum",
+      "romanized": "Roz roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I feel suffocated",
       "explanation": "Continuation of the hook.",
@@ -85,6 +94,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Continuation of the hook.",
@@ -92,6 +102,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz ghute dum",
+      "romanized": "Roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I'm choking",
       "explanation": "Continuation of the hook.",
@@ -106,6 +117,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Continuation of the hook.",
@@ -126,6 +138,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz roz ghute dum, dum ghute roz",
+      "romanized": "Roz roz ghute dum, dum ghute roz",
       "speaker": "Unknown",
       "translation": "Every single day I suffocate, suffocation every day",
       "explanation": "Closing the introductory hook cycle.",
@@ -140,6 +153,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Closing the hook.",
@@ -147,6 +161,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz ghute dum",
+      "romanized": "Roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I'm choking",
       "explanation": "Final line of the hook sequence.",
@@ -161,6 +176,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Nahi hai",
+      "romanized": "Nahi hai",
       "speaker": "Calm",
       "translation": "It isn't...",
       "explanation": "Calm starts his verse by addressing his inner resilience—or lack thereof.",
@@ -168,6 +184,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dil itna thos",
+      "romanized": "Dil itna thos",
       "speaker": "Calm",
       "translation": "My heart isn't that solid/tough",
       "explanation": "Admitting vulnerability; he isn't as mentally 'hard' as people might assume a rapper to be.",
@@ -181,6 +198,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Hain bhaide trust issues to hain bhi mere teen hi dost",
+      "romanized": "Hain bhaide trust issues to hain bhi mere teen hi dost",
       "speaker": "Calm",
       "translation": "I've got terrible trust issues, so I only have three friends",
       "explanation": "Reflects the isolation of fame. 'Bhaide' is Delhi/Haryanvi slang for 'bad/intense'.",
@@ -194,6 +212,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Inhe ni pata kitna mushkil hai yaha jeena roz",
+      "romanized": "Inhe ni pata kitna mushkil hai yaha jeena roz",
       "speaker": "Calm",
       "translation": "They don't know how hard it is to live here every day",
       "explanation": "Addressing the disconnect between the audience's perception of his life and his actual daily struggle.",
@@ -201,6 +220,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Jitna likhu utna kamm hai jaise 10th k boards",
+      "romanized": "Jitna likhu utna kamm hai jaise 10th k boards",
       "speaker": "Calm",
       "translation": "No matter how much I write, it’s never enough—just like 10th-grade board exams",
       "explanation": "A relatable Indian reference to the immense pressure and never-ending expectations of the 10th-grade exams.",
@@ -214,6 +234,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Aur ye dard yu badhta jaara hai jaise sez ki tond aur drishtikone ye",
+      "romanized": "Aur ye dard yu badhta jaara hai jaise sez ki tond aur drishtikone ye",
       "speaker": "Calm",
       "translation": "And this pain keeps growing like Sez’s belly and this perspective...",
       "explanation": "A lighthearted inside joke about producer Sez's weight used to contrast the heavy subject of growing pain.",
@@ -232,6 +253,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Jitni baar bhi bolu sahi hu sahi me hu sahi ka Vilom me",
+      "romanized": "Jitni baar bhi bolu sahi hu sahi me hu sahi ka Vilom me",
       "speaker": "Calm",
       "translation": "No matter how many times I say I'm right, in reality, I'm the opposite of right",
       "explanation": "He feels like an 'antonym' (Vilom) of what is right/correct, showing deep self-doubt.",
@@ -251,6 +273,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Mahine se padha gadho k jaisa yaha parde lagake thassa du laundo ko bola matt",
+      "romanized": "Mahine se padha gadho k jaisa yaha parde lagake thassa du laundo ko bola matt",
       "speaker": "Calm",
       "translation": "I've been lying here like an idiot for months with the curtains drawn, told the boys not to bother me",
       "explanation": "Describing depressive isolation—staying in a dark room and avoiding social contact.",
@@ -264,6 +287,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Aoo mujhe Bolna jab chahiye bachao ghute dammm",
+      "romanized": "Aoo mujhe Bolna jab chahiye bachao ghute dammm",
       "speaker": "Calm",
       "translation": "Come talk to me when I need saving, I'm suffocating",
       "explanation": "A plea for help amidst the feeling of choking on his own thoughts.",
@@ -271,6 +295,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Sage bhi kuch na kar paaye",
+      "romanized": "Sage bhi kuch na kar paaye",
       "speaker": "Calm",
       "translation": "Even my own kin couldn't do anything",
       "explanation": "Even those closest to him (family/close friends) are unable to help with his internal battle.",
@@ -284,6 +309,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Bakaeti khush na rakh paaye",
+      "romanized": "Bakaeti khush na rakh paaye",
       "speaker": "Calm",
       "translation": "Mindless banter can't keep me happy",
       "explanation": "Small talk and jokes (bakaeti) no longer provide an escape from his mood.",
@@ -297,6 +323,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Baaki to roz ka marna hai",
+      "romanized": "Baaki to roz ka marna hai",
       "speaker": "Calm",
       "translation": "The rest is just dying every day",
       "explanation": "Living with depression feels like a slow, daily death.",
@@ -304,6 +331,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Tabhi to maut ka darr na hai",
+      "romanized": "Tabhi to maut ka darr na hai",
       "speaker": "Calm",
       "translation": "That's why I have no fear of death",
       "explanation": "A nihilistic sentiment: when life feels like dying, actual death loses its sting.",
@@ -311,6 +339,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Kabhi to Ghuttan ho kamm",
+      "romanized": "Kabhi to Ghuttan ho kamm",
       "speaker": "Calm",
       "translation": "I wish this suffocation would lessen sometime",
       "explanation": "A moment of hope or a simple wish for relief.",
@@ -318,6 +347,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Yaha pe to roz ka dhanda hai",
+      "romanized": "Yaha pe to roz ka dhanda hai",
       "speaker": "Calm",
       "translation": "This is just the daily business here",
       "explanation": "The struggle has become a routine part of his life/the industry.",
@@ -325,6 +355,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Subah se raat tak ladna",
+      "romanized": "Subah se raat tak ladna",
       "speaker": "Calm",
       "translation": "Fighting from morning until night",
       "explanation": "The constant internal battle for mental stability.",
@@ -332,6 +363,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Kisi se baat na karna",
+      "romanized": "Kisi se baat na karna",
       "speaker": "Calm",
       "translation": "Not talking to anyone",
       "explanation": "Further emphasizing withdrawal and the silence of his struggle.",
@@ -339,6 +371,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Kari to harr choti baat aake lage to behtar hai",
+      "romanized": "Kari to harr choti baat aake lage to behtar hai",
       "speaker": "Calm",
       "translation": "If I do talk, every little thing hurts; so it's better...",
       "explanation": "Hypersensitivity during bad mental health phases makes interaction painful.",
@@ -353,6 +386,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Chup hi rehna na",
+      "romanized": "Chup hi rehna na",
       "speaker": "Calm",
       "translation": "...to just stay silent",
       "explanation": "Choosing silence as a defense mechanism.",
@@ -360,6 +394,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Ssshh",
+      "romanized": "Ssshh",
       "speaker": "Calm",
       "translation": "Ssshh",
       "explanation": "Onomatopoeia for silence.",
@@ -374,6 +409,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Saala me karu kya",
+      "romanized": "Saala me karu kya",
       "speaker": "Calm",
       "translation": "Damn, what do I even do?",
       "explanation": "A rhetorical question born of frustration and helplessness.",
@@ -381,6 +417,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Ya bana diye 3 se zyada projects aur ek namuna",
+      "romanized": "Ya bana diye 3 se zyada projects aur ek namuna",
       "speaker": "Calm",
       "translation": "I've made more than 3 projects and I'm still a specimen/example",
       "explanation": "Despite significant musical output (Bayaan, Nayaab, etc.), he still feels like a test subject or an anomaly.",
@@ -394,6 +431,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Chahe kitne poore karlu sapne",
+      "romanized": "Chahe kitne poore karlu sapne",
       "speaker": "Calm",
       "translation": "No matter how many dreams I fulfill",
       "explanation": "Achieving professional goals hasn't fixed his internal state.",
@@ -401,6 +439,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Ni pohocha kabhi me तट pe",
+      "romanized": "Ni pohocha kabhi me tat pe",
       "speaker": "Calm",
       "translation": "I never reached the shore",
       "explanation": "Using the 'shore' (Tat) as a metaphor for peace or a final destination that remains elusive.",
@@ -414,6 +453,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Ye darr hai mere alawa koi ni samjhega ki kitna ghutte daaammm",
+      "romanized": "Ye darr hai mere alawa koi ni samjhega ki kitna ghutte daaammm",
       "speaker": "Calm",
       "translation": "It's a fear that no one but me will understand how much I'm suffocating",
       "explanation": "The loneliness of the human experience—feeling that your specific pain is untranslatable.",
@@ -421,6 +461,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz roz ghute dum",
+      "romanized": "Roz roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I feel suffocated",
       "explanation": "Hook repeats.",
@@ -428,6 +469,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Hook repeats.",
@@ -435,6 +477,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz ghute dum",
+      "romanized": "Roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I'm choking",
       "explanation": "Hook repeats.",
@@ -442,6 +485,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Hook repeats.",
@@ -449,6 +493,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz roz ghute dum, dum ghute roz",
+      "romanized": "Roz roz ghute dum, dum ghute roz",
       "speaker": "Unknown",
       "translation": "Every single day I suffocate, suffocation every day",
       "explanation": "Hook repeats.",
@@ -456,6 +501,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Hook repeats.",
@@ -463,6 +509,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz ghute dum",
+      "romanized": "Roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I'm choking",
       "explanation": "Hook repeats.",
@@ -470,6 +517,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz roz ghute dum",
+      "romanized": "Roz roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I feel suffocated",
       "explanation": "Hook repeats.",
@@ -477,6 +525,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Hook repeats.",
@@ -491,6 +540,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz ghute dum",
+      "romanized": "Roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I'm choking",
       "explanation": "Hook repeats.",
@@ -498,6 +548,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Hook repeats.",
@@ -512,6 +563,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz roz ghute dum, dum ghute roz",
+      "romanized": "Roz roz ghute dum, dum ghute roz",
       "speaker": "Unknown",
       "translation": "Every single day I suffocate, suffocation every day",
       "explanation": "Hook repeats.",
@@ -519,6 +571,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Hook repeats.",
@@ -526,6 +579,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz ghute dum",
+      "romanized": "Roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I'm choking",
       "explanation": "Hook repeats.",
@@ -533,6 +587,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Hai lagta jaise pyase ko paani pilake kuue me duba diya ho",
+      "romanized": "Hai lagta jaise pyase ko paani pilake kuue me duba diya ho",
       "speaker": "Encore ABJ",
       "translation": "It feels like someone gave a thirsty man water, then drowned him in the well",
       "explanation": "A powerful metaphor for success: he got what he wanted (water/fame), but now it's overwhelming and killing him.",
@@ -546,6 +601,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Mujhko ho sake bachalo",
+      "romanized": "Mujhko ho sake bachalo",
       "speaker": "Encore ABJ",
       "translation": "Save me if you can",
       "explanation": "A direct cry for help, dropping the bravado often found in rap.",
@@ -553,6 +609,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Nahi bachi abhijay ki jaga kahi",
+      "romanized": "Nahi bachi abhijay ki jaga kahi",
       "speaker": "Encore ABJ",
       "translation": "There's no place left for Abhijay anywhere",
       "explanation": "He uses his real name (Abhijay Negi) to show that his true self is lost behind the persona of 'Encore ABJ'.",
@@ -566,6 +623,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Tabhi sahi me hu nahi mai jolly",
+      "romanized": "Tabhi sahi me hu nahi mai jolly",
       "speaker": "Encore ABJ",
       "translation": "That's why I'm truly not 'jolly'",
       "explanation": "A simple statement of his lack of happiness, likely a pun on the common name/trait.",
@@ -573,6 +631,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Ab sada ke liye hu encore",
+      "romanized": "Ab sada ke liye hu encore",
       "speaker": "Encore ABJ",
       "translation": "Now I'm 'Encore' forever",
       "explanation": "He feels trapped in his stage identity, always expected to perform.",
@@ -580,6 +639,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Upar se music business itni kutti cheez hai",
+      "romanized": "Upar se music business itni kutti cheez hai",
       "speaker": "Encore ABJ",
       "translation": "On top of that, the music business is such a bitch",
       "explanation": "The industry's cutthroat nature adds to his mental stress.",
@@ -599,6 +659,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Ispe patta to lagade yaar",
+      "romanized": "Ispe patta to lagade yaar",
       "speaker": "Encore ABJ",
       "translation": "Someone put a leash on it, man",
       "explanation": "Continuing the 'kutti' (bitch/dog) metaphor, he wants someone to control the wild industry.",
@@ -612,6 +673,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Ni karne deti kaam ye yaar",
+      "romanized": "Ni karne deti kaam ye yaar",
       "speaker": "Encore ABJ",
       "translation": "It doesn't let me work, man",
       "explanation": "The business side of music interferes with the creative process.",
@@ -619,6 +681,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Uchi ho rhi ye chaar diware",
+      "romanized": "Uchi ho rhi ye chaar diware",
       "speaker": "Encore ABJ",
       "translation": "These four walls are getting higher",
       "explanation": "A feeling of being boxed in or imprisoned by his own life/room.",
@@ -626,6 +689,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Jaise chaar minar",
+      "romanized": "Jaise chaar minar",
       "speaker": "Encore ABJ",
       "translation": "Like the Charminar",
       "explanation": "A play on 'chaar diware' (four walls) and the famous monument Charminar, emphasizing the height and scale of his entrapment.",
@@ -639,6 +703,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Yaha sar pakad ke baitha hu",
+      "romanized": "Yaha sar pakad ke baitha hu",
       "speaker": "Encore ABJ",
       "translation": "I'm sitting here holding my head",
       "explanation": "A physical manifestation of stress or a migraine caused by overthinking.",
@@ -646,6 +711,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Vaha gaane jaare laakho paar",
+      "romanized": "Vaha gaane jaare laakho paar",
       "speaker": "Encore ABJ",
       "translation": "While over there, the songs are crossing millions of views",
       "explanation": "The irony of professional success (millions of streams) vs. personal misery.",
@@ -653,6 +719,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Kabhi bhi khudse khud ko khoj ni paya to khaak insaan hu",
+      "romanized": "Kabhi bhi khudse khud ko khoj ni paya to khaak insaan hu",
       "speaker": "Encore ABJ",
       "translation": "If I could never find myself within myself, then what kind of person am I?",
       "explanation": "Existential crisis and the failure of self-discovery.",
@@ -660,6 +727,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Abhi bhi takiye ke cover pe hai sukhate aansu",
+      "romanized": "Abhi bhi takiye ke cover pe hai sukhate aansu",
       "speaker": "Encore ABJ",
       "translation": "Tears are still drying on the pillowcase",
       "explanation": "A raw image of crying himself to sleep.",
@@ -667,6 +735,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Seene me kabse rahe hai marr janab",
+      "romanized": "Seene me kabse rahe hai marr janab",
       "speaker": "Encore ABJ",
       "translation": "They've been dying in my chest for a long time, sir",
       "explanation": "Referring to suppressed emotions or his inner spirit dying.",
@@ -674,6 +743,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Akal kharab",
+      "romanized": "Akal kharab",
       "speaker": "Encore ABJ",
       "translation": "Mind is messed up",
       "explanation": "Mental exhaustion.",
@@ -681,6 +751,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Charas sharab",
+      "romanized": "Charas sharab",
       "speaker": "Encore ABJ",
       "translation": "Hash and alcohol",
       "explanation": "Common, yet destructive, ways people in the scene try to cope with stress.",
@@ -694,6 +765,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Alag mijaaz",
+      "romanized": "Alag mijaaz",
       "speaker": "Encore ABJ",
       "translation": "A different temperament",
       "explanation": "He feels disconnected and fundamentally different from others.",
@@ -701,6 +773,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Gazab kala rakhe sada",
+      "romanized": "Gazab kala rakhe sada",
       "speaker": "Encore ABJ",
       "translation": "Amazing art always keeps...",
       "explanation": "Acknowledging the quality of their craft.",
@@ -708,6 +781,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Hume amar aur zindabad",
+      "romanized": "Hume amar aur zindabad",
       "speaker": "Encore ABJ",
       "translation": "...us immortal and long-living",
       "explanation": "Art provides immortality, but at a personal cost.",
@@ -715,6 +789,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Andar se hai zinda laash",
+      "romanized": "Andar se hai zinda laash",
       "speaker": "Encore ABJ",
       "translation": "Inside, I'm a living corpse",
       "explanation": "The classic 'Zinda Laash' trope: dead emotionally while appearing alive externally.",
@@ -722,6 +797,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Par antar aata",
+      "romanized": "Par antar aata",
       "speaker": "Encore ABJ",
       "translation": "But a difference comes",
       "explanation": "Transitioning to the results of his labor.",
@@ -729,6 +805,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Jab nirantar shram hai laata laabh",
+      "romanized": "Jab nirantar shram hai laata laabh",
       "speaker": "Encore ABJ",
       "translation": "When constant hard work brings profit/results",
       "explanation": "The conflict between the 'profit' (success) and the 'shram' (exhausting labor).",
@@ -742,6 +819,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Hum pehele sochte ke upar mehsoos kaisa hoga",
+      "romanized": "Hum pehele sochte ke upar mehsoos kaisa hoga",
       "speaker": "Encore ABJ",
       "translation": "We used to wonder how it would feel at the top",
       "explanation": "Reflecting on their early days when they dreamt of fame.",
@@ -749,6 +827,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Ab hai baadalon pe lekin kuch mehsoon nahi hota, khaali",
+      "romanized": "Ab hai baadalon pe lekin kuch mehsoon nahi hota, khaali",
       "speaker": "Encore ABJ",
       "translation": "Now we're on the clouds, but we don't feel anything—empty",
       "explanation": "The 'arrival fallacy': getting to the top (the clouds) and realizing it's hollow and cold.",
@@ -756,6 +835,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz roz ghute dum",
+      "romanized": "Roz roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I feel suffocated",
       "explanation": "Hook repeats.",
@@ -763,6 +843,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Hook repeats.",
@@ -770,6 +851,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz ghute dum",
+      "romanized": "Roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I'm choking",
       "explanation": "Hook repeats.",
@@ -777,6 +859,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Hook repeats.",
@@ -784,6 +867,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz roz ghute dum, dum ghute roz",
+      "romanized": "Roz roz ghute dum, dum ghute roz",
       "speaker": "Unknown",
       "translation": "Every single day I suffocate, suffocation every day",
       "explanation": "Hook repeats.",
@@ -791,6 +875,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Hook repeats.",
@@ -798,6 +883,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz ghute dum",
+      "romanized": "Roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I'm choking",
       "explanation": "Hook repeats.",
@@ -805,6 +891,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz roz ghute dum",
+      "romanized": "Roz roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I feel suffocated",
       "explanation": "Hook repeats.",
@@ -812,6 +899,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Hook repeats.",
@@ -819,6 +907,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz ghute dum",
+      "romanized": "Roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I'm choking",
       "explanation": "Hook repeats.",
@@ -826,6 +915,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Hook repeats.",
@@ -833,6 +923,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz roz ghute dum, dum ghute roz",
+      "romanized": "Roz roz ghute dum, dum ghute roz",
       "speaker": "Unknown",
       "translation": "Every single day I suffocate, suffocation every day",
       "explanation": "Hook repeats.",
@@ -840,6 +931,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Dum ghute roz",
+      "romanized": "Dum ghute roz",
       "speaker": "Unknown",
       "translation": "Suffocation every day",
       "explanation": "Hook repeats.",
@@ -847,6 +939,7 @@ export const dum_ghutte: Song = {
     },
     {
       "original": "Roz ghute dum",
+      "romanized": "Roz ghute dum",
       "speaker": "Unknown",
       "translation": "Every day I'm choking",
       "explanation": "Final repetition of the hook, fading out on a dark note.",

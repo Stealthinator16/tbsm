@@ -9,6 +9,7 @@ export const kashmakush: Song = {
   "lyrics": [
     {
       "original": "Hun baitha fir main aaj bhi",
+      "devanagari": "हूँ बैठा फिर मैं आज भी",
       "speaker": "Encore",
       "translation": "I am sitting here once again today",
       "explanation": "Encore sets an introspective mood, suggesting a cycle of overthinking or being stuck in a certain mental state.",
@@ -22,6 +23,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Yahin sahi nahi hai (kuch)",
+      "devanagari": "यहीं सही नहीं है (कुछ)",
       "speaker": "Encore",
       "translation": "Something isn't right here",
       "explanation": "A sense of unease or dissatisfaction with his current surroundings or internal peace.",
@@ -29,6 +31,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Kabhi kabhi ki aankh mein",
+      "devanagari": "कभी कभी की आँख में",
       "speaker": "Encore",
       "translation": "In the eyes of 'sometimes'",
       "explanation": "Personifying time or moments where vulnerability peeks through.",
@@ -36,6 +39,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Nami dekhi nahi toh",
+      "devanagari": "नमी देखी नहीं तोह",
       "speaker": "Encore",
       "translation": "If you haven't seen the moisture (tears)",
       "explanation": "Referring to his hidden emotions or the sadness he usually keeps masked.",
@@ -49,6 +53,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Aaj dekh lo",
+      "devanagari": "आज देख लो",
       "speaker": "Encore",
       "translation": "Then see it today",
       "explanation": "He is opening up and showing his raw, vulnerable side through this song.",
@@ -56,6 +61,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Gaano ko apne sek lo",
+      "devanagari": "गानो को अपने सेक लो",
       "speaker": "Encore",
       "translation": "Warm yourselves with my songs",
       "explanation": "Comparing his music to a fire that provides warmth or comfort to the listeners.",
@@ -69,6 +75,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Ya fenk do mujhe",
+      "devanagari": "या फेंक दो मुझे",
       "speaker": "Encore",
       "translation": "Or just throw me away",
       "explanation": "Expressing a 'take it or leave it' attitude towards his art and his persona.",
@@ -76,6 +83,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Ya mujhko fenk do",
+      "devanagari": "या मुझको फेंक दो",
       "speaker": "Encore",
       "translation": "Or just discard me",
       "explanation": "Reinforcing the indifference he feels toward fame if it doesn't come with understanding.",
@@ -83,6 +91,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Par ek toh",
+      "devanagari": "पर एक तोह",
       "speaker": "Encore",
       "translation": "But at least one",
       "explanation": "Seeking a singular connection or understanding from the audience.",
@@ -90,6 +99,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Hoga shaayad tum mein koi aisa",
+      "devanagari": "होगा शायद तुम में कोई ऐसा",
       "speaker": "Encore",
       "translation": "There might be someone among you",
       "explanation": "Hoping for a listener who truly resonates with his struggle.",
@@ -97,6 +107,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Jiss ko lage katei nahi",
+      "devanagari": "जिस को लगे कतई नहीं",
       "speaker": "Encore",
       "translation": "Who doesn't think at all",
       "explanation": "Referring to someone who doesn't view him as just another face in the crowd.",
@@ -110,6 +121,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Main koi aisa vaisa, Jaisa",
+      "devanagari": "मैं कोई ऐसा वैसा, जैसा",
       "speaker": "Encore",
       "translation": "That I'm just some random guy, like",
       "explanation": "He refuses to be categorized as a generic or mediocre artist.",
@@ -123,6 +135,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Hoon main rehta",
+      "devanagari": "हूँ मैं रहता",
       "speaker": "Encore",
       "translation": "The way I live",
       "explanation": "Emphasizing his authenticity; he lives the way he portrays in his raps.",
@@ -130,6 +143,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Baatein bhi vahi hun kehta",
+      "devanagari": "बातें भी वही हूँ कहता",
       "speaker": "Encore",
       "translation": "I say exactly those things (as I live)",
       "explanation": "A claim to the 'realness' that is central to Seedhe Maut's brand.",
@@ -137,6 +151,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Samjhega mujhe tu kaise",
+      "devanagari": "समझेगा मुझे तू कैसे",
       "speaker": "Encore",
       "translation": "How will you understand me",
       "explanation": "Challenging the listener's ability to grasp his complexity.",
@@ -144,6 +159,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Jab dimaag se hai behra",
+      "devanagari": "जब दिमाग़ से है बहरा",
       "speaker": "Encore",
       "translation": "When you are mentally deaf",
       "explanation": "A powerful metaphor for people who hear the music but don't comprehend the depth or the message.",
@@ -157,6 +173,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Ek, ek, ek, ek hi jagah pe atka hoon main",
+      "devanagari": "एक, एक, एक, एक ही जगह पे अटका हूँ मैं",
       "speaker": "Encore",
       "translation": "Stuck in one, one, one, one same spot",
       "explanation": "Reflecting on a plateau or a mental block in his journey.",
@@ -164,6 +181,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Peeche mudne ka sawaal nahi",
+      "devanagari": "पीछे मुड़ने का सवाल नहीं",
       "speaker": "Encore",
       "translation": "There is no question of turning back",
       "explanation": "Despite the struggle, he is committed to the path of hip-hop.",
@@ -171,6 +189,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Main aag chhodun muh se",
+      "devanagari": "मैं आग छोड़ूँ मुँह से",
       "speaker": "Encore",
       "translation": "I spit fire from my mouth",
       "explanation": "Standard hip-hop slang for rapping with high intensity or great lyrics.",
@@ -184,6 +203,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Andhere mein bhi hoon khada",
+      "devanagari": "अँधेरे में भी हूँ खड़ा",
       "speaker": "Encore",
       "translation": "I am standing even in the dark",
       "explanation": "Representing resilience during tough times or 'underground' days.",
@@ -191,6 +211,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Tabhi toh saath baatein chal rahin hain yun mashaal si (mashaal si)",
+      "devanagari": "तभी तोह साथ बातें चल रहीं हैं यूँ मशाल सी (मशाल सी)",
       "speaker": "Encore",
       "translation": "That's why these conversations are burning like torches",
       "explanation": "His words act as a light (guidance/truth) because they come from a place of struggle.",
@@ -204,6 +225,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Haan toh score kar (score kar)",
+      "devanagari": "हाँ तोह score कर (score कर)",
       "speaker": "Encore",
       "translation": "Yeah, so go score",
       "explanation": "Slang for buying weed/substances, starting the 'ritual' described in the hook.",
@@ -217,6 +239,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Aaja crush kar (crush kar)",
+      "devanagari": "आजा crush कर (crush कर)",
       "speaker": "Encore",
       "translation": "Come, crush it",
       "explanation": "Preparing the weed for rolling.",
@@ -230,6 +253,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Roll kar, zindagi ke parde girte neeche",
+      "devanagari": "Roll कर, ज़िंदगी के पर्दे गिरते नीचे",
       "speaker": "Encore",
       "translation": "Roll it, the curtains of life are falling down",
       "explanation": "As they smoke, the 'performance' of life ends and reality or a dream state begins.",
@@ -255,6 +279,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Sapno mein tu kho jaa Bhole naam bol kar",
+      "devanagari": "सपनो में तू खो जा भोले नाम बोल कर",
       "speaker": "Encore",
       "translation": "Get lost in dreams by chanting the name of Bhole (Shiva)",
       "explanation": "A reference to Lord Shiva (Bhole Nath), who is culturally associated with cannabis in India; seeking spiritual/mental escape.",
@@ -268,6 +293,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Roll kar, zindagi ke parde girte neeche",
+      "devanagari": "Roll कर, ज़िंदगी के पर्दे गिरते नीचे",
       "speaker": "Encore",
       "translation": "Roll it, the curtains of life are falling down",
       "explanation": "Repetition emphasizing the transition from reality to a high/spiritual state.",
@@ -275,6 +301,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Sapno mein tu kho jaa Bhole naam bol kar",
+      "devanagari": "सपनो में तू खो जा भोले नाम बोल कर",
       "speaker": "Encore",
       "translation": "Get lost in dreams by chanting the name of Bhole",
       "explanation": "Reiterating the theme of using substance and faith to cope with the 'Kashmakush' (dilemma).",
@@ -282,6 +309,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Roll kar, zindagi ke parde girte neeche",
+      "devanagari": "Roll कर, ज़िंदगी के पर्दे गिरते नीचे",
       "speaker": "Encore",
       "translation": "Roll it, the curtains of life are falling down",
       "explanation": "Hypnotic repetition of the hook.",
@@ -289,6 +317,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Sapno mein tu kho jaa Bhole naam bol kar",
+      "devanagari": "सपनो में तू खो जा भोले नाम बोल कर",
       "speaker": "Encore",
       "translation": "Get lost in dreams by chanting the name of Bhole",
       "explanation": "Finding peace in a dream-like state.",
@@ -296,6 +325,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Roll kar, zindagi ke parde girte neeche",
+      "devanagari": "Roll कर, ज़िंदगी के पर्दे गिरते नीचे",
       "speaker": "Encore",
       "translation": "Roll it, the curtains of life are falling down",
       "explanation": "Final repetition of the hook's first half.",
@@ -303,6 +333,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Sapno mein tu kho jaa Bhole naam bol kar",
+      "devanagari": "सपनो में तू खो जा भोले नाम बोल कर",
       "speaker": "Encore",
       "translation": "Get lost in dreams by chanting the name of Bhole",
       "explanation": "Final repetition of the hook's second half.",
@@ -310,6 +341,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "(Fuck...)",
+      "devanagari": "(Fuck...)",
       "speaker": "Encore",
       "translation": "(Fuck...)",
       "explanation": "An ad-lib showing frustration or the intensity of the trip.",
@@ -317,6 +349,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "(Check this out, check this out)",
+      "devanagari": "(Check this out, check this out)",
       "speaker": "Encore",
       "translation": "(Check this out, check this out)",
       "explanation": "Transitioning to Calm's verse.",
@@ -324,6 +357,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "This doobie, who be, booning up",
+      "devanagari": "This doobie, who be, booning up",
       "speaker": "Calm",
       "translation": "This joint, who is it making high?",
       "explanation": "Calm starts with his signature rhythmic English flow, referencing the joint (doobie).",
@@ -337,6 +371,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "This hit me too much, thinking its",
+      "devanagari": "This hit me too much, thinking its",
       "speaker": "Calm",
       "translation": "This hit me too hard, thinking it's",
       "explanation": "Describing the potency of the substance or the intensity of his thoughts.",
@@ -344,6 +379,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Ruby, to me, no go, loony, life's no more scripted tho",
+      "devanagari": "Ruby, to me, no go, loony, life's no more scripted tho",
       "speaker": "Calm",
       "translation": "Ruby to me, no go crazy, life isn't scripted anymore",
       "explanation": "Internal rhymes (Ruby/Loony). He implies life has become unpredictable and raw.",
@@ -357,6 +393,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Burden needs, lifting my",
+      "devanagari": "Burden needs, lifting my",
       "speaker": "Calm",
       "translation": "The burden needs lifting",
       "explanation": "Refers to the mental weight or the pressure of the rap game.",
@@ -364,6 +401,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Presence fucked when I'm gifted, From",
+      "devanagari": "Presence fucked when I'm gifted, From",
       "speaker": "Calm",
       "translation": "My presence is messed up because I'm gifted",
       "explanation": "The curse of being talented; it changes how people perceive you or how you interact with the world.",
@@ -371,6 +409,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Vivid I'm goin' twisted, I don't remember being rich",
+      "devanagari": "Vivid I'm goin' twisted, I don't remember being rich",
       "speaker": "Calm",
       "translation": "Vividly I'm going crazy, I don't remember being rich",
       "explanation": "Despite success, he still feels the same internal struggle or 'twisted' mindset from his past.",
@@ -378,6 +417,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "But I missed it, I'm",
+      "devanagari": "But I missed it, I'm",
       "speaker": "Calm",
       "translation": "But I missed it, I am",
       "explanation": "A sense of longing for a simpler time or a missed opportunity.",
@@ -385,6 +425,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Different",
+      "devanagari": "Different",
       "speaker": "Calm",
       "translation": "Different",
       "explanation": "Emphasizing his unique path and mindset.",
@@ -392,6 +433,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Shit!",
+      "devanagari": "Shit!",
       "speaker": "Calm",
       "translation": "Shit!",
       "explanation": "Expression of sudden realization or frustration.",
@@ -399,6 +441,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Man I'm, trippin'",
+      "devanagari": "Man I'm, trippin'",
       "speaker": "Calm",
       "translation": "Man I'm tripping",
       "explanation": "Being under the influence or overthinking deeply.",
@@ -412,6 +455,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Fuck",
+      "devanagari": "Fuck",
       "speaker": "Calm",
       "translation": "Fuck",
       "explanation": "Expletive used for emphasis.",
@@ -419,6 +463,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Roll kar",
+      "devanagari": "Roll कर",
       "speaker": "Calm",
       "translation": "Roll it",
       "explanation": "Calm taking over the 'Roll kar' instruction.",
@@ -426,6 +471,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "I won't let nobody leave",
+      "devanagari": "I won't let nobody leave",
       "speaker": "Calm",
       "translation": "I won't let anyone leave",
       "explanation": "Wanting to share this moment/high with his circle.",
@@ -433,6 +479,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Sober",
+      "devanagari": "Sober",
       "speaker": "Calm",
       "translation": "Sober",
       "explanation": "Ensuring everyone is in the same mental state.",
@@ -453,6 +500,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Hashish inside my nails",
+      "devanagari": "Hashish inside my nails",
       "speaker": "Calm",
       "translation": "Hashish stuck under my nails",
       "explanation": "A literal description of the process of crushing hash/charas.",
@@ -466,6 +514,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "My plugs don't fail, I got that tol sir",
+      "devanagari": "My plugs don't fail, I got that tol sir",
       "speaker": "Calm",
       "translation": "My dealers don't fail, I have the weight (tol), sir",
       "explanation": "'Plug' refers to a supplier; 'Tol' refers to the measurement/weight of the substance.",
@@ -484,6 +533,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Closure",
+      "devanagari": "Closure",
       "speaker": "Calm",
       "translation": "Closure",
       "explanation": "Seeking an end to his mental conflicts.",
@@ -491,6 +541,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "That's all I needed",
+      "devanagari": "That's all I needed",
       "speaker": "Calm",
       "translation": "That's all I needed",
       "explanation": "Finding peace in the music or the moment.",
@@ -498,6 +549,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "All of the bad been deleted",
+      "devanagari": "All of the bad been deleted",
       "speaker": "Calm",
       "translation": "All the bad things have been deleted",
       "explanation": "A mental 'reset' where he forgets his troubles.",
@@ -505,6 +557,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Beat everybody who told me to beat it",
+      "devanagari": "Beat everybody who told me to beat it",
       "speaker": "Calm",
       "translation": "I beat everyone who told me to go away",
       "explanation": "A play on 'beat it'. He succeeded despite people telling him to quit.",
@@ -518,6 +571,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "My mind retreated, I'm feeling completed",
+      "devanagari": "My mind retreated, I'm feeling completed",
       "speaker": "Calm",
       "translation": "My mind retreated, I'm feeling whole",
       "explanation": "The 'retreat' is inward, leading to a sense of fulfillment.",
@@ -525,6 +579,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "I'm lettin' it go",
+      "devanagari": "I'm lettin' it go",
       "speaker": "Calm",
       "translation": "I'm letting it go",
       "explanation": "Releasing the stress and the 'Kashmakush' (struggle).",
@@ -532,6 +587,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Sabse door hoon, tapte khoob",
+      "devanagari": "सबसे दूर हूँ, तपते ख़ूब",
       "speaker": "Encore and Calm",
       "translation": "I'm far from everyone, burning bright",
       "explanation": "Isolation combined with high intensity/passion.",
@@ -539,6 +595,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Yun tass se mass na",
+      "devanagari": "यूँ टस से मस ना",
       "speaker": "Encore and Calm",
       "translation": "I won't budge an inch",
       "explanation": "A common Hindi idiom (Tass se mass na hona) meaning being stubborn or unshakeable.",
@@ -552,6 +609,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "(Na) main rukoon",
+      "devanagari": "(ना) मैं रुकूँ",
       "speaker": "Encore and Calm",
       "translation": "Nor will I stop",
       "explanation": "Reinforcing their persistence.",
@@ -559,6 +617,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Kyun bas mein sab na",
+      "devanagari": "क्यूँ बस में सब ना",
       "speaker": "Encore and Calm",
       "translation": "Why is everything not in control?",
       "explanation": "The central question of the song; the struggle with things outside one's control.",
@@ -566,6 +625,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Sapne bas",
+      "devanagari": "सपने बस",
       "speaker": "Encore and Calm",
       "translation": "Just dreams",
       "explanation": "Suggesting that sometimes dreams are all they have to hold onto.",
@@ -573,6 +633,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Ab ye jharna ulta tair",
+      "devanagari": "अब ये झरना उलटा तैर",
       "speaker": "Encore and Calm",
       "translation": "Now this waterfall is swimming backwards",
       "explanation": "A surreal metaphor for doing the impossible or going against the natural flow/society.",
@@ -592,6 +653,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Iss kash ki kashmakush mein doobi kashti hai toh",
+      "devanagari": "इस कश की कशमकश में डूबी कश्ती है तोह",
       "speaker": "Encore and Calm",
       "translation": "In the dilemma of this puff, the boat is sinking",
       "explanation": "Masterful wordplay. 'Kash' means a puff of smoke; 'Kashmakush' means dilemma; 'Kashti' means boat. It links their drug use to their life's struggles.",
@@ -610,6 +672,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Saath iske pehlu",
+      "devanagari": "साथ इसके पहलू",
       "speaker": "Encore and Calm",
       "translation": "Along with its various aspects",
       "explanation": "Accepting all parts of the journey, good and bad.",
@@ -617,6 +680,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Aaja score kar (score kar, haha)",
+      "devanagari": "आजा score कर (score कर, haha)",
       "speaker": "Encore",
       "translation": "Come, let's score",
       "explanation": "Returning to the hook.",
@@ -624,6 +688,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Aaja crush kar (crush kar)",
+      "devanagari": "आजा crush कर (crush कर)",
       "speaker": "Encore",
       "translation": "Come, let's crush",
       "explanation": "Preparation phase.",
@@ -638,6 +703,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Roll kar, zindagi ke parde girte neeche",
+      "devanagari": "Roll कर, ज़िंदगी के पर्दे गिरते नीचे",
       "speaker": "Encore",
       "translation": "Roll it, the curtains of life fall down",
       "explanation": "The transition to the dream world.",
@@ -658,6 +724,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Sapno mein tu kho jaa Bhole naam bol kar",
+      "devanagari": "सपनो में तू खो जा भोले नाम बोल कर",
       "speaker": "Encore",
       "translation": "Get lost in dreams by chanting Bhole's name",
       "explanation": "Escapism through faith/substance.",
@@ -665,6 +732,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Roll kar, zindagi ke parde girte neeche",
+      "devanagari": "Roll कर, ज़िंदगी के पर्दे गिरते नीचे",
       "speaker": "Encore",
       "translation": "Roll it, the curtains of life fall down",
       "explanation": "Hook repetition.",
@@ -672,6 +740,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Sapno mein tu kho jaa Bhole naam bol kar",
+      "devanagari": "सपनो में तू खो जा भोले नाम बोल कर",
       "speaker": "Encore",
       "translation": "Get lost in dreams by chanting Bhole's name",
       "explanation": "Hook repetition.",
@@ -679,6 +748,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Roll kar, zindagi ke parde girte neeche",
+      "devanagari": "Roll कर, ज़िंदगी के पर्दे गिरते नीचे",
       "speaker": "Encore",
       "translation": "Roll it, the curtains of life fall down",
       "explanation": "Hook repetition.",
@@ -686,6 +756,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Sapno mein tu kho jaa Bhole naam bol kar",
+      "devanagari": "सपनो में तू खो जा भोले नाम बोल कर",
       "speaker": "Encore",
       "translation": "Get lost in dreams by chanting Bhole's name",
       "explanation": "Hook repetition.",
@@ -693,6 +764,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Roll kar, zindagi ke parde girte neeche",
+      "devanagari": "Roll कर, ज़िंदगी के पर्दे गिरते नीचे",
       "speaker": "Encore",
       "translation": "Roll it, the curtains of life fall down",
       "explanation": "Final hook repetition.",
@@ -700,6 +772,7 @@ export const kashmakush: Song = {
     },
     {
       "original": "Sapno mein tu kho jaa Bhole naam bol kar",
+      "devanagari": "सपनो में तू खो जा भोले नाम बोल कर",
       "speaker": "Encore",
       "translation": "Get lost in dreams by chanting Bhole's name",
       "explanation": "Final line, fading out into the 'dream'.",

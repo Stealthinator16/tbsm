@@ -10,6 +10,7 @@ export const gehraiyaan: Song = {
   "lyrics": [
     {
       "original": "Hello, भाई कहा है कैसी है तेरा तो कुछ पता ही नहीं है भाई",
+      "romanized": "Hello, bhaaee kahaa hai kaisee hai teraa to kuchh pataa hee naheen hai bhaaee",
       "speaker": "Unknown Girl",
       "translation": "Hello, where are you? How are things? No one has a clue where you've disappeared to, brother.",
       "explanation": "A casual intro featuring a voice note from a friend or acquaintance questioning the artist's whereabouts, setting a realistic 'behind-the-scenes' tone.",
@@ -29,6 +30,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "हँ, सही है बेटे बंदे मे ही busy रहते हो (laughs)",
+      "romanized": "han, sahee hai bete bande me hee busy rahate ho (laughs)",
       "speaker": "Unknown Girl",
       "translation": "Yeah, right. You're always just busy with your boys/crew. (laughs)",
       "explanation": "A playful jab at how the duo is always surrounded by their team or deep into their work, often neglecting social life.",
@@ -42,6 +44,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "अबे हाँ मेरी बात सुन",
+      "romanized": "abe haan meree baat sun",
       "speaker": "Unknown Girl",
       "translation": "Anyway, listen to me.",
       "explanation": "A transition in the conversation to get to the point.",
@@ -49,6 +52,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "This Seedhe Maut is coming our town this weekend",
+      "romanized": "This Seedhe Maut is coming our town this weekend",
       "speaker": "Unknown Girl",
       "translation": "This Seedhe Maut is coming to our town this weekend.",
       "explanation": "The girl mentions the duo's upcoming show, highlighting their rising popularity.",
@@ -56,6 +60,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "पापा लोग से मिल ले क्या?",
+      "romanized": "paapaa log se mil le kyaa?",
       "speaker": "Unknown Girl",
       "translation": "Should we meet up with the elders/parents?",
       "explanation": "Asking if they should have a formal or family-related gathering, or perhaps just a general 'group' meeting.",
@@ -70,6 +75,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "भई मम्मी तो मना ही करती है",
+      "romanized": "bhaee mammee to manaa hee karatee hai",
       "speaker": "Unknown Girl",
       "translation": "Man, mom always says no anyway.",
       "explanation": "Reflecting the typical Indian household dynamic where parents are skeptical of late-night hip-hop events.",
@@ -77,6 +83,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "अभी भी पता नही क्या ही बोल रही है",
+      "romanized": "abhee bhee pataa nahee kyaa hee bol rahee hai",
       "speaker": "Unknown Girl",
       "translation": "Even now, I don't even know what she’s rambling about.",
       "explanation": "The speaker is annoyed by her mother's restrictions or opinions.",
@@ -84,6 +91,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "But Then, मिलते है यार",
+      "romanized": "But Then, milate hai yaar",
       "speaker": "Unknown Girl",
       "translation": "But regardless, let's meet up, man.",
       "explanation": "A desire to reconnect despite the obstacles.",
@@ -91,6 +99,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "मुझे भी बहुत पसंद है",
+      "romanized": "mujhe bhee bahut pasand hai",
       "speaker": "Unknown Girl",
       "translation": "I really like it/them too.",
       "explanation": "Expressing her fandom for Seedhe Maut's music.",
@@ -98,6 +107,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "Ok then, See you",
+      "romanized": "Ok then, See you",
       "speaker": "Unknown Girl",
       "translation": "Ok then, See you.",
       "explanation": "Ending the voice note.",
@@ -105,6 +115,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "Do text Rishabh,Ok",
+      "romanized": "Do text Rishabh,Ok",
       "speaker": "Unknown Girl",
       "translation": "Do text Rishabh, okay?",
       "explanation": "Direct reference to 'Calm' by his real name, Rishabh Tiwari.",
@@ -118,6 +129,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "मै बाकियों को बता देती हूँ।",
+      "romanized": "mai baakiyon ko bataa detee hoon",
       "speaker": "Unknown Girl",
       "translation": "I'll let the others know.",
       "explanation": "Closing the logistical part of the call.",
@@ -125,6 +137,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "(खो दूँ खुद को, खोजु खुद को)",
+      "romanized": "(kho doon khud ko, khoju khud ko)",
       "speaker": "Unknown Girl",
       "translation": "(Should I lose myself, or find myself?)",
       "explanation": "A haunting backing vocal posing the central philosophical conflict of the song.",
@@ -132,6 +145,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "(खो दूँ खुद को या खोजु खुद को)",
+      "romanized": "(kho doon khud ko yaa khoju khud ko)",
       "speaker": "Unknown Girl",
       "translation": "(Should I lose myself or should I find myself?)",
       "explanation": "Repetition of the existential dilemma.",
@@ -139,6 +153,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "मै रहा डूब अभी, मदद है दूर कही",
+      "romanized": "mai rahaa doob abhee, madad hai door kahee",
       "speaker": "Calm",
       "translation": "I am drowning right now; help is far away.",
       "explanation": "Calm uses the metaphor of drowning to describe his mental state and feeling of isolation.",
@@ -153,6 +168,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "है पानी फेफड़ों में, केकड़ो से जूझ रहे",
+      "romanized": "hai paanee phephn men, kek se joojh rahe",
       "speaker": "Calm",
       "translation": "There's water in my lungs; I'm wrestling with crabs.",
       "explanation": "Vivid imagery of drowning. 'Crabs' could symbolize people trying to pull him down (Crab Mentality).",
@@ -160,6 +176,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "में गया कूद, वो पीछे कूद गई",
+      "romanized": "men gayaa kood, vo peechhe kood gaee",
       "speaker": "Calm",
       "translation": "I jumped in, and she jumped in after me.",
       "explanation": "Suggests a shared descent into chaos or a relationship where both partners are self-destructing.",
@@ -174,6 +191,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "आगे जो हुआ हैं वो, ज्यादा कुछ मशहूर नहीं",
+      "romanized": "aage jo huaa hain vo, jyaadaa kuchh mashahoor naheen",
       "speaker": "Calm",
       "translation": "What happened next isn't very well known.",
       "explanation": "Suggesting that the private details of his struggle or relationship are not for public consumption.",
@@ -181,6 +199,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "चल अब पास आ।",
+      "romanized": "chal ab paas aa",
       "speaker": "Calm",
       "translation": "Come closer now.",
       "explanation": "A call for intimacy or confrontation.",
@@ -188,6 +207,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "थोड़ा बहुत, थोड़ा बहुत, थोड़ा बहुत",
+      "romanized": "tho bahut, tho bahut, tho bahut",
       "speaker": "Calm",
       "translation": "A little bit, a little bit, a little bit.",
       "explanation": "Building atmosphere through repetition.",
@@ -195,6 +215,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "थोड़ी मुलाकात, मुलाकात, मुलाकात",
+      "romanized": "tho mulaakaat, mulaakaat, mulaakaat",
       "speaker": "Calm",
       "translation": "A brief meeting, a meeting, a meeting.",
       "explanation": "Refers to the fleeting nature of connections.",
@@ -209,6 +230,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "थोड़ी खुराफत, खुराफत, खुराफत",
+      "romanized": "tho khuraaphat, khuraaphat, khuraaphat",
       "speaker": "Calm",
       "translation": "A little mischief, mischief, mischief.",
       "explanation": "Refers to the rebellious or troublesome side of his lifestyle.",
@@ -222,6 +244,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "थोड़ा चला अब पास, चल अब पास, चल अब पास",
+      "romanized": "tho chalaa ab paas, chal ab paas, chal ab paas",
       "speaker": "Calm",
       "translation": "Move a bit closer, come closer, come closer.",
       "explanation": "The repetitive hook emphasizing the 'pull' of the situation/person.",
@@ -229,6 +252,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "एक से दस में वो बीस",
+      "romanized": "ek se das men vo bees",
       "speaker": "Calm",
       "translation": "On a scale of one to ten, she's a twenty.",
       "explanation": "A way of saying she is extraordinary or off the charts.",
@@ -236,6 +260,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "साँसों में बस एक चीज",
+      "romanized": "saanson men bas ek cheej",
       "speaker": "Calm",
       "translation": "Just one thing in my breath.",
       "explanation": "Indicating an obsession or a singular focus that keeps him going.",
@@ -243,6 +268,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "हैं वो ऐसी जो आँखें नम करे",
+      "romanized": "hain vo aisee jo aankhen nam kare",
       "speaker": "Calm",
       "translation": "She’s the kind of person who brings tears to your eyes.",
       "explanation": "Could mean she is beautiful to the point of pain, or the memories associated with her are heartbreaking.",
@@ -250,6 +276,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "एक से दस में वो",
+      "romanized": "ek se das men vo",
       "speaker": "Calm",
       "translation": "On a scale of one to ten, she...",
       "explanation": "Incomplete thought emphasizing her perfection.",
@@ -257,6 +284,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "एक से दस में वो",
+      "romanized": "ek se das men vo",
       "speaker": "Calm",
       "translation": "On a scale of one to ten, she...",
       "explanation": "Repetition for rhythmic effect.",
@@ -264,6 +292,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "100 जले कितने (yeah!)",
+      "romanized": "100 jale kitane (yeah!)",
       "speaker": "Calm",
       "translation": "How many are burning with jealousy? A hundred (yeah!).",
       "explanation": "References the envy people feel toward his success.",
@@ -271,6 +300,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "जो चले 100 जने मुड़ने (100)",
+      "romanized": "jo chale 100 jane mune (100)",
       "speaker": "Calm",
       "translation": "When she walks, a hundred heads turn (100).",
       "explanation": "Describing the captivating presence of the person he's talking about.",
@@ -278,6 +308,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "क्या करे 100 खड़े घुटने (क्या)",
+      "romanized": "kyaa kare 100 kha ghutane (kyaa)",
       "speaker": "Calm",
       "translation": "What to do? A hundred are down on their knees (what).",
       "explanation": "People surrendering or bowing down to the influence/beauty.",
@@ -285,6 +316,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "टेकने को राजी पर आखिर मे",
+      "romanized": "tekane ko raajee par aakhir me",
       "speaker": "Calm",
       "translation": "Ready to bow down, but in the end...",
       "explanation": "Despite the admiration, the outcome is often the same.",
@@ -292,6 +324,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "चुतिया ही चुनना है, शौक भी हैं कितने (बहुत)",
+      "romanized": "chutiyaa hee chunanaa hai, shauk bhee hain kitane (bahut)",
       "speaker": "Calm",
       "translation": "They still choose to be an idiot; so many expensive tastes (plenty).",
       "explanation": "Frustration with people's choices or his own tendency to choose the wrong paths/people despite having many options.",
@@ -305,6 +338,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "माँ बाप बोले फौजी हैं कितने (whoa)",
+      "romanized": "maan baap bole phaujee hain kitane (whoa)",
       "speaker": "Calm",
       "translation": "Parents say, 'how many soldiers are there?' (whoa)",
       "explanation": "Likely referring to the discipline or the 'army' of fans/supporters he has, or parental expectations of a 'brave' career.",
@@ -312,6 +346,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "क्या करे और भी हैं दिल मे (ooh)",
+      "romanized": "kyaa kare aur bhee hain dil me (ooh)",
       "speaker": "Calm",
       "translation": "What can I do? There's more in my heart (ooh).",
       "explanation": "Indicating internal complexity and unsaid emotions.",
@@ -319,6 +354,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "कहने को काफी पर आखिर में चुतिया ही",
+      "romanized": "kahane ko kaaphee par aakhir men chutiyaa hee",
       "speaker": "Calm",
       "translation": "Enough to say, but in the end, it's just idiocy.",
       "explanation": "Dismissing the complexities as ultimately foolish.",
@@ -326,6 +362,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "ध्यान से कोमल ये रुई सी बस",
+      "romanized": "dhyaan se komal ye ruee see bas",
       "speaker": "Calm",
       "translation": "Careful, it's soft like cotton, just...",
       "explanation": "Describing something fragile or gentle.",
@@ -333,6 +370,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "खाल में घुसती हुई सुई ये लफ्ज़",
+      "romanized": "khaal men ghusatee huee suee ye laph",
       "speaker": "Calm",
       "translation": "These words are like needles piercing the skin.",
       "explanation": "A powerful metaphor for his lyrics: they look soft (cotton) but they sting deep (needle).",
@@ -340,6 +378,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "तुमे जो बोलू अगर चुभे तो छोडू पर",
+      "romanized": "tume jo boloo agar chubhe to chhodoo par",
       "speaker": "Calm",
       "translation": "If what I say stings you, I'd stop, but...",
       "explanation": "Acknowledging the harshness of his truth.",
@@ -347,6 +386,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "चाहिए भी तुम्हे हैं Louis ही बस",
+      "romanized": "chaahie bhee tumhe hain Louis hee bas",
       "speaker": "Calm",
       "translation": "All you really want is Louis Vuitton.",
       "explanation": "Critiquing the materialism of the person/society he's addressing.",
@@ -366,6 +406,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "मैं लू ही नस काट",
+      "romanized": "main loo hee nas kaat",
       "speaker": "Calm",
       "translation": "I might as well slit my veins.",
       "explanation": "Extreme expression of frustration or heartbreak.",
@@ -373,6 +414,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "खर्चो पे खर्चे नही इतनी औकात",
+      "romanized": "kharcho pe kharche nahee itanee aukaat",
       "speaker": "Calm",
       "translation": "Spending after spending; I don't have that much status/capacity.",
       "explanation": "The struggle of maintaining a high-flying lifestyle or meeting someone's expensive demands.",
@@ -386,6 +428,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "कभी वो घुले ना कभी जो खुले ना",
+      "romanized": "kabhee vo ghule naa kabhee jo khule naa",
       "speaker": "Calm",
       "translation": "Sometimes it doesn't dissolve, sometimes it doesn't open.",
       "explanation": "Refers to emotional baggage or secrets that remain stuck.",
@@ -393,6 +436,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "ऐसी ना मारने देगी वो गांठ",
+      "romanized": "aisee naa maarane degee vo gaanth",
       "speaker": "Calm",
       "translation": "She won't let such a knot be tied.",
       "explanation": "Metaphor for a complicated relationship where a resolution (knot) isn't allowed.",
@@ -400,6 +444,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "ये जो रोने लगी पीछे तेरे आज",
+      "romanized": "ye jo rone lagee peechhe tere aaj",
       "speaker": "Calm",
       "translation": "This person who started crying for you today...",
       "explanation": "Observing someone's fake or sudden displays of emotion.",
@@ -407,6 +452,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "पता चला कल गई काट",
+      "romanized": "pataa chalaa kal gaee kaat",
       "speaker": "Calm",
       "translation": "I found out tomorrow she'll ditch you/betray you.",
       "explanation": "'Kaat' here means betrayal or 'cutting' someone off after using them.",
@@ -420,6 +466,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "तुझे लगा बला तेरी टल गई",
+      "romanized": "tujhe lagaa balaa teree tal gaee",
       "speaker": "Calm",
       "translation": "You thought your problem was solved.",
       "explanation": "Believing you've escaped a bad situation when you haven't.",
@@ -427,6 +474,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "पता चला कल कहीं देखा उसे",
+      "romanized": "pataa chalaa kal kaheen dekhaa use",
       "speaker": "Calm",
       "translation": "Then I found out I saw her somewhere yesterday.",
       "explanation": "The reality check after thinking you've moved on.",
@@ -434,6 +482,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "और कोई साथ तेरी जल गई झाँट",
+      "romanized": "aur koee saath teree jal gaee jhaant",
       "speaker": "Calm",
       "translation": "She's with someone else and you're burning with petty jealousy.",
       "explanation": "A very raw, aggressive way of describing the sting of seeing an ex with someone else.",
@@ -447,6 +496,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "ये छल नही जाग",
+      "romanized": "ye chhal nahee jaag",
       "speaker": "Calm",
       "translation": "This isn't a trick; wake up.",
       "explanation": "Urging someone to face reality.",
@@ -454,6 +504,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "कर मेहनत और बच्चा कुछ नही",
+      "romanized": "kar mehanat aur bachchaa kuchh nahee",
       "speaker": "Calm",
       "translation": "Work hard, kid; there's nothing else.",
       "explanation": "Generic but harsh advice: only hard work matters in the end.",
@@ -461,6 +512,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "ये नही तू कल नई ताक",
+      "romanized": "ye nahee too kal naee taak",
       "speaker": "Calm",
       "translation": "This isn't you; look for something new tomorrow.",
       "explanation": "Encouragement to change one's perspective or identity.",
@@ -468,6 +520,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "अब तुझपे बस तू हैं और सर की जुये",
+      "romanized": "ab tujhape bas too hain aur sar kee juye",
       "speaker": "Calm",
       "translation": "Now all you have is yourself and the lice on your head.",
       "explanation": "A metaphor for having nothing left but one's own small, irritating problems.",
@@ -482,6 +535,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "था बाकी जो वाकई वो कर गई पार",
+      "romanized": "thaa baakee jo vaakaee vo kar gaee paar",
       "speaker": "Calm",
       "translation": "Whatever was left, she truly crossed the line.",
       "explanation": "The final straw in a deteriorating relationship.",
@@ -496,6 +550,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "मै रहा डूब अभी, मदद है दूर कही",
+      "romanized": "mai rahaa doob abhee, madad hai door kahee",
       "speaker": "Calm",
       "translation": "I am drowning right now; help is far away.",
       "explanation": "Return to the chorus; the sense of helplessness.",
@@ -503,6 +558,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "पानी फेफड़ों में, केकड़ो से जूझ रहे",
+      "romanized": "paanee phephn men, kek se joojh rahe",
       "speaker": "Calm",
       "translation": "Water in my lungs; wrestling with crabs.",
       "explanation": "Repetition of the drowning and struggle imagery.",
@@ -517,6 +573,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "में गया कूद, वो पीछे कूद गई",
+      "romanized": "men gayaa kood, vo peechhe kood gaee",
       "speaker": "Calm",
       "translation": "I jumped in, and she jumped in after me.",
       "explanation": "Mutual self-destruction.",
@@ -524,6 +581,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "आगे जो हुआ हैं वो, ज्यादा कुछ मशहूर नहीं",
+      "romanized": "aage jo huaa hain vo, jyaadaa kuchh mashahoor naheen",
       "speaker": "Calm",
       "translation": "What happened next isn't very well known.",
       "explanation": "Keeping the trauma/story private.",
@@ -531,6 +589,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "चल अब पास आ।",
+      "romanized": "chal ab paas aa",
       "speaker": "Calm",
       "translation": "Come closer now.",
       "explanation": "Inviting the listener or the subject into the 'depths'.",
@@ -538,6 +597,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "थोड़ा बहुत, थोड़ा बहुत, थोड़ा बहुत",
+      "romanized": "tho bahut, tho bahut, tho bahut",
       "speaker": "Calm",
       "translation": "A little bit, a little bit, a little bit.",
       "explanation": "Atmospheric transition.",
@@ -545,6 +605,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "थोड़ी मुलाकात, मुलाकात, मुलाकात",
+      "romanized": "tho mulaakaat, mulaakaat, mulaakaat",
       "speaker": "Calm",
       "translation": "A brief meeting, a meeting, a meeting.",
       "explanation": "Focusing on the moment.",
@@ -552,6 +613,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "थोड़ी खुराफत, खुराफत, खुराफत",
+      "romanized": "tho khuraaphat, khuraaphat, khuraaphat",
       "speaker": "Calm",
       "translation": "A little mischief, mischief, mischief.",
       "explanation": "Acknowledging the dark side of the connection.",
@@ -559,6 +621,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "थोड़ा चला अब पास, चल अब पास, चल अब पास",
+      "romanized": "tho chalaa ab paas, chal ab paas, chal ab paas",
       "speaker": "Calm",
       "translation": "Move a bit closer, come closer, come closer.",
       "explanation": "Repetitive hook building tension.",
@@ -566,6 +629,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "एक से दस में वो बीस",
+      "romanized": "ek se das men vo bees",
       "speaker": "Calm",
       "translation": "On a scale of one to ten, she's a twenty.",
       "explanation": "Reiterating her overwhelming presence.",
@@ -573,6 +637,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "साँसों में बस एक चीज",
+      "romanized": "saanson men bas ek cheej",
       "speaker": "Calm",
       "translation": "Just one thing in my breath.",
       "explanation": "The singular focus/obsession.",
@@ -580,6 +645,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "हैं वो ऐसी जो आँखें नम करे",
+      "romanized": "hain vo aisee jo aankhen nam kare",
       "speaker": "Calm",
       "translation": "She’s the kind of person who brings tears to your eyes.",
       "explanation": "Melancholy beauty.",
@@ -587,6 +653,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "एक से दस में वो",
+      "romanized": "ek se das men vo",
       "speaker": "Calm",
       "translation": "On a scale of one to ten, she...",
       "explanation": "Fading thought.",
@@ -594,6 +661,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "एक से दस में वो",
+      "romanized": "ek se das men vo",
       "speaker": "Calm",
       "translation": "On a scale of one to ten, she...",
       "explanation": "Final repetition of the hook line.",
@@ -601,6 +669,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "जान, वो हमे जानते नही हैं",
+      "romanized": "jaan, vo hame jaanate nahee hain",
       "speaker": "Encore ABJ",
       "translation": "Love, they don't really know us.",
       "explanation": "Encore begins his verse by pointing out the gap between public perception and their private reality.",
@@ -614,6 +683,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "हाँ मेरे दोस्त जानते हैं मुझको",
+      "romanized": "haan mere dost jaanate hain mujhako",
       "speaker": "Encore ABJ",
       "translation": "Yes, my friends know who I am.",
       "explanation": "His true self is only visible to his inner circle.",
@@ -621,6 +691,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "तेरे दोस्त जानते हैं तुझको",
+      "romanized": "tere dost jaanate hain tujhako",
       "speaker": "Encore ABJ",
       "translation": "Your friends know who you are.",
       "explanation": "Acknowledging her social circle knows her version of the truth.",
@@ -628,6 +699,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "पर वो हमे जानते नही हैं",
+      "romanized": "par vo hame jaanate nahee hain",
       "speaker": "Encore ABJ",
       "translation": "But they don't know 'us' (as a pair/unit).",
       "explanation": "The chemistry or history between them is private and misunderstood by outsiders.",
@@ -635,6 +707,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "उन्हें अंदाज़़ा नहीं हैं",
+      "romanized": "unhen andaa naheen hain",
       "speaker": "Encore ABJ",
       "translation": "They have no idea.",
       "explanation": "Emphasizing the depth of their secret connection.",
@@ -642,6 +715,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "अकेला तेरा साथ कितना घुल मिल",
+      "romanized": "akelaa teraa saath kitanaa ghul mil",
       "speaker": "Encore ABJ",
       "translation": "How much I blended in when it was just you and me.",
       "explanation": "The comfort and synergy he felt alone with her.",
@@ -649,6 +723,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "मै जाता खुल मै जाता",
+      "romanized": "mai jaataa khul mai jaataa",
       "speaker": "Encore ABJ",
       "translation": "I used to open up, I used to...",
       "explanation": "Being vulnerable only in her presence.",
@@ -656,6 +731,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "तेरे लिये धुन बजाता था",
+      "romanized": "tere liye dhun bajaataa thaa",
       "speaker": "Encore ABJ",
       "translation": "I used to play melodies for you.",
       "explanation": "His art and music were once dedicated to her.",
@@ -663,6 +739,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "अब वो बात किसी चीज मे नहीं हैं",
+      "romanized": "ab vo baat kisee cheej me naheen hain",
       "speaker": "Encore ABJ",
       "translation": "Now that spark isn't in anything anymore.",
       "explanation": "Feeling a void or lack of inspiration after the fallout.",
@@ -670,6 +747,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "देखा सब कुछ– पैसा, शोहरत",
+      "romanized": "dekhaa sab kuchh– paisaa, shoharat",
       "speaker": "Encore ABJ",
       "translation": "I've seen it all—money, fame.",
       "explanation": "Success hasn't filled the emotional gap.",
@@ -677,6 +755,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "Show पे show हो वो या",
+      "romanized": "Show pe show ho vo yaa",
       "speaker": "Encore ABJ",
       "translation": "Whether it's show after show or...",
       "explanation": "The hectic life of a touring artist.",
@@ -684,6 +763,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "हो जो सब कुछ दे सके",
+      "romanized": "ho jo sab kuchh de sake",
       "speaker": "Encore ABJ",
       "translation": "Whatever can give me everything.",
       "explanation": "Searching for ultimate fulfillment.",
@@ -691,6 +771,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "चन्द घंटो की हैं ख़ुशी ये",
+      "romanized": "chand ghanto kee hain shee ye",
       "speaker": "Encore ABJ",
       "translation": "This happiness only lasts a few hours.",
       "explanation": "The 'high' of a performance or fame is temporary.",
@@ -698,6 +779,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "मै फिर कल परसो तक होऊँगा वैसा ही",
+      "romanized": "mai phir kal paraso tak hooongaa vaisaa hee",
       "speaker": "Encore ABJ",
       "translation": "By tomorrow or the day after, I'll be back to being the same way.",
       "explanation": "Returning to his baseline of loneliness or melancholy once the crowd disappears.",
@@ -705,6 +787,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "शांत, साथ मे हैं तन्हाई",
+      "romanized": "shaant, saath me hain tanhaaee",
       "speaker": "Encore ABJ",
       "translation": "Quiet, accompanied by loneliness.",
       "explanation": "Describing his natural state.",
@@ -712,6 +795,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "पर शुक्र हैं",
+      "romanized": "par shukr hain",
       "speaker": "Encore ABJ",
       "translation": "But I'm thankful.",
       "explanation": "Gratitude despite the pain.",
@@ -719,6 +803,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "तुझसे कोई गिला शिकवा नही",
+      "romanized": "tujhase koee gilaa shikavaa nahee",
       "speaker": "Encore ABJ",
       "translation": "I have no complaints or grudges against you.",
       "explanation": "A mature take on a breakup; accepting the past without bitterness.",
@@ -732,6 +817,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "अगर तू ज़िंदगी मे ना आती",
+      "romanized": "agar too dagee me naa aatee",
       "speaker": "Encore ABJ",
       "translation": "If you hadn't come into my life...",
       "explanation": "Reflecting on her impact.",
@@ -739,6 +825,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "तो इस चीज मे दोहराए नी",
+      "romanized": "to is cheej me doharaae nee",
       "speaker": "Encore ABJ",
       "translation": "Then there's no doubt about this one thing...",
       "explanation": "Certainty about his fate.",
@@ -746,6 +833,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "की मै डूब जाता",
+      "romanized": "kee mai doob jaataa",
       "speaker": "Encore ABJ",
       "translation": "That I would have drowned.",
       "explanation": "She saved him from his own darkness at some point.",
@@ -753,6 +841,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "वो प्यार था अहसान नही",
+      "romanized": "vo pyaar thaa ahasaan nahee",
       "speaker": "Encore ABJ",
       "translation": "That was love, not a favor.",
       "explanation": "Clarifying that their connection was genuine, not transactional.",
@@ -760,6 +849,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "वो घर था मकान नहीं",
+      "romanized": "vo ghar thaa makaan naheen",
       "speaker": "Encore ABJ",
       "translation": "That was a home, not just a house.",
       "explanation": "A classic poetic distinction: 'Makaan' is just a structure; 'Ghar' is where the heart is.",
@@ -773,6 +863,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "वो साँस थी हवा नही",
+      "romanized": "vo saans thee havaa nahee",
       "speaker": "Encore ABJ",
       "translation": "That was breath, not just air.",
       "explanation": "Something vital for survival (breath) versus something just present (air).",
@@ -780,6 +871,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "ना दिल हैं दिमाग नई",
+      "romanized": "naa dil hain dimaag naee",
       "speaker": "Encore ABJ",
       "translation": "Neither the heart nor the mind feels right anymore.",
       "explanation": "Complete emotional and mental exhaustion.",
@@ -787,6 +879,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "बस एक हीर थी, वो पास नही",
+      "romanized": "bas ek heer thee, vo paas nahee",
       "speaker": "Encore ABJ",
       "translation": "There was only one 'Heer', and she's not with me.",
       "explanation": "Reference to the legendary tragic lover 'Heer' (from Heer-Ranjha), symbolizing his perfect match.",
@@ -800,6 +893,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "अब वापसी की आस नहीं",
+      "romanized": "ab vaapasee kee aas naheen",
       "speaker": "Encore ABJ",
       "translation": "Now there's no hope of her returning.",
       "explanation": "Final acceptance of the end.",
@@ -807,6 +901,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "मै डूब जाऊँगा",
+      "romanized": "mai doob jaaoongaa",
       "speaker": "Encore ABJ",
       "translation": "I will drown.",
       "explanation": "The ultimate surrender to the 'depths' (Gehraiyaan).",
@@ -814,6 +909,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "(खो दूँ खुद को या खोजु खुद को)",
+      "romanized": "(kho doon khud ko yaa khoju khud ko)",
       "speaker": "Encore ABJ",
       "translation": "(Should I lose myself or should I find myself?)",
       "explanation": "Final existential echo.",
@@ -821,6 +917,7 @@ export const gehraiyaan: Song = {
     },
     {
       "original": "(मै रहा डूब)",
+      "romanized": "(mai rahaa doob)",
       "speaker": "Encore ABJ",
       "translation": "(I am drowning.)",
       "explanation": "Fading out with the central theme of the song.",

@@ -10,6 +10,7 @@ export const sensitive: Song = {
   "lyrics": [
     {
       "original": "Are we ready to start the show?",
+      "romanized": "Are we ready to start the show?",
       "speaker": "Samay Raina",
       "translation": "Are we ready to begin the performance?",
       "explanation": "Introductory line from comedian Samay Raina, setting the stage for the song.",
@@ -17,6 +18,7 @@ export const sensitive: Song = {
     },
     {
       "original": "You're gonna do better than that",
+      "romanized": "You're gonna do better than that",
       "speaker": "Samay Raina",
       "translation": "You all can cheer louder than that!",
       "explanation": "Samay Raina attempts to hype up the crowd.",
@@ -24,6 +26,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Are we ready to start the show?",
+      "romanized": "Are we ready to start the show?",
       "speaker": "Samay Raina",
       "translation": "Are we ready to begin the performance?",
       "explanation": "Reinforces the start of the show and invites the audience.",
@@ -31,6 +34,7 @@ export const sensitive: Song = {
     },
     {
       "original": "आई शपथ",
+      "romanized": "Aaee shapth",
       "speaker": "Encore ABJ",
       "translation": "I swear on oath.",
       "explanation": "Encore ABJ starts his verse with a strong affirmation.",
@@ -44,6 +48,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Samay से नाराज़ हैं अब भी? क्या मज़ाक हैं",
+      "romanized": "Samay se naaraaz hain ab bhee? Kyaa mazaak hain",
       "speaker": "Encore ABJ",
       "translation": "Are you still angry with Samay? What a joke!",
       "explanation": "Refers to a possible controversy involving Samay Raina.",
@@ -57,6 +62,7 @@ export const sensitive: Song = {
     },
     {
       "original": "वक्त पे नि चलता किस का भी प्रभाव",
+      "romanized": "Vakt pe ni chaltaa kis kaa bhee prabhaav",
       "speaker": "Encore ABJ",
       "translation": "No one's influence works against time.",
       "explanation": "Time is impartial and affects everyone equally, regardless of their power.",
@@ -64,6 +70,7 @@ export const sensitive: Song = {
     },
     {
       "original": "हैं देसियों पे आने ना दे कोई दबाव",
+      "romanized": "Hain desiyon pe aane naa de koee dabaav",
       "speaker": "Encore ABJ",
       "translation": "Let no one put pressure on the Desis (Indians).",
       "explanation": "A call to protect Indians from external pressure.",
@@ -77,6 +84,7 @@ export const sensitive: Song = {
     },
     {
       "original": "विदेशी हम से पहले ही चिढ़ते है जनाब",
+      "romanized": "Videshee ham se pahle hee chirhte hai janaab",
       "speaker": "Encore ABJ",
       "translation": "Foreigners are already annoyed with us, sir.",
       "explanation": "Addresses the existing prejudice from foreigners.",
@@ -95,6 +103,7 @@ export const sensitive: Song = {
     },
     {
       "original": "ये गोरे बने racist और उड़ाए मज़क",
+      "romanized": "Ye gore bane racist aur uraae mazk",
       "speaker": "Encore ABJ",
       "translation": "These white people become racist and make fun of us.",
       "explanation": "Accuses white people of racism and mockery.",
@@ -108,6 +117,7 @@ export const sensitive: Song = {
     },
     {
       "original": "यहां भूरे लड़े खुद में खुद के ही ख़िलाफ़",
+      "romanized": "Yahaan bhoore lare khud men khud ke hee khilaaf",
       "speaker": "Encore ABJ",
       "translation": "Here, brown people fight amongst themselves.",
       "explanation": "Criticizes internal conflicts within the Indian community.",
@@ -121,6 +131,7 @@ export const sensitive: Song = {
     },
     {
       "original": "यहां एकता में देखता नहीं है कोई इलाज",
+      "romanized": "Yahaan ekataa men dekhtaa naheen hai koee ilaaj",
       "speaker": "Encore ABJ",
       "translation": "No one sees unity as a solution here.",
       "explanation": "Laments the lack of unity within the Indian community.",
@@ -128,6 +139,7 @@ export const sensitive: Song = {
     },
     {
       "original": "मैं बेचता हूं अपने लोगों में मिलाप",
+      "romanized": "Main bechtaa hoon apane logon men milaap",
       "speaker": "Encore ABJ",
       "translation": "I sell unity among my people.",
       "explanation": "He is promoting unity among his community and people.",
@@ -135,6 +147,7 @@ export const sensitive: Song = {
     },
     {
       "original": "हम आप से करे दरख्वास्त",
+      "romanized": "Ham aap se kare darkhvaast",
       "speaker": "Encore ABJ",
       "translation": "We request from you.",
       "explanation": "A formal request or plea.",
@@ -148,6 +161,7 @@ export const sensitive: Song = {
     },
     {
       "original": "कि न छपाक से कीचड़ फेंको अपनों पे स्वभाव से",
+      "romanized": "Ki n chhapaak se keechr phenko apanon pe svabhaav se",
       "speaker": "Encore ABJ",
       "translation": "Don't instinctively throw mud at your own people.",
       "explanation": "Urges people not to criticize or attack their own community members without thinking.",
@@ -161,6 +175,7 @@ export const sensitive: Song = {
     },
     {
       "original": "बेहतर हैं और उस से बेहतर दिमाग से",
+      "romanized": "Behtr hain aur us se behtr dimaag se",
       "speaker": "Encore ABJ",
       "translation": "Be better, and even better with your mind.",
       "explanation": "Encourages people to improve themselves intellectually.",
@@ -168,6 +183,7 @@ export const sensitive: Song = {
     },
     {
       "original": "हिन्दुस्तानी मिट्टी का ये एहसास है",
+      "romanized": "Hindustaanee mittee kaa ye ehasaas hai",
       "speaker": "Encore ABJ",
       "translation": "This is the feeling of the Indian soil.",
       "explanation": "Expresses a sense of national pride and belonging.",
@@ -175,6 +191,7 @@ export const sensitive: Song = {
     },
     {
       "original": "रखो थोड़ा गर्व अपने आप पे",
+      "romanized": "Rakho thoraa garv apane aap pe",
       "speaker": "Encore ABJ",
       "translation": "Have a little pride in yourself.",
       "explanation": "Encourages self-respect and confidence.",
@@ -182,6 +199,7 @@ export const sensitive: Song = {
     },
     {
       "original": "यानी थोड़ा क़र्ज़ कम रखो अपने बाप से",
+      "romanized": "Yaanee thoraa qarz kam rakho apane baap se",
       "speaker": "Encore ABJ",
       "translation": "Meaning, have a little less debt to your father.",
       "explanation": "Advises financial independence from parents.",
@@ -195,6 +213,7 @@ export const sensitive: Song = {
     },
     {
       "original": "यानी थोड़ा दर्द कम रखो अपनी सांस में",
+      "romanized": "Yaanee thoraa dard kam rakho apanee saans men",
       "speaker": "Encore ABJ",
       "translation": "Meaning, have a little less pain in your breath.",
       "explanation": "Implies reducing stress and emotional burden.",
@@ -202,6 +221,7 @@ export const sensitive: Song = {
     },
     {
       "original": "यानी थोड़ा फ़र्ज़ और रखो अपने ध्यान में",
+      "romanized": "Yaanee thoraa farz aur rakho apane dhyaan men",
       "speaker": "Encore ABJ",
       "translation": "Meaning, have a little more duty in your awareness.",
       "explanation": "Emphasizes the importance of fulfilling responsibilities.",
@@ -215,6 +235,7 @@ export const sensitive: Song = {
     },
     {
       "original": "यानी इन्हें कहदे \"और दम रख के गांड़ में\"",
+      "romanized": "Yaanee inhen kahde \"aur dam rakh ke gaanr men\"",
       "speaker": "Encore ABJ",
       "translation": "Meaning, tell them 'have some guts'.",
       "explanation": "Telling people to toughen up and stand their ground.",
@@ -228,6 +249,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Stop bein' so sensitive, okay",
+      "romanized": "Stop bein' so sensitive, okay",
       "speaker": "Chorus",
       "translation": "Stop being so sensitive, okay.",
       "explanation": "The central message of the song: a rebuke against excessive sensitivity.",
@@ -235,6 +257,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Stop bein' so sensitive, okay",
+      "romanized": "Stop bein' so sensitive, okay",
       "speaker": "Chorus",
       "translation": "Stop being so sensitive, okay.",
       "explanation": "Repeats the central message of the song: a rebuke against excessive sensitivity.",
@@ -242,6 +265,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Stop bein' so sensitive, okay",
+      "romanized": "Stop bein' so sensitive, okay",
       "speaker": "Chorus",
       "translation": "Stop being so sensitive, okay.",
       "explanation": "Emphasizes the central message of the song: a rebuke against excessive sensitivity.",
@@ -249,6 +273,7 @@ export const sensitive: Song = {
     },
     {
       "original": "समझे क्या हो फिर?",
+      "romanized": "Samjhe kyaa ho phir?",
       "speaker": "Chorus",
       "translation": "Do you understand, then?",
       "explanation": "Asks if the listener understands the message.",
@@ -256,6 +281,7 @@ export const sensitive: Song = {
     },
     {
       "original": "मसाला यहां का बहुत hot for you (Hot for you)",
+      "romanized": "Masaalaa yahaan kaa bahut hot for you (Hot for you)",
       "speaker": "Calm",
       "translation": "The spice here is too hot for you.",
       "explanation": "Referring to the intense environment and content.",
@@ -269,6 +295,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Net पे बने लौंडे बहुत cool (बहुत cool)",
+      "romanized": "Net pe bane launde bahut cool (bahut cool)",
       "speaker": "Calm",
       "translation": "The boys on the internet act very cool.",
       "explanation": "Critiquing the online persona of some individuals.",
@@ -282,6 +309,7 @@ export const sensitive: Song = {
     },
     {
       "original": "कुछ लौंडे लगे बहुत गान- (बोल सकता हूँ?)",
+      "romanized": "Kuchh launde lage bahut gaan- (bol saktaa hoon?)",
       "speaker": "Calm",
       "translation": "Some boys seem very ass- (can I say it?)",
       "explanation": "Intentionally cutting off the word to create suspense and potentially avoid censorship.",
@@ -295,6 +323,7 @@ export const sensitive: Song = {
     },
     {
       "original": "अगर बुरा लगा, jokes on you (On you)",
+      "romanized": "Agar buraa lagaa, jokes on you (On you)",
       "speaker": "Calm",
       "translation": "If you feel bad, jokes on you.",
       "explanation": "Dismissing any potential offense taken.",
@@ -302,6 +331,7 @@ export const sensitive: Song = {
     },
     {
       "original": "कुछ लोगों पे है time फालतू (फालतू)",
+      "romanized": "Kuchh logon pe hai time phaaltoo (phaaltoo)",
       "speaker": "Calm",
       "translation": "Some people have too much free time.",
       "explanation": "Suggests some people are wasting their time.",
@@ -315,6 +345,7 @@ export const sensitive: Song = {
     },
     {
       "original": "बाहर देखो, चले बहुत crime news (Crime news)",
+      "romanized": "Baahr dekho, chale bahut crime news (Crime news)",
       "speaker": "Calm",
       "translation": "Look outside, there's a lot of crime news going on.",
       "explanation": "Urges people to focus on real-world issues.",
@@ -322,6 +353,7 @@ export const sensitive: Song = {
     },
     {
       "original": "से हटो कभी, don't act rude (Act rude)",
+      "romanized": "Se hato kabhee, don't act rude (Act rude)",
       "speaker": "Calm",
       "translation": "Get off the internet sometimes, don't act rude.",
       "explanation": "Encouraging people to disconnect from the internet and be respectful.",
@@ -329,6 +361,7 @@ export const sensitive: Song = {
     },
     {
       "original": "बोलूं लेकिन सोचूं पहले दो बार क्यों? (बार क्यों)",
+      "romanized": "Boloon lekin sochoon pahle do baar kyon? (baar kyon)",
       "speaker": "Calm",
       "translation": "Why should I think twice before speaking?",
       "explanation": "Expresses frustration at having to censor oneself.",
@@ -336,6 +369,7 @@ export const sensitive: Song = {
     },
     {
       "original": "वो बोले कि don't pass the line, पर छोरे खेंचते जाए",
+      "romanized": "Vo bole ki don't pass the line, par chhore khenchte jaae",
       "speaker": "Calm",
       "translation": "They say don't cross the line, but these boys keep pushing it.",
       "explanation": "Talking about testing boundaries and pushing limits.",
@@ -349,6 +383,7 @@ export const sensitive: Song = {
     },
     {
       "original": "भाई, that's the point, नि बोले कभी \"that's my time\"",
+      "romanized": "Bhaaee, that's the point, ni bole kabhee \"that's my time\"",
       "speaker": "Calm",
       "translation": "Bro, that's the point, never say 'that's my time'.",
       "explanation": "Suggests always being ready to seize the moment.",
@@ -362,6 +397,7 @@ export const sensitive: Song = {
     },
     {
       "original": "या जी मै आरा जो मैं करूं अभी वही चीज़ rhyme",
+      "romanized": "Yaa jee mai aaraa jo main karoon abhee vahee cheez rhyme",
       "speaker": "Calm",
       "translation": "Whatever I feel like doing right now, I'm going to rhyme about it.",
       "explanation": "Talking about rapping what he feels in the moment.",
@@ -369,6 +405,7 @@ export const sensitive: Song = {
     },
     {
       "original": "कोई ऐसी जगह पे पूछूं नहीं कि सही थी line?",
+      "romanized": "Koee aisee jagh pe poochhoon naheen ki sahee thee line?",
       "speaker": "Calm",
       "translation": "Shouldn't I ask somewhere if that line was right?",
       "explanation": "Ironical remark on the line he just dropped; should I be self-censoring?",
@@ -376,6 +413,7 @@ export const sensitive: Song = {
     },
     {
       "original": "I don't give a fuck, हाँ, करें हमे कौन define?",
+      "romanized": "I don't give a fuck, haan, karen hame kaun define?",
       "speaker": "Calm",
       "translation": "I don't give a fuck, yeah, who's going to define us?",
       "explanation": "Expressing defiance against being defined or controlled by others.",
@@ -383,6 +421,7 @@ export const sensitive: Song = {
     },
     {
       "original": "ये भौंकते रहे, मैं Seedhe Maut हूं all the time",
+      "romanized": "Ye bhaunkte rahe, main Seedhe Maut hoon all the time",
       "speaker": "Calm",
       "translation": "Let them bark, I am Seedhe Maut all the time.",
       "explanation": "Acknowledging critics but asserting his identity as Seedhe Maut.",
@@ -401,6 +440,7 @@ export const sensitive: Song = {
     },
     {
       "original": "ये for the grind, against all odds था भाई",
+      "romanized": "Ye for the grind, against all odds thaa bhaaee",
       "speaker": "Calm",
       "translation": "This was for the grind, against all odds, bro.",
       "explanation": "Emphasis on hustling and overcoming challenges.",
@@ -408,6 +448,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Go gеt a life, और करो रंडी रोना बंद online",
+      "romanized": "Go gеt a life, aur karo randee ronaa band online",
       "speaker": "Calm",
       "translation": "Go get a life, and stop crying like a bitch online.",
       "explanation": "Telling people to focus on their real lives and stop complaining online.",
@@ -421,6 +462,7 @@ export const sensitive: Song = {
     },
     {
       "original": "दूर से देखा, तो तीन शेर नज़र आए",
+      "romanized": "Door se dekhaa, to teen sher nazr aae",
       "speaker": "Calm",
       "translation": "From afar, three lions were seen.",
       "explanation": "Setting up a metaphor comparing people to lions.",
@@ -434,6 +476,7 @@ export const sensitive: Song = {
     },
     {
       "original": "दूर से देखा, तो तीन शेर नज़र आए",
+      "romanized": "Door se dekhaa, to teen sher nazr aae",
       "speaker": "Calm",
       "translation": "From afar, three lions were seen.",
       "explanation": "Repeating the previous line for emphasis.",
@@ -447,6 +490,7 @@ export const sensitive: Song = {
     },
     {
       "original": "भाई उनकी गांड़ ही फट गई, पास ही नि आए",
+      "romanized": "Bhaaee unakee gaanr hee phat gee, paas hee ni aae",
       "speaker": "Calm",
       "translation": "Bro, their asses burst, they didn't even come close.",
       "explanation": "Saying the lions were too scared to come close and expose themselves.",
@@ -465,6 +509,7 @@ export const sensitive: Song = {
     },
     {
       "original": "चलो guys, that's my time, thank you so much",
+      "romanized": "Chalo guys, that's my time, thank you so much",
       "speaker": "Calm",
       "translation": "Alright guys, that's my time, thank you so much.",
       "explanation": "Ending his verse and thanking the audience.",
@@ -472,6 +517,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Stop bein' so sensitive, okay",
+      "romanized": "Stop bein' so sensitive, okay",
       "speaker": "Chorus",
       "translation": "Stop being so sensitive, okay.",
       "explanation": "The central message of the song: a rebuke against excessive sensitivity.",
@@ -479,6 +525,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Stop bein' so sensitive, okay",
+      "romanized": "Stop bein' so sensitive, okay",
       "speaker": "Chorus",
       "translation": "Stop being so sensitive, okay.",
       "explanation": "Repeats the central message of the song: a rebuke against excessive sensitivity.",
@@ -486,6 +533,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Stop bein' so sensitive, okay",
+      "romanized": "Stop bein' so sensitive, okay",
       "speaker": "Chorus",
       "translation": "Stop being so sensitive, okay.",
       "explanation": "Emphasizes the central message of the song: a rebuke against excessive sensitivity.",
@@ -493,6 +541,7 @@ export const sensitive: Song = {
     },
     {
       "original": "समझे क्या हो फिर?",
+      "romanized": "Samjhe kyaa ho phir?",
       "speaker": "Chorus",
       "translation": "Do you understand, then?",
       "explanation": "Asks if the listener understands the message.",
@@ -500,6 +549,7 @@ export const sensitive: Song = {
     },
     {
       "original": "क्या कमाल हैं, आए कैसे ज़माने",
+      "romanized": "Kyaa kamaal hain, aae kaise zamaane",
       "speaker": "KR$NA",
       "translation": "What a wonder, what times have come.",
       "explanation": "Expressing surprise or amazement at the current state of affairs.",
@@ -507,6 +557,7 @@ export const sensitive: Song = {
     },
     {
       "original": "गली-गली गरीबी भरी पड़ी पर तमाशे",
+      "romanized": "Galee-galee gareebee bharee paree par tamaashe",
       "speaker": "KR$NA",
       "translation": "Every street is filled with poverty but there are spectacles.",
       "explanation": "Highlighting the contrast between poverty and entertainment.",
@@ -514,6 +565,7 @@ export const sensitive: Song = {
     },
     {
       "original": "चले यहां दबा के, होते यहां धमाके",
+      "romanized": "Chale yahaan dabaa ke, hote yahaan dhamaake",
       "speaker": "KR$NA",
       "translation": "Things go on suppressed here, but there are explosions.",
       "explanation": "Referring to both repression and outbursts of anger or violence.",
@@ -521,6 +573,7 @@ export const sensitive: Song = {
     },
     {
       "original": "TV पे चिल्लाते आके, media तो मज़ाक हैं",
+      "romanized": "TV pe chillaate aake, media to mazaak hain",
       "speaker": "KR$NA",
       "translation": "They come and shout on TV, the media is a joke.",
       "explanation": "Criticizing the media for sensationalism and lack of seriousness.",
@@ -528,6 +581,7 @@ export const sensitive: Song = {
     },
     {
       "original": "देखो कैसे comment में ये vomit करते hate",
+      "romanized": "Dekho kaise comment men ye vomit karte hate",
       "speaker": "KR$NA",
       "translation": "Look how they vomit hate in the comments.",
       "explanation": "Criticizing the spread of hatred in online comments.",
@@ -535,6 +589,7 @@ export const sensitive: Song = {
     },
     {
       "original": "फिर morals पे क्यों लौंडे करें debate?",
+      "romanized": "Phir morals pe kyon launde karen debate?",
       "speaker": "KR$NA",
       "translation": "Then why do these boys debate about morals?",
       "explanation": "Questions the hypocrisy of those who spread hate online but debate about morals.",
@@ -548,6 +603,7 @@ export const sensitive: Song = {
     },
     {
       "original": "इनकी knowledge देख",
+      "romanized": "Inakee knowledge dekh",
       "speaker": "KR$NA",
       "translation": "Look at their knowledge.",
       "explanation": "Sarcastic remark on the lack of knowledge of certain people.",
@@ -555,6 +611,7 @@ export const sensitive: Song = {
     },
     {
       "original": "ये normal day पे करते है fornicate then follow up with faith",
+      "romanized": "Ye normal day pe karte hai fornicate then follow up with faith",
       "speaker": "KR$NA",
       "translation": "They fornicate on a normal day then follow up with faith.",
       "explanation": "Suggests hypocritical behavior of people.",
@@ -562,6 +619,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Okay, बनाओ थोड़ा sense",
+      "romanized": "Okay, banaao thoraa sense",
       "speaker": "KR$NA",
       "translation": "Okay, make some sense.",
       "explanation": "Urges people to think rationally.",
@@ -569,6 +627,7 @@ export const sensitive: Song = {
     },
     {
       "original": "बहस करके गवारों से गंवाओ ना तुम चैन",
+      "romanized": "Bahs karke gavaaron se ganvaao naa tum chain",
       "speaker": "KR$NA",
       "translation": "Don't lose your peace of mind by arguing with fools.",
       "explanation": "Advises against wasting time arguing with ignorant people.",
@@ -582,6 +641,7 @@ export const sensitive: Song = {
     },
     {
       "original": "जो तुम्हारे मुंह पे डाले ताले वो तुम्हे दबाना चाह रहे",
+      "romanized": "Jo tumhaare munh pe daale taale vo tumhe dabaanaa chaah rahe",
       "speaker": "KR$NA",
       "translation": "Those who put locks on your mouths are trying to suppress you.",
       "explanation": "Implies fighting against censorship and oppression.",
@@ -589,6 +649,7 @@ export const sensitive: Song = {
     },
     {
       "original": "असली मुद्दों पे ना आ रे, खाली comment डाले जब बना रे कोई trend",
+      "romanized": "Asalee muddon pe naa aa re, khaalee comment daale jab banaa re koee trend",
       "speaker": "KR$NA",
       "translation": "They don't address real issues, they only comment when there's a trend.",
       "explanation": "Criticizes people for only engaging in superficial activism.",
@@ -596,6 +657,7 @@ export const sensitive: Song = {
     },
     {
       "original": "सुन, सुन, आके आजा, ख़बर आई ताज़ा",
+      "romanized": "Sun, sun, aake aajaa, khabr aaee taazaa",
       "speaker": "KR$NA",
       "translation": "Listen, listen, come now, fresh news has arrived.",
       "explanation": "Announcing the arrival of important information.",
@@ -603,6 +665,7 @@ export const sensitive: Song = {
     },
     {
       "original": "तेरी आज़ादी का उठारे हैं जनाज़ा",
+      "romanized": "Teree aazaadee kaa uthaare hain janaazaa",
       "speaker": "KR$NA",
       "translation": "They are raising the funeral procession of your freedom.",
       "explanation": "Warning about the erosion of freedom.",
@@ -616,6 +679,7 @@ export const sensitive: Song = {
     },
     {
       "original": "ऐसा क्या ज़माना, बस चाहिए इन्हें बहाना",
+      "romanized": "Aisaa kyaa zamaanaa, bas chaahie inhen bahaanaa",
       "speaker": "KR$NA",
       "translation": "What kind of times are these, they just need an excuse.",
       "explanation": "Criticizing people's eagerness to find reasons to criticize or attack others.",
@@ -623,6 +687,7 @@ export const sensitive: Song = {
     },
     {
       "original": "किसी को करने cancel और नीचे गिरना",
+      "romanized": "Kisee ko karne cancel aur neeche girnaa",
       "speaker": "KR$NA",
       "translation": "To cancel someone and bring them down.",
       "explanation": "Referring to cancel culture and its destructive nature.",
@@ -636,6 +701,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Online करते तु-तु, मैं-मैं",
+      "romanized": "Online karte tu-tu, main-main",
       "speaker": "KR$NA",
       "translation": "Online they argue like children.",
       "explanation": "Describing online arguments as childish.",
@@ -643,6 +709,7 @@ export const sensitive: Song = {
     },
     {
       "original": "असली मै लौंडे मिले तो मैं सूतू नए नए",
+      "romanized": "Asalee mai launde mile to main sootoo ne ne",
       "speaker": "KR$NA",
       "translation": "If I meet these boys in real life, I'll beat up every one of them.",
       "explanation": "Expressing a desire to physically confront those who spread hate online.",
@@ -650,6 +717,7 @@ export const sensitive: Song = {
     },
     {
       "original": "मेरे कान में ना आके कर तू चू-चू चे-चे",
+      "romanized": "Mere kaan men naa aake kar too choo-choo che-che",
       "speaker": "KR$NA",
       "translation": "Don't come near my ear and do 'choo-choo che-che'.",
       "explanation": "Telling people not to come close and whine or gossip.",
@@ -657,6 +725,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Dollar sign, Seedhe Maut, हम न झूठ को सहते",
+      "romanized": "Dollar sign, Seedhe Maut, ham n jhooth ko sahte",
       "speaker": "KR$NA",
       "translation": "Dollar sign (KR$NA), Seedhe Maut, we don't tolerate lies.",
       "explanation": "Affirming their commitment to truth and honesty.",
@@ -664,6 +733,7 @@ export const sensitive: Song = {
     },
     {
       "original": "आज comedy निशाना, फिर अब rap है next",
+      "romanized": "Aaj comedy nishaanaa, phir ab rap hai next",
       "speaker": "KR$NA",
       "translation": "Today comedy is the target, then rap is next.",
       "explanation": "Suggesting that censorship and criticism will eventually target rap music as well.",
@@ -671,6 +741,7 @@ export const sensitive: Song = {
     },
     {
       "original": "इस से पहले कि मालूम पड़े they will grab your necks",
+      "romanized": "Is se pahle ki maaloom pare they will grab your necks",
       "speaker": "KR$NA",
       "translation": "Before you know it, they will grab your necks.",
       "explanation": "Warning about the potential for violent suppression of free speech.",
@@ -678,6 +749,7 @@ export const sensitive: Song = {
     },
     {
       "original": "तो थोड़ी unity दिखाओ in the flags you rep",
+      "romanized": "To thoree unity dikhaao in the flags you rep",
       "speaker": "KR$NA",
       "translation": "So show a little unity in the flags you represent.",
       "explanation": "Encouraging unity and solidarity among different groups.",
@@ -685,6 +757,7 @@ export const sensitive: Song = {
     },
     {
       "original": "और इन लोगों को दिखाओ, we don't bow our heads",
+      "romanized": "Aur in logon ko dikhaao, we don't bow our heads",
       "speaker": "KR$NA",
       "translation": "And show these people, we don't bow our heads.",
       "explanation": "Affirming resistance to oppression and standing tall.",
@@ -692,6 +765,7 @@ export const sensitive: Song = {
     },
     {
       "original": "तो इन्हें बोलो \"करो आराम हैं\"",
+      "romanized": "To inhen bolo \"karo aaraam hain\"",
       "speaker": "KR$NA",
       "translation": "So tell them \"take it easy\".",
       "explanation": "Suggesting a nonchalant attitude towards critics and oppressors.",
@@ -699,6 +773,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Stop bein' so sensitive, okay (Okay)",
+      "romanized": "Stop bein' so sensitive, okay (Okay)",
       "speaker": "Chorus",
       "translation": "Stop being so sensitive, okay (Okay)",
       "explanation": "The central message of the song: a rebuke against excessive sensitivity, acknowledged by KR$NA.",
@@ -706,6 +781,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Stop bein' so sensitive, okay (Okay)",
+      "romanized": "Stop bein' so sensitive, okay (Okay)",
       "speaker": "Chorus",
       "translation": "Stop being so sensitive, okay (Okay)",
       "explanation": "Repeats the central message of the song: a rebuke against excessive sensitivity, acknowledged by KR$NA.",
@@ -713,6 +789,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Stop bein' so sensitive, okay (Okay)",
+      "romanized": "Stop bein' so sensitive, okay (Okay)",
       "speaker": "Chorus",
       "translation": "Stop being so sensitive, okay (Okay)",
       "explanation": "Emphasizes the central message of the song: a rebuke against excessive sensitivity, acknowledged by KR$NA.",
@@ -720,6 +797,7 @@ export const sensitive: Song = {
     },
     {
       "original": "समझे क्या हो फिर? (समझे क्या हो फिर?)",
+      "romanized": "Samjhe kyaa ho phir? (samjhe kyaa ho phir?)",
       "speaker": "Chorus",
       "translation": "Do you understand, then? (Do you understand, then?)",
       "explanation": "Asks if the listener understands the message, echoed as a rhetorical question.",
@@ -727,6 +805,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Stop bein' so sensitive, okay (Okay)",
+      "romanized": "Stop bein' so sensitive, okay (Okay)",
       "speaker": "Chorus",
       "translation": "Stop being so sensitive, okay",
       "explanation": "The central message of the song: a rebuke against excessive sensitivity.",
@@ -734,6 +813,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Stop bein' so sensitive, okay",
+      "romanized": "Stop bein' so sensitive, okay",
       "speaker": "Chorus",
       "translation": "Stop being so sensitive, okay",
       "explanation": "Repeats the central message of the song: a rebuke against excessive sensitivity.",
@@ -741,6 +821,7 @@ export const sensitive: Song = {
     },
     {
       "original": "Stop bein' so sensitive, okay",
+      "romanized": "Stop bein' so sensitive, okay",
       "speaker": "Chorus",
       "translation": "Stop being so sensitive, okay",
       "explanation": "Emphasizes the central message of the song: a rebuke against excessive sensitivity.",
@@ -748,6 +829,7 @@ export const sensitive: Song = {
     },
     {
       "original": "समझे क्या हो फिर?",
+      "romanized": "Samjhe kyaa ho phir?",
       "speaker": "Chorus",
       "translation": "Do you understand, then?",
       "explanation": "Asks if the listener understands the message.",

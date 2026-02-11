@@ -10,6 +10,7 @@ export const kavi: Song = {
   "lyrics": [
     {
       "original": "समझा क्या तू, जो— (Hmh!)",
+      "romanized": "Samjhaa kyaa too, jo— (Hmh!)",
       "speaker": "Encore ABJ",
       "translation": "Did you understand what—",
       "explanation": "Encore starts the hook by questioning the listener's comprehension of his art.",
@@ -17,6 +18,7 @@ export const kavi: Song = {
     },
     {
       "original": "समझा क्या तू, जो मैंने लिखा? (जो मैंने लिखा)",
+      "romanized": "Samjhaa kyaa too, jo mainne likhaa? (jo mainne likhaa)",
       "speaker": "Encore ABJ",
       "translation": "Did you understand what I wrote? (What I wrote)",
       "explanation": "He emphasizes the depth of his songwriting, implying there's more than meets the ear.",
@@ -24,6 +26,7 @@ export const kavi: Song = {
     },
     {
       "original": "तो फिर बता (बोल!), मैं केह रहा हूँ क्या?",
+      "romanized": "To phir bataa (bol!), main keh rahaa hoon kyaa?",
       "speaker": "Encore ABJ",
       "translation": "Then tell me (speak!), what am I saying?",
       "explanation": "A direct challenge to those who claim to know hip-hop but miss the subtext.",
@@ -31,6 +34,7 @@ export const kavi: Song = {
     },
     {
       "original": "सुना क्या तू, जो मैंने कहा? (Huh!)",
+      "romanized": "Sunaa kyaa too, jo mainne kahaa? (Huh!)",
       "speaker": "Encore ABJ",
       "translation": "Did you hear what I said?",
       "explanation": "Shifting from reading/writing to the actual auditory delivery of his message.",
@@ -38,6 +42,7 @@ export const kavi: Song = {
     },
     {
       "original": "समझा क्या तू, कवि केह रहा है क्या? (Shit!)",
+      "romanized": "Samjhaa kyaa too, kavi keh rahaa hai kyaa? (Shit!)",
       "speaker": "Encore ABJ",
       "translation": "Did you understand what the poet is saying?",
       "explanation": "Encore identifies as a 'Kavi' (Poet), elevating rap to the status of classical literature/poetry.",
@@ -57,6 +62,7 @@ export const kavi: Song = {
     },
     {
       "original": "पढ़ा ना तू जो, वो है मेरी ज़बान (मेरी ज़बान)",
+      "romanized": "Parhaa naa too jo, vo hai meree zabaan (meree zabaan)",
       "speaker": "Encore ABJ",
       "translation": "What you couldn't read, that is my tongue/speech.",
       "explanation": "He suggests that his true essence lies in the parts of his lyrics that people fail to decipher.",
@@ -76,6 +82,7 @@ export const kavi: Song = {
     },
     {
       "original": "तो फिर बता, कवि केह रहा है क्या?",
+      "romanized": "To phir bataa, kavi keh rahaa hai kyaa?",
       "speaker": "Encore ABJ",
       "translation": "Then tell me, what is the poet saying?",
       "explanation": "Repeating the core question of the song's theme regarding interpretation.",
@@ -83,6 +90,7 @@ export const kavi: Song = {
     },
     {
       "original": "खुदको घसीटा कोने तक, अब खाए है असमंजस",
+      "romanized": "Khudko ghaseetaa kone tak, ab khaae hai asmnjs",
       "speaker": "Encore ABJ",
       "translation": "Dragged myself to a corner, now consumed by confusion.",
       "explanation": "Describes the mental toll and isolation of the creative process and early career struggles.",
@@ -96,6 +104,7 @@ export const kavi: Song = {
     },
     {
       "original": "नही पता के पाले में मेरे कुआं या खाई",
+      "romanized": "Nahee pataa ke paale men mere kuaan yaa khaaee",
       "speaker": "Encore ABJ",
       "translation": "Don't know if a well or an abyss lies in my court.",
       "explanation": "Uses the idiom 'Kuan ya Khai' to describe being stuck between two equally difficult choices or uncertainties.",
@@ -115,6 +124,7 @@ export const kavi: Song = {
     },
     {
       "original": "है पर उम्मीद है कि पक्का होनी ही है चढ़ाई",
+      "romanized": "Hai par ummeed hai ki pakkaa honee hee hai charhaaee",
       "speaker": "Encore ABJ",
       "translation": "But there's hope that the ascent is definitely coming.",
       "explanation": "'Chadhai' refers to his rise in the music industry and personal growth.",
@@ -122,6 +132,7 @@ export const kavi: Song = {
     },
     {
       "original": "इतना तो क्रूर ना होगा ऊपरवाला, की है मेहनत",
+      "romanized": "Itnaa to kroor naa hogaa ooprvaalaa, kee hai mehnt",
       "speaker": "Encore ABJ",
       "translation": "The Almighty won't be that cruel, for I have put in the work.",
       "explanation": "A manifestation of faith that hard work (mehnat) will eventually pay off.",
@@ -129,6 +140,7 @@ export const kavi: Song = {
     },
     {
       "original": "माँ बोली, \"चल चुप कर, सोजा\" (Aanh!)",
+      "romanized": "Maan bolee, \"chal chup kar, sojaa\" (Aanh!)",
       "speaker": "Encore ABJ",
       "translation": "Mom said, \"Now keep quiet and go to sleep.\"",
       "explanation": "Depicts the common domestic reality where parents don't initially understand the late-night grind of an artist.",
@@ -136,6 +148,7 @@ export const kavi: Song = {
     },
     {
       "original": "ना माँ, ना कर फ़िक्र, नहीं-नहीं",
+      "romanized": "Naa maan, naa kar fikr, naheen-naheen",
       "speaker": "Encore ABJ",
       "translation": "No Mom, don't worry, no-no.",
       "explanation": "Encore reassures his mother, masking his own anxieties to protect her.",
@@ -143,6 +156,7 @@ export const kavi: Song = {
     },
     {
       "original": "रखूं खुद का जिगर सही-सही",
+      "romanized": "Rakhoon khud kaa jigr sahee-sahee",
       "speaker": "Encore ABJ",
       "translation": "I keep my heart/courage in the right place.",
       "explanation": "'Jigar' refers to both courage and his internal state of being.",
@@ -150,6 +164,7 @@ export const kavi: Song = {
     },
     {
       "original": "जगा कभी बुरी जगह होगा ज़िक्र नहीं",
+      "romanized": "Jagaa kabhee buree jagh hogaa zikr naheen",
       "speaker": "Encore ABJ",
       "translation": "There will never be a mention of me in a bad place.",
       "explanation": "He promises to maintain his integrity and avoid a bad reputation.",
@@ -163,6 +178,7 @@ export const kavi: Song = {
     },
     {
       "original": "झूठ कहा, ज़िक्र होगा हर कहीं",
+      "romanized": "Jhooth kahaa, zikr hogaa har kaheen",
       "speaker": "Encore ABJ",
       "translation": "I lied, I will be mentioned everywhere.",
       "explanation": "Correcting himself with confidence—he aims for global/widespread recognition.",
@@ -170,6 +186,7 @@ export const kavi: Song = {
     },
     {
       "original": "जाके ढूंढ दवा लेकिन अर्थ नहीं",
+      "romanized": "Jaake dhoondh davaa lekin arth naheen",
       "speaker": "Encore ABJ",
       "translation": "Go find the medicine, but it's meaningless.",
       "explanation": "Suggests that the pain he feels is essential and cannot be cured by traditional means.",
@@ -177,6 +194,7 @@ export const kavi: Song = {
     },
     {
       "original": "है किसीने ख़ूब कहा",
+      "romanized": "Hai kiseene khoob kahaa",
       "speaker": "Encore ABJ",
       "translation": "Someone said it very well,",
       "explanation": "Leading into a philosophical quote.",
@@ -184,6 +202,7 @@ export const kavi: Song = {
     },
     {
       "original": "\"जहाँ होता दर्द नहीं, वहाँ पे है दर्द, दवा\"",
+      "romanized": "\"jahaan hotaa dard naheen, vahaan pe hai dard, davaa\"",
       "speaker": "Encore ABJ",
       "translation": "\"Where there is no pain, there the pain itself is the medicine.\"",
       "explanation": "A deep paradoxical line: for an artist, their suffering (pain) is the very thing that fuels their healing (art).",
@@ -191,6 +210,7 @@ export const kavi: Song = {
     },
     {
       "original": "चाहा कहना मैंने तुझसे है ये कित्ती मर्तबा",
+      "romanized": "Chaahaa kahnaa mainne tujhse hai ye kittee martbaa",
       "speaker": "Encore ABJ",
       "translation": "I've wanted to tell you this so many times.",
       "explanation": "Expressing frustration at the repetitive nature of trying to explain himself.",
@@ -204,6 +224,7 @@ export const kavi: Song = {
     },
     {
       "original": "सुना क्या तू, जो मैंने कहा? (Huh!)",
+      "romanized": "Sunaa kyaa too, jo mainne kahaa? (Huh!)",
       "speaker": "Encore ABJ",
       "translation": "Did you hear what I said?",
       "explanation": "Reiterating the hook.",
@@ -211,6 +232,7 @@ export const kavi: Song = {
     },
     {
       "original": "समझा क्या तू, कवि केह रहा है क्या?",
+      "romanized": "Samjhaa kyaa too, kavi keh rahaa hai kyaa?",
       "speaker": "Encore ABJ",
       "translation": "Did you understand what the poet is saying?",
       "explanation": "The recurring question of artistic intent.",
@@ -218,6 +240,7 @@ export const kavi: Song = {
     },
     {
       "original": "पढ़ा ना तू जो, वो है मेरी ज़बान (मेरी ज़बान)",
+      "romanized": "Parhaa naa too jo, vo hai meree zabaan (meree zabaan)",
       "speaker": "Encore ABJ",
       "translation": "What you didn't read is my tongue.",
       "explanation": "Referring to the unwritten, unspoken emotions behind the lyrics.",
@@ -225,6 +248,7 @@ export const kavi: Song = {
     },
     {
       "original": "तो फिर बता, कवि केह रहा है क्या?",
+      "romanized": "To phir bataa, kavi keh rahaa hai kyaa?",
       "speaker": "Encore ABJ",
       "translation": "Then tell me, what is the poet saying?",
       "explanation": "Closing the hook transition into Calm's verse.",
@@ -232,6 +256,7 @@ export const kavi: Song = {
     },
     {
       "original": "हाँ, शुरू से हम दोष दें पैसे को बस",
+      "romanized": "Haan, shuroo se ham dosh den paise ko bas",
       "speaker": "Calm",
       "translation": "Yeah, since the start we just blamed money.",
       "explanation": "Calm pivots to the financial struggles that defined their upbringing.",
@@ -239,6 +264,7 @@ export const kavi: Song = {
     },
     {
       "original": "मैं मांगूं कुछ, वो कोसते खुद ही को तब",
+      "romanized": "Main maangoon kuchh, vo koste khud hee ko tab",
       "speaker": "Calm",
       "translation": "When I'd ask for something, they (parents) would curse themselves.",
       "explanation": "The heartbreaking reality of parents who want to provide but can't afford to.",
@@ -246,6 +272,7 @@ export const kavi: Song = {
     },
     {
       "original": "था कर्ज़ पर वो बोलते \"नहीं\" कभी नहीं",
+      "romanized": "Thaa karz par vo bolte \"naheen\" kabhee naheen",
       "speaker": "Calm",
       "translation": "They were in debt but they never said \"No.\"",
       "explanation": "Highlighting the sacrifices his parents made despite their financial burden.",
@@ -253,6 +280,7 @@ export const kavi: Song = {
     },
     {
       "original": "अचानक आ गए road पे गवाके सब",
+      "romanized": "Achaank aa gae road pe gavaake sab",
       "speaker": "Calm",
       "translation": "Suddenly ended up on the road after losing everything.",
       "explanation": "Refers to a specific financial low point or crisis in his family's life.",
@@ -260,6 +288,7 @@ export const kavi: Song = {
     },
     {
       "original": "Unlucky थे कि दोस्त भी चालाक हैं",
+      "romanized": "Unlucky the ki dost bhee chaalaak hain",
       "speaker": "Calm",
       "translation": "We were unlucky that even our friends were cunning.",
       "explanation": "Calm notes that people they trusted took advantage of them during hard times.",
@@ -267,6 +296,7 @@ export const kavi: Song = {
     },
     {
       "original": "जो थे वो सारे लोमड़ी बराबर",
+      "romanized": "Jo the vo saare lomree baraabr",
       "speaker": "Calm",
       "translation": "The ones who were there were all like foxes.",
       "explanation": "'Lomdi' (fox) is a metaphor for being sly, untrustworthy, or opportunistic.",
@@ -280,6 +310,7 @@ export const kavi: Song = {
     },
     {
       "original": "पर क्या फायदा रख के दोस्ती बनाकर",
+      "romanized": "Par kyaa phaaydaa rakh ke dostee banaakr",
       "speaker": "Calm",
       "translation": "But what's the point of maintaining those friendships?",
       "explanation": "Realizing that fake friends are better left behind.",
@@ -287,6 +318,7 @@ export const kavi: Song = {
     },
     {
       "original": "जब ये भोसड़ी-के भागे जब हो गोद में एक आफ़त?",
+      "romanized": "Jab ye bhosree-ke bhaage jab ho god men ek aaft?",
       "speaker": "Calm",
       "translation": "When these f***ers ran away the moment trouble hit?",
       "explanation": "Using harsh slang to express anger at fair-weather friends who disappeared during a crisis ('Aafat').",
@@ -300,6 +332,7 @@ export const kavi: Song = {
     },
     {
       "original": "अबे, छोड़ दो ये नाटक",
+      "romanized": "Abe, chhor do ye naatk",
       "speaker": "Calm",
       "translation": "Hey, stop this drama.",
       "explanation": "Telling those fake friends/well-wishers to stop pretending.",
@@ -307,6 +340,7 @@ export const kavi: Song = {
     },
     {
       "original": "हमारे बीच हुआ कुछ गलत",
+      "romanized": "Hamaare beech huaa kuchh galt",
       "speaker": "Calm",
       "translation": "Something went wrong between us.",
       "explanation": "Acknowledging the rift caused by betrayal.",
@@ -314,6 +348,7 @@ export const kavi: Song = {
     },
     {
       "original": "है दूरी ज़्यादा चारों के बीच",
+      "romanized": "Hai dooree zyaadaa chaaron ke beech",
       "speaker": "Calm",
       "translation": "There is a lot of distance between the four of us.",
       "explanation": "Possibly referring to a specific group of friends or family members where trust was broken.",
@@ -321,6 +356,7 @@ export const kavi: Song = {
     },
     {
       "original": "मैं घिसूँ गांड ताकि आगे जाके सारे हो ठीक",
+      "romanized": "Main ghisoon gaand taaki aage jaake saare ho theek",
       "speaker": "Calm",
       "translation": "I'll work my ass off so that everyone is okay in the future.",
       "explanation": "'Ghisun gaand' is crude slang for extreme hard work and grind.",
@@ -334,6 +370,7 @@ export const kavi: Song = {
     },
     {
       "original": "यहाँ रखूँ खाना लाके table पे, नही मांगूं मैं भीख",
+      "romanized": "Yahaan rakhoon khaanaa laake table pe, nahee maangoon main bheekh",
       "speaker": "Calm",
       "translation": "I'll put food on the table, I won't beg for anything.",
       "explanation": "Calm's determination to be the breadwinner through his own effort.",
@@ -341,6 +378,7 @@ export const kavi: Song = {
     },
     {
       "original": "ऐसी मानसिक दशा",
+      "romanized": "Aisee maansik dashaa",
       "speaker": "Calm",
       "translation": "Such a mental state.",
       "explanation": "Reflecting on the psychological pressure of his situation.",
@@ -348,6 +386,7 @@ export const kavi: Song = {
     },
     {
       "original": "हूँ hero माँ की आँखों में, मैं Paan Singh चाचा",
+      "romanized": "Hoon hero maan kee aankhon men, main Paan Singh chaachaa",
       "speaker": "Calm",
       "translation": "I am a hero in my mother's eyes, like Uncle Paan Singh.",
       "explanation": "Refers to Paan Singh Tomar, a soldier-turned-rebel who fought for his family's rights and honor.",
@@ -361,6 +400,7 @@ export const kavi: Song = {
     },
     {
       "original": "यहाँ free में मिले सबक (सबक)",
+      "romanized": "Yahaan free men mile sabk (sabk)",
       "speaker": "Calm",
       "translation": "Here, life lessons are free.",
       "explanation": "Street wisdom and hard times teach you things that money can't buy.",
@@ -368,6 +408,7 @@ export const kavi: Song = {
     },
     {
       "original": "लेके छापे सभी रकम (रकम)",
+      "romanized": "Leke chhaape sabhee rakm (rakm)",
       "speaker": "Calm",
       "translation": "They took away all the money.",
       "explanation": "Possibly referring to debt collectors or those who cheated them.",
@@ -375,6 +416,7 @@ export const kavi: Song = {
     },
     {
       "original": "पर अमीर होके क्या फ़ायदा, जब कोई साथ नही?",
+      "romanized": "Par ameer hoke kyaa faaydaa, jab koee saath nahee?",
       "speaker": "Calm",
       "translation": "But what's the point of being rich when there's no one by your side?",
       "explanation": "A classic hip-hop trope: success feels empty without true friends and family.",
@@ -382,6 +424,7 @@ export const kavi: Song = {
     },
     {
       "original": "समझा क्या तू, जो मैंने कहा? (जो मैंने कहा) (Huh!)",
+      "romanized": "Samjhaa kyaa too, jo mainne kahaa? (jo mainne kahaa) (Huh!)",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "Did you understand what I said? (What I said)",
       "explanation": "The duo joins together for the final chorus.",
@@ -389,6 +432,7 @@ export const kavi: Song = {
     },
     {
       "original": "समझा क्या तू, कवि केह रहा है क्या? (Shit!) (Woo)",
+      "romanized": "Samjhaa kyaa too, kavi keh rahaa hai kyaa? (Shit!) (Woo)",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "Did you understand what the poet is saying?",
       "explanation": "Reinforcing the identity of 'Seedhe Maut' as poets of the new generation.",
@@ -396,6 +440,7 @@ export const kavi: Song = {
     },
     {
       "original": "पढ़ा ना तू (पढ़ा ना तू) जो, वो है मेरी ज़बान (वो है मेरी ज़बान)",
+      "romanized": "Parhaa naa too (parhaa naa too) jo, vo hai meree zabaan (vo hai meree zabaan)",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "What you didn't read is my tongue.",
       "explanation": "Final emphasis on the hidden depth of their lyricism.",
@@ -403,6 +448,7 @@ export const kavi: Song = {
     },
     {
       "original": "तो फिर बता, कवि केह रहा है क्या?",
+      "romanized": "To phir bataa, kavi keh rahaa hai kyaa?",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "Then tell me, what is the poet saying?",
       "explanation": "The song ends on this rhetorical question, leaving the interpretation to the listener.",

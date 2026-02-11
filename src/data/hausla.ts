@@ -10,6 +10,7 @@ export const hausla: Song = {
   "lyrics": [
     {
       "original": "Hurricane",
+      "romanized": "Hurricane",
       "speaker": "Seedhe Maut",
       "translation": "Hurricane",
       "explanation": "An ad-lib used by the duo, potentially referencing a turbulent emotional state or a signature tag.",
@@ -23,6 +24,7 @@ export const hausla: Song = {
     },
     {
       "original": "तेरे ख्वाब, हैं मेरे ख्वाब भी",
+      "romanized": "tere khvaab, hain mere khvaab bhee",
       "speaker": "Calm & Encore ABJ",
       "translation": "Your dreams are my dreams too",
       "explanation": "Expressing deep emotional intimacy where the partner's aspirations are shared by the artist.",
@@ -36,6 +38,7 @@ export const hausla: Song = {
     },
     {
       "original": "पर ये रातें रोती रही हैं",
+      "romanized": "par ye raaten rotee rahee hain",
       "speaker": "Calm & Encore ABJ",
       "translation": "But these nights have been weeping",
       "explanation": "Personifying nights to describe a period of constant sorrow and sleeplessness.",
@@ -49,6 +52,7 @@ export const hausla: Song = {
     },
     {
       "original": "तेरा वार, मेरी हार",
+      "romanized": "teraa vaar, meree haar",
       "speaker": "Calm & Encore ABJ",
       "translation": "Your strike, my defeat",
       "explanation": "Acknowledging that the other person's actions or words have the power to break the artist.",
@@ -67,6 +71,7 @@ export const hausla: Song = {
     },
     {
       "original": "बचा हौसला भी नहीं है",
+      "romanized": "bachaa hausalaa bhee naheen hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "There is no courage left either",
       "explanation": "The core theme of the song; a state of complete emotional exhaustion and loss of hope.",
@@ -86,6 +91,7 @@ export const hausla: Song = {
     },
     {
       "original": "इस बार मेरा सब कुछ दाव पे है",
+      "romanized": "is baar meraa sab kuchh daav pe hai",
       "speaker": "Encore ABJ",
       "translation": "This time, everything I have is at stake",
       "explanation": "Describing a high-pressure situation where failure is not an option.",
@@ -99,6 +105,7 @@ export const hausla: Song = {
     },
     {
       "original": "मैं खेला और एक बज्जी",
+      "romanized": "main khelaa aur ek bajjee",
       "speaker": "Encore ABJ",
       "translation": "I played one more round",
       "explanation": "'Bajji' is a colloquial term for a round or a turn, often used in games or gambling.",
@@ -112,6 +119,7 @@ export const hausla: Song = {
     },
     {
       "original": "खाई मैंने मुँह की एक बार फिर से (फिर से)",
+      "romanized": "khaaee mainne munh kee ek baar phir se (phir se)",
       "speaker": "Encore ABJ",
       "translation": "I suffered a humiliating defeat once again (once again)",
       "explanation": "'Muh ki khana' is a Hindi idiom meaning to fail miserably or face a setback.",
@@ -125,6 +133,7 @@ export const hausla: Song = {
     },
     {
       "original": "मेरा luck down है, मैं कुछ वक्त से इतना हूँ हताश",
+      "romanized": "meraa luck down hai, main kuchh vakt se itanaa hoon hataash",
       "speaker": "Encore ABJ",
       "translation": "My luck is down, I've been so despondent for a while",
       "explanation": "Encore talks about a streak of bad luck leading to a state of clinical-sounding hopelessness.",
@@ -144,6 +153,7 @@ export const hausla: Song = {
     },
     {
       "original": "वो बोले अपने दिल के राज़ तो होता है दर्द",
+      "romanized": "vo bole apane dil ke raaz to hotaa hai dard",
       "speaker": "Encore ABJ",
       "translation": "They say when you share your heart's secrets, it causes pain",
       "explanation": "Reflecting on the vulnerability required to be honest and the hurt it can cause.",
@@ -157,6 +167,7 @@ export const hausla: Song = {
     },
     {
       "original": "लगे मुझको सही में श्रापित",
+      "romanized": "lage mujhako sahee men shraapit",
       "speaker": "Encore ABJ",
       "translation": "I feel truly cursed",
       "explanation": "The artist feels like their constant failures are the result of some external hex or bad karma.",
@@ -170,6 +181,7 @@ export const hausla: Song = {
     },
     {
       "original": "लगे मुझे दर्द बनाता artist",
+      "romanized": "lage mujhe dard banaataa artist",
       "speaker": "Encore ABJ",
       "translation": "I feel like pain is what makes an artist",
       "explanation": "The belief that creativity is fueled by suffering and struggle.",
@@ -189,6 +201,7 @@ export const hausla: Song = {
     },
     {
       "original": "लगे कोई सुन नहीं रहा है मुझको",
+      "romanized": "lage koee sun naheen rahaa hai mujhako",
       "speaker": "Encore ABJ",
       "translation": "It feels like no one is listening to me",
       "explanation": "A sense of isolation despite having a massive audience, feeling unheard on a personal level.",
@@ -203,6 +216,7 @@ export const hausla: Song = {
     },
     {
       "original": "लगे जैसे गाड़ी छूटे जाये रे",
+      "romanized": "lage jaise gaadee chhoote jaaye re",
       "speaker": "Encore ABJ",
       "translation": "It feels like I'm missing the train",
       "explanation": "A metaphor for missing opportunities or life moving ahead while he stays stagnant.",
@@ -216,6 +230,7 @@ export const hausla: Song = {
     },
     {
       "original": "Beat बजे uh-huh-uh-huh-uh-huh",
+      "romanized": "Beat baje uh-huh-uh-huh-uh-huh",
       "speaker": "Encore ABJ",
       "translation": "The beat plays uh-huh-uh-huh-uh-huh",
       "explanation": "Rhythmic vocalizations following the tempo of the track.",
@@ -223,6 +238,7 @@ export const hausla: Song = {
     },
     {
       "original": "उसे चाहिए pep talk, crop top, बोहोत love",
+      "romanized": "use chaahie pep talk, crop top, bohot love",
       "speaker": "Calm",
       "translation": "She wants pep talks, crop tops, and a lot of love",
       "explanation": "Describing the simple yet specific needs of a romantic interest—support, style, and affection.",
@@ -236,6 +252,7 @@ export const hausla: Song = {
     },
     {
       "original": "लेकिन मैं हूँ problem, बोहोत जल्द I start flippin'",
+      "romanized": "lekin main hoon problem, bohot jald I start flippin'",
       "speaker": "Calm",
       "translation": "But I am the problem, I start flipping out very quickly",
       "explanation": "Self-awareness about his volatile temper or mood swings.",
@@ -249,6 +266,7 @@ export const hausla: Song = {
     },
     {
       "original": "I've been locked up, भाई करे cookin'",
+      "romanized": "I've been locked up, bhaaee kare cookin'",
       "speaker": "Calm",
       "translation": "I've been locked up, brother is cooking",
       "explanation": "'Locked up' refers to being in the studio, and 'cooking' is slang for creating great music/beats.",
@@ -262,6 +280,7 @@ export const hausla: Song = {
     },
     {
       "original": "I can die for this shit और लिखूँ जैसे समय कम है",
+      "romanized": "I can die for this shit aur likhoon jaise samay kam hai",
       "speaker": "Calm",
       "translation": "I can die for this shit and I write as if time is short",
       "explanation": "His intense dedication to Hip Hop and a sense of urgency in his craft.",
@@ -269,6 +288,7 @@ export const hausla: Song = {
     },
     {
       "original": "अंदर गम ही गम है",
+      "romanized": "andar gam hee gam hai",
       "speaker": "Calm",
       "translation": "Inside there is nothing but grief",
       "explanation": "Admitting to internal sadness that contrasts with his public persona.",
@@ -282,6 +302,7 @@ export const hausla: Song = {
     },
     {
       "original": "तुम ही तुम हो, लगी लत है",
+      "romanized": "tum hee tum ho, lagee lat hai",
       "speaker": "Calm",
       "translation": "It's only you, I've become addicted",
       "explanation": "Comparing his love for someone to an addiction that consumes his thoughts.",
@@ -295,6 +316,7 @@ export const hausla: Song = {
     },
     {
       "original": "तुम भी ना जानो कितना कमीना मैं",
+      "romanized": "tum bhee naa jaano kitanaa kameenaa main",
       "speaker": "Calm",
       "translation": "Even you don't know how much of a rascal I am",
       "explanation": "Acknowledging his own flaws, potentially being a difficult partner.",
@@ -308,6 +330,7 @@ export const hausla: Song = {
     },
     {
       "original": "क्या हकीकत है?",
+      "romanized": "kyaa hakeekat hai?",
       "speaker": "Calm",
       "translation": "What is the reality?",
       "explanation": "Questioning the truth of his feelings or the situation he is in.",
@@ -321,6 +344,7 @@ export const hausla: Song = {
     },
     {
       "original": "ये पहेली भी बढ़ी tough है",
+      "romanized": "ye pahelee bhee ba tough hai",
       "speaker": "Calm",
       "translation": "This puzzle is also quite tough",
       "explanation": "Life or the relationship feels like a complex riddle that is hard to solve.",
@@ -334,6 +358,7 @@ export const hausla: Song = {
     },
     {
       "original": "उसे ये लगा कि नी आती होगी सपनों में मेरे",
+      "romanized": "use ye lagaa ki nee aatee hogee sapanon men mere",
       "speaker": "Calm",
       "translation": "She thought she wouldn't be appearing in my dreams",
       "explanation": "The partner underestimated how much space she occupies in his subconscious.",
@@ -341,6 +366,7 @@ export const hausla: Song = {
     },
     {
       "original": "I give a fuck about you",
+      "romanized": "I give a fuck about you",
       "speaker": "Calm",
       "translation": "I care about you",
       "explanation": "A blunt, modern way of expressing deep concern and affection.",
@@ -348,6 +374,7 @@ export const hausla: Song = {
     },
     {
       "original": "हम ऐसे टकराएं क्यों?",
+      "romanized": "ham aise takaraaen kyon?",
       "speaker": "Calm",
       "translation": "Why did we collide like this?",
       "explanation": "Wondering about the destiny or circumstances that led to their meeting.",
@@ -361,6 +388,7 @@ export const hausla: Song = {
     },
     {
       "original": "यहाँ हूँ तो घबराओ क्यों? यू अटकना है क्यों?",
+      "romanized": "yahaan hoon to ghabaraao kyon? yoo atakanaa hai kyon?",
       "speaker": "Calm",
       "translation": "If I'm here, why be nervous? Why hesitate/get stuck like this?",
       "explanation": "Reassuring the partner to be open and fluid in the relationship instead of being hesitant.",
@@ -374,6 +402,7 @@ export const hausla: Song = {
     },
     {
       "original": "और जैसे सपना है तू",
+      "romanized": "aur jaise sapanaa hai too",
       "speaker": "Calm",
       "translation": "And it's like you are a dream",
       "explanation": "The person feels too good to be true or surreal to the artist.",
@@ -381,6 +410,7 @@ export const hausla: Song = {
     },
     {
       "original": "तेरे ख्वाब, हैं मेरे ख्वाब भी",
+      "romanized": "tere khvaab, hain mere khvaab bhee",
       "speaker": "Calm & Encore ABJ",
       "translation": "Your dreams are my dreams too",
       "explanation": "Repetition of the hook emphasizing shared life goals.",
@@ -388,6 +418,7 @@ export const hausla: Song = {
     },
     {
       "original": "पर ये रातें रोती रही हैं",
+      "romanized": "par ye raaten rotee rahee hain",
       "speaker": "Calm & Encore ABJ",
       "translation": "But these nights have been weeping",
       "explanation": "Reiterating the theme of nocturnal sadness.",
@@ -395,6 +426,7 @@ export const hausla: Song = {
     },
     {
       "original": "तेरा वार, मेरी हार",
+      "romanized": "teraa vaar, meree haar",
       "speaker": "Calm & Encore ABJ",
       "translation": "Your strike, my defeat",
       "explanation": "Repetition focusing on the power dynamic in the relationship.",
@@ -402,6 +434,7 @@ export const hausla: Song = {
     },
     {
       "original": "बचा हौसला भी नहीं है",
+      "romanized": "bachaa hausalaa bhee naheen hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "There is no courage left either",
       "explanation": "Finality of the loss of morale.",
@@ -409,6 +442,7 @@ export const hausla: Song = {
     },
     {
       "original": "मेरा luck down है, मैं कुछ वक्त से इतना हूँ हताश",
+      "romanized": "meraa luck down hai, main kuchh vakt se itanaa hoon hataash",
       "speaker": "Encore ABJ",
       "translation": "My luck is down, I've been so despondent for a while",
       "explanation": "Encore revisiting the feeling of being in a slump.",
@@ -416,6 +450,7 @@ export const hausla: Song = {
     },
     {
       "original": "वो बोले अपने दिल के राज़ तो होता है दर्द",
+      "romanized": "vo bole apane dil ke raaz to hotaa hai dard",
       "speaker": "Encore ABJ",
       "translation": "They say when you share your heart's secrets, it causes pain",
       "explanation": "Recapping the pain of emotional transparency.",
@@ -423,6 +458,7 @@ export const hausla: Song = {
     },
     {
       "original": "लगे मुझको सही में श्रापित",
+      "romanized": "lage mujhako sahee men shraapit",
       "speaker": "Encore ABJ",
       "translation": "I feel truly cursed",
       "explanation": "Reiterating the sense of being haunted by misfortune.",
@@ -430,6 +466,7 @@ export const hausla: Song = {
     },
     {
       "original": "लगे मुझे दर्द बनाता artist",
+      "romanized": "lage mujhe dard banaataa artist",
       "speaker": "Encore ABJ",
       "translation": "I feel like pain is what makes an artist",
       "explanation": "A final acknowledgement of the link between his suffering and his music.",
@@ -437,6 +474,7 @@ export const hausla: Song = {
     },
     {
       "original": "लगे कोई सुन नहीं रहा है मुझको",
+      "romanized": "lage koee sun naheen rahaa hai mujhako",
       "speaker": "Encore ABJ",
       "translation": "It feels like no one is listening to me",
       "explanation": "The persistent feeling of internal loneliness.",
@@ -444,6 +482,7 @@ export const hausla: Song = {
     },
     {
       "original": "लगे जैसे गाड़ी छूटे जाये रे",
+      "romanized": "lage jaise gaadee chhoote jaaye re",
       "speaker": "Encore ABJ",
       "translation": "It feels like I'm missing the train",
       "explanation": "Ending on the metaphor of feeling left behind by life.",

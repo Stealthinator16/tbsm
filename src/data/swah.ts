@@ -9,6 +9,7 @@ export const swah: Song = {
   "lyrics": [
     {
       "original": "उसे परे कर, वो वेला है, वेला है",
+      "romanized": "Use pare kara, vo velaa hai, velaa hai",
       "speaker": "Seedhe Maut",
       "translation": "Push him aside, he's just idle, he's a nobody.",
       "explanation": "Dismissing an opponent as 'vela' (unemployed/idle), implying they aren't worth the time or attention.",
@@ -22,6 +23,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे बोल, चल, वो चेला है, चेला है",
+      "romanized": "Use bola, chala, vo chelaa hai, chelaa hai",
       "speaker": "Seedhe Maut",
       "translation": "Tell him to move on, he's just a disciple, a follower.",
       "explanation": "Labeling the competition as a 'chela' (student/servant), asserting Seedhe Maut's position as the masters of the craft.",
@@ -35,6 +37,7 @@ export const swah: Song = {
     },
     {
       "original": "करूँ तेरे घर अंधेरा-धेरा",
+      "romanized": "Karoon tere ghara andheraa-dheraa",
       "speaker": "Seedhe Maut",
       "translation": "I'll bring darkness to your house.",
       "explanation": "A metaphor for ending an opponent's career or casting a shadow over their life/success.",
@@ -42,6 +45,7 @@ export const swah: Song = {
     },
     {
       "original": "दिखे rap game, वो मेरा, मेरा है",
+      "romanized": "Dikhe rap game, vo meraa, meraa hai",
       "speaker": "Seedhe Maut",
       "translation": "I see the rap game, and it's mine, all mine.",
       "explanation": "A bold claim of ownership and dominance over the Indian Hip Hop scene.",
@@ -49,6 +53,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे परे कर, वो वेला है, वेला है",
+      "romanized": "Use pare kara, vo velaa hai, velaa hai",
       "speaker": "Seedhe Maut",
       "translation": "Push him aside, he's just idle, he's a nobody.",
       "explanation": "Repeated for emphasis on the insignificance of the person being addressed.",
@@ -56,6 +61,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे बोल, चल, वो चेला है, चेला है",
+      "romanized": "Use bola, chala, vo chelaa hai, chelaa hai",
       "speaker": "Seedhe Maut",
       "translation": "Tell him to move on, he's just a disciple, a follower.",
       "explanation": "Reinforcing that the opponent lacks original leadership or skill.",
@@ -63,6 +69,7 @@ export const swah: Song = {
     },
     {
       "original": "करूँ तेरे घर अंधेरा-धेरा",
+      "romanized": "Karoon tere ghara andheraa-dheraa",
       "speaker": "Seedhe Maut",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Symbolizes total control and the ability to shut down opposition.",
@@ -70,6 +77,7 @@ export const swah: Song = {
     },
     {
       "original": "दिखे rap game, वो मेरा, मेरा है",
+      "romanized": "Dikhe rap game, vo meraa, meraa hai",
       "speaker": "Seedhe Maut",
       "translation": "I see the rap game, and it's mine, all mine.",
       "explanation": "Confidence in their legacy and current market position.",
@@ -77,6 +85,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे परे कर, वो vela है, वेला है",
+      "romanized": "Use pare kara, vo vela hai, velaa hai",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle, he's useless.",
       "explanation": "Chorus hook establishing the theme of dismissing mediocre competition.",
@@ -84,6 +93,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे बोल, चल, वो चेला है, चेला है",
+      "romanized": "Use bola, chala, vo chelaa hai, chelaa hai",
       "speaker": "Chorus",
       "translation": "Tell him to go, he's just a follower.",
       "explanation": "The 'chela' reference contrasts with SM's 'Guru' status in the underground.",
@@ -91,6 +101,7 @@ export const swah: Song = {
     },
     {
       "original": "करूँ तेरे घर अंधेरा-धेरा",
+      "romanized": "Karoon tere ghara andheraa-dheraa",
       "speaker": "Chorus",
       "translation": "I'll plunge your house into darkness.",
       "explanation": "A lyrical threat of extinguishing the opponent's 'light' or fame.",
@@ -98,6 +109,7 @@ export const swah: Song = {
     },
     {
       "original": "दिखे rap game, वो मेरा, मेरा है",
+      "romanized": "Dikhe rap game, vo meraa, meraa hai",
       "speaker": "Chorus",
       "translation": "The rap game belongs to me.",
       "explanation": "The central claim of the track's hook.",
@@ -105,6 +117,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे परे कर, वो वेला है, वेला है",
+      "romanized": "Use pare kara, vo velaa hai, velaa hai",
       "speaker": "Chorus",
       "translation": "Push him aside, he's just idle.",
       "explanation": "Repetition of the hook.",
@@ -112,6 +125,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे बोल, चल, वो चेला है, चेला है",
+      "romanized": "Use bola, chala, vo chelaa hai, chelaa hai",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Repetition of the hook.",
@@ -119,6 +133,7 @@ export const swah: Song = {
     },
     {
       "original": "करूँ तेरे घर अंधेरा-धेरा",
+      "romanized": "Karoon tere ghara andheraa-dheraa",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Repetition of the hook.",
@@ -126,6 +141,7 @@ export const swah: Song = {
     },
     {
       "original": "दिखे rap game, वो मेरा, मेरा है",
+      "romanized": "Dikhe rap game, vo meraa, meraa hai",
       "speaker": "Chorus",
       "translation": "The rap game belongs to me.",
       "explanation": "Repetition of the hook.",
@@ -133,6 +149,7 @@ export const swah: Song = {
     },
     {
       "original": "Rap game मेरा है, भागो दो शेर आए",
+      "romanized": "Rap game meraa hai, bhaago do shera aae",
       "speaker": "Calm & Encore ABJ",
       "translation": "The rap game is mine, run—two lions have arrived.",
       "explanation": "Referring to the duo (Calm and Encore) as lions, a classic symbol of predators and kings in the jungle.",
@@ -152,6 +169,7 @@ export const swah: Song = {
     },
     {
       "original": "Lyrical मेला है, तेरे भाई सेना है",
+      "romanized": "Lyrical melaa hai, tere bhaaee senaa hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "It's a lyrical fair, your brother is an army.",
       "explanation": "Comparing their dense wordplay to a 'mela' (carnival) and asserting their strength is equal to a whole army.",
@@ -159,6 +177,7 @@ export const swah: Song = {
     },
     {
       "original": "वो करें यहाँ simp बहुत, जाने machine हूँ",
+      "romanized": "Vo karen yahaan simp bahuta, jaane machine hoon",
       "speaker": "Calm & Encore ABJ",
       "translation": "They simp a lot here, they know I'm a machine.",
       "explanation": "Dismissing those who 'simp' (act submissively or obsessively) while calling himself a relentless rapping machine.",
@@ -172,6 +191,7 @@ export const swah: Song = {
     },
     {
       "original": "थोड़ा सा fiend हूँ, थोड़ा सा बनता है",
+      "romanized": "Thoड़ा saa fiend hoon, thoड़ा saa banataa hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "I'm a bit of a fiend, and I'm entitled to be.",
       "explanation": "A 'fiend' usually refers to someone addicted or obsessed (often with work or substances); he says it's earned.",
@@ -179,6 +199,7 @@ export const swah: Song = {
     },
     {
       "original": "Mens है certified, Afro Samurai",
+      "romanized": "Mens hai certified, Afro Samurai",
       "speaker": "Calm & Encore ABJ",
       "translation": "My men are certified, like Afro Samurai.",
       "explanation": "Reference to the anime 'Afro Samurai,' symbolizing a lone, highly skilled, and lethal warrior.",
@@ -192,6 +213,7 @@ export const swah: Song = {
     },
     {
       "original": "जी हाँ जी हाँ, तू बहुत ही गंडवा है",
+      "romanized": "Jee haan jee haan, too bahuta hee gandavaa hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "Yes, yes, you are a complete idiot.",
       "explanation": "'Ganduwa' is North Indian slang for an annoying, foolish, or untrustworthy person.",
@@ -211,6 +233,7 @@ export const swah: Song = {
     },
     {
       "original": "फूँकूँ बस जोटे, धुएँ में कमरा है",
+      "romanized": "Phoonkoon basa jote, dhuen men kamaraa hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "I just smoke joints, the room is filled with smoke.",
       "explanation": "A typical Seedhe Maut reference to their lifestyle and weed culture.",
@@ -224,6 +247,7 @@ export const swah: Song = {
     },
     {
       "original": "मेरे साथ blunt है, मेरे पास Blunt आए",
+      "romanized": "Mere saatha blunt hai, mere paasa Blunt aae",
       "speaker": "Calm & Encore ABJ",
       "translation": "I have a blunt with me, and more blunts come my way.",
       "explanation": "Wordplay on 'Blunt' (the weed cigar) and 'Blunt' (being honest/straightforward).",
@@ -238,6 +262,7 @@ export const swah: Song = {
     },
     {
       "original": "जीरे भाई सपना है",
+      "romanized": "Jeere bhaaee sapanaa hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "Living the brotherly dream.",
       "explanation": "Expressing that their current life and success together is like a dream come true.",
@@ -245,6 +270,7 @@ export const swah: Song = {
     },
     {
       "original": "पहले बिन बात चिपकना फिर हमसे यहाँ कायका किलसना",
+      "romanized": "Pahale bina baata chipakanaa phira hamase yahaan kaayakaa kilasanaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "First you cling to us for no reason, then why do you get jealous here?",
       "explanation": "Criticizing people who try to get close to them for fame and then turn bitter or envious.",
@@ -258,6 +284,7 @@ export const swah: Song = {
     },
     {
       "original": "और हम ही को सरेआम साँप सा डसना",
+      "romanized": "Aura hama hee ko sareaama saanpa saa dasanaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "And then trying to bite us like a snake in public.",
       "explanation": "Referring to backstabbers who benefit from them and then criticize them publicly.",
@@ -265,6 +292,7 @@ export const swah: Song = {
     },
     {
       "original": "तो बता भाई क्या है फ़ायदा मदद का?",
+      "romanized": "To bataa bhaaee kyaa hai फ़ाyadaa madada kaa?",
       "speaker": "Calm & Encore ABJ",
       "translation": "So tell me brother, what's the point of helping?",
       "explanation": "Questioning the value of altruism when people are ungrateful.",
@@ -272,6 +300,7 @@ export const swah: Song = {
     },
     {
       "original": "तो बता फिर क्या फ़ायदा अदब का",
+      "romanized": "To bataa phira kyaa फ़ाyadaa adaba kaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "Then tell me, what's the use of being respectful?",
       "explanation": "'Adab' means etiquette/respect. He asks why they should be polite if others are toxic.",
@@ -279,6 +308,7 @@ export const swah: Song = {
     },
     {
       "original": "जब दिल में ज़हर भरके तू चलता है लेके",
+      "romanized": "Jaba dila men ज़hara bharake too chalataa hai leke",
       "speaker": "Calm & Encore ABJ",
       "translation": "When you walk around with a heart full of poison.",
       "explanation": "Addressing the hidden malice in their competitors/peers.",
@@ -286,6 +316,7 @@ export const swah: Song = {
     },
     {
       "original": "अभी देखा Singapore में R-H-C-P",
+      "romanized": "Abhee dekhaa Singapore men R-H-C-P",
       "speaker": "Calm & Encore ABJ",
       "translation": "Just saw RHCP in Singapore.",
       "explanation": "Reference to the band Red Hot Chili Peppers. Seedhe Maut attended their concert in Singapore.",
@@ -299,6 +330,7 @@ export const swah: Song = {
     },
     {
       "original": "और अगले महीने जारा है कवि Thailand album खत्म करने के लिए",
+      "romanized": "Aura agale maheene jaaraa hai kavi Thailand album khatma karane ke lie",
       "speaker": "Calm & Encore ABJ",
       "translation": "And next month the poet is going to Thailand to finish the album.",
       "explanation": "Mentioning their trip to Thailand to record their project (likely 'Lunch Break' or 'KSHMR' collaboration).",
@@ -306,6 +338,7 @@ export const swah: Song = {
     },
     {
       "original": "अगले महीने गाँव में जारा हूँ नानी से मैं मिलने",
+      "romanized": "Agale maheene gaanva men jaaraa hoon naanee se main milane",
       "speaker": "Calm & Encore ABJ",
       "translation": "Next month I'm going to the village to meet my grandmother.",
       "explanation": "A grounded moment showing Encore ABJ's connection to his roots despite international travel.",
@@ -313,6 +346,7 @@ export const swah: Song = {
     },
     {
       "original": "उनकी कहानी से बना मैं अभिजय से ABJ",
+      "romanized": "Unakee kahaanee se banaa main abhijaya se ABJ",
       "speaker": "Calm & Encore ABJ",
       "translation": "From her stories, I transformed from Abhijay to ABJ.",
       "explanation": "Encore's real name is Abhijay; he credits his storytelling ability to his grandmother's tales.",
@@ -326,6 +360,7 @@ export const swah: Song = {
     },
     {
       "original": "सीखें",
+      "romanized": "Seekhen",
       "speaker": "Calm & Encore ABJ",
       "translation": "Learn.",
       "explanation": "A command to other rappers to observe and learn how it's done.",
@@ -333,6 +368,7 @@ export const swah: Song = {
     },
     {
       "original": "ये चीज़ बोलूँ दावे से कि rapper'on ने SM जैसे show ना करे ना ही कभी देखे",
+      "romanized": "Ye cheeज़ boloon daave se ki rapper'on ne SM jaise show naa kare naa hee kabhee dekhe",
       "speaker": "Calm & Encore ABJ",
       "translation": "I say this with certainty that other rappers haven't done or even seen shows like SM's.",
       "explanation": "A flex on their high-energy, mosh-pit-heavy live performances which are legendary in DHH.",
@@ -340,6 +376,7 @@ export const swah: Song = {
     },
     {
       "original": "बजो",
+      "romanized": "Bajo",
       "speaker": "Calm & Encore ABJ",
       "translation": "Play/Vibe.",
       "explanation": "Slang used to tell the audience to get loud or get involved.",
@@ -353,6 +390,7 @@ export const swah: Song = {
     },
     {
       "original": "कटो, अपने दो बाप से ना भिड़ो",
+      "romanized": "Kato, apane do baapa se naa bhiड़ो",
       "speaker": "Encore ABJ",
       "translation": "Get lost, don't mess with your two fathers.",
       "explanation": "Positioning themselves as the 'fathers' (superiors) of the scene.",
@@ -360,6 +398,7 @@ export const swah: Song = {
     },
     {
       "original": "कटे तेरा जैसे B-roll",
+      "romanized": "Kate teraa jaise B-roll",
       "speaker": "Encore ABJ",
       "translation": "You get cut like B-roll footage.",
       "explanation": "B-roll is secondary footage often edited out or used for filler. He's saying the opponent is expendable.",
@@ -373,6 +412,7 @@ export const swah: Song = {
     },
     {
       "original": "पड़ा हरा आधा किलो",
+      "romanized": "Paड़ा haraa aadhaa kilo",
       "speaker": "Encore ABJ",
       "translation": "Half a kilo of 'green' lying here.",
       "explanation": "Reference to having a large quantity of marijuana.",
@@ -380,6 +420,7 @@ export const swah: Song = {
     },
     {
       "original": "सारा मेरा है मैं",
+      "romanized": "Saaraa meraa hai main",
       "speaker": "Encore ABJ",
       "translation": "Everything is mine.",
       "explanation": "Reiterating total possession of success and resources.",
@@ -387,6 +428,7 @@ export const swah: Song = {
     },
     {
       "original": "मैं ईंटों से बजादूँ तेरा भेजा",
+      "romanized": "Main eenton se bajaadoon teraa bhejaa",
       "speaker": "Encore ABJ",
       "translation": "I'll crush your brain with bricks.",
       "explanation": "Aggressive imagery representing a 'hard' lyrical hit.",
@@ -394,6 +436,7 @@ export const swah: Song = {
     },
     {
       "original": "फिर पूछूँ, \"क्या आप ठीक हो?\"",
+      "romanized": "Phira poochhoon, \"kyaa aapa theeka ho?\"",
       "speaker": "Encore ABJ",
       "translation": "Then I'll ask, \"Are you okay?\"",
       "explanation": "Sarcastic politeness after delivering a metaphorical or lyrical blow.",
@@ -401,6 +444,7 @@ export const swah: Song = {
     },
     {
       "original": "स्वाहा!",
+      "romanized": "Svaahaa!",
       "speaker": "Calm",
       "translation": "Swah! (Consumed by fire)",
       "explanation": "The title track phrase. 'Swah' is said during a Havan when making an offering to fire. Here it means 'it's over' or 'burnt'.",
@@ -414,6 +458,7 @@ export const swah: Song = {
     },
     {
       "original": "इन लौंडों के लिए दुविधा",
+      "romanized": "Ina laundon ke lie duvidhaa",
       "speaker": "Calm",
       "translation": "A dilemma for these boys.",
       "explanation": "Seedhe Maut's existence and skill level create a problem for their competition.",
@@ -421,6 +466,7 @@ export const swah: Song = {
     },
     {
       "original": "हम जीते रोज़",
+      "romanized": "Hama jeete roज़",
       "speaker": "Calm",
       "translation": "We win every day.",
       "explanation": "Constant success.",
@@ -428,6 +474,7 @@ export const swah: Song = {
     },
     {
       "original": "करें भाई मुँह मीठा, हैं सारे लोग terified luffy और levi से पूरी तरह तेरा भाई कहे",
+      "romanized": "Karen bhaaee munha meethaa, hain saare loga terified luffy aura levi se pooree taraha teraa bhaaee kahe",
       "speaker": "Calm",
       "translation": "Bro, celebrate the victory, everyone is terrified; your brother is like Luffy and Levi.",
       "explanation": "References to 'Luffy' (One Piece) and 'Levi' (Attack on Titan), both powerful and feared anime characters.",
@@ -446,6 +493,7 @@ export const swah: Song = {
     },
     {
       "original": "स्वाहा",
+      "romanized": "Svaahaa",
       "speaker": "Encore ABJ",
       "translation": "Swah.",
       "explanation": "The offering is complete; the competition is burnt.",
@@ -453,6 +501,7 @@ export const swah: Song = {
     },
     {
       "original": "Rap करूँ, nah",
+      "romanized": "Rap karoon, nah",
       "speaker": "Encore ABJ",
       "translation": "Do I just rap? No.",
       "explanation": "Implying what they do is more than just music.",
@@ -460,6 +509,7 @@ export const swah: Song = {
     },
     {
       "original": "Spit fax करूँ, yuh",
+      "romanized": "Spit fax karoon, yuh",
       "speaker": "Encore ABJ",
       "translation": "I spit facts, yeah.",
       "explanation": "Emphasizing truth and authenticity over mere rhyming.",
@@ -467,6 +517,7 @@ export const swah: Song = {
     },
     {
       "original": "एक verse लगाए आग",
+      "romanized": "Eka verse lagaae aaga",
       "speaker": "Encore ABJ",
       "translation": "One verse sets it on fire.",
       "explanation": "The impact of a single verse from them is enough to destroy the game.",
@@ -474,6 +525,7 @@ export const swah: Song = {
     },
     {
       "original": "और हुए सब स्वाहा",
+      "romanized": "Aura hue saba svaahaa",
       "speaker": "Encore ABJ",
       "translation": "And everyone was consumed by fire.",
       "explanation": "Everything is turned to ash by their bars.",
@@ -481,6 +533,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे परे कर, वो वेला है, वेला है",
+      "romanized": "Use pare kara, vo velaa hai, velaa hai",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
@@ -488,6 +541,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे बोल, चल, वो चेला है, चेला है",
+      "romanized": "Use bola, chala, vo chelaa hai, chelaa hai",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
@@ -495,6 +549,7 @@ export const swah: Song = {
     },
     {
       "original": "करूँ तेरे घर अंधेरा-धेरा",
+      "romanized": "Karoon tere ghara andheraa-dheraa",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
@@ -502,6 +557,7 @@ export const swah: Song = {
     },
     {
       "original": "दिखे rap game, वो मेरा, मेरा है",
+      "romanized": "Dikhe rap game, vo meraa, meraa hai",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
@@ -509,6 +565,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे परे कर, वो वेला है, वेला है",
+      "romanized": "Use pare kara, vo velaa hai, velaa hai",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
@@ -523,6 +580,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे बोल, चल, वो चेला है, चेला है",
+      "romanized": "Use bola, chala, vo chelaa hai, chelaa hai",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
@@ -530,6 +588,7 @@ export const swah: Song = {
     },
     {
       "original": "करूँ तेरे घर अंधेरा-धेरा",
+      "romanized": "Karoon tere ghara andheraa-dheraa",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
@@ -537,6 +596,7 @@ export const swah: Song = {
     },
     {
       "original": "दिखे rap game, वो मेरा, मेरा है",
+      "romanized": "Dikhe rap game, vo meraa, meraa hai",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
@@ -544,6 +604,7 @@ export const swah: Song = {
     },
     {
       "original": "पैर है gas पे ये panda है",
+      "romanized": "Paira hai gas pe ye panda hai",
       "speaker": "Calm और Encore ABJ",
       "translation": "Foot is on the gas, this is a panda.",
       "explanation": "Full speed ahead; reference to Kung Fu Panda (high energy/unexpected skill).",
@@ -551,6 +612,7 @@ export const swah: Song = {
     },
     {
       "original": "Kung fu",
+      "romanized": "Kung fu",
       "speaker": "Calm और Encore ABJ",
       "translation": "Kung fu.",
       "explanation": "Continuing the martial arts/Panda theme.",
@@ -558,6 +620,7 @@ export const swah: Song = {
     },
     {
       "original": "बोले rapper मैं Seedhe Maut का lunch हूँ",
+      "romanized": "Bole rapper main Seedhe Maut kaa lunch hoon",
       "speaker": "Calm और Encore ABJ",
       "translation": "Rappers say I'm Seedhe Maut's lunch.",
       "explanation": "Other rappers are so easy to beat that they are just a 'meal' for SM.",
@@ -565,6 +628,7 @@ export const swah: Song = {
     },
     {
       "original": "हाथ में magical pen है जैसे संजू",
+      "romanized": "Haatha men magical pen hai jaise sanjoo",
       "speaker": "Calm और Encore ABJ",
       "translation": "I have a magical pen in my hand like Sanju.",
       "explanation": "Reference to the show 'Shaka Laka Boom Boom' where Sanju's pencil made drawings come to life.",
@@ -578,6 +642,7 @@ export const swah: Song = {
     },
     {
       "original": "यहाँ पे पैसों की कमी नहीं है, come through",
+      "romanized": "Yahaan pe paison kee kamee naheen hai, come through",
       "speaker": "Calm और Encore ABJ",
       "translation": "There's no shortage of money here, come through.",
       "explanation": "Boasting about their financial success.",
@@ -585,6 +650,7 @@ export const swah: Song = {
     },
     {
       "original": "I do what I want to",
+      "romanized": "I do what I want to",
       "speaker": "Calm और Encore ABJ",
       "translation": "I do what I want to.",
       "explanation": "Total creative and personal freedom.",
@@ -592,6 +658,7 @@ export const swah: Song = {
     },
     {
       "original": "मुझे पता है कौन तू",
+      "romanized": "Mujhe pataa hai kauna too",
       "speaker": "Calm और Encore ABJ",
       "translation": "I know who you are.",
       "explanation": "Implies he sees through the opponent's facade.",
@@ -599,6 +666,7 @@ export const swah: Song = {
     },
     {
       "original": "Pass करेंगे जायेंगे one-two",
+      "romanized": "Pass karenge jaayenge one-two",
       "speaker": "Calm और Encore ABJ",
       "translation": "We'll pass and go one-two.",
       "explanation": "Reference to a quick 1-2 passing play in football/sports or just moving fast.",
@@ -606,6 +674,7 @@ export const swah: Song = {
     },
     {
       "original": "बंदे इतने check",
+      "romanized": "Bande itane check",
       "speaker": "Calm और Encore ABJ",
       "translation": "So many people, check them.",
       "explanation": "Verifying their squad or power.",
@@ -613,6 +682,7 @@ export const swah: Song = {
     },
     {
       "original": "करें carry smell dank करें",
+      "romanized": "Karen carry smell dank karen",
       "speaker": "Calm और Encore ABJ",
       "translation": "They carry it, it smells dank.",
       "explanation": "'Dank' refers to high-quality marijuana.",
@@ -626,6 +696,7 @@ export const swah: Song = {
     },
     {
       "original": "fanny pack",
+      "romanized": "Fanny pack",
       "speaker": "Calm और Encore ABJ",
       "translation": "Fanny pack.",
       "explanation": "Where they carry their gear/stash.",
@@ -633,6 +704,7 @@ export const swah: Song = {
     },
     {
       "original": "H2SO4 मिला chance, करा acid rap",
+      "romanized": "H2SO4 milaa chance, karaa acid rap",
       "speaker": "Calm और Encore ABJ",
       "translation": "Got H2SO4, did acid rap.",
       "explanation": "Wordplay: H2SO4 is sulfuric acid. They're doing 'acid rap'—corrosive, burning bars.",
@@ -640,6 +712,7 @@ export const swah: Song = {
     },
     {
       "original": "(ओये ये देख, ये देख)",
+      "romanized": "(oye ye dekha, ye dekha)",
       "speaker": "Calm और Encore ABJ",
       "translation": "(Hey look at this, look at this)",
       "explanation": "Directing attention to their skills or success.",
@@ -647,6 +720,7 @@ export const swah: Song = {
     },
     {
       "original": "इन्हें खींचूँ गले में mic की तार लपेटके, uh",
+      "romanized": "Inhen kheenchoon gale men mic kee taara lapetake, uh",
       "speaker": "Calm",
       "translation": "I'll pull them by wrapping the mic cord around their necks.",
       "explanation": "Violent imagery of dominance using their tool of trade (the mic).",
@@ -654,6 +728,7 @@ export const swah: Song = {
     },
     {
       "original": "I wonder why ya’ll still debating, uh",
+      "romanized": "I wonder why ya’ll still debating, uh",
       "speaker": "Calm",
       "translation": "I wonder why you're all still debating.",
       "explanation": "Asking why there's still a debate about who the best is.",
@@ -661,6 +736,7 @@ export const swah: Song = {
     },
     {
       "original": "दिखा crown and it's up for the taking, uh",
+      "romanized": "Dikhaa crown and it's up for the taking, uh",
       "speaker": "Calm",
       "translation": "Saw the crown and it's up for the taking.",
       "explanation": "The throne of the rap game is available, and they are claiming it.",
@@ -668,6 +744,7 @@ export const swah: Song = {
     },
     {
       "original": "Seedhe Maut बाकी fuck all हैं दो गुना",
+      "romanized": "Seedhe Maut baakee fuck all hain do gunaa",
       "speaker": "Calm",
       "translation": "Seedhe Maut is here, the rest are twice as useless.",
       "explanation": "Dismissing everyone else as inferior compared to SM.",
@@ -675,6 +752,7 @@ export const swah: Song = {
     },
     {
       "original": "ये R-R अपने बाप को तू सुना",
+      "romanized": "Ye R-R apane baapa ko too sunaa",
       "speaker": "Encore ABJ",
       "translation": "Go tell your crying stories (RR) to your father.",
       "explanation": "'RR' (Randi Rona) is slang for constant whining/complaining.",
@@ -694,6 +772,7 @@ export const swah: Song = {
     },
     {
       "original": "यहाँ चिल्लाए मेरे पे ना, वहाँ तेरा मूँह खुला",
+      "romanized": "Yahaan chillaae mere pe naa, vahaan teraa moonha khulaa",
       "speaker": "Encore ABJ",
       "translation": "Don't scream at me here, your mouth is wide open there.",
       "explanation": "Implying the opponent is shocked or powerless when confronted.",
@@ -701,6 +780,7 @@ export const swah: Song = {
     },
     {
       "original": "मैं आजा सही करूँ आके तेरी तू-तड़ाक",
+      "romanized": "Main aajaa sahee karoon aake teree too-taड़ाka",
       "speaker": "Encore ABJ",
       "translation": "I'll come and fix your disrespectful tone.",
       "explanation": "'Tu-tadaak' refers to using disrespectful language ('tu' instead of 'aap').",
@@ -708,6 +788,7 @@ export const swah: Song = {
     },
     {
       "original": "यहाँ मेरे सपने ही करते हैं मूँह से बात",
+      "romanized": "Yahaan mere sapane hee karate hain moonha se baata",
       "speaker": "Encore ABJ",
       "translation": "Here, my dreams speak for themselves.",
       "explanation": "His reality is so successful he doesn't need to brag; the results speak.",
@@ -715,6 +796,7 @@ export const swah: Song = {
     },
     {
       "original": "स्वाहा! घर में उड़े जाए धुआँ",
+      "romanized": "Svaahaa! ghara men uड़े jaae dhuaan",
       "speaker": "Encore ABJ",
       "translation": "Swah! Smoke keeps rising in the house.",
       "explanation": "Smoke from the fire (success/joints) filling their space.",
@@ -722,6 +804,7 @@ export const swah: Song = {
     },
     {
       "original": "बंदे सोरे, no ख्वाब",
+      "romanized": "Bande sore, no khvaaba",
       "speaker": "Encore ABJ",
       "translation": "People are sleeping, no dreams.",
       "explanation": "Criticizing the lack of ambition in others.",
@@ -736,6 +819,7 @@ export const swah: Song = {
     },
     {
       "original": "दोस्त है [?], इनको दिखें न ख्वाब",
+      "romanized": "Dosta hai [?], inako dikhen na khvaaba",
       "speaker": "Encore ABJ",
       "translation": "Friends are... they don't see dreams.",
       "explanation": "Reflecting on people around him who lack vision.",
@@ -743,6 +827,7 @@ export const swah: Song = {
     },
     {
       "original": "उतारूँ तेरा भूत आज",
+      "romanized": "Utaaroon teraa bhoota aaja",
       "speaker": "Encore ABJ",
       "translation": "I'll exorcise your 'ghost' today.",
       "explanation": "'Bhoot utarna' means to knock someone's arrogance out of them.",
@@ -750,6 +835,7 @@ export const swah: Song = {
     },
     {
       "original": "स्वाहा",
+      "romanized": "Svaahaa",
       "speaker": "Calm",
       "translation": "Swah.",
       "explanation": "The burning of the opponent's ego.",
@@ -757,6 +843,7 @@ export const swah: Song = {
     },
     {
       "original": "एक पल में कटे जाए चूहा",
+      "romanized": "Eka pala men kate jaae choohaa",
       "speaker": "Calm",
       "translation": "In a moment, the rat gets cut.",
       "explanation": "Rats (snitches/weaklings) are dealt with quickly.",
@@ -764,6 +851,7 @@ export const swah: Song = {
     },
     {
       "original": "पता नी कब land हुआ",
+      "romanized": "Pataa nee kaba land huaa",
       "speaker": "Calm",
       "translation": "Don't know when it landed.",
       "explanation": "Referring to their sudden, high-impact arrival or success.",
@@ -771,6 +859,7 @@ export const swah: Song = {
     },
     {
       "original": "तेरे भाई खेले जाये जुआ",
+      "romanized": "Tere bhaaee khele jaaye juaa",
       "speaker": "Calm",
       "translation": "Your brother keeps gambling.",
       "explanation": "Taking risks in the industry to win big.",
@@ -778,6 +867,7 @@ export const swah: Song = {
     },
     {
       "original": "घर में करे माँ दुआ",
+      "romanized": "Ghara men kare maan duaa",
       "speaker": "Calm",
       "translation": "At home, mother prays.",
       "explanation": "Attributing their success to their mother's blessings.",
@@ -785,6 +875,7 @@ export const swah: Song = {
     },
     {
       "original": "कि करे दोनों भाई सब",
+      "romanized": "Ki kare donon bhaaee saba",
       "speaker": "Calm",
       "translation": "That both brothers achieve everything.",
       "explanation": "Referring to Calm and Encore as brothers in arms.",
@@ -792,6 +883,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे परे कर, वो वेला है, वेला है",
+      "romanized": "Use pare kara, vo velaa hai, velaa hai",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
@@ -799,6 +891,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे बोल, चल, वो चेला है, चेला है",
+      "romanized": "Use bola, chala, vo chelaa hai, chelaa hai",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
@@ -806,6 +899,7 @@ export const swah: Song = {
     },
     {
       "original": "करूँ तेरे घर अंधेरा-धेरा",
+      "romanized": "Karoon tere ghara andheraa-dheraa",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
@@ -813,6 +907,7 @@ export const swah: Song = {
     },
     {
       "original": "दिखे rap game, वो मेरा, मेरा है",
+      "romanized": "Dikhe rap game, vo meraa, meraa hai",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
@@ -820,6 +915,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे परे कर, वो वेला है, वेला है",
+      "romanized": "Use pare kara, vo velaa hai, velaa hai",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
@@ -827,6 +923,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे बोल, चल, वो चेला है, चेला है",
+      "romanized": "Use bola, chala, vo chelaa hai, chelaa hai",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
@@ -834,6 +931,7 @@ export const swah: Song = {
     },
     {
       "original": "करूँ तेरे घर अंधेरा-धेरा",
+      "romanized": "Karoon tere ghara andheraa-dheraa",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
@@ -841,6 +939,7 @@ export const swah: Song = {
     },
     {
       "original": "दिखे rap game, वो मेरा, मेरा है",
+      "romanized": "Dikhe rap game, vo meraa, meraa hai",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
@@ -848,6 +947,7 @@ export const swah: Song = {
     },
     {
       "original": "एक से भले दो, दो से भले तीन",
+      "romanized": "Eka se bhale do, do se bhale teena",
       "speaker": "Badshah",
       "translation": "Two are better than one, three are better than two.",
       "explanation": "Celebrating the collaboration between the duo and Badshah.",
@@ -855,6 +955,7 @@ export const swah: Song = {
     },
     {
       "original": "Badboy Seedhe Maut LV supreme",
+      "romanized": "Badboy Seedhe Maut LV supreme",
       "speaker": "Badshah",
       "translation": "Badboy (Badshah), Seedhe Maut, LV Supreme.",
       "explanation": "Brand flex: Louis Vuitton and Supreme. Mentioning his and SM's status.",
@@ -862,6 +963,7 @@ export const swah: Song = {
     },
     {
       "original": "दिया दिल्ली को scene, लौंडों को dream",
+      "romanized": "Diyaa dillee ko scene, laundon ko dream",
       "speaker": "Badshah",
       "translation": "Gave Delhi its scene, and the kids their dream.",
       "explanation": "Claiming credit for building the Delhi hip-hop infrastructure and inspiring new artists.",
@@ -869,6 +971,7 @@ export const swah: Song = {
     },
     {
       "original": "Hater'on को memе, spotify को stream",
+      "romanized": "Hater'on ko memе, spotify ko stream",
       "speaker": "Badshah",
       "translation": "Gave haters memes, and Spotify streams.",
       "explanation": "Haters talk (memes), but fans listen (streams). Both help him.",
@@ -876,6 +979,7 @@ export const swah: Song = {
     },
     {
       "original": "आग आग कर रहा था तिल्ली निकली",
+      "romanized": "Aaga aaga kara rahaa thaa tillee nikalee",
       "speaker": "Badshah",
       "translation": "He was shouting 'fire fire', but he turned out to be just a matchstick.",
       "explanation": "Diminishing an opponent who talks big but has a small impact.",
@@ -889,6 +993,7 @@ export const swah: Song = {
     },
     {
       "original": "भौंक रहा था बोहोत तू तो बिल्ली निकली",
+      "romanized": "Bhaunka rahaa thaa bohota too to billee nikalee",
       "speaker": "Badshah",
       "translation": "You were barking a lot, but you turned out to be a cat.",
       "explanation": "The 'dog' (barking) turns into a 'cat' (weak/scared) when faced with real power.",
@@ -896,6 +1001,7 @@ export const swah: Song = {
     },
     {
       "original": "लौड़े की शक्ल के तू झिल्ली निकली",
+      "romanized": "Lauड़े kee shakla ke too jhillee nikalee",
       "speaker": "Badshah",
       "translation": "You look like a d*ck and turned out to be just a thin membrane.",
       "explanation": "Harsh insult implying the opponent is fragile and useless.",
@@ -909,6 +1015,7 @@ export const swah: Song = {
     },
     {
       "original": "नस मेरी काटी उसमें दिल्ली निकली",
+      "romanized": "Nasa meree kaatee usamen dillee nikalee",
       "speaker": "Badshah",
       "translation": "Cut my vein, and Delhi will come out.",
       "explanation": "Showing his deep-rooted connection and loyalty to Delhi.",
@@ -923,6 +1030,7 @@ export const swah: Song = {
     },
     {
       "original": "नहीं दारू पीता है",
+      "romanized": "Naheen daaroo peetaa hai",
       "speaker": "Badshah",
       "translation": "Doesn't drink alcohol.",
       "explanation": "Referring to his sober lifestyle, which is a common flex for him recently.",
@@ -930,6 +1038,7 @@ export const swah: Song = {
     },
     {
       "original": "नहीं माल फूँकता है",
+      "romanized": "Naheen maala phoonkataa hai",
       "speaker": "Badshah",
       "translation": "Doesn't smoke weed.",
       "explanation": "Contrast to SM's frequent weed references; Badshah stays clean.",
@@ -937,6 +1046,7 @@ export const swah: Song = {
     },
     {
       "original": "Underground या commercial बस आग थूकता है",
+      "romanized": "Underground yaa commercial basa aaga thookataa hai",
       "speaker": "Badshah",
       "translation": "Underground or commercial, he just spits fire.",
       "explanation": "Bridging the gap between two worlds of rap; his quality remains high in both.",
@@ -944,6 +1054,7 @@ export const swah: Song = {
     },
     {
       "original": "बेटे वैसे तो भई तेरा मूतता नहीं",
+      "romanized": "Bete vaise to bhaee teraa mootataa naheen",
       "speaker": "Badshah",
       "translation": "Son, otherwise your brother doesn't even bother to pee.",
       "explanation": "A crude way of saying he usually doesn't care to engage with small-time rappers.",
@@ -951,6 +1062,7 @@ export const swah: Song = {
     },
     {
       "original": "फ्री में लेकिन जब मूतता है तो बस आग मूतता है",
+      "romanized": "Phree men lekina jaba mootataa hai to basa aaga mootataa hai",
       "speaker": "Badshah",
       "translation": "But when he does it for free, he just pees fire.",
       "explanation": "Even his 'waste' (free verses/casual bars) is better than others' best work.",
@@ -965,6 +1077,7 @@ export const swah: Song = {
     },
     {
       "original": "Old school जैसे DVD",
+      "romanized": "Old school jaise DVD",
       "speaker": "Badshah",
       "translation": "Old school like a DVD.",
       "explanation": "Refers to his longevity in the game.",
@@ -972,6 +1085,7 @@ export const swah: Song = {
     },
     {
       "original": "आजकल देखूँ काफ़ी PPT",
+      "romanized": "Aajakala dekhoon kaaफ़ी PPT",
       "speaker": "Badshah",
       "translation": "Nowadays I see a lot of PPTs.",
       "explanation": "Criticizing new rappers who are all 'presentation' (PPT) and no substance.",
@@ -979,6 +1093,7 @@ export const swah: Song = {
     },
     {
       "original": "पैसों के लिए अब काम नहीं करता",
+      "romanized": "Paison ke lie aba kaama naheen karataa",
       "speaker": "Badshah",
       "translation": "I don't work for money anymore.",
       "explanation": "He has reached a level of wealth where he only does what he likes.",
@@ -986,6 +1101,7 @@ export const swah: Song = {
     },
     {
       "original": "कंपनी में लेता सीधा equity",
+      "romanized": "Kanpanee men letaa seedhaa equity",
       "speaker": "Badshah",
       "translation": "I take direct equity in the company.",
       "explanation": "Business mogul flex: he takes ownership stakes rather than just fees.",
@@ -999,6 +1115,7 @@ export const swah: Song = {
     },
     {
       "original": "Make moves, make calls, no textin'",
+      "romanized": "Make moves, make calls, no textin'",
       "speaker": "Badshah",
       "translation": "Make moves, make calls, no texting.",
       "explanation": "He is a man of action and direct business.",
@@ -1006,6 +1123,7 @@ export const swah: Song = {
     },
     {
       "original": "दस साल से भी ज़्यादा still the best in",
+      "romanized": "Dasa saala se bhee ज़yaadaa still the best in",
       "speaker": "Badshah",
       "translation": "More than ten years and still the best in the game.",
       "explanation": "Reflecting on his decade-long dominance in Indian music.",
@@ -1013,6 +1131,7 @@ export const swah: Song = {
     },
     {
       "original": "I'm the best brand you could invest in",
+      "romanized": "I'm the best brand you could invest in",
       "speaker": "Badshah",
       "translation": "I'm the best brand you could invest in.",
       "explanation": "Referring to himself as a profitable business entity.",
@@ -1020,6 +1139,7 @@ export const swah: Song = {
     },
     {
       "original": "नाम Badshah जैसे it was destined",
+      "romanized": "Naama Badshah jaise it was destined",
       "speaker": "Badshah",
       "translation": "Name is Badshah, as if it were destined.",
       "explanation": "Badshah means 'King'. He feels his success was fate.",
@@ -1027,6 +1147,7 @@ export const swah: Song = {
     },
     {
       "original": "Calm साथ अब होगी calamity",
+      "romanized": "Calm saatha aba hogee calamity",
       "speaker": "Badshah",
       "translation": "With Calm by my side, there will be a calamity.",
       "explanation": "Wordplay: Badshah + Calm = a disaster for the competition.",
@@ -1041,6 +1162,7 @@ export const swah: Song = {
     },
     {
       "original": "इनको देनी पड़ेगी therapy",
+      "romanized": "Inako denee paड़ेgee therapy",
       "speaker": "Badshah",
       "translation": "They will need therapy.",
       "explanation": "His bars are so hard they will cause mental trauma to opponents.",
@@ -1048,6 +1170,7 @@ export const swah: Song = {
     },
     {
       "original": "तू psyche बिना key with us",
+      "romanized": "Too psyche binaa key with us",
       "speaker": "Badshah",
       "translation": "You're a psyche without a key with us.",
       "explanation": "Wordplay on 'Psyche' and 'Key' (Sy-key). Also implying the opponent is lost.",
@@ -1062,6 +1185,7 @@ export const swah: Song = {
     },
     {
       "original": "Between तेरी शक्ल",
+      "romanized": "Between teree shakla",
       "speaker": "Badshah",
       "translation": "Between your face.",
       "explanation": "Setup for the next line's joke.",
@@ -1069,6 +1193,7 @@ export const swah: Song = {
     },
     {
       "original": "जैसे nis से पहले pe",
+      "romanized": "Jaise nis se pahale pe",
       "speaker": "Badshah",
       "translation": "Like 'pe' before 'nis'.",
       "explanation": "Clever, cheeky wordplay on the word 'Penis' (P-E before N-I-S).",
@@ -1083,6 +1208,7 @@ export const swah: Song = {
     },
     {
       "original": "उंगली करने वालों का हाथ तोड दिया",
+      "romanized": "Ungalee karane vaalon kaa haatha toda diyaa",
       "speaker": "Badshah",
       "translation": "I broke the hands of those who tried to poke me.",
       "explanation": "'Ungli karna' means to provoke or annoy. He retaliated forcefully.",
@@ -1090,6 +1216,7 @@ export const swah: Song = {
     },
     {
       "original": "हुआ मत्था ख़राब मैंने हाथ छोड़ दिया",
+      "romanized": "Huaa matthaa ख़raaba mainne haatha chhoड़ diyaa",
       "speaker": "Badshah",
       "translation": "When I lost my cool, I let my hands go (started a fight).",
       "explanation": "Warning that he can get physical if provoked beyond a point.",
@@ -1097,6 +1224,7 @@ export const swah: Song = {
     },
     {
       "original": "मुझे देख कई rapper'ों ने कलम उठाई",
+      "romanized": "Mujhe dekha kaee rapper'ोn ne kalama uthaaee",
       "speaker": "Badshah",
       "translation": "Seeing me, many rappers picked up the pen.",
       "explanation": "He inspired many to start rapping.",
@@ -1104,6 +1232,7 @@ export const swah: Song = {
     },
     {
       "original": "मुझे देख कई rapper'ों ने काम छोड़ दिया",
+      "romanized": "Mujhe dekha kaee rapper'ोn ne kaama chhoड़ diyaa",
       "speaker": "Badshah",
       "translation": "Seeing me, many rappers quit their jobs.",
       "explanation": "Double meaning: they quit their day jobs to rap, or they quit rapping because they couldn't match him.",
@@ -1111,6 +1240,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे परे कर, वो वेला है, वेला है",
+      "romanized": "Use pare kara, vo velaa hai, velaa hai",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
@@ -1118,6 +1248,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे बोल, चल, वो चेला है, चेला है",
+      "romanized": "Use bola, chala, vo chelaa hai, chelaa hai",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
@@ -1125,6 +1256,7 @@ export const swah: Song = {
     },
     {
       "original": "करूँ तेरे घर अंधेरा-धेरा",
+      "romanized": "Karoon tere ghara andheraa-dheraa",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
@@ -1132,6 +1264,7 @@ export const swah: Song = {
     },
     {
       "original": "दिखे rap game, वो मेरा, मेरा है",
+      "romanized": "Dikhe rap game, vo meraa, meraa hai",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
@@ -1139,6 +1272,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे परे कर, वो वेला है, वेला है",
+      "romanized": "Use pare kara, vo velaa hai, velaa hai",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
@@ -1146,6 +1280,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे बोल, चल, वो चेला है, चेला है",
+      "romanized": "Use bola, chala, vo chelaa hai, chelaa hai",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
@@ -1153,6 +1288,7 @@ export const swah: Song = {
     },
     {
       "original": "करूँ तेरे घर अंधेरा-धेरा",
+      "romanized": "Karoon tere ghara andheraa-dheraa",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
@@ -1160,6 +1296,7 @@ export const swah: Song = {
     },
     {
       "original": "दिखे rap game, वो मेरा, मेरा है",
+      "romanized": "Dikhe rap game, vo meraa, meraa hai",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
@@ -1167,6 +1304,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे परे कर, वो वेला है, वेला है",
+      "romanized": "Use pare kara, vo velaa hai, velaa hai",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
@@ -1181,6 +1319,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे बोल, चल, वो चेला है, चेला है",
+      "romanized": "Use bola, chala, vo chelaa hai, chelaa hai",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
@@ -1188,6 +1327,7 @@ export const swah: Song = {
     },
     {
       "original": "करूँ तेरे घर अंधेरा-धेरा",
+      "romanized": "Karoon tere ghara andheraa-dheraa",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
@@ -1202,6 +1342,7 @@ export const swah: Song = {
     },
     {
       "original": "दिखे rap game, वो मेरा, मेरा है",
+      "romanized": "Dikhe rap game, vo meraa, meraa hai",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
@@ -1209,6 +1350,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे परे कर, वो वेला है, वेला है",
+      "romanized": "Use pare kara, vo velaa hai, velaa hai",
       "speaker": "Chorus",
       "translation": "Push him aside, he's idle.",
       "explanation": "Chorus repetition.",
@@ -1216,6 +1358,7 @@ export const swah: Song = {
     },
     {
       "original": "उसे बोल, चल, वो चेला है, चेला है",
+      "romanized": "Use bola, chala, vo chelaa hai, chelaa hai",
       "speaker": "Chorus",
       "translation": "Tell him to move, he's a follower.",
       "explanation": "Chorus repetition.",
@@ -1223,6 +1366,7 @@ export const swah: Song = {
     },
     {
       "original": "करूँ तेरे घर अंधेरा-धेरा",
+      "romanized": "Karoon tere ghara andheraa-dheraa",
       "speaker": "Chorus",
       "translation": "I'll bring darkness to your house.",
       "explanation": "Chorus repetition.",
@@ -1230,6 +1374,7 @@ export const swah: Song = {
     },
     {
       "original": "दिखे rap game, वो मेरा, मेरा है",
+      "romanized": "Dikhe rap game, vo meraa, meraa hai",
       "speaker": "Chorus",
       "translation": "The rap game is mine.",
       "explanation": "Chorus repetition.",
@@ -1237,6 +1382,7 @@ export const swah: Song = {
     },
     {
       "original": "पैर है gas पे ये panda है",
+      "romanized": "Paira hai gas pe ye panda hai",
       "speaker": "Calm",
       "translation": "Foot is on the gas, this is a panda.",
       "explanation": "Reference to Kung Fu Panda (Po), someone who looks calm but is a master.",
@@ -1244,6 +1390,7 @@ export const swah: Song = {
     },
     {
       "original": "Kung fu",
+      "romanized": "Kung fu",
       "speaker": "Calm",
       "translation": "Kung fu.",
       "explanation": "Martial arts theme continued.",
@@ -1258,6 +1405,7 @@ export const swah: Song = {
     },
     {
       "original": "बोले rapper मैं Seedhe Maut का lunch हूँ",
+      "romanized": "Bole rapper main Seedhe Maut kaa lunch hoon",
       "speaker": "Calm",
       "translation": "Rappers say I'm Seedhe Maut's lunch.",
       "explanation": "He devours other rappers easily.",
@@ -1265,6 +1413,7 @@ export const swah: Song = {
     },
     {
       "original": "हाथ में magical pen है जैसे संजू",
+      "romanized": "Haatha men magical pen hai jaise sanjoo",
       "speaker": "Calm",
       "translation": "I have a magical pen in my hand like Sanju.",
       "explanation": "His writing has 'magical' power, like the Shaka Laka Boom Boom pencil.",
@@ -1272,6 +1421,7 @@ export const swah: Song = {
     },
     {
       "original": "यहाँ पे पैसों की कमी नहीं है come through",
+      "romanized": "Yahaan pe paison kee kamee naheen hai come through",
       "speaker": "Calm",
       "translation": "No shortage of money here, come through.",
       "explanation": "Invitation to see their success first hand.",

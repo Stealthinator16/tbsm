@@ -9,6 +9,7 @@ export const jolly_skit: Song = {
   "lyrics": [
     {
       "original": "[Skit / Dialogue]",
+      "devanagari": "[Skit / Dialogue]",
       "speaker": "",
       "translation": "[Skit / Dialogue]",
       "explanation": "This is a structural marker indicating the beginning of a narrative interlude. In Seedhe Maut's discography, particularly in the album 'Nayaab', skits are used to provide world-building, humor, and context to the duo's personal lives and their rise in the DHH scene.",

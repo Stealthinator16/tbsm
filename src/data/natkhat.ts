@@ -9,6 +9,7 @@ export const natkhat: Song = {
   "lyrics": [
     {
       "original": "Aanh! Check one",
+      "devanagari": "Aanh! Check one",
       "speaker": "Calm & Encore ABJ",
       "translation": "Aanh! Check one.",
       "explanation": "Standard mic check and intro ad-lib to set the vibe.",
@@ -16,6 +17,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Oye Time kya hora hain?",
+      "devanagari": "ओए Time क्या होरा है?",
       "speaker": "Calm & Encore ABJ",
       "translation": "Hey, what time is it?",
       "explanation": "A common trope in SM songs to establish the 'time' for their arrival or dominance.",
@@ -23,6 +25,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Time bata behnchod!",
+      "devanagari": "Time बता बहनचोद!",
       "speaker": "Calm & Encore ABJ",
       "translation": "Tell me the time, motherf***er!",
       "explanation": "Aggressive opening, typical of the Delhi hip-hop energy.",
@@ -36,6 +39,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Henh!",
+      "devanagari": "Henh!",
       "speaker": "Calm & Encore ABJ",
       "translation": "Henh!",
       "explanation": "A signature grunt/ad-lib used by Seedhe Maut.",
@@ -43,6 +47,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Aisi beato ki shuru se laga lene me",
+      "devanagari": "ऐसी beats की शुरू से लगा लेने में",
       "speaker": "Calm",
       "translation": "I've been destroying beats like these since the beginning.",
       "explanation": "Calm claims he has mastered this specific high-tempo production style from the start.",
@@ -50,6 +55,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Sabhi kuch haiga mere pe naato se leke khaana bhi chahne waalo ka pyaar hai be",
+      "devanagari": "सभी कुछ है गा मेरे पे नातो से लेके खाना भी चाहने वालो का प्यार है बे",
       "speaker": "Calm",
       "translation": "I have everything, from connections to food, and the love of my fans.",
       "explanation": "A flex about having both material success and a loyal fanbase.",
@@ -63,6 +69,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Yaar hain jo saale hater hain padhi ni kami hatero ki par mujhe chahiye",
+      "devanagari": "यार हैं जो साले hater हैं पड़ी नी कमी haters की पर मुझे चाहिए",
       "speaker": "Calm",
       "translation": "I have friends, and there are haters; there's no shortage of haters, but I want...",
       "explanation": "Acknowledging the balance between support and envy in the scene.",
@@ -77,6 +84,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur hater",
+      "devanagari": "एक और hater",
       "speaker": "Calm",
       "translation": "One more hater.",
       "explanation": "Calm feeds off the negativity; more haters signify more success.",
@@ -84,6 +92,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Dekh aur jeetu",
+      "devanagari": "देख और जीतू",
       "speaker": "Calm",
       "translation": "Watch me win more.",
       "explanation": "A confident assertion of his winning streak.",
@@ -91,6 +100,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Karu take off dekh kar",
+      "devanagari": "करू take off देख कर",
       "speaker": "Calm",
       "translation": "Watch me take off.",
       "explanation": "Metaphor for his career trajectory and success reaching new heights.",
@@ -98,6 +108,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Agar chep aur hoga",
+      "devanagari": "अगर चेप और होगा",
       "speaker": "Calm",
       "translation": "If you get any clingier/annoying...",
       "explanation": "Warning people who try to ride their wave or act fake.",
@@ -111,6 +122,7 @@ export const natkhat: Song = {
     },
     {
       "original": "To lu 6 baar kehkar",
+      "devanagari": "तो लू 6 बार कहकर",
       "speaker": "Calm",
       "translation": "Then I'll school you 6 times after announcing it.",
       "explanation": "Likely a reference to the 'Kehkar Lena' (insulting someone openly) trope, amplified.",
@@ -118,6 +130,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek chedd aur karu",
+      "devanagari": "एक छेद्द और करू",
       "speaker": "Calm",
       "translation": "I'll make one more hole.",
       "explanation": "Aggressive imagery, implying shooting or puncturing the ego of an opponent.",
@@ -125,6 +138,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Tera vyavahar galat",
+      "devanagari": "तेरा व्यवहार गलत",
       "speaker": "Calm",
       "translation": "Your behavior is wrong.",
       "explanation": "Calling out the lack of respect or 'tameez' in the industry.",
@@ -132,6 +146,7 @@ export const natkhat: Song = {
     },
     {
       "original": "To banu me seedhe keanu",
+      "devanagari": "तो बनूँ मैं सीधे Keanu",
       "speaker": "Calm",
       "translation": "Then I straight-up become Keanu.",
       "explanation": "Reference to Keanu Reeves as John Wick—silent, deadly, and unstoppable.",
@@ -145,6 +160,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ni puchunga papa kon hai",
+      "devanagari": "नी पूछूँगा पापा कोन है",
       "speaker": "Calm",
       "translation": "I won't ask who your father is.",
       "explanation": "Ignoring the typical Delhi 'Do you know who my father is?' threat.",
@@ -152,6 +168,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Bas pelenge dono bohot hi",
+      "devanagari": "बस पेलेंगे दोनो बहोत ही",
       "speaker": "Calm",
       "translation": "Both of us will just beat you up bad.",
       "explanation": "'Dono' refers to the duo, Seedhe Maut (Calm and Encore).",
@@ -165,6 +182,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Muh soojega par tu kaise na kaise bolеga sorry tabhi rehn de (Abey inn chutiyo ko kitna bola hai yaar, abеy rehn de)",
+      "devanagari": "मुँह सूजेगा पर तू कैसे ना कैसे बोलेगा sorry तभी रहन दे (अबे इन्न चूतियो को कितना बोला है यार, अबे रहन दे)",
       "speaker": "Calm",
       "translation": "Your face will swell, but somehow you'll end up saying sorry, so just let it be. (How many times have I told these idiots, just let it be).",
       "explanation": "A dismissal of unworthy opponents who talk big but fold under pressure.",
@@ -172,6 +190,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Jaha dekhu waha Lage hue 6-7 camera",
+      "devanagari": "जहाँ देखू वहाँ लगे हुए 6-7 camera",
       "speaker": "Calm",
       "translation": "Wherever I look, there are 6-7 cameras.",
       "explanation": "Referring to the constant surveillance of fame or literal vlogs/media around them.",
@@ -179,6 +198,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Rehn de",
+      "devanagari": "रहन दे",
       "speaker": "Calm",
       "translation": "Leave it.",
       "explanation": "A dismissive catchphrase used throughout the track.",
@@ -186,6 +206,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur ek gyaara chale do do paitre",
+      "devanagari": "एक और एक ग्यारा चले दो दो पैत्रे",
       "speaker": "Calm",
       "translation": "One and one makes eleven; we use double the tactics.",
       "explanation": "Plays on the Hindi idiom 'Ek aur ek gyarah' (unity is strength) representing the duo's power.",
@@ -199,6 +220,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Dono bhai plan pe",
+      "devanagari": "दोनो भाई plan पे",
       "speaker": "Calm",
       "translation": "Both brothers are on the plan.",
       "explanation": "Sticking to the vision they set for their collective growth.",
@@ -206,6 +228,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Poore time Bhari rahe poori wo ashtray",
+      "devanagari": "पूरे time भरी रहे पूरी वो ashtray",
       "speaker": "Calm",
       "translation": "The ashtray stays full all the time.",
       "explanation": "Reference to their lifestyle and the long studio sessions involving smoking.",
@@ -220,6 +243,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Tabhi bhai",
+      "devanagari": "तभी भाई",
       "speaker": "Calm",
       "translation": "That's why, brother...",
       "explanation": "Connecting the lifestyle to the outcome/warning.",
@@ -227,6 +251,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Mat de meri misaal",
+      "devanagari": "मत दे मेरी मिसाल",
       "speaker": "Encore ABJ",
       "translation": "Don't give my example.",
       "explanation": "Encore doesn't want to be the 'poster boy' for traditional morality.",
@@ -240,6 +265,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ye bole ke mai raha bache bigaad",
+      "devanagari": "ये बोले के मैं रहा बच्चे बिगाड़",
       "speaker": "Encore ABJ",
       "translation": "They say I'm spoiling the kids.",
       "explanation": "Critics often claim SM's lyrics or lifestyle are a bad influence on youth.",
@@ -247,6 +273,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Mai bas poochu sawal",
+      "devanagari": "मैं बस पूछू सवाल",
       "speaker": "Encore ABJ",
       "translation": "I'm just asking questions.",
       "explanation": "He positions his art as a mirror to society rather than a bad influence.",
@@ -254,6 +281,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ye Dil pe lage to karte bawal",
+      "devanagari": "ये दिल पे लगे तो करते बवाल",
       "speaker": "Encore ABJ",
       "translation": "If it hits their heart, they create a scene.",
       "explanation": "When the truth hurts, people get offended and start controversies.",
@@ -267,6 +295,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Mai ni karta vakalat",
+      "devanagari": "मैं नी करता वकालत",
       "speaker": "Encore ABJ",
       "translation": "I don't play lawyer.",
       "explanation": "He doesn't defend himself or others; he just speaks his truth.",
@@ -280,6 +309,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Insta nahi hai aap ki adalat",
+      "devanagari": "Insta नहीं है आप की अदालत",
       "speaker": "Encore ABJ",
       "translation": "Instagram isn't 'Aap Ki Adalat'.",
       "explanation": "Reference to the famous TV show; Instagram shouldn't be used for public trials or judgment.",
@@ -293,6 +323,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Balak kare na baap se bagawat",
+      "devanagari": "बालक करे ना बाप से बगावत",
       "speaker": "Encore ABJ",
       "translation": "A child shouldn't rebel against his father.",
       "explanation": "Asserting his 'father' status in the rap game relative to newcomers.",
@@ -300,6 +331,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Le salah, reh salafat",
+      "devanagari": "ले सलाह, रह सलाफ़त",
       "speaker": "Encore ABJ",
       "translation": "Take advice, stay respectful.",
       "explanation": "A warning to stay in one's lane and maintain decorum.",
@@ -313,6 +345,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Bigade tabiyat fatafat",
+      "devanagari": "बिगड़े तबीयत फटाफट",
       "speaker": "Encore ABJ",
       "translation": "The health/vibe deteriorates quickly.",
       "explanation": "Implying that things turn ugly fast when he gets serious.",
@@ -320,6 +353,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Jo maare taane patapat",
+      "devanagari": "जो मारे ताने पटापट",
       "speaker": "Encore ABJ",
       "translation": "Those who throw taunts rapidly.",
       "explanation": "Referring to critics or rappers who take shots at them.",
@@ -327,6 +361,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Mehnat ke baadal labalab",
+      "devanagari": "मेहनत के बादल लबालब",
       "speaker": "Encore ABJ",
       "translation": "Clouds of hard work are overflowing.",
       "explanation": "Metaphor for the immense effort they've put in, ready to 'rain' rewards.",
@@ -340,6 +375,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Paiso ki barish chapachap",
+      "devanagari": "पैसो की बारिश छपाछप",
       "speaker": "Encore ABJ",
       "translation": "The rain of money is splashing.",
       "explanation": "Visualizing the financial success resulting from their hard work.",
@@ -347,6 +383,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Nahi hai koi humse bada satya",
+      "devanagari": "नहीं है कोई हमसे बड़ा सत्य",
       "speaker": "Encore ABJ",
       "translation": "There is no bigger truth than us.",
       "explanation": "Asserting that Seedhe Maut is the most authentic thing in the scene.",
@@ -360,6 +397,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Naa hai koi tujhse bada fattu",
+      "devanagari": "ना है कोई तुझसे बड़ा फट्टू",
       "speaker": "Encore ABJ",
       "translation": "And there's no bigger coward than you.",
       "explanation": "Direct insult to the opposition.",
@@ -373,6 +411,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Tu ghoom lekin baat ko ghuma aur mai aur calm top 2 bura maan, bhulna matt",
+      "devanagari": "तू घूम लेकिन बात को घुमा और मैं और Calm top 2 बुरा मान, भूलना मत्त",
       "speaker": "Encore ABJ",
       "translation": "You can wander, but don't twist the facts; Calm and I are Top 2, feel bad if you want, but don't forget it.",
       "explanation": "Reiterating their dominance as the best duo/rappers in the country.",
@@ -380,6 +419,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur khata",
+      "devanagari": "एक और खाता",
       "speaker": "Chorus",
       "translation": "One more account.",
       "explanation": "Refers to opening another bank account or adding to his wealth.",
@@ -387,6 +427,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur chahiye chahiye",
+      "devanagari": "एक और चाहिए चाहिए",
       "speaker": "Chorus",
       "translation": "I want one more, I want it.",
       "explanation": "Highlighting the 'insatiable hunger' theme of the song.",
@@ -394,6 +435,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur khata",
+      "devanagari": "एक और खाता",
       "speaker": "Chorus",
       "translation": "One more account.",
       "explanation": "Repetition for emphasis on financial accumulation.",
@@ -401,6 +443,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur wajah",
+      "devanagari": "एक और वजह",
       "speaker": "Chorus",
       "translation": "One more reason.",
       "explanation": "A reason to celebrate, to work, or to win.",
@@ -408,6 +451,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek Aur Aur",
+      "devanagari": "एक और और",
       "speaker": "Chorus",
       "translation": "One more, and more.",
       "explanation": "Building the momentum of greed/ambition.",
@@ -415,6 +459,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur chacha",
+      "devanagari": "एक और चाचा",
       "speaker": "Chorus",
       "translation": "One more 'Uncle'.",
       "explanation": "Likely referring to 'big players' or older figures in the industry they are surpassing.",
@@ -422,6 +467,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur chahiye jeb aur khata",
+      "devanagari": "एक और चाहिए जेब और खाता",
       "speaker": "Chorus",
       "translation": "I want one more pocket and account.",
       "explanation": "More space to hold his growing wealth.",
@@ -429,6 +475,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur wajah",
+      "devanagari": "एक और वजह",
       "speaker": "Chorus",
       "translation": "One more reason.",
       "explanation": "Searching for more motivation.",
@@ -436,6 +483,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur chahiye",
+      "devanagari": "एक और चाहिए",
       "speaker": "Chorus",
       "translation": "I want one more.",
       "explanation": "The core mantra of the song.",
@@ -443,6 +491,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur",
+      "devanagari": "एक और",
       "speaker": "Calm & Encore ABJ",
       "translation": "One more.",
       "explanation": "Joint vocal for impact.",
@@ -450,6 +499,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Mujhe ghar chahiye ek aur",
+      "devanagari": "मुझे घर चाहिए एक और",
       "speaker": "Calm & Encore ABJ",
       "translation": "I want one more house.",
       "explanation": "Manifesting real estate growth.",
@@ -457,6 +507,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Mast deal chahiye ek aur",
+      "devanagari": "मस्त deal चाहिए एक और",
       "speaker": "Calm & Encore ABJ",
       "translation": "I want one more great deal.",
       "explanation": "Referring to brand deals or business contracts.",
@@ -464,6 +515,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Hain jootey padhe 20 chahiye ek aur",
+      "devanagari": "हैं जूते पड़े 20 चाहिए एक और",
       "speaker": "Calm & Encore ABJ",
       "translation": "I have 20 pairs of shoes, but I want one more.",
       "explanation": "A classic sneakerhead flex.",
@@ -471,6 +523,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Bhooka hu plate chaiye ek aur",
+      "devanagari": "भूका हूँ plate चाहिए एक और",
       "speaker": "Calm & Encore ABJ",
       "translation": "I'm hungry, I want one more plate.",
       "explanation": "Metaphor for hunger for success.",
@@ -478,6 +531,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Pet bhara, pet chaiye ek aur",
+      "devanagari": "पेट भरा, पेट चाहिए एक और",
       "speaker": "Calm & Encore ABJ",
       "translation": "Stomach is full, but I want one more stomach.",
       "explanation": "Hyperbole representing endless greed for achievement.",
@@ -485,6 +539,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Vo puchte hai “jeetega kitna? “",
+      "devanagari": "वो पूछते है “जीतेगा कितना? “",
       "speaker": "Calm & Encore ABJ",
       "translation": "They ask, 'How much will you win?'",
       "explanation": "The industry's curiosity about their peak.",
@@ -492,6 +547,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Bolta hu...",
+      "devanagari": "बोलता हूँ...",
       "speaker": "Calm & Encore ABJ",
       "translation": "I say...",
       "explanation": "Leading into the answer.",
@@ -499,6 +555,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Chahiye mujhe moti aur",
+      "devanagari": "चाहिए मुझे मोटी और",
       "speaker": "Calm",
       "translation": "I want it even thicker/more.",
       "explanation": "Could refer to money stacks or influence.",
@@ -506,6 +563,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Chadi choti aur",
+      "devanagari": "चढ़ी छोटी और",
       "speaker": "Calm",
       "translation": "Climbing higher peaks.",
       "explanation": "Referring to the top of the charts or industry mountain.",
@@ -513,6 +571,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Aur agli chain uthuange jo hogi wo moti aur",
+      "devanagari": "और अगली chain उठाएँगे जो होगी वो मोटी और",
       "speaker": "Calm",
       "translation": "And the next chain I buy will be even thicker.",
       "explanation": "Flexing jewelry as a marker of rising wealth.",
@@ -520,6 +579,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Yaha kari jyoti aur",
+      "devanagari": "यहाँ करी ज्योति और",
       "speaker": "Calm",
       "translation": "I spread the light/fire here.",
       "explanation": "Bringing energy or 'enlightenment' to the scene.",
@@ -527,6 +587,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ye cologne dior",
+      "devanagari": "ये cologne Dior",
       "speaker": "Calm",
       "translation": "This cologne is Dior.",
       "explanation": "A flex on luxury lifestyle choices.",
@@ -540,6 +601,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Tha Peg wo bada lekin Jager dali thodi aur",
+      "devanagari": "था peg वो बड़ा लेकिन Jager डाली थोड़ी और",
       "speaker": "Calm",
       "translation": "The peg was large, but I added a bit more Jager.",
       "explanation": "Referencing Jägermeister; symbolic of wanting more even when already high.",
@@ -559,6 +621,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Nahi chahiye dhoke aur",
+      "devanagari": "नहीं चाहिए धोखे और",
       "speaker": "Calm",
       "translation": "I don't want any more betrayals.",
       "explanation": "A rare moment of vulnerability regarding fake people.",
@@ -566,6 +629,7 @@ export const natkhat: Song = {
     },
     {
       "original": "To chalein dough ki aur",
+      "devanagari": "तो चलें dough की और",
       "speaker": "Calm",
       "translation": "So let's move toward the 'dough' (money).",
       "explanation": "Wordplay on 'dough' as slang for money.",
@@ -579,6 +643,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Poora mahina bhara lekin upar chahiye 2 gig aur",
+      "devanagari": "पूरा महीना भरा लेकिन ऊपर चाहिए 2 gig और",
       "speaker": "Calm",
       "translation": "The whole month is booked, but I want 2 more gigs.",
       "explanation": "Demonstrating their hectic and profitable touring schedule.",
@@ -586,6 +651,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ye kare notice aur",
+      "devanagari": "ये करे notice और",
       "speaker": "Calm",
       "translation": "They notice me more.",
       "explanation": "Growing public attention.",
@@ -593,6 +659,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Choda showbiz aur",
+      "devanagari": "छोड़ा showbiz और",
       "speaker": "Calm",
       "translation": "I left the showbiz vibe.",
       "explanation": "Possibly rejecting the superficial 'fake' side of entertainment for real rap.",
@@ -600,6 +667,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Aur ab ni bache zyada kutte jo yaha bhoke aur",
+      "devanagari": "और अब नी बचे ज़्यादा कुत्ते जो यहाँ भोके और",
       "speaker": "Calm",
       "translation": "And now there aren't many dogs left to bark here.",
       "explanation": "Silencing the competition/critics.",
@@ -607,6 +675,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Encore khaaja",
+      "devanagari": "Encore खाजा",
       "speaker": "Calm",
       "translation": "Encore, eat them up.",
       "explanation": "Calm passing the metaphorical mic back to Encore.",
@@ -614,6 +683,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ha bol tera kon hai favourite",
+      "devanagari": "हाँ बोल तेरा कोन है favourite",
       "speaker": "Encore ABJ",
       "translation": "Yeah, tell me who is your favorite?",
       "explanation": "A rhetorical question challenging the listener's preferences.",
@@ -621,6 +691,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Lunnd pe favorite",
+      "devanagari": "लंड पे favourite",
       "speaker": "Encore ABJ",
       "translation": "My 'favorite' is on my d***.",
       "explanation": "A vulgar way of saying he doesn't care about being anyone's favorite or about others' rankings.",
@@ -628,6 +699,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Bars likhu phone pe, use bolte jail break!",
+      "devanagari": "Bars लिखू phone पे, उसे बोलते jail break!",
       "speaker": "Encore ABJ",
       "translation": "I write bars on my phone; they call that a jailbreak!",
       "explanation": "High-level wordplay: 'Bars' (jail) and writing them on a phone (iPhone jailbreaking).",
@@ -641,6 +713,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Dhaapna mushkil baap ko",
+      "devanagari": "ढापना मुश्किल बाप को",
       "speaker": "Encore ABJ",
       "translation": "It's hard to copy the father.",
       "explanation": "Asserting that his style is original and impossible to imitate.",
@@ -654,6 +727,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ni style ye sale pe",
+      "devanagari": "नी style ये sale पे",
       "speaker": "Encore ABJ",
       "translation": "This style isn't on sale.",
       "explanation": "You can't just buy or acquire his unique flow/skill.",
@@ -668,6 +742,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Teri beat aur flow jaise paani aur tel",
+      "devanagari": "तेरी beat और flow जैसे पानी और तेल",
       "speaker": "Encore ABJ",
       "translation": "Your beat and flow are like water and oil.",
       "explanation": "Simile meaning the opponent's rap doesn't match the music (lack of rhythm).",
@@ -675,6 +750,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Baayein haath ka khel",
+      "devanagari": "बाएँ हाथ का खेल",
       "speaker": "Encore ABJ",
       "translation": "It's a piece of cake (child's play).",
       "explanation": "Asserting that rapping at this level is easy for him.",
@@ -689,6 +765,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Araam se pelte",
+      "devanagari": "आराम से पेलते",
       "speaker": "Encore ABJ",
       "translation": "I destroy them with ease.",
       "explanation": "Effortless dominance.",
@@ -696,6 +773,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Haath ki feel le",
+      "devanagari": "हाथ की feel ले",
       "speaker": "Encore ABJ",
       "translation": "Feel the touch of my hand.",
       "explanation": "Could refer to the 'weight' of his writing or a literal slap to reality.",
@@ -703,6 +781,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Likhu chattan pe keel se",
+      "devanagari": "लिखू चट्टान पे कील से",
       "speaker": "Encore ABJ",
       "translation": "I write on a rock with a nail.",
       "explanation": "Metaphor for his words being permanent and carved in stone.",
@@ -710,6 +789,7 @@ export const natkhat: Song = {
     },
     {
       "original": "To ye shabd pathar ki lakeere",
+      "devanagari": "तो ये शब्द पत्थर की लकीरे",
       "speaker": "Encore ABJ",
       "translation": "So these words are set in stone.",
       "explanation": "Continuing the metaphor; his lyrics are undeniable truths.",
@@ -717,6 +797,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Du na tujhe fuck bhi free me",
+      "devanagari": "दू ना तुझे fuck भी free में",
       "speaker": "Encore ABJ",
       "translation": "I wouldn't even give you a 'fuck' for free.",
       "explanation": "He values his time and energy too much to even acknowledge haters without profit.",
@@ -724,6 +805,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Daru bakra eid se",
+      "devanagari": "डरू बकरा eid से",
       "speaker": "Encore ABJ",
       "translation": "I'm as scared as a goat on Bakra Eid.",
       "explanation": "Sarcasm: He's the one doing the 'slaughtering' in the rap game.",
@@ -737,6 +819,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Tere chakra weak hai",
+      "devanagari": "तेरे चक्र weak है",
       "speaker": "Encore ABJ",
       "translation": "Your chakras are weak.",
       "explanation": "Spiritual jab, implying the opponent lacks energy and balance.",
@@ -744,6 +827,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Mere hatero ko soonghu 15ft se",
+      "devanagari": "मेरे haters को सूँघू 15ft से",
       "speaker": "Encore ABJ",
       "translation": "I can smell my haters from 15 feet away.",
       "explanation": "Heightened intuition regarding fake people.",
@@ -751,6 +835,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Fir door se phenk ke maaru agla geet",
+      "devanagari": "फिर दूर से फेंक के मारू अगला गीत",
       "speaker": "Encore ABJ",
       "translation": "Then I throw my next song at them from a distance.",
       "explanation": "His songs are the weapons he uses to silence critics.",
@@ -758,6 +843,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Mere haath me eenth aur aim tere teeth pe",
+      "devanagari": "मेरे हाथ में ईंट और aim तेरे teeth पे",
       "speaker": "Encore ABJ",
       "translation": "I have a brick in my hand and my aim is at your teeth.",
       "explanation": "Aggressive imagery representing a direct hit to the opponent's mouthpiece.",
@@ -765,6 +851,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Daale aag ye ghee me par mai aag hu ghee me",
+      "devanagari": "डाले आग ये घी में पर मैं आग हूँ घी में",
       "speaker": "Encore ABJ",
       "translation": "They add ghee to the fire, but I am the fire in the ghee.",
       "explanation": "Wordplay on the idiom 'Aag mein ghee daalna'; he is the source of the intensity.",
@@ -772,6 +859,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Fasad ki jadd hu teri family tree pe",
+      "devanagari": "फ़साद की जड़ हूँ तेरी family tree पे",
       "speaker": "Encore ABJ",
       "translation": "I'm the root of the conflict in your family tree.",
       "explanation": "Hyperbole about how his existence/success bothers his rivals and their lineage.",
@@ -779,6 +867,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Bol hai jo ji mein",
+      "devanagari": "बोल है जो जी में",
       "speaker": "Encore ABJ",
       "translation": "Speak what's in your heart.",
       "explanation": "Challenging opponents to be honest.",
@@ -786,6 +875,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Agar dumm hai G me",
+      "devanagari": "अगर दम है G में",
       "speaker": "Encore ABJ",
       "translation": "If you have the guts (G).",
       "explanation": "'G' stands for 'G****' or 'Guts'.",
@@ -793,6 +883,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Mujhe sune shakal aisi ki chabali neem hai",
+      "devanagari": "मुझे सुने शकल ऐसी कि चबाली नीम है",
       "speaker": "Encore ABJ",
       "translation": "They listen to me with a face like they've chewed neem.",
       "explanation": "Neem is bitter; his truth is hard for haters to swallow.",
@@ -806,6 +897,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ye niyahati feind hai, aanh",
+      "devanagari": "ये नियाहती fiend है, आँह",
       "speaker": "Encore ABJ",
       "translation": "This is an absolute fiend, aanh.",
       "explanation": "Calling himself or his style addictive and wild.",
@@ -813,6 +905,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur khata",
+      "devanagari": "एक और खाता",
       "speaker": "Chorus",
       "translation": "One more account.",
       "explanation": "Repetition of the hook.",
@@ -820,6 +913,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur chahiye chahiye",
+      "devanagari": "एक और चाहिए चाहिए",
       "speaker": "Chorus",
       "translation": "I want one more, I want it.",
       "explanation": "Repetition of the hook.",
@@ -827,6 +921,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur khata",
+      "devanagari": "एक और खाता",
       "speaker": "Chorus",
       "translation": "One more account.",
       "explanation": "Repetition of the hook.",
@@ -834,6 +929,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur wajah",
+      "devanagari": "एक और वजह",
       "speaker": "Chorus",
       "translation": "One more reason.",
       "explanation": "Repetition of the hook.",
@@ -841,6 +937,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur aur",
+      "devanagari": "एक और और",
       "speaker": "Chorus",
       "translation": "One more and more.",
       "explanation": "Repetition of the hook.",
@@ -848,6 +945,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur chacha",
+      "devanagari": "एक और चाचा",
       "speaker": "Chorus",
       "translation": "One more uncle.",
       "explanation": "Repetition of the hook.",
@@ -855,6 +953,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur chahiye jeb aur khata",
+      "devanagari": "एक और चाहिए जेब और खाता",
       "speaker": "Chorus",
       "translation": "I want one more pocket and account.",
       "explanation": "Repetition of the hook.",
@@ -862,6 +961,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur wajah",
+      "devanagari": "एक और वजह",
       "speaker": "Chorus",
       "translation": "One more reason.",
       "explanation": "Repetition of the hook.",
@@ -869,6 +969,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur chahiye",
+      "devanagari": "एक और चाहिए",
       "speaker": "Chorus",
       "translation": "I want one more.",
       "explanation": "Repetition of the hook.",
@@ -876,6 +977,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Ek aur",
+      "devanagari": "एक और",
       "speaker": "Calm & Encore ABJ",
       "translation": "One more.",
       "explanation": "Final emphasis on the greed/hunger theme.",
@@ -883,6 +985,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Mujhe ghar chahiye ek aur",
+      "devanagari": "मुझे घर चाहिए एक और",
       "speaker": "Calm & Encore ABJ",
       "translation": "I want one more house.",
       "explanation": "Ending with material aspirations.",
@@ -890,6 +993,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Mast deal chahiye ek aur",
+      "devanagari": "मस्त deal चाहिए एक और",
       "speaker": "Calm & Encore ABJ",
       "translation": "I want one more great deal.",
       "explanation": "Focusing on business growth.",
@@ -897,6 +1001,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Hain jootey padhe 20 chahiye ek aur",
+      "devanagari": "हैं जूते पड़े 20 चाहिए एक और",
       "speaker": "Calm & Encore ABJ",
       "translation": "I have 20 pairs of shoes, I want one more.",
       "explanation": "Sneaker culture reference.",
@@ -904,6 +1009,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Bhooka hu plate chaiye ek aur",
+      "devanagari": "भूका हूँ plate चाहिए एक और",
       "speaker": "Calm & Encore ABJ",
       "translation": "I'm hungry, I want one more plate.",
       "explanation": "The metaphor of hunger.",
@@ -911,6 +1017,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Pet bhara, pet chaiye ek aur",
+      "devanagari": "पेट भरा, पेट चाहिए एक और",
       "speaker": "Calm & Encore ABJ",
       "translation": "Stomach full, but I want one more stomach.",
       "explanation": "Final hyperbole on their limitless ambition.",
@@ -918,6 +1025,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Vo puchte hai “jeetega kitna? “",
+      "devanagari": "वो पूछते है “जीतेगा कितना? “",
       "speaker": "Calm & Encore ABJ",
       "translation": "They ask, 'How much will you win?'",
       "explanation": "Closing question from the industry/fans.",
@@ -925,6 +1033,7 @@ export const natkhat: Song = {
     },
     {
       "original": "Bolta hu...",
+      "devanagari": "बोलता हूँ...",
       "speaker": "Calm & Encore ABJ",
       "translation": "I say...",
       "explanation": "Fading out on the thought of endless success.",

@@ -10,6 +10,7 @@ export const hola_amigo: Song = {
   "lyrics": [
     {
       "original": "Hola amigo (Yeah, yeah), कैसे हो, ठीक हो?",
+      "romanized": "Hola amigo (Yeah, yeah), kaise ho, theek ho?",
       "speaker": "KR$NA",
       "translation": "Hello friend, how are you, you good?",
       "explanation": "KR$NA opens with a casual Spanish-Hindi greeting, setting the playful and confident tone of the track.",
@@ -23,6 +24,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "क्या चल रहा है bruv?",
+      "romanized": "kyaa chal rahaa hai bruv?",
       "speaker": "KR$NA",
       "translation": "What's going on, brother?",
       "explanation": "Casual check-in with a friend, using British slang.",
@@ -36,6 +38,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "मिलते है जल्द",
+      "romanized": "milate hai jald",
       "speaker": "KR$NA",
       "translation": "Let's meet soon.",
       "explanation": "A simple, friendly sign-off continuing the casual greeting vibe of the intro.",
@@ -43,6 +46,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Tell me what's up? (हां)",
+      "romanized": "Tell me what's up? (haan)",
       "speaker": "KR$NA",
       "translation": "Tell me what's up? (Yeah)",
       "explanation": "Continuing the casual greeting, asking what's happening.",
@@ -50,6 +54,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Hola amigo (It's that dollar sign!)",
+      "romanized": "Hola amigo (It's that dollar sign!)",
       "speaker": "KR$NA",
       "translation": "Hello friend (It's that dollar sign!)",
       "explanation": "KR$NA announces himself with his signature tag. The 'dollar sign' refers to the '$' in KR$NA.",
@@ -63,6 +68,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "कैसे हो, ठीक हो? (Seedhe Maut)",
+      "romanized": "kaise ho, theek ho? (Seedhe Maut)",
       "speaker": "KR$NA",
       "translation": "How are you, you good? (Seedhe Maut)",
       "explanation": "KR$NA shouts out Seedhe Maut, acknowledging his collaborators on the track.",
@@ -70,6 +76,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "घर पे कैसे है सब?",
+      "romanized": "ghar pe kaise hai sab?",
       "speaker": "KR$NA",
       "translation": "How's everyone at home?",
       "explanation": "A warm, desi-style check-in asking about family — the kind of thing you'd say when calling a friend.",
@@ -77,6 +84,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Aunty को बोलना \"I'm sending my love\"",
+      "romanized": "Aunty ko bolanaa \"I'm sending my love\"",
       "speaker": "KR$NA",
       "translation": "Tell Aunty 'I'm sending my love.'",
       "explanation": "KR$NA sends love to the listener's mother, maintaining the playful, friendly intro tone while also being culturally Indian — 'Aunty' is the respectful way to address a friend's mother.",
@@ -90,6 +98,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "It's the return of the mack",
+      "romanized": "It's the return of the mack",
       "speaker": "KR$NA",
       "translation": "It's the return of the player.",
       "explanation": "KR$NA declares his comeback. A reference to Mark Morrison's 1996 hit 'Return of the Mack', signaling he's back and dominant.",
@@ -103,6 +112,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "अभी भी लिखूं तो करूं murder ये rap (Yeah)",
+      "romanized": "abhee bhee likhoon to karoon murder ye rap (Yeah)",
       "speaker": "KR$NA",
       "translation": "Even now when I write, I murder this rap.",
       "explanation": "KR$NA asserts that his pen game is still lethal — every time he writes, he kills it.",
@@ -116,6 +126,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "सुने तेरे word ही है cap",
+      "romanized": "sune tere word hee hai cap",
       "speaker": "KR$NA",
       "translation": "Heard that your words are all cap.",
       "explanation": "He's calling out a rival for lying — everything they say is fake.",
@@ -129,6 +140,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "मैं तो जानता नी तुझे, never heard of your rap (Na)",
+      "romanized": "main to jaanataa nee tujhe, never heard of your rap (Na)",
       "speaker": "KR$NA",
       "translation": "I don't even know you, never heard of your rap.",
       "explanation": "A dismissive bar — KR$NA says the rival is so irrelevant that he doesn't even know who they are.",
@@ -136,6 +148,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "सुना तेरा crowd भी ना रुके",
+      "romanized": "sunaa teraa crowd bhee naa ruke",
       "speaker": "KR$NA",
       "translation": "Heard your crowd doesn't even stay.",
       "explanation": "The rival's audience leaves during their performances — a harsh diss on their inability to hold a crowd.",
@@ -143,6 +156,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Fan भी अब गाने तेरे चाव से ना सुने",
+      "romanized": "Fan bhee ab gaane tere chaav se naa sune",
       "speaker": "KR$NA",
       "translation": "Even your fans don't listen to your songs with enthusiasm anymore.",
       "explanation": "Even the people who used to support the rival have lost interest in their music.",
@@ -156,6 +170,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Doubt है ना मुझे, तेरा दांव पे ना कुछ है",
+      "romanized": "Doubt hai naa mujhe, teraa daanv pe naa kuchh hai",
       "speaker": "KR$NA",
       "translation": "I have my doubts — you have nothing at stake.",
       "explanation": "KR$NA questions the rival's commitment. They have nothing on the line, no real skin in the game.",
@@ -169,6 +184,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "करे ये clown, देखो now, इनका mouth भी अब चुप है",
+      "romanized": "kare ye clown, dekho now, inakaa mouth bhee ab chup hai",
       "speaker": "KR$NA",
       "translation": "These clowns act up, but look now, their mouths are shut.",
       "explanation": "The rivals who used to talk big are now silent because KR$NA's dominance has left them with nothing to say.",
@@ -176,6 +192,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "करे out भी ना मुझे, यहां boundary ना कुछ है",
+      "romanized": "kare out bhee naa mujhe, yahaan boundary naa kuchh hai",
       "speaker": "KR$NA",
       "translation": "They can't get me out, there are no boundaries here.",
       "explanation": "A cricket metaphor — no one can bowl him out and there are no boundaries (limits) to what he can do. Double meaning: in cricket, 'out' means dismissed and 'boundary' is the edge of the field.",
@@ -189,6 +206,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "चाहिए भाव, खड़े पांव, थोड़ा clout चाहिए तुझे",
+      "romanized": "chaahie bhaav, khade paanv, thodaa clout chaahie tujhe",
       "speaker": "KR$NA",
       "translation": "You want attention, standing on your feet, you need some clout.",
       "explanation": "The rival is desperate for recognition and validation, standing around begging for attention.",
@@ -207,6 +225,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Better bow to the power, मेरा पांव भी ना झुके",
+      "romanized": "Better bow to the power, meraa paanv bhee naa jhuke",
       "speaker": "KR$NA",
       "translation": "Better bow to the power, my foot doesn't even bend.",
       "explanation": "KR$NA demands respect while asserting he bows to no one. His foot doesn't bend — he stands firm and unbowed.",
@@ -214,6 +233,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "इनका बाप बना now, बोलते बाऊ जी अब मुझे",
+      "romanized": "inakaa baap banaa now, bolate baaoo jee ab mujhe",
       "speaker": "KR$NA",
       "translation": "I'm their daddy now, they call me 'Baau ji.'",
       "explanation": "KR$NA claims paternal dominance over the competition — they respect him like a father figure.",
@@ -227,6 +247,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "दिल्ली के लोंडो की बुद्धि गरम (हां), दिल्ली के लौंडे हैं कुत्ती रकम (हां)",
+      "romanized": "dillee ke londo kee buddhi garam (haan), dillee ke launde hain kuttee rakam (haan)",
       "speaker": "KR$NA",
       "translation": "Delhi boys have hot tempers, Delhi boys are worth mad money.",
       "explanation": "KR$NA reps Delhi — the boys there are sharp-minded and aggressive, and they're making serious cash.",
@@ -245,6 +266,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "बातों में तेरे ना कुछ भी है दम",
+      "romanized": "baaton men tere naa kuchh bhee hai dam",
       "speaker": "KR$NA",
       "translation": "There's no substance in anything you say.",
       "explanation": "The rival talks a lot but none of it has any weight or meaning.",
@@ -252,6 +274,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "हाँ, खैंच के मारे तेरे गुद्दी पे हम",
+      "romanized": "haan, khainch ke maare tere guddee pe ham",
       "speaker": "KR$NA",
       "translation": "Yeah, we'll pull back and smack you on the back of your neck.",
       "explanation": "A physical threat — pulling back and hitting someone on the 'guddi' (back of the neck) is a classic Delhi street move.",
@@ -265,6 +288,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "दुखती है नब्ज़, फिर ना छुपती जलन",
+      "romanized": "dukhatee hai nabz, phir naa chhupatee jalan",
       "speaker": "KR$NA",
       "translation": "The pulse aches, then the jealousy can't be hidden.",
       "explanation": "The rivals are in pain from jealousy, and they can't conceal it anymore. 'Nabz' (pulse) suggests it's a deep, visceral envy.",
@@ -283,6 +307,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "तू चूत का गुलाम, तेरा फुद्दी धर्म (Huh)",
+      "romanized": "too choot kaa gulaam, teraa phuddee dharm (Huh)",
       "speaker": "KR$NA",
       "translation": "You're a slave to pussy, your religion is pussy.",
       "explanation": "A vulgar diss saying the rival is completely controlled by lust and has no real principles.",
@@ -296,6 +321,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "आए करने जंग, इनकी चुदगी कलम",
+      "romanized": "aae karane jang, inakee chudagee kalam",
       "speaker": "KR$NA",
       "translation": "They came to war, but their pen is fucked.",
       "explanation": "The rivals tried to battle but their writing ability is terrible.",
@@ -309,6 +335,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "ये तो खुद भी खत्म, करा शुद्धिकरण (Hoo)",
+      "romanized": "ye to khud bhee khatm, karaa shuddhikaran (Hoo)",
       "speaker": "KR$NA",
       "translation": "They're finished themselves, time for purification.",
       "explanation": "The rivals are already done, and KR$NA is performing a cleansing of the scene by removing them.",
@@ -322,6 +349,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "बाप के पैसे नी खाता",
+      "romanized": "baap ke paise nee khaataa",
       "speaker": "KR$NA",
       "translation": "I don't spend my father's money.",
       "explanation": "KR$NA is self-made — he doesn't rely on family wealth.",
@@ -329,6 +357,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "तो कैसा सवाल है, \"मैं कैसे कमाता?\"",
+      "romanized": "to kaisaa savaal hai, \"main kaise kamaataa?\"",
       "speaker": "KR$NA",
       "translation": "So what kind of question is 'How do I earn?'",
       "explanation": "He dismisses questions about how he makes money — he earns it himself through his craft.",
@@ -336,6 +365,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "मैं लाशे बिछाता, ये कहने मैं आता",
+      "romanized": "main laashe bichhaataa, ye kahane main aataa",
       "speaker": "KR$NA",
       "translation": "I lay down bodies, I come to say this.",
       "explanation": "He metaphorically 'kills' rivals with his bars and makes it known openly.",
@@ -349,6 +379,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Pull up with Neena मैं जैसे masaba (Like damn)",
+      "romanized": "Pull up with Neena main jaise masaba (Like damn)",
       "speaker": "KR$NA",
       "translation": "I pull up with Neena like Masaba.",
       "explanation": "Reference to Masaba Gupta, the famous Indian fashion designer who is Neena Gupta's daughter. KR$NA says he pulls up with Neena (an older, respected figure) just like Masaba does — implying he has strong connections and moves with veterans.",
@@ -362,6 +393,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Get set go, ये है green light gang",
+      "romanized": "Get set go, ye hai green light gang",
       "speaker": "KR$NA",
       "translation": "Get set go, this is the green light gang.",
       "explanation": "They have the green signal — no one can stop them. They move with full clearance.",
@@ -375,6 +407,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "करूं मैं whatever I feel like man",
+      "romanized": "karoon main whatever I feel like man",
       "speaker": "KR$NA",
       "translation": "I do whatever I feel like, man.",
       "explanation": "KR$NA lives on his own terms with no restrictions or obligations to anyone.",
@@ -382,6 +415,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "सड़ी इनकी सूरत, मिले तीन भाई",
+      "romanized": "sadee inakee soorat, mile teen bhaaee",
       "speaker": "KR$NA",
       "translation": "Their faces are rotten, but the three brothers have united.",
       "explanation": "He disses the rivals' appearance, then references the three artists on this track (KR$NA, Calm, and Encore ABJ) coming together.",
@@ -395,6 +429,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "करा सारा scene tight, इनको ना नींद आए चैन",
+      "romanized": "karaa saaraa scene tight, inako naa neend aae chain",
       "speaker": "KR$NA",
       "translation": "Made the whole scene tight, they can't sleep peacefully.",
       "explanation": "They've locked down the entire rap scene, and their dominance keeps rivals awake at night from jealousy.",
@@ -408,6 +443,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "मैने करे कांड, कितने काम, मेरा चले नाम",
+      "romanized": "maine kare kaand, kitane kaam, meraa chale naam",
       "speaker": "KR$NA",
       "translation": "I've done scandals, so much work, my name runs everywhere.",
       "explanation": "KR$NA has created controversies, done the work, and his reputation precedes him across the scene.",
@@ -421,6 +457,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "गिरेबान में भी गिरे bomb, लगे Vietnam",
+      "romanized": "girebaan men bhee gire bomb, lage Vietnam",
       "speaker": "KR$NA",
       "translation": "Bombs dropping in their collars too, it feels like Vietnam.",
       "explanation": "His bars are like bombs dropping — the devastation is compared to the Vietnam War, implying total destruction.",
@@ -439,6 +476,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "देरे जान, देरे बलिदान, वो भी सरेआम",
+      "romanized": "dere jaan, dere balidaan, vo bhee sareaam",
       "speaker": "KR$NA",
       "translation": "Giving lives, making sacrifices, all out in the open.",
       "explanation": "KR$NA and his crew are putting everything on the line publicly — their sacrifices for the craft are visible to everyone.",
@@ -452,6 +490,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "मैने करे harm, कत्लेआम, मैं ना परेशान (Damn)",
+      "romanized": "maine kare harm, katleaam, main naa pareshaan (Damn)",
       "speaker": "KR$NA",
       "translation": "I've done harm, committed massacres, and I'm not bothered.",
       "explanation": "KR$NA has caused lyrical carnage and remains unfazed — killing rivals on tracks is routine for him.",
@@ -465,6 +504,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Hola amigo, कैसे हो, ठीक हो?",
+      "romanized": "Hola amigo, kaise ho, theek ho?",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "Hello friend, how are you, you good?",
       "explanation": "The hook kicks in — a catchy, casual greeting that contrasts with the aggressive verses.",
@@ -472,6 +512,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "भाई बोहत ही set",
+      "romanized": "bhaaee bohat hee set",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "Brother, everything's very set.",
       "explanation": "Everything is sorted, life is good — they're in a great place.",
@@ -485,6 +526,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "यहां बंदिया होरी बोहत ही wet है",
+      "romanized": "yahaan bandiyaa horee bohat hee wet hai",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "The girls here are getting very wet.",
       "explanation": "A braggadocious and sexually suggestive line about their effect on women.",
@@ -498,6 +540,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Tell them I'm just not impressed",
+      "romanized": "Tell them I'm just not impressed",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "Tell them I'm just not impressed.",
       "explanation": "Despite everything, they remain unimpressed by the competition — no one is on their level.",
@@ -505,6 +548,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Hola amigo (Yes sir), कैसे हो, ठीक हो?",
+      "romanized": "Hola amigo (Yes sir), kaise ho, theek ho?",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "Hello friend (Yes sir), how are you, you good?",
       "explanation": "Repetition of the hook with added confidence — 'Yes sir' as an affirmation.",
@@ -512,6 +556,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "भाई बोहत ही sexy",
+      "romanized": "bhaaee bohat hee sexy",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "Brother, it's all very sexy.",
       "explanation": "Things are looking great and stylish — life is good.",
@@ -519,6 +564,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "इस peg में गिरगी बोहत ही Pepsi है",
+      "romanized": "is peg men giragee bohat hee Pepsi hai",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "A lot of Pepsi is going to fall into this peg.",
       "explanation": "Mixing Pepsi with alcohol (a peg of whiskey/rum) — a very common Indian drinking practice. They're having a good time.",
@@ -532,6 +578,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "नए लौंडो की है बोहत किलस्ती",
+      "romanized": "nae laundo kee hai bohat kilastee",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "The new guys are very irritating.",
       "explanation": "New rappers coming up are annoying and unbearable — they lack the substance of the OGs.",
@@ -545,6 +592,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "इन नल्लों को छोड़ो देना hype और",
+      "romanized": "in nallon ko chhodo denaa hype aur",
       "speaker": "Calm",
       "translation": "Stop giving these losers any more hype.",
       "explanation": "Calm tells people to stop hyping up worthless rappers who don't deserve the attention.",
@@ -558,6 +606,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "ये फंस गए तो लौंडे बने try ball",
+      "romanized": "ye phans gae to launde bane try ball",
       "speaker": "Calm",
       "translation": "When they got stuck, these guys turned into trial balls.",
       "explanation": "A cricket metaphor — when things got tough, these rappers became trial balls (practice deliveries that don't count). They're irrelevant when it matters.",
@@ -571,6 +620,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "बल्लो से मारे तेरे भाई बोहत",
+      "romanized": "ballo se maare tere bhaaee bohat",
       "speaker": "Calm",
       "translation": "Your brothers hit hard with bats.",
       "explanation": "Continuing the cricket imagery — Calm and the crew hit like batsmen, dominating with force.",
@@ -584,6 +634,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "लोडू मिला तो बोलेगा \"भैया, my fault!\"",
+      "romanized": "lodoo milaa to bolegaa \"bhaiyaa, my fault!\"",
       "speaker": "Calm",
       "translation": "If the idiot meets me, he'll say 'Brother, my fault!'",
       "explanation": "The rival talks big online but when confronted face-to-face, he'll apologize and back down immediately.",
@@ -597,6 +648,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "उसकी बंदी भी थकी, नी करे vibe और (Vibe और)",
+      "romanized": "usakee bandee bhee thakee, nee kare vibe aur (Vibe aur)",
       "speaker": "Calm",
       "translation": "Even his girl is tired, she won't vibe with him anymore.",
       "explanation": "The rival's girlfriend is bored of him and has stopped vibing with him.",
@@ -604,6 +656,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "She in my DM, वो करे type और (Type और)",
+      "romanized": "She in my DM, vo kare type aur (Type aur)",
       "speaker": "Calm",
       "translation": "She's in my DMs, she keeps typing more.",
       "explanation": "The rival's girl is sliding into Calm's DMs — she's moved on and is interested in him instead.",
@@ -617,6 +670,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Dollar की BM में चले drive by",
+      "romanized": "Dollar kee BM men chale drive by",
       "speaker": "Calm",
       "translation": "Doing a drive-by in Dollar's BM.",
       "explanation": "Rolling in KR$NA's BMW doing a drive-by — a flex on both the luxury car and the aggressive intent.",
@@ -640,6 +694,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "घर है what I fight for",
+      "romanized": "ghar hai what I fight for",
       "speaker": "Calm",
       "translation": "Home is what I fight for.",
       "explanation": "At the end of the day, Calm's motivation is his family and home — grounding the flex in real purpose.",
@@ -647,6 +702,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "I have been on the mic all day",
+      "romanized": "I have been on the mic all day",
       "speaker": "Calm",
       "translation": "I've been on the mic all day.",
       "explanation": "Calm has been putting in work in the studio nonstop — dedicated to the craft.",
@@ -654,6 +710,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "जब देखे, करू नशे, ठहरूं नी, uh",
+      "romanized": "jab dekhe, karoo nashe, thaharoon nee, uh",
       "speaker": "Calm",
       "translation": "Whenever you see me, I'm getting high, I don't stop.",
       "explanation": "He's always on the move, always partying or working — never standing still.",
@@ -667,6 +724,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "तो बंदी बोले ले-ले therapy, uh",
+      "romanized": "to bandee bole le-le therapy, uh",
       "speaker": "Calm",
       "translation": "So the girl tells me to take therapy.",
       "explanation": "His partner sees his restless lifestyle and substance use and suggests he needs therapy — a moment of vulnerability amid the flex.",
@@ -674,6 +732,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "तू काफी है, या बोला मेरा जी (मेरा जी)",
+      "romanized": "too kaaphee hai, yaa bolaa meraa jee (meraa jee)",
       "speaker": "Calm",
       "translation": "You're enough for me, or so my heart said.",
       "explanation": "A brief tender moment — his heart tells him the girl is enough, but the uncertainty in 'ya' (or) suggests he's not fully convinced.",
@@ -681,6 +740,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "काफी है, यहां मैं और मेरे G (मेरे G)",
+      "romanized": "kaaphee hai, yahaan main aur mere G (mere G)",
       "speaker": "Calm",
       "translation": "It's enough, just me and my G's here.",
       "explanation": "He snaps back to reality — all he needs is himself and his close friends.",
@@ -694,6 +754,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "नी रहता जहां पे pool है गहरा नी (गहरा नी)",
+      "romanized": "nee rahataa jahaan pe pool hai gaharaa nee (gaharaa nee)",
       "speaker": "Calm",
       "translation": "I don't stay where the pool isn't deep.",
       "explanation": "He doesn't hang around shallow situations or people — he operates at a higher level.",
@@ -707,6 +768,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "हु तैरा जहां पे कोई भी तैरा नही (तैरा नी)",
+      "romanized": "hu tairaa jahaan pe koee bhee tairaa nahee (tairaa nee)",
       "speaker": "Calm",
       "translation": "I swim where nobody else can swim.",
       "explanation": "He thrives in waters too deep for others — he excels where everyone else would drown.",
@@ -720,6 +782,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "कुछ लौंडे मेरे भयंकर है, scan करे QR से पहले जैसे L. M. N. O. P. (Got damn)",
+      "romanized": "kuchh launde mere bhayankar hai, scan kare QR se pahale jaise L. M. N. O. P. (Got damn)",
       "speaker": "Calm",
       "translation": "Some of my boys are fierce, they scan you before QR like L-M-N-O-P.",
       "explanation": "His crew is dangerous — they read (scan) you before you can even start. The wordplay: in the alphabet, L-M-N-O-P comes before Q-R, so they scan you before 'QR' just like those letters come before Q and R in the alphabet.",
@@ -738,6 +801,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "आगे मेरे बता है ये कीड़े कौन? (कीड़े कौन)",
+      "romanized": "aage mere bataa hai ye keede kaun? (keede kaun)",
       "speaker": "Calm",
       "translation": "Tell me who these insects are in front of me?",
       "explanation": "Calm dismisses his rivals as insects — so small and insignificant he doesn't even know who they are.",
@@ -751,6 +815,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Hola लेकिन Amigo तू weak है बोहत (Weak है बोहत)",
+      "romanized": "Hola lekin Amigo too weak hai bohat (Weak hai bohat)",
       "speaker": "Calm",
       "translation": "Hello, but friend you're very weak.",
       "explanation": "He greets them politely but immediately tells them they're far too weak — the contrast between the friendly 'Hola' and the diss is intentional.",
@@ -758,6 +823,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "आज देखूं मैं भी बचे कौन है दानवों की दावत और यहां खाना निकले Dollar sign और Seedhe Maut (Huh)",
+      "romanized": "aaj dekhoon main bhee bache kaun hai daanavon kee daavat aur yahaan khaanaa nikale Dollar sign aur Seedhe Maut (Huh)",
       "speaker": "Calm",
       "translation": "Let me see who survives today at the demons' feast — and here the food is served by Dollar Sign and Seedhe Maut.",
       "explanation": "A feast of demons where KR$NA and Seedhe Maut are the ones serving destruction. No one survives their lyrical onslaught.",
@@ -776,6 +842,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "ये बावली बुच क्यों शांत है पूछ",
+      "romanized": "ye baavalee buch kyon shaant hai poochh",
       "speaker": "Calm",
       "translation": "Ask this crazy chick why she's gone quiet.",
       "explanation": "Someone who was talking before has suddenly gone silent — Calm is calling them out.",
@@ -789,6 +856,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "है जीत मेरी उबालती खून, I got the magic juice",
+      "romanized": "hai jeet meree ubaalatee khoon, I got the magic juice",
       "speaker": "Calm",
       "translation": "My victory boils their blood, I got the magic juice.",
       "explanation": "His success enrages his haters, and he has the secret formula ('magic juice') that makes him unstoppable.",
@@ -802,6 +870,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "अब मेरे घर के लड़के बोले \"That's the dude\"",
+      "romanized": "ab mere ghar ke ladake bole \"That's the dude\"",
       "speaker": "Calm",
       "translation": "Now the boys from my neighborhood say 'That's the dude.'",
       "explanation": "He's earned recognition from his own community — the people who know him best acknowledge his success.",
@@ -809,6 +878,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "I'm on my \"आलती पालती मारके भरदू भूत\"",
+      "romanized": "I'm on my \"aalatee paalatee maarake bharadoo bhoot\"",
       "speaker": "Calm",
       "translation": "I'm on my 'sit cross-legged and summon ghosts' vibe.",
       "explanation": "He's so powerful he can sit in meditation (cross-legged) and invoke spirits — a reference to tantric practice. His calm demeanor hides supernatural power.",
@@ -827,6 +897,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "तीन भाई तेरा crew into two",
+      "romanized": "teen bhaaee teraa crew into two",
       "speaker": "Calm",
       "translation": "Three brothers split your crew into two.",
       "explanation": "The three collaborators (KR$NA, Calm, Encore) are so dominant they can break the rival's entire crew apart.",
@@ -840,6 +911,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "परंतु तू कलम से दूर है, कल से स्कूल आ \"Master, master, master\" बोलियो पूरे time",
+      "romanized": "parantu too kalam se door hai, kal se skool aa \"Master, master, master\" boliyo poore time",
       "speaker": "Calm",
       "translation": "But you're far from the pen, come to school tomorrow and say 'Master, master, master' the whole time.",
       "explanation": "The rival's writing is so bad they need to go back to school. Calm positions himself as the teacher ('Master') — the rival should address him respectfully like a student.",
@@ -853,6 +925,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "औकात दिखा दूं, पाठ पढ़ा हूं bitch boy get out the way",
+      "romanized": "aukaat dikhaa doon, paath padhaa hoon bitch boy get out the way",
       "speaker": "Calm",
       "translation": "Let me show you your place, I've taught the lesson — bitch boy, get out the way.",
       "explanation": "Calm has already schooled them and now tells them to step aside. 'Aukaat dikha doon' is a classic North Indian threat meaning 'I'll show you where you stand.'",
@@ -866,6 +939,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "उसे भी पता हम हैगे नी same",
+      "romanized": "use bhee pataa ham haige nee same",
       "speaker": "Calm",
       "translation": "Even he knows we're not the same.",
       "explanation": "Even the rival acknowledges that Calm and crew operate on a completely different level.",
@@ -873,6 +947,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "हो गए अब काफी साल, since I have been running in circles around you",
+      "romanized": "ho gae ab kaaphee saal, since I have been running in circles around you",
       "speaker": "Calm",
       "translation": "It's been enough years now, since I've been running circles around you.",
       "explanation": "Calm has been outclassing the competition for years — this isn't new, he's been lapping them for a long time.",
@@ -880,6 +955,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "ये है ना कोई race, ना पालो ये वहम",
+      "romanized": "ye hai naa koee race, naa paalo ye vaham",
       "speaker": "Calm",
       "translation": "This is no race, don't harbor this delusion.",
       "explanation": "There's no competition — it's not even close enough to be called a race. Rivals who think they're competing are deluded.",
@@ -893,6 +969,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Hola amigo (Yeah), कैसे हो, ठीक हो?",
+      "romanized": "Hola amigo (Yeah), kaise ho, theek ho?",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "Hello friend (Yeah), how are you, you good?",
       "explanation": "Hook repeats after Calm's verse, resetting the vibe.",
@@ -900,6 +977,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "भाई बोहत ही set",
+      "romanized": "bhaaee bohat hee set",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "Brother, everything's very set.",
       "explanation": "Everything is sorted — life is good.",
@@ -907,6 +985,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "यहां बंदिया होरी बोहत ही wet है",
+      "romanized": "yahaan bandiyaa horee bohat hee wet hai",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "The girls here are getting very wet.",
       "explanation": "Repeating the hook's braggadocious claim about their appeal to women.",
@@ -914,6 +993,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Tell them I'm just not impressed",
+      "romanized": "Tell them I'm just not impressed",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "Tell them I'm just not impressed.",
       "explanation": "Reaffirming that the competition doesn't measure up.",
@@ -921,6 +1001,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Hola amigo (Yes sir), कैसे हो, ठीक हो?",
+      "romanized": "Hola amigo (Yes sir), kaise ho, theek ho?",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "Hello friend (Yes sir), how are you, you good?",
       "explanation": "Hook continues with assured energy.",
@@ -928,6 +1009,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "भाई बोहत ही sexy",
+      "romanized": "bhaaee bohat hee sexy",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "Brother, it's all very sexy.",
       "explanation": "Everything's looking great — living the good life.",
@@ -935,6 +1017,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "इस peg में गिरगी बोहत ही Pepsi है",
+      "romanized": "is peg men giragee bohat hee Pepsi hai",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "A lot of Pepsi is going to fall into this peg.",
       "explanation": "Mixing drinks and having a good time — classic Indian drinking culture reference.",
@@ -942,6 +1025,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "नए लौंडो की है बोहत किलस्ती",
+      "romanized": "nae laundo kee hai bohat kilastee",
       "speaker": "KR$NA & Encore ABJ",
       "translation": "The new guys are very irritating.",
       "explanation": "New rappers on the scene are annoying and lack substance.",
@@ -949,6 +1033,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "लेरे अपने मौत से मस्ती",
+      "romanized": "lere apane maut se mastee",
       "speaker": "Encore ABJ",
       "translation": "Having fun with their own death.",
       "explanation": "Encore warns that rivals are playing with fire — messing with Seedhe Maut ('Direct Death') is messing with death itself. A clever play on the group name.",
@@ -962,6 +1047,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Shade डालके हमारे पे, तू कौन है खस्सी?",
+      "romanized": "Shade daalake hamaare pe, too kaun hai khassee?",
       "speaker": "Encore ABJ",
       "translation": "Throwing shade at us, who are you, eunuch?",
       "explanation": "Encore dismisses anyone who tries to disrespect them — calling them out as weak and emasculated.",
@@ -980,6 +1066,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "करे hate तो मैं लेता नी हूं opps से मस्ती (Woo)",
+      "romanized": "kare hate to main letaa nee hoon opps se mastee (Woo)",
       "speaker": "Encore ABJ",
       "translation": "If they hate, I just have fun with the opps.",
       "explanation": "When people hate on him, Encore turns it into entertainment — he enjoys clowning on his opponents.",
@@ -993,6 +1080,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "पूरे Khoda से Ghadoli तेरी खोद दे चमड़ी (Shit)",
+      "romanized": "poore Khoda se Ghadoli teree khod de chamadee (Shit)",
       "speaker": "Encore ABJ",
       "translation": "From Khoda to Ghadoli, I'll dig out your skin.",
       "explanation": "A violent threat referencing actual localities near their area. He'll destroy the rival across the entire territory.",
@@ -1006,6 +1094,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Phase three की बकचोदिया है बातें घर की",
+      "romanized": "Phase three kee bakachodiyaa hai baaten ghar kee",
       "speaker": "Encore ABJ",
       "translation": "Phase three's nonsense is just household talk.",
       "explanation": "The drama from Phase 3 (a sector in Noida) is just idle gossip to him — nothing serious.",
@@ -1024,6 +1113,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "देखा मुझे तो यहां बंदियों की सांसे चढ़ गई",
+      "romanized": "dekhaa mujhe to yahaan bandiyon kee saanse chadh gaee",
       "speaker": "Encore ABJ",
       "translation": "When they saw me, the girls started breathing heavy.",
       "explanation": "Encore's presence makes women's breath quicken — he's that attractive and impactful.",
@@ -1037,6 +1127,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "टांग फिसल गई, बाप बोले बेटी बाहर निकल गई हाथ से",
+      "romanized": "taang phisal gaee, baap bole betee baahar nikal gaee haath se",
       "speaker": "Encore ABJ",
       "translation": "She slipped up, her father says 'My daughter has slipped out of my hands.'",
       "explanation": "A girl was so attracted to Encore that she 'slipped' — her father realizes he's lost control over her. A cheeky, street-level storytelling bar.",
@@ -1050,6 +1141,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "अब वो कर नी सकता कुछ भी रहने दे",
+      "romanized": "ab vo kar nee sakataa kuchh bhee rahane de",
       "speaker": "Encore ABJ",
       "translation": "Now he can't do anything about it, let it be.",
       "explanation": "The father is helpless — what's done is done. Encore dismisses the situation casually.",
@@ -1057,6 +1149,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "जाके बैठ ठेके के बाहर और",
+      "romanized": "jaake baith theke ke baahar aur",
       "speaker": "Encore ABJ",
       "translation": "Go sit outside the liquor shop and...",
       "explanation": "Telling the defeated rival/father to go sit outside a liquor store — a common sight in Delhi neighborhoods where men sit and drink away their sorrows.",
@@ -1070,6 +1163,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Peg पीके दे मारे stress सीधा दीवार पे",
+      "romanized": "Peg peeke de maare stress seedhaa deevaar pe",
       "speaker": "Encore ABJ",
       "translation": "Drink a peg and smash your stress straight into the wall.",
       "explanation": "Drink alcohol and take out your frustration by hitting the wall — a vivid image of Delhi street life where men deal with stress through drinking and aggression.",
@@ -1083,6 +1177,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Blessed हूं या बीमार? या दोनो?",
+      "romanized": "Blessed hoon yaa beemaar? yaa dono?",
       "speaker": "Encore ABJ",
       "translation": "Am I blessed or sick? Or both?",
       "explanation": "Encore questions his own nature — is his talent a blessing or an illness? A moment of self-awareness about his intensity.",
@@ -1090,6 +1185,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "तेरा तेज़ है मेरा slow mo",
+      "romanized": "teraa tez hai meraa slow mo",
       "speaker": "Encore ABJ",
       "translation": "Your fast is my slow-mo.",
       "explanation": "What others consider fast is still slow motion for Encore — he operates at a completely different speed.",
@@ -1097,6 +1193,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "लेरेे मेरा flow हैं आके बोले मुझे के \"No homo\"",
+      "romanized": "lere meraa flow hain aake bole mujhe ke \"No homo\"",
       "speaker": "Encore ABJ",
       "translation": "They take my flow and come tell me 'No homo.'",
       "explanation": "Other rappers copy his flow and then awkwardly say 'no homo' — implying they love his style so much it's almost like worship, and they're embarrassed about it.",
@@ -1104,6 +1201,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "जैसा समाज मैं उसी का आइना",
+      "romanized": "jaisaa samaaj main usee kaa aainaa",
       "speaker": "Encore ABJ",
       "translation": "I'm the mirror of the society I come from.",
       "explanation": "Encore reflects the reality of his environment — his music is a direct mirror of the streets and community he grew up in.",
@@ -1117,6 +1215,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "वो बंदा था brave, अब फट्टू है भाईसाहब",
+      "romanized": "vo bandaa thaa brave, ab phattoo hai bhaaeesaahab",
       "speaker": "Encore ABJ",
       "translation": "That guy was brave, now he's a coward, brother.",
       "explanation": "Someone who used to act tough has been exposed as a coward over time.",
@@ -1130,6 +1229,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "वो बंदी थी परी, अब बन गई है डायन और",
+      "romanized": "vo bandee thee paree, ab ban gaee hai daayan aur",
       "speaker": "Encore ABJ",
       "translation": "That girl was an angel, now she's become a witch, and...",
       "explanation": "People change — the girl who seemed innocent has shown her true, darker nature. A street observation about how people evolve.",
@@ -1143,6 +1243,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "ये गलियां है कीचड़ और लीचड़ का रायता",
+      "romanized": "ye galiyaan hai keechad aur leechad kaa raayataa",
       "speaker": "Encore ABJ",
       "translation": "These streets are a mess of mud and filth.",
       "explanation": "The streets they come from are rough and dirty — a raw depiction of the environment that shaped them.",
@@ -1161,6 +1262,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Married the game और वो नही जाती माइका",
+      "romanized": "Married the game aur vo nahee jaatee maaikaa",
       "speaker": "Encore ABJ",
       "translation": "Married the game, and she doesn't go back to her parents' home.",
       "explanation": "He's committed to hip-hop like a marriage — and like a traditional Indian wife, the game doesn't go back to 'maika' (mother's home). A brilliant cultural metaphor for permanent commitment.",
@@ -1174,6 +1276,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "ये सड़के है गरम, और बंदे है hyped up",
+      "romanized": "ye sadake hai garam, aur bande hai hyped up",
       "speaker": "Encore ABJ",
       "translation": "These streets are hot, and the boys are hyped up.",
       "explanation": "The energy on the streets is intense — everyone is fired up and ready.",
@@ -1181,6 +1284,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "मैं घूंसे पे गिरा फिर खड़ा हुआ right up",
+      "romanized": "main ghoonse pe giraa phir khadaa huaa right up",
       "speaker": "Encore ABJ",
       "translation": "I fell from a punch then stood right back up.",
       "explanation": "Encore shows resilience — he gets knocked down but always gets back up. A metaphor for surviving the struggles of life and the rap game.",
@@ -1188,6 +1292,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "तेरे idols का idol मैं Jackson Micheal, higher than Eiffel",
+      "romanized": "tere idols kaa idol main Jackson Micheal, higher than Eiffel",
       "speaker": "Encore ABJ",
       "translation": "I'm your idols' idol — Michael Jackson, higher than the Eiffel.",
       "explanation": "The rappers you look up to look up to Encore. He compares himself to Michael Jackson (the king of pop) and says he stands taller than the Eiffel Tower.",
@@ -1206,6 +1311,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "पैसे कमा लिए culture से पर अब भी करता हूं rap जैसे टीका है survival",
+      "romanized": "paise kamaa lie culture se par ab bhee karataa hoon rap jaise teekaa hai survival",
       "speaker": "Encore ABJ",
       "translation": "Made money from the culture, but I still rap like it's a matter of survival.",
       "explanation": "Despite achieving financial success through hip-hop, Encore still raps with the hunger and desperation of someone fighting to survive — the art hasn't become complacent.",
@@ -1219,6 +1325,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Rappers है trash इनको असली में सुनोगे, समझोगे इनका है सब कुछ recycled",
+      "romanized": "Rappers hai trash inako asalee men sunoge, samajhoge inakaa hai sab kuchh recycled",
       "speaker": "Encore ABJ",
       "translation": "Rappers are trash — if you really listen to them, you'll realize everything they do is recycled.",
       "explanation": "Most rappers are unoriginal — their flows, bars, and ideas are all borrowed and recycled. Only when you truly pay attention do you realize how derivative they are.",
@@ -1226,6 +1333,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Hip-hop ने घुमाया plane'on में वरना थी गेंड के नीचे बस scooty और cycle",
+      "romanized": "Hip-hop ne ghumaayaa plane'on men varanaa thee gend ke neeche bas scooty aur cycle",
       "speaker": "Encore ABJ",
       "translation": "Hip-hop got me flying in planes, otherwise I'd only have a scooty or bicycle under me.",
       "explanation": "Encore credits hip-hop for changing his life — without it, he'd still be riding scooties and bicycles instead of flying on planes. A powerful class mobility statement.",
@@ -1239,6 +1347,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "मैं बारहवीं में सुना था KR$NA को तीन साल बाद उसने offer करी हमे मेरी पहली deal",
+      "romanized": "main baarahaveen men sunaa thaa KR$NA ko teen saal baad usane offer karee hame meree pahalee deal",
       "speaker": "Encore ABJ",
       "translation": "I heard KR$NA in 12th grade, three years later he offered me my first deal.",
       "explanation": "A personal, real moment — Encore was listening to KR$NA as a high school student, and three years later KR$NA gave Seedhe Maut their first deal. This acknowledges KR$NA's role in their come-up and the genuine bond between them.",
@@ -1252,6 +1361,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "भाई मेरा really chill",
+      "romanized": "bhaaee meraa really chill",
       "speaker": "Encore ABJ",
       "translation": "My brother is really chill.",
       "explanation": "Encore shouts out KR$NA as a relaxed, easy-going person despite his stature.",
@@ -1259,6 +1369,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Gang पूरी super real",
+      "romanized": "Gang pooree super real",
       "speaker": "Encore ABJ",
       "translation": "The whole gang is super real.",
       "explanation": "Their entire crew is authentic — no fakes, no pretenders.",
@@ -1266,6 +1377,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Mic पे है proper ill, बोल जहां वहां मिल",
+      "romanized": "Mic pe hai proper ill, bol jahaan vahaan mil",
       "speaker": "Encore ABJ",
       "translation": "Proper sick on the mic, say where and I'll be there.",
       "explanation": "They're incredibly skilled on the microphone and ready to show up anywhere — name the place.",
@@ -1279,6 +1391,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "भेज मुझे सारा bill, जेबें काफी बड़ी लेकिन जेबों से है बड़ा दिल (Yeah)",
+      "romanized": "bhej mujhe saaraa bill, jeben kaaphee badee lekin jebon se hai badaa dil (Yeah)",
       "speaker": "Encore ABJ",
       "translation": "Send me the whole bill, my pockets are big enough but my heart is bigger than my pockets.",
       "explanation": "Encore says he can handle any bill — he has deep pockets. But the real flex is that his generosity exceeds even his wealth. A humble yet confident closer.",
@@ -1286,6 +1399,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Hola amigo (Yeah), कैसे हो, ठीक हो?",
+      "romanized": "Hola amigo (Yeah), kaise ho, theek ho?",
       "speaker": "KR$NA",
       "translation": "Hello friend (Yeah), how are you, you good?",
       "explanation": "The outro mirrors the intro — KR$NA brings it back to the casual greeting, bookending the track.",
@@ -1293,6 +1407,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "क्या चल रहा है bruv?",
+      "romanized": "kyaa chal rahaa hai bruv?",
       "speaker": "KR$NA",
       "translation": "What's going on, brother?",
       "explanation": "Casual sign-off, matching the intro's friendly tone.",
@@ -1300,6 +1415,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "मिलते है जल्द",
+      "romanized": "milate hai jald",
       "speaker": "KR$NA",
       "translation": "Let's meet soon.",
       "explanation": "A warm farewell — see you soon.",
@@ -1307,6 +1423,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Tell me what's up? (Woah)",
+      "romanized": "Tell me what's up? (Woah)",
       "speaker": "KR$NA",
       "translation": "Tell me what's up?",
       "explanation": "Final casual check-in as the track winds down.",
@@ -1314,6 +1431,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Hola amigo (Amigo)",
+      "romanized": "Hola amigo (Amigo)",
       "speaker": "KR$NA",
       "translation": "Hello friend (Friend).",
       "explanation": "The track fades out on the signature greeting.",
@@ -1321,6 +1439,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "कैसे हो, ठीक हो?",
+      "romanized": "kaise ho, theek ho?",
       "speaker": "KR$NA",
       "translation": "How are you, you good?",
       "explanation": "Final repetition of the greeting, closing the track the same way it opened.",
@@ -1328,6 +1447,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "घर पे कैसे है सब?",
+      "romanized": "ghar pe kaise hai sab?",
       "speaker": "KR$NA",
       "translation": "How's everyone at home?",
       "explanation": "Asking about family one last time — the friendly sign-off continues.",
@@ -1335,6 +1455,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "Aunty को बोलना \"I'm sending my love\"",
+      "romanized": "Aunty ko bolanaa \"I'm sending my love\"",
       "speaker": "KR$NA",
       "translation": "Tell Aunty 'I'm sending my love.'",
       "explanation": "KR$NA closes the track with the same warm, familial line from the intro — a signature bookend.",
@@ -1342,6 +1463,7 @@ export const hola_amigo: Song = {
     },
     {
       "original": "नमस्ते aunty (Haha)",
+      "romanized": "namaste aunty (Haha)",
       "speaker": "KR$NA",
       "translation": "Namaste Aunty! (Haha)",
       "explanation": "A playful, humorous sign-off where KR$NA directly greets the listener's mother with a traditional Indian greeting, ending the track on a lighthearted note.",

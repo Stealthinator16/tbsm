@@ -10,6 +10,7 @@ export const namuna: Song = {
   "lyrics": [
     {
       "original": "हाँ भाई (नमूने)",
+      "romanized": "Haan bhaaee (namoone)",
       "speaker": "Encore ABJ & Calm",
       "translation": "Yeah bro (specimens)",
       "explanation": "Opening ad-lib setting the tone, calling out people as 'namune' — specimens or clowns.",
@@ -23,6 +24,7 @@ export const namuna: Song = {
     },
     {
       "original": "Ayy, नमूने (नमूने)",
+      "romanized": "Ayy, namoone (namoone)",
       "speaker": "Encore ABJ & Calm",
       "translation": "Ayy, you specimens (specimens)",
       "explanation": "Repeating the hook, reinforcing the diss towards people they consider jokes.",
@@ -30,6 +32,7 @@ export const namuna: Song = {
     },
     {
       "original": "पक्का नमूना, जा-जा",
+      "romanized": "Pakkaa namoonaa, jaa-jaa",
       "speaker": "Encore ABJ & Calm",
       "translation": "A certified specimen, get lost",
       "explanation": "Dismissing someone as a confirmed clown and telling them to leave.",
@@ -43,6 +46,7 @@ export const namuna: Song = {
     },
     {
       "original": "लोड़े, तू पक्का नमूना (नमूने, नमूने)",
+      "romanized": "Lore, too pakkaa namoonaa (namoone, namoone)",
       "speaker": "Encore ABJ & Calm",
       "translation": "Dickhead, you're a certified specimen (specimens, specimens)",
       "explanation": "A vulgar dismissal, calling the person a confirmed clown.",
@@ -56,6 +60,7 @@ export const namuna: Song = {
     },
     {
       "original": "तू पक्का नमूना, पक्का नमूना (नमूने)",
+      "romanized": "Too pakkaa namoonaa, pakkaa namoonaa (namoone)",
       "speaker": "Encore ABJ & Calm",
       "translation": "You're a certified specimen, certified specimen (specimens)",
       "explanation": "Hammering in the hook, doubling down on calling the target a total joke.",
@@ -63,6 +68,7 @@ export const namuna: Song = {
     },
     {
       "original": "लोड़े (Brrah)",
+      "romanized": "Lore (Brrah)",
       "speaker": "Encore ABJ & Calm",
       "translation": "Dickhead (Brrah)",
       "explanation": "A dismissive exclamation with an aggressive ad-lib to cap off the hook.",
@@ -70,6 +76,7 @@ export const namuna: Song = {
     },
     {
       "original": "हुई बंदों की थूत छोटी, लेली जब lead",
+      "romanized": "Huee bandon kee thoota chhotee, lelee jaba lead",
       "speaker": "Calm",
       "translation": "These guys' mouths got shut when I took the lead",
       "explanation": "Calm says that rivals went quiet once he pulled ahead in the game. 'Thoot chhoti' means their talk shrank — they stopped talking big.",
@@ -83,6 +90,7 @@ export const namuna: Song = {
     },
     {
       "original": "आदत है जीत की, रोज़ करूँ repeat",
+      "romanized": "Aadata hai jeeta kee, roza karoon repeat",
       "speaker": "Calm",
       "translation": "Winning is a habit, I repeat it daily",
       "explanation": "He's so accustomed to winning that it's become a daily routine for him.",
@@ -90,6 +98,7 @@ export const namuna: Song = {
     },
     {
       "original": "आदत rupees की, I call it cashish",
+      "romanized": "Aadata rupees kee, I call it cashish",
       "speaker": "Calm",
       "translation": "Addicted to rupees, I call it cashish",
       "explanation": "A wordplay combining 'cash' and 'hashish' — his addiction isn't drugs, it's money.",
@@ -103,6 +112,7 @@ export const namuna: Song = {
     },
     {
       "original": "I told her make a wish, पूरी करूँ जैसे Jeez",
+      "romanized": "I told her make a waish, pooree karoon jaise Jeez",
       "speaker": "Calm",
       "translation": "I told her make a wish, I'll fulfill it like Jesus",
       "explanation": "He tells a girl to make a wish and says he can grant it like a miracle — comparing himself to Jesus performing miracles.",
@@ -116,6 +126,7 @@ export const namuna: Song = {
     },
     {
       "original": "हुई बंदों की थूत छोटी, फटी नहीं reel",
+      "romanized": "Huee bandon kee thoota chhotee, phatee naheen reel",
       "speaker": "Calm & Encore ABJ",
       "translation": "These guys' mouths got shut, their reel didn't pop off",
       "explanation": "Not only did they go quiet, but their social media content (reels) also flopped — they couldn't compete on any front.",
@@ -129,6 +140,7 @@ export const namuna: Song = {
     },
     {
       "original": "भेजे मैंने दो emoji, कहती, \"Its a deal\"",
+      "romanized": "Bheje mainne do emoji, kahatee, \\\"Its a deal\\\"",
       "speaker": "Calm & Encore ABJ",
       "translation": "I sent two emojis, she said, \"It's a deal\"",
       "explanation": "Flexing his charm — just two emojis were enough to seal the deal with a girl, showing effortless game.",
@@ -136,6 +148,7 @@ export const namuna: Song = {
     },
     {
       "original": "होती रहती भसड़, हम भी छोड़े कोई नी कसर",
+      "romanized": "Hotee rahatee bhasara, hama bhee chhore koee nee kasara",
       "speaker": "Calm & Encore ABJ",
       "translation": "Chaos keeps happening, and we haven't left any stone unturned",
       "explanation": "There's always drama going on, but they make sure to match the energy and leave nothing incomplete.",
@@ -149,6 +162,7 @@ export const namuna: Song = {
     },
     {
       "original": "ऐसी-तैसी करे मगर हमें Naushu बोले chill",
+      "romanized": "Aisee-taisee kare magara hamen Naushu bole chill",
       "speaker": "Calm & Encore ABJ",
       "translation": "We wreak havoc but Naushu tells us to chill",
       "explanation": "Despite all the chaos they cause, their manager/associate Naushu asks them to calm down and stay cool.",
@@ -167,6 +181,7 @@ export const namuna: Song = {
     },
     {
       "original": "Man, I got the big guns running",
+      "romanized": "Man, I got the big guns running",
       "speaker": "Calm & Encore ABJ",
       "translation": "Man, I got the big guns running",
       "explanation": "Asserting that they have heavy-hitting resources at their disposal — whether that's bars, connections, or money.",
@@ -174,6 +189,7 @@ export const namuna: Song = {
     },
     {
       "original": "चले मेरी BM, खेलूँ जैसे most wanted",
+      "romanized": "Chale meree BM, kheloon jaise most waanted",
       "speaker": "Calm & Encore ABJ",
       "translation": "My BM rolls, I play like most wanted",
       "explanation": "Driving a BMW while moving with the swagger of a most-wanted criminal — untouchable and in demand.",
@@ -187,6 +203,7 @@ export const namuna: Song = {
     },
     {
       "original": "बस SM और कौन है?",
+      "romanized": "Basa SM aura kauna hai?",
       "speaker": "Calm & Encore ABJ",
       "translation": "It's just SM, who else is there?",
       "explanation": "A rhetorical question asserting that Seedhe Maut (SM) stands alone at the top with no real competition.",
@@ -200,6 +217,7 @@ export const namuna: Song = {
     },
     {
       "original": "ये pen है जैसे comet, गिरे पन्ने पे तू gone है",
+      "romanized": "Ye pen hai jaise comet, gire panne pe too gone hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "This pen is like a comet, it lands on the page and you're gone",
       "explanation": "Their writing hits like a comet crashing down — once the pen touches paper, the competition is obliterated.",
@@ -213,6 +231,7 @@ export const namuna: Song = {
     },
     {
       "original": "Put the pen in Oppenheimer, ऐसे फटते जैसे bomb है",
+      "romanized": "Put the pen in Oppenheimer, aise phatate jaise bomb hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "Put the pen in Oppenheimer, they explode like a bomb",
       "explanation": "Comparing their pen to Oppenheimer's creation — the atomic bomb. When they write, the destruction is nuclear-level.",
@@ -226,6 +245,7 @@ export const namuna: Song = {
     },
     {
       "original": "I'ma weapon like the seven, got 'em thinking की ये कौन है",
+      "romanized": "I'ma waeapon like the seven, got 'em thinking kee ye kauna hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "I'm a weapon like the Seven, got them thinking, who is this?",
       "explanation": "Comparing themselves to a weapon as deadly as 'The Seven' — likely referencing the superheroes from The Boys or the seven deadly sins, implying they're an unstoppable force that has everyone questioning who they are.",
@@ -239,6 +259,7 @@ export const namuna: Song = {
     },
     {
       "original": "Gotta tell 'em कौन है better, कौन है लोंडों के लिए problem",
+      "romanized": "Gotta tell 'em kauna hai better, kauna hai london ke lie problem",
       "speaker": "Calm & Encore ABJ",
       "translation": "Gotta tell them who's better, who's the problem for these dudes",
       "explanation": "Setting up a series of rhetorical questions to establish their superiority — asking who is truly the best and who poses a real threat.",
@@ -252,6 +273,7 @@ export const namuna: Song = {
     },
     {
       "original": "कौन है con और कौन है Conor, कौन है असल में iconic",
+      "romanized": "Kauna hai con aura kauna hai Conor, kauna hai asala men iconic",
       "speaker": "Calm & Encore ABJ",
       "translation": "Who's a con and who's Conor, who's actually iconic",
       "explanation": "Separating the fakes (cons) from the real fighters like Conor McGregor. Asking who truly deserves iconic status.",
@@ -265,6 +287,7 @@ export const namuna: Song = {
     },
     {
       "original": "कौन है मौत और कौन है चींटी, कौन है रौनक, कौन है goated",
+      "romanized": "Kauna hai mauta aura kauna hai cheentee, kauna hai raunaka, kauna hai goated",
       "speaker": "Calm & Encore ABJ",
       "translation": "Who is death and who's an ant, who's the life of the party, who's the GOAT",
       "explanation": "Contrasting themselves (Maut/death — massive, feared) with the competition (ants — tiny, insignificant). Asking who truly brings energy and who deserves GOAT status.",
@@ -283,6 +306,7 @@ export const namuna: Song = {
     },
     {
       "original": "कौन है—",
+      "romanized": "Kauna hai—",
       "speaker": "Calm & Encore ABJ",
       "translation": "Who is—",
       "explanation": "The rhetorical question trail cuts off abruptly, leaving the answer implied — it's obviously them.",
@@ -290,6 +314,7 @@ export const namuna: Song = {
     },
     {
       "original": "वो बोले, \"तुम हो गए हो mainstream\" (हाँ-हाँ, ठीक है)",
+      "romanized": "Vo bole, \\\"tuma ho gae ho mainstream\\\" (haan-haan, theeka hai)",
       "speaker": "Calm & Encore ABJ",
       "translation": "They say, \"You've gone mainstream\" (yeah yeah, okay)",
       "explanation": "Addressing critics who accuse them of selling out by going mainstream. The dismissive 'yeah yeah, okay' shows they don't care about this criticism.",
@@ -297,6 +322,7 @@ export const namuna: Song = {
     },
     {
       "original": "हम बोले, \"तो क्या? फिर भी best है\" (समझा?)",
+      "romanized": "Hama bole, \\\"to kyaa? phira bhee best hai\\\" (samajhaa?)",
       "speaker": "Calm & Encore ABJ",
       "translation": "We say, \"So what? We're still the best\" (got it?)",
       "explanation": "Their response to the mainstream criticism — even if they are mainstream now, the quality hasn't dropped. They're still the best regardless.",
@@ -304,6 +330,7 @@ export const namuna: Song = {
     },
     {
       "original": "Rap मेरा अभी भी घर है (घर है)",
+      "romanized": "Rap meraa abhee bhee ghara hai (ghara hai)",
       "speaker": "Calm & Encore ABJ",
       "translation": "Rap is still my home (my home)",
       "explanation": "Despite mainstream success, rap remains their foundation and true residence — they haven't abandoned their roots.",
@@ -311,6 +338,7 @@ export const namuna: Song = {
     },
     {
       "original": "ये साले यहाँ अभी भी guest हैं (बेवफ़ा)",
+      "romanized": "Ye saale yahaan abhee bhee guest hain (bevafaa)",
       "speaker": "Calm & Encore ABJ",
       "translation": "These fools are still guests here (unfaithful ones)",
       "explanation": "While SM owns the rap game like a home, everyone else is just a temporary visitor. 'Bewafa' implies these others are disloyal to the craft.",
@@ -324,6 +352,7 @@ export const namuna: Song = {
     },
     {
       "original": "जोनसी का बन रहा है मंत्री (मंत्री)",
+      "romanized": "Jonasee kaa bana rahaa hai mantree (mantree)",
       "speaker": "Calm & Encore ABJ",
       "translation": "Every random guy thinks he's becoming a minister (minister)",
       "explanation": "Mocking people who act like they're important or in power when they're nobodies. 'Jonsi ka' means any random person.",
@@ -342,6 +371,7 @@ export const namuna: Song = {
     },
     {
       "original": "उसके मुँह पे मुक्के तुरंत हैं (तुरंत)खैनी चबा रही है कमला (कमला)",
+      "romanized": "Usake munha pe mukke turanta hain (turanta)khainee chabaa rahee hai kamalaa (kamalaa)",
       "speaker": "Calm & Encore ABJ",
       "translation": "Punches to his face are immediate (immediate). Kamala is chewing tobacco (Kamala)",
       "explanation": "Two lines merged — first threatening instant violence to anyone who steps up, then a political reference to Kamala Harris with a desi twist, imagining her chewing khaini (chewing tobacco).",
@@ -360,6 +390,7 @@ export const namuna: Song = {
     },
     {
       "original": "और कमल को कमला पसंद है",
+      "romanized": "Aura kamala ko kamalaa pasanda hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "And Kamal likes Kamala",
       "explanation": "A multi-layered political wordplay. 'Kamal' means lotus (the BJP party symbol) and 'Kamala' is both a name and means lotus in Sanskrit. Could also reference the interplay between Indian and American politics.",
@@ -378,6 +409,7 @@ export const namuna: Song = {
     },
     {
       "original": "एक माली लगा रहा है गमला",
+      "romanized": "Eka maalee lagaa rahaa hai gamalaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "A gardener is setting up a flower pot",
       "explanation": "Continuing the metaphor — a gardener (common man) is just trying to do his basic work (setting up a pot) while politicians play their games above him.",
@@ -396,6 +428,7 @@ export const namuna: Song = {
     },
     {
       "original": "पर अंदर से खुद है मुरझाया (Oh)",
+      "romanized": "Para andara se khuda hai murajhaayaa (Oh)",
       "speaker": "Calm & Encore ABJ",
       "translation": "But inside, he himself is withered (Oh)",
       "explanation": "The gardener tends to plants but is himself wilting from within — a poignant metaphor for the working class who nurture others while being neglected themselves.",
@@ -409,6 +442,7 @@ export const namuna: Song = {
     },
     {
       "original": "पैसा कमा भी नी पाया",
+      "romanized": "Paisaa kamaa bhee nee paayaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "Couldn't even earn money",
       "explanation": "The gardener/common man couldn't even make enough money to survive.",
@@ -416,6 +450,7 @@ export const namuna: Song = {
     },
     {
       "original": "और पैसा उगा भी नी पाया",
+      "romanized": "Aura paisaa ugaa bhee nee paayaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "And couldn't even grow money",
       "explanation": "Wordplay on 'ugana' (to grow) — he's a gardener who grows plants but can't grow money. Despite all his labor, wealth doesn't sprout for him.",
@@ -429,6 +464,7 @@ export const namuna: Song = {
     },
     {
       "original": "गाना ज़रा भी नी गाया",
+      "romanized": "Gaanaa zaraa bhee nee gaayaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "Didn't sing a single song",
       "explanation": "If you don't put in the work (make music), you don't eat. A statement on the hustle — no work, no reward.",
@@ -436,6 +472,7 @@ export const namuna: Song = {
     },
     {
       "original": "तो खाना ज़रा भी नी खाया",
+      "romanized": "To khaanaa zaraa bhee nee khaayaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "Then didn't eat any food either",
       "explanation": "The direct consequence — if you don't create (gaana/song), you don't eat (khaana/food). A simple rhyme that captures the harsh reality of a musician's life.",
@@ -449,6 +486,7 @@ export const namuna: Song = {
     },
     {
       "original": "Premchand की कहानी भूला पर अंदर की शिक्षा भूला ही नी पाया",
+      "romanized": "Premchand kee kahaanee bhoolaa para andara kee shikshaa bhoolaa hee nee paayaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "Forgot Premchand's stories but couldn't forget the lessons within them",
       "explanation": "Referencing Munshi Premchand, the legendary Hindi-Urdu writer known for stories about poverty and the common man. The specific stories may have faded from memory, but their core teachings about struggle and humanity remain ingrained.",
@@ -462,6 +500,7 @@ export const namuna: Song = {
     },
     {
       "original": "हुई बंदों की थूत छोटी, लेली जब lead",
+      "romanized": "Huee bandon kee thoota chhotee, lelee jaba lead",
       "speaker": "Calm",
       "translation": "These guys' mouths got shut when I took the lead",
       "explanation": "Repeating the hook — rivals went silent once Calm took over.",
@@ -469,6 +508,7 @@ export const namuna: Song = {
     },
     {
       "original": "आदत है जीत की, रोज़ करूँ repeat",
+      "romanized": "Aadata hai jeeta kee, roza karoon repeat",
       "speaker": "Calm",
       "translation": "Winning is a habit, I repeat it daily",
       "explanation": "Reaffirming that winning is second nature to him.",
@@ -476,6 +516,7 @@ export const namuna: Song = {
     },
     {
       "original": "आदत rupees की, I call it cashish",
+      "romanized": "Aadata rupees kee, I call it cashish",
       "speaker": "Calm",
       "translation": "Addicted to rupees, I call it cashish",
       "explanation": "Repeating the cash/hashish wordplay — money is his addiction.",
@@ -483,6 +524,7 @@ export const namuna: Song = {
     },
     {
       "original": "I told her make a wish, पूरी करूँ जैसे Jeez",
+      "romanized": "I told her make a waish, pooree karoon jaise Jeez",
       "speaker": "Calm",
       "translation": "I told her make a wish, I'll fulfill it like Jesus",
       "explanation": "Repeating the confident boast about granting wishes like miracles.",
@@ -490,6 +532,7 @@ export const namuna: Song = {
     },
     {
       "original": "अबे चावल, तेरे सर पे है SM का बादल (Oh-oh)",
+      "romanized": "Abe chaavala, tere sara pe hai SM kaa baadala (Oh-oh)",
       "speaker": "Encore ABJ",
       "translation": "Hey loser, SM's cloud is above your head (Oh-oh)",
       "explanation": "Encore calls the rival 'chawal' (a Delhi slang insult meaning a fool) and says Seedhe Maut looms over them like an inescapable storm cloud.",
@@ -508,6 +551,7 @@ export const namuna: Song = {
     },
     {
       "original": "ना दिखता, ना sun आए, ना moon आए",
+      "romanized": "Naa dikhataa, naa sun aae, naa moon aae",
       "speaker": "Encore ABJ",
       "translation": "You can't see, neither the sun nor the moon comes through",
       "explanation": "Under SM's cloud, there's complete darkness for the rival — neither sunlight nor moonlight can break through. They've been completely eclipsed.",
@@ -515,6 +559,7 @@ export const namuna: Song = {
     },
     {
       "original": "बेटा, तू पक्का नमूना है (नमूना है)",
+      "romanized": "Betaa, too pakkaa namoonaa hai (namoonaa hai)",
       "speaker": "Encore ABJ",
       "translation": "Son, you're a certified specimen (a specimen)",
       "explanation": "Encore closes by calling the rival a confirmed clown, using 'beta' (son) to assert dominance.",
@@ -528,6 +573,7 @@ export const namuna: Song = {
     },
     {
       "original": "लोड़े, तू पक्का नमूना है (नमूना है)",
+      "romanized": "Lore, too pakkaa namoonaa hai (namoonaa hai)",
       "speaker": "Encore ABJ",
       "translation": "Dickhead, you're a certified specimen (a specimen)",
       "explanation": "Final line — a vulgar and definitive dismissal, cementing the rival's status as a complete joke.",

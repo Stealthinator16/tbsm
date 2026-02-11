@@ -9,6 +9,7 @@ export const edokdog_skit: Song = {
   "lyrics": [
     {
       "original": "[Skit / Dialogue]",
+      "devanagari": "[Skit / Dialogue]",
       "speaker": "",
       "translation": "[Skit / Dialogue]",
       "explanation": "This signifies a transition from a musical track to a spoken-word interlude. In the context of the mixtape 'Lunch Break', this skit features a humorous voice note from a fan expressing fanatical devotion to the duo.",

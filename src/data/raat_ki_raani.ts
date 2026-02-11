@@ -10,6 +10,7 @@ export const raat_ki_raani: Song = {
   "lyrics": [
     {
       "original": "ये हसीं रातें, दिल है जवाँ, तुम हो कहाँ?",
+      "romanized": "Ye haseen raaten, dil hai javaan, tum ho kahaan?",
       "speaker": "Seedhe Maut",
       "translation": "These beautiful nights, the heart is young, where are you?",
       "explanation": "A melodic sample of a classic Bollywood-style hook, setting a contrast for the hard-hitting verses to follow.",
@@ -28,6 +29,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "ये हसीं रातें, दिल है जवाँ, तुम हो कहाँ?",
+      "romanized": "Ye haseen raaten, dil hai javaan, tum ho kahaan?",
       "speaker": "Seedhe Maut",
       "translation": "These beautiful nights, the heart is young, where are you?",
       "explanation": "Repetition of the hook to build the atmospheric vibe of the track.",
@@ -35,6 +37,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "ये सारे talk-talk, SM करे knock-knock",
+      "romanized": "Ye saare talk-talk, SM kare knock-knock",
       "speaker": "Encore ABJ",
       "translation": "All they do is talk-talk, while SM comes knocking.",
       "explanation": "Encore dismisses the gossip of others, stating that Seedhe Maut (SM) is actually making moves and 'knocking' on the doors of success.",
@@ -48,6 +51,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "बंदे खाते ख़ौफ़-ख़ौफ़, energy दें off-off",
+      "romanized": "Bande khaate khauf-khauf, energy den off-off",
       "speaker": "Encore ABJ",
       "translation": "People are filled with fear, they give off bad energy.",
       "explanation": "Competitors are intimidated by their presence and radiate negative or weak vibes.",
@@ -61,6 +65,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "हम करें boss job, CEO हैं top-notch",
+      "romanized": "Ham karen boss job, CEO hain top-notch",
       "speaker": "Encore ABJ",
       "translation": "We do the boss's job, we are top-notch CEOs.",
       "explanation": "Asserting their dominance in the independent music scene as leaders of their own movement.",
@@ -80,6 +85,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "छत्तीस चोद हैं पाले लेकिन पाले नहीं कोई loss cause (दिल है जवाँ, woo, brr)",
+      "romanized": "Chhattees chod hain paale lekin paale naheen koee loss cause (dil hai javaan, woo, brr)",
       "speaker": "Encore ABJ",
       "translation": "I've dealt with thirty-six types of idiots, but I don't entertain any lost causes.",
       "explanation": "Encore uses 'chattis' (36) as a slang for 'many' and states he doesn't waste time on people or projects that won't succeed.",
@@ -98,6 +104,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "वो उसका loss-loss",
+      "romanized": "Vo usakaa loss-loss",
       "speaker": "Encore ABJ",
       "translation": "That is his/her loss.",
       "explanation": "Dismissing someone's absence or failure as their own problem.",
@@ -112,6 +119,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "कहती, \"चलता सिक्का,\" वो बस हो रही है toss-toss",
+      "romanized": "Kahtee, \"chaltaa sikkaa,\" vo bas ho rahee hai toss-toss",
       "speaker": "Encore ABJ",
       "translation": "She says I'm the 'current currency,' but she's just being tossed around.",
       "explanation": "A play on 'Chalta Sikka' (relevant/successful person). He implies she is fickle or being played like a coin toss.",
@@ -125,6 +133,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "वो उसका loss-loss",
+      "romanized": "Vo usakaa loss-loss",
       "speaker": "Encore ABJ",
       "translation": "That's their loss.",
       "explanation": "Reiterating that those who aren't with them are missing out.",
@@ -132,6 +141,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "पहले दिखता नहीं था ख़ास, अब भाई पे पैसा बहुत-बहुत (दिल है जवाँ)",
+      "romanized": "Pahle dikhtaa naheen thaa khaas, ab bhaaee pe paisaa bahut-bahut (dil hai javaan)",
       "speaker": "Encore ABJ",
       "translation": "I didn't look like much before, but now your brother has a lot of money.",
       "explanation": "A classic 'started from the bottom' flex about their current financial success.",
@@ -145,6 +155,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "पैसा बहुत-बहुत, रखूँ बड़े शौक़-शौक़",
+      "romanized": "Paisaa bahut-bahut, rakhoon bare shauq-shauq",
       "speaker": "Calm",
       "translation": "Tons of money, and I have expensive tastes.",
       "explanation": "Calm enters the verse highlighting his transition into a luxury lifestyle.",
@@ -158,6 +169,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "गाने बनते bop-wop, हो गई बंदी shock-shock",
+      "romanized": "Gaane bante bop-wop, ho gee bandee shock-shock",
       "speaker": "Calm",
       "translation": "The songs are hits, and the girl is shocked.",
       "explanation": "'Bop' refers to a catchy song. Their success is leaving onlookers stunned.",
@@ -171,6 +183,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "है पैसे के लिए सौ phone",
+      "romanized": "Hai paise ke lie sau phone",
       "speaker": "Calm",
       "translation": "There are a hundred calls for money.",
       "explanation": "Suggesting that business opportunities and wealth are constantly calling him.",
@@ -178,6 +191,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "और जब दिख गया money calling, दिखी मेरे पीछे भागती foreign",
+      "romanized": "Aur jab dikh gayaa money calling, dikhee mere peechhe bhaagtee foreign",
       "speaker": "Calm",
       "translation": "And when 'money calling' was visible, I saw foreign girls/luxury chasing me.",
       "explanation": "Success attracts attention from international crowds or high-end interests.",
@@ -185,6 +199,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "हाथ में जब देखे वो Rollie, Jordan, हाथ से जो करूँ, कहे, \"Billy Bowden\" (दिल है जवाँ)",
+      "romanized": "Haath men jab dekhe vo Rollie, Jordan, haath se jo karoon, kahe, \"Billy Bowden\" (dil hai javaan)",
       "speaker": "Calm",
       "translation": "When she sees the Rolex and Jordans, whatever I do with my hands, she calls me 'Billy Bowden.'",
       "explanation": "Billy Bowden is a famous cricket umpire known for eccentric hand signals. Calm's hand movements (maybe throwing money or signs) are compared to him.",
@@ -203,6 +218,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "करी cut-down करी बातें हैं बहुत कम",
+      "romanized": "Karee cut-down karee baaten hain bahut kam",
       "speaker": "Calm",
       "translation": "I cut down the fluff, I speak very little now.",
       "explanation": "Calm prefers action over talk and has distanced himself from unnecessary social circles.",
@@ -217,6 +233,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "Party भाई बंदी के साथ जाए down",
+      "romanized": "Party bhaaee bandee ke saath jaae down",
       "speaker": "Calm",
       "translation": "The party goes down with my girl.",
       "explanation": "He's enjoying his private life and success with his partner.",
@@ -224,6 +241,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "और जब आँखें टिकीं crown पे तो बाकी shit है side पे (Woo)",
+      "romanized": "Aur jab aankhen tikeen crown pe to baakee shit hai side pe (Woo)",
       "speaker": "Calm",
       "translation": "When my eyes are on the crown, everything else is pushed to the side.",
       "explanation": "Focusing purely on being the best in the rap game (the 'crown').",
@@ -231,6 +249,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "वो आगे देखे crowd में और चाहती जाना all in (Aah)",
+      "romanized": "Vo aage dekhe crowd men aur chaahtee jaanaa all in (Aah)",
       "speaker": "Calm",
       "translation": "She looks at the crowd in front and wants to go all in.",
       "explanation": "Describing the allure of their concerts and the lifestyle.",
@@ -238,6 +257,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "All 'cause I'm poppin', uh",
+      "romanized": "All 'cause I'm poppin', uh",
       "speaker": "Calm",
       "translation": "All because I'm popular/successful.",
       "explanation": "Simple flex about his current status in the industry.",
@@ -245,6 +265,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "Show के बाद हूँ FL पे, not falling for it",
+      "romanized": "Show ke baad hoon FL pe, not falling for it",
       "speaker": "Calm",
       "translation": "After the show I'm on FL (Studio), not falling for the traps.",
       "explanation": "Calm produces his own music. Instead of partying after a show, he goes back to work on FL Studio.",
@@ -258,6 +279,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "Show के बाद हूँ साथ अगर तू बहुत important",
+      "romanized": "Show ke baad hoon saath agar too bahut important",
       "speaker": "Calm",
       "translation": "I'm only with you after a show if you are very important.",
       "explanation": "He values his time and only gives it to inner-circle people.",
@@ -265,6 +287,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "कोई नहीं Seedhe Maut से ऊपर, है ये common knowledge (दिल है जवाँ, uh)",
+      "romanized": "Koee naheen Seedhe Maut se oopar, hai ye common knowledge (dil hai javaan, uh)",
       "speaker": "Calm",
       "translation": "No one is above Seedhe Maut, that's common knowledge.",
       "explanation": "A bold claim of being the top duo in DHH.",
@@ -272,6 +295,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "इनके लिए problem कौन है? तेरे भाई दो",
+      "romanized": "Inake lie problem kaun hai? Tere bhaaee do",
       "speaker": "Calm",
       "translation": "Who is the problem for them? Your two brothers (Encore & Calm).",
       "explanation": "They are the hurdle for anyone else trying to take the top spot.",
@@ -279,6 +303,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "लगूँ कहाँ से normal?",
+      "romanized": "Lagoon kahaan se normal?",
       "speaker": "Calm",
       "translation": "In what way do I look normal?",
       "explanation": "He feels his talent and lifestyle are extraordinary.",
@@ -286,6 +311,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "Bonnet पे है दोस्त, साला, खो रखा है होश और fun है",
+      "romanized": "Bonnet pe hai dost, saalaa, kho rakhaa hai hosh aur fun hai",
       "speaker": "Calm",
       "translation": "Friends on the car bonnet, we've lost our senses and it's just fun.",
       "explanation": "Capturing a moment of wild, carefree success with friends.",
@@ -293,6 +319,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "करे show iconic and I move like Sonic",
+      "romanized": "Kare show iconic and I move like Sonic",
       "speaker": "Calm",
       "translation": "We do iconic shows and I move fast like Sonic.",
       "explanation": "Reference to Sonic the Hedgehog; highlighting his speed and agility in the game.",
@@ -312,6 +339,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "हर एक album chronic, यहाँ पे फैल मत, लौड़े",
+      "romanized": "Har ek album chronic, yahaan pe phail mat, laure",
       "speaker": "Calm",
       "translation": "Every album is 'chronic' (great), don't try to overstep here, kid.",
       "explanation": "'Chronic' is slang for high-quality weed or something legendary (like Dr. Dre's album). He warns others not to get too comfortable.",
@@ -330,6 +358,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "मुझे दिखा था cypher में तो हाथ-पैर जोड़े",
+      "romanized": "Mujhe dikhaa thaa cypher men to haath-pair jore",
       "speaker": "Calm",
       "translation": "I saw him in a cypher and he was pleading/acting humble.",
       "explanation": "Recalling an instance where a rival was intimidated or overly respectful in person.",
@@ -343,6 +372,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "आता है गूदा इनमें जैसे ही ये लोग शहर-वहर छोड़ें",
+      "romanized": "Aataa hai goodaa inamen jaise hee ye log shahr-vahr chhoren",
       "speaker": "Calm",
       "translation": "They only find courage once they leave the city.",
       "explanation": "Suggesting that his rivals are only 'tough' when they are far away from SM's home turf (Delhi).",
@@ -362,6 +392,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "इन्हें चाहिए नहीं कि कोई इनके पैर-वैर तोड़े, uh (दिल है जवाँ)",
+      "romanized": "Inhen chaahie naheen ki koee inake pair-vair tore, uh (dil hai javaan)",
       "speaker": "Calm",
       "translation": "They don't want anyone breaking their legs.",
       "explanation": "A threat of physical dominance or just street-style talk about keeping rivals in check.",
@@ -376,6 +407,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "एक बंदी है आ रही बहुत पसंद पर पता नहीं if I have time for that shit",
+      "romanized": "Ek bandee hai aa rahee bahut pasnd par pataa naheen if I have time for that shit",
       "speaker": "Calm",
       "translation": "I really like this one girl, but I don't know if I have time for that stuff.",
       "explanation": "The conflict between a busy career and a personal life.",
@@ -383,6 +415,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "बच्चा था, गा रहा था Green Day पर school में, I knew I was made for that stage",
+      "romanized": "Bachchaa thaa, gaa rahaa thaa Green Day par school men, I knew I was made for that stage",
       "speaker": "Calm",
       "translation": "I was a kid singing Green Day in school; I knew I was made for the stage.",
       "explanation": "Calm's origin story, showing his early interest in music (specifically punk rock/Green Day).",
@@ -396,6 +429,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "और कुछ साल बाद कर रहा था road'on पे rap, अब उन road'on पे चलूँ तो scene",
+      "romanized": "Aur kuchh saal baad kar rahaa thaa road'on pe rap, ab un road'on pe chaloon to scene",
       "speaker": "Calm",
       "translation": "A few years later I was rapping on the roads, now when I walk those roads, it's a scene.",
       "explanation": "From busking/street rapping to being so famous that he causes a commotion in public.",
@@ -403,6 +437,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "बंदे ये बोलें बहुत, जानें ये अंदर-ही-अंदर कौन best in the biz (दिल है जवाँ, best in the biz)",
+      "romanized": "Bande ye bolen bahut, jaanen ye andar-hee-andar kaun best in the biz (dil hai javaan, best in the biz)",
       "speaker": "Calm",
       "translation": "These guys talk a lot, but deep down they know who's the best in the biz.",
       "explanation": "Even their haters know that SM is the top-tier talent in the industry.",
@@ -410,6 +445,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "ये सारे talk-talk, SM करे knock-knock",
+      "romanized": "Ye saare talk-talk, SM kare knock-knock",
       "speaker": "Encore ABJ & Calm",
       "translation": "All they do is talk, SM comes knocking.",
       "explanation": "The duo joins for the chorus, emphasizing their collective power.",
@@ -417,6 +453,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "बंदे खाते ख़ौफ़-ख़ौफ़, energy दें off-off (तेरी माँ की चूत)",
+      "romanized": "Bande khaate khauf-khauf, energy den off-off (teree maan kee choot)",
       "speaker": "Encore ABJ & Calm",
       "translation": "People are scared, they give off weak energy.",
       "explanation": "Includes a classic aggressive DHH ad-lib.",
@@ -430,6 +467,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "हम करें boss job, CEO हैं top-notch",
+      "romanized": "Ham karen boss job, CEO hain top-notch",
       "speaker": "Encore ABJ & Calm",
       "translation": "We do the boss's job, we are top-notch CEOs.",
       "explanation": "Reiterating their self-made success.",
@@ -437,6 +475,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "छत्तीस चोद हैं पाले लेकिन पाले नहीं कोई loss cause (दिल है जवाँ, woo, brr)",
+      "romanized": "Chhattees chod hain paale lekin paale naheen koee loss cause (dil hai javaan, woo, brr)",
       "speaker": "Encore ABJ & Calm",
       "translation": "Dealt with many fools, but no lost causes.",
       "explanation": "Re-emphasizing their selective association.",
@@ -444,6 +483,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "वो उसका loss-loss",
+      "romanized": "Vo usakaa loss-loss",
       "speaker": "Encore ABJ & Calm",
       "translation": "That's their loss.",
       "explanation": "Repetition for emphasis.",
@@ -451,6 +491,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "कहती, \"चलता सिक्का,\" वो बस हो रही है toss-toss",
+      "romanized": "Kahtee, \"chaltaa sikkaa,\" vo bas ho rahee hai toss-toss",
       "speaker": "Encore ABJ & Calm",
       "translation": "She says I'm successful, but she's just being tossed around.",
       "explanation": "Wordplay on currency and fickleness.",
@@ -458,6 +499,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "वो उसका loss-loss",
+      "romanized": "Vo usakaa loss-loss",
       "speaker": "Encore ABJ & Calm",
       "translation": "That's their loss.",
       "explanation": "Repetition.",
@@ -465,6 +507,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "पहले दिखता नहीं था ख़ास, अब भाई पे पैसा बहुत-बहुत (दिल है जवाँ)",
+      "romanized": "Pahle dikhtaa naheen thaa khaas, ab bhaaee pe paisaa bahut-bahut (dil hai javaan)",
       "speaker": "Encore ABJ & Calm",
       "translation": "Didn't look special before, now brother has lots of money.",
       "explanation": "Closing the hook with the wealth flex.",
@@ -472,6 +515,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "गांड फाड़, मैं और मेरा पैसा शानदार",
+      "romanized": "Gaand phaar, main aur meraa paisaa shaandaar",
       "speaker": "Encore ABJ",
       "translation": "Mind-blowing, me and my money are spectacular.",
       "explanation": "Encore starts the next verse with extreme confidence.",
@@ -485,6 +529,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "लगे क़िस्मत पे हैं चाँद चार",
+      "romanized": "Lage qismat pe hain chaand chaar",
       "speaker": "Encore ABJ",
       "translation": "It feels like my luck has been multiplied.",
       "explanation": "From the idiom 'Chaar Chaand Lagna,' meaning to enhance the beauty or luck of something significantly.",
@@ -498,6 +543,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "जो मिला मुझे rap में दी जान डाल",
+      "romanized": "Jo milaa mujhe rap men dee jaan daal",
       "speaker": "Encore ABJ",
       "translation": "Whatever I got from rap, I put my soul into it.",
       "explanation": "Crediting his success to his dedication to the craft.",
@@ -505,6 +551,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "अब आते नहीं क्यूँ पास जैसे छुआ-छूत?",
+      "romanized": "Ab aate naheen kyoon paas jaise chhuaa-chhoot?",
       "speaker": "Encore ABJ",
       "translation": "Why don't they come near me now, like I'm untouchable?",
       "explanation": "Rivals avoid him now, either out of fear or out of being in a different 'league'.",
@@ -518,6 +565,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "घूमे बाएँ हाथ, तेरी छू आए थूथ (तेरी)",
+      "romanized": "Ghoome baaen haath, teree chhoo aae thooth (teree)",
       "speaker": "Encore ABJ",
       "translation": "My left hand moves and slaps your face.",
       "explanation": "Aggressive imagery of a physical or metaphorical slap to opponents.",
@@ -531,6 +579,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "जाके अपने गानों में ये बोल आए झूठ",
+      "romanized": "Jaake apane gaanon men ye bol aae jhooth",
       "speaker": "Encore ABJ",
       "translation": "They go and tell lies in their songs.",
       "explanation": "Accusing other rappers of 'fake flexing' or 'cap' in their lyrics.",
@@ -538,6 +587,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "Camera'e पे बनते ईमानदार, हाँ जी (दिल है जवाँ)",
+      "romanized": "Camera'e pe bante eemaandaar, haan jee (dil hai javaan)",
       "speaker": "Encore ABJ",
       "translation": "They act honest on camera, yeah right.",
       "explanation": "Pointing out the hypocrisy of people in the limelight.",
@@ -545,6 +595,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "दिल्ली हस्तिनापुर से कम नहीं",
+      "romanized": "Dillee hastinaapur se kam naheen",
       "speaker": "Encore ABJ",
       "translation": "Delhi is no less than Hastinapur.",
       "explanation": "Hastinapur was the capital in the Mahabharata. Encore equates modern-day Delhi to the ancient seat of power.",
@@ -558,6 +609,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "हम दो, नौशू और Mo साथ Blunt भी (Ha-ha)",
+      "romanized": "Ham do, naushoo aur Mo saath Blunt bhee (Ha-ha)",
       "speaker": "Encore ABJ",
       "translation": "The two of us, plus Noushu, Mo, and Blunt too.",
       "explanation": "Shouting out their team: Calm (Noushu), Mo Joshi (manager), and DJ Blunt.",
@@ -582,6 +634,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "New age पांडव हैं हम पाँच सच्ची",
+      "romanized": "New age paandv hain ham paanch sachchee",
       "speaker": "Encore ABJ",
       "translation": "We are truly the five New Age Pandavas.",
       "explanation": "Continuing the Mahabharata metaphor, referring to their core team of five as the legendary brothers.",
@@ -595,6 +648,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "भीम हूँ, लिखता हूँ तो हिलती धरती (चल, ओए)",
+      "romanized": "Bheem hoon, likhtaa hoon to hiltee dhartee (chal, oe)",
       "speaker": "Encore ABJ",
       "translation": "I am Bheem; when I write, the earth shakes.",
       "explanation": "Encore compares his lyrical power to the strength of Bheem, the strongest Pandava.",
@@ -608,6 +662,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "कुछ नए बालक हैं rap में भर्ती",
+      "romanized": "Kuchh ne baalk hain rap men bhartee",
       "speaker": "Encore ABJ",
       "translation": "Some new kids have been recruited into rap.",
       "explanation": "Referring to the influx of new, perhaps inexperienced, rappers in the scene.",
@@ -615,6 +670,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "Artist हैं whack, पहने art की वर्दी (Yeah)",
+      "romanized": "Artist hain whack, pahne art kee vardee (Yeah)",
       "speaker": "Encore ABJ",
       "translation": "The artists are whack, just wearing the uniform of art.",
       "explanation": "They look like artists but don't have the actual talent/skill.",
@@ -628,6 +684,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "हमें दे रहे hate, इन्हें fame की जल्दी",
+      "romanized": "Hamen de rahe hate, inhen fame kee jaldee",
       "speaker": "Encore ABJ",
       "translation": "They give us hate because they're in a hurry for fame.",
       "explanation": "Newcomers try to get clout by dissing or hating on established acts like SM.",
@@ -635,6 +692,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "इन्हें सगा भाई दे तो उससे जलती (दिल है जवाँ)",
+      "romanized": "Inhen sagaa bhaaee de to usase jaltee (dil hai javaan)",
       "speaker": "Encore ABJ",
       "translation": "Even if their own brother succeeds, they get jealous.",
       "explanation": "Commenting on the toxic jealousy in the industry.",
@@ -642,6 +700,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "\"Uaenh-uaenh,\" गानों में ये रोए जाएँ, \"uaenh-uaenh\"",
+      "romanized": "\"Uaenh-uaenh,\" gaanon men ye roe jaaen, \"uaenh-uaenh\"",
       "speaker": "Encore ABJ",
       "translation": "They just keep crying in their songs, 'waah-waah.'",
       "explanation": "Mocking the melodic, 'whiny' style of some modern commercial or emo-rappers.",
@@ -649,6 +708,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "सोचें हैं ये GOAT, करें, \"मै-मै\"",
+      "romanized": "Sochen hain ye GOAT, karen, \"mai-mai\"",
       "speaker": "Encore ABJ",
       "translation": "They think they are the GOAT, but they just bleat like one.",
       "explanation": "A clever pun: GOAT (Greatest of All Time) vs. the sound a goat makes ('main-main' in Hindi).",
@@ -662,6 +722,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "हुई तेरी फिस, करें टैं-टैं",
+      "romanized": "Huee teree phis, karen tain-tain",
       "speaker": "Encore ABJ",
       "translation": "You failed (fizzled out), now you're just making noise.",
       "explanation": "'Tain-tain' refers to useless chatter after a failure (fiss).",
@@ -675,6 +736,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "भाइयों का भाई, I'm a man-man",
+      "romanized": "Bhaaiyon kaa bhaaee, I'm a man-man",
       "speaker": "Encore ABJ",
       "translation": "A brother to my brothers, I'm a real man.",
       "explanation": "Loyalty to his circle and asserting his masculinity/maturity.",
@@ -682,6 +744,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "वो रह रहा है Noida में गांड-फटी में (Ha-ha)",
+      "romanized": "Vo rah rahaa hai Noida men gaand-phatee men (Ha-ha)",
       "speaker": "Encore ABJ",
       "translation": "He's living in Noida in absolute fear.",
       "explanation": "Likely a specific dig at someone who is hiding or scared in the NCR region.",
@@ -695,6 +758,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "डालता नहीं story, है छुपा रहा location",
+      "romanized": "Daaltaa naheen story, hai chhupaa rahaa location",
       "speaker": "Encore ABJ",
       "translation": "He doesn't post stories, he's hiding his location.",
       "explanation": "Suggesting a rival is scared to show where they are for fear of a confrontation.",
@@ -702,6 +766,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "पर बच नहीं पाएगा इस ज़िंदगी में (दिल है जवाँ)",
+      "romanized": "Par bach naheen paaegaa is zindgee men (dil hai javaan)",
       "speaker": "Encore ABJ",
       "translation": "But he won't be able to escape in this lifetime.",
       "explanation": "A menacing line about accountability or street consequences.",
@@ -709,6 +774,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "त्रिलोकपुरी खरीदा था पहला चीरा",
+      "romanized": "Trilokpuree khareedaa thaa pahlaa cheeraa",
       "speaker": "Encore ABJ",
       "translation": "I bought my first blade/cut in Trilokpuri.",
       "explanation": "Trilokpuri is a neighborhood in East Delhi. 'Cheera' refers to a cut or possibly a weapon/blade from his rougher days.",
@@ -727,6 +793,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "आजा, तेरे मुँह पे निशान दूँ free में (Ayy)",
+      "romanized": "Aajaa, tere munh pe nishaan doon free men (Ayy)",
       "speaker": "Encore ABJ",
       "translation": "Come here, I'll give you a scar on your face for free.",
       "explanation": "Hardcore street talk, threatening to leave a mark on a rival.",
@@ -734,6 +801,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "मांग रहे हैं जल लेकिन जलके राख हैं",
+      "romanized": "Maang rahe hain jal lekin jalke raakh hain",
       "speaker": "Encore ABJ",
       "translation": "They are asking for water but they're already burnt to ashes.",
       "explanation": "A play on 'Jal' (water) and 'Jalna' (to burn/be jealous). They are thirsty for success but destroyed by their own envy.",
@@ -747,6 +815,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "मैं जलके भी फैलूँ क्योंकि आग में घी है (Ayy)",
+      "romanized": "Main jalke bhee phailoon kyonki aag men ghee hai (Ayy)",
       "speaker": "Encore ABJ",
       "translation": "Even if I burn, I'll spread, because I'm like ghee in the fire.",
       "explanation": "Ghee makes a fire bigger. He implies that opposition only fuels his growth.",
@@ -760,6 +829,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "Seedhe Maut जल और जीवन दोनों (Ayy)",
+      "romanized": "Seedhe Maut jal aur jeevn donon (Ayy)",
       "speaker": "Encore ABJ",
       "translation": "Seedhe Maut is both water and life.",
       "explanation": "Playing on the slogan 'Jal hi Jeevan hai' (Water is life), claiming SM is essential to the game.",
@@ -767,6 +837,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "गाने वाले नशे ले-ले mister E से (Ayy)",
+      "romanized": "Gaane vaale nashe le-le mister E se (Ayy)",
       "speaker": "Encore ABJ",
       "translation": "The singers/rappers take their 'highs' from Mr. E.",
       "explanation": "Mr. E refers to Mo Joshi. It implies their team provides the 'dope' music/content the scene craves.",
@@ -780,6 +851,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "मोटा पैसा छाप रहे हैं left और right से",
+      "romanized": "Motaa paisaa chhaap rahe hain left aur right se",
       "speaker": "Encore ABJ",
       "translation": "We're printing thick stacks of money from left and right.",
       "explanation": "Success from multiple revenue streams (shows, streams, merch).",
@@ -787,6 +859,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "बीस लाख tax, सरकार को fees दें, bitch",
+      "romanized": "Bees laakh tax, sarkaar ko fees den, bitch",
       "speaker": "Encore ABJ",
       "translation": "Twenty lakhs in tax, we're paying fees to the government, bitch.",
       "explanation": "The ultimate 'rich rapper' flex: bragging about how much tax you pay.",
@@ -794,6 +867,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "ये सारे talk-talk, SM करे knock-knock",
+      "romanized": "Ye saare talk-talk, SM kare knock-knock",
       "speaker": "Encore ABJ",
       "translation": "All they do is talk, SM comes knocking.",
       "explanation": "Final hook repetition.",
@@ -808,6 +882,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "बंदे खाते ख़ौफ़- ख़ौफ़, energy दें off-off",
+      "romanized": "Bande khaate khauf- khauf, energy den off-off",
       "speaker": "Encore ABJ",
       "translation": "People are scared, they give off weak energy.",
       "explanation": "Repetition.",
@@ -815,6 +890,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "हम करें boss job, CEO हैं top-notch",
+      "romanized": "Ham karen boss job, CEO hain top-notch",
       "speaker": "Encore ABJ",
       "translation": "We do the boss's job, we are top-notch CEOs.",
       "explanation": "Repetition.",
@@ -822,6 +898,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "छत्तीस चोद हैं पाले लेकिन पाले नहीं कोई loss cause (दिल है जवाँ, woo, brr)",
+      "romanized": "Chhattees chod hain paale lekin paale naheen koee loss cause (dil hai javaan, woo, brr)",
       "speaker": "Encore ABJ",
       "translation": "Dealt with many fools, but no lost causes.",
       "explanation": "Repetition.",
@@ -829,6 +906,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "वो उसका loss-loss",
+      "romanized": "Vo usakaa loss-loss",
       "speaker": "Encore ABJ",
       "translation": "That's their loss.",
       "explanation": "Repetition.",
@@ -836,6 +914,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "कहती, \"चलता सिक्का,\" वो बस हो रही है toss-toss",
+      "romanized": "Kahtee, \"chaltaa sikkaa,\" vo bas ho rahee hai toss-toss",
       "speaker": "Encore ABJ",
       "translation": "She says I'm successful, but she's just being tossed around.",
       "explanation": "Repetition.",
@@ -843,6 +922,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "वो उसका loss-loss",
+      "romanized": "Vo usakaa loss-loss",
       "speaker": "Encore ABJ",
       "translation": "That's their loss.",
       "explanation": "Repetition.",
@@ -850,6 +930,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "पहले दिखता नहीं था ख़ास, अब भाई पे पैसा बहुत-बहुत (दिल है जवाँ)",
+      "romanized": "Pahle dikhtaa naheen thaa khaas, ab bhaaee pe paisaa bahut-bahut (dil hai javaan)",
       "speaker": "Encore ABJ",
       "translation": "Didn't look special before, now brother has lots of money.",
       "explanation": "Final emphasis on their glow-up.",
@@ -857,6 +938,7 @@ export const raat_ki_raani: Song = {
     },
     {
       "original": "तुम हो कहाँ?",
+      "romanized": "Tum ho kahaan?",
       "speaker": "Encore ABJ",
       "translation": "Where are you?",
       "explanation": "Concluding the song by echoing the sampled hook, asking where the competition or the girl is now that they've reached the top.",

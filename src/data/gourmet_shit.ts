@@ -9,6 +9,7 @@ export const gourmet_shit: Song = {
   "lyrics": [
     {
       "original": "D-L-9-1",
+      "romanized": "D-L-9-1",
       "speaker": "Seedhe Maut",
       "translation": "D-L-9-1",
       "explanation": "Refers to Delhi (DL) and the international calling code for India (+91), representing their roots and the city they represent.",
@@ -22,6 +23,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "ऊपर है सर के थी छत और ये सर पे था हाथ",
+      "romanized": "oopar hai sar ke thee chhat aur ye sar pe thaa haath",
       "speaker": "Calm",
       "translation": "There was a roof over my head and a hand of support on my head.",
       "explanation": "Calm reflects on the comfort and security he had—both physical (shelter) and emotional (guidance/protection).",
@@ -35,6 +37,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "लेकिन I had to give it up",
+      "romanized": "lekin I had to give it up",
       "speaker": "Calm",
       "translation": "But I had to give it up.",
       "explanation": "He had to sacrifice that comfort and safety to chase his dreams in the rap game.",
@@ -42,6 +45,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "रेहता था पूरे time नशे में",
+      "romanized": "rehataa thaa poore time nashe men",
       "speaker": "Calm",
       "translation": "I used to be high all the time.",
       "explanation": "A confession of his past lifestyle and reliance on substances during his early days.",
@@ -55,6 +59,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "जी रहा था music, मैं जी रहा था सुट्टों पर",
+      "romanized": "jee rahaa thaa music, main jee rahaa thaa sutton par",
       "speaker": "Calm",
       "translation": "I was living for music, I was living on cigarettes.",
       "explanation": "Describing the struggling artist lifestyle where music and smoking were his primary sustenance.",
@@ -68,6 +73,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "थे बचपन के दोस्त जो बुलाते थे घर के नाम से",
+      "romanized": "the bachapan ke dost jo bulaate the ghar ke naam se",
       "speaker": "Calm",
       "translation": "There were childhood friends who called me by my nickname.",
       "explanation": "Refers to the intimacy of old friendships before the fame of 'Seedhe Maut' took over.",
@@ -81,6 +87,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "But I had to give it up",
+      "romanized": "But I had to give it up",
       "speaker": "Calm",
       "translation": "But I had to give it up.",
       "explanation": "Reiterates that the path to success required leaving behind his old self and environment.",
@@ -88,6 +95,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "था पास तब ये bag पर है चोदें हज़ार",
+      "romanized": "thaa paas tab ye bag par hai choden har",
       "speaker": "Calm",
       "translation": "I had this bag (money/goal) back then, but now there are a thousand critics.",
       "explanation": "Even when he was focused on his goal, there were many people talking trash or trying to hinder him.",
@@ -107,6 +115,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "और ये सपने तो I had to give it up और—",
+      "romanized": "aur ye sapane to I had to give it up aur—",
       "speaker": "Calm",
       "translation": "And these dreams, I had to give it up and—",
       "explanation": "He is describing the transition from dreaming to actually achieving, implying he had to stop just 'dreaming' to start 'doing'.",
@@ -114,6 +123,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "—सर के थी छत और ये सर पे था हाथ",
+      "romanized": "—sar ke thee chhat aur ye sar pe thaa haath",
       "speaker": "Calm",
       "translation": "—There was a roof over my head and a hand of support on my head.",
       "explanation": "Repetition of the hook emphasizing the sacrifice of security.",
@@ -121,6 +131,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "Lekin I had to give it up",
+      "romanized": "Lekin I had to give it up",
       "speaker": "Calm",
       "translation": "But I had to give it up.",
       "explanation": "Reinforcing the necessity of sacrifice.",
@@ -128,6 +139,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "रेहता था पूरे time नशे में",
+      "romanized": "rehataa thaa poore time nashe men",
       "speaker": "Calm",
       "translation": "I used to be high all the time.",
       "explanation": "Describing his past state of mind.",
@@ -135,6 +147,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "जी रहा था music, मैं जी रहा था सुट्टों पर",
+      "romanized": "jee rahaa thaa music, main jee rahaa thaa sutton par",
       "speaker": "Calm",
       "translation": "I was living for music, I was living on cigarettes.",
       "explanation": "The artist's struggle.",
@@ -142,6 +155,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "अब भी है ज़्यादा कुछ बदला नहीं",
+      "romanized": "ab bhee hai yaadaa kuchh badalaa naheen",
       "speaker": "Calm",
       "translation": "Even now, not much has changed.",
       "explanation": "Despite the fame and money, Calm claims his core habits and essence remain the same.",
@@ -149,6 +163,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "अब भी हूँ नशे में, अब भी है वही ज़ख़्म",
+      "romanized": "ab bhee hoon nashe men, ab bhee hai vahee ma",
       "speaker": "Calm",
       "translation": "I'm still high, and the wounds are still the same.",
       "explanation": "Suggests that success hasn't healed his past traumas or completely changed his vices.",
@@ -162,6 +177,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "अलग है कपड़े पर अलग नहीं लगता है",
+      "romanized": "alag hai kap par alag naheen lagataa hai",
       "speaker": "Calm",
       "translation": "The clothes are different, but it doesn't feel different.",
       "explanation": "He wears expensive clothes now, but he doesn't feel like a different person inside.",
@@ -169,6 +185,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "अंदर से वही हूँ जो पहले था",
+      "romanized": "andar se vahee hoon jo pahale thaa",
       "speaker": "Calm",
       "translation": "Inside, I am the same person I was before.",
       "explanation": "Affirming his authenticity and roots.",
@@ -176,6 +193,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "बदल गई भाई की जब किस्मत",
+      "romanized": "badal gaee bhaaee kee jab kismat",
       "speaker": "Calm",
       "translation": "When my luck/destiny changed.",
       "explanation": "Refers to the turning point in their career when they became successful.",
@@ -183,6 +201,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "तो बदल गया लौंडों का ढंग बातें करने का, aanh",
+      "romanized": "to badal gayaa laundon kaa dhang baaten karane kaa, aanh",
       "speaker": "Calm",
       "translation": "The way people talk to me changed.",
       "explanation": "Observing how people treat him differently now that he is famous.",
@@ -196,6 +215,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "बावे मैं मालिक हूँ धंधे का",
+      "romanized": "baave main maalik hoon dhandhe kaa",
       "speaker": "Calm",
       "translation": "Bro, I am the owner of this business.",
       "explanation": "Asserting his independence in the music industry (being independent or owning his craft).",
@@ -209,6 +229,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "Seedhe Maut आ गए तो बिकते नहीं Fanne Khan, aanh",
+      "romanized": "Seedhe Maut aa gae to bikate naheen Fanne Khan, aanh",
       "speaker": "Calm",
       "translation": "Now that Seedhe Maut is here, the so-called 'big shots' don't sell anymore.",
       "explanation": "Claims that their entry into the scene has made fake or mediocre rappers obsolete.",
@@ -222,6 +243,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "वो जाने कौन हाथी है कमरे का",
+      "romanized": "vo jaane kaun haathee hai kamare kaa",
       "speaker": "Calm",
       "translation": "He knows who the elephant in the room is.",
       "explanation": "Reference to the 'elephant in the room'—an obvious truth or person that cannot be ignored (himself).",
@@ -236,6 +258,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "कम लगे आता जब bill अस्सी-नब्बे का, aanh",
+      "romanized": "kam lage aataa jab bill assee-nabbe kaa, aanh",
       "speaker": "Calm",
       "translation": "It feels like less when an 80-90k bill comes.",
       "explanation": "Flexing his financial status; bills that used to be huge now seem small.",
@@ -250,6 +273,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "Local के लड़के है काटे है [?] जाने की घर कहाँ है इस बंदे का, uh",
+      "romanized": "Local ke lake hai kaate hai [?] jaane kee ghar kahaan hai is bande kaa, uh",
       "speaker": "Calm",
       "translation": "We are local boys... wondering where this guy's home is.",
       "explanation": "Referring to his constant travel and his 'everywhere and nowhere' status as a superstar.",
@@ -257,6 +281,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "ऊपर है सर के थी छत और ये सर पे था हाथ",
+      "romanized": "oopar hai sar ke thee chhat aur ye sar pe thaa haath",
       "speaker": "Calm",
       "translation": "There was a roof over my head and a hand of support on my head.",
       "explanation": "Hook repeat.",
@@ -264,6 +289,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "लेकिन I had to give it up",
+      "romanized": "lekin I had to give it up",
       "speaker": "Calm",
       "translation": "But I had to give it up.",
       "explanation": "Hook repeat.",
@@ -271,6 +297,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "रेहता था पूरे time नशे में",
+      "romanized": "rehataa thaa poore time nashe men",
       "speaker": "Calm",
       "translation": "I used to be high all the time.",
       "explanation": "Hook repeat.",
@@ -278,6 +305,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "जी रहा था music, मैं जी रहा था सुट्टों पर (जी रहा था सुट्टों पर)",
+      "romanized": "jee rahaa thaa music, main jee rahaa thaa sutton par (jee rahaa thaa sutton par)",
       "speaker": "Calm",
       "translation": "I was living for music, I was living on cigarettes.",
       "explanation": "Hook repeat.",
@@ -285,6 +313,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "थे बचपन के दोस्त जो बुलाते थे घर के नाम से",
+      "romanized": "the bachapan ke dost jo bulaate the ghar ke naam se",
       "speaker": "Calm",
       "translation": "There were childhood friends who called me by my nickname.",
       "explanation": "Hook repeat.",
@@ -292,6 +321,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "But I had to give it up",
+      "romanized": "But I had to give it up",
       "speaker": "Calm",
       "translation": "But I had to give it up.",
       "explanation": "Hook repeat.",
@@ -299,6 +329,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "था पास तब ये bag पर है चोदें हज़ार",
+      "romanized": "thaa paas tab ye bag par hai choden har",
       "speaker": "Calm",
       "translation": "I had this bag back then, but now there are a thousand critics.",
       "explanation": "Hook repeat.",
@@ -306,6 +337,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "और ये सपने तो I had to give it up, up, up",
+      "romanized": "aur ye sapane to I had to give it up, up, up",
       "speaker": "Calm",
       "translation": "And these dreams, I had to give it up, up, up.",
       "explanation": "Hook repeat.",
@@ -313,6 +345,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "नहीं चाहिए wack लोग, tryna kill my vibe (Bitch, don't kill my vibe)",
+      "romanized": "naheen chaahie wack log, tryna kill my vibe (Bitch, don't kill my vibe)",
       "speaker": "Calm",
       "translation": "I don't want wack people trying to kill my vibe.",
       "explanation": "Calm wants to keep his circle free of mediocre people. References Kendrick Lamar's famous line.",
@@ -326,6 +359,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "फिर आया DM, bad bitch कर रही slide (Bitch)",
+      "romanized": "phir aayaa DM, bad bitch kar rahee slide (Bitch)",
       "speaker": "Calm",
       "translation": "Then a DM came, a 'bad bitch' is sliding in.",
       "explanation": "A common trope of success—receiving attention from attractive women on social media.",
@@ -339,6 +373,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "वो पूछी, matter [?]",
+      "romanized": "vo poochhee, matter [?]",
       "speaker": "Calm",
       "translation": "She asked, what's the matter?",
       "explanation": "She's trying to start a conversation with him.",
@@ -346,6 +381,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "मैं कहता दिल्ली का हूँ, नहीं करता reply",
+      "romanized": "main kahataa dillee kaa hoon, naheen karataa reply",
       "speaker": "Calm",
       "translation": "I say I'm from Delhi, I don't reply.",
       "explanation": "Flexing his Delhi attitude and 'busy' status—he doesn't have time for random people.",
@@ -353,6 +389,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "Yeah, yeah, yeah",
+      "romanized": "Yeah, yeah, yeah",
       "speaker": "Raftaar",
       "translation": "Yeah, yeah, yeah",
       "explanation": "Ad-libs by Raftaar.",
@@ -360,6 +397,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "Yeah, Anunnaki करले hara-kiri",
+      "romanized": "Yeah, Anunnaki karale hara-kiri",
       "speaker": "Raftaar",
       "translation": "Yeah, let the Anunnaki commit hara-kiri.",
       "explanation": "Anunnaki (ancient deities) vs Hara-kiri (ritual suicide). He’s saying even god-like entities would fail/quit against him.",
@@ -378,6 +416,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "लेकिन हारेगा नहीं सर पे धरा गिरी",
+      "romanized": "lekin haaregaa naheen sar pe dharaa giree",
       "speaker": "Raftaar",
       "translation": "But he won't lose, even if the world falls on his head.",
       "explanation": "Raftaar expresses his resilience—even if the earth ('giri') falls on him, he won't give up.",
@@ -385,6 +424,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "तोड़ूँ काला पानी, fuck yo' आना-कानी",
+      "romanized": "ton kaalaa paanee, fuck yo' aanaa-kaanee",
       "speaker": "Raftaar",
       "translation": "I'll break through 'Kala Pani', fuck your excuses.",
       "explanation": "Reference to the Cellular Jail (Kala Pani). He is saying no matter how tough the situation, he will break out.",
@@ -398,6 +438,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "देना चाहे हानी, सीधा blade'in फिरी",
+      "romanized": "denaa chaahe haanee, seedhaa blade'in phiree",
       "speaker": "Raftaar",
       "translation": "If you want to cause harm, the blades will come out.",
       "explanation": "Street talk—if you try to hurt him, expect a violent response.",
@@ -405,6 +446,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "मेरी show fee भी बढ़ गयी है सौ फीसदी",
+      "romanized": "meree show fee bhee ba gayee hai sau pheesadee",
       "speaker": "Raftaar",
       "translation": "My performance fee has also increased by a hundred percent.",
       "explanation": "Direct flex on his commercial success and rising market value.",
@@ -412,6 +454,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "जिसकी छत नहीं उसका सपना झोपड़ी ही",
+      "romanized": "jisakee chhat naheen usakaa sapanaa jhop hee",
       "speaker": "Raftaar",
       "translation": "One who has no roof only dreams of a hut.",
       "explanation": "A philosophical take on how a person's surroundings limit their vision/ambition.",
@@ -419,6 +462,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "तभी घर लेके माँ मेरी रो पड़ी थी",
+      "romanized": "tabhee ghar leke maan meree ro pa thee",
       "speaker": "Raftaar",
       "translation": "That's why when I got a house, my mother started crying.",
       "explanation": "The emotional payoff of his hard work—providing a home for his family.",
@@ -433,6 +477,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "अब है OCB औषधि OCD की",
+      "romanized": "ab hai OCB aushadhi OCD kee",
       "speaker": "Raftaar",
       "translation": "Now OCB (rolling paper) is the medicine for my OCD.",
       "explanation": "A clever wordplay chain: OCB (paper) -> Aushadhi (medicine) -> OCD (disorder).",
@@ -451,6 +496,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "मैंने सीखा के बंदा कोई OBC नहीं",
+      "romanized": "mainne seekhaa ke bandaa koee OBC naheen",
       "speaker": "Raftaar",
       "translation": "I learned that no one is just 'OBC' (categorized).",
       "explanation": "Wordplay on the caste category 'OBC', suggesting talent isn't restricted by birth or reservations.",
@@ -458,6 +504,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "बच्चे शेरों के चालें, नहीं लोमड़ी की",
+      "romanized": "bachche sheron ke chaalen, naheen lom kee",
       "speaker": "Raftaar",
       "translation": "Lion's cubs have the walk of lions, not foxes.",
       "explanation": "Asserting dominance and royalty in his lineage/skills; he doesn't play cunning games like a fox.",
@@ -465,6 +512,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "अब ये vulgarity है या equality?",
+      "romanized": "ab ye vulgarity hai yaa equality?",
       "speaker": "Raftaar",
       "translation": "Now is this vulgarity or equality?",
       "explanation": "Raftaar questions societal double standards regarding profanity.",
@@ -479,6 +527,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "की वो भोसड़ीका और वो भोसड़ीकी",
+      "romanized": "kee vo bhosakaa aur vo bhosakee",
       "speaker": "Raftaar",
       "translation": "That he is a [expletive] and she is a [expletive].",
       "explanation": "Using a vulgar slur for both genders to ironically illustrate 'equality'.",
@@ -486,6 +535,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "तेरे घर की है कीमत ये दो घड़ी की",
+      "romanized": "tere ghar kee hai keemat ye do gha kee",
       "speaker": "Raftaar",
       "translation": "Your house's value is equal to these two watches.",
       "explanation": "Extreme financial flex—his luxury watches cost as much as a whole house.",
@@ -499,6 +549,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "वो बस दो घड़ी जुड़ी थी दोगली थी",
+      "romanized": "vo bas do gha ju thee dogalee thee",
       "speaker": "Raftaar",
       "translation": "She was only there for two moments; she was fake.",
       "explanation": "Referring to someone who was temporary and hypocritical.",
@@ -506,6 +557,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "मेरी चड्डी में फूले, मैं मोगली नहीं",
+      "romanized": "meree chaddee men phoole, main mogalee naheen",
       "speaker": "Raftaar",
       "translation": "It's blooming in my underwear; I'm not Mowgli.",
       "explanation": "Mowgli (Jungle Book) wore a loincloth; Raftaar is flexing his sexual prowess/growth with a crude but witty comparison.",
@@ -520,6 +572,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "उसका internet punch जिसने mockery की, क्या?",
+      "romanized": "usakaa internet punch jisane mockery kee, kyaa?",
       "speaker": "Raftaar",
       "translation": "His internet punch was just mockery, what?",
       "explanation": "Dismissing critics who only act tough online or try to mock him.",
@@ -534,6 +587,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "Yeah, इनके जैसे गोद में पांच है",
+      "romanized": "Yeah, inake jaise god men paanch hai",
       "speaker": "Raftaar",
       "translation": "Yeah, I have five like them in my lap.",
       "explanation": "Treating his competitors like children or being far superior to them.",
@@ -541,6 +595,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "DNA जाँच ले, काफी किये flush मैंने",
+      "romanized": "DNA jaanch le, kaaphee kiye flush mainne",
       "speaker": "Raftaar",
       "translation": "Check the DNA, I've flushed many down.",
       "explanation": "A dark, crude metaphor implying he has 'killed' or discarded many such rappers like waste.",
@@ -548,6 +603,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "सारे seedhe maut के घाट",
+      "romanized": "saare seedhe maut ke ghaat",
       "speaker": "Raftaar",
       "translation": "Everyone sent to the 'ghat' of straight death.",
       "explanation": "A play on the name 'Seedhe Maut' and the idiom 'Maut ke ghat utarna' (to kill).",
@@ -555,6 +611,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "रोज़ की बात है, बीज अनाथ है",
+      "romanized": "ro kee baat hai, beej anaath hai",
       "speaker": "Raftaar",
       "translation": "It's an everyday thing; the seed is orphaned.",
       "explanation": "Wordplay: 'Beej' (Seed) refers to Seedhe Maut, suggesting they grew up without mentorship or 'parents' in the industry.",
@@ -562,6 +619,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "Scene समाप्त है, खीचें लातें",
+      "romanized": "Scene samaapt hai, kheechen laaten",
       "speaker": "Raftaar",
       "translation": "The scene is over; they pull legs.",
       "explanation": "He declares the competition over while acknowledging that people still try to pull them down (leg-pulling).",
@@ -576,6 +634,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "सर खपाते घर में जाके",
+      "romanized": "sar khapaate ghar men jaake",
       "speaker": "Raftaar",
       "translation": "They go home and scratch their heads.",
       "explanation": "His opponents are left confused and frustrated by his skill.",
@@ -583,6 +642,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "तभी बढ़े जब चांटे थर-थराते",
+      "romanized": "tabhee ba jab chaante thar-tharaate",
       "speaker": "Raftaar",
       "translation": "They only learn when they get trembling slaps.",
       "explanation": "Suggests that his critics only respect him out of fear or after being 'schooled'.",
@@ -597,6 +657,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "इन्हें भर के खाते, मीठे साग के साथ है",
+      "romanized": "inhen bhar ke khaate, meethe saag ke saath hai",
       "speaker": "Raftaar",
       "translation": "Eating them up with sweet greens.",
       "explanation": "A metaphor for easily 'consuming' or defeating his rivals, as if they were a meal.",
@@ -604,6 +665,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "बंदर क्या जाने ये gourmet स्वाद है, bitch",
+      "romanized": "bandar kyaa jaane ye gourmet svaad hai, bitch",
       "speaker": "Raftaar",
       "translation": "What does a monkey know of this gourmet taste, bitch.",
       "explanation": "Based on the proverb 'Bandar kya jaane adrak ka swad'. He says mediocre people can't appreciate high-quality art (gourmet).",
@@ -617,6 +679,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "ऊपर है सर के थी छत और ये सर पे था हाथ",
+      "romanized": "oopar hai sar ke thee chhat aur ye sar pe thaa haath",
       "speaker": "Calm",
       "translation": "There was a roof over my head and a hand of support on my head.",
       "explanation": "Hook repeat.",
@@ -624,6 +687,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "लेकिन I had to give it up",
+      "romanized": "lekin I had to give it up",
       "speaker": "Calm",
       "translation": "But I had to give it up.",
       "explanation": "Hook repeat.",
@@ -631,6 +695,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "रेहता था पूरे time नशे में",
+      "romanized": "rehataa thaa poore time nashe men",
       "speaker": "Calm",
       "translation": "I used to be high all the time.",
       "explanation": "Hook repeat.",
@@ -638,6 +703,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "जी रहा था music, मैं जी रहा था सुट्टों पर (जी रहा था सुट्टों पर)",
+      "romanized": "jee rahaa thaa music, main jee rahaa thaa sutton par (jee rahaa thaa sutton par)",
       "speaker": "Calm",
       "translation": "I was living for music, I was living on cigarettes.",
       "explanation": "Hook repeat.",
@@ -645,6 +711,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "थे बचपन के दोस्त जो बुलाते थे घर के नाम से",
+      "romanized": "the bachapan ke dost jo bulaate the ghar ke naam se",
       "speaker": "Calm",
       "translation": "There were childhood friends who called me by my nickname.",
       "explanation": "Hook repeat.",
@@ -652,6 +719,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "But I had to give it up",
+      "romanized": "But I had to give it up",
       "speaker": "Calm",
       "translation": "But I had to give it up.",
       "explanation": "Hook repeat.",
@@ -659,6 +727,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "था पास तब ये bag पर है चोदें हज़ार",
+      "romanized": "thaa paas tab ye bag par hai choden har",
       "speaker": "Calm",
       "translation": "I had this bag back then, but now there are a thousand critics.",
       "explanation": "Hook repeat.",
@@ -666,6 +735,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "और ये सपने तो I had to give it up, up, up",
+      "romanized": "aur ye sapane to I had to give it up, up, up",
       "speaker": "Calm",
       "translation": "And these dreams, I had to give it up, up, up.",
       "explanation": "Hook repeat.",
@@ -673,6 +743,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "नहीं चाहिए wack लोग, tryna kill my vibe (Bitch, don't kill my vibe)",
+      "romanized": "naheen chaahie wack log, tryna kill my vibe (Bitch, don't kill my vibe)",
       "speaker": "Calm",
       "translation": "I don't want wack people trying to kill my vibe.",
       "explanation": "Bridge repeat.",
@@ -680,6 +751,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "फिर आया DM, bad bitch कर रही slide (Bitch)",
+      "romanized": "phir aayaa DM, bad bitch kar rahee slide (Bitch)",
       "speaker": "Calm",
       "translation": "Then a DM came, a 'bad bitch' is sliding in.",
       "explanation": "Bridge repeat.",
@@ -687,6 +759,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "वो पूछी, matter [?]",
+      "romanized": "vo poochhee, matter [?]",
       "speaker": "Calm",
       "translation": "She asked, what's the matter?",
       "explanation": "Bridge repeat.",
@@ -694,6 +767,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "मैं कहता दिल्ली का हूँ, नहीं करता reply",
+      "romanized": "main kahataa dillee kaa hoon, naheen karataa reply",
       "speaker": "Calm",
       "translation": "I say I'm from Delhi, I don't reply.",
       "explanation": "Bridge repeat.",
@@ -708,6 +782,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "Yeah",
+      "romanized": "Yeah",
       "speaker": "Encore ABJ",
       "translation": "Yeah",
       "explanation": "Ad-libs by Encore ABJ.",
@@ -715,6 +790,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "जब से ताज़ा खबरें छप गयी",
+      "romanized": "jab se taa khabaren chhap gayee",
       "speaker": "Encore ABJ",
       "translation": "Ever since the fresh news got printed.",
       "explanation": "Refers to when Seedhe Maut started getting media attention and mainstream coverage.",
@@ -722,6 +798,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "तब से scene में मच गयी अफ़रा-तफ़री",
+      "romanized": "tab se scene men mach gayee araa-taree",
       "speaker": "Encore ABJ",
       "translation": "Since then, there has been chaos in the scene.",
       "explanation": "Their arrival and success disrupted the existing power dynamics of the Indian Hip Hop scene.",
@@ -729,6 +806,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "जबसे तीन राजाओं की पीठ पे खंजर चल गए",
+      "romanized": "jabase teen raajaaon kee peeth pe khanjar chal gae",
       "speaker": "Encore ABJ",
       "translation": "Since the daggers were drawn against the backs of the three kings.",
       "explanation": "The 'three kings' are Calm, Encore, and Raftaar. Refers to betrayals or people backstabbing them.",
@@ -736,6 +814,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "Calm और double R, double E",
+      "romanized": "Calm aur double R, double E",
       "speaker": "Encore ABJ",
       "translation": "Calm and double R (Raftaar), double E (Encore).",
       "explanation": "Encore lists the three heavyweight collaborators on the track.",
@@ -743,6 +822,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "बालकों हम पे छूरी नहीं चलती, हाँ",
+      "romanized": "baalakon ham pe chhooree naheen chalatee, haan",
       "speaker": "Encore ABJ",
       "translation": "Boys, knives don't work on us.",
       "explanation": "Encore warns new/young rappers ('balako') that they are too tough to be hurt by petty attacks.",
@@ -750,6 +830,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "बेटा खाल है फौलादी, एक बाप की औलाद ही",
+      "romanized": "betaa khaal hai phaulaadee, ek baap kee aulaad hee",
       "speaker": "Encore ABJ",
       "translation": "Son, the skin is made of steel, we are the children of one father.",
       "explanation": "Asserting his strength and his loyalty/integrity.",
@@ -757,6 +838,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "Switch side करे, ना जी",
+      "romanized": "Switch side kare, naa jee",
       "speaker": "Encore ABJ",
       "translation": "Switching sides? No way.",
       "explanation": "Affirming their loyalty to their roots and their team; they are not 'flip-floppers'.",
@@ -764,6 +846,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "ना करे podcast लेके fraud past",
+      "romanized": "naa kare podcast leke fraud past",
       "speaker": "Encore ABJ",
       "translation": "We don't do podcasts with a fraudulent past.",
       "explanation": "A possible shot at rappers who try to clean their image through interviews or podcasts despite a shady history.",
@@ -771,6 +854,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "All that jazz you know I mean, हाँ",
+      "romanized": "All that jazz you know I mean, haan",
       "speaker": "Encore ABJ",
       "translation": "All that jazz, you know what I mean.",
       "explanation": "Idiomatic expression for 'all that extra stuff'.",
@@ -778,6 +862,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "चाहिए मौत पास, पहुँचो Hauz Khas",
+      "romanized": "chaahie maut paas, pahuncho Hauz Khas",
       "speaker": "Encore ABJ",
       "translation": "If you want death close, come to Hauz Khas.",
       "explanation": "Wordplay on 'Seedhe Maut'. Hauz Khas is a famous spot in Delhi where they started their journey.",
@@ -791,6 +876,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "Cypher gods का [?]",
+      "romanized": "Cypher gods kaa [?]",
       "speaker": "Encore ABJ",
       "translation": "The [?] of Cypher gods.",
       "explanation": "Encore claims their status as masters of the 'cypher' (impromptu rap circles).",
@@ -798,6 +884,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "मांगे प्यासा है पानी",
+      "romanized": "maange pyaasaa hai paanee",
       "speaker": "Encore ABJ",
       "translation": "The thirsty asks for water.",
       "explanation": "A simple metaphor for having a hunger for success.",
@@ -805,6 +892,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "आज का प्यासा, कल का है भूखा",
+      "romanized": "aaj kaa pyaasaa, kal kaa hai bhookhaa",
       "speaker": "Encore ABJ",
       "translation": "Thirsty today, hungry tomorrow.",
       "explanation": "The drive never ends; once you satisfy one need, another ambition (hunger) arises.",
@@ -812,6 +900,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "खुद का ना होने दे use हाँ",
+      "romanized": "khud kaa naa hone de use haan",
       "speaker": "Encore ABJ",
       "translation": "Don't let yourself be used.",
       "explanation": "Advice to stay independent and not be a tool for others' agendas.",
@@ -819,6 +908,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "दिल है ना तेरा कोई कुआँ",
+      "romanized": "dil hai naa teraa koee kuaan",
       "speaker": "Encore ABJ",
       "translation": "Your heart isn't a well.",
       "explanation": "Meaning your emotions or resources shouldn't be something anyone can just draw from endlessly.",
@@ -826,6 +916,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "Raftaar भाई ने एक बात कही",
+      "romanized": "Raftaar bhaaee ne ek baat kahee",
       "speaker": "Encore ABJ",
       "translation": "Brother Raftaar said one thing.",
       "explanation": "Referring to advice or a lyric from Raftaar.",
@@ -833,6 +924,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "\"साँपों को ना ही दूध देना ना दही\"",
+      "romanized": "\"saanpon ko naa hee doodh denaa naa dahee\"",
       "speaker": "Encore ABJ",
       "translation": "\"Don't give milk or curd to snakes.\"",
       "explanation": "Metaphor for not helping or nurturing treacherous people (snakes).",
@@ -840,6 +932,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "फ़न फैलाये, नारी ये काट गयी",
+      "romanized": "na phailaaye, naaree ye kaat gayee",
       "speaker": "Encore ABJ",
       "translation": "The snake spread its hood, and this woman bit.",
       "explanation": "Possible reference to a betrayal involving a woman or just a metaphor for a lethal encounter.",
@@ -854,6 +947,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "शह दे जहाँ पे, दे उन्हें मात वही, aanh",
+      "romanized": "shah de jahaan pe, de unhen maat vahee, aanh",
       "speaker": "Encore ABJ",
       "translation": "Where they give a check, give them a mate right there.",
       "explanation": "Chess metaphor: 'Sheh' (Check) and 'Maat' (Mate). Counter the opponent's move instantly.",
@@ -868,6 +962,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "बोलूँ मैं Urdu और संस्कृत",
+      "romanized": "boloon main Urdu aur sanskrit",
       "speaker": "Encore ABJ",
       "translation": "I speak Urdu and Sanskrit.",
       "explanation": "Flexing his linguistic range and deep connection to Indian culture and literature.",
@@ -882,6 +977,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "गले पे लगती सरस्वती कंठित",
+      "romanized": "gale pe lagatee sarasvatee kanthit",
       "speaker": "Encore ABJ",
       "translation": "Saraswati resides in my throat.",
       "explanation": "Saraswati is the Goddess of knowledge and speech. He claims divine talent in his rapping.",
@@ -895,6 +991,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "आठवां अजूबा ये wonder है वर्णित",
+      "romanized": "aathavaan ajoobaa ye wonder hai varnit",
       "speaker": "Encore ABJ",
       "translation": "This eighth wonder is described as a 'wonder'.",
       "explanation": "He calls himself or their duo the eighth wonder of the world.",
@@ -902,6 +999,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "ये नापे फरक, इन्हें नहीं आती है इतनी गणित",
+      "romanized": "ye naape pharak, inhen naheen aatee hai itanee ganit",
       "speaker": "Encore ABJ",
       "translation": "They measure the difference, but they don't know this much math.",
       "explanation": "Critics try to compare them to others, but they lack the 'calculations' (intelligence) to understand SM's level.",
@@ -909,6 +1007,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "मैं summit पे बैठा हूँ, I love it",
+      "romanized": "main summit pe baithaa hoon, I love it",
       "speaker": "Encore ABJ",
       "translation": "I'm sitting at the summit, I love it.",
       "explanation": "He is at the peak of the rap game.",
@@ -916,6 +1015,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "और सभी पे लागू, मैं जानकारी जनहित",
+      "romanized": "aur sabhee pe laagoo, main jaanakaaree janahit",
       "speaker": "Encore ABJ",
       "translation": "Applicable to all, I am information in public interest.",
       "explanation": "A play on 'Jan-hit mein jaari' (issued in public interest). His words are lessons for everyone.",
@@ -923,6 +1023,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "और वक़्त है सिखाता की रहना नहीं स्थगित",
+      "romanized": "aur vat hai sikhaataa kee rahanaa naheen sthagit",
       "speaker": "Encore ABJ",
       "translation": "And time teaches you not to remain stagnant.",
       "explanation": "Emphasizing the importance of constant growth and movement.",
@@ -930,6 +1031,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "और लक्ष्य पे रखता निशाना है सटीक",
+      "romanized": "aur lakshy pe rakhataa nishaanaa hai sateek",
       "speaker": "Encore ABJ",
       "translation": "And the aim on the target is precise.",
       "explanation": "He is focused and never misses his goals.",
@@ -937,6 +1039,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "Woah, वक़्त लिखे तेरी तक़दीर",
+      "romanized": "Woah, vat likhe teree tadeer",
       "speaker": "Encore ABJ",
       "translation": "Woah, time writes your destiny.",
       "explanation": "Acknowledging the power of time and fate.",
@@ -944,6 +1047,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "उसका मन किया तो राजा, उसका मन तो फ़कीर",
+      "romanized": "usakaa man kiyaa to raajaa, usakaa man to keer",
       "speaker": "Encore ABJ",
       "translation": "If it (time) feels like it, a king; if it feels like it, a beggar.",
       "explanation": "Reflecting on how quickly fortunes can change—one can go from king to beggar based on time.",
@@ -951,6 +1055,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "यानी समय का रहेगा राज यहाँ पे",
+      "romanized": "yaanee samay kaa rahegaa raaj yahaan pe",
       "speaker": "Encore ABJ",
       "translation": "Meaning time will rule here.",
       "explanation": "Time is the ultimate authority.",
@@ -958,6 +1063,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "चाहे Kanyakumari हो या फिर या हो (Ayo)",
+      "romanized": "chaahe Kanyakumari ho yaa phir yaa ho (Ayo)",
       "speaker": "Encore ABJ",
       "translation": "Whether it's Kanyakumari or wherever.",
       "explanation": "Their influence spans across the country, from the northern tip to the south.",
@@ -972,6 +1078,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "तेरा भाई—",
+      "romanized": "teraa bhaaee—",
       "speaker": "Encore ABJ",
       "translation": "Your brother—",
       "explanation": "Encore's signature sign-off phrase.",
@@ -979,6 +1086,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "ऊपर है सर के थी छत और ये सर पे था हाथ",
+      "romanized": "oopar hai sar ke thee chhat aur ye sar pe thaa haath",
       "speaker": "Calm",
       "translation": "There was a roof over my head and a hand of support on my head.",
       "explanation": "Final hook repeat.",
@@ -986,6 +1094,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "लेकिन I had to give it up",
+      "romanized": "lekin I had to give it up",
       "speaker": "Calm",
       "translation": "But I had to give it up.",
       "explanation": "Final hook repeat.",
@@ -993,6 +1102,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "रेहता था पूरे time नशे में",
+      "romanized": "rehataa thaa poore time nashe men",
       "speaker": "Calm",
       "translation": "I used to be high all the time.",
       "explanation": "Final hook repeat.",
@@ -1000,6 +1110,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "जी रहा था music, मैं जी रहा था सुट्टों पर (जी रहा था सुट्टों पर)",
+      "romanized": "jee rahaa thaa music, main jee rahaa thaa sutton par (jee rahaa thaa sutton par)",
       "speaker": "Calm",
       "translation": "I was living for music, I was living on cigarettes.",
       "explanation": "Final hook repeat.",
@@ -1007,6 +1118,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "थे बचपन के दोस्त जो बुलाते थे घर के नाम से",
+      "romanized": "the bachapan ke dost jo bulaate the ghar ke naam se",
       "speaker": "Calm",
       "translation": "There were childhood friends who called me by my nickname.",
       "explanation": "Final hook repeat.",
@@ -1014,6 +1126,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "But I had to give it up",
+      "romanized": "But I had to give it up",
       "speaker": "Calm",
       "translation": "But I had to give it up.",
       "explanation": "Final hook repeat.",
@@ -1021,6 +1134,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "था पास तब ये bag पर है चोदें हज़ार",
+      "romanized": "thaa paas tab ye bag par hai choden har",
       "speaker": "Calm",
       "translation": "I had this bag back then, but now there are a thousand critics.",
       "explanation": "Final hook repeat.",
@@ -1028,6 +1142,7 @@ export const gourmet_shit: Song = {
     },
     {
       "original": "और ये सपने तो I had to give it up, up, up",
+      "romanized": "aur ye sapane to I had to give it up, up, up",
       "speaker": "Calm",
       "translation": "And these dreams, I had to give it up, up, up.",
       "explanation": "Final hook repeat.",

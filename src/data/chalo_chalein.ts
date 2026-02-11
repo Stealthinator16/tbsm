@@ -10,6 +10,7 @@ export const chalo_chalein: Song = {
   "lyrics": [
     {
       "original": "चलो चलें नील गगन को",
+      "romanized": "Chalo chalen neel gagn ko",
       "speaker": "Ritviz",
       "translation": "Let's go, let's head towards the blue sky.",
       "explanation": "The hook sets the tone for the entire song -- an invitation to leave everything behind and chase the open sky. Ritviz's melodic delivery makes it feel like a warm call to adventure.",
@@ -23,6 +24,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "चलो चलें नील गगन को",
+      "romanized": "Chalo chalen neel gagn ko",
       "speaker": "Ritviz",
       "translation": "Let's go, let's head towards the blue sky.",
       "explanation": "Repetition of the hook to reinforce the dreamy, escapist mood.",
@@ -30,6 +32,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "उड़ कर, चल कर, श्वेत पवन को",
+      "romanized": "Ur kar, chal kar, shvet pavn ko",
       "speaker": "Ritviz",
       "translation": "By flying, by walking, towards the white wind.",
       "explanation": "Whether by air or on foot, the journey itself is the point. The 'white wind' evokes purity and freshness, a clean breeze away from the city's pollution and chaos.",
@@ -43,6 +46,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "उड़ कर, चल कर, श्वेत पवन को",
+      "romanized": "Ur kar, chal kar, shvet pavn ko",
       "speaker": "Ritviz",
       "translation": "By flying, by walking, towards the white wind.",
       "explanation": "Repetition of the line, deepening the meditative, hypnotic quality of the hook.",
@@ -50,6 +54,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "चलो चलें नील गगन को",
+      "romanized": "Chalo chalen neel gagn ko",
       "speaker": "Ritviz",
       "translation": "Let's go, let's head towards the blue sky.",
       "explanation": "Return to the central hook, anchoring the song's theme of escape and freedom.",
@@ -57,6 +62,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "चलो चलें नील गगन को",
+      "romanized": "Chalo chalen neel gagn ko",
       "speaker": "Ritviz",
       "translation": "Let's go, let's head towards the blue sky.",
       "explanation": "Final repetition of the opening hook before the verse begins.",
@@ -64,6 +70,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "सामान बांध",
+      "romanized": "Saamaan baandh",
       "speaker": "Calm & Encore ABJ",
       "translation": "Pack your bags.",
       "explanation": "A short, punchy opening to the verse -- a direct command to get ready and leave. Sets up the urgency of wanting to escape city life.",
@@ -71,6 +78,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "सोचा नहीं दो बार इन शहरों की ग़िरफ़्त से भागा मैं",
+      "romanized": "Sochaa naheen do baar in shahron kee girft se bhaagaa main",
       "speaker": "Calm & Encore ABJ",
       "translation": "Didn't think twice, I escaped from the grip of these cities.",
       "explanation": "They left the suffocating hold of urban life without hesitation. The word 'giraft' (grip/clutch) paints the city as something that traps you.",
@@ -84,6 +92,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "एक गहरी साँस लेके सब भूला भाई",
+      "romanized": "Ek gahree saans leke sab bhoolaa bhaaee",
       "speaker": "Calm & Encore ABJ",
       "translation": "Took one deep breath and forgot everything, brother.",
       "explanation": "One deep breath in nature is enough to wash away all the stress and worries of daily life. A moment of mindfulness and release.",
@@ -91,6 +100,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "जादू सा है कुछ इस हवा में",
+      "romanized": "Jaadoo saa hai kuchh is havaa men",
       "speaker": "Calm & Encore ABJ",
       "translation": "There's something magical in this air.",
       "explanation": "The fresh air outside the city feels enchanting, almost supernatural compared to the polluted city air they're used to in Delhi.",
@@ -98,6 +108,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "झंझट से दूर",
+      "romanized": "Jhanjht se door",
       "speaker": "Calm & Encore ABJ",
       "translation": "Far from all the hassles.",
       "explanation": "Away from the complications and drama of everyday city life.",
@@ -111,6 +122,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "पड़ोसी की बेटी नहीं सुनी आज",
+      "romanized": "Parosee kee betee naheen sunee aaj",
       "speaker": "Calm & Encore ABJ",
       "translation": "Didn't listen to the neighbor's daughter today.",
       "explanation": "A reference to nosy neighbors and the social policing that happens in Indian middle-class neighborhoods. Out here in nature, none of that gossip or judgment exists.",
@@ -118,6 +130,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "जाओ करो जो करना है डर ना कुछ",
+      "romanized": "Jaao karo jo karnaa hai dar naa kuchh",
       "speaker": "Calm & Encore ABJ",
       "translation": "Go do whatever you want, don't be afraid of anything.",
       "explanation": "An empowering statement -- once you're free from society's judgment, you can live without fear. A core message of the song.",
@@ -125,6 +138,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "अभी भी सोचे क्या सोचेगी दुनिया",
+      "romanized": "Abhee bhee soche kyaa sochegee duniyaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "Still thinking about what the world will think?",
       "explanation": "Challenging the listener's habit of worrying about social approval. Even out in the open, people carry the mental weight of societal expectations.",
@@ -132,6 +146,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "रहने दो यहाँ जाना मुझे घर नहीं",
+      "romanized": "Rahne do yahaan jaanaa mujhe ghar naheen",
       "speaker": "Calm & Encore ABJ",
       "translation": "Let it be, I don't want to go home from here.",
       "explanation": "They don't want to return home -- the freedom and peace of being away is too good to give up.",
@@ -139,6 +154,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "इन कुविचारों की है जड़ वही",
+      "romanized": "In kuvichaaron kee hai jar vahee",
       "speaker": "Calm & Encore ABJ",
       "translation": "The root of these negative thoughts lies right there (back home).",
       "explanation": "Home and the city are identified as the source of all the toxic thinking and anxiety. Being away from it all is the cure.",
@@ -152,6 +168,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "ये जो चमके तारे",
+      "romanized": "Ye jo chamke taare",
       "speaker": "Calm & Encore ABJ",
       "translation": "These stars that shine...",
       "explanation": "Transitioning to the night sky -- stars that are invisible in the city's light pollution are now visible and breathtaking.",
@@ -159,6 +176,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "मेरे पे पूरी रात है",
+      "romanized": "Mere pe pooree raat hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "The entire night is mine.",
       "explanation": "A sense of ownership over the moment -- the whole night sky belongs to them. No deadlines, no rush, just time stretching out endlessly.",
@@ -166,6 +184,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "प्रकृति साथ है woah",
+      "romanized": "Prakriti saath hai woah",
       "speaker": "Calm & Encore ABJ",
       "translation": "Nature is with me, woah.",
       "explanation": "Nature itself feels like a companion. A simple but powerful acknowledgment of feeling connected to the natural world.",
@@ -179,6 +198,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "जो गरीब पास नहीं",
+      "romanized": "Jo gareeb paas naheen",
       "speaker": "Calm & Encore ABJ",
       "translation": "What the poor don't have...",
       "explanation": "Setting up a contrast -- they're about to flip the idea of what it means to be poor and rich.",
@@ -186,6 +206,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "हम गरीब आदमी",
+      "romanized": "Ham gareeb aadmee",
       "speaker": "Calm & Encore ABJ",
       "translation": "We are poor people.",
       "explanation": "They acknowledge being financially humble. As independent artists in 2019, Seedhe Maut were far from wealthy.",
@@ -193,6 +214,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "फिर भी जीत जारी (eh)",
+      "romanized": "Phir bhee jeet jaaree (eh)",
       "speaker": "Calm & Encore ABJ",
       "translation": "Yet the winning streak continues.",
       "explanation": "Despite being broke, they're still winning -- through their art, their freedom, their connection to nature. Money isn't the only measure of success.",
@@ -200,6 +222,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "अतीत की चादर ओढ़े खोया आज उन गुफाओं में",
+      "romanized": "Ateet kee chaadr orhe khoyaa aaj un guphaaon men",
       "speaker": "Calm & Encore ABJ",
       "translation": "Wrapped in the blanket of the past, lost today in those caves.",
       "explanation": "A beautifully poetic image -- they've draped themselves in memories and gotten lost exploring ancient caves. The past and present merge in nature's timelessness.",
@@ -213,6 +236,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "है चंदा जा के पीछे छिपता रात इन पहाड़ो के",
+      "romanized": "Hai chandaa jaa ke peechhe chhiptaa raat in pahaaro ke",
       "speaker": "Calm & Encore ABJ",
       "translation": "The moon goes and hides behind these mountains at night.",
       "explanation": "A vivid description of the mountain landscape at night -- watching the moon disappear behind the peaks. Pure observational poetry.",
@@ -226,6 +250,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "चमकता जुगनू जैसे तारे लाख इन फ़िज़ाओं में",
+      "romanized": "Chamktaa jugnoo jaise taare laakh in fizaaon men",
       "speaker": "Calm & Encore ABJ",
       "translation": "Stars glowing like fireflies, hundreds of thousands in these skies.",
       "explanation": "The stars are compared to fireflies -- countless and glowing softly across the vast open sky. An image only possible far from city lights.",
@@ -244,6 +269,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "लपक के बांधा मैंने फीता छाप छोड़े चला (चला)",
+      "romanized": "Lapk ke baandhaa mainne pheetaa chhaap chhore chalaa (chalaa)",
       "speaker": "Calm & Encore ABJ",
       "translation": "I quickly laced up my shoes and left, leaving my mark behind.",
       "explanation": "He tied his shoes and set off on the journey, leaving footprints -- both literal footprints on trails and a metaphorical mark on the world through his art.",
@@ -257,6 +283,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "मुझे किस-किस ने क्या-क्या कहा (कहा)",
+      "romanized": "Mujhe kis-kis ne kyaa-kyaa kahaa (kahaa)",
       "speaker": "Calm & Encore ABJ",
       "translation": "So many people told me so many things.",
       "explanation": "Reflecting on all the doubters and critics who had opinions about their life choices -- pursuing rap, leaving stability behind, choosing freedom over convention.",
@@ -264,6 +291,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "भटकता रहा मैं सिर्फ आवारा (आवारा)",
+      "romanized": "Bhatktaa rahaa main sirph aavaaraa (aavaaraa)",
       "speaker": "Calm & Encore ABJ",
       "translation": "I just kept wandering like a vagabond.",
       "explanation": "Despite all the criticism, they kept moving -- aimless to the outside world but internally driven. 'Aawara' reclaims the label of wanderer as something positive.",
@@ -277,6 +305,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "मैं एक बादल में चलता रहा",
+      "romanized": "Main ek baadl men chaltaa rahaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "I kept walking in a cloud.",
       "explanation": "Living in a dreamy, elevated state -- head in the clouds, literally and figuratively. Could also refer to being in the mountains where clouds surround you at high altitude.",
@@ -284,6 +313,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "गगन बरस पड़ा तो 'वाह-वाह'",
+      "romanized": "Gagn bars paraa to 'vaah-vaah'",
       "speaker": "Calm & Encore ABJ",
       "translation": "When the sky poured down, it was 'wow, wow!'",
       "explanation": "When the rain finally came, it was a moment of awe and celebration rather than inconvenience. Also a double meaning -- 'gagan' ties back to the hook's 'neel gagan', and 'vaah-vaah' is the exclamation used to praise poetry in mushairas (poetry gatherings), suggesting their art is like rain pouring from the sky.",
@@ -302,6 +332,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "चलो चलें नील गगन को",
+      "romanized": "Chalo chalen neel gagn ko",
       "speaker": "Ritviz",
       "translation": "Let's go, let's head towards the blue sky.",
       "explanation": "The hook returns after the verse, now carrying the emotional weight of everything that was said -- the escape, the freedom, the poetry of nature.",
@@ -309,6 +340,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "चलो चलें नील गगन को",
+      "romanized": "Chalo chalen neel gagn ko",
       "speaker": "Ritviz",
       "translation": "Let's go, let's head towards the blue sky.",
       "explanation": "Repetition of the hook, reinforcing the invitation.",
@@ -316,6 +348,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "उड़ कर, चल कर, श्वेत पवन को",
+      "romanized": "Ur kar, chal kar, shvet pavn ko",
       "speaker": "Ritviz",
       "translation": "By flying, by walking, towards the white wind.",
       "explanation": "The mode of travel doesn't matter -- what matters is the movement towards freedom and fresh air.",
@@ -323,6 +356,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "चलो चलें नील गगन को",
+      "romanized": "Chalo chalen neel gagn ko",
       "speaker": "Ritviz",
       "translation": "Let's go, let's head towards the blue sky.",
       "explanation": "The hook repeats as the song winds down, leaving the listener with the core message of escape and peace.",
@@ -330,6 +364,7 @@ export const chalo_chalein: Song = {
     },
     {
       "original": "चलो चलें नील गगन को",
+      "romanized": "Chalo chalen neel gagn ko",
       "speaker": "Ritviz",
       "translation": "Let's go, let's head towards the blue sky.",
       "explanation": "Final repetition of the hook, closing the song on the same dreamy, hopeful note it began with.",

@@ -13,6 +13,7 @@ export const _11k: Song = {
   "lyrics": [
     {
       "original": "भाई, कुछ दिन पहले, मेरे एक दोस्त ने मेरे से पूछा",
+      "romanized": "Bhaaee, kuchha dina pahale, mere eka dosta ne mere se poochhaa",
       "speaker": "Calm",
       "translation": "Bro, a few days ago, a friend of mine asked me",
       "explanation": "Calm starts the track with a conversational skit to set up the theme of financial growth and perspective.",
@@ -27,6 +28,7 @@ export const _11k: Song = {
     },
     {
       "original": "\"भाई, थोड़ी ज़रूरत है",
+      "romanized": "\\\"bhaaee, thoड़ee ज़roorata hai",
       "speaker": "Calm",
       "translation": "\"Bro, I'm in a bit of a need",
       "explanation": "The friend is asking for a loan, showing that Calm is now in a position where people come to him for money.",
@@ -41,6 +43,7 @@ export const _11k: Song = {
     },
     {
       "original": "ग्यारह हज़ार रुपये पड़े हैं आप पे?\"",
+      "romanized": "Gyaaraha haज़aara rupaye paड़e hain aapa pe?\\\"",
       "speaker": "Calm",
       "translation": "Do you have eleven thousand rupees on you?\"",
       "explanation": "The specific amount '11,000' (11K) is the hook and the title of the song.",
@@ -60,6 +63,7 @@ export const _11k: Song = {
     },
     {
       "original": "मैंने कहा \"भाई, बिल्कुल पड़े हैं\"",
+      "romanized": "Mainne kahaa \\\"bhaaee, bilkula paड़e hain\\\"",
       "speaker": "Calm",
       "translation": "I said, \"Bro, I definitely have it.\"",
       "explanation": "Calm confirms he has the money, contrasting his current success with his past struggle.",
@@ -67,6 +71,7 @@ export const _11k: Song = {
     },
     {
       "original": "पता है, छह साल पहले मेरेको",
+      "romanized": "Pataa hai, chhaha saala pahale mereko",
       "speaker": "Calm",
       "translation": "You know, six years ago, for me",
       "explanation": "He begins reflecting on how his value and time have changed over the last six years.",
@@ -74,6 +79,7 @@ export const _11k: Song = {
     },
     {
       "original": "ग्यारह हज़ार कमाने के लिये",
+      "romanized": "Gyaaraha haज़aara kamaane ke liye",
       "speaker": "Calm",
       "translation": "To earn eleven thousand",
       "explanation": "Setting the baseline for his previous financial status.",
@@ -88,6 +94,7 @@ export const _11k: Song = {
     },
     {
       "original": "ग्यारह दिन काम करना पड़ता भाई",
+      "romanized": "Gyaaraha dina kaama karanaa paड़taa bhaaee",
       "speaker": "Calm",
       "translation": "I had to work for eleven days, brother.",
       "explanation": "Earlier, 1,000 INR per day was his earning rate, requiring significant effort for a small amount.",
@@ -95,6 +102,7 @@ export const _11k: Song = {
     },
     {
       "original": "हमने भी सोलह bar के लिये पेटी उठाई है",
+      "romanized": "Hamane bhee solaha bar ke liye petee uthaaee hai",
       "speaker": "Calm",
       "translation": "Even we have picked up a 'peti' (Lakh) for a 16-bar verse.",
       "explanation": "He flexes that they now charge 1 Lakh (1,00,000 INR) for a single rap verse (16 bars).",
@@ -113,6 +121,7 @@ export const _11k: Song = {
     },
     {
       "original": "इसको लिखने और record करने में",
+      "romanized": "Isako likhane aura record karane men",
       "speaker": "Calm",
       "translation": "To write and record this",
       "explanation": "Referring to the effort put into their current music.",
@@ -120,6 +129,7 @@ export const _11k: Song = {
     },
     {
       "original": "पांच घंटे से ज़्यादा नहीं लगा होगा भाई",
+      "romanized": "Paancha ghante se ज़yaadaa naheen lagaa hogaa bhaaee",
       "speaker": "Calm",
       "translation": "It wouldn't have taken more than five hours, brother.",
       "explanation": "He highlights their efficiency and how their skill allows them to create high-value art quickly.",
@@ -127,6 +137,7 @@ export const _11k: Song = {
     },
     {
       "original": "ग्यारह दिन छोड़, उन पांच घंटों में, हर पन्द्रह minute में",
+      "romanized": "Gyaaraha dina chhoड़, una paancha ghanton men, hara pandraha minute men",
       "speaker": "Calm",
       "translation": "Forget eleven days; in those five hours, every fifteen minutes",
       "explanation": "He breaks down the math to show how much more they earn per minute now.",
@@ -134,6 +145,7 @@ export const _11k: Song = {
     },
     {
       "original": "पचास हज़ार से ज़्यादा कमा रहे थे हम दोनों",
+      "romanized": "Pachaasa haज़aara se ज़yaadaa kamaa rahe the hama donon",
       "speaker": "Calm",
       "translation": "The both of us were earning more than fifty thousand.",
       "explanation": "A massive flex regarding their ROI (Return on Investment) of time.",
@@ -141,6 +153,7 @@ export const _11k: Song = {
     },
     {
       "original": "हाँ भाई, हैं तेरे भाई पे ग्यारह हज़ार",
+      "romanized": "Haan bhaaee, hain tere bhaaee pe gyaaraha haज़aara",
       "speaker": "Calm",
       "translation": "Yes brother, your brother has eleven thousand on him.",
       "explanation": "Reiterating that 11K is now pocket change for him.",
@@ -148,6 +161,7 @@ export const _11k: Song = {
     },
     {
       "original": "हैगी ऐसी penmanship",
+      "romanized": "Haigee aisee penmanship",
       "speaker": "Calm",
       "translation": "Such is the penmanship.",
       "explanation": "Attributing their wealth to their superior lyrical ability.",
@@ -161,6 +175,7 @@ export const _11k: Song = {
     },
     {
       "original": "When I let it rip, तेरी bae कहे \"Damn!\" (हो जाए शुरू)",
+      "romanized": "When I let it rip, teree bae kahe \\\"Damn!\\\" (ho jaae shuroo)",
       "speaker": "Calm",
       "translation": "When I let it rip, your girl says \"Damn!\" (Let's get started)",
       "explanation": "A classic hip-hop trope—when he starts rapping, even the listener's partner is impressed.",
@@ -174,6 +189,7 @@ export const _11k: Song = {
     },
     {
       "original": "हैगे मेरे बोहोत known, game बना Warzone",
+      "romanized": "Haige mere bohota knowan, game banaa Warzone",
       "speaker": "Calm",
       "translation": "I have many people known to me; the game has become Warzone.",
       "explanation": "He compares the rap scene or the streets of Delhi to the chaotic video game 'Call of Duty: Warzone'.",
@@ -193,6 +209,7 @@ export const _11k: Song = {
     },
     {
       "original": "आजा मेरे शहर Verdansk",
+      "romanized": "Aajaa mere shahara Verdansk",
       "speaker": "Calm",
       "translation": "Come to my city, Verdansk.",
       "explanation": "Verdansk is the primary map in Warzone; here, he uses it as a metaphor for his territory in Delhi.",
@@ -206,6 +223,7 @@ export const _11k: Song = {
     },
     {
       "original": "यहाँ पड़े combo, downright Django हैगे थोड़े crazy mans",
+      "romanized": "Yahaan paड़e combo, dowanright Django haige thoड़e crazy mans",
       "speaker": "Calm",
       "translation": "Combos land here; we're downright Django, we're slightly crazy men.",
       "explanation": "References fighting game 'combos' and the wild, unstoppable nature of the character Django (from Tarantino's film).",
@@ -225,6 +243,7 @@ export const _11k: Song = {
     },
     {
       "original": "जोटे छीने bouncer तेरा, आए जेब में मेरी मेरा street cred max (Max')",
+      "romanized": "Jote chheene bouncer teraa, aae jeba men meree meraa street cred max (Max')",
       "speaker": "Calm",
       "translation": "Your bouncer snatches joints; my street cred is at its max in my pocket.",
       "explanation": "He claims his reputation is so high that even security or authorities can't touch him, while others get their stuff confiscated.",
@@ -244,6 +263,7 @@ export const _11k: Song = {
     },
     {
       "original": "SM get paid in advance",
+      "romanized": "SM get paid in advance",
       "speaker": "Calm",
       "translation": "Seedhe Maut gets paid in advance.",
       "explanation": "A sign of a top-tier artist—demanding full payment before the work even begins.",
@@ -258,6 +278,7 @@ export const _11k: Song = {
     },
     {
       "original": "मिलूँगा या नहीं depends",
+      "romanized": "Miloongaa yaa naheen depends",
       "speaker": "Calm",
       "translation": "Whether I'll meet you or not, depends.",
       "explanation": "Highlighting his exclusivity and the value of his time.",
@@ -278,6 +299,7 @@ export const _11k: Song = {
     },
     {
       "original": "बड़ा भाई चलाता Benz, छोटा भाई चबाता chain",
+      "romanized": "Baड़aa bhaaee chalaataa Benz, chhotaa bhaaee chabaataa chain",
       "speaker": "Calm",
       "translation": "The big brother drives a Benz, the little brother chews on his chain.",
       "explanation": "Calm (older) has the luxury car; Encore (younger) has the jewelry and the 'don't care' attitude.",
@@ -291,6 +313,7 @@ export const _11k: Song = {
     },
     {
       "original": "दोनों भाई जलाते गैंड",
+      "romanized": "Donon bhaaee jalaate gainda",
       "speaker": "Calm",
       "translation": "Both brothers make people jealous.",
       "explanation": "'Gaand jalana' is common Hindi slang for making others envious of your success.",
@@ -310,6 +333,7 @@ export const _11k: Song = {
     },
     {
       "original": "हर जगह 10 out of 10 (Brr)",
+      "romanized": "Hara jagaha 10 out of 10 (Brr)",
       "speaker": "Calm",
       "translation": "10 out of 10 everywhere.",
       "explanation": "They are perfect in every aspect of their craft and lifestyle.",
@@ -324,6 +348,7 @@ export const _11k: Song = {
     },
     {
       "original": "है बोहोद महँगा ये pen, इसे अच्छे से आता है करना offend",
+      "romanized": "Hai bohoda mahangaa ye pen, ise achchhe se aataa hai karanaa offend",
       "speaker": "Calm",
       "translation": "This pen is very expensive; it knows very well how to offend.",
       "explanation": "Their lyrics are high-value but also sharp enough to trigger their haters.",
@@ -331,6 +356,7 @@ export const _11k: Song = {
     },
     {
       "original": "इसे अच्छे से आता है करना offend",
+      "romanized": "Ise achchhe se aataa hai karanaa offend",
       "speaker": "Encore ABJ",
       "translation": "It knows very well how to offend.",
       "explanation": "Encore repeats the line, transitioning into his high-energy verse.",
@@ -338,6 +364,7 @@ export const _11k: Song = {
     },
     {
       "original": "मुझे अच्छे से आता है भरना घुसंड",
+      "romanized": "Mujhe achchhe se aataa hai bharanaa ghusanda",
       "speaker": "Encore ABJ",
       "translation": "I know very well how to land a punch.",
       "explanation": "'Ghusand' is regional slang for a powerful punch; Encore is bringing aggression.",
@@ -357,6 +384,7 @@ export const _11k: Song = {
     },
     {
       "original": "तेरी (Huh) साथ वाली ज़्यादा पसंद",
+      "romanized": "Teree (Huh) saatha vaalee ज़yaadaa pasanda",
       "speaker": "Encore ABJ",
       "translation": "I like the one with you more.",
       "explanation": "A provocative line aimed at an opponent or listener.",
@@ -364,6 +392,7 @@ export const _11k: Song = {
     },
     {
       "original": "इनकी ज़बान से ज़्यादा ये लंड है बुलंद",
+      "romanized": "Inakee ज़baana se ज़yaadaa ye landa hai bulanda",
       "speaker": "Encore ABJ",
       "translation": "My d*ck is more prominent than their tongues.",
       "explanation": "A crude metaphor suggesting their words have no power compared to his presence/dominance.",
@@ -371,6 +400,7 @@ export const _11k: Song = {
     },
     {
       "original": "तेरी ज़बान से ज़्यादा ये काली सुरंग",
+      "romanized": "Teree ज़baana se ज़yaadaa ye kaalee suranga",
       "speaker": "Encore ABJ",
       "translation": "This black tunnel (gun barrel/throat) is deeper than your tongue.",
       "explanation": "Could refer to a weapon or the depth of his lyrics vs. their shallow talk.",
@@ -385,6 +415,7 @@ export const _11k: Song = {
     },
     {
       "original": "तूझे जाना है तो जा",
+      "romanized": "Toojhe jaanaa hai to jaa",
       "speaker": "Encore ABJ",
       "translation": "If you want to go, then go.",
       "explanation": "Indifference towards those who aren't loyal or don't want to stay around.",
@@ -399,6 +430,7 @@ export const _11k: Song = {
     },
     {
       "original": "I've been one with the pen",
+      "romanized": "I've been one with the pen",
       "speaker": "Encore ABJ",
       "translation": "I've been one with the pen.",
       "explanation": "Encore's deep connection to songwriting and lyricism.",
@@ -406,6 +438,7 @@ export const _11k: Song = {
     },
     {
       "original": "वैसे घर वाली music है, बाहर वाली business है",
+      "romanized": "Vaise ghara vaalee music hai, baahara vaalee business hai",
       "speaker": "Encore ABJ",
       "translation": "The one at home is music; the one outside is business.",
       "explanation": "Comparing music to a wife/true love and the industry/hustle to an outside affair or job.",
@@ -413,6 +446,7 @@ export const _11k: Song = {
     },
     {
       "original": "एक देरी खुशी और एक देरी बोहोद सारा ETH और बोहोद सारे rupees",
+      "romanized": "Eka deree khushee aura eka deree bohoda saaraa ETH aura bohoda saare rupees",
       "speaker": "Encore ABJ",
       "translation": "One gives happiness, and the other gives a lot of ETH and a lot of rupees.",
       "explanation": "Music provides soul satisfaction; business provides Cryptocurrency (Ethereum) and Cash.",
@@ -426,6 +460,7 @@ export const _11k: Song = {
     },
     {
       "original": "और मोटी-मोटी जेब, T पे बड़े-बड़े 'Louis'",
+      "romanized": "Aura motee-motee jeba, T pe baड़e-baड़e 'Louis'",
       "speaker": "Encore ABJ",
       "translation": "And fat pockets, big 'Louis' on the T-shirt.",
       "explanation": "Flexing wealth and luxury fashion (Louis Vuitton).",
@@ -439,6 +474,7 @@ export const _11k: Song = {
     },
     {
       "original": "I hold shit down on the map पूरा खुद ही",
+      "romanized": "I hold shit dowan on the map pooraa khuda hee",
       "speaker": "Encore ABJ",
       "translation": "I hold shit down on the map entirely by myself.",
       "explanation": "Claiming total dominance over the rap scene/territory without needing help.",
@@ -446,6 +482,7 @@ export const _11k: Song = {
     },
     {
       "original": "इन हलवों की शक्लें क्यों अपने आप सूजी",
+      "romanized": "Ina halavon kee shaklen kyon apane aapa soojee",
       "speaker": "Encore ABJ",
       "translation": "Why are the faces of these 'halwas' swollen on their own?",
       "explanation": "Double entendre: 'Halwa' means weak/soft people. 'Suji' means swollen (from jealousy) but also Semolina (used to make Halwa).",
@@ -464,6 +501,7 @@ export const _11k: Song = {
     },
     {
       "original": "कवि कहना चाहते हैं कि जब कवि ने",
+      "romanized": "Kavi kahanaa chaahate hain ki jaba kavi ne",
       "speaker": "Encore ABJ",
       "translation": "The poet wants to say that when the poet",
       "explanation": "Uses a formal, school-like Hindi literature phrasing to introduce a deep life lesson.",
@@ -471,6 +509,7 @@ export const _11k: Song = {
     },
     {
       "original": "आपके पिताजी के पैसों का कभी खाया ही नहीं तो",
+      "romanized": "Aapake pitaajee ke paison kaa kabhee khaayaa hee naheen to",
       "speaker": "Encore ABJ",
       "translation": "Never ate off your father's money, then",
       "explanation": "Since he is self-made and didn't depend on anyone else's family wealth.",
@@ -478,6 +517,7 @@ export const _11k: Song = {
     },
     {
       "original": "तो बोला तू कैसे कला किसकी कैसी?",
+      "romanized": "To bolaa too kaise kalaa kisakee kaisee?",
       "speaker": "Encore ABJ",
       "translation": "Then how can you judge whose art is what?",
       "explanation": "If you don't fund me, you have no right to critique my artistic choices.",
@@ -485,6 +525,7 @@ export const _11k: Song = {
     },
     {
       "original": "बना खुद को पहले, बना खुद के पैसे गवा",
+      "romanized": "Banaa khuda ko pahale, banaa khuda ke paise gavaa",
       "speaker": "Encore ABJ",
       "translation": "Build yourself first; spend the money you earned yourself.",
       "explanation": "Advice on being self-reliant and taking risks with your own capital.",
@@ -492,6 +533,7 @@ export const _11k: Song = {
     },
     {
       "original": "खुद के जैसे बड़ा, खुद के पैसे सम्भाल",
+      "romanized": "Khuda ke jaise baड़aa, khuda ke paise sambhaala",
       "speaker": "Encore ABJ",
       "translation": "Grow like yourself; manage your own money.",
       "explanation": "Be original and be responsible for your own success.",
@@ -499,6 +541,7 @@ export const _11k: Song = {
     },
     {
       "original": "अपने लहज़े बना अपनी लेह बे",
+      "romanized": "Apane lahaज़e banaa apanee leha be",
       "speaker": "Encore ABJ",
       "translation": "Create your own style, your own rhythm.",
       "explanation": "'Leh' refers to tempo or flow. He's telling artists to find their own voice.",
@@ -513,6 +556,7 @@ export const _11k: Song = {
     },
     {
       "original": "और चल अपनी लेह पे, ना चल किसका सह के",
+      "romanized": "Aura chala apanee leha pe, naa chala kisakaa saha ke",
       "speaker": "Encore ABJ",
       "translation": "And walk to your own rhythm; don't walk while tolerating anyone's crap.",
       "explanation": "Live on your own terms, not under someone else's thumb.",
@@ -520,6 +564,7 @@ export const _11k: Song = {
     },
     {
       "original": "अचल हूँ मैं वैसे",
+      "romanized": "Achala hoon main vaise",
       "speaker": "Encore ABJ",
       "translation": "I am immovable/steady anyway.",
       "explanation": "'Achal' means immovable or steady, reflecting his personality and status.",
@@ -534,6 +579,7 @@ export const _11k: Song = {
     },
     {
       "original": "पर अपनों पे आए तो रहपटे पे रहपटे पे रहपटे पे रहपटे",
+      "romanized": "Para apanon pe aae to rahapate pe rahapate pe rahapate pe rahapate",
       "speaker": "Encore ABJ",
       "translation": "But if it comes to my people, then it's slap after slap after slap.",
       "explanation": "He is peaceful until his circle is threatened, then he becomes violent. 'Rahpate' is slang for slaps.",
@@ -547,6 +593,7 @@ export const _11k: Song = {
     },
     {
       "original": "मैं सीखा हूँ सड़कों से, अपनों के झगड़ों से",
+      "romanized": "Main seekhaa hoon saड़kon se, apanon ke jhagaड़on se",
       "speaker": "Encore ABJ",
       "translation": "I've learned from the streets, from the fights of my own people.",
       "explanation": "His education comes from real-life experiences and internal conflicts.",
@@ -554,6 +601,7 @@ export const _11k: Song = {
     },
     {
       "original": "कल से और परसों से",
+      "romanized": "Kala se aura parason se",
       "speaker": "Encore ABJ",
       "translation": "From yesterday and the day before.",
       "explanation": "Every day is a lesson.",
@@ -561,6 +609,7 @@ export const _11k: Song = {
     },
     {
       "original": "हाथों से फिसल के बहते हुए लम्हों से",
+      "romanized": "Haathon se phisala ke bahate hue lamhon se",
       "speaker": "Encore ABJ",
       "translation": "From the moments slipping through my hands.",
       "explanation": "Learning from time and the fleeting nature of life.",
@@ -568,6 +617,7 @@ export const _11k: Song = {
     },
     {
       "original": "लौंडों के खामखां बंदी के झगड़ों से",
+      "romanized": "Laundon ke khaamakhaan bandee ke jhagaड़on se",
       "speaker": "Encore ABJ",
       "translation": "From guys' useless fights over girls.",
       "explanation": "Observing the petty mistakes others make in the streets.",
@@ -581,6 +631,7 @@ export const _11k: Song = {
     },
     {
       "original": "फिर उन्हीं बंदी के पांच सौ नखरों से",
+      "romanized": "Phira unheen bandee ke paancha sau nakharon se",
       "speaker": "Encore ABJ",
       "translation": "Then from those same girls' five hundred tantrums.",
       "explanation": "Learning patience or the futility of toxic relationships.",
@@ -588,6 +639,7 @@ export const _11k: Song = {
     },
     {
       "original": "Mummy की फ़िक्र से, papa के नशों से (Aanh!)",
+      "romanized": "Mummy kee फ़ikra se, papa ke nashon se (Aanh!)",
       "speaker": "Encore ABJ",
       "translation": "From mother's worries and father's addictions.",
       "explanation": "Raw, personal insight into his family background and what motivated him to succeed.",
@@ -595,6 +647,7 @@ export const _11k: Song = {
     },
     {
       "original": "सीखा गरीबी से, सीखा तवज्जो से",
+      "romanized": "Seekhaa gareebee se, seekhaa tavajjo se",
       "speaker": "Encore ABJ",
       "translation": "Learned from poverty, learned from the attention.",
       "explanation": "Both lack of money and sudden fame have been his teachers.",
@@ -602,6 +655,7 @@ export const _11k: Song = {
     },
     {
       "original": "सीखा के अपनों को रखने का दिल में और",
+      "romanized": "Seekhaa ke apanon ko rakhane kaa dila men aura",
       "speaker": "Encore ABJ",
       "translation": "Learned to keep your loved ones in your heart and",
       "explanation": "Valuing loyalty and relationships above all.",
@@ -609,6 +663,7 @@ export const _11k: Song = {
     },
     {
       "original": "दिल से जो उतरे वो लौड़े पे बजो बे",
+      "romanized": "Dila se jo utare vo lauड़e pe bajo be",
       "speaker": "Encore ABJ",
       "translation": "And those who fall from my heart can suck it.",
       "explanation": "If someone loses his respect, they are dead to him. 'Laude pe bajna' is a dismissive insult.",
@@ -622,6 +677,7 @@ export const _11k: Song = {
     },
     {
       "original": "Aah, हम जैसा कभी नी बनोगे ना",
+      "romanized": "Aah, hama jaisaa kabhee nee banoge naa",
       "speaker": "Calm & Encore ABJ",
       "translation": "Aah, you will never be like us, right?",
       "explanation": "Asserting their unique identity and talent that cannot be replicated.",
@@ -629,6 +685,7 @@ export const _11k: Song = {
     },
     {
       "original": "इन फुद्दु से लौंडों को भरूँ भी ना",
+      "romanized": "Ina phuddu se laundon ko bharoon bhee naa",
       "speaker": "Calm & Encore ABJ",
       "translation": "I won't even acknowledge these stupid guys.",
       "explanation": "'Fuddu' means stupid/useless; they aren't worth the duo's time.",
@@ -642,6 +699,7 @@ export const _11k: Song = {
     },
     {
       "original": "Catalogue ऐसा कि मरूँ भी ना",
+      "romanized": "Catalogue aisaa ki maroon bhee naa",
       "speaker": "Calm & Encore ABJ",
       "translation": "A catalogue so good that I'll never die.",
       "explanation": "Their discography ensures their legacy will live on forever.",
@@ -656,6 +714,7 @@ export const _11k: Song = {
     },
     {
       "original": "देते जा रहा जोटे और वो जलाते गयी, मैं बनाता गया",
+      "romanized": "Dete jaa rahaa jote aura vo jalaate gayee, main banaataa gayaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "He kept giving joints, she kept lighting them, I kept creating.",
       "explanation": "A description of their creative process involving smoking and constant output.",
@@ -670,6 +729,7 @@ export const _11k: Song = {
     },
     {
       "original": "रह गया थोड़ा माल जेब में, flight थी, ABJ ने वो भी दबा लिया कहीं",
+      "romanized": "Raha gayaa thoड़aa maala jeba men, flight thee, ABJ ne vo bhee dabaa liyaa kaheen",
       "speaker": "Calm & Encore ABJ",
       "translation": "A little stuff was left in the pocket; there was a flight, ABJ hid it somewhere.",
       "explanation": "A humorous anecdote about travelling with weed ('maal').",
@@ -683,6 +743,7 @@ export const _11k: Song = {
     },
     {
       "original": "साला डरा भी नहीं, बेटा ज़रा भी नहीं",
+      "romanized": "Saalaa daraa bhee naheen, betaa ज़raa bhee naheen",
       "speaker": "Calm & Encore ABJ",
       "translation": "He wasn't even scared, son, not even a bit.",
       "explanation": "Refers to Encore's fearlessness in the previous anecdote or in life generally.",
@@ -690,6 +751,7 @@ export const _11k: Song = {
     },
     {
       "original": "और ये फुद्दु लौंडे ऐसा करे rap नहीं",
+      "romanized": "Aura ye phuddu launde aisaa kare rap naheen",
       "speaker": "Calm & Encore ABJ",
       "translation": "And these stupid guys don't rap like this.",
       "explanation": "Dismissing other rappers who lack the same authenticity or skill.",
@@ -697,6 +759,7 @@ export const _11k: Song = {
     },
     {
       "original": "हमसे डरता ये booth",
+      "romanized": "Hamase darataa ye booth",
       "speaker": "Calm & Encore ABJ",
       "translation": "The recording booth is afraid of us.",
       "explanation": "Personifying the booth to show how much heat/energy they bring to their sessions.",
@@ -704,6 +767,7 @@ export const _11k: Song = {
     },
     {
       "original": "डरेगा नी कैसे हूँ भरता जब भूत",
+      "romanized": "Daregaa nee kaise hoon bharataa jaba bhoota",
       "speaker": "Calm & Encore ABJ",
       "translation": "Why wouldn't it fear when I'm possessed by a ghost (spirit of rap)?",
       "explanation": "'Bhoot bharna' means being in a trance or performing with supernatural energy.",
@@ -711,6 +775,7 @@ export const _11k: Song = {
     },
     {
       "original": "है गंदा ये रूप, है जनता सबूत",
+      "romanized": "Hai gandaa ye roopa, hai janataa saboota",
       "speaker": "Calm & Encore ABJ",
       "translation": "This form is nasty; the public is the proof.",
       "explanation": "Their 'nasty' (highly skilled) flow is validated by their massive fanbase.",
@@ -718,6 +783,7 @@ export const _11k: Song = {
     },
     {
       "original": "अब इन rapper'on को खाने में कंटाल है dude",
+      "romanized": "Aba ina rapper'on ko khaane men kantaala hai dude",
       "speaker": "Calm & Encore ABJ",
       "translation": "Now I'm bored of 'eating' (destroying) these rappers, dude.",
       "explanation": "'Kantal' is Mumbai/DHH slang for boredom or weariness.",
@@ -731,6 +797,7 @@ export const _11k: Song = {
     },
     {
       "original": "पर ये काम है",
+      "romanized": "Para ye kaama hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "But this is the job.",
       "explanation": "Destroying the competition is just a part of their daily work.",
@@ -738,6 +805,7 @@ export const _11k: Song = {
     },
     {
       "original": "लौंडे दोनों भरे भुस्सी ऐसी मेरी माँ भी पूछे, \"कहाँ से आ रहा पैसा, बेटा?\"",
+      "romanized": "Launde donon bhare bhussee aisee meree maan bhee poochhe, \\\"kahaan se aa rahaa paisaa, betaa?\\\"",
       "speaker": "Calm & Encore ABJ",
       "translation": "Both guys smash it so hard that even my mom asks, \"Where is all this money coming from, son?\"",
       "explanation": "'Bhussi bharna' means to beat someone up or perform intensely. Their success is so huge it seems suspicious to their parents.",
@@ -751,6 +819,7 @@ export const _11k: Song = {
     },
     {
       "original": "वो भी परेशान है",
+      "romanized": "Vo bhee pareshaana hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "Even she is worried.",
       "explanation": "Humorous take on their parents' reaction to their rapid wealth.",
@@ -758,6 +827,7 @@ export const _11k: Song = {
     },
     {
       "original": "तो भी घूमूँ सड़कों में, गलियों में, chain बाहर",
+      "romanized": "To bhee ghoomoon saड़kon men, galiyon men, chain baahara",
       "speaker": "Calm & Encore ABJ",
       "translation": "Still, I roam the streets and alleys with my chain out.",
       "explanation": "Despite being rich, they remain connected to the streets and display their wealth fearlessly.",
@@ -765,6 +835,7 @@ export const _11k: Song = {
     },
     {
       "original": "चलूँ slow तेज़ यहाँ पे चले मेरा नाम है",
+      "romanized": "Chaloon slowa teज़ yahaan pe chale meraa naama hai",
       "speaker": "Calm & Encore ABJ",
       "translation": "I walk slow, but my name runs fast here.",
       "explanation": "He takes his time, but his reputation precedes him everywhere.",
@@ -772,6 +843,7 @@ export const _11k: Song = {
     },
     {
       "original": "\"Sir\"",
+      "romanized": "\\\"Sir\\\"",
       "speaker": "Calm & Encore ABJ",
       "translation": "\"Sir\"",
       "explanation": "People address them with respect now.",
@@ -779,6 +851,7 @@ export const _11k: Song = {
     },
     {
       "original": "और ये rap-wap से हट के बता रहा हूँ भाई तुम्हें",
+      "romanized": "Aura ye rap-waap se hata ke bataa rahaa hoon bhaaee tumhen",
       "speaker": "Calm",
       "translation": "And I'm telling you this beyond just 'rap-stuff', brother.",
       "explanation": "Calm switches to a real-talk, life-advice mode to end the track.",
@@ -786,6 +859,7 @@ export const _11k: Song = {
     },
     {
       "original": "जेबें जैसे बड़ी होती रहती है",
+      "romanized": "Jeben jaise baड़ee hotee rahatee hai",
       "speaker": "Calm",
       "translation": "As pockets keep getting bigger",
       "explanation": "As wealth increases...",
@@ -793,6 +867,7 @@ export const _11k: Song = {
     },
     {
       "original": "दिल छोटे हो जाते हैं लोगों के",
+      "romanized": "Dila chhote ho jaate hain logon ke",
       "speaker": "Calm",
       "translation": "People's hearts get smaller.",
       "explanation": "A commentary on how money makes people selfish or jealous.",
@@ -800,6 +875,7 @@ export const _11k: Song = {
     },
     {
       "original": "और बहुतों के दिल उनके जेब से भी छोटे हैं",
+      "romanized": "Aura bahuton ke dila unake jeba se bhee chhote hain",
       "speaker": "Calm",
       "translation": "And for many, their hearts are even smaller than their pockets.",
       "explanation": "Even rich people can be stingy and narrow-minded.",
@@ -807,6 +883,7 @@ export const _11k: Song = {
     },
     {
       "original": "तो मेहनत से पैसा बनाओ, पैसे से वक़्त बनाओ",
+      "romanized": "To mehanata se paisaa banaao, paise se vaक़ta banaao",
       "speaker": "Calm",
       "translation": "So make money with hard work, and use that money to buy yourself time.",
       "explanation": "The ultimate goal: financial freedom where money works for you to give you time.",
@@ -814,6 +891,7 @@ export const _11k: Song = {
     },
     {
       "original": "वक़्त अपने चाहने वालों के साथ बिताओ",
+      "romanized": "Vaक़ta apane chaahane vaalon ke saatha bitaao",
       "speaker": "Calm",
       "translation": "Spend that time with your loved ones.",
       "explanation": "Prioritizing family and friends over the grind.",
@@ -821,6 +899,7 @@ export const _11k: Song = {
     },
     {
       "original": "पहले खुद ऊपर जाओ, फिर दूसरों के लिये राह बनाओ",
+      "romanized": "Pahale khuda oopara jaao, phira doosaron ke liye raaha banaao",
       "speaker": "Calm",
       "translation": "First elevate yourself, then create a path for others.",
       "explanation": "Self-actualization followed by helping the community—the Seedhe Maut philosophy.",
@@ -828,6 +907,7 @@ export const _11k: Song = {
     },
     {
       "original": "बस आगे बढ़ते जाओ",
+      "romanized": "Basa aage baढ़te jaao",
       "speaker": "Calm",
       "translation": "Just keep moving forward.",
       "explanation": "A simple message of persistence.",
@@ -835,6 +915,7 @@ export const _11k: Song = {
     },
     {
       "original": "धन्यवाद",
+      "romanized": "Dhanyavaada",
       "speaker": "Calm",
       "translation": "Thank you.",
       "explanation": "Sign-off.",

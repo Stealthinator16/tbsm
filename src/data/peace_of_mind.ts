@@ -14,6 +14,7 @@ export const peace_of_mind: Song = {
   "lyrics": [
     {
       "original": "Uh, बावे मुझे चाहिए peace of mind",
+      "romanized": "Uh, baave mujhe chaahie peace of mind",
       "speaker": "Bhaskar",
       "translation": "Uh, bro, I just need peace of mind",
       "explanation": "Bhaskar introduces the central theme of the song—seeking mental tranquility amidst a chaotic lifestyle.",
@@ -33,6 +34,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे मुझे चाहिए peace of mind",
+      "romanized": "Baave mujhe chaahie peace of mind",
       "speaker": "Bhaskar",
       "translation": "Bro, I just need peace of mind",
       "explanation": "Repetition of the hook emphasizing the desperate need for mental calm.",
@@ -40,6 +42,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे मुझे चाहिए peace of mind",
+      "romanized": "Baave mujhe chaahie peace of mind",
       "speaker": "Bhaskar",
       "translation": "Bro, I just need peace of mind",
       "explanation": "The repetitive nature of the hook reflects a mantra-like state of mind.",
@@ -47,6 +50,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे मुझे चाहिए peace of mind",
+      "romanized": "Baave mujhe chaahie peace of mind",
       "speaker": "Bhaskar",
       "translation": "Bro, I just need peace of mind",
       "explanation": "Continuing the hook to establish the melodic rhythm.",
@@ -54,6 +58,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे चाहिए peace of mind",
+      "romanized": "Baave chaahie peace of mind",
       "speaker": "Bhaskar",
       "translation": "Bro, need peace of mind",
       "explanation": "Slight variation in the hook while maintaining the core message.",
@@ -61,6 +66,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे मुझे चाहिए peace of mind",
+      "romanized": "Baave mujhe chaahie peace of mind",
       "speaker": "Bhaskar",
       "translation": "Bro, I just need peace of mind",
       "explanation": "Hook continues.",
@@ -68,6 +74,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे चाहिए peace of mind",
+      "romanized": "Baave chaahie peace of mind",
       "speaker": "Bhaskar",
       "translation": "Bro, need peace of mind",
       "explanation": "Hook continues.",
@@ -75,6 +82,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे मुझे चाहिए peace of mind",
+      "romanized": "Baave mujhe chaahie peace of mind",
       "speaker": "Bhaskar",
       "translation": "Bro, I just need peace of mind",
       "explanation": "Hook continues.",
@@ -82,6 +90,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे चाहिए peace of mind",
+      "romanized": "Baave chaahie peace of mind",
       "speaker": "Bhaskar",
       "translation": "Bro, need peace of mind",
       "explanation": "Hook continues.",
@@ -89,6 +98,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे मुझे चाहिए peace of mind",
+      "romanized": "Baave mujhe chaahie peace of mind",
       "speaker": "Bhaskar",
       "translation": "Bro, I just need peace of mind",
       "explanation": "Hook continues.",
@@ -96,6 +106,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे मुझे चाहिए peace of mind",
+      "romanized": "Baave mujhe chaahie peace of mind",
       "speaker": "Bhaskar",
       "translation": "Bro, I just need peace of mind",
       "explanation": "Hook continues.",
@@ -103,6 +114,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे चाहिए peace of mind",
+      "romanized": "Baave chaahie peace of mind",
       "speaker": "Bhaskar",
       "translation": "Bro, need peace of mind",
       "explanation": "Closing the introductory hook sequence.",
@@ -110,6 +122,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "Bitch मेरे system में vodka",
+      "romanized": "Bitch mere system men vodka",
       "speaker": "AB17",
       "translation": "Bitch, there's vodka in my system",
       "explanation": "AB17 starts his verse describing his intoxicated state as a way to cope.",
@@ -129,6 +142,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "फील कर रहा हूँ फिर भी low",
+      "romanized": "Pheel kar rahaa hoon phir bhee low",
       "speaker": "AB17",
       "translation": "I'm still feeling low",
       "explanation": "Despite the substances, he feels a sense of emptiness or depression.",
@@ -136,6 +150,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे क्या!",
+      "romanized": "Baave kyaa!",
       "speaker": "AB17",
       "translation": "Bro, what!",
       "explanation": "An ad-lib showing confusion or disbelief at his own state.",
@@ -143,6 +158,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "चले हम रियासत को कौनसे",
+      "romanized": "Chale ham riyaast ko kaunse",
       "speaker": "AB17",
       "translation": "Which legacy/estate are we headed to?",
       "explanation": "He questions the direction of his life or the legacy he's building.",
@@ -156,6 +172,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "दिन बचे बाकी दो",
+      "romanized": "Din bache baakee do",
       "speaker": "AB17",
       "translation": "Only two days left",
       "explanation": "A sense of urgency or a countdown to an event/deadline.",
@@ -163,6 +180,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मेरे साथ बैठा दारू पीले पानी छोड़",
+      "romanized": "Mere saath baithaa daaroo peele paanee chhor",
       "speaker": "AB17",
       "translation": "Sit with me, drink alcohol, leave the water",
       "explanation": "Inviting someone to join his nihilistic or hedonistic lifestyle.",
@@ -170,6 +188,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मेरे दोस्तों में एक पहने काला coat",
+      "romanized": "Mere doston men ek pahne kaalaa coat",
       "speaker": "AB17",
       "translation": "One of my friends wears a black coat",
       "explanation": "Likely referring to a friend who is a lawyer, suggesting they have legal backup for their activities.",
@@ -177,6 +196,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मैं करता हूँ role-play पूछो कौन से",
+      "romanized": "Main kartaa hoon role-play poochho kaun se",
       "speaker": "AB17",
       "translation": "I do role-play, ask which ones",
       "explanation": "Metaphor for the different 'masks' or personas he has to adopt in the streets.",
@@ -184,6 +204,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मैं करता non-stop दल्ली रोकके",
+      "romanized": "Main kartaa non-stop dallee rokke",
       "speaker": "AB17",
       "translation": "I go non-stop, stopping the city (Delhi)",
       "explanation": "Asserting his dominance and influence over his part of Delhi.",
@@ -203,6 +224,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "वो ठुस्सके के काम से भरता सूटकेस",
+      "romanized": "Vo thussake ke kaam se bhartaa sootkes",
       "speaker": "AB17",
       "translation": "He stuffs the suitcase with work (money/illegal goods)",
       "explanation": "Referring to the hustle and the physical act of collecting proceeds from their 'work'.",
@@ -217,6 +239,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "वो दोस्त है मेरा बावे कहूंगा loop में",
+      "romanized": "Vo dost hai meraa baave kahoongaa loop men",
       "speaker": "AB17",
       "translation": "He's my friend, bro, I'll say it on loop",
       "explanation": "Emphasizing loyalty and brotherhood, a core theme in the SM/Palam crew.",
@@ -231,6 +254,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "ही, ही, दुनिया को हँसने का बहाना चाहिए",
+      "romanized": "Hee, hee, duniyaa ko hansne kaa bahaanaa chaahie",
       "speaker": "AB17",
       "translation": "Hehe, the world just needs an excuse to laugh",
       "explanation": "A cynical observation on how people enjoy the downfall or mockery of others.",
@@ -238,6 +262,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "जिससे सुनना गहरा उससे डालूं खाई में",
+      "romanized": "Jisse sunnaa gahraa usase daaloon khaaee men",
       "speaker": "AB17",
       "translation": "Whoever wants to hear deep stuff, I'll throw them in a pit",
       "explanation": "A play on words—if you want 'deep' (gehra) music, he'll give you something dangerously deep.",
@@ -245,6 +270,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "एक बोतल में तीन गाने मेरा mileage",
+      "romanized": "Ek botl men teen gaane meraa mileage",
       "speaker": "AB17",
       "translation": "Three songs per bottle is my mileage",
       "explanation": "A flex about his creative output while intoxicated; his 'fuel efficiency'.",
@@ -252,6 +278,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे rap में घुससे तो हम ढीले ढाले",
+      "romanized": "Baave rap men ghusse to ham dheele dhaale",
       "speaker": "AB17",
       "translation": "Bro, when we enter rap, we look relaxed/chill",
       "explanation": "Even though they are top-tier, they maintain a nonchalant, effortless vibe.",
@@ -259,6 +286,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "हम सबको पता कौनसा villa कहां पे",
+      "romanized": "Ham sabko pataa kaunsaa villa kahaan pe",
       "speaker": "AB17",
       "translation": "We all know which villa is where",
       "explanation": "Implies they have insider knowledge of the city's wealthy spots or safehouses.",
@@ -266,6 +294,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मुझे street से प्यार उससे कहता darling",
+      "romanized": "Mujhe street se pyaar usase kahtaa darling",
       "speaker": "AB17",
       "translation": "I love the streets, I call them darling",
       "explanation": "Expressing his deep connection and loyalty to his street roots.",
@@ -273,6 +302,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मुझे पार्टी पसंद दूसरा विजय माल्या (yeah)",
+      "romanized": "Mujhe paartee pasnd doosraa vijy maalyaa (yeah)",
       "speaker": "AB17",
       "translation": "I love partying, like a second Vijay Mallya",
       "explanation": "Comparing his lavish, party-heavy lifestyle to the infamous tycoon known for his 'Kingfisher' lifestyle.",
@@ -286,6 +316,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मैं जाता हूँ जहाँ भी उन्हें पता कि बावे हम दिल्ली से",
+      "romanized": "Main jaataa hoon jahaan bhee unhen pataa ki baave ham dillee se",
       "speaker": "AB17",
       "translation": "Wherever I go, they know we're from Delhi",
       "explanation": "Representing the aggressive and distinct Delhi energy that precedes them.",
@@ -293,6 +324,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मुझे Omegle पे मिली मेरी पहली date",
+      "romanized": "Mujhe Omegle pe milee meree pahlee date",
       "speaker": "AB17",
       "translation": "I got my first date on Omegle",
       "explanation": "A nostalgic and humorous reference to early internet culture and random encounters.",
@@ -306,6 +338,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बैठाता फिर करता उससे elevate",
+      "romanized": "Baithaataa phir kartaa usase elevate",
       "speaker": "AB17",
       "translation": "I make her sit and then elevate her",
       "explanation": "Could mean getting high together or improving her status/mood.",
@@ -313,6 +346,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "जैसे fielding में दिखे मेरी पहली layer",
+      "romanized": "Jaise fielding men dikhe meree pahlee layer",
       "speaker": "AB17",
       "translation": "Like my first layer visible in fielding",
       "explanation": "Likely a cricket metaphor about being prepared and positioned correctly in the game of life.",
@@ -320,6 +354,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मेरा दोस्त देता गाली उसकी बहन ही नहीं है",
+      "romanized": "Meraa dost detaa gaalee usakee bahn hee naheen hai",
       "speaker": "AB17",
       "translation": "My friend abuses (sister-related), but he doesn't even have a sister",
       "explanation": "A common street observation about the irony of using certain slangs.",
@@ -327,6 +362,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "हम भरे हुए सपनों से (आन, आन)",
+      "romanized": "Ham bhare hue sapnon se (aan, aan)",
       "speaker": "AB17",
       "translation": "We are full of dreams",
       "explanation": "Shifting from the gritty reality to the ambition driving them.",
@@ -334,6 +370,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "फूकूँ मैं चार puff, मेरी आदत",
+      "romanized": "Phookoon main chaar puff, meree aadat",
       "speaker": "Bhaskar",
       "translation": "I smoke four puffs, it's my habit",
       "explanation": "Bhaskar returns, highlighting his substance use as a routine.",
@@ -341,6 +378,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "होती जब पिन्नक फिर आता आलस",
+      "romanized": "Hotee jab pinnak phir aataa aalas",
       "speaker": "Bhaskar",
       "translation": "When I'm high, laziness kicks in",
       "explanation": "Describes the after-effects of being high.",
@@ -354,6 +392,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "हरा पदार्थ देखूँ, आता लालच",
+      "romanized": "Haraa padaarth dekhoon, aataa laalch",
       "speaker": "Bhaskar",
       "translation": "I see green substance, I get greedy",
       "explanation": "Reference to marijuana ('hara padarth').",
@@ -361,6 +400,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "Score करना बावे sector ७ पालम",
+      "romanized": "Score karnaa baave sector ७ paalm",
       "speaker": "Bhaskar",
       "translation": "Scoring (drugs) in Sector 7, Palam",
       "explanation": "Specific local reference to his neighborhood in Delhi where he procures substances.",
@@ -374,6 +414,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "चलती है पिन्नक फिर हर समय",
+      "romanized": "Chaltee hai pinnak phir har samy",
       "speaker": "Bhaskar",
       "translation": "The high lasts all the time",
       "explanation": "Being in a perpetual state of intoxication or irritation.",
@@ -381,6 +422,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मुद्दे जब फाड़े फिर रहस्यमय",
+      "romanized": "Mudde jab phaare phir rahsyamy",
       "speaker": "Bhaskar",
       "translation": "When issues are torn open, they become mysterious",
       "explanation": "When they dive deep into problems, things get complicated and dark.",
@@ -388,6 +430,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "चढ़ूँ beat पर मैं बावे जैसे मैं सालन",
+      "romanized": "Charhoon beat par main baave jaise main saaln",
       "speaker": "Bhaskar",
       "translation": "I get on the beat like I'm curry (salan)",
       "explanation": "A play on 'salan' (gravy/curry) and 'chadhna' (to be served or to get on top). He fits the beat perfectly like gravy with rice.",
@@ -402,6 +445,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "लाल बद्री टापू मैं करूँ मैं पालन",
+      "romanized": "Laal badree taapoo main karoon main paaln",
       "speaker": "Bhaskar",
       "translation": "I nurture/rule over Red Badri Island",
       "explanation": "Likely a specific spot or gang territory he associates with.",
@@ -409,6 +453,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "Two wheeler बावे काटूँ lane",
+      "romanized": "Two wheeler baave kaatoon lane",
       "speaker": "Bhaskar",
       "translation": "Cutting lanes on a two-wheeler",
       "explanation": "Typical Delhi street scene—weaving through traffic on a bike.",
@@ -416,6 +461,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "दोस्त मेरा snatcher दिला दूँ benz",
+      "romanized": "Dost meraa snatcher dilaa doon benz",
       "speaker": "Bhaskar",
       "translation": "My friend is a snatcher, I'll get him a Benz",
       "explanation": "Highlighting the street criminal background of his circle while dreaming of luxury.",
@@ -429,6 +475,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "Bitch मेरी पागल वो लगती डेन",
+      "romanized": "Bitch meree paagl vo lagtee den",
       "speaker": "Bhaskar",
       "translation": "My girl is crazy, she looks like a 'den' (or Dan)",
       "explanation": "Slang/shorthand for a certain look or personality type.",
@@ -436,6 +483,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "Vill'on की बातें मैं करता सहन",
+      "romanized": "Vill'on kee baaten main kartaa sahn",
       "speaker": "Bhaskar",
       "translation": "I tolerate the talk of villains",
       "explanation": "Dealing with dangerous or untrustworthy people in his environment.",
@@ -443,6 +491,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "दल्ली हम हैं फिल्मीस्तान में",
+      "romanized": "Dallee ham hain philmeestaan men",
       "speaker": "Bhaskar",
       "translation": "We are Delhi (dalli) in Filmistan",
       "explanation": "Comparing the cinematic/dramatic nature of Delhi life to a movie studio.",
@@ -456,6 +505,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "देखें मुझे किलसे गांडे",
+      "romanized": "Dekhen mujhe kilse gaande",
       "speaker": "Bhaskar",
       "translation": "They look at me and get jealous",
       "explanation": "Using crude Delhi slang ('kilasna') for being envious or annoyed.",
@@ -463,6 +513,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "Safe ना है दल्ले घर से बाहर में",
+      "romanized": "Safe naa hai dalle ghar se baahr men",
       "speaker": "Bhaskar",
       "translation": "Pimps/Snitches aren't safe outside their homes",
       "explanation": "A warning to enemies or untrustworthy people on the streets.",
@@ -476,6 +527,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "पेजकस डाले बंदे गांड में",
+      "romanized": "Pejks daale bande gaand men",
       "speaker": "Bhaskar",
       "translation": "Putting a screwdriver in people",
       "explanation": "Hyper-violent street imagery involving a 'pejkas' (screwdriver), common in Delhi street threats.",
@@ -489,6 +541,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "एक बंदा मेरा नंबरदार है",
+      "romanized": "Ek bandaa meraa nanbrdaar hai",
       "speaker": "Bhaskar",
       "translation": "One of my guys is a Numberdar",
       "explanation": "A 'Numberdar' is a traditional village head/landowner; implies his group has local authority.",
@@ -502,6 +555,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "तेज़ बंदा मेरा घर से बाहर है",
+      "romanized": "Tez bandaa meraa ghar se baahr hai",
       "speaker": "Bhaskar",
       "translation": "My smart/fast guy is outside the house",
       "explanation": "His crew is active and ready on the streets.",
@@ -509,6 +563,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "विल्ले बैठे जहां भ्रष्टाचार है",
+      "romanized": "Ville baithe jahaan bhrashtaachaar hai",
       "speaker": "Bhaskar",
       "translation": "Useless people sitting where there is corruption",
       "explanation": "Commentary on the intersection of idle youth and systemic corruption.",
@@ -516,6 +571,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मेरे brand ना देता सहारे",
+      "romanized": "Mere brand naa detaa sahaare",
       "speaker": "Bhaskar",
       "translation": "My brands don't provide support",
       "explanation": "Material possessions don't offer true emotional or mental stability.",
@@ -523,6 +579,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मेरे होंठ ना हैं टट्टे काले",
+      "romanized": "Mere honth naa hain tatte kaale",
       "speaker": "Bhaskar",
       "translation": "My lips aren't black like balls",
       "explanation": "Vulgar humor/street talk, possibly about smoking or health.",
@@ -530,6 +587,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मैंने झूठ बोला जितने चाले",
+      "romanized": "Mainne jhooth bolaa jitne chaale",
       "speaker": "Bhaskar",
       "translation": "I've told as many lies as there are tricks",
       "explanation": "Acknowledging the deception required to survive in the streets.",
@@ -537,6 +595,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "अगर सच बंदे सुनना चाहते",
+      "romanized": "Agar sach bande sunnaa chaahte",
       "speaker": "Bhaskar",
       "translation": "If people want to hear the truth",
       "explanation": "Transitioning to a more 'real' or blunt statement.",
@@ -544,6 +603,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "उसके साफ़ करे periods हाथ से",
+      "romanized": "Usake saaf kare periods haath se",
       "speaker": "Bhaskar",
       "translation": "Cleans her periods with hands",
       "explanation": "Shock-value lyric; could imply deep intimacy or just raw, uncensored street talk.",
@@ -551,6 +611,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मुझे पता ना वो shemale बावे",
+      "romanized": "Mujhe pataa naa vo shemale baave",
       "speaker": "Bhaskar",
       "translation": "I don't know if they are shemale, bro",
       "explanation": "Crude street humor or questioning someone's authenticity/masculinity.",
@@ -558,6 +619,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मैंने काटी जितने pussy दांत से",
+      "romanized": "Mainne kaatee jitne pussy daant se",
       "speaker": "Bhaskar",
       "translation": "I've bitten as much... with my teeth",
       "explanation": "Explicit sexual imagery/boasting.",
@@ -565,6 +627,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मुझसे करियो तू तुलना ना यहां पे",
+      "romanized": "Mujhse kariyo too tulnaa naa yahaan pe",
       "speaker": "Bhaskar",
       "translation": "Don't you dare compare yourself to me here",
       "explanation": "Asserting his unique position and superiority in his lane.",
@@ -572,6 +635,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मेरा कल भी था पुड़िया उठा के",
+      "romanized": "Meraa kal bhee thaa puriyaa uthaa ke",
       "speaker": "Bhaskar",
       "translation": "My past was spent picking up drug packets",
       "explanation": "Admitting to a history of drug peddling or usage.",
@@ -585,6 +649,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "कुछ बंदे लगे सरिया चुराने",
+      "romanized": "Kuchh bande lage sariyaa churaane",
       "speaker": "Bhaskar",
       "translation": "Some guys are busy stealing iron rods",
       "explanation": "Reference to petty theft at construction sites, a common sight in developing Delhi areas.",
@@ -598,6 +663,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "क्या आता इस गंदी जुबां पे",
+      "romanized": "Kyaa aataa is gandee jubaan pe",
       "speaker": "Bhaskar",
       "translation": "What even comes out of this dirty mouth",
       "explanation": "Self-reflection on his vulgar or aggressive lyrical style.",
@@ -605,6 +671,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "तंगी बोले अब सोचो यहां पे",
+      "romanized": "Tangee bole ab socho yahaan pe",
       "speaker": "Bhaskar",
       "translation": "Hardship speaks, now think about it",
       "explanation": "The lyrics are a product of the poverty and struggle he has faced.",
@@ -619,6 +686,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे चाहिए मुझे peace इस हवा में",
+      "romanized": "Baave chaahie mujhe peace is havaa men",
       "speaker": "Bhaskar",
       "translation": "Bro, I need peace in this air",
       "explanation": "Ending his verse returning to the theme of peace amid the polluted/toxic environment.",
@@ -626,6 +694,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "Peace of mind, के लिए गाने गाए",
+      "romanized": "Peace of mind, ke lie gaane gaae",
       "speaker": "Calm",
       "translation": "Sang songs for the sake of peace of mind",
       "explanation": "Calm explains that music is his therapy and escape.",
@@ -633,6 +702,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "सोना shine, करा गंदा grind",
+      "romanized": "Sonaa shine, karaa gandaa grind",
       "speaker": "Calm",
       "translation": "Gold shines, after a dirty grind",
       "explanation": "The success (gold) is a result of hard, often messy, work.",
@@ -640,6 +710,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "लाए sauce भाई, तो वो लौट आई",
+      "romanized": "Laae sauce bhaaee, to vo laut aaee",
       "speaker": "Calm",
       "translation": "Bro brought the sauce, so she came back",
       "explanation": "When he got his style and success together, people who left returned.",
@@ -659,6 +730,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "है ये boss fight, हा तेरे जैसे बहुत आए",
+      "romanized": "Hai ye boss fight, haa tere jaise bahut aae",
       "speaker": "Calm",
       "translation": "This is a boss fight, many like you have come",
       "explanation": "He views his current level as the final stage, and challengers are insignificant.",
@@ -673,6 +745,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "सत्य बोलूँ तो इनकी गांड फटती है",
+      "romanized": "Saty boloon to inakee gaand phattee hai",
       "speaker": "Calm",
       "translation": "When I speak the truth, they get scared",
       "explanation": "People can't handle the raw honesty in his lyrics.",
@@ -680,6 +753,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "कल के खिलाड़ी मेरे झाट भर नहीं है",
+      "romanized": "Kal ke khilaaree mere jhaat bhar naheen hai",
       "speaker": "Calm",
       "translation": "Yesterday's players are nothing compared to me",
       "explanation": "Dismissing new rappers who lack his experience and depth.",
@@ -687,6 +761,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "खाली rap से नहीं आती मेरी आम दानी",
+      "romanized": "Khaalee rap se naheen aatee meree aam daanee",
       "speaker": "Calm",
       "translation": "My income doesn't just come from rap",
       "explanation": "Suggesting he has multiple revenue streams or 'other' businesses.",
@@ -700,6 +775,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मेरे नाम पे उठाए में यार बंदियाँ",
+      "romanized": "Mere naam pe uthaae men yaar bandiyaan",
       "speaker": "Calm",
       "translation": "My friends pick up girls using my name",
       "explanation": "Showing his level of fame; his name alone has clout.",
@@ -707,6 +783,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "लगाऊँ चार चाँद, जी हाँ",
+      "romanized": "Lagaaoon chaar chaand, jee haan",
       "speaker": "Calm",
       "translation": "I add 'four moons' (perfection), yes sir",
       "explanation": "Idiom for making something beautiful or perfect.",
@@ -714,6 +791,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "कसम से, और दो-चार album और खेल खत्म ये",
+      "romanized": "Kasm se, aur do-chaar album aur khel khatm ye",
       "speaker": "Calm",
       "translation": "I swear, just a few more albums and it's game over",
       "explanation": "Confidence that they will dominate the scene completely very soon.",
@@ -721,6 +799,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "करे crush दोनों YouTube play button पे",
+      "romanized": "Kare crush donon YouTube play button pe",
       "speaker": "Calm",
       "translation": "Both of us crush it on the YouTube play button",
       "explanation": "Reference to Seedhe Maut (Encore and Calm) achieving milestones like the Silver/Gold buttons.",
@@ -728,6 +807,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "होए शांत मेरा भेजा",
+      "romanized": "Hoe shaant meraa bhejaa",
       "speaker": "Calm",
       "translation": "My brain has finally calmed down",
       "explanation": "Reaching a state of 'Peace of Mind' through success.",
@@ -735,6 +815,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "हर कश में सच में चाहिए peace of mind",
+      "romanized": "Har kash men sach men chaahie peace of mind",
       "speaker": "Calm",
       "translation": "In every puff, I really need peace of mind",
       "explanation": "Seeking tranquility in every moment of his ritual.",
@@ -742,6 +823,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "बावे मुझे चाहिए peace of mind",
+      "romanized": "Baave mujhe chaahie peace of mind",
       "speaker": "Encore ABJ",
       "translation": "Bro, I need peace of mind",
       "explanation": "Encore takes over the hook, transitioning into his verse.",
@@ -749,6 +831,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "कम पड़ जाए इक्कीस'सौ line",
+      "romanized": "Kam par jaae ikkees'sau line",
       "speaker": "Encore ABJ",
       "translation": "Even 2100 lines might be too few",
       "explanation": "Encore's lyrical depth is so vast that even 2100 bars won't suffice.",
@@ -756,6 +839,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "लिखने में इक्कीस second की बातें",
+      "romanized": "Likhne men ikkees second kee baaten",
       "speaker": "Encore ABJ",
       "translation": "Takes 21 seconds to write these things",
       "explanation": "Flexing his speed and natural talent for songwriting.",
@@ -763,6 +847,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "Check कर भेजे का डिज़ाइन",
+      "romanized": "Check kar bheje kaa dizaain",
       "speaker": "Encore ABJ",
       "translation": "Check the design of my brain",
       "explanation": "Inviting listeners to analyze his complex thought process and lyricism.",
@@ -770,6 +855,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "लगे पीली छ बोतल phenyl",
+      "romanized": "Lage peelee chh botl phenyl",
       "speaker": "Encore ABJ",
       "translation": "Feels like I drank 6 bottles of yellow phenyl",
       "explanation": "Describing a toxic or corrosive feeling, possibly bitterness or burnout.",
@@ -777,6 +863,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "कब का bye bye बोल गया है bile",
+      "romanized": "Kab kaa bye bye bol gayaa hai bile",
       "speaker": "Encore ABJ",
       "translation": "My bile said bye-bye a long time ago",
       "explanation": "Wordplay on 'bye' and 'bile'; could mean he's physically exhausted or has lost his 'gall' (anger/bitterness).",
@@ -784,6 +871,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मुझे फर्क नहीं है कौन किसके behind",
+      "romanized": "Mujhe phark naheen hai kaun kiske behind",
       "speaker": "Encore ABJ",
       "translation": "I don't care who is behind whom",
       "explanation": "Staying out of industry politics and 'behind-the-scenes' gossip.",
@@ -791,6 +879,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "मेरा बायां हाथ दैवी अस्त्र है",
+      "romanized": "Meraa baayaan haath daivee astr hai",
       "speaker": "Encore ABJ",
       "translation": "My left hand is a divine weapon",
       "explanation": "Encore ABJ is left-handed; he views his writing hand as a sacred tool of destruction.",
@@ -798,6 +887,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "ऐ शपथ pen है right",
+      "romanized": "Ai shapth pen hai right",
       "speaker": "Encore ABJ",
       "translation": "I swear, the pen is right",
       "explanation": "His writing is always correct/true, or he holds the pen with authority.",
@@ -805,6 +895,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "खड़े खाते side, बजे हटके height पे",
+      "romanized": "Khare khaate side, baje hatke height pe",
       "speaker": "Encore ABJ",
       "translation": "Standing on the side, sounding at a different height",
       "explanation": "They stand apart from the crowd; their music operates on a higher level.",
@@ -812,6 +903,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "हम nice से nice है, देते left और right है",
+      "romanized": "Ham nice se nice hai, dete left aur right hai",
       "speaker": "Encore ABJ",
       "translation": "We're the nicest, but we hit left and right",
       "explanation": "They are good people but won't hesitate to 'hit' (diss/beat) anyone in their way.",
@@ -819,6 +911,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "आके left और right से, आया गांड फाड़ने और bitch I might be",
+      "romanized": "Aake left aur right se, aayaa gaand phaarne aur bitch I might be",
       "speaker": "Encore ABJ",
       "translation": "Coming from left and right, here to tear things up, and bitch I might be",
       "explanation": "Surrounding the competition and asserting dominance.",
@@ -826,6 +919,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "आई नयी बंदी और फिर एक side से",
+      "romanized": "Aaee nayee bandee aur phir ek side se",
       "speaker": "Encore ABJ",
       "translation": "A new girl came, and then from one side",
       "explanation": "Describing a random encounter or distraction.",
@@ -833,6 +927,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "उसे करा side गयी मेरे दोस्त की bike पे",
+      "romanized": "Use karaa side gayee mere dost kee bike pe",
       "speaker": "Encore ABJ",
       "translation": "Put her aside, she left on my friend's bike",
       "explanation": "He doesn't get attached; life moves on quickly.",
@@ -840,6 +935,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "वो आना चाहे मेरे show पे",
+      "romanized": "Vo aanaa chaahe mere show pe",
       "speaker": "Encore ABJ",
       "translation": "She wants to come to my show",
       "explanation": "Everyone wants to be part of the SM hype now.",
@@ -847,6 +943,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "तो मारी है लाइनें, जा-जाके, खड़ी हो उस लंबी line में",
+      "romanized": "To maaree hai laainen, jaa-jaake, kharee ho us lanbee line men",
       "speaker": "Encore ABJ",
       "translation": "So I've dropped lines; go stand in that long line",
       "explanation": "Brilliant wordplay on 'lines' (lyrics) and the 'line' (queue) to get into his sold-out shows.",
@@ -861,6 +958,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "वो मेरी blueberry buttercup",
+      "romanized": "Vo meree blueberry buttercup",
       "speaker": "Bhaskar",
       "translation": "She's my blueberry buttercup",
       "explanation": "Using terms of endearment, possibly sarcastically given the previous gritty context.",
@@ -868,6 +966,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "आगे से cute है और पीछे से गजब",
+      "romanized": "Aage se cute hai aur peechhe se gajb",
       "speaker": "Bhaskar",
       "translation": "She's cute from the front and amazing from the back",
       "explanation": "Crude physical compliment.",
@@ -882,6 +981,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "वो धोखा सिखाती, मैं सीखूँ ना सबक",
+      "romanized": "Vo dhokhaa sikhaatee, main seekhoon naa sabk",
       "speaker": "Bhaskar",
       "translation": "She teaches betrayal, but I don't learn the lesson",
       "explanation": "He keeps falling for the same toxic patterns or people.",
@@ -889,6 +989,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "Bitch shut the fuck up",
+      "romanized": "Bitch shut the fuck up",
       "speaker": "Bhaskar",
       "translation": "Bitch shut the fuck up",
       "explanation": "Dismissive closing statement.",
@@ -903,6 +1004,7 @@ export const peace_of_mind: Song = {
     },
     {
       "original": "Yeah, yeah",
+      "romanized": "Yeah, yeah",
       "speaker": "Bhaskar",
       "translation": "Yeah, yeah",
       "explanation": "Final ad-libs.",

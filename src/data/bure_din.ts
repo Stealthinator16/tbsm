@@ -10,6 +10,7 @@ export const bure_din: Song = {
   "lyrics": [
     {
       "original": "हारा नहीं, हारा नहीं",
+      "romanized": "Haaraa naheen, haaraa naheen",
       "speaker": "Encore ABJ",
       "translation": "Haven't lost, haven't lost.",
       "explanation": "Encore opens with a defiant declaration that he has not been defeated despite hardships.",
@@ -17,6 +18,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Yeah, जो सीखता है हार से—",
+      "romanized": "Yeah, jo seekhtaa hai haar se—",
       "speaker": "Encore ABJ",
       "translation": "Yeah, the one who learns from defeat—",
       "explanation": "Setting up the core philosophy of the song: defeat is a teacher, not an ending.",
@@ -24,6 +26,7 @@ export const bure_din: Song = {
     },
     {
       "original": "जो सीखता है हार से, वो हारा नहीं",
+      "romanized": "Jo seekhtaa hai haar se, vo haaraa naheen",
       "speaker": "Encore ABJ",
       "translation": "The one who learns from defeat hasn't truly lost.",
       "explanation": "The central thesis of the track. If you extract a lesson from failure, then the failure served a purpose and you haven't really lost.",
@@ -31,6 +34,7 @@ export const bure_din: Song = {
     },
     {
       "original": "जलता है आप से, वो तारा नहीं",
+      "romanized": "Jaltaa hai aap se, vo taaraa naheen",
       "speaker": "Encore ABJ",
       "translation": "The one that burns because of you is no star.",
       "explanation": "A star burns with its own fire, not from jealousy. Someone who burns with envy towards you isn't a real star — they're just consumed by jealousy.",
@@ -44,6 +48,7 @@ export const bure_din: Song = {
     },
     {
       "original": "जो सीखता है हार से, वो हारा नहीं",
+      "romanized": "Jo seekhtaa hai haar se, vo haaraa naheen",
       "speaker": "Encore ABJ",
       "translation": "The one who learns from defeat hasn't truly lost.",
       "explanation": "Repetition of the hook's core line, reinforcing the song's message.",
@@ -51,6 +56,7 @@ export const bure_din: Song = {
     },
     {
       "original": "जो सीखता है हार से, वो हारा नहीं",
+      "romanized": "Jo seekhtaa hai haar se, vo haaraa naheen",
       "speaker": "Encore ABJ",
       "translation": "The one who learns from defeat hasn't truly lost.",
       "explanation": "Continued repetition for emphasis — this mantra is the emotional anchor of the song.",
@@ -58,6 +64,7 @@ export const bure_din: Song = {
     },
     {
       "original": "जलता है—",
+      "romanized": "Jaltaa hai—",
       "speaker": "Encore ABJ",
       "translation": "The one that burns—",
       "explanation": "A truncated callback to the jealousy/star line, trailing off before the verse shifts.",
@@ -65,6 +72,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hisab",
+      "romanized": "Hisab",
       "speaker": "Encore ABJ",
       "translation": "Reckoning.",
       "explanation": "A single word interjection meaning 'accounts' or 'reckoning' — signaling that what follows is a settling of scores with life's hardships.",
@@ -78,6 +86,7 @@ export const bure_din: Song = {
     },
     {
       "original": "This that cheers to my बुरे दिन",
+      "romanized": "This that cheers to my bure din",
       "speaker": "Encore ABJ",
       "translation": "This is a cheers to my bad days.",
       "explanation": "The hook — raising a toast to the bad days that shaped him rather than broke him.",
@@ -91,6 +100,7 @@ export const bure_din: Song = {
     },
     {
       "original": "This that cheers to my बुरी रात",
+      "romanized": "This that cheers to my buree raat",
       "speaker": "Encore ABJ",
       "translation": "This is a cheers to my bad nights.",
       "explanation": "Extending the toast to the sleepless, painful nights — the dark hours when the struggle hits hardest.",
@@ -104,6 +114,7 @@ export const bure_din: Song = {
     },
     {
       "original": "This that लिखता हूँ ताकि तैर पाऊँ बिना डूबे आज",
+      "romanized": "This that likhtaa hoon taaki tair paaoon binaa doobe aaj",
       "speaker": "Encore ABJ",
       "translation": "This is me writing so I can swim without drowning today.",
       "explanation": "Writing music is his survival mechanism — it keeps him afloat when life threatens to pull him under. This sets up the 'Dubey/doobe' wordplay that follows.",
@@ -122,6 +133,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister दुबे, क्या आप—",
+      "romanized": "Hello, mister dube, kyaa aap—",
       "speaker": "Encore ABJ",
       "translation": "Hello, mister Dubey, can you—",
       "explanation": "The signature hook line. 'Dubey' is a common Indian surname but sounds like 'doobe' (drowned). He's addressing himself or a version of himself that has drowned in life's troubles, asking if that person can still see, still understand.",
@@ -135,6 +147,7 @@ export const bure_din: Song = {
     },
     {
       "original": "देख पा रहे हो मेरे अक्स को?",
+      "romanized": "Dekh paa rahe ho mere aks ko?",
       "speaker": "Encore ABJ",
       "translation": "Can you see my reflection?",
       "explanation": "Asking if the drowning version of himself can still recognize who he really is — his true image, his reflection.",
@@ -148,6 +161,7 @@ export const bure_din: Song = {
     },
     {
       "original": "गाली-गलौज से पार मेरे लफ्ज़ को?",
+      "romanized": "Gaalee-galauj se paar mere laphz ko?",
       "speaker": "Encore ABJ",
       "translation": "Can you see past the profanity to my words?",
       "explanation": "Asking if listeners can look beyond the swearing and rough language to understand the depth and meaning of his lyrics.",
@@ -166,6 +180,7 @@ export const bure_din: Song = {
     },
     {
       "original": "लड़ाई-धड़ाई से पार मेरे लक्ष्य को?",
+      "romanized": "Laraaee-dharaaee se paar mere lakshy ko?",
       "speaker": "Encore ABJ",
       "translation": "Can you see past the fighting to my goals?",
       "explanation": "Beyond all the beefs and conflicts in the rap scene, can you see what he's actually aiming for?",
@@ -184,6 +199,7 @@ export const bure_din: Song = {
     },
     {
       "original": "चुदम-चुदाई से पार मेरे वक्त को? शायद नहीं",
+      "romanized": "Chudm-chudaaee se paar mere vakt ko? Shaayd naheen",
       "speaker": "Encore ABJ",
       "translation": "Can you see past all the fucking around to my time? Probably not.",
       "explanation": "Can you see beyond the chaos and messiness to understand how precious his time is? He answers himself — probably not. People are too caught up in the surface to see the substance.",
@@ -197,6 +213,7 @@ export const bure_din: Song = {
     },
     {
       "original": "जो सीखता है हार से, वो हारा नहीं",
+      "romanized": "Jo seekhtaa hai haar se, vo haaraa naheen",
       "speaker": "Encore ABJ",
       "translation": "The one who learns from defeat hasn't truly lost.",
       "explanation": "Return to the central refrain after the verse — grounding back in the song's philosophy.",
@@ -204,6 +221,7 @@ export const bure_din: Song = {
     },
     {
       "original": "जलता है आप से, वो तारा नहीं",
+      "romanized": "Jaltaa hai aap se, vo taaraa naheen",
       "speaker": "Encore ABJ",
       "translation": "The one that burns because of you is no star.",
       "explanation": "Restatement: jealousy-fueled burning is not the same as a star's self-sustaining fire.",
@@ -211,6 +229,7 @@ export const bure_din: Song = {
     },
     {
       "original": "जलता है आग से, है तारा वही",
+      "romanized": "Jaltaa hai aag se, hai taaraa vahee",
       "speaker": "Encore ABJ",
       "translation": "The one that burns with its own fire, that's the real star.",
       "explanation": "The flip — a true star burns from its own inner fire (passion, drive), not from envy. This completes the metaphor.",
@@ -224,6 +243,7 @@ export const bure_din: Song = {
     },
     {
       "original": "मैं जलता था आशिकी में सारा दिन",
+      "romanized": "Main jaltaa thaa aashikee men saaraa din",
       "speaker": "Encore ABJ",
       "translation": "I used to burn in love all day long.",
       "explanation": "Reflecting on a past where he was consumed by romantic love — 'jalana' here shifts from the star metaphor to the burning of heartache.",
@@ -237,6 +257,7 @@ export const bure_din: Song = {
     },
     {
       "original": "पिघलता था आशिकी में सारी रात",
+      "romanized": "Pighltaa thaa aashikee men saaree raat",
       "speaker": "Encore ABJ",
       "translation": "I used to melt in love all night long.",
       "explanation": "Continuing the past tense reflection — love didn't just burn him, it melted him entirely through the night.",
@@ -250,6 +271,7 @@ export const bure_din: Song = {
     },
     {
       "original": "तेरी-मेरी छोड़, ये हमारी बात है",
+      "romanized": "Teree-meree chhor, ye hamaaree baat hai",
       "speaker": "Encore ABJ",
       "translation": "Forget yours and mine, this is about us.",
       "explanation": "Moving past individual perspectives — this isn't about 'you' or 'me' separately, it's about the collective experience, the shared struggle.",
@@ -257,6 +279,7 @@ export const bure_din: Song = {
     },
     {
       "original": "तेरी-मेरी साँस नहीं, ये हमारी साँस है",
+      "romanized": "Teree-meree saans naheen, ye hamaaree saans hai",
       "speaker": "Encore ABJ",
       "translation": "This isn't your breath or mine, it's our breath.",
       "explanation": "The music, the art, the struggle — it belongs to everyone who relates to it. Breath here represents life force and creative expression.",
@@ -264,6 +287,7 @@ export const bure_din: Song = {
     },
     {
       "original": "हमारा लगाव है, हमारा ख़्वाब है",
+      "romanized": "Hamaaraa lagaav hai, hamaaraa khvaab hai",
       "speaker": "Encore ABJ",
       "translation": "It's our attachment, it's our dream.",
       "explanation": "Their bond with music and with each other is a shared attachment and shared dream.",
@@ -282,6 +306,7 @@ export const bure_din: Song = {
     },
     {
       "original": "हमारा प्रसाद है, हमारा पाप है",
+      "romanized": "Hamaaraa prasaad hai, hamaaraa paap hai",
       "speaker": "Encore ABJ",
       "translation": "It's our blessing, it's our sin.",
       "explanation": "Their art is both sacred offering and sin — acknowledging the duality of their journey. The music is a divine gift but also comes from dark, raw places.",
@@ -300,6 +325,7 @@ export const bure_din: Song = {
     },
     {
       "original": "जान-ए-जान, भगवान जानता है",
+      "romanized": "Jaan-e-jaan, bhagvaan jaantaa hai",
       "speaker": "Encore ABJ",
       "translation": "My dearest, God knows.",
       "explanation": "An intimate address — 'jaan-e-jaan' (life of my life) — followed by surrendering to a higher power. Only God truly knows the depths of his struggle.",
@@ -313,6 +339,7 @@ export const bure_din: Song = {
     },
     {
       "original": "मेरे प्यार से शैतान भागता है",
+      "romanized": "Mere pyaar se shaitaan bhaagtaa hai",
       "speaker": "Encore ABJ",
       "translation": "Even the devil runs from my love.",
       "explanation": "His love and sincerity are so powerful that even evil cannot stand before them. Despite the hard exterior, the love underneath is pure.",
@@ -326,6 +353,7 @@ export const bure_din: Song = {
     },
     {
       "original": "मेरे pen की लकीर से ब्रह्मांड नाप जाए",
+      "romanized": "Mere pen kee lakeer se brahmaand naap jaae",
       "speaker": "Encore ABJ",
       "translation": "The stroke of my pen could measure the entire universe.",
       "explanation": "A grand claim about the power of his writing — his pen is so mighty it could map the cosmos. His lyrics contain multitudes.",
@@ -344,6 +372,7 @@ export const bure_din: Song = {
     },
     {
       "original": "लेकिन लिखता नहीं हूँ क्यूँकि हाथ काँपता है ये वाला फ़िर",
+      "romanized": "Lekin likhtaa naheen hoon kyoonki haath kaanptaa hai ye vaalaa fir",
       "speaker": "Encore ABJ",
       "translation": "But I don't write because my hand trembles, this one again.",
       "explanation": "A vulnerable admission that undercuts the previous bravado. Despite having the talent to write something universe-spanning, his hand shakes — from anxiety, pain, or the weight of what he carries. Raw honesty.",
@@ -351,6 +380,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to my बुरे दिन",
+      "romanized": "Ye vaalaa hai cheers to my bure din",
       "speaker": "Encore ABJ",
       "translation": "This one's a cheers to my bad days.",
       "explanation": "Returning to the hook — raising a glass to the hard times that made him who he is.",
@@ -358,6 +388,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to my बुरी रात",
+      "romanized": "Ye vaalaa hai cheers to my buree raat",
       "speaker": "Encore ABJ",
       "translation": "This one's a cheers to my bad nights.",
       "explanation": "Continuing the toast to the dark, difficult nights.",
@@ -365,6 +396,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है लिखता हूँ ताकि तैर पाऊँ बिना डूबे आज",
+      "romanized": "Ye vaalaa hai likhtaa hoon taaki tair paaoon binaa doobe aaj",
       "speaker": "Encore ABJ",
       "translation": "This one's me writing so I can swim without drowning today.",
       "explanation": "Writing is his lifeline — the act of putting pen to paper keeps him from going under.",
@@ -372,6 +404,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister दुबे, क्या आप—",
+      "romanized": "Hello, mister dube, kyaa aap—",
       "speaker": "Encore ABJ",
       "translation": "Hello, mister Dubey, can you—",
       "explanation": "The signature hook — addressing the drowning self again, the question left hanging.",
@@ -385,6 +418,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to my बुरे दिन",
+      "romanized": "Ye vaalaa hai cheers to my bure din",
       "speaker": "Encore ABJ",
       "translation": "This one's a cheers to my bad days.",
       "explanation": "Second repetition of the hook for emphasis.",
@@ -392,6 +426,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to my बुरी रात",
+      "romanized": "Ye vaalaa hai cheers to my buree raat",
       "speaker": "Encore ABJ",
       "translation": "This one's a cheers to my bad nights.",
       "explanation": "Continued hook repetition.",
@@ -399,6 +434,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है लिखता हूँ ताकि तैर पाऊँ बिना डूबे आज",
+      "romanized": "Ye vaalaa hai likhtaa hoon taaki tair paaoon binaa doobe aaj",
       "speaker": "Encore ABJ",
       "translation": "This one's me writing so I can swim without drowning today.",
       "explanation": "The lifeline refrain — writing to stay afloat.",
@@ -406,6 +442,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister दुबे, क्या आप—",
+      "romanized": "Hello, mister dube, kyaa aap—",
       "speaker": "Encore ABJ",
       "translation": "Hello, mister Dubey, can you—",
       "explanation": "Hook line trailing off, handing the song over to Calm's section.",
@@ -413,6 +450,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister डूबे-आप",
+      "romanized": "Hello, mister doobe-aap",
       "speaker": "Calm",
       "translation": "Hello, mister you-who-drowned.",
       "explanation": "Calm takes the 'mister Dubey' format and makes the drowning wordplay explicit — directly addressing someone (or himself) who has drowned in struggles.",
@@ -426,6 +464,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister टूटे-आप",
+      "romanized": "Hello, mister toote-aap",
       "speaker": "Calm",
       "translation": "Hello, mister you-who-broke.",
       "explanation": "Addressing the broken version of himself — the one who crumbled under pressure.",
@@ -439,6 +478,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister गाने-बना-रहे-थे-जगे-पूरी-रात",
+      "romanized": "Hello, mister gaane-banaa-rahe-the-jage-pooree-raat",
       "speaker": "Calm",
       "translation": "Hello, mister were-making-songs-stayed-up-all-night.",
       "explanation": "Addressing the grind — the version of himself that stayed up all night making music. The hyphenated compound mirrors how it all blurs together in exhaustion.",
@@ -446,6 +486,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister बड़े-ख़्वाब",
+      "romanized": "Hello, mister bare-khvaab",
       "speaker": "Calm",
       "translation": "Hello, mister big-dreams.",
       "explanation": "Addressing the dreamer in himself — the one who dared to dream big despite the circumstances.",
@@ -459,6 +500,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister fuck-it-up",
+      "romanized": "Hello, mister fuck-it-up",
       "speaker": "Calm",
       "translation": "Hello, mister fuck-it-up.",
       "explanation": "Addressing the reckless side — the one who messes things up or goes all out without restraint.",
@@ -466,6 +508,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister गाने-तो-याद-हैं-ख़ुद-ही-को-भूले-आप",
+      "romanized": "Hello, mister gaane-to-yaad-hain-khud-hee-ko-bhoole-aap",
       "speaker": "Calm",
       "translation": "Hello, mister you-remember-the-songs-but-forgot-yourself.",
       "explanation": "A deeply introspective line — he poured so much into his music that he remembers every song but lost track of who he is as a person.",
@@ -473,6 +516,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister fake-है-love",
+      "romanized": "Hello, mister fake-hai-love",
       "speaker": "Calm",
       "translation": "Hello, mister the-love-is-fake.",
       "explanation": "Acknowledging that much of the love and admiration he receives is superficial and not genuine.",
@@ -480,6 +524,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister shake-it-off",
+      "romanized": "Hello, mister shake-it-off",
       "speaker": "Calm",
       "translation": "Hello, mister shake-it-off.",
       "explanation": "The response to fake love — shake it off, don't let it get to you. Keep moving.",
@@ -487,6 +532,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister यहीं-वो-रहे-तो-होगे-पूरे-आप",
+      "romanized": "Hello, mister yaheen-vo-rahe-to-hoge-poore-aap",
       "speaker": "Calm",
       "translation": "Hello, mister if-you-stay-right-here-you'll-be-complete.",
       "explanation": "A reminder to stay grounded — if he remains true to where he is and who he is, he'll find completeness.",
@@ -494,6 +540,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister टेढ़ी-राह",
+      "romanized": "Hello, mister terhee-raah",
       "speaker": "Calm",
       "translation": "Hello, mister crooked-path.",
       "explanation": "Acknowledging that the road he's on isn't straight or easy — it's twisted and unpredictable.",
@@ -507,6 +554,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister faded-आप",
+      "romanized": "Hello, mister faded-aap",
       "speaker": "Calm",
       "translation": "Hello, mister you're-faded.",
       "explanation": "Addressing the intoxicated or zoned-out version of himself — either literally faded from substances or emotionally numb.",
@@ -520,6 +568,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister नशों-में-ढूँढो-जो-कभी-मिलें-ना",
+      "romanized": "Hello, mister nashon-men-dhoondho-jo-kabhee-milen-naa",
       "speaker": "Calm",
       "translation": "Hello, mister searching-in-intoxication-for-what-you'll-never-find.",
       "explanation": "The most cutting line of Calm's section — calling out the futility of seeking answers or peace in substances. What you're looking for won't be found there.",
@@ -533,6 +582,7 @@ export const bure_din: Song = {
     },
     {
       "original": "चाहिए थोड़ा cash and I get by",
+      "romanized": "Chaahie thoraa cash and I get by",
       "speaker": "Calm",
       "translation": "Need a little cash and I get by.",
       "explanation": "Transitioning from the 'mister' litany to a straightforward statement — he doesn't need much, just enough money to survive and keep going.",
@@ -540,6 +590,7 @@ export const bure_din: Song = {
     },
     {
       "original": "पूरे करूँ plans so I can't die",
+      "romanized": "Poore karoon plans so I can't die",
       "speaker": "Calm",
       "translation": "Gotta finish my plans so I can't die.",
       "explanation": "His unfinished ambitions are what keep him alive — he can't afford to die because there's still work to do.",
@@ -547,6 +598,7 @@ export const bure_din: Song = {
     },
     {
       "original": "This that cheers to my बुरा time",
+      "romanized": "This that cheers to my buraa time",
       "speaker": "Calm",
       "translation": "This is a cheers to my bad time.",
       "explanation": "Calm's version of the hook, mixing Hindi 'bura' with English 'time' — same sentiment, his own flavor.",
@@ -554,6 +606,7 @@ export const bure_din: Song = {
     },
     {
       "original": "This that cheers to my look-a-likes जिन्हें दिखे मेरे भी बड़ा भाई",
+      "romanized": "This that cheers to my look-a-likes jinhen dikhe mere bhee baraa bhaaee",
       "speaker": "Calm",
       "translation": "This is a cheers to my look-alikes who also see me as a big brother.",
       "explanation": "A toast to the people who resemble him — the ones coming up behind him in the scene who look up to him like an older brother. He acknowledges those who relate to his journey.",
@@ -567,6 +620,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to the fam, जो साथ नहीं छोड़ें कभी मेरा",
+      "romanized": "Ye vaalaa hai cheers to the fam, jo saath naheen chhoren kabhee meraa",
       "speaker": "Calm",
       "translation": "This one's a cheers to the fam, who never leave my side.",
       "explanation": "A toast to his family and close circle — the people who stuck with him through the bad days.",
@@ -574,6 +628,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Cheers to the land, जो पाल के करे बड़ा मुझे",
+      "romanized": "Cheers to the land, jo paal ke kare baraa mujhe",
       "speaker": "Calm",
       "translation": "Cheers to the land that raised me and made me big.",
       "explanation": "A toast to Delhi, his home — the city that nurtured and shaped him into who he is.",
@@ -587,6 +642,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Cheers to thе man, जो जान के देता सलाह मुझे",
+      "romanized": "Cheers to thе man, jo jaan ke detaa salaah mujhe",
       "speaker": "Calm",
       "translation": "Cheers to the man who knowingly gives me advice.",
       "explanation": "A toast to the mentors and elders who consciously guided him — people who gave genuine, intentional counsel.",
@@ -594,6 +650,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Cheers to the stand I took, जब बुरा लगा मुझे",
+      "romanized": "Cheers to the stand I took, jab buraa lagaa mujhe",
       "speaker": "Calm",
       "translation": "Cheers to the stand I took when I felt bad.",
       "explanation": "A toast to his own courage — the moments when he was hurting but still stood up for himself and his principles.",
@@ -601,6 +658,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to my बुरे दिन",
+      "romanized": "Ye vaalaa hai cheers to my bure din",
       "speaker": "Calm & Encore ABJ",
       "translation": "This one's a cheers to my bad days.",
       "explanation": "Both members come together on the hook, unifying their voices on the shared sentiment.",
@@ -608,6 +666,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to my बुरी रात",
+      "romanized": "Ye vaalaa hai cheers to my buree raat",
       "speaker": "Calm & Encore ABJ",
       "translation": "This one's a cheers to my bad nights.",
       "explanation": "Joint hook continuation — the duo toasting together to their shared dark nights.",
@@ -615,6 +674,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है लिखता हूँ ताकि तैर पाऊँ बिना डूबे आज",
+      "romanized": "Ye vaalaa hai likhtaa hoon taaki tair paaoon binaa doobe aaj",
       "speaker": "Calm & Encore ABJ",
       "translation": "This one's me writing so I can swim without drowning today.",
       "explanation": "Both voices on the lifeline refrain — writing as collective survival.",
@@ -622,6 +682,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister दुबे, क्या आप—",
+      "romanized": "Hello, mister dube, kyaa aap—",
       "speaker": "Calm & Encore ABJ",
       "translation": "Hello, mister Dubey, can you—",
       "explanation": "The duo delivering the signature hook together, question left hanging.",
@@ -629,6 +690,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to my बुरे दिन",
+      "romanized": "Ye vaalaa hai cheers to my bure din",
       "speaker": "Calm & Encore ABJ",
       "translation": "This one's a cheers to my bad days.",
       "explanation": "Second pass of the joint hook.",
@@ -636,6 +698,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to my बुरी रात",
+      "romanized": "Ye vaalaa hai cheers to my buree raat",
       "speaker": "Calm & Encore ABJ",
       "translation": "This one's a cheers to my bad nights.",
       "explanation": "Continued joint hook.",
@@ -643,6 +706,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है लिखता हूँ ताकि तैर पाऊँ बिना डूबे आज",
+      "romanized": "Ye vaalaa hai likhtaa hoon taaki tair paaoon binaa doobe aaj",
       "speaker": "Calm & Encore ABJ",
       "translation": "This one's me writing so I can swim without drowning today.",
       "explanation": "The writing-as-survival refrain, both voices together.",
@@ -650,6 +714,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hеllo, mister दुबे, क्या आप—",
+      "romanized": "Hеllo, mister dube, kyaa aap—",
       "speaker": "Calm & Encore ABJ",
       "translation": "Hello, mister Dubey, can you—",
       "explanation": "Final joint hook before Mick Jenkins' verse, the unanswered question echoing.",
@@ -657,6 +722,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Took an E, took an A, took a R",
+      "romanized": "Took an E, took an A, took a R",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "Took an E, took an A, took an R.",
       "explanation": "Mick Jenkins spells out E-A-R-N — every time he took an L (loss), he turned it into a lesson and EARNED from it. The letters build across lines.",
@@ -670,6 +736,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Took an N, everytime I took a L",
+      "romanized": "Took an N, everytime I took a L",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "Took an N, every time I took an L.",
       "explanation": "Completing the spelling: E-A-R-N. Every time he took an L (loss), he earned something from it. Brilliant wordplay connecting loss to growth.",
@@ -683,6 +750,7 @@ export const bure_din: Song = {
     },
     {
       "original": "I was on the cusp but I really couldn't tell",
+      "romanized": "I was on the cusp but I really couldn't tell",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "I was on the cusp but I really couldn't tell.",
       "explanation": "He was right on the edge of a breakthrough but couldn't recognize it in the moment — success was close but invisible during the struggle.",
@@ -690,6 +758,7 @@ export const bure_din: Song = {
     },
     {
       "original": "I was on the bus with a pocket full of drive",
+      "romanized": "I was on the bus with a pocket full of drive",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "I was on the bus with a pocket full of drive.",
       "explanation": "Before success, he was riding public transit — broke but full of ambition and motivation. 'Pocket full of drive' instead of money.",
@@ -697,6 +766,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Didn't talk too much when I had to sit still",
+      "romanized": "Didn't talk too much when I had to sit still",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "Didn't talk too much when I had to sit still.",
       "explanation": "He stayed quiet and patient during the waiting periods — disciplined silence when action wasn't possible.",
@@ -704,6 +774,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Even keeled, if they mentioned my walk",
+      "romanized": "Even keeled, if they mentioned my walk",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "Even-keeled, even if they mentioned my walk.",
       "explanation": "He stayed balanced and composed even when people talked about how he moved through life — unbothered by outside commentary on his journey.",
@@ -717,6 +788,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Couldn't expire but the pressure would mold",
+      "romanized": "Couldn't expire but the pressure would mold",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "Couldn't expire, but the pressure would mold.",
       "explanation": "He refused to give up or die out, and the pressure shaped him like clay — adversity as a sculpting force rather than a destructive one.",
@@ -724,6 +796,7 @@ export const bure_din: Song = {
     },
     {
       "original": "It would inspire all the questions I fought",
+      "romanized": "It would inspire all the questions I fought",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "It would inspire all the questions I fought.",
       "explanation": "The pressure didn't just shape him — it sparked the difficult questions he wrestled with about life, purpose, and justice.",
@@ -731,6 +804,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Like why the bad prosper and why the good fold?",
+      "romanized": "Like why the bad prosper and why the good fold?",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "Like why do the bad prosper and why do the good fold?",
       "explanation": "One of those existential questions — why do corrupt people succeed while good people give up? A universal frustration.",
@@ -738,6 +812,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Or why the bill folds never fill up our pot?",
+      "romanized": "Or why the bill folds never fill up our pot?",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "Or why the billfolds never fill up our pot?",
       "explanation": "Why does the money never seem to be enough for people like him? 'Billfold' is a wallet — the wallets never fill the collective pot of those who deserve it.",
@@ -751,6 +826,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Wasn't blindfolded, they knew that we can see",
+      "romanized": "Wasn't blindfolded, they knew that we can see",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "Wasn't blindfolded, they knew that we can see.",
       "explanation": "He wasn't naive or ignorant — the powers that be knew he could see through the systems designed to keep him down.",
@@ -758,6 +834,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Nicodemus, I question everything I was taught",
+      "romanized": "Nicodemus, I question everything I was taught",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "Nicodemus, I question everything I was taught.",
       "explanation": "Nicodemus was a Pharisee in the Bible who came to Jesus at night to ask questions, seeking truth beyond what he'd been taught. Jenkins identifies with that — questioning all inherited beliefs and teachings.",
@@ -771,6 +848,7 @@ export const bure_din: Song = {
     },
     {
       "original": "All my dreams, they would seem outta reach",
+      "romanized": "All my dreams, they would seem outta reach",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "All my dreams, they would seem out of reach.",
       "explanation": "His aspirations felt impossible during the struggle — a relatable feeling of dreams being too far away.",
@@ -778,6 +856,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Same way, inseams wouldn't reach, I was just too tall",
+      "romanized": "Same way, inseams wouldn't reach, I was just too tall",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "Same way, inseams wouldn't reach, I was just too tall.",
       "explanation": "A clever metaphor comparing unreachable dreams to pants that don't fit because you're too tall. He was too big for the limitations placed on him — both literally and figuratively.",
@@ -791,6 +870,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Moving the needle, adjusting the hem",
+      "romanized": "Moving the needle, adjusting the hem",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "Moving the needle, adjusting the hem.",
       "explanation": "Continuing the tailoring metaphor — he's making progress ('moving the needle') and adjusting things to fit his reality. He's tailoring his own success.",
@@ -804,6 +884,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Piece it together, I'm quilting it all",
+      "romanized": "Piece it together, I'm quilting it all",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "Piece it together, I'm quilting it all.",
       "explanation": "Taking all the fragments of his life — the good, the bad, the losses — and stitching them together into something whole, like a quilt. Every bad day is a patch in the larger tapestry.",
@@ -811,6 +892,7 @@ export const bure_din: Song = {
     },
     {
       "original": "No security blankets could keep it together",
+      "romanized": "No security blankets could keep it together",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "No security blankets could keep it together.",
       "explanation": "There's no safety net or comfort zone that could hold things together — he had to do it himself. Continues the fabric metaphor.",
@@ -824,6 +906,7 @@ export const bure_din: Song = {
     },
     {
       "original": "And we got the pressure of milking it all",
+      "romanized": "And we got the pressure of milking it all",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "And we've got the pressure of milking it all.",
       "explanation": "The pressure to extract every drop of value from their talent and opportunities — to maximize everything because there may not be a second chance.",
@@ -831,6 +914,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Not too much leisure, a nigga been vetting his measurements, specially when mixing with y'all",
+      "romanized": "Not too much leisure, a nigga been vetting his measurements, specially when mixing with y'all",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "Not too much leisure, been vetting my measurements, especially when mixing with y'all.",
       "explanation": "No time for rest — he's been carefully measuring and evaluating himself, especially when collaborating or interacting with others. Staying sharp and self-aware.",
@@ -844,6 +928,7 @@ export const bure_din: Song = {
     },
     {
       "original": "I might take a breather but I ain't gone let up these lessons, they definitely get written for y'all",
+      "romanized": "I might take a breather but I ain't gone let up these lessons, they definitely get written for y'all",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "I might take a breather but I'm not gonna let up — these lessons definitely get written for y'all.",
       "explanation": "He may pause to rest but will never stop sharing the wisdom gained from his bad days. The lessons from hardship are meant to be passed on.",
@@ -851,6 +936,7 @@ export const bure_din: Song = {
     },
     {
       "original": "तभी मैं लिखता हूँ, जितना मैं लिख सकता हूँ",
+      "romanized": "Tabhee main likhtaa hoon, jitnaa main likh saktaa hoon",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "That's why I write, as much as I can.",
       "explanation": "Encore comes back in, bridging Jenkins' verse back to the Hindi hook — the reason he writes is to process, survive, and share.",
@@ -858,6 +944,7 @@ export const bure_din: Song = {
     },
     {
       "original": "चाहे दिल्ली हो या फ़िर कसोल",
+      "romanized": "Chaahe dillee ho yaa fir kasol",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "Whether it's Delhi or Kasol.",
       "explanation": "He writes everywhere — in the urban grind of Delhi or the mountain escape of Kasol. Kasol is a hill town in Himachal Pradesh popular with artists and musicians for its laid-back, creative atmosphere.",
@@ -871,6 +958,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है—",
+      "romanized": "Ye vaalaa hai—",
       "speaker": "Mick Jenkins & Encore ABJ",
       "translation": "This one is—",
       "explanation": "Trailing off as the final hook approaches, building anticipation.",
@@ -878,6 +966,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to my बुरे दिन",
+      "romanized": "Ye vaalaa hai cheers to my bure din",
       "speaker": "Encore ABJ",
       "translation": "This one's a cheers to my bad days.",
       "explanation": "Final round of the hook — the song circles back to its core sentiment one last time.",
@@ -885,6 +974,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to my बुरी रात",
+      "romanized": "Ye vaalaa hai cheers to my buree raat",
       "speaker": "Encore ABJ",
       "translation": "This one's a cheers to my bad nights.",
       "explanation": "Penultimate hook line, toasting the dark nights one more time.",
@@ -892,6 +982,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है लिखता हूँ ताकि तैर पाऊँ बिना डूबे आज",
+      "romanized": "Ye vaalaa hai likhtaa hoon taaki tair paaoon binaa doobe aaj",
       "speaker": "Encore ABJ",
       "translation": "This one's me writing so I can swim without drowning today.",
       "explanation": "The writing-as-survival refrain in the final hook section.",
@@ -899,6 +990,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister दुबे, क्या आप—",
+      "romanized": "Hello, mister dube, kyaa aap—",
       "speaker": "Encore ABJ",
       "translation": "Hello, mister Dubey, can you—",
       "explanation": "The unanswered question returns once more.",
@@ -906,6 +998,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to my बुरे दिन",
+      "romanized": "Ye vaalaa hai cheers to my bure din",
       "speaker": "Encore ABJ",
       "translation": "This one's a cheers to my bad days.",
       "explanation": "Hook repetition driving the message home.",
@@ -913,6 +1006,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to my बुरी रात",
+      "romanized": "Ye vaalaa hai cheers to my buree raat",
       "speaker": "Encore ABJ",
       "translation": "This one's a cheers to my bad nights.",
       "explanation": "Continued final hook.",
@@ -920,6 +1014,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है तैरता हूँ ताकि लिख पाऊँ बिना डूबे आज",
+      "romanized": "Ye vaalaa hai tairtaa hoon taaki likh paaoon binaa doobe aaj",
       "speaker": "Encore ABJ",
       "translation": "This one's me swimming so I can write without drowning today.",
       "explanation": "A crucial flip of the earlier line — previously it was 'I write so I can swim,' now it's 'I swim so I can write.' The relationship between survival and art goes both ways. Writing keeps him afloat, and staying afloat lets him keep writing.",
@@ -927,6 +1022,7 @@ export const bure_din: Song = {
     },
     {
       "original": "Hello, mister दुबे, क्या आप—",
+      "romanized": "Hello, mister dube, kyaa aap—",
       "speaker": "Encore ABJ",
       "translation": "Hello, mister Dubey, can you—",
       "explanation": "The question trails off again, leading into the spoken outro.",
@@ -934,6 +1030,7 @@ export const bure_din: Song = {
     },
     {
       "original": "समझ पा रहे हो?",
+      "romanized": "Samjh paa rahe ho?",
       "speaker": "Encore ABJ",
       "translation": "Can you understand?",
       "explanation": "Finally completing one of the hanging questions — directly asking if the listener (or himself) can truly comprehend what he's been expressing.",
@@ -941,6 +1038,7 @@ export const bure_din: Song = {
     },
     {
       "original": "लड़ाई-धड़ाई की बातों से, इन club-club'on की बातों से",
+      "romanized": "Laraaee-dharaaee kee baaton se, in club-club'on kee baaton se",
       "speaker": "Encore ABJ",
       "translation": "Beyond the talk of fights, beyond all this club talk.",
       "explanation": "Spoken outro where Encore strips away the noise — the beefs, the party culture — asking if you can see what's really underneath all of it.",
@@ -948,6 +1046,7 @@ export const bure_din: Song = {
     },
     {
       "original": "इन प्यारी-प्यारी शक्लों के पीछे बीच में जो हम घिरे हैं उसके बाल देख के",
+      "romanized": "In pyaaree-pyaaree shaklon ke peechhe beech men jo ham ghire hain uske baal dekh ke",
       "speaker": "Encore ABJ",
       "translation": "Behind these pretty faces, seeing the tangles of what we're trapped in the middle of.",
       "explanation": "Behind the attractive surface — the pretty faces, the glamour — there's a mess they're caught in. 'Baal dekh ke' (seeing the hair/tangles) suggests seeing the ugly, tangled reality beneath the surface.",
@@ -961,6 +1060,7 @@ export const bure_din: Song = {
     },
     {
       "original": "क्या आप समझ पा रहे हो, mister दुबे?",
+      "romanized": "Kyaa aap samjh paa rahe ho, mister dube?",
       "speaker": "Encore ABJ",
       "translation": "Can you understand, mister Dubey?",
       "explanation": "Directly asking the drowning self — the Dubey/doobe persona — if any of this is getting through. A plea for self-awareness and external understanding.",
@@ -968,6 +1068,7 @@ export const bure_din: Song = {
     },
     {
       "original": "क्यूँकि चीज़ें सताती रहेंगी पर हम चीज़ों को सताते रहेंगे, आगे आते रहेंगे",
+      "romanized": "Kyoonki cheezen sataatee rahengee par ham cheezon ko sataate rahenge, aage aate rahenge",
       "speaker": "Encore ABJ",
       "translation": "Because things will keep tormenting us, but we'll keep tormenting things right back, we'll keep moving forward.",
       "explanation": "The defiant closing philosophy — life will keep hitting them, but they'll hit back harder and keep pushing forward. Adversity is mutual combat, not passive suffering.",
@@ -975,6 +1076,7 @@ export const bure_din: Song = {
     },
     {
       "original": "अपनी खामियों से ख़ुद को बेहतर करते रहेंगे",
+      "romanized": "Apnee khaamiyon se khud ko behtr karte rahenge",
       "speaker": "Encore ABJ",
       "translation": "We'll keep making ourselves better through our own flaws.",
       "explanation": "Growth through imperfection — using their shortcomings as fuel for self-improvement rather than being defeated by them.",
@@ -988,6 +1090,7 @@ export const bure_din: Song = {
     },
     {
       "original": "और सब की लेकर रहेंगे",
+      "romanized": "Aur sab kee lekr rahenge",
       "speaker": "Encore ABJ",
       "translation": "And we'll take on everyone.",
       "explanation": "A defiant declaration — they'll confront and overcome everything and everyone that stands in their way.",
@@ -1001,6 +1104,7 @@ export const bure_din: Song = {
     },
     {
       "original": "सहते रहेंगे लेकिन दोगुना देकर रहेंगे",
+      "romanized": "Sahte rahenge lekin dogunaa dekr rahenge",
       "speaker": "Encore ABJ",
       "translation": "We'll keep enduring, but we'll give back double.",
       "explanation": "They'll absorb the pain but return it twofold — resilience paired with intensity. Whatever life gives them, they'll give back more.",
@@ -1014,6 +1118,7 @@ export const bure_din: Song = {
     },
     {
       "original": "जवाब, बात, ख़्वाब, प्यार, सलीका, विचार, शुरुआत, अंत",
+      "romanized": "Javaab, baat, khvaab, pyaar, saleekaa, vichaar, shuruaat, ant",
       "speaker": "Encore ABJ",
       "translation": "Answers, words, dreams, love, grace, thoughts, beginnings, endings.",
       "explanation": "A stream-of-consciousness list that encapsulates the full spectrum of life — everything from the first word to the last, from dreams to reality, from love to loss. All of it feeds the art.",
@@ -1027,6 +1132,7 @@ export const bure_din: Song = {
     },
     {
       "original": "मैं कभी था sober, कभी था भंड",
+      "romanized": "Main kabhee thaa sober, kabhee thaa bhand",
       "speaker": "Encore ABJ",
       "translation": "Sometimes I was sober, sometimes I was wasted.",
       "explanation": "An honest admission of the swings between clarity and intoxication — the highs and lows of coping with the bad days.",
@@ -1040,6 +1146,7 @@ export const bure_din: Song = {
     },
     {
       "original": "कभी unhappy, अब दर्द में भी fun है",
+      "romanized": "Kabhee unhappy, ab dard men bhee fun hai",
       "speaker": "Encore ABJ",
       "translation": "Sometimes unhappy, but now there's fun even in the pain.",
       "explanation": "The ultimate evolution — he's reached a place where even suffering has become something he can embrace and find meaning in. The bad days are no longer just bad.",
@@ -1047,6 +1154,7 @@ export const bure_din: Song = {
     },
     {
       "original": "अब दर्द में भी fun है, जनाब",
+      "romanized": "Ab dard men bhee fun hai, janaab",
       "speaker": "Encore ABJ",
       "translation": "Now there's fun even in the pain, sir.",
       "explanation": "Repeating the revelation with 'janaab' (sir) — a wry, almost amused acceptance addressed to the listener or to life itself. He's made peace with the pain.",
@@ -1060,6 +1168,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to my बुरे दिन",
+      "romanized": "Ye vaalaa hai cheers to my bure din",
       "speaker": "Encore ABJ",
       "translation": "This one's a cheers to my bad days.",
       "explanation": "The final hook begins — one last toast.",
@@ -1067,6 +1176,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है cheers to my बुरी रात",
+      "romanized": "Ye vaalaa hai cheers to my buree raat",
       "speaker": "Encore ABJ",
       "translation": "This one's a cheers to my bad nights.",
       "explanation": "One last cheers to the dark nights.",
@@ -1074,6 +1184,7 @@ export const bure_din: Song = {
     },
     {
       "original": "ये वाला है तैरता हूँ ताकि लिख पाऊँ बिना—",
+      "romanized": "Ye vaalaa hai tairtaa hoon taaki likh paaoon binaa—",
       "speaker": "Encore ABJ",
       "translation": "This one's me swimming so I can write without—",
       "explanation": "The song cuts off mid-line, leaving 'without drowning' unfinished. The abrupt ending mirrors the ongoing, unresolved nature of the struggle — the bad days don't wrap up neatly, and neither does the song.",

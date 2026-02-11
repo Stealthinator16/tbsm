@@ -9,6 +9,7 @@ export const tofa: Song = {
   "lyrics": [
     {
       "original": "[Intro]",
+      "romanized": "[Intro]",
       "speaker": "Intro",
       "translation": "[Intro]",
       "explanation": "Indicates the start of the song.",
@@ -16,6 +17,7 @@ export const tofa: Song = {
     },
     {
       "original": "Hurricane",
+      "romanized": "Hurricane",
       "speaker": "Intro",
       "translation": "Hurricane",
       "explanation": "Likely a producer tag or a signal of the energy of the song.",
@@ -23,6 +25,7 @@ export const tofa: Song = {
     },
     {
       "original": "ताक़तवर बोले पर ताक़त है नी",
+      "romanized": "Taaqatavara bole para taaqata hai nee",
       "speaker": "Encore ABJ",
       "translation": "I say I'm powerful but I have no power",
       "explanation": "Encore is acknowledging a discrepancy between how he portrays himself and his inner feelings.",
@@ -30,6 +33,7 @@ export const tofa: Song = {
     },
     {
       "original": "दिल के टूटे जज़्बातों से ज़बाँ मैली",
+      "romanized": "Dila ke toote jazbaaton se zabaan mailee",
       "speaker": "Encore ABJ",
       "translation": "My tongue is tainted by broken emotions of the heart.",
       "explanation": "He feels his words are negatively influenced by heartbreak and past experiences.",
@@ -37,6 +41,7 @@ export const tofa: Song = {
     },
     {
       "original": "हो रहा हूँ अपनी परछाई का कैदी मैं (कैदी मैं)",
+      "romanized": "Ho rahaa hoon apanee parachhaaee kaa kaidee main (kaidee main)",
       "speaker": "Encore ABJ",
       "translation": "I'm becoming a prisoner of my own shadow (prisoner)",
       "explanation": "He's trapped by his past actions and insecurities, limiting his present self.",
@@ -44,6 +49,7 @@ export const tofa: Song = {
     },
     {
       "original": "हूँ अपने अंजाम पे सही में (सही में)",
+      "romanized": "Hoon apane anjaama pe sahee men (sahee men)",
       "speaker": "Encore ABJ",
       "translation": "I am really at my end (really)",
       "explanation": "He feels like he is approaching a point of no return, or some kind of significant change.",
@@ -51,6 +57,7 @@ export const tofa: Song = {
     },
     {
       "original": "तभी मैं पहले जहां देखता था friends और family",
+      "romanized": "Tabhee main pahale jahaan dekhataa thaa friends aura family",
       "speaker": "Encore ABJ",
       "translation": "That's why where I used to see friends and family before",
       "explanation": "He reflects on past relationships and how they're changing.",
@@ -58,6 +65,7 @@ export const tofa: Song = {
     },
     {
       "original": "अब बस दिखता है पैसा और ईर्ष्या, envy",
+      "romanized": "Aba basa dikhataa hai paisaa aura eershyaa, envy",
       "speaker": "Encore ABJ",
       "translation": "Now I only see money and jealousy, envy",
       "explanation": "Success has seemingly corrupted his surroundings, with materialistic values and envy replacing genuine relationships.",
@@ -65,6 +73,7 @@ export const tofa: Song = {
     },
     {
       "original": "क्या है मेरी पहचान?",
+      "romanized": "Kyaa hai meree pahachaana?",
       "speaker": "Encore ABJ",
       "translation": "What is my identity?",
       "explanation": "Encore questions who he is becoming, or what defines him.",
@@ -72,6 +81,7 @@ export const tofa: Song = {
     },
     {
       "original": "\"Ready made\"",
+      "romanized": "\"Ready made\"",
       "speaker": "Encore ABJ",
       "translation": "\"Ready made\"",
       "explanation": "Potentially feeling like he is pre-determined in some way.",
@@ -79,6 +89,7 @@ export const tofa: Song = {
     },
     {
       "original": "है वो यमराज की पहली भेंट",
+      "romanized": "Hai vo yamaraaja kee pahalee bhenta",
       "speaker": "Encore ABJ",
       "translation": "It's the first offering to Yama (the god of death)",
       "explanation": "He's saying something bad, or an ill omen, is about to happen.",
@@ -92,6 +103,7 @@ export const tofa: Song = {
     },
     {
       "original": "और मैं स्वीकारूं खुशी से",
+      "romanized": "Aura main sveekaaroon khushee se",
       "speaker": "Encore ABJ",
       "translation": "And I accept it happily",
       "explanation": "Despite the ominous tone, Encore embraces this fate with a hint of resignation.",
@@ -99,6 +111,7 @@ export const tofa: Song = {
     },
     {
       "original": "यहां खुद की खुशी कर गई खुदकुशी कब की",
+      "romanized": "Yahaan khuda kee khushee kara gaee khudakushee kaba kee",
       "speaker": "Encore ABJ",
       "translation": "Here, one's own happiness committed suicide long ago",
       "explanation": "In this environment, personal happiness is unattainable and has been destroyed.",
@@ -106,6 +119,7 @@ export const tofa: Song = {
     },
     {
       "original": "मैं खुश हूँ खुदा की और तेरी खुशी में",
+      "romanized": "Main khusha hoon khudaa kee aura teree khushee men",
       "speaker": "Encore ABJ",
       "translation": "I am happy in God's happiness and in your happiness",
       "explanation": "He finds happiness by pleasing a higher power, and the listener (romantic interest/friend).",
@@ -113,6 +127,7 @@ export const tofa: Song = {
     },
     {
       "original": "हम चीज़ें दबाके इस सीने में",
+      "romanized": "Hama cheezen dabaake isa seene men",
       "speaker": "Encore ABJ",
       "translation": "We suppress things in this chest",
       "explanation": "People hide their true emotions and feelings, potentially leading to internal conflict.",
@@ -120,6 +135,7 @@ export const tofa: Song = {
     },
     {
       "original": "मज़े ले ज़िंदगी जीने में (हाँ, हाँ!)",
+      "romanized": "Maze le zindagee jeene men (haan, haan!)",
       "speaker": "Encore ABJ",
       "translation": "And enjoy living life (Yeah, yeah!)",
       "explanation": "Despite the underlying issues, they still try to find enjoyment in life.",
@@ -127,6 +143,7 @@ export const tofa: Song = {
     },
     {
       "original": "उसे बचाओ",
+      "romanized": "Use bachaao",
       "speaker": "Encore ABJ",
       "translation": "Save them",
       "explanation": "A call to rescue someone (possibly from the negative influences he described earlier).",
@@ -134,6 +151,7 @@ export const tofa: Song = {
     },
     {
       "original": "देखूँ जहाँ दिखे बस साँप with their फन out",
+      "romanized": "Dekhoon jahaan dikhe basa saanpa with their phana out",
       "speaker": "Encore ABJ",
       "translation": "Everywhere I look, I only see snakes with their fangs out",
       "explanation": "The people around him are dangerous and backstabbing, ready to take advantage.",
@@ -152,6 +170,7 @@ export const tofa: Song = {
     },
     {
       "original": "कुछ वक़्त से हो रहा था अंदर से toxic",
+      "romanized": "Kuchha vaqta se ho rahaa thaa andara se toxic",
       "speaker": "Encore ABJ",
       "translation": "For some time, I've been becoming toxic from the inside",
       "explanation": "He is feeling the weight of the negative energy, possibly self-awareness.",
@@ -159,6 +178,7 @@ export const tofa: Song = {
     },
     {
       "original": "खो दूँ मैं खुद को",
+      "romanized": "Kho doon main khuda ko",
       "speaker": "Encore ABJ",
       "translation": "I might lose myself",
       "explanation": "He is scared that he is close to completely succumbing to this internal toxicity.",
@@ -166,6 +186,7 @@ export const tofa: Song = {
     },
     {
       "original": "It's time, get the गंध out",
+      "romanized": "It's time, get the gandha out",
       "speaker": "Encore ABJ",
       "translation": "It's time, get the stench out",
       "explanation": "He needs to remove all of the toxicity that is surrounding him.",
@@ -179,6 +200,7 @@ export const tofa: Song = {
     },
     {
       "original": "मेरे आस-पास है जितनी भी बिखरी हुई जानें",
+      "romanized": "Mere aasa-paasa hai jitanee bhee bikharee huee jaanen",
       "speaker": "Encore ABJ",
       "translation": "All the scattered lives that are around me",
       "explanation": "He sees people around him struggling, suggesting he is part of a larger community grappling with these issues.",
@@ -186,6 +208,7 @@ export const tofa: Song = {
     },
     {
       "original": "करता हूँ सबके लिए जितना भी कर पाऊँ",
+      "romanized": "Karataa hoon sabake lie jitanaa bhee kara paaoon",
       "speaker": "Encore ABJ",
       "translation": "I do for everyone as much as I can",
       "explanation": "He is trying to help those around him, implying some level of empathy and responsibility.",
@@ -193,6 +216,7 @@ export const tofa: Song = {
     },
     {
       "original": "और एक बच्चे से पूछा कि क्या तेरे दिल में",
+      "romanized": "Aura eka bachche se poochhaa ki kyaa tere dila men",
       "speaker": "Encore ABJ",
       "translation": "And I asked a child what's in your heart",
       "explanation": "He looks for innocence and purity, in the eyes of a child.",
@@ -200,6 +224,7 @@ export const tofa: Song = {
     },
     {
       "original": "वो बोला दिल्ली को \"दिल वालों की बन जाओ\"",
+      "romanized": "Vo bolaa dillee ko \"dila vaalon kee bana jaao\"",
       "speaker": "Encore ABJ",
       "translation": "He said make Delhi \"The city of those with heart\"",
       "explanation": "The child says to return Delhi to its roots. *Dilli Dilwalon ki* is a very common phrase to describe the heart and warmth of the people of Delhi. He wants Delhi to return to the place of warmth and generosity that it once was.",
@@ -218,6 +243,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी क्या है तोफ़ा?",
+      "romanized": "Zindagee kyaa hai tofaa?",
       "speaker": "Chorus",
       "translation": "What is life? A gift?",
       "explanation": "Questioning the true nature of life: is it a blessing or a curse?",
@@ -225,6 +251,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी या है धोखा?",
+      "romanized": "Zindagee yaa hai dhokhaa?",
       "speaker": "Chorus",
       "translation": "Or is life a deception?",
       "explanation": "Posing the opposite question to 'gift', creating a central theme for the song.",
@@ -232,6 +259,7 @@ export const tofa: Song = {
     },
     {
       "original": "जैसे तू देखे",
+      "romanized": "Jaise too dekhe",
       "speaker": "Chorus",
       "translation": "As you see it",
       "explanation": "The answer depends on one's perspective and experience.",
@@ -239,6 +267,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी क्या है धोखा?",
+      "romanized": "Zindagee kyaa hai dhokhaa?",
       "speaker": "Chorus",
       "translation": "What is life? A deception?",
       "explanation": "Posing the opposite question to 'gift', creating a central theme for the song.",
@@ -246,6 +275,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी या है तोफ़ा?",
+      "romanized": "Zindagee yaa hai tofaa?",
       "speaker": "Chorus",
       "translation": "Or is life a gift?",
       "explanation": "Questioning the true nature of life: is it a blessing or a curse?",
@@ -253,6 +283,7 @@ export const tofa: Song = {
     },
     {
       "original": "जैसे तू सोच (जैसे तू सोच)",
+      "romanized": "Jaise too socha (jaise too socha)",
       "speaker": "Chorus",
       "translation": "As you think (as you think)",
       "explanation": "Emphasizing the power of mindset and perspective.",
@@ -260,6 +291,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी क्या है तोफ़ा?",
+      "romanized": "Zindagee kyaa hai tofaa?",
       "speaker": "Chorus",
       "translation": "What is life? A gift?",
       "explanation": "Questioning the true nature of life: is it a blessing or a curse?",
@@ -267,6 +299,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी या है धोखा?",
+      "romanized": "Zindagee yaa hai dhokhaa?",
       "speaker": "Chorus",
       "translation": "Or is life a deception?",
       "explanation": "Posing the opposite question to 'gift', creating a central theme for the song.",
@@ -274,6 +307,7 @@ export const tofa: Song = {
     },
     {
       "original": "जैसे तू देखे",
+      "romanized": "Jaise too dekhe",
       "speaker": "Chorus",
       "translation": "As you see it",
       "explanation": "The answer depends on one's perspective and experience.",
@@ -281,6 +315,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी क्या है धोखा?",
+      "romanized": "Zindagee kyaa hai dhokhaa?",
       "speaker": "Chorus",
       "translation": "What is life? A deception?",
       "explanation": "Posing the opposite question to 'gift', creating a central theme for the song.",
@@ -288,6 +323,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी या है तोफ़ा?",
+      "romanized": "Zindagee yaa hai tofaa?",
       "speaker": "Chorus",
       "translation": "Or is life a gift?",
       "explanation": "Questioning the true nature of life: is it a blessing or a curse?",
@@ -295,6 +331,7 @@ export const tofa: Song = {
     },
     {
       "original": "जैसे तू सोच (जैसे तू सोच)",
+      "romanized": "Jaise too socha (jaise too socha)",
       "speaker": "Chorus",
       "translation": "As you think (as you think)",
       "explanation": "Emphasizing the power of mindset and perspective.",
@@ -302,6 +339,7 @@ export const tofa: Song = {
     },
     {
       "original": "इस तोफ़े को ले लिया for granted",
+      "romanized": "Isa tofe ko le liyaa for granted",
       "speaker": "Calm",
       "translation": "I took this gift for granted",
       "explanation": "Calm admits to not appreciating life fully.",
@@ -309,6 +347,7 @@ export const tofa: Song = {
     },
     {
       "original": "अब आदत नी सुनने की \"साथ बैठ\"",
+      "romanized": "Aba aadata nee sunane kee \"saatha baitha\"",
       "speaker": "Calm",
       "translation": "Now there's no habit of listening to \"sit together\"",
       "explanation": "He's lost the ability to listen or connect with people on an intimate level.",
@@ -316,6 +355,7 @@ export const tofa: Song = {
     },
     {
       "original": "बस आदत है बोलने की, \"My bad!\"",
+      "romanized": "Basa aadata hai bolane kee, \"My bad!\"",
       "speaker": "Calm",
       "translation": "Only have the habit of saying, \"My bad!\"",
       "explanation": "He's quick to apologize, possibly superficially, rather than addressing the core issues.",
@@ -323,6 +363,7 @@ export const tofa: Song = {
     },
     {
       "original": "और इन लौंडों को चाहिए what Calm has",
+      "romanized": "Aura ina laundon ko chaahie what Calm has",
       "speaker": "Calm",
       "translation": "And these boys want what Calm has",
       "explanation": "People are envious of Calm's success or status.",
@@ -336,6 +377,7 @@ export const tofa: Song = {
     },
     {
       "original": "भाई नहीं है perfect",
+      "romanized": "Bhaaee naheen hai perfect",
       "speaker": "Calm",
       "translation": "Your brother is not perfect",
       "explanation": "He acknowledges his flaws and imperfections to his friends.",
@@ -343,6 +385,7 @@ export const tofa: Song = {
     },
     {
       "original": "I might’ve deserved it",
+      "romanized": "I might’ve deserved it",
       "speaker": "Calm",
       "translation": "I might've deserved it",
       "explanation": "Suggesting he is potentially suffering the consequences of his actions.",
@@ -350,6 +393,7 @@ export const tofa: Song = {
     },
     {
       "original": "अब करूँ बस नशे-eh-eh-eh-eh",
+      "romanized": "Aba karoon basa nashe-eh-eh-eh-eh",
       "speaker": "Calm",
       "translation": "Now I just do drugs",
       "explanation": "Turning to substance abuse as a coping mechanism.",
@@ -357,6 +401,7 @@ export const tofa: Song = {
     },
     {
       "original": "उतारा नक़ाब and I'm feeling the worst",
+      "romanized": "Utaaraa naqaaba and I'm feeling the worst",
       "speaker": "Calm",
       "translation": "I took off the mask and I'm feeling the worst",
       "explanation": "Revealing his true self brings him pain and vulnerability.",
@@ -370,6 +415,7 @@ export const tofa: Song = {
     },
     {
       "original": "उतारी ये दारू फिर उतारा verse",
+      "romanized": "Utaaree ye daaroo phira utaaraa verse",
       "speaker": "Calm",
       "translation": "I poured this alcohol, then I dropped a verse",
       "explanation": "Drinking and rapping are interconnected for him, often inspiring and fueling each other.",
@@ -383,6 +429,7 @@ export const tofa: Song = {
     },
     {
       "original": "I followed my dream, it's a blessing and curse",
+      "romanized": "I followed my dream, it's a blessing and curse",
       "speaker": "Calm",
       "translation": "I followed my dream, it's a blessing and a curse",
       "explanation": "Achieving his goals has brought both positive and negative aspects to his life.",
@@ -390,6 +437,7 @@ export const tofa: Song = {
     },
     {
       "original": "I can’t take it easy, I got it",
+      "romanized": "I can’t take it easy, I got it",
       "speaker": "Calm",
       "translation": "I can't take it easy, I got it",
       "explanation": "He acknowledges that he understands the difficulty of his own path.",
@@ -397,6 +445,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी तोफ़ा जब यार-दोस्त है साथ में",
+      "romanized": "Zindagee tofaa jaba yaara-dosta hai saatha men",
       "speaker": "Calm",
       "translation": "Life is a gift when friends are together",
       "explanation": "Friends are a source of comfort and strength, making life worthwhile.",
@@ -404,6 +453,7 @@ export const tofa: Song = {
     },
     {
       "original": "जले J Wagon R उड़े हवा में",
+      "romanized": "Jale J Wagon R ure havaa men",
       "speaker": "Calm",
       "translation": "Burn the J Wagon R, fly in the air",
       "explanation": "Refers to destroying a (likely stolen) car; symbol of recklessness and living in the moment.",
@@ -417,6 +467,7 @@ export const tofa: Song = {
     },
     {
       "original": "जिंदगी तोफ़ा जब",
+      "romanized": "Jindagee tofaa jaba",
       "speaker": "Calm",
       "translation": "Life is a gift when",
       "explanation": "Sets up the theme for the rest of the bridge.",
@@ -424,6 +475,7 @@ export const tofa: Song = {
     },
     {
       "original": "औरों की कही-सुनी कभी सुनी ही ना",
+      "romanized": "Auron kee kahee-sunee kabhee sunee hee naa",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "I never listened to what others said or heard",
       "explanation": "They didn't follow the typical norms set by others.",
@@ -431,6 +483,7 @@ export const tofa: Song = {
     },
     {
       "original": "औरों की चली हुई रहें चुनी ना",
+      "romanized": "Auron kee chalee huee rahen chunee naa",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "I didn't choose the paths walked by others",
       "explanation": "They forged their own path and never followed in the footsteps of anyone else.",
@@ -438,6 +491,7 @@ export const tofa: Song = {
     },
     {
       "original": "चुना है तुझे गर तू मुझे भी कह दे",
+      "romanized": "Chunaa hai tujhe gara too mujhe bhee kaha de",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "I've chosen you, if you tell me too",
       "explanation": "Expressing love/friendship and seeking reciprocation.",
@@ -445,6 +499,7 @@ export const tofa: Song = {
     },
     {
       "original": "कि परवाह है तुझे मेरी तो",
+      "romanized": "Ki paravaaha hai tujhe meree to",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "That you care about me",
       "explanation": "The need for emotional support and validation.",
@@ -452,6 +507,7 @@ export const tofa: Song = {
     },
     {
       "original": "मैं सेहके इस कंधे पे भर कहुंगा, \"Fuck it! I'll make it\"",
+      "romanized": "Main sehake isa kandhe pe bhara kahungaa, \"Fuck it! I'll make it\"",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "Leaning on this shoulder, I'll say with all my might, \"Fuck it! I'll make it\"",
       "explanation": "Finding strength in another person's support and expressing a determined attitude to overcome challenges.",
@@ -459,6 +515,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी क्या है तोफ़ा?",
+      "romanized": "Zindagee kyaa hai tofaa?",
       "speaker": "Chorus",
       "translation": "What is life? A gift?",
       "explanation": "Questioning the true nature of life: is it a blessing or a curse?",
@@ -466,6 +523,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी या है धोखा?",
+      "romanized": "Zindagee yaa hai dhokhaa?",
       "speaker": "Chorus",
       "translation": "Or is life a deception?",
       "explanation": "Posing the opposite question to 'gift', creating a central theme for the song.",
@@ -473,6 +531,7 @@ export const tofa: Song = {
     },
     {
       "original": "जैसे तू देखे (जैसे तू देखे, जैसे तू देखे)",
+      "romanized": "Jaise too dekhe (jaise too dekhe, jaise too dekhe)",
       "speaker": "Chorus",
       "translation": "As you see it (as you see it, as you see it)",
       "explanation": "The answer depends on one's perspective and experience.",
@@ -480,6 +539,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी क्या है धोखा?",
+      "romanized": "Zindagee kyaa hai dhokhaa?",
       "speaker": "Chorus",
       "translation": "What is life? A deception?",
       "explanation": "Posing the opposite question to 'gift', creating a central theme for the song.",
@@ -487,6 +547,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी या है तोफ़ा?",
+      "romanized": "Zindagee yaa hai tofaa?",
       "speaker": "Chorus",
       "translation": "Or is life a gift?",
       "explanation": "Questioning the true nature of life: is it a blessing or a curse?",
@@ -494,6 +555,7 @@ export const tofa: Song = {
     },
     {
       "original": "जैसे तू सोच (जैसे तू सोच)",
+      "romanized": "Jaise too socha (jaise too socha)",
       "speaker": "Chorus",
       "translation": "As you think (as you think)",
       "explanation": "Emphasizing the power of mindset and perspective.",
@@ -501,6 +563,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी क्या है तोफ़ा?",
+      "romanized": "Zindagee kyaa hai tofaa?",
       "speaker": "Chorus",
       "translation": "What is life? A gift?",
       "explanation": "Questioning the true nature of life: is it a blessing or a curse?",
@@ -508,6 +571,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी या है धोखा?",
+      "romanized": "Zindagee yaa hai dhokhaa?",
       "speaker": "Chorus",
       "translation": "Or is life a deception?",
       "explanation": "Posing the opposite question to 'gift', creating a central theme for the song.",
@@ -515,6 +579,7 @@ export const tofa: Song = {
     },
     {
       "original": "जैसे तू देखे",
+      "romanized": "Jaise too dekhe",
       "speaker": "Chorus",
       "translation": "As you see it",
       "explanation": "The answer depends on one's perspective and experience.",
@@ -522,6 +587,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी क्या है धोखा?",
+      "romanized": "Zindagee kyaa hai dhokhaa?",
       "speaker": "Chorus",
       "translation": "What is life? A deception?",
       "explanation": "Posing the opposite question to 'gift', creating a central theme for the song.",
@@ -529,6 +595,7 @@ export const tofa: Song = {
     },
     {
       "original": "ज़िंदगी या है तोफ़ा?",
+      "romanized": "Zindagee yaa hai tofaa?",
       "speaker": "Chorus",
       "translation": "Or is life a gift?",
       "explanation": "Questioning the true nature of life: is it a blessing or a curse?",
@@ -536,6 +603,7 @@ export const tofa: Song = {
     },
     {
       "original": "जैसे तू सोच (जैसे तू सोच)",
+      "romanized": "Jaise too socha (jaise too socha)",
       "speaker": "Chorus",
       "translation": "As you think (as you think)",
       "explanation": "Emphasizing the power of mindset and perspective.",

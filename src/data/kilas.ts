@@ -10,6 +10,7 @@ export const kilas: Song = {
   "lyrics": [
     {
       "original": "Drama big boss",
+      "romanized": "Drama big boss",
       "speaker": "Encore ABJ",
       "translation": "Drama like Big Boss.",
       "explanation": "Encore compares the unnecessary theatrics of the music industry or people's lives to the reality show 'Bigg Boss,' known for its scripted and over-the-top drama.",
@@ -23,6 +24,7 @@ export const kilas: Song = {
     },
     {
       "original": "खुली आँख आज तीन",
+      "romanized": "Khulee aankh aaj teen",
       "speaker": "Encore ABJ",
       "translation": "Today, all three eyes are open.",
       "explanation": "A reference to the 'Third Eye' (Shiva's metaphor), symbolizing spiritual awakening, heightened awareness, and seeing the truth beyond the physical world.",
@@ -36,6 +38,7 @@ export const kilas: Song = {
     },
     {
       "original": "राजधानी राजा नाम नामचीन",
+      "romanized": "Raajdhaanee raajaa naam naamcheen",
       "speaker": "Encore ABJ",
       "translation": "King of the capital, a renowned name.",
       "explanation": "Asserting his dominance in Delhi (the capital) and stating that his reputation is widely recognized.",
@@ -54,6 +57,7 @@ export const kilas: Song = {
     },
     {
       "original": "बन्दे करे मेरी बातें बुरी",
+      "romanized": "Bande kare meree baaten buree",
       "speaker": "Encore ABJ",
       "translation": "People talk ill about me.",
       "explanation": "Acknowledging that there are people who gossip or speak negatively about him behind his back.",
@@ -61,6 +65,7 @@ export const kilas: Song = {
     },
     {
       "original": "तोभी कानो में है मेरे गाने क्युकी",
+      "romanized": "Tobhee kaano men hai mere gaane kyukee",
       "speaker": "Encore ABJ",
       "translation": "Yet my songs are still in their ears because...",
       "explanation": "Despite the negativity, his music is so impactful that his critics can't help but listen to it.",
@@ -68,6 +73,7 @@ export const kilas: Song = {
     },
     {
       "original": "मैं हूँ hitmaker not mainstream",
+      "romanized": "Main hoon hitmaker not mainstream",
       "speaker": "Encore ABJ",
       "translation": "I'm a hitmaker, not mainstream.",
       "explanation": "He creates massive hits consistently but distances himself from the generic, commercialized 'mainstream' sound of the industry.",
@@ -87,6 +93,7 @@ export const kilas: Song = {
     },
     {
       "original": "जागे रात में तो we daydream",
+      "romanized": "Jaage raat men to we daydream",
       "speaker": "Encore ABJ",
       "translation": "When we stay up at night, we daydream.",
       "explanation": "A play on words; while others sleep, they work through the night to turn their 'dreams' into reality.",
@@ -94,6 +101,7 @@ export const kilas: Song = {
     },
     {
       "original": "ये है मज़ा मेरे लिए मेहनत नहीं",
+      "romanized": "Ye hai mazaa mere lie mehnt naheen",
       "speaker": "Encore ABJ",
       "translation": "This is fun for me, not hard work.",
       "explanation": "He enjoys the process of making music and grinding so much that it doesn't feel like a chore.",
@@ -101,6 +109,7 @@ export const kilas: Song = {
     },
     {
       "original": "कभी आलस से है मंज़िल सहमत नहीं",
+      "romanized": "Kabhee aals se hai manzil sahmt naheen",
       "speaker": "Encore ABJ",
       "translation": "The destination never agrees with laziness.",
       "explanation": "A philosophical take stating that success and one's goals cannot be achieved through a lazy attitude.",
@@ -114,6 +123,7 @@ export const kilas: Song = {
     },
     {
       "original": "सस्ती चीज़ों के यहाँ ग्राहक ज़्यादा",
+      "romanized": "Sastee cheezon ke yahaan graahk zyaadaa",
       "speaker": "OG Lucifer",
       "translation": "There are many customers for cheap things here.",
       "explanation": "A commentary on how low-quality art or easy shortcuts attract the masses in society.",
@@ -121,6 +131,7 @@ export const kilas: Song = {
     },
     {
       "original": "सस्ती चीज़ों के यहाँ ग्रा हक़ ज़्यादा",
+      "romanized": "Sastee cheezon ke yahaan graa haq zyaadaa",
       "speaker": "OG Lucifer",
       "translation": "People here claim more 'right' over cheap things.",
       "explanation": "Wordplay on 'Grahak' (customer), splitting it into 'Gra' and 'Haq' (Right), implying people feel entitled to things that have no real value.",
@@ -134,6 +145,7 @@ export const kilas: Song = {
     },
     {
       "original": "वक़्त ने सब सिखाया वक़्त पे ना सिखाया जब ये रक्त बहाया तब है नाम ज़्यादा",
+      "romanized": "Vaqt ne sab sikhaayaa vaqt pe naa sikhaayaa jab ye rakt bahaayaa tab hai naam zyaadaa",
       "speaker": "OG Lucifer",
       "translation": "Time taught everything but not at the right time; when blood was shed, the name grew.",
       "explanation": "He learned life's lessons the hard way through violence and sacrifice (blood), which ultimately built his reputation.",
@@ -147,6 +159,7 @@ export const kilas: Song = {
     },
     {
       "original": "और जो तोड़ता घर की रोटी वो हरामज़ादा",
+      "romanized": "Aur jo tortaa ghar kee rotee vo haraamzaadaa",
       "speaker": "OG Lucifer",
       "translation": "And he who just eats off the family's plate is a bastard.",
       "explanation": "Referring to someone who is a burden on their family and doesn't contribute or earn their own way.",
@@ -160,6 +173,7 @@ export const kilas: Song = {
     },
     {
       "original": "पढ़ने के लिए copy दो वरना ये act arms का था",
+      "romanized": "Parhne ke lie copy do varnaa ye act arms kaa thaa",
       "speaker": "OG Lucifer",
       "translation": "Give me a notebook to study, otherwise it was an Arms Act case.",
       "explanation": "A stark contrast between education and crime; without the 'copy' (notebook), the alternative was a life involving weapons (Arms Act).",
@@ -173,6 +187,7 @@ export const kilas: Song = {
     },
     {
       "original": "(Dududududu)",
+      "romanized": "(Dududududu)",
       "speaker": "OG Lucifer",
       "translation": "(Gunshot sounds)",
       "explanation": "Onomatopoeic ad-libs representing automatic gunfire, common in drill/trap music.",
@@ -180,6 +195,7 @@ export const kilas: Song = {
     },
     {
       "original": "बस इन आंसू को महसूस कर और बंद छाता",
+      "romanized": "Bas in aansoo ko mahsoos kar aur band chhaataa",
       "speaker": "OG Lucifer",
       "translation": "Just feel these tears and close the umbrella.",
       "explanation": "Telling someone to face their pain directly instead of trying to shield themselves from the reality of their struggle.",
@@ -194,6 +210,7 @@ export const kilas: Song = {
     },
     {
       "original": "बन्दे हसता तू महफ़िल का joker",
+      "romanized": "Bande hastaa too mahfil kaa joker",
       "speaker": "OG Lucifer",
       "translation": "You laugh like you're the joker of the party.",
       "explanation": "Calling out someone who isn't taken seriously and is seen as a clown or an entertainer for others' amusement.",
@@ -201,6 +218,7 @@ export const kilas: Song = {
     },
     {
       "original": "Drugs और crime colony में option",
+      "romanized": "Drugs aur crime colony men option",
       "speaker": "OG Lucifer",
       "translation": "Drugs and crime are the only options in the colony.",
       "explanation": "Highlighting the lack of opportunities in underprivileged neighborhoods, where crime becomes a survival choice.",
@@ -208,6 +226,7 @@ export const kilas: Song = {
     },
     {
       "original": "नसीब में हार है No luck(नौ लख)",
+      "romanized": "Naseeb men haar hai No luck(nau lakh)",
       "speaker": "OG Lucifer",
       "translation": "Defeat is in fate, no luck (nine lakhs).",
       "explanation": "A bilingual pun on 'No Luck' and 'Nau Lakh' (900,000), suggesting both a lack of fortune and a lack of money.",
@@ -227,6 +246,7 @@ export const kilas: Song = {
     },
     {
       "original": "टूठन में काम आता टोचन",
+      "romanized": "Toothn men kaam aataa tochn",
       "speaker": "OG Lucifer",
       "translation": "Towing helps when things break down.",
       "explanation": "Metaphor for brotherhood; just as a 'Tochan' (tow-rope) pulls a broken vehicle, friends pull you up when you're broken.",
@@ -246,6 +266,7 @@ export const kilas: Song = {
     },
     {
       "original": "Close रखे बन्दे mind open",
+      "romanized": "Close rakhe bande mind open",
       "speaker": "OG Lucifer",
       "translation": "Keep your circle close and your mind open.",
       "explanation": "Advice to stay loyal to a tight-knit group while remaining receptive to growth and new ideas.",
@@ -253,6 +274,7 @@ export const kilas: Song = {
     },
     {
       "original": "भाइयों के भाइयों के कटे है token भाइयों को company का तिहाड़ दे offer",
+      "romanized": "Bhaaiyon ke bhaaiyon ke kate hai token bhaaiyon ko company kaa tihaar de offer",
       "speaker": "OG Lucifer",
       "translation": "Tokens are cut for the brothers; Tihar offers them company.",
       "explanation": "'Token' refers to jail admission slips. He's talking about his friends being imprisoned in Tihar Jail (Delhi's famous prison).",
@@ -271,6 +293,7 @@ export const kilas: Song = {
     },
     {
       "original": "सफ़ेद खाकी और काला कोट सजा माफ़ी और गला घोट",
+      "romanized": "Safed khaakee aur kaalaa kot sajaa maafee aur galaa ghot",
       "speaker": "OG Lucifer",
       "translation": "White/Khaki and the black coat; punishment, pardon, or strangulation.",
       "explanation": "Refers to the police (Khaki/White) and the legal system/lawyers (Black coat), depicting the brutal cycle of the law.",
@@ -290,6 +313,7 @@ export const kilas: Song = {
     },
     {
       "original": "यह खचरा कातिल है नकाबपोश",
+      "romanized": "Yah khachraa kaatil hai nakaabposh",
       "speaker": "OG Lucifer",
       "translation": "This lowlife is a masked killer.",
       "explanation": "Describing dangerous, untrustworthy individuals who hide their true identity while causing harm.",
@@ -309,6 +333,7 @@ export const kilas: Song = {
     },
     {
       "original": "और खतरा काफी है बारा बोर",
+      "romanized": "Aur khatraa kaaphee hai baaraa bor",
       "speaker": "OG Lucifer",
       "translation": "And there's plenty of danger from a 12-bore.",
       "explanation": "Referring to the 12-bore shotgun, a common weapon in street violence.",
@@ -322,6 +347,7 @@ export const kilas: Song = {
     },
     {
       "original": "और विलय से पसंद की धारा बोल",
+      "romanized": "Aur vily se pasnd kee dhaaraa bol",
       "speaker": "OG Lucifer",
       "translation": "And choose the flow you like through the merger.",
       "explanation": "Likely referring to merging his street life with music or choosing a specific path (legal 'dhara' or musical 'flow').",
@@ -329,6 +355,7 @@ export const kilas: Song = {
     },
     {
       "original": "ना गरीबी का होता है नारा कोई",
+      "romanized": "Naa gareebee kaa hotaa hai naaraa koee",
       "speaker": "OG Lucifer",
       "translation": "Poverty has no slogan.",
       "explanation": "Poverty is a silent struggle; no political slogan or empty words can truly represent its harshness.",
@@ -343,6 +370,7 @@ export const kilas: Song = {
     },
     {
       "original": "मेरी इच्छा का टूटता ना तारा कोई",
+      "romanized": "Meree ichchhaa kaa toottaa naa taaraa koee",
       "speaker": "OG Lucifer",
       "translation": "No shooting star falls for my wishes.",
       "explanation": "He doesn't wait for miracles or luck (shooting stars) to fulfill his desires; he works for them.",
@@ -350,6 +378,7 @@ export const kilas: Song = {
     },
     {
       "original": "मेरी शिक्षा का गलियों से नाता कोई",
+      "romanized": "Meree shikshaa kaa galiyon se naataa koee",
       "speaker": "OG Lucifer",
       "translation": "My education is tied to the streets.",
       "explanation": "He implies that his true learning and 'street smarts' came from his environment, not formal schooling.",
@@ -357,6 +386,7 @@ export const kilas: Song = {
     },
     {
       "original": "अगर लिखूँ तो ऐसा ना कागज़ कोई",
+      "romanized": "Agr likhoon to aisaa naa kaagz koee",
       "speaker": "OG Lucifer",
       "translation": "If I write, no paper is good enough.",
       "explanation": "Claiming that his lyrics are so powerful and heavy that no ordinary paper can do them justice.",
@@ -364,6 +394,7 @@ export const kilas: Song = {
     },
     {
       "original": "और फसले ना उगे जब आधा बोये",
+      "romanized": "Aur phasle naa uge jab aadhaa boye",
       "speaker": "OG Lucifer",
       "translation": "Crops won't grow if you only sow half.",
       "explanation": "A metaphor for effort—you won't see results if you do things half-heartedly.",
@@ -371,6 +402,7 @@ export const kilas: Song = {
     },
     {
       "original": "मेरे मसले के matter में आदत ओये",
+      "romanized": "Mere masle ke matter men aadt oye",
       "speaker": "OG Lucifer",
       "translation": "In the matter of my problems, it's just a habit.",
       "explanation": "He is so used to dealing with conflicts and issues that they have become a routine part of his life.",
@@ -378,6 +410,7 @@ export const kilas: Song = {
     },
     {
       "original": "जो अफ़रेगा हमसे ना पैदा होये",
+      "romanized": "Jo afregaa hamse naa paidaa hoye",
       "speaker": "OG Lucifer",
       "translation": "The one who can clash with us hasn't been born yet.",
       "explanation": "A classic boast (braggadocio) stating that they are currently unmatched in their field.",
@@ -385,6 +418,7 @@ export const kilas: Song = {
     },
     {
       "original": "और गोलियों की धुन में पैदल दौड़े",
+      "romanized": "Aur goliyon kee dhun men paidl daure",
       "speaker": "OG Lucifer",
       "translation": "And running on foot to the rhythm of bullets.",
       "explanation": "Depicting a life of constant danger where gunfire is a background noise they have to navigate daily.",
@@ -392,6 +426,7 @@ export const kilas: Song = {
     },
     {
       "original": "बस रहता depression और paranoid",
+      "romanized": "Bas rahtaa depression aur paranoid",
       "speaker": "OG Lucifer",
       "translation": "Only depression and paranoia remain.",
       "explanation": "The mental health consequences of living a high-stress, dangerous life on the streets.",
@@ -399,6 +434,7 @@ export const kilas: Song = {
     },
     {
       "original": "और ज़्यादा प्यार से भी जलन होये और बन्दे नाम से ही panic होये",
+      "romanized": "Aur zyaadaa pyaar se bhee jaln hoye aur bande naam se hee panic hoye",
       "speaker": "OG Lucifer",
       "translation": "Even too much love causes jealousy, and people panic at the mere mention of the name.",
       "explanation": "The title 'Kilas' means jealousy; he notes that his success makes people 'burn' with envy or fear his reputation.",
@@ -412,6 +448,7 @@ export const kilas: Song = {
     },
     {
       "original": "बस कमाए है दोस्त यार तो क्या हम खोये",
+      "romanized": "Bas kamaae hai dost yaar to kyaa ham khoye",
       "speaker": "OG Lucifer",
       "translation": "We've only earned friends and brothers, so what have we lost?",
       "explanation": "In his view, material losses are irrelevant as long as his core brotherhood remains intact.",
@@ -419,6 +456,7 @@ export const kilas: Song = {
     },
     {
       "original": "Drama big boss",
+      "romanized": "Drama big boss",
       "speaker": "Encore ABJ",
       "translation": "Drama like Big Boss.",
       "explanation": "Repeated hook emphasizing the superficial drama in the scene.",
@@ -426,6 +464,7 @@ export const kilas: Song = {
     },
     {
       "original": "खुली आँख आज तीन",
+      "romanized": "Khulee aankh aaj teen",
       "speaker": "Encore ABJ",
       "translation": "Today, all three eyes are open.",
       "explanation": "Repeated hook regarding spiritual/mental awakening.",
@@ -433,6 +472,7 @@ export const kilas: Song = {
     },
     {
       "original": "राजधानी राजा नाम नामचीन",
+      "romanized": "Raajdhaanee raajaa naam naamcheen",
       "speaker": "Encore ABJ",
       "translation": "King of the capital, a renowned name.",
       "explanation": "Repeated hook asserting dominance in Delhi.",
@@ -440,6 +480,7 @@ export const kilas: Song = {
     },
     {
       "original": "बन्दे करे मेरी बातें बुरी",
+      "romanized": "Bande kare meree baaten buree",
       "speaker": "Encore ABJ",
       "translation": "People talk ill about me.",
       "explanation": "Acknowledging haters again.",
@@ -447,6 +488,7 @@ export const kilas: Song = {
     },
     {
       "original": "तोभी कानो में है मेरे गाने क्युकी",
+      "romanized": "Tobhee kaano men hai mere gaane kyukee",
       "speaker": "Encore ABJ",
       "translation": "Yet my songs are still in their ears because...",
       "explanation": "The music transcends the hate.",
@@ -454,6 +496,7 @@ export const kilas: Song = {
     },
     {
       "original": "मैं हूँ hitmaker not mainstream",
+      "romanized": "Main hoon hitmaker not mainstream",
       "speaker": "Encore ABJ",
       "translation": "I'm a hitmaker, not mainstream.",
       "explanation": "Asserting artistic integrity over commercialism.",
@@ -461,6 +504,7 @@ export const kilas: Song = {
     },
     {
       "original": "जागे रात में तो we daydream",
+      "romanized": "Jaage raat men to we daydream",
       "speaker": "Encore ABJ",
       "translation": "When we stay up at night, we daydream.",
       "explanation": "Manifesting success during the late-night grind.",
@@ -468,6 +512,7 @@ export const kilas: Song = {
     },
     {
       "original": "ये है मज़ा मेरे लिए मेहनत नहीं",
+      "romanized": "Ye hai mazaa mere lie mehnt naheen",
       "speaker": "Encore ABJ",
       "translation": "This is fun for me, not hard work.",
       "explanation": "Passion makes work feel effortless.",
@@ -475,6 +520,7 @@ export const kilas: Song = {
     },
     {
       "original": "कभी आलस से है मंज़िल सहमत नहीं",
+      "romanized": "Kabhee aals se hai manzil sahmt naheen",
       "speaker": "Encore ABJ",
       "translation": "The destination never agrees with laziness.",
       "explanation": "Final reminder that hard work is mandatory for success.",
@@ -482,6 +528,7 @@ export const kilas: Song = {
     },
     {
       "original": "मैं बस केहरा हूँ तुझे इतनी बात कान खोल",
+      "romanized": "Main bas kehraa hoon tujhe itnee baat kaan khol",
       "speaker": "Encore ABJ",
       "translation": "I'm just telling you this one thing, listen up.",
       "explanation": "Encore demands the listener's full attention for the following advice.",
@@ -495,6 +542,7 @@ export const kilas: Song = {
     },
     {
       "original": "सात नाम गिण",
+      "romanized": "Saat naam gin",
       "speaker": "Encore ABJ",
       "translation": "Count seven names.",
       "explanation": "Likely referring to a core inner circle or influential figures that the listener looks up to.",
@@ -502,6 +550,7 @@ export const kilas: Song = {
     },
     {
       "original": "प्रेरित हुए जिससे आप रात दिन",
+      "romanized": "Prerit hue jisse aap raat din",
       "speaker": "Encore ABJ",
       "translation": "The ones you are inspired by night and day.",
       "explanation": "Referring to those who set the standard for the culture.",
@@ -515,6 +564,7 @@ export const kilas: Song = {
     },
     {
       "original": "और नहीं है तो फिर ऐसे लोग ढूंढ",
+      "romanized": "Aur naheen hai to phir aise log dhoondh",
       "speaker": "Encore ABJ",
       "translation": "And if you don't have them, find such people.",
       "explanation": "Advice to surround oneself with inspiring and driven individuals.",
@@ -522,6 +572,7 @@ export const kilas: Song = {
     },
     {
       "original": "और वो भी नहीं तो फिर ऐसी सोच ढूंढ",
+      "romanized": "Aur vo bhee naheen to phir aisee soch dhoondh",
       "speaker": "Encore ABJ",
       "translation": "And if you can't find the people, find that mindset.",
       "explanation": "If you lack a circle, at least adopt the mindset of winners/leaders.",
@@ -529,6 +580,7 @@ export const kilas: Song = {
     },
     {
       "original": "के बंधे सांठ गांठ team",
+      "romanized": "Ke bandhe saanth gaanth team",
       "speaker": "Encore ABJ",
       "translation": "Like a tightly-knit team.",
       "explanation": "Emphasizing the importance of a solid, unbreakable alliance (like Seedhe Maut and their crew).",
@@ -542,6 +594,7 @@ export const kilas: Song = {
     },
     {
       "original": "खंडन clean",
+      "romanized": "Khandn clean",
       "speaker": "Encore ABJ",
       "translation": "Clean breakdown/lineage.",
       "explanation": "Suggesting that their foundation and the way they dismantle their competition is flawless.",
@@ -549,6 +602,7 @@ export const kilas: Song = {
     },
     {
       "original": "एकजुट है",
+      "romanized": "Ekjut hai",
       "speaker": "Encore ABJ",
       "translation": "They are united.",
       "explanation": "Reinforcing the theme of unity in his team.",
@@ -556,6 +610,7 @@ export const kilas: Song = {
     },
     {
       "original": "नो जात पात scene",
+      "romanized": "No jaat paat scene",
       "speaker": "Encore ABJ",
       "translation": "No caste/creed in this scene.",
       "explanation": "Asserting that in their world, only talent and character matter, not social background or caste.",
@@ -569,6 +624,7 @@ export const kilas: Song = {
     },
     {
       "original": "लाख लाख stream",
+      "romanized": "Laakh laakh stream",
       "speaker": "Encore ABJ",
       "translation": "Millions of streams.",
       "explanation": "Flexing their high numbers on streaming platforms as independent artists.",
@@ -576,6 +632,7 @@ export const kilas: Song = {
     },
     {
       "original": "गांड फाड़ ting",
+      "romanized": "Gaand phaar ting",
       "speaker": "Encore ABJ",
       "translation": "Mind-blowing thing.",
       "explanation": "Delhi slang used to describe something that is exceptionally good or shocking.",
@@ -589,6 +646,7 @@ export const kilas: Song = {
     },
     {
       "original": "नाज़ है उसे और नाम नाज़नीन",
+      "romanized": "Naaz hai use aur naam naazneen",
       "speaker": "Encore ABJ",
       "translation": "She is proud, and her name is Nazneen.",
       "explanation": "Wordplay on 'Naz' (pride) and 'Nazneen' (a beautiful woman), possibly referring to a muse or a metaphor for his art.",
@@ -602,6 +660,7 @@ export const kilas: Song = {
     },
     {
       "original": "Bro I'm a big boss",
+      "romanized": "Bro I'm a big boss",
       "speaker": "Encore ABJ",
       "translation": "Bro, I'm a big boss.",
       "explanation": "Reiterating his authority and high status in the game.",
@@ -609,6 +668,7 @@ export const kilas: Song = {
     },
     {
       "original": "खुली आँख आज तीन",
+      "romanized": "Khulee aankh aaj teen",
       "speaker": "Encore ABJ",
       "translation": "Today, all three eyes are open.",
       "explanation": "Final repetition of the 'Third Eye' metaphor.",
@@ -616,6 +676,7 @@ export const kilas: Song = {
     },
     {
       "original": "राजधानी राजा नाम नामचीन",
+      "romanized": "Raajdhaanee raajaa naam naamcheen",
       "speaker": "Encore ABJ",
       "translation": "King of the capital, a renowned name.",
       "explanation": "Final claim to his Delhi throne.",
@@ -623,6 +684,7 @@ export const kilas: Song = {
     },
     {
       "original": "बन्दे करे मेरी बातें बुरी",
+      "romanized": "Bande kare meree baaten buree",
       "speaker": "Encore ABJ",
       "translation": "People talk ill about me.",
       "explanation": "Closing out with the theme of ignore-the-haters.",
@@ -630,6 +692,7 @@ export const kilas: Song = {
     },
     {
       "original": "तोभी कानो में है मेरे गाने क्युकी",
+      "romanized": "Tobhee kaano men hai mere gaane kyukee",
       "speaker": "Encore ABJ",
       "translation": "Yet my songs are still in their ears because...",
       "explanation": "His musical dominance is undeniable.",
@@ -637,6 +700,7 @@ export const kilas: Song = {
     },
     {
       "original": "मैं हूँ hitmaker not mainstream",
+      "romanized": "Main hoon hitmaker not mainstream",
       "speaker": "Encore ABJ",
       "translation": "I'm a hitmaker, not mainstream.",
       "explanation": "Confirming his lane in the industry.",
@@ -644,6 +708,7 @@ export const kilas: Song = {
     },
     {
       "original": "जागे रात में तो we daydream",
+      "romanized": "Jaage raat men to we daydream",
       "speaker": "Encore ABJ",
       "translation": "When we stay up at night, we daydream.",
       "explanation": "Night-time hustle leading to dream-like results.",
@@ -651,6 +716,7 @@ export const kilas: Song = {
     },
     {
       "original": "ये है मज़ा मेरे लिए मेहनत नहीं",
+      "romanized": "Ye hai mazaa mere lie mehnt naheen",
       "speaker": "Encore ABJ",
       "translation": "This is fun for me, not hard work.",
       "explanation": "He is living his dream, so it doesn't feel like labor.",
@@ -658,6 +724,7 @@ export const kilas: Song = {
     },
     {
       "original": "कभी आलस से है मंज़िल सहमत नहीं",
+      "romanized": "Kabhee aals se hai manzil sahmt naheen",
       "speaker": "Encore ABJ",
       "translation": "The destination never agrees with laziness.",
       "explanation": "The final moral of the verse: keep grinding.",

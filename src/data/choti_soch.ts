@@ -10,6 +10,7 @@ export const choti_soch: Song = {
   "lyrics": [
     {
       "original": "Ye",
+      "devanagari": "ये",
       "speaker": "Calm",
       "translation": "Yeah",
       "explanation": "Standard introductory ad-lib used to set the rhythm.",
@@ -17,6 +18,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Choti soch",
+      "devanagari": "छोटी सोच",
       "speaker": "Calm",
       "translation": "Narrow mindset",
       "explanation": "Refers to people with shallow values or limited perspectives, often focused only on materialistic gains.",
@@ -30,6 +32,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Khuli chhoot",
+      "devanagari": "खुली छूट",
       "speaker": "Calm",
       "translation": "Complete freedom",
       "explanation": "Having no restrictions or being given a long leash, which can lead to recklessness.",
@@ -43,6 +46,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Andha paisa",
+      "devanagari": "अंधा पैसा",
       "speaker": "Calm",
       "translation": "Blind wealth",
       "explanation": "Refers to having an obscene amount of money, often implying it was acquired or spent without much thought.",
@@ -56,6 +60,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Tadi khoob",
+      "devanagari": "तड़ी खूब",
       "speaker": "Calm",
       "translation": "Plenty of attitude",
       "explanation": "'Tadi' refers to swag, arrogance, or a boastful posture.",
@@ -69,6 +74,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Mere jaisa",
+      "devanagari": "मेरे जैसा",
       "speaker": "Calm",
       "translation": "Like me",
       "explanation": "Calm is establishing his unique identity in the scene.",
@@ -76,6 +82,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Hai ni tu",
+      "devanagari": "है नी तू",
       "speaker": "Calm",
       "translation": "You are not",
       "explanation": "A direct challenge to listeners or other rappers claiming to be on his level.",
@@ -83,6 +90,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Mere jaise",
+      "devanagari": "मेरे जैसे",
       "speaker": "Calm",
       "translation": "People like me",
       "explanation": "Referring to his circle or peers who share his drive and talent.",
@@ -90,6 +98,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Bethe door",
+      "devanagari": "बैठे दूर",
       "speaker": "Calm",
       "translation": "Sit far away",
       "explanation": "Suggesting that elite artists operate on a different plane, far from the reach of 'small-minded' people.",
@@ -97,6 +106,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Choti soch",
+      "devanagari": "छोटी सोच",
       "speaker": "Calm",
       "translation": "Narrow mindset",
       "explanation": "Reiteration of the central theme: shallow thinking.",
@@ -104,6 +114,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Khuli choot",
+      "devanagari": "खुली छूट",
       "speaker": "Calm",
       "translation": "Free rein",
       "explanation": "Repetition of the idea of unchecked freedom or lack of discipline.",
@@ -111,6 +122,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Andha paisa",
+      "devanagari": "अंधा पैसा",
       "speaker": "Calm",
       "translation": "Blind wealth",
       "explanation": "Emphasis on the corrupting or blinding nature of excessive money.",
@@ -118,6 +130,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Ye",
+      "devanagari": "ये",
       "speaker": "Calm",
       "translation": "Yeah",
       "explanation": "Ad-lib.",
@@ -125,6 +138,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Choti soch",
+      "devanagari": "छोटी सोच",
       "speaker": "Calm",
       "translation": "Narrow mindset",
       "explanation": "Repetition for rhythmic emphasis in the hook.",
@@ -132,26 +146,29 @@ export const choti_soch: Song = {
     },
     {
       "original": "Khuli chhoot",
+      "devanagari": "खुली छूट",
       "speaker": "Calm",
       "translation": "Free rein",
       "explanation": "Repetition for rhythmic emphasis.",
       "annotations": []
     },
     {
-      "original": "Andha paisa",
+      "original": "Andha paisa",
+      "devanagari": "अंधा पैसा",
       "speaker": "Calm",
       "translation": "Blind wealth",
       "explanation": "Repetition emphasizing the abundance of money.",
       "annotations": []
     },
     {
-      "original": "Tadi khoob",
+      "original": "Tadi khoob",
+      "devanagari": "तड़ी खूब",
       "speaker": "Calm",
       "translation": "Plenty of swagger",
       "explanation": "Boasting about the high-level attitude and confidence.",
       "annotations": [
         {
-          "text": "Tadi khoob",
+          "text": "Tadi khoob",
           "keyword": "Tadi",
           "type": "Slang",
           "meaning": "Refers to 'Attitude', 'Swag', or 'Style'. 'Tadi khoob' means having a lot of swag/attitude."
@@ -160,6 +177,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Mere jaisa",
+      "devanagari": "मेरे जैसा",
       "speaker": "Calm",
       "translation": "Like me",
       "explanation": "Asserting his individuality.",
@@ -173,7 +191,8 @@ export const choti_soch: Song = {
       ]
     },
     {
-      "original": "Hai ni tu",
+      "original": "Hai ni tu",
+      "devanagari": "है नी तू",
       "speaker": "Calm",
       "translation": "You are not",
       "explanation": "Creating a distance between himself and his detractors.",
@@ -188,6 +207,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Mere jaise",
+      "devanagari": "मेरे जैसे",
       "speaker": "Calm",
       "translation": "People like me",
       "explanation": "Refers to those with a similar grind and mindset.",
@@ -195,6 +215,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Bethe door",
+      "devanagari": "बैठे दूर",
       "speaker": "Calm",
       "translation": "Sit far away",
       "explanation": "High status keeps them distant from petty issues.",
@@ -202,6 +223,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Choti soch",
+      "devanagari": "छोटी सोच",
       "speaker": "Calm",
       "translation": "Narrow mindset",
       "explanation": "Hook continuation.",
@@ -216,6 +238,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Khuli choot",
+      "devanagari": "खुली छूट",
       "speaker": "Calm",
       "translation": "Free rein",
       "explanation": "Hook continuation.",
@@ -223,13 +246,15 @@ export const choti_soch: Song = {
     },
     {
       "original": "Andha paisa",
+      "devanagari": "अंधा पैसा",
       "speaker": "Calm",
       "translation": "Blind wealth",
       "explanation": "Hook continuation.",
       "annotations": []
     },
     {
-      "original": "Tadi khoob",
+      "original": "Tadi khoob",
+      "devanagari": "तड़ी खूब",
       "speaker": "Calm",
       "translation": "Plenty of swagger",
       "explanation": "Hook completion.",
@@ -244,6 +269,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Jaa khate hai hum vaha pe thooko ni",
+      "devanagari": "जा खाते हैं हम वहाँ पे थूको नी",
       "speaker": "Calm",
       "translation": "Don't spit where we eat",
       "explanation": "A common proverb meaning one shouldn't disrespect or ruin the source of their livelihood or the community that supports them.",
@@ -257,6 +283,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Nootan hai paise ki tootan ni",
+      "devanagari": "नूतन है पैसे की टूटन नी",
       "speaker": "Calm",
       "translation": "Everything is fresh, there's no shortage of money",
       "explanation": "Wordplay: 'Nootan' (New/Fresh) vs 'Tootan' (Shortage/Breaking). He's saying their career is fresh and the money is flowing.",
@@ -275,6 +302,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Banawati taakatein teri",
+      "devanagari": "बनावटी ताक़तें तेरी",
       "speaker": "Calm",
       "translation": "Your powers are artificial",
       "explanation": "Calling out fake influences, industry plants, or people relying on temporary hype.",
@@ -282,6 +310,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Jab mara leke jaega upar nahi",
+      "devanagari": "जब मरा लेके जाएगा ऊपर नहीं",
       "speaker": "Calm",
       "translation": "When you die, you won't take it upstairs",
       "explanation": "A reminder of mortality; worldly possessions and fake power are useless after death.",
@@ -289,6 +318,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Ye Choti soch",
+      "devanagari": "ये छोटी सोच",
       "speaker": "Calm",
       "translation": "This narrow mindset",
       "explanation": "Pointing out the specific small-mindedness he observes.",
@@ -296,6 +326,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Ye Khuli chhoot",
+      "devanagari": "ये खुली छूट",
       "speaker": "Calm",
       "translation": "This free rein",
       "explanation": "Observing the lack of accountability in others.",
@@ -303,6 +334,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Ye Badi chonch",
+      "devanagari": "ये बड़ी चोंच",
       "speaker": "Calm",
       "translation": "This big beak (big mouth)",
       "explanation": "'Chonch' refers to a bird's beak, here used to describe people who talk too much without substance.",
@@ -316,6 +348,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Ye Sadhi thoot",
+      "devanagari": "ये सड़ी थूत",
       "speaker": "Calm",
       "translation": "This rotten face/snout",
       "explanation": "'Thoot' is a derogatory term for face; 'Sadhi' means rotten. Refers to the ugly reality behind the fame.",
@@ -329,6 +362,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Ye Andha paisa",
+      "devanagari": "ये अंधा पैसा",
       "speaker": "Calm",
       "translation": "This blind wealth",
       "explanation": "Reiterating the theme of mindless consumption.",
@@ -343,6 +377,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Aur ye gadi tu",
+      "devanagari": "और ये गाड़ी तू",
       "speaker": "Calm",
       "translation": "And this car you (drive/own)",
       "explanation": "Pointing out material flexes that define these small-minded people.",
@@ -350,6 +385,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Jab mara leke jayega upar nahi",
+      "devanagari": "जब मरा लेके जाएगा ऊपर नहीं",
       "speaker": "Calm",
       "translation": "When you die, you won't take it upstairs",
       "explanation": "Re-emphasizing that material objects like cars are temporary.",
@@ -357,6 +393,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Sach hai doot",
+      "devanagari": "सच है दूत",
       "speaker": "Calm",
       "translation": "Truth is the messenger",
       "explanation": "Suggesting that ultimately only the truth survives or serves as the final guide.",
@@ -370,6 +407,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Bolgye jhoot",
+      "devanagari": "बोलगए झूठ",
       "speaker": "Calm",
       "translation": "They told lies",
       "explanation": "Referring to the deception prevalent in the industry or society.",
@@ -377,6 +415,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Choti soch soch soch",
+      "devanagari": "छोटी सोच सोच सोच",
       "speaker": "Calm",
       "translation": "Small mind, mind, mind",
       "explanation": "Echo effect emphasizing the limitation of thought.",
@@ -384,6 +423,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "De gaye chhoot",
+      "devanagari": "दे गए छूट",
       "speaker": "Calm",
       "translation": "They gave liberty",
       "explanation": "Refers to being given too much freedom which was eventually wasted.",
@@ -391,6 +431,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Rahe tabhi doob",
+      "devanagari": "रहे तभी डूब",
       "speaker": "Calm",
       "translation": "That's why they are drowning",
       "explanation": "The lack of vision and 'choti soch' leads to their downfall.",
@@ -398,6 +439,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Tadi khoob",
+      "devanagari": "तड़ी खूब",
       "speaker": "Calm",
       "translation": "Too much attitude",
       "explanation": "Arrogance without the foundation to back it up.",
@@ -405,6 +447,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Andha paisa",
+      "devanagari": "अंधा पैसा",
       "speaker": "Calm",
       "translation": "Blind wealth",
       "explanation": "Final mention of wealth in the hook segment.",
@@ -412,6 +455,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Question, Shashi ka naam kahan se aaya bhai?",
+      "devanagari": "Question, Shashi का नाम कहाँ से आया भाई?",
       "speaker": "Calm",
       "translation": "Question: Where did the name 'Shashi' come from, brother?",
       "explanation": "A question posed to Calm about the title of the EP/Project.",
@@ -419,6 +463,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Bhai Aastik ne pehla sawaal pucha hai kode",
+      "devanagari": "भाई आस्तिक ने पहला सवाल पूछा है Kode",
       "speaker": "Calm",
       "translation": "Brother, Aastik has asked the first question, Kode.",
       "explanation": "Calm acknowledging his friend Aastik and fellow rapper MC Kode during a conversation/interview segment.",
@@ -437,6 +482,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Thoda samjhana chahega?",
+      "devanagari": "थोड़ा समझाना चाहेगा?",
       "speaker": "Calm",
       "translation": "Would you like to explain a bit?",
       "explanation": "Prompting Calm to delve into the meaning behind the name.",
@@ -444,6 +490,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "This is a dedication to like, my father bro who passed away",
+      "devanagari": "This is a dedication to like, my father bro who passed away",
       "speaker": "Calm",
       "translation": "This is a dedication to like, my father bro who passed away",
       "explanation": "Calm reveals that 'Shashi' is his late father's name.",
@@ -451,6 +498,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "To way of mean, jo abhi boht publicize kar raha hai",
+      "devanagari": "To way of mean, जो अभी बोहत publicize कर रहा है",
       "speaker": "Calm",
       "translation": "To the way it's being publicized right now",
       "explanation": "Referring to the current attention or how the industry/media handles personal stories.",
@@ -458,6 +506,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Jo abhi news pe boht aara hai, ye shit",
+      "devanagari": "जो अभी news पे बोहत आ रहा है, ये shit",
       "speaker": "Calm",
       "translation": "This stuff that's all over the news right now",
       "explanation": "Likely referring to the buzz or perhaps the general noise in the media.",
@@ -465,6 +514,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Iski wajah se maine naam isiliye rakha kyunki",
+      "devanagari": "इसकी वजह से मैंने नाम इसीलिए रखा क्यूंकि",
       "speaker": "Calm",
       "translation": "That's why I kept this name because...",
       "explanation": "Explaining the motivation for the title.",
@@ -472,6 +522,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "It's a fucking trip bro kyunki, I want a fucking big show ki",
+      "devanagari": "It's a fucking trip bro क्यूंकि, I want a fucking big show कि",
       "speaker": "Calm",
       "translation": "It's a crazy trip because I want a big show that...",
       "explanation": "Expressing his ambition to create something massive in his father's honor.",
@@ -479,6 +530,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "It's treacherous, it's fucking personal hit and note",
+      "devanagari": "It's treacherous, it's fucking personal hit and note",
       "speaker": "Calm",
       "translation": "It's treacherous, it's a personal hit and a note",
       "explanation": "Describing the emotional difficulty and the personal nature of the project.",
@@ -486,6 +538,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Isiliye wo naam, It's like a dedication to my father was never around bachpan se",
+      "devanagari": "इसीलिए वो नाम, It's like a dedication to my father was never around बचपन से",
       "speaker": "Calm",
       "translation": "That's why that name, it's like a dedication to my father who was never around since childhood",
       "explanation": "Calm opens up about the absence of his father during his upbringing.",
@@ -493,6 +546,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "Because I never got to him and never got to keep peace of legacy",
+      "devanagari": "Because I never got to him and never got to keep peace of legacy",
       "speaker": "Calm",
       "translation": "Because I never got to know him and never got to maintain his legacy",
       "explanation": "Calm felt a void regarding his family history and heritage.",
@@ -500,6 +554,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "I made Peace of legacy of my own to remember him by bro",
+      "devanagari": "I made Peace of legacy of my own to remember him by bro",
       "speaker": "Calm",
       "translation": "I made a 'piece' of legacy of my own to remember him by, bro",
       "explanation": "Instead of inheriting a legacy, he is creating one through his music to honor his father.",
@@ -507,6 +562,7 @@ export const choti_soch: Song = {
     },
     {
       "original": "That's why it's called Shashi, bro",
+      "devanagari": "That's why it's called Shashi, bro",
       "speaker": "Calm",
       "translation": "That's why it's called Shashi, bro",
       "explanation": "Final confirmation of the EP title's significance.",

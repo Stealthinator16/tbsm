@@ -10,6 +10,7 @@ export const chalta_reh: Song = {
   "lyrics": [
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go (Go, go)",
       "explanation": "A dismissive hook telling the listener to ignore negativity or let go of things holding them back.",
@@ -22,6 +23,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go (Go, go)",
       "explanation": "Repetition emphasizing the act of moving on from obstacles.",
@@ -29,6 +31,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go (Go, go)",
       "explanation": "Dismissing the noise and staying focused on the journey.",
@@ -36,6 +39,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे, ताने दे जो भी",
+      "romanized": "Jaane de, jaane de, taane de jo bhee",
       "speaker": "Chorus",
       "translation": "Let it go, let it go, whatever taunts they throw",
       "explanation": "Directly addressing criticism ('taane') and choosing to remain unaffected.",
@@ -48,6 +52,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "रख भेजे में रोक नहीं सकता कोई",
+      "romanized": "Rakh bheje men rok naheen saktaa koee",
       "speaker": "Chorus",
       "translation": "Keep it in your head, no one can stop you",
       "explanation": "Instilling a mindset of being unstoppable and resilient.",
@@ -66,6 +71,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go (Go, go)",
       "explanation": "Repetition for rhythmic impact and reinforcement of the theme.",
@@ -73,6 +79,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, ताने दे जो भी (जा-जा, जा-जा)",
+      "romanized": "Jaane de, taane de jo bhee (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let them taunt all they want",
       "explanation": "Acceptance that people will criticize, but deciding it won't change the path.",
@@ -80,6 +87,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Standard dismissive refrain.",
@@ -87,6 +95,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, ताने दे जो भी (जा-जा, जा-जा)",
+      "romanized": "Jaane de, taane de jo bhee (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, whatever the taunts are",
       "explanation": "Reiterating that verbal attacks shouldn't hinder progress.",
@@ -94,6 +103,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Building the sonic vibe of the track.",
@@ -101,6 +111,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Repetitive hook typical of early Seedhe Maut tracks.",
@@ -108,6 +119,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Consistent dismissal of external pressure.",
@@ -115,6 +127,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, ताने दे जो भी (जा-जा, जा-जा)",
+      "romanized": "Jaane de, taane de jo bhee (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let them keep taunting",
       "explanation": "Staying unfazed by haters.",
@@ -122,6 +135,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "रख भेजे में रोक नहीं सकता कोई",
+      "romanized": "Rakh bheje men rok naheen saktaa koee",
       "speaker": "Chorus",
       "translation": "Keep it in your mind, no one can stop you",
       "explanation": "Mental strength as a tool for success.",
@@ -129,6 +143,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "बस चाहिये नोट और है कोई चोरी नहीं, कोई चोरी नहीं",
+      "romanized": "Bas chaahiye not aur hai koee choree naheen, koee choree naheen",
       "speaker": "Chorus",
       "translation": "Just want the cash, and it's not a theft, not a theft",
       "explanation": "Expressing a desire for financial success through legal, creative work.",
@@ -148,6 +163,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "नये हो पाये मोटे गड्डी छोटी नहीं",
+      "romanized": "Naye ho paaye mote gaddee chhotee naheen",
       "speaker": "Chorus",
       "translation": "Fresh stacks of cash, big wads, nothing small",
       "explanation": "Ambitious goal of making significant money ('gaddi' refers to a bundle of notes).",
@@ -166,6 +182,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "एक बड़ी चंट बंदी की load है नहीं, कोई load है नहीं",
+      "romanized": "Ek baree chant bandee kee load hai naheen, koee load hai naheen",
       "speaker": "Chorus",
       "translation": "Don't care about a cunning girl, no stress at all",
       "explanation": "Avoiding distractions or toxic relationships. 'Load' is Delhi slang for stress.",
@@ -183,6 +200,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "बस चाहिये नोट और है कोई चोर ही नहीं, कोई चोरी नहीं",
+      "romanized": "Bas chaahiye not aur hai koee chor hee naheen, koee choree naheen",
       "speaker": "Chorus",
       "translation": "Just want the cash, and there's no thief here, no theft",
       "explanation": "Clarifying that their hustle is honest despite the hunger for money.",
@@ -190,6 +208,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "छूले तू चाँद अगर चाहे तो",
+      "romanized": "Chhoole too chaand agr chaahe to",
       "speaker": "Chorus",
       "translation": "Touch the moon if you wish",
       "explanation": "Encouraging the listener to aim for the highest goals possible.",
@@ -197,6 +216,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "दूर है तू बांधे कलपाये तो",
+      "romanized": "Door hai too baandhe kalpaaye to",
       "speaker": "Chorus",
       "translation": "You're far away if you stay bound and distressed",
       "explanation": "Suggesting that mental blocks and overthinking make goals seem farther than they are.",
@@ -204,6 +224,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "क्या हुआ? क्या हुआ?",
+      "romanized": "Kyaa huaa? Kyaa huaa?",
       "speaker": "Chorus",
       "translation": "What happened? What happened?",
       "explanation": "Conversational filler, questioning those who doubt or are stuck.",
@@ -211,6 +232,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "एक दो दिन फुलका नहीं खाया तो",
+      "romanized": "Ek do din phulkaa naheen khaayaa to",
       "speaker": "Chorus",
       "translation": "So what if you didn't eat for a day or two?",
       "explanation": "Referencing the struggle of a starving artist; temporary hardship for long-term gain.",
@@ -223,6 +245,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "दे बे तू ताली ज़माने को",
+      "romanized": "De be too taalee zamaane ko",
       "speaker": "Chorus",
       "translation": "Go ahead, applaud the world",
       "explanation": "Sarcastic remark about being part of the herd or seeking external validation.",
@@ -230,6 +253,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जेबें क्यूँ खाली कमाने दो",
+      "romanized": "Jeben kyoon khaalee kamaane do",
       "speaker": "Chorus",
       "translation": "Why are pockets empty? Let us earn",
       "explanation": "A plea for the right to prosper and move past poverty.",
@@ -237,6 +261,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "भेजे में बात ही तू एक ही रख",
+      "romanized": "Bheje men baat hee too ek hee rakh",
       "speaker": "Chorus",
       "translation": "Keep just one thing in your head",
       "explanation": "Focusing on a singular goal without distraction.",
@@ -244,6 +269,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "पैसा-पैसा-पैसा आने दो",
+      "romanized": "Paisaa-paisaa-paisaa aane do",
       "speaker": "Chorus",
       "translation": "Let the money-money-money flow in",
       "explanation": "The primary focus of the hustle at this stage of their career.",
@@ -258,6 +284,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "सालों पहले बांटों ज्ञान कम कुछ",
+      "romanized": "Saalon pahle baanton jnyaan kam kuchh",
       "speaker": "Chorus",
       "translation": "Years ago you shared little wisdom",
       "explanation": "Addressing people who suddenly act like mentors now that the duo is successful.",
@@ -267,6 +294,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "पालो पहले बांटों ज्ञान तब (Aye)",
+      "romanized": "Paalo pahle baanton jnyaan tab (Aye)",
       "speaker": "Chorus",
       "translation": "Achieve something first, then give advice",
       "explanation": "Telling others to prove their worth before preaching.",
@@ -274,6 +302,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "सालों पहले बांटों ज्ञान कम कुछ",
+      "romanized": "Saalon pahle baanton jnyaan kam kuchh",
       "speaker": "Chorus",
       "translation": "Years ago, little wisdom was shared",
       "explanation": "Calling out the inconsistency of critics.",
@@ -281,6 +310,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "पालो पहले बांटों ज्ञान तब (Aye)",
+      "romanized": "Paalo pahle baanton jnyaan tab (Aye)",
       "speaker": "Chorus",
       "translation": "Achieve first, then speak",
       "explanation": "Emphasizing results over empty words.",
@@ -288,6 +318,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Returning to the core theme of the song.",
@@ -295,6 +326,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Consistent rhythm and messaging.",
@@ -302,6 +334,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Reinforcing the dismissive attitude toward haters.",
@@ -309,6 +342,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे, ताने दे जो भी",
+      "romanized": "Jaane de, jaane de, taane de jo bhee",
       "speaker": "Chorus",
       "translation": "Let it go, let it go, whatever taunts they throw",
       "explanation": "Ignoring verbal barbs.",
@@ -316,6 +350,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "रख भेजे में रोक नहीं सकता कोई",
+      "romanized": "Rakh bheje men rok naheen saktaa koee",
       "speaker": "Chorus",
       "translation": "Keep it in your mind, no one can stop you",
       "explanation": "Belief in self-sovereignty.",
@@ -323,6 +358,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Repetitive hook for catchy flow.",
@@ -330,6 +366,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, ताने दे जो भी (जा-जा, जा-जा)",
+      "romanized": "Jaane de, taane de jo bhee (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let them taunt",
       "explanation": "Unbothered mindset.",
@@ -337,6 +374,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Maintaining the energy of the track.",
@@ -344,6 +382,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, ताने दे जो भी (जा-जा, जा-जा)",
+      "romanized": "Jaane de, taane de jo bhee (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let them taunt",
       "explanation": "Dismissing critics once again.",
@@ -351,6 +390,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Fading in and out of the chorus.",
@@ -358,6 +398,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Rhythmic repetition.",
@@ -365,6 +406,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Emphasizing the 'don't care' vibe.",
@@ -372,6 +414,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, ताने दे जो भी (जा-जा, जा-जा)",
+      "romanized": "Jaane de, taane de jo bhee (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let them taunt",
       "explanation": "Dismissal of social pressure.",
@@ -379,6 +422,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "रख भेजे में रोक नहीं सकता कोई",
+      "romanized": "Rakh bheje men rok naheen saktaa koee",
       "speaker": "Chorus",
       "translation": "Keep it in your mind, no one can stop you",
       "explanation": "Finality in the statement of being unstoppable.",
@@ -386,6 +430,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "चलता रह, चलता रह, जाने दे टोके ही नहीं सकता कोई गाने से (नहीं-नहीं)",
+      "romanized": "Chaltaa rah, chaltaa rah, jaane de toke hee naheen saktaa koee gaane se (naheen-naheen)",
       "speaker": "Chorus",
       "translation": "Keep moving, keep moving, let it be; no one can stop you through songs",
       "explanation": "Encouragement to keep progressing; their music is their shield.",
@@ -398,6 +443,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "चलता रह चमकाके चमचों को रोक ही नहीं सकता कोई छाने से",
+      "romanized": "Chaltaa rah chamkaake chamchon ko rok hee naheen saktaa koee chhaane se",
       "speaker": "Chorus",
       "translation": "Keep moving, outshining the sycophants; no one can stop you from blowing up",
       "explanation": "Merit will always overshadow those who only suck up to others ('chamchon').",
@@ -410,6 +456,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "सड़ता तू पड़ता नहीं फरक हूँ बढ़ता मैं जानता भी (सही-सही)",
+      "romanized": "Sartaa too partaa naheen phark hoon barhtaa main jaantaa bhee (sahee-sahee)",
       "speaker": "Chorus",
       "translation": "You rot (with jealousy), it doesn't matter to me, I keep growing and I know it",
       "explanation": "Addressing haters who are stuck while the artist reaches new heights.",
@@ -429,6 +476,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जलता तो ढलता रब कल का मैं रोक ही नहीं सकता कोई (नहीं-नहीं)",
+      "romanized": "Jaltaa to dhaltaa rab kal kaa main rok hee naheen saktaa koee (naheen-naheen)",
       "speaker": "Chorus",
       "translation": "If you burn (jealousy), you'll fade; I'm the master of tomorrow, no one can stop me",
       "explanation": "Asserting dominance over the future of the scene.",
@@ -436,6 +484,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "अब-अब सारे कहे शाब्बास",
+      "romanized": "Ab-ab saare kahe shaabbaas",
       "speaker": "Chorus",
       "translation": "Now everyone says 'Well done'",
       "explanation": "Noticing how people change their tone once you become successful.",
@@ -448,6 +497,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जो कुछ महीनों पहले रहते हमसे हताश थे",
+      "romanized": "Jo kuchh maheenon pahle rahte hamse hataash the",
       "speaker": "Chorus",
       "translation": "The same ones who were hopeless about us a few months ago",
       "explanation": "Highlighting the hypocrisy of the people around them.",
@@ -460,6 +510,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "दस्तूर है क्या या है प्रकृति का इलाज",
+      "romanized": "Dastoor hai kyaa yaa hai prakriti kaa ilaaj",
       "speaker": "Chorus",
       "translation": "Is this a tradition or a cure of nature?",
       "explanation": "Reflecting on whether human hypocrisy is just how the world works.",
@@ -467,6 +518,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "क्यूँकि अब फरक ना पड़े क्या सोचे हमें समाज",
+      "romanized": "Kyoonki ab phark naa pare kyaa soche hamen samaaj",
       "speaker": "Chorus",
       "translation": "Because now it doesn't matter what society thinks of us",
       "explanation": "Achieving a state of mental freedom from societal expectations.",
@@ -476,6 +528,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "Scene अब बढ़ेगा प्रगति की राह पे भाई अब चलेगा (अह)",
+      "romanized": "Scene ab barhegaa pragti kee raah pe bhaaee ab chalegaa (ah)",
       "speaker": "Chorus",
       "translation": "The scene will grow now, brother, it will move on the path of progress",
       "explanation": "Referring to the growth of Desi Hip Hop (DHH) as a whole.",
@@ -495,6 +548,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जबें भरेगा चाहिये ब्रह्मांड सिर्फ चाँद नहीं चलेगा (यह)",
+      "romanized": "Jaben bharegaa chaahiye brahmaand sirph chaand naheen chalegaa (yah)",
       "speaker": "Chorus",
       "translation": "Pockets will fill; I want the universe, just the moon won't do",
       "explanation": "Limitless ambition—aiming beyond just small successes.",
@@ -509,6 +563,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "चाहा दिखाना, है तुझे मैंने की दुनिया में चीज",
+      "romanized": "Chaahaa dikhaanaa, hai tujhe mainne kee duniyaa men cheej",
       "speaker": "Chorus",
       "translation": "I wanted to show you what things are like in this world",
       "explanation": "Wanting to expose the reality of the industry/life.",
@@ -523,6 +578,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जिन्हें आज़माना, चाहिये तुझे, है दुनिया खज़ाना",
+      "romanized": "Jinhen aazmaanaa, chaahiye tujhe, hai duniyaa khazaanaa",
       "speaker": "Chorus",
       "translation": "The things you need to try; the world is a treasure trove",
       "explanation": "Encouraging exploration and taking risks.",
@@ -537,6 +593,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "और रहे हैं सालों से कंगाल, है ये एक जंजाल",
+      "romanized": "Aur rahe hain saalon se kangaal, hai ye ek janjaal",
       "speaker": "Chorus",
       "translation": "And they've been broke for years; it's a trap",
       "explanation": "Describing the cycle of poverty or stagnation as a 'web' or 'janjal'.",
@@ -556,6 +613,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "Company खरीदे सरकार भुगतती है जनता",
+      "romanized": "Company khareede sarkaar bhugttee hai jantaa",
       "speaker": "Chorus",
       "translation": "Companies buy the government, the public suffers",
       "explanation": "A rare socio-political bar commenting on corporate-state relations.",
@@ -563,6 +621,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "कम से कम खुद को रख थोड़ खुश",
+      "romanized": "Kam se kam khud ko rakh thor khush",
       "speaker": "Chorus",
       "translation": "At least keep yourself a little happy",
       "explanation": "Prioritizing personal peace amidst chaos.",
@@ -570,6 +629,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जी अपने उसूलों पे हो जा मुक्त",
+      "romanized": "Jee apne usoolon pe ho jaa mukt",
       "speaker": "Chorus",
       "translation": "Live by your principles and become free",
       "explanation": "Seedhe Maut's recurring philosophy of 'Live by your own rules'.",
@@ -577,6 +637,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "बस चलता रह, चलता रह जो साले चाहे",
+      "romanized": "Bas chaltaa rah, chaltaa rah jo saale chaahe",
       "speaker": "Chorus",
       "translation": "Just keep moving, no matter what they want",
       "explanation": "Persistent effort despite the desires of detractors.",
@@ -586,6 +647,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "हम बने ना कुछ, उन्हें जाने दे",
+      "romanized": "Ham bane naa kuchh, unhen jaane de",
       "speaker": "Chorus",
       "translation": "If they think we've become nothing, let them",
       "explanation": "Not needing to prove one's worth to everyone.",
@@ -595,6 +657,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Reprise of the main hook.",
@@ -604,6 +667,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Catchy repetition for the outro.",
@@ -613,6 +677,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Reinforcing the message of detachment.",
@@ -622,6 +687,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, ताने दे जो भी (जा-जा, जा-जा)",
+      "romanized": "Jaane de, taane de jo bhee (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, whatever taunts they throw",
       "explanation": "Resisting the impact of verbal negativity.",
@@ -629,6 +695,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "रख भेजे में रोक नहीं सकता कोई",
+      "romanized": "Rakh bheje men rok naheen saktaa koee",
       "speaker": "Chorus",
       "translation": "Keep in mind, no one can stop you",
       "explanation": "Final reminder of personal power.",
@@ -636,6 +703,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Vibe maintenance.",
@@ -643,6 +711,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Sonic branding of the duo's early era.",
@@ -650,6 +719,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, जाने दे (जा-जा, जा-जा)",
+      "romanized": "Jaane de, jaane de (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, let it go",
       "explanation": "Closing out the rhythmic section.",
@@ -657,6 +727,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जाने दे, ताने दे जो भी (जा-जा, जा-जा)",
+      "romanized": "Jaane de, taane de jo bhee (jaa-jaa, jaa-jaa)",
       "speaker": "Chorus",
       "translation": "Let it go, whatever taunts they throw",
       "explanation": "Final dismissive bar regarding critics.",
@@ -664,6 +735,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "रख भेजे में रोक नहीं सकता कोई",
+      "romanized": "Rakh bheje men rok naheen saktaa koee",
       "speaker": "Chorus",
       "translation": "Keep it in your head, no one can stop you",
       "explanation": "Conclusion of the mental strength theme.",
@@ -671,6 +743,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "चलता रह, चलता रह, जाने दे",
+      "romanized": "Chaltaa rah, chaltaa rah, jaane de",
       "speaker": "Chorus",
       "translation": "Keep moving, keep moving, let it go",
       "explanation": "The core mantra of the song.",
@@ -678,6 +751,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "टोके ही नहीं सकता कोई गाने से (नहीं-नहीं)",
+      "romanized": "Toke hee naheen saktaa koee gaane se (naheen-naheen)",
       "speaker": "Chorus",
       "translation": "No one can stop you through their songs",
       "explanation": "Addressing potential 'diss' tracks or rivals; they are above it.",
@@ -685,6 +759,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "चलता रह चमकाके चमचों को",
+      "romanized": "Chaltaa rah chamkaake chamchon ko",
       "speaker": "Chorus",
       "translation": "Keep moving, outshining the sycophants",
       "explanation": "Success is the best way to handle flatterers and fakes.",
@@ -692,6 +767,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "रोक ही नहीं सकता कोई छाने से",
+      "romanized": "Rok hee naheen saktaa koee chhaane se",
       "speaker": "Chorus",
       "translation": "No one can stop you from blowing up",
       "explanation": "Their rise is inevitable.",
@@ -699,6 +775,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "सड़ता तू पड़ता नहीं फरक",
+      "romanized": "Sartaa too partaa naheen phark",
       "speaker": "Chorus",
       "translation": "You rot (with jealousy), it doesn't matter",
       "explanation": "Ignoring the envy of others.",
@@ -706,6 +783,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "हूँ बढ़ता मैं जानता भी (सही-सही)",
+      "romanized": "Hoon barhtaa main jaantaa bhee (sahee-sahee)",
       "speaker": "Chorus",
       "translation": "I'm growing, and I know it (True, true)",
       "explanation": "Self-awareness of their trajectory.",
@@ -713,6 +791,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "जलता तो ढलता रब कल का",
+      "romanized": "Jaltaa to dhaltaa rab kal kaa",
       "speaker": "Chorus",
       "translation": "If you're jealous, you'll fade; God of tomorrow",
       "explanation": "Predicting the downfall of haters while claiming the future.",
@@ -720,6 +799,7 @@ export const chalta_reh: Song = {
     },
     {
       "original": "मैं रोक ही नहीं सकता कोई (नहीं-नहीं)",
+      "romanized": "Main rok hee naheen saktaa koee (naheen-naheen)",
       "speaker": "Chorus",
       "translation": "No one can stop me",
       "explanation": "Final assertion of being unstoppable.",

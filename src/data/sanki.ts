@@ -10,6 +10,7 @@ export const sanki: Song = {
   "lyrics": [
     {
       "original": "Dog growling",
+      "devanagari": "Dog growling",
       "speaker": "Seedhe Maut",
       "translation": "Sound of a dog growling.",
       "explanation": "The track opens with a menacing dog growl, setting the aggressive and wild tone for the song about being 'sanki' (crazy).",
@@ -17,6 +18,7 @@ export const sanki: Song = {
     },
     {
       "original": "Sez on the beat boy",
+      "devanagari": "Sez on the beat boy",
       "speaker": "Seedhe Maut",
       "translation": "Sez on the beat, boy.",
       "explanation": "Producer tag for Sez on the Beat, the acclaimed Delhi-based producer who crafted this beat.",
@@ -30,6 +32,7 @@ export const sanki: Song = {
     },
     {
       "original": "You know what time it is",
+      "devanagari": "You know what time it is",
       "speaker": "Seedhe Maut",
       "translation": "You know what time it is.",
       "explanation": "A hype phrase signaling that things are about to get intense.",
@@ -37,6 +40,7 @@ export const sanki: Song = {
     },
     {
       "original": "Launde mental saare kutte jungli",
+      "devanagari": "लौंडे mental सारे कुत्ते जंगली",
       "speaker": "Ikka",
       "translation": "The boys are mental, all wild dogs.",
       "explanation": "Ikka establishes that his crew are all unhinged and wild like stray dogs -- untamed and dangerous.",
@@ -55,6 +59,7 @@ export const sanki: Song = {
     },
     {
       "original": "Aake bhidle koi khuli dhamki",
+      "devanagari": "आके भिड़ले कोई खुली धमकी",
       "speaker": "Ikka",
       "translation": "Anyone who comes at us gets an open threat.",
       "explanation": "If anyone dares to confront them, they will be met with direct, undisguised threats.",
@@ -73,6 +78,7 @@ export const sanki: Song = {
     },
     {
       "original": "Lauda sunte na kisiki karte man ki",
+      "devanagari": "लौड़ा सुनते ना किसीकी करते मन की",
       "speaker": "Ikka",
       "translation": "Don't give a fuck about anyone, we do what we want.",
       "explanation": "They don't listen to anyone and only act on their own will.",
@@ -86,6 +92,7 @@ export const sanki: Song = {
     },
     {
       "original": "Sheher Delhi lala yaha launde saare sanki (Aye-yo)",
+      "devanagari": "शहर Delhi लाला यहाँ लौंडे सारे सनकी (Aye-yo)",
       "speaker": "Ikka",
       "translation": "The city is Delhi, bro -- all the boys here are crazy.",
       "explanation": "The hook establishes Delhi as the setting and declares everyone from here is unhinged.",
@@ -104,6 +111,7 @@ export const sanki: Song = {
     },
     {
       "original": "S-s-sanki, s-s-sanki, s-s-sanki, sanki s-s-sanki",
+      "devanagari": "स-स-सनकी, स-स-सनकी, स-स-सनकी, सनकी स-स-सनकी",
       "speaker": "Ikka",
       "translation": "Crazy, crazy, crazy, crazy, crazy.",
       "explanation": "The stuttered hook mimics a glitching, manic energy -- reinforcing the unhinged theme of the track.",
@@ -111,6 +119,7 @@ export const sanki: Song = {
     },
     {
       "original": "S-s-sanki, s-s-sanki, s-s-sanki, sanki launde sanki",
+      "devanagari": "स-स-सनकी, स-स-सनकी, स-स-सनकी, सनकी लौंडे सनकी",
       "speaker": "Ikka",
       "translation": "Crazy, crazy, crazy -- the boys are crazy.",
       "explanation": "Continuation of the hook, driving home that the crew is completely unhinged.",
@@ -118,6 +127,7 @@ export const sanki: Song = {
     },
     {
       "original": "Sanki ko sanak-sanak chadi pusthe",
+      "devanagari": "सनकी को सनक-सनक चढ़ी पूछते",
       "speaker": "Ikka",
       "translation": "The crazy ones keep getting crazier, you ask?",
       "explanation": "Their madness only escalates over time -- it is a constant state, not a one-off.",
@@ -131,6 +141,7 @@ export const sanki: Song = {
     },
     {
       "original": "Bhi kisi rapper ki phirse laash pade",
+      "devanagari": "भी किसी rapper की फिरसे लाश पड़े",
       "speaker": "Ikka",
       "translation": "Another rapper's corpse is found again.",
       "explanation": "Ikka says their aggression leaves rappers dead (metaphorically destroyed) -- it keeps happening over and over.",
@@ -144,6 +155,7 @@ export const sanki: Song = {
     },
     {
       "original": "Delhi wale chuadi chaati leke ghume",
+      "devanagari": "Delhi वाले चौड़ी छाती लेके घूमे",
       "speaker": "Ikka",
       "translation": "Delhi boys walk around with their chests puffed out.",
       "explanation": "Delhi guys move with swagger and confidence, chest wide open showing they fear no one.",
@@ -157,6 +169,7 @@ export const sanki: Song = {
     },
     {
       "original": "Aand badi deti hai utar rampuri yaha jhanjh puri ki hazoori",
+      "devanagari": "आंड बड़ी देती है उतर रामपुरी यहाँ झंझ पूरी की हज़ूरी",
       "speaker": "Ikka",
       "translation": "Balls swell up big, pull out the Rampuri knife -- no need for anyone's servitude here.",
       "explanation": "They have the guts to pull out a Rampuri knife (a famous type of switchblade from UP/Delhi) and they don't bow before anyone.",
@@ -175,6 +188,7 @@ export const sanki: Song = {
     },
     {
       "original": "Baap ko chodke kisi ki na ki",
+      "devanagari": "बाप को छोड़के किसी की ना की",
       "speaker": "Ikka",
       "translation": "Apart from our father, we don't listen to anyone.",
       "explanation": "Except for their own father, they don't respect or obey anyone else's authority.",
@@ -182,6 +196,7 @@ export const sanki: Song = {
     },
     {
       "original": "California wale G ke lagwa di mirchi",
+      "devanagari": "California वाले G के लगवा दी मिर्ची",
       "speaker": "Ikka",
       "translation": "Put the chili on the California G's.",
       "explanation": "Ikka claims to have burned (humiliated) rappers who front a California/West Coast image. 'Mirchi lagana' means to irritate or burn someone.",
@@ -200,6 +215,7 @@ export const sanki: Song = {
     },
     {
       "original": "In chiz ki g mei fasa denge BBC",
+      "devanagari": "इन चीज़ की g में फसा देंगे BBC",
       "speaker": "Ikka",
       "translation": "We'll shove a BBC up their ass.",
       "explanation": "A vulgar threat of domination over their rivals.",
@@ -207,6 +223,7 @@ export const sanki: Song = {
     },
     {
       "original": "Ye launde Eeny meeny miny moe ye mere mini me",
+      "devanagari": "ये लौंडे Eeny meeny miny moe ये मेरे mini me",
       "speaker": "Ikka",
       "translation": "These guys are Eeny meeny miny moe -- they're my mini-me's.",
       "explanation": "He dismisses other rappers as tiny versions of himself, implying they're all copying him and are interchangeable like a children's counting rhyme.",
@@ -220,6 +237,7 @@ export const sanki: Song = {
     },
     {
       "original": "(You know what time it is)",
+      "devanagari": "(You know what time it is)",
       "speaker": "Ikka",
       "translation": "You know what time it is.",
       "explanation": "Repeated hype ad-lib maintaining the energy.",
@@ -227,6 +245,7 @@ export const sanki: Song = {
     },
     {
       "original": "Ye launde khassi (Khassi)",
+      "devanagari": "ये लौंडे खस्सी (खस्सी)",
       "speaker": "Ikka",
       "translation": "These boys are castrated goats.",
       "explanation": "Ikka calls rival rappers 'khassi' -- a castrated male goat -- implying they have no balls or backbone.",
@@ -240,6 +259,7 @@ export const sanki: Song = {
     },
     {
       "original": "Durse du mai inke thooth pe",
+      "devanagari": "दूरसे दूँ मैं इनके थूठ पे",
       "speaker": "Ikka",
       "translation": "I kick them in the mouth from a distance.",
       "explanation": "He doesn't even need to be close -- he can shut them up from afar with his words.",
@@ -253,6 +273,7 @@ export const sanki: Song = {
     },
     {
       "original": "Gaande phat ti roz hood mei",
+      "devanagari": "गांडें फटती रोज़ hood में",
       "speaker": "Ikka",
       "translation": "Asses get torn open every day in the hood.",
       "explanation": "Violence and chaos are everyday occurrences in their neighborhood.",
@@ -266,6 +287,7 @@ export const sanki: Song = {
     },
     {
       "original": "Move kare launde group mei",
+      "devanagari": "Move करे लौंडे group में",
       "speaker": "Ikka",
       "translation": "The boys move in groups.",
       "explanation": "They always roll deep with their crew for safety and strength in numbers.",
@@ -273,6 +295,7 @@ export const sanki: Song = {
     },
     {
       "original": "Launde having no mercy (Mercy)",
+      "devanagari": "लौंडे having no mercy (Mercy)",
       "speaker": "Ikka",
       "translation": "The boys show no mercy.",
       "explanation": "There is no compassion or leniency when they come for their rivals.",
@@ -280,6 +303,7 @@ export const sanki: Song = {
     },
     {
       "original": "Bajte gaane loop pe",
+      "devanagari": "बजते गाने loop पे",
       "speaker": "Ikka",
       "translation": "Songs play on loop.",
       "explanation": "Their tracks are so fire that people keep them on repeat.",
@@ -287,6 +311,7 @@ export const sanki: Song = {
     },
     {
       "original": "Beat de tu mujhe chupe",
+      "devanagari": "Beat दे तू मुझे छुपे",
       "speaker": "Ikka",
       "translation": "Give me the beat secretly.",
       "explanation": "He's asking for beats on the low -- ready to cook up something lethal in the studio.",
@@ -294,6 +319,7 @@ export const sanki: Song = {
     },
     {
       "original": "Bas karu kitchen mei [?] inhe cook me",
+      "devanagari": "बस करू kitchen में [?] इन्हें cook me",
       "speaker": "Ikka",
       "translation": "Let me get in the kitchen and cook these guys up.",
       "explanation": "Using cooking as a metaphor for destroying rappers on a track -- 'cooking' them in the studio.",
@@ -307,6 +333,7 @@ export const sanki: Song = {
     },
     {
       "original": "Gala mere liye Babylon",
+      "devanagari": "गला मेरे लिए Babylon",
       "speaker": "Ikka",
       "translation": "The streets are Babylon for me.",
       "explanation": "Comparing the hostile environment to Babylon -- a place of struggle, sin, and oppression, as referenced in reggae/dancehall culture.",
@@ -320,6 +347,7 @@ export const sanki: Song = {
     },
     {
       "original": "Bumbaclot track ka tone",
+      "devanagari": "Bumbaclot track का tone",
       "speaker": "Ikka",
       "translation": "Bumbaclot -- that's the track's tone.",
       "explanation": "Using the Jamaican patois expletive 'bumbaclot' to describe the raw, aggressive tone of the track.",
@@ -333,6 +361,7 @@ export const sanki: Song = {
     },
     {
       "original": "Smoke jaise Cheech & Chong",
+      "devanagari": "Smoke जैसे Cheech & Chong",
       "speaker": "Ikka",
       "translation": "Smoking like Cheech and Chong.",
       "explanation": "They smoke weed as heavily as the iconic stoner comedy duo.",
@@ -346,6 +375,7 @@ export const sanki: Song = {
     },
     {
       "original": "Feeling like Megatron (Aye-yooo)",
+      "devanagari": "Feeling like Megatron (Aye-yooo)",
       "speaker": "Ikka",
       "translation": "Feeling like Megatron.",
       "explanation": "He feels powerful and destructive like the Transformers villain Megatron.",
@@ -359,6 +389,7 @@ export const sanki: Song = {
     },
     {
       "original": "Apne aage hai tu kaun",
+      "devanagari": "अपने आगे है तू कौन",
       "speaker": "Ikka",
       "translation": "Who are you compared to me?",
       "explanation": "Dismissing rivals as insignificant compared to him.",
@@ -366,6 +397,7 @@ export const sanki: Song = {
     },
     {
       "original": "LeBron jab hop me gul",
+      "devanagari": "LeBron जब hop में गुल",
       "speaker": "Ikka",
       "translation": "LeBron when hop goes down.",
       "explanation": "Comparing himself to LeBron James -- a GOAT-level figure. When he enters hip-hop, he dominates like LeBron dominates basketball.",
@@ -379,6 +411,7 @@ export const sanki: Song = {
     },
     {
       "original": "Karte sku aur fans bhi shor",
+      "devanagari": "करते sku और fans भी शोर",
       "speaker": "Ikka",
       "translation": "The crew and the fans all make noise.",
       "explanation": "Both his inner circle and his fanbase create a loud buzz wherever they go.",
@@ -386,6 +419,7 @@ export const sanki: Song = {
     },
     {
       "original": "Gang kare banks mei roll",
+      "devanagari": "Gang करे banks में roll",
       "speaker": "Ikka",
       "translation": "The gang rolls with banks full of money.",
       "explanation": "His crew is cashing out, making bank rolls -- they're financially secure and flexing.",
@@ -393,6 +427,7 @@ export const sanki: Song = {
     },
     {
       "original": "Ganja smoke mai DMF se tu Labrador (Huh)",
+      "devanagari": "Ganja smoke मैं DMF से तू Labrador (Huh)",
       "speaker": "Ikka",
       "translation": "Ganja smoke -- I'm from DMF, you're a Labrador.",
       "explanation": "He smokes ganja and reps DMF (his crew). He calls the rival a Labrador -- a domesticated dog compared to the wild street dogs they identify as.",
@@ -411,6 +446,7 @@ export const sanki: Song = {
     },
     {
       "original": "S-s-sanki, s-s-sanki, s-s-sanki, sanki launde sanki",
+      "devanagari": "स-स-सनकी, स-स-सनकी, स-स-सनकी, सनकी लौंडे सनकी",
       "speaker": "Ikka",
       "translation": "Crazy, crazy, crazy -- the boys are crazy.",
       "explanation": "Hook repeats, maintaining the manic energy.",
@@ -418,6 +454,7 @@ export const sanki: Song = {
     },
     {
       "original": "S-s-sanki, s-s-sanki",
+      "devanagari": "स-स-सनकी, स-स-सनकी",
       "speaker": "Ikka",
       "translation": "Crazy, crazy.",
       "explanation": "Abbreviated hook transitioning into Raga's verse.",
@@ -425,6 +462,7 @@ export const sanki: Song = {
     },
     {
       "original": "Delhi sheher se laahse milti hai neher pe",
+      "devanagari": "Delhi शहर से लाशें मिलती हैं नहर पे",
       "speaker": "Raga",
       "translation": "From the city of Delhi, corpses are found by the canal.",
       "explanation": "Raga paints a grim picture of Delhi's underbelly where bodies turn up by the naala (drainage canal) -- referencing real street violence.",
@@ -438,6 +476,7 @@ export const sanki: Song = {
     },
     {
       "original": "Tode taange chaurahe pe launde bhari dopahar mei (Yeah)",
+      "devanagari": "तोड़े टाँगें चौराहे पे लौंडे भरी दोपहर में (Yeah)",
       "speaker": "Raga",
       "translation": "Boys break legs at the crossroads in broad daylight.",
       "explanation": "Violence happens openly in Delhi -- legs get broken at busy intersections in the middle of the day with no fear of consequences.",
@@ -451,6 +490,7 @@ export const sanki: Song = {
     },
     {
       "original": "Gundagardi to khoon mei seekha karte the school mei",
+      "devanagari": "गुंडागर्दी तो ख़ून में सीखा करते थे school में",
       "speaker": "Raga",
       "translation": "Thuggery was in our blood, we learned it in school.",
       "explanation": "Violence and street mentality were ingrained from childhood -- it's not something they picked up later, it was learned in school itself.",
@@ -464,6 +504,7 @@ export const sanki: Song = {
     },
     {
       "original": "Rapat parte the gallo pe dehshat karto ko dhundh le (Yo)",
+      "devanagari": "रपट पड़ते थे गलियों पे दहशत करतों को ढूँढ ले (Yo)",
       "speaker": "Raga",
       "translation": "We'd patrol the streets looking for troublemakers.",
       "explanation": "They would roam the alleys actively searching for those who terrorized others -- acting as both the hunters and the enforcers.",
@@ -482,6 +523,7 @@ export const sanki: Song = {
     },
     {
       "original": "Kaand khule mei raato ko peeche thulle bhagate",
+      "devanagari": "कांड खुले में रातों को पीछे ठुल्ले भागते",
       "speaker": "Raga",
       "translation": "Crimes happen in the open at night, cops chasing from behind.",
       "explanation": "They commit bold acts at night with the police in pursuit -- depicting a life of running from the law.",
@@ -500,6 +542,7 @@ export const sanki: Song = {
     },
     {
       "original": "Hum beta sunte na baate'in sadko pe mudde uthate",
+      "devanagari": "हम बेटा सुनते ना बातें सड़कों पे मुद्दे उठाते",
       "speaker": "Raga",
       "translation": "Son, we don't listen to talk -- we raise issues on the streets.",
       "explanation": "They don't engage in idle chatter. They bring real matters to the streets and handle them directly.",
@@ -507,6 +550,7 @@ export const sanki: Song = {
     },
     {
       "original": "Khaali karte na vaade, jo karte seedha nibhate",
+      "devanagari": "खाली करते ना वादे, जो करते सीधा निभाते",
       "speaker": "Raga",
       "translation": "We don't make empty promises -- whatever we commit to, we follow through.",
       "explanation": "They are men of their word. Unlike others who talk big, they deliver on every promise.",
@@ -514,6 +558,7 @@ export const sanki: Song = {
     },
     {
       "original": "Nakli ladke naa saath ghume koi kya hi ukhaade",
+      "devanagari": "नकली लड़के ना साथ घूमे कोई क्या ही उखाड़े",
       "speaker": "Raga",
       "translation": "Fake boys don't roll with us -- what can anyone do about it?",
       "explanation": "They don't associate with frauds or pretenders. Their circle is tight and authentic.",
@@ -527,6 +572,7 @@ export const sanki: Song = {
     },
     {
       "original": "Aake mil hum jeete baato'n se dil",
+      "devanagari": "आके मिल हम जीते बातों से दिल",
       "speaker": "Raga",
       "translation": "Come meet us, we win hearts through our words.",
       "explanation": "Despite the aggression, Raga says they win people over with genuine conversation and character.",
@@ -534,6 +580,7 @@ export const sanki: Song = {
     },
     {
       "original": "Jo daude maathe pe kill, phir laude pe laate'in gin",
+      "devanagari": "जो दौड़े माथे पे kill, फिर लौड़े पे लातें गिन",
       "speaker": "Raga",
       "translation": "Those who run get a kill mark on the forehead, then count the kicks on the dick.",
       "explanation": "If someone tries to run, they get marked for death. Extremely aggressive imagery of catching and punishing rivals.",
@@ -541,6 +588,7 @@ export const sanki: Song = {
     },
     {
       "original": "Tu seedha lasho mei mil, hum pehle khaate the pill",
+      "devanagari": "तू सीधा लाशों में मिल, हम पहले खाते थे pill",
       "speaker": "Raga",
       "translation": "You'll end up straight among the corpses -- we used to pop pills before.",
       "explanation": "Threatening that the rival will end up dead, while asserting their own wild past of substance use.",
@@ -548,6 +596,7 @@ export const sanki: Song = {
     },
     {
       "original": "Beta hamari aadat hai purani hum seedha banate film",
+      "devanagari": "बेटा हमारी आदत है पुरानी हम सीधा बनाते film",
       "speaker": "Raga",
       "translation": "Son, this is our old habit -- we straight up make movies.",
       "explanation": "Their street lifestyle is a long-standing habit, and the drama they create is cinematic. 'Banate film' means creating scenes or situations worthy of a film.",
@@ -561,6 +610,7 @@ export const sanki: Song = {
     },
     {
       "original": "Bas apno se hai banti, hum dil se dete guarantee",
+      "devanagari": "बस अपनों से है बनती, हम दिल से देते guarantee",
       "speaker": "Raga",
       "translation": "We only vibe with our own -- we give a heartfelt guarantee.",
       "explanation": "Loyalty is reserved for their inner circle, and that loyalty is genuine and unshakeable.",
@@ -574,6 +624,7 @@ export const sanki: Song = {
     },
     {
       "original": "Kismat mehnat se par chamke na kisi ki rehmat chalti",
+      "devanagari": "क़िस्मत मेहनत से पर चमके ना किसी की रहमत चलती",
       "speaker": "Raga",
       "translation": "Luck comes through hard work, but nobody's mercy runs here.",
       "explanation": "Success is earned through grind, not through anyone else's kindness or charity.",
@@ -581,6 +632,7 @@ export const sanki: Song = {
     },
     {
       "original": "Har din jeete jaisa aakhiri fikar kare na kal ki",
+      "devanagari": "हर दिन जीते जैसा आख़िरी फ़िक्र करे ना कल की",
       "speaker": "Raga",
       "translation": "Live every day like it's the last -- no worry about tomorrow.",
       "explanation": "A nihilistic philosophy of living in the moment with no concern for the future.",
@@ -588,6 +640,7 @@ export const sanki: Song = {
     },
     {
       "original": "Representing meri delhi to launde sunege sanki (Du-du-du)",
+      "devanagari": "Representing मेरी Delhi तो लौंडे सुनेंगे सनकी (Du-du-du)",
       "speaker": "Raga",
       "translation": "Representing my Delhi -- the boys will hear 'Sanki'.",
       "explanation": "Raga closes his verse by repping Delhi and declaring this track will be heard by everyone.",
@@ -595,6 +648,7 @@ export const sanki: Song = {
     },
     {
       "original": "S-s-sanki, s-s-sanki, s-s-sanki, sanki s-s-sanki",
+      "devanagari": "स-स-सनकी, स-स-सनकी, स-स-सनकी, सनकी स-स-सनकी",
       "speaker": "Ikka",
       "translation": "Crazy, crazy, crazy, crazy, crazy.",
       "explanation": "Hook returns after Raga's verse.",
@@ -602,6 +656,7 @@ export const sanki: Song = {
     },
     {
       "original": "S-s-sanki, s-s-sanki, s-s-sanki, sanki launde sanki",
+      "devanagari": "स-स-सनकी, स-स-सनकी, स-स-सनकी, सनकी लौंडे सनकी",
       "speaker": "Ikka",
       "translation": "Crazy, crazy, crazy -- the boys are crazy.",
       "explanation": "Hook continuation.",
@@ -609,6 +664,7 @@ export const sanki: Song = {
     },
     {
       "original": "Dark side leather demon's out ulte cross peekar",
+      "devanagari": "Dark side leather demon's out उल्टे cross पीकर",
       "speaker": "Aghor",
       "translation": "Dark side, leather, the demon's out -- drinking from an inverted cross.",
       "explanation": "Aghor opens with dark, occult imagery -- wearing leather, unleashing his inner demon, drinking from an inverted cross like a satanic ritual.",
@@ -627,6 +683,7 @@ export const sanki: Song = {
     },
     {
       "original": "De gawahi of a ether mau mai bheetar tak kamina",
+      "devanagari": "दे गवाही of a ether मौ मैं भीतर तक कमीना",
       "speaker": "Aghor",
       "translation": "Bear witness to the ether -- I'm a bastard to my core.",
       "explanation": "He's asking listeners to witness his lethal bars (ether, a reference to Nas's legendary diss track). He admits to being ruthless deep inside.",
@@ -645,6 +702,7 @@ export const sanki: Song = {
     },
     {
       "original": "Par apne bando ke liye I bring the guns out",
+      "devanagari": "पर अपने बंदों के लिए I bring the guns out",
       "speaker": "Aghor",
       "translation": "But for my people, I bring the guns out.",
       "explanation": "Despite being ruthless, he's fiercely protective of his crew and will go to war for them.",
@@ -652,6 +710,7 @@ export const sanki: Song = {
     },
     {
       "original": "Mehnat ka raasta naapta black pop i got the naans out",
+      "devanagari": "मेहनत का रास्ता नापता black pop I got the naans out",
       "speaker": "Aghor",
       "translation": "Walking the path of hard work, black pop -- I got the naans out.",
       "explanation": "He's grinding through the hard way. 'Naans out' is wordplay on 'guns out' -- naan being bread, representing earning food through hustle. 'Black pop' could refer to dark soda or coded drug reference.",
@@ -665,6 +724,7 @@ export const sanki: Song = {
     },
     {
       "original": "Wo rakhti sab out jab tak funds out",
+      "devanagari": "वो रखती सब out जब तक funds out",
       "speaker": "Aghor",
       "translation": "She keeps everything out until the funds run out.",
       "explanation": "Women are around as long as the money flows -- once the funds dry up, the support disappears. A cynical observation about relationships.",
@@ -672,6 +732,7 @@ export const sanki: Song = {
     },
     {
       "original": "Jale sab loud sangathan, Seedhe Maut, Raga, Pratham",
+      "devanagari": "जले सब loud संगठन, Seedhe Maut, Raga, Pratham",
       "speaker": "Aghor",
       "translation": "Everyone burns loud -- the organization: Seedhe Maut, Raga, Pratham.",
       "explanation": "Naming the collective on the track. They all light up (smoke) loudly and their organization (sangathan) burns bright in the scene.",
@@ -690,6 +751,7 @@ export const sanki: Song = {
     },
     {
       "original": "Dheet bade kutte aka ye sanki",
+      "devanagari": "ढीठ बड़े कुत्ते aka ये सनकी",
       "speaker": "Aghor",
       "translation": "Stubborn big dogs, aka these crazies.",
       "explanation": "They're headstrong and dominant like alpha dogs -- and they're all sanki (crazy).",
@@ -703,6 +765,7 @@ export const sanki: Song = {
     },
     {
       "original": "Chote kutto ki bali ye aka mancheez (From the front seat)",
+      "devanagari": "छोटे कुत्तों की बलि ये aka mancheez (From the front seat)",
       "speaker": "Aghor",
       "translation": "This is the sacrifice of small dogs, aka the main thing -- from the front seat.",
       "explanation": "The smaller, weaker rappers are sacrificed (bali) to the bigger dogs. 'Mancheez' could be wordplay on 'munchies' or 'main cheese' (the big thing).",
@@ -716,6 +779,7 @@ export const sanki: Song = {
     },
     {
       "original": "Mai dekhu Buzkashi jaise chalu hai betting season",
+      "devanagari": "मैं देखूँ Buzkashi जैसे चालू है betting season",
       "speaker": "Aghor",
       "translation": "I watch like Buzkashi -- the betting season is on.",
       "explanation": "Comparing the rap game to Buzkashi, a brutal Central Asian sport where riders fight over a goat carcass. He observes the competition like it's a violent game with stakes.",
@@ -729,6 +793,7 @@ export const sanki: Song = {
     },
     {
       "original": "Ye sipahi besakhi pe jeene ka na koi reason",
+      "devanagari": "ये सिपाही बैसाखी पे जीने का ना कोई reason",
       "speaker": "Aghor",
       "translation": "These soldiers on crutches have no reason to live.",
       "explanation": "He calls rival rappers wounded soldiers on crutches (besakhi) -- they're already damaged and have no purpose left.",
@@ -747,6 +812,7 @@ export const sanki: Song = {
     },
     {
       "original": "Teri pasli chatka du peeke jyada jaan ki na keemat",
+      "devanagari": "तेरी पसली चटका दूँ पीके ज़्यादा जान की ना कीमत",
       "speaker": "Aghor",
       "translation": "I'll crack your ribs after drinking too much -- life has no value.",
       "explanation": "When he's drunk, he'll break ribs without a second thought -- life means nothing in this world he's describing.",
@@ -760,6 +826,7 @@ export const sanki: Song = {
     },
     {
       "original": "Jinda bande dafna de leke edharam sahi keemat",
+      "devanagari": "ज़िंदा बंदे दफ़ना दे लेके इधरम सही कीमत",
       "speaker": "Aghor",
       "translation": "Bury a living person, take their belongings -- that's the real price.",
       "explanation": "Extremely dark imagery of burying someone alive and taking what's theirs. The 'sahi keemat' (real price) is cold-blooded and transactional.",
@@ -773,6 +840,7 @@ export const sanki: Song = {
     },
     {
       "original": "Friends with the monster asli kok ab plant kok",
+      "devanagari": "Friends with the monster असली coke अब plant coke",
       "speaker": "Aghor",
       "translation": "Friends with the monster -- real coke, now plant coke.",
       "explanation": "Referencing Eminem/Rihanna's 'Monster' while describing a transition from actual cocaine to plant-based substances. The duality of being friends with one's own darkness.",
@@ -791,6 +859,7 @@ export const sanki: Song = {
     },
     {
       "original": "Product apna khudka par bitches hoti sponsor",
+      "devanagari": "Product अपना ख़ुदका पर bitches होती sponsor",
       "speaker": "Aghor",
       "translation": "The product is our own, but bitches get sponsored.",
       "explanation": "Their music and hustle is self-made, but women show up when there's money and fame -- they become 'sponsored' by the lifestyle.",
@@ -798,6 +867,7 @@ export const sanki: Song = {
     },
     {
       "original": "Order naya pushpa bhi jhukta chehre pe bouncer",
+      "devanagari": "Order नया Pushpa भी झुकता चेहरे पे bouncer",
       "speaker": "Aghor",
       "translation": "New order -- even Pushpa bows, bouncer on the face.",
       "explanation": "Referencing the Pushpa movie dialogue 'Jhukega nahi' (won't bow) -- he says even Pushpa would bow before them. They have bouncers at the ready.",
@@ -811,6 +881,7 @@ export const sanki: Song = {
     },
     {
       "original": "Jalate poore ounces sanki Delhi ka sound bitch",
+      "devanagari": "जलाते पूरे ounces सनकी Delhi का sound bitch",
       "speaker": "Aghor",
       "translation": "Burning whole ounces -- Sanki is Delhi's sound, bitch.",
       "explanation": "They smoke entire ounces of weed and declare that this track represents Delhi's authentic sound.",
@@ -824,6 +895,7 @@ export const sanki: Song = {
     },
     {
       "original": "S-s-sanki, s-s-sanki, s-s-sanki, sanki s-s-sanki",
+      "devanagari": "स-स-सनकी, स-स-सनकी, स-स-सनकी, सनकी स-स-सनकी",
       "speaker": "Ikka",
       "translation": "Crazy, crazy, crazy, crazy, crazy.",
       "explanation": "Hook repeats before the final verse.",
@@ -831,6 +903,7 @@ export const sanki: Song = {
     },
     {
       "original": "S-s-sanki, s-s-sanki, s-s-sanki, sanki launde sanki",
+      "devanagari": "स-स-सनकी, स-स-सनकी, स-स-सनकी, सनकी लौंडे सनकी",
       "speaker": "Ikka",
       "translation": "Crazy, crazy, crazy -- the boys are crazy.",
       "explanation": "Hook continuation transitioning to Seedhe Maut's verse.",
@@ -838,6 +911,7 @@ export const sanki: Song = {
     },
     {
       "original": "Mai launde laakho dekhke chute",
+      "devanagari": "मैं लौंडे लाखों देखके छूटे",
       "speaker": "Calm & Encore ABJ",
       "translation": "I've seen hundreds of thousands of guys get left behind.",
       "explanation": "They've witnessed countless people fall off or get abandoned in the game. Experience has made them unfazed.",
@@ -845,6 +919,7 @@ export const sanki: Song = {
     },
     {
       "original": "To pohoche ghar paapi pet ka sawaal hai",
+      "devanagari": "तो पहुँचे घर पापी पेट का सवाल है",
       "speaker": "Calm & Encore ABJ",
       "translation": "Got to get home -- it's a question of the sinful stomach.",
       "explanation": "At the end of the day, the hustle is about survival -- feeding yourself. 'Paapi pet' is a classic Hindi expression for the stomach that drives people to do anything for food.",
@@ -858,6 +933,7 @@ export const sanki: Song = {
     },
     {
       "original": "Aaya black se makaan hai maya moki kamal hai",
+      "devanagari": "आया black से मकान है माया मोकी कमाल है",
       "speaker": "Calm & Encore ABJ",
       "translation": "Came from nothing, now there's a house -- the wealth and grind is incredible.",
       "explanation": "They rose from darkness (poverty) to owning a house. Maya (wealth/illusion) and the grind have produced something remarkable.",
@@ -876,6 +952,7 @@ export const sanki: Song = {
     },
     {
       "original": "Topi pehnate launde sanki khopdi pe chaate",
+      "devanagari": "टोपी पहनाते लौंडे सनकी खोपड़ी पे चाटे",
       "speaker": "Calm & Encore ABJ",
       "translation": "The crazy boys cap people and slap them on the head.",
       "explanation": "'Topi pehnana' means to fool someone. These sanki guys trick people and then smack them on the skull for good measure.",
@@ -894,6 +971,7 @@ export const sanki: Song = {
     },
     {
       "original": "Tokri ke bhaav mei bikoga hain sher khan",
+      "devanagari": "टोकरी के भाव में बिकोगा है Sher Khan",
       "speaker": "Calm & Encore ABJ",
       "translation": "Sher Khan will sell for the price of a basket.",
       "explanation": "Even someone who calls themselves a tiger (Sher Khan) is worthless in their eyes -- they'll sell cheap like goods in a basket.",
@@ -912,6 +990,7 @@ export const sanki: Song = {
     },
     {
       "original": "Aaye andar seedha maut aur ikka karne ched-chad",
+      "devanagari": "आए अंदर सीधा मौत और Ikka करने छेड़छाड़",
       "speaker": "Calm & Encore ABJ",
       "translation": "Seedhe Maut and Ikka came inside to cause havoc.",
       "explanation": "The collaboration between Seedhe Maut and Ikka is described as entering the scene to wreak havoc and mess things up for rivals.",
@@ -925,6 +1004,7 @@ export const sanki: Song = {
     },
     {
       "original": "Aaye bhussi bharne thasse mei kare hai dher kaand",
+      "devanagari": "आए भुस्सी भरने थस्से में करे है ढेर कांड",
       "speaker": "Calm & Encore ABJ",
       "translation": "Came to fill the magazine with chaff -- committed a heap of crimes.",
       "explanation": "They came loaded and ready to cause destruction. 'Bhussi' (chaff) filling a 'thassa' (magazine/chamber) is imagery of loading up. 'Dher kaand' means piling up incidents.",
@@ -943,6 +1023,7 @@ export const sanki: Song = {
     },
     {
       "original": "Hoye khud hi check agar fuddu spit kari tatti 8 paar",
+      "devanagari": "होए ख़ुद ही check अगर फ़ुड्डू spit करी टट्टी 8 पार",
       "speaker": "Calm & Encore ABJ",
       "translation": "Check yourself if you spit trash -- we've crossed 8 bars already.",
       "explanation": "Calling out wack rappers to self-evaluate. If their bars are garbage ('tatti'), they should take note that SM has already surpassed 8 bars of quality.",
@@ -961,6 +1042,7 @@ export const sanki: Song = {
     },
     {
       "original": "Yaha bande ghise gaand aur tu bas Reddit pe debate kar",
+      "devanagari": "यहाँ बंदे घिसे गाँड और तू बस Reddit पे debate कर",
       "speaker": "Calm & Encore ABJ",
       "translation": "Here guys grind their asses off, and you just debate on Reddit.",
       "explanation": "A direct shot at internet warriors and keyboard critics who debate about rap on Reddit instead of actually putting in work.",
@@ -974,6 +1056,7 @@ export const sanki: Song = {
     },
     {
       "original": "Hu mai Delhi chayanve ka sadak chap laundi baaz",
+      "devanagari": "हूँ मैं Delhi छ्यानवे का सड़क छाप लौंडी बाज़",
       "speaker": "Calm & Encore ABJ",
       "translation": "I'm Delhi '96, a street-certified womanizer.",
       "explanation": "Born in 1996, raised on Delhi streets -- 'sadak chap' means street-stamped/certified, and 'laundi baaz' means someone who chases women.",
@@ -997,6 +1080,7 @@ export const sanki: Song = {
     },
     {
       "original": "Jebo'n mei paise andhe aur launde aath",
+      "devanagari": "जेबों में पैसे अंधे और लौंडे आठ",
       "speaker": "Calm & Encore ABJ",
       "translation": "Pockets full of blind money and eight boys deep.",
       "explanation": "Their pockets are stuffed with cash ('andhe paise' -- excessive money) and they roll eight deep with their crew.",
@@ -1010,6 +1094,7 @@ export const sanki: Song = {
     },
     {
       "original": "Map pe puri Delhi aur paiso se karte dil ki baat",
+      "devanagari": "Map पे पूरी Delhi और पैसों से करते दिल की बात",
       "speaker": "Calm & Encore ABJ",
       "translation": "All of Delhi on the map, and money does the talking from the heart.",
       "explanation": "They represent all of Delhi and let their earnings speak for their authenticity and emotions.",
@@ -1017,6 +1102,7 @@ export const sanki: Song = {
     },
     {
       "original": "Hum harenge ni dhuaan",
+      "devanagari": "हम हारेंगे नी धुआँ",
       "speaker": "Calm & Encore ABJ",
       "translation": "We won't lose -- just smoke.",
       "explanation": "A defiant declaration that they will never lose. 'Dhuaan' (smoke) could reference smoking weed or leaving nothing but smoke (destruction) behind.",
@@ -1030,6 +1116,7 @@ export const sanki: Song = {
     },
     {
       "original": "Jab pada hukum ka ikka haatha mai khelte laakh mei",
+      "devanagari": "जब पड़ा हुकुम का इक्का हाथा मैं खेलते लाख में",
       "speaker": "Calm & Encore ABJ",
       "translation": "When the Ace of Spades lands in our hand, we play for lakhs.",
       "explanation": "A card game metaphor using 'hukum ka ikka' (Ace of Spades) -- when they get the right opportunity, they play for massive stakes. Also a wordplay on Ikka's name.",
@@ -1048,6 +1135,7 @@ export const sanki: Song = {
     },
     {
       "original": "Hum khelte the beyblades ko kadhai mei daalke",
+      "devanagari": "हम खेलते थे Beyblades को कढ़ाई में डालके",
       "speaker": "Calm & Encore ABJ",
       "translation": "We used to play Beyblades by throwing them in a wok.",
       "explanation": "A nostalgic Delhi childhood reference -- kids in the gully would spin Beyblades inside a kadhai (cooking wok) because they couldn't afford proper arenas. Shows resourceful, street-kid upbringing.",
@@ -1066,6 +1154,7 @@ export const sanki: Song = {
     },
     {
       "original": "Hum khelte the over stress ko padhai mei daalke",
+      "devanagari": "हम खेलते थे over stress को पढ़ाई में डालके",
       "speaker": "Calm & Encore ABJ",
       "translation": "We used to play through overstress by throwing ourselves into studies.",
       "explanation": "Despite the street life, they also faced academic pressure -- channeling stress into studies. Shows the duality of growing up in Delhi.",
@@ -1073,6 +1162,7 @@ export const sanki: Song = {
     },
     {
       "original": "Hum khelte the aise kue mei",
+      "devanagari": "हम खेलते थे ऐसे कुएँ में",
       "speaker": "Calm & Encore ABJ",
       "translation": "We used to play like that in a well.",
       "explanation": "Growing up in confined, limited spaces -- 'kua' (well) represents the tight, restricted environment of their childhood, like the 'kue ka mendhak' (frog in a well) idiom.",
@@ -1086,6 +1176,7 @@ export const sanki: Song = {
     },
     {
       "original": "Jaha hum saanp the yaha hum chuhe hai",
+      "devanagari": "जहाँ हम साँप थे यहाँ हम चूहे हैं",
       "speaker": "Calm & Encore ABJ",
       "translation": "Where we were snakes, here we are mice.",
       "explanation": "In one context they were the predators (snakes), in another they're the prey (mice). A commentary on how the power dynamic shifts depending on the environment.",
@@ -1093,6 +1184,7 @@ export const sanki: Song = {
     },
     {
       "original": "Sab charsi ghuth re hain dhue'in mei",
+      "devanagari": "सब चरसी घुट रहे हैं धुएँ में",
       "speaker": "Calm & Encore ABJ",
       "translation": "All the stoners are suffocating in the smoke.",
       "explanation": "Everyone around them is lost in a haze of marijuana smoke -- both literally and metaphorically drowning in the lifestyle.",
@@ -1106,6 +1198,7 @@ export const sanki: Song = {
     },
     {
       "original": "Unhe lagra badal saanse thame mai hu saatve aasmaan pe",
+      "devanagari": "उन्हें लगरा बादल साँसें थामे मैं हूँ सातवें आसमान पे",
       "speaker": "Calm & Encore ABJ",
       "translation": "They feel the clouds, holding their breath -- I'm on the seventh sky.",
       "explanation": "While others are barely touching the clouds (struggling to breathe/achieve), he's already on cloud nine -- the seventh heaven in Islamic tradition, meaning the highest point of bliss.",
@@ -1119,6 +1212,7 @@ export const sanki: Song = {
     },
     {
       "original": "Naam se jaan be kar salaam aur kar pranaam",
+      "devanagari": "नाम से जान बे कर सलाम और कर प्रणाम",
       "speaker": "Calm & Encore ABJ",
       "translation": "Know us by our name -- do salaam and bow down.",
       "explanation": "Their reputation precedes them. He demands respect from all -- using both 'salaam' (Islamic greeting) and 'pranaam' (Hindu greeting) to be inclusive of all backgrounds.",
@@ -1132,6 +1226,7 @@ export const sanki: Song = {
     },
     {
       "original": "Hum aaankh mei aankhe daalke",
+      "devanagari": "हम आँख में आँखें डालके",
       "speaker": "Calm & Encore ABJ",
       "translation": "We look you straight in the eyes.",
       "explanation": "They confront people directly, never backing down from eye contact -- a sign of fearlessness and confrontation.",
@@ -1139,6 +1234,7 @@ export const sanki: Song = {
     },
     {
       "original": "Jaanle teri neeyat sawaarle apni seerat",
+      "devanagari": "जानले तेरी नीयत सँवारले अपनी सीरत",
       "speaker": "Calm & Encore ABJ",
       "translation": "We know your intentions -- fix your own character.",
       "explanation": "They can see through people's true motives and advise them to work on their own character before judging others.",
@@ -1157,6 +1253,7 @@ export const sanki: Song = {
     },
     {
       "original": "Ni maare bhaga ke Beerus, hum khate paka ke T-Rex",
+      "devanagari": "नी मारे भगा के Beerus, हम खाते पका के T-Rex",
       "speaker": "Calm & Encore ABJ",
       "translation": "We don't kill by running like Beerus, we eat by cooking like a T-Rex.",
       "explanation": "They don't flee and destroy from a distance like Beerus (the destructive God from Dragon Ball Super) -- they hunt and feast like a T-Rex, devouring everything up close.",
@@ -1175,6 +1272,7 @@ export const sanki: Song = {
     },
     {
       "original": "Raasta sikhata dheeraj aur dono ne yaha tak kari bakchodi",
+      "devanagari": "रास्ता सिखाता धीरज और दोनों ने यहाँ तक करी बकचोदी",
       "speaker": "Calm & Encore ABJ",
       "translation": "The road teaches patience, and both of us have talked shit all the way here.",
       "explanation": "The journey taught them patience, and both Calm and Encore have been running their mouths (bakchodi) throughout their career to reach this point.",
@@ -1193,6 +1291,7 @@ export const sanki: Song = {
     },
     {
       "original": "Jo wo the lamhe mai thoda sa to hu sanki",
+      "devanagari": "जो वो थे लम्हे मैं थोड़ा सा तो हूँ सनकी",
       "speaker": "Calm & Encore ABJ",
       "translation": "Because of those moments, I'm a little bit crazy.",
       "explanation": "Their past experiences and struggles have made them unhinged -- those defining moments shaped their 'sanki' nature.",
@@ -1200,6 +1299,7 @@ export const sanki: Song = {
     },
     {
       "original": "Aur jitne show lage kam hai aaye milne to nahi hai samay",
+      "devanagari": "और जितने show लगे कम है आए मिलने तो नहीं है समय",
       "speaker": "Calm & Encore ABJ",
       "translation": "And however many shows there are, it's not enough -- if you come to meet, there's no time.",
       "explanation": "They're so busy with performances that they can't even make time for people who want to meet them. The grind never stops.",
@@ -1207,6 +1307,7 @@ export const sanki: Song = {
     },
     {
       "original": "Aaye bhidne to muhrat sahi hai",
+      "devanagari": "आए भिड़ने तो मुहूर्त सही है",
       "speaker": "Calm & Encore ABJ",
       "translation": "If you've come to clash, the time is right.",
       "explanation": "If someone wants to confront them, the moment is now -- they're always ready for battle.",
@@ -1220,6 +1321,7 @@ export const sanki: Song = {
     },
     {
       "original": "Yaha bande Thug Sangathan hai launde",
+      "devanagari": "यहाँ बंदे Thug संगठन है लौंडे",
       "speaker": "Calm & Encore ABJ",
       "translation": "Here the guys are a Thug Organization -- these boys.",
       "explanation": "Declaring their crew as a 'Thug Sangathan' -- an organized group of thugs, referencing both street gang culture and the historical Thuggee.",
@@ -1233,6 +1335,7 @@ export const sanki: Song = {
     },
     {
       "original": "Saas le saas le mere sheher ka dhua soong aur fefde faad le",
+      "devanagari": "साँस ले साँस ले मेरे शहर का धुआँ सूँघ और फेफड़े फाड़ ले",
       "speaker": "Calm & Encore ABJ",
       "translation": "Breathe, breathe -- inhale my city's smoke and tear your lungs apart.",
       "explanation": "Delhi is famously polluted. He's telling rivals to come breathe Delhi's toxic air -- the city itself will destroy them. Also a double reference to smoking weed.",
@@ -1251,6 +1354,7 @@ export const sanki: Song = {
     },
     {
       "original": "Cheekh par pyaar se chapki yaha palak aur chum li maine falak",
+      "devanagari": "चीख पर प्यार से चपकी यहाँ पलक और चूम ली मैंने फ़लक",
       "speaker": "Calm & Encore ABJ",
       "translation": "Screamed, but lovingly planted a kiss -- blinked and I kissed the sky.",
       "explanation": "Despite the aggression, there's a tender moment -- he screams but also kisses gently. 'Chum li falak' (kissed the sky) means reaching the highest point, a poetic contrast to the violence.",
@@ -1264,6 +1368,7 @@ export const sanki: Song = {
     },
     {
       "original": "Ye sar gaya hai sanak to kaano pe pade tere sann",
+      "devanagari": "ये सर गया है सनक तो कानों पे पड़े तेरे सन्न",
       "speaker": "Calm & Encore ABJ",
       "translation": "This head has gone crazy -- a ringing hits your ears.",
       "explanation": "His mind has gone off the rails with madness, and the impact of his words leaves a ringing (sann) in the listener's ears -- like a slap.",
@@ -1282,6 +1387,7 @@ export const sanki: Song = {
     },
     {
       "original": "Sann sann sanki",
+      "devanagari": "सन्न सन्न सनकी",
       "speaker": "Calm & Encore ABJ",
       "translation": "Ringing, ringing -- crazy.",
       "explanation": "The track closes with the ringing sound effect blending into 'sanki' -- the craziness literally reverberates and echoes, leaving the listener stunned.",

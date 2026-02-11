@@ -10,6 +10,7 @@ export const dehshat: Song = {
   "lyrics": [
     {
       "original": "Sez on the beat boy",
+      "romanized": "Sez on the beat boy",
       "speaker": "Seedhe Maut",
       "translation": "Sez on the beat, boy.",
       "explanation": "The signature producer tag of Sez on the Beat, who produced this track and is a pioneer in the Indian Hip Hop scene.",
@@ -23,6 +24,7 @@ export const dehshat: Song = {
     },
     {
       "original": "जो बोले फालतू ले लो खोपचे में (खोपचे में)",
+      "romanized": "Jo bole phaaltoo le lo khopche men (khopche men)",
       "speaker": "Chorus",
       "translation": "Whoever talks nonsense, take them to a corner.",
       "explanation": "'Khopcha' is slang for a secluded corner or spot, usually implying taking someone aside to settle a score or beat them up.",
@@ -46,6 +48,7 @@ export const dehshat: Song = {
     },
     {
       "original": "यहाँ चले हाथी, कुत्ते भौंकते रहे",
+      "romanized": "Yahaan chale haathee, kutte bhaunkte rahe",
       "speaker": "Chorus",
       "translation": "Elephants walk here while the dogs keep barking.",
       "explanation": "A variation of the popular Hindi proverb 'Haathi chale bazaar, kutte bhonke hazaar,' signifying that the duo continues their journey regardless of critics.",
@@ -59,6 +62,7 @@ export const dehshat: Song = {
     },
     {
       "original": "चौंकते रहे सीखों सालों चौंकते रहे (चौंकते रहे)",
+      "romanized": "Chaunkte rahe seekhon saalon chaunkte rahe (chaunkte rahe)",
       "speaker": "Chorus",
       "translation": "Stay shocked; keep learning, you losers, stay shocked.",
       "explanation": "Telling their competition to keep watching in awe and learn from their skills while being stunned by their success.",
@@ -72,6 +76,7 @@ export const dehshat: Song = {
     },
     {
       "original": "मैं खोलूँ राह, माँ बोले top पे रह",
+      "romanized": "Main kholoon raah, maan bole top pe rah",
       "speaker": "Chorus",
       "translation": "I pave the way, Mom says stay at the top.",
       "explanation": "Expressing the ambition to lead the scene while fulfilling their parents' wishes for success.",
@@ -79,6 +84,7 @@ export const dehshat: Song = {
     },
     {
       "original": "झंडा गाड़ा बूंदें फांदी दहशत है (Yo)",
+      "romanized": "Jhandaa gaaraa boonden phaandee dahsht hai (Yo)",
       "speaker": "Chorus",
       "translation": "Planted the flag, jumped across boundaries, there is terror.",
       "explanation": "'Jhanda Gaada' means to establish dominance. 'Dehshat' refers to the fear/awe they inspire in the industry.",
@@ -96,6 +102,7 @@ export const dehshat: Song = {
     },
     {
       "original": "इनको आता नहीं घंटा को झंटू वेहेम हद है",
+      "romanized": "Inko aataa naheen ghantaa ko jhantoo vehem had hai",
       "speaker": "Chorus",
       "translation": "They don't know a damn thing; these nobodies are delusional beyond limits.",
       "explanation": "'Ghanta' is slang for 'nothing/zero.' 'Jhantu' is a derogatory term for someone insignificant or useless.",
@@ -119,6 +126,7 @@ export const dehshat: Song = {
     },
     {
       "original": "पीते BP का खंभा और रहते सहमत हैं (क्यूँ)",
+      "romanized": "Peete BP kaa khanbhaa aur rahte sahmt hain (kyoon)",
       "speaker": "Chorus",
       "translation": "Drinking a full bottle of BP and they stay agreeable.",
       "explanation": "'BP' likely refers to 'Bonne Pierre' (a brand of alcohol) or Blood Pressure. 'Khamba' is slang for a full 750ml bottle.",
@@ -136,6 +144,7 @@ export const dehshat: Song = {
     },
     {
       "original": "इनसे भिड़ेगा तो काका रहेम रद्द है",
+      "romanized": "Inse bhiregaa to kaakaa rahem radd hai",
       "speaker": "Chorus",
       "translation": "If you clash with them, kid, mercy is cancelled.",
       "explanation": "'Kaka' is a term for a boy or kid. It's a warning that there will be no mercy for those who oppose them.",
@@ -159,6 +168,7 @@ export const dehshat: Song = {
     },
     {
       "original": "ये बस sample है, BT है तो add जा",
+      "romanized": "Ye bas sample hai, BT hai to add jaa",
       "speaker": "Chorus",
       "translation": "This is just a sample; if it's a bad trip, then get lost.",
       "explanation": "'BT' stands for 'Bad Trip' (bad experience). 'Add ja' is SM/Delhi slang for telling someone to leave or 'fuck off'.",
@@ -182,6 +192,7 @@ export const dehshat: Song = {
     },
     {
       "original": "सहम जा, बेटे सहम जा",
+      "romanized": "Sahm jaa, bete sahm jaa",
       "speaker": "Encore ABJ",
       "translation": "Cower down, son, cower down.",
       "explanation": "Encore is asserting dominance over an opponent, telling them to feel the fear.",
@@ -189,6 +200,7 @@ export const dehshat: Song = {
     },
     {
       "original": "तोहफ़े में छूरी छुपाके ओढ़ेगा भेंस हाँ",
+      "romanized": "Tohfe men chhooree chhupaake orhegaa bhens haan",
       "speaker": "Encore ABJ",
       "translation": "Hiding a knife in a gift, you'll wear the buffalo skin.",
       "explanation": "A play on the 'wolf in sheep's clothing' trope, suggesting betrayal and ruggedness.",
@@ -203,6 +215,7 @@ export const dehshat: Song = {
     },
     {
       "original": "आ के ज़रा लेट जा",
+      "romanized": "Aa ke zaraa let jaa",
       "speaker": "Encore ABJ",
       "translation": "Come and just lie down.",
       "explanation": "Likely a threat, implying the opponent will be knocked out or put in a grave.",
@@ -217,6 +230,7 @@ export const dehshat: Song = {
     },
     {
       "original": "मैं तेरे बिस्तर के नीचे तू बोले \"कौन है?\"",
+      "romanized": "Main tere bistr ke neeche too bole \"kaun hai?\"",
       "speaker": "Encore ABJ",
       "translation": "I'm under your bed, you ask \"Who is it?\"",
       "explanation": "Using horror imagery to describe how he haunts the thoughts of his rivals.",
@@ -224,6 +238,7 @@ export const dehshat: Song = {
     },
     {
       "original": "मैं बोला \"Santa\"",
+      "romanized": "Main bolaa \"Santa\"",
       "speaker": "Encore ABJ",
       "translation": "I said \"Santa.\"",
       "explanation": "A sarcastic, witty follow-up to the previous line, juxtaposing terror with a jolly figure.",
@@ -238,6 +253,7 @@ export const dehshat: Song = {
     },
     {
       "original": "बैठी सभा में ना जाऊँ",
+      "romanized": "Baithee sabhaa men naa jaaoon",
       "speaker": "Encore ABJ",
       "translation": "I don't go to the seated gatherings.",
       "explanation": "Indicates avoiding mainstream industry circles or 'tables' where people just talk instead of doing.",
@@ -245,6 +261,7 @@ export const dehshat: Song = {
     },
     {
       "original": "खोजूँ सोना मैं, ना मैं हीरा हूँ",
+      "romanized": "Khojoon sonaa main, naa main heeraa hoon",
       "speaker": "Encore ABJ",
       "translation": "I search for gold, I am not a diamond.",
       "explanation": "Contrast between the grind (mining for gold) and just being a finished product (diamond).",
@@ -252,6 +269,7 @@ export const dehshat: Song = {
     },
     {
       "original": "सोचूँ कहीं चमकूँ तो तू खो जाये ना",
+      "romanized": "Sochoon kaheen chamkoon to too kho jaaye naa",
       "speaker": "Encore ABJ",
       "translation": "I worry if I shine bright, you might get lost.",
       "explanation": "A flex suggesting his success is so blinding it would make the opponent irrelevant.",
@@ -259,6 +277,7 @@ export const dehshat: Song = {
     },
     {
       "original": "बेमानी ये ज़्यादा सही रहूँ",
+      "romanized": "Bemaanee ye zyaadaa sahee rahoon",
       "speaker": "Encore ABJ",
       "translation": "This dishonesty feels more right.",
       "explanation": "Implying that following his own 'unfair' path is better than the conventional 'fair' one.",
@@ -266,6 +285,7 @@ export const dehshat: Song = {
     },
     {
       "original": "बेनाम ही हाँ",
+      "romanized": "Benaam hee haan",
       "speaker": "Encore ABJ",
       "translation": "Nameless, yes.",
       "explanation": "Preferring the anonymity of the hustle over the vanity of fame.",
@@ -273,6 +293,7 @@ export const dehshat: Song = {
     },
     {
       "original": "तू कहे ना हाँ में हाँ",
+      "romanized": "Too kahe naa haan men haan",
       "speaker": "Encore ABJ",
       "translation": "You don't say yes to my yes.",
       "explanation": "He doesn't want sycophants or yes-men around him.",
@@ -280,6 +301,7 @@ export const dehshat: Song = {
     },
     {
       "original": "तो खायेगा का में? हाँ में हाँ",
+      "romanized": "To khaayegaa kaa men? Haan men haan",
       "speaker": "Encore ABJ",
       "translation": "Then what will you eat? Just nodding along.",
       "explanation": "Wordplay on how being a 'yes-man' doesn't provide real sustenance or growth.",
@@ -287,6 +309,7 @@ export const dehshat: Song = {
     },
     {
       "original": "होनी तो टाल",
+      "romanized": "Honee to taal",
       "speaker": "Encore ABJ",
       "translation": "Avert the inevitable.",
       "explanation": "A challenge to try and stop what is meant to happen.",
@@ -294,6 +317,7 @@ export const dehshat: Song = {
     },
     {
       "original": "होने को हुये हैं साल",
+      "romanized": "Hone ko huye hain saal",
       "speaker": "Encore ABJ",
       "translation": "Years have passed.",
       "explanation": "Acknowledging the long duration of their struggle and journey in rap.",
@@ -301,6 +325,7 @@ export const dehshat: Song = {
     },
     {
       "original": "लेकिन अब ज़बान चखे वक़्त",
+      "romanized": "Lekin ab zabaan chakhe vaqt",
       "speaker": "Encore ABJ",
       "translation": "But now the tongue tastes the time.",
       "explanation": "A metaphor for finally reaping the rewards of their patience and hard work.",
@@ -308,6 +333,7 @@ export const dehshat: Song = {
     },
     {
       "original": "बोले कामयाबी पास है",
+      "romanized": "Bole kaamyaabee paas hai",
       "speaker": "Encore ABJ",
       "translation": "It says success is near.",
       "explanation": "The current era feels like they are on the brink of massive success.",
@@ -315,6 +341,7 @@ export const dehshat: Song = {
     },
     {
       "original": "पहले हज़ार चाहने वालों को भी शक था",
+      "romanized": "Pahle hazaar chaahne vaalon ko bhee shak thaa",
       "speaker": "Encore ABJ",
       "translation": "Earlier, even the first thousand fans had doubts.",
       "explanation": "Reflecting on the early days when their sound was new and even their base wasn't fully convinced.",
@@ -322,6 +349,7 @@ export const dehshat: Song = {
     },
     {
       "original": "आज हेटरो को भी है मुझपे नाज़",
+      "romanized": "Aaj hetro ko bhee hai mujhpe naaz",
       "speaker": "Encore ABJ",
       "translation": "Today, even the haters are proud of me.",
       "explanation": "They have reached such a level that even their detractors have to respect their craft.",
@@ -341,6 +369,7 @@ export const dehshat: Song = {
     },
     {
       "original": "जो बोले फालतू ले लो खोपचे में (खोपचे में)",
+      "romanized": "Jo bole phaaltoo le lo khopche men (khopche men)",
       "speaker": "Chorus",
       "translation": "Whoever talks nonsense, take them to a corner.",
       "explanation": "Repeat of chorus.",
@@ -355,6 +384,7 @@ export const dehshat: Song = {
     },
     {
       "original": "यहाँ चले हाथी, कुत्ते भौंकते रहे",
+      "romanized": "Yahaan chale haathee, kutte bhaunkte rahe",
       "speaker": "Chorus",
       "translation": "Elephants walk here while the dogs keep barking.",
       "explanation": "Repeat of chorus.",
@@ -362,6 +392,7 @@ export const dehshat: Song = {
     },
     {
       "original": "चौंकते रहे सीखों सालों चौंकते रहे (चौंकते रहे)",
+      "romanized": "Chaunkte rahe seekhon saalon chaunkte rahe (chaunkte rahe)",
       "speaker": "Chorus",
       "translation": "Stay shocked; keep learning, you losers, stay shocked.",
       "explanation": "Repeat of chorus.",
@@ -369,6 +400,7 @@ export const dehshat: Song = {
     },
     {
       "original": "मैं खोलूँ राह, माँ बोले top पे रह",
+      "romanized": "Main kholoon raah, maan bole top pe rah",
       "speaker": "Chorus",
       "translation": "I pave the way, Mom says stay at the top.",
       "explanation": "Repeat of chorus.",
@@ -376,6 +408,7 @@ export const dehshat: Song = {
     },
     {
       "original": "झंडा गाड़ा बूंदें फांदी दहशत है (Yo)",
+      "romanized": "Jhandaa gaaraa boonden phaandee dahsht hai (Yo)",
       "speaker": "Chorus",
       "translation": "Planted the flag, jumped across boundaries, there is terror.",
       "explanation": "Repeat of chorus.",
@@ -383,6 +416,7 @@ export const dehshat: Song = {
     },
     {
       "original": "इनको आता नहीं घंटा को झंटू वेहेम हद है",
+      "romanized": "Inko aataa naheen ghantaa ko jhantoo vehem had hai",
       "speaker": "Chorus",
       "translation": "They don't know a damn thing; these nobodies are delusional beyond limits.",
       "explanation": "Repeat of chorus.",
@@ -390,6 +424,7 @@ export const dehshat: Song = {
     },
     {
       "original": "पीते BP का खंभा और रहते सहमत हैं (क्यूँ)",
+      "romanized": "Peete BP kaa khanbhaa aur rahte sahmt hain (kyoon)",
       "speaker": "Chorus",
       "translation": "Drinking a full bottle of BP and they stay agreeable.",
       "explanation": "Repeat of chorus.",
@@ -397,6 +432,7 @@ export const dehshat: Song = {
     },
     {
       "original": "इनसे भिड़ेगा तो काका रहेम रद्द है",
+      "romanized": "Inse bhiregaa to kaakaa rahem radd hai",
       "speaker": "Chorus",
       "translation": "If you clash with them, kid, mercy is cancelled.",
       "explanation": "Repeat of chorus.",
@@ -404,6 +440,7 @@ export const dehshat: Song = {
     },
     {
       "original": "ये बस sample है, BT है तो add जा",
+      "romanized": "Ye bas sample hai, BT hai to add jaa",
       "speaker": "Chorus",
       "translation": "This is just a sample; if it's a bad trip, then get lost.",
       "explanation": "Repeat of chorus.",
@@ -411,6 +448,7 @@ export const dehshat: Song = {
     },
     {
       "original": "मुँह खोल उतना जितना खुद भी बेटा सह पा",
+      "romanized": "Munh khol utnaa jitnaa khud bhee betaa sah paa",
       "speaker": "Calm",
       "translation": "Open your mouth only as much as you can handle yourself, son.",
       "explanation": "Warning others to only talk as much 'shit' as they can back up or endure in return.",
@@ -418,6 +456,7 @@ export const dehshat: Song = {
     },
     {
       "original": "चल एक ग़लत चाल और गिरेगा खेल है ये जेंगा",
+      "romanized": "Chal ek galt chaal aur giregaa khel hai ye jengaa",
       "speaker": "Calm",
       "translation": "One wrong move and it'll fall; this game is Jenga.",
       "explanation": "Metaphor for the rap game/life where one mistake can lead to a total collapse.",
@@ -431,6 +470,7 @@ export const dehshat: Song = {
     },
     {
       "original": "जाते-जाते किवाड़ अच्छे से भेड़ जा",
+      "romanized": "Jaate-jaate kivaar achchhe se bher jaa",
       "speaker": "Calm",
       "translation": "On your way out, shut the door properly.",
       "explanation": "'Bhed ja' is a regional term for closing/shutting. Calm is telling a rival to leave the scene.",
@@ -438,6 +478,7 @@ export const dehshat: Song = {
     },
     {
       "original": "झंडा गाड़ा बूंदें फाड़ी अभी दहशत है",
+      "romanized": "Jhandaa gaaraa boonden phaaree abhee dahsht hai",
       "speaker": "Calm",
       "translation": "Planted the flag, ripped things apart, there's terror now.",
       "explanation": "Variation of the hook, emphasizing their current dominance.",
@@ -452,6 +493,7 @@ export const dehshat: Song = {
     },
     {
       "original": "उड़ेगा जो-जो छिटेगा",
+      "romanized": "Uregaa jo-jo chhitegaa",
       "speaker": "Calm",
       "translation": "Whoever flies will get scattered.",
       "explanation": "Likely referring to the aftermath of a clash—anyone who tries to step up will be destroyed.",
@@ -466,6 +508,7 @@ export const dehshat: Song = {
     },
     {
       "original": "दे दो भी लड़ोगे रो दोगे",
+      "romanized": "De do bhee laroge ro doge",
       "speaker": "Calm",
       "translation": "Even if you fight, you'll end up crying.",
       "explanation": "No matter how much effort the opponent puts in, they will lose.",
@@ -480,6 +523,7 @@ export const dehshat: Song = {
     },
     {
       "original": "खोजोगे तो में जो दोजो में",
+      "romanized": "Khojoge to men jo dojo men",
       "speaker": "Calm",
       "translation": "You'll look for me in the Dojo.",
       "explanation": "A 'Dojo' is a place for martial arts training; Calm implies he is always training and honing his skills like a warrior.",
@@ -493,6 +537,7 @@ export const dehshat: Song = {
     },
     {
       "original": "बैठा लेके पूरी सेना को आँखों से खेलूँगा गोटी मैं",
+      "romanized": "Baithaa leke pooree senaa ko aankhon se kheloongaa gotee main",
       "speaker": "Calm",
       "translation": "Sitting with my whole army, I'll play with your eyes like marbles.",
       "explanation": "Very aggressive imagery. 'Goti' refers to marbles or pieces in a game.",
@@ -506,6 +551,7 @@ export const dehshat: Song = {
     },
     {
       "original": "गोगो में top हूँ मैं loco भी तो कभी सोचूँ",
+      "romanized": "Gogo men top hoon main loco bhee to kabhee sochoon",
       "speaker": "Calm",
       "translation": "I'm at the top in Gogo, sometimes I think I'm crazy too.",
       "explanation": "'Loco' is Spanish for crazy. Calm acknowledges his own obsessive/mad energy.",
@@ -519,6 +565,7 @@ export const dehshat: Song = {
     },
     {
       "original": "कि घोंचू से रोकेंगे कैसे खुद भोज हैं जो वैसे भी (यूह)",
+      "romanized": "Ki ghonchoo se rokenge kaise khud bhoj hain jo vaise bhee (yooh)",
       "speaker": "Calm",
       "translation": "How will these fools stop me when they are a feast anyway?",
       "explanation": "'Ghonchu' is slang for a fool. 'Bhoj' means a feast—meaning the rivals are just prey/food for him.",
@@ -536,6 +583,7 @@ export const dehshat: Song = {
     },
     {
       "original": "ठीक है ये बस ठीक है क्या मेरा ये peak है (ना)",
+      "romanized": "Theek hai ye bas theek hai kyaa meraa ye peak hai (naa)",
       "speaker": "Calm",
       "translation": "It's okay, this is just okay; is this my peak? (No).",
       "explanation": "Even though they are successful, Calm believes they haven't even reached their full potential yet.",
@@ -549,6 +597,7 @@ export const dehshat: Song = {
     },
     {
       "original": "Elite ही league है अलग गीक है बजाने की वजह",
+      "romanized": "Elite hee league hai alg geek hai bajaane kee vajh",
       "speaker": "Calm",
       "translation": "The league is elite, the obsession (geek) to win is different.",
       "explanation": "They play at a level above the rest, driven by a 'geeky' or technical obsession with rap.",
@@ -562,6 +611,7 @@ export const dehshat: Song = {
     },
     {
       "original": "उगाले दो पहले तो फिर आके बोल पर दो बार सोच पहले बोलने से",
+      "romanized": "Ugaale do pahle to phir aake bol par do baar soch pahle bolne se",
       "speaker": "Calm",
       "translation": "Spit it out first, then come and talk, but think twice before speaking.",
       "explanation": "Telling others to be sure of their skills before trying to address or challenge them.",
@@ -569,6 +619,7 @@ export const dehshat: Song = {
     },
     {
       "original": "रहियो बचकर यहाँ",
+      "romanized": "Rahiyo bachkr yahaan",
       "speaker": "Calm",
       "translation": "Stay safe/cautious here.",
       "explanation": "A final warning that the environment (or their level) is dangerous for outsiders.",
@@ -576,6 +627,7 @@ export const dehshat: Song = {
     },
     {
       "original": "जो बोले फालतू ले लो खोपचे में (खोपचे में)",
+      "romanized": "Jo bole phaaltoo le lo khopche men (khopche men)",
       "speaker": "Chorus",
       "translation": "Whoever talks nonsense, take them to a corner.",
       "explanation": "Repeat of chorus.",
@@ -583,6 +635,7 @@ export const dehshat: Song = {
     },
     {
       "original": "यहाँ चले हाथी, कुत्ते भौंकते रहे",
+      "romanized": "Yahaan chale haathee, kutte bhaunkte rahe",
       "speaker": "Chorus",
       "translation": "Elephants walk here while the dogs keep barking.",
       "explanation": "Repeat of chorus.",
@@ -590,6 +643,7 @@ export const dehshat: Song = {
     },
     {
       "original": "चौंकते रहे सीखों सालों चौंकते रहे (चौंकते रहे)",
+      "romanized": "Chaunkte rahe seekhon saalon chaunkte rahe (chaunkte rahe)",
       "speaker": "Chorus",
       "translation": "Stay shocked; keep learning, you losers, stay shocked.",
       "explanation": "Repeat of chorus.",
@@ -597,6 +651,7 @@ export const dehshat: Song = {
     },
     {
       "original": "मैं खोलूँ राह, माँ बोले top पे रह",
+      "romanized": "Main kholoon raah, maan bole top pe rah",
       "speaker": "Chorus",
       "translation": "I pave the way, Mom says stay at the top.",
       "explanation": "Repeat of chorus.",
@@ -604,6 +659,7 @@ export const dehshat: Song = {
     },
     {
       "original": "झंडा गाड़ा बूंदें फांदी दहशत है (Yo)",
+      "romanized": "Jhandaa gaaraa boonden phaandee dahsht hai (Yo)",
       "speaker": "Chorus",
       "translation": "Planted the flag, jumped across boundaries, there is terror.",
       "explanation": "Repeat of chorus.",
@@ -611,6 +667,7 @@ export const dehshat: Song = {
     },
     {
       "original": "इनको आता नहीं घंटा को झंटू वेहेम हद है",
+      "romanized": "Inko aataa naheen ghantaa ko jhantoo vehem had hai",
       "speaker": "Chorus",
       "translation": "They don't know a damn thing; these nobodies are delusional beyond limits.",
       "explanation": "Repeat of chorus.",
@@ -618,6 +675,7 @@ export const dehshat: Song = {
     },
     {
       "original": "पीते BP का खंभा और रहते सहमत हैं (क्यूँ)",
+      "romanized": "Peete BP kaa khanbhaa aur rahte sahmt hain (kyoon)",
       "speaker": "Chorus",
       "translation": "Drinking a full bottle of BP and they stay agreeable.",
       "explanation": "Repeat of chorus.",
@@ -625,6 +683,7 @@ export const dehshat: Song = {
     },
     {
       "original": "इनसे भिड़ेगा तो काका रहेम रद्द है",
+      "romanized": "Inse bhiregaa to kaakaa rahem radd hai",
       "speaker": "Chorus",
       "translation": "If you clash with them, kid, mercy is cancelled.",
       "explanation": "Repeat of chorus.",
@@ -632,6 +691,7 @@ export const dehshat: Song = {
     },
     {
       "original": "ये बस sample है, BT है तो add जा",
+      "romanized": "Ye bas sample hai, BT hai to add jaa",
       "speaker": "Chorus",
       "translation": "This is just a sample; if it's a bad trip, then get lost.",
       "explanation": "Repeat of chorus.",

@@ -9,6 +9,7 @@ export const guldasta: Song = {
   "lyrics": [
     {
       "original": "तू लगे गुलदस्ता है",
+      "romanized": "too lage guladastaa hai",
       "speaker": "Encore ABJ",
       "translation": "You look like a bouquet of flowers.",
       "explanation": "Encore starts the song with a compliment, comparing the girl's beauty and freshness to a bouquet.",
@@ -22,6 +23,7 @@ export const guldasta: Song = {
     },
     {
       "original": "फूलों की घाटी के फूलों का",
+      "romanized": "phoolon kee ghaatee ke phoolon kaa",
       "speaker": "Encore ABJ",
       "translation": "Made of flowers from the Valley of Flowers.",
       "explanation": "A reference to the 'Valley of Flowers' in Uttarakhand, highlighting Encore's Pahadi (Himalayan) roots and implying she is rare and natural.",
@@ -35,6 +37,7 @@ export const guldasta: Song = {
     },
     {
       "original": "For a fact",
+      "romanized": "For a fact",
       "speaker": "Encore ABJ",
       "translation": "And that's a fact.",
       "explanation": "Emphasizing that his praise isn't just poetry, but an undeniable truth.",
@@ -42,6 +45,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मखमली girl",
+      "romanized": "makhamalee girl",
       "speaker": "Encore ABJ",
       "translation": "Velvety-smooth girl.",
       "explanation": "Describing her aura or skin as soft and luxurious like velvet.",
@@ -55,6 +59,7 @@ export const guldasta: Song = {
     },
     {
       "original": "She's hotter than",
+      "romanized": "She's hotter than",
       "speaker": "Encore ABJ",
       "translation": "She's hotter than",
       "explanation": "Setting up a comparison for her 'hotness'.",
@@ -62,6 +67,7 @@ export const guldasta: Song = {
     },
     {
       "original": "Pashmina shawl",
+      "romanized": "Pashmina shawl",
       "speaker": "Encore ABJ",
       "translation": "A Pashmina shawl.",
       "explanation": "Pashmina is a premium, warm wool from Kashmir. He uses it as a metaphor for her literal 'hotness' and her premium quality.",
@@ -81,6 +87,7 @@ export const guldasta: Song = {
     },
     {
       "original": "I’ll call her back tonight",
+      "romanized": "I’ll call her back tonight",
       "speaker": "Encore ABJ",
       "translation": "I'll call her back tonight.",
       "explanation": "A simple statement showing his intent to keep the connection going.",
@@ -88,6 +95,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू लगे गुलदस्ता है",
+      "romanized": "too lage guladastaa hai",
       "speaker": "Encore ABJ",
       "translation": "You look like a bouquet.",
       "explanation": "Repetition of the hook emphasizing the central theme.",
@@ -95,6 +103,7 @@ export const guldasta: Song = {
     },
     {
       "original": "फूलों की घाटी के फूलों का",
+      "romanized": "phoolon kee ghaatee ke phoolon kaa",
       "speaker": "Encore ABJ",
       "translation": "Made of flowers from the Valley of Flowers.",
       "explanation": "Reinforcing the imagery of rare, Himalayan beauty.",
@@ -102,6 +111,7 @@ export const guldasta: Song = {
     },
     {
       "original": "For a fact",
+      "romanized": "For a fact",
       "speaker": "Encore ABJ",
       "translation": "For a fact.",
       "explanation": "Emphasis on truth.",
@@ -109,6 +119,7 @@ export const guldasta: Song = {
     },
     {
       "original": "पीछे पड़ा तेरे",
+      "romanized": "peechhe pa tere",
       "speaker": "Encore ABJ",
       "translation": "I'm chasing after you.",
       "explanation": "Expressing his pursuit and infatuation.",
@@ -116,6 +127,7 @@ export const guldasta: Song = {
     },
     {
       "original": "भौंरा मैं",
+      "romanized": "bhaunraa main",
       "speaker": "Encore ABJ",
       "translation": "Like a bumblebee.",
       "explanation": "Continuing the flower metaphor; if she is the flower, he is the 'Bhaunra' (bee) hovering around her.",
@@ -129,6 +141,7 @@ export const guldasta: Song = {
     },
     {
       "original": "देखूं जिधर",
+      "romanized": "dekhoon jidhar",
       "speaker": "Encore ABJ",
       "translation": "Wherever I look.",
       "explanation": "Indicating his tunnel vision for her.",
@@ -136,6 +149,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मुझे तू ही दे दिखाई",
+      "romanized": "mujhe too hee de dikhaaee",
       "speaker": "Encore ABJ",
       "translation": "You're the only one I see.",
       "explanation": "She has occupied his entire field of vision and thoughts.",
@@ -143,6 +157,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू ही",
+      "romanized": "too hee",
       "speaker": "Encore ABJ",
       "translation": "Only you.",
       "explanation": "Emphasis on her being the one.",
@@ -150,6 +165,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू ही दे दिखाई",
+      "romanized": "too hee de dikhaaee",
       "speaker": "Encore ABJ",
       "translation": "Only you are visible.",
       "explanation": "Reinforcement of the previous line.",
@@ -157,6 +173,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मुझे बस तू ही",
+      "romanized": "mujhe bas too hee",
       "speaker": "Encore ABJ",
       "translation": "To me, just you.",
       "explanation": "Highlighting his exclusivity.",
@@ -164,6 +181,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू ही दे दिखाई",
+      "romanized": "too hee de dikhaaee",
       "speaker": "Encore ABJ",
       "translation": "Only you appear to me.",
       "explanation": "Final repetition of the hook's conclusion.",
@@ -171,6 +189,7 @@ export const guldasta: Song = {
     },
     {
       "original": "हम दोनों एक कश्ती में सवार",
+      "romanized": "ham donon ek kashtee men savaar",
       "speaker": "Encore ABJ",
       "translation": "We are both riding in the same boat.",
       "explanation": "A metaphor for being in the same situation or a shared journey of a relationship.",
@@ -184,6 +203,7 @@ export const guldasta: Song = {
     },
     {
       "original": "कश्ती में छेद",
+      "romanized": "kashtee men chhed",
       "speaker": "Encore ABJ",
       "translation": "(But) there's a hole in the boat.",
       "explanation": "Suggests that the relationship or the situation has flaws or is destined to sink, yet they stay.",
@@ -191,6 +211,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तो क्या शक्ति का प्रभाव?",
+      "romanized": "to kyaa shakti kaa prabhaav?",
       "speaker": "Encore ABJ",
       "translation": "So is it the influence of 'Shakti'?",
       "explanation": "'Shakti' can mean power, but in DHH/Stoner culture, it's often a nudge toward a specific vibe or spiritual energy.",
@@ -198,6 +219,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मैं लेता नहीं हूं दबाव",
+      "romanized": "main letaa naheen hoon dabaav",
       "speaker": "Encore ABJ",
       "translation": "I don't take any pressure.",
       "explanation": "Encore stating his 'no-stress' philosophy even when things (the boat) are sinking.",
@@ -205,6 +227,7 @@ export const guldasta: Song = {
     },
     {
       "original": "डूबूं तेरे लिए, डूबूं तेरे साथ",
+      "romanized": "dooboon tere lie, dooboon tere saath",
       "speaker": "Encore ABJ",
       "translation": "I'd sink for you, I'd sink with you.",
       "explanation": "Extreme loyalty; he's willing to face the consequences as long as they are together.",
@@ -212,6 +235,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मैं कूदूं तुझसे पहले",
+      "romanized": "main koodoon tujhase pahale",
       "speaker": "Encore ABJ",
       "translation": "I'd jump before you do.",
       "explanation": "He would take the risk or sacrifice himself first to save her.",
@@ -219,6 +243,7 @@ export const guldasta: Song = {
     },
     {
       "original": "और मैं कूंदूंगा तेरे बाद!",
+      "romanized": "aur main koondoongaa tere baad!",
       "speaker": "Encore ABJ",
       "translation": "And I'll jump after you!",
       "explanation": "Showing that he won't let her go alone through anything.",
@@ -226,6 +251,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मज़े न लेना",
+      "romanized": "ma na lenaa",
       "speaker": "Encore ABJ",
       "translation": "Don't poke fun.",
       "explanation": "Asking her to be serious about his feelings.",
@@ -233,6 +259,7 @@ export const guldasta: Song = {
     },
     {
       "original": "अगर सहा नहीं जाता मज़ाक",
+      "romanized": "agar sahaa naheen jaataa mak",
       "speaker": "Encore ABJ",
       "translation": "If you can't handle a joke yourself.",
       "explanation": "A witty take on mutual respect and banter in a relationship.",
@@ -240,6 +267,7 @@ export const guldasta: Song = {
     },
     {
       "original": "सवाल न पूछें",
+      "romanized": "savaal na poochhen",
       "speaker": "Encore ABJ",
       "translation": "Don't ask questions.",
       "explanation": "Asking for trust without constant interrogation.",
@@ -247,6 +275,7 @@ export const guldasta: Song = {
     },
     {
       "original": "अगर दिया नहीं जाता जवाब",
+      "romanized": "agar diyaa naheen jaataa javaab",
       "speaker": "Encore ABJ",
       "translation": "If you can't provide the answers yourself.",
       "explanation": "Mirroring the logic—don't demand what you can't give.",
@@ -254,6 +283,7 @@ export const guldasta: Song = {
     },
     {
       "original": "खड़ा तेरे आगे है self made नवाब",
+      "romanized": "kha tere aage hai self made navaab",
       "speaker": "Encore ABJ",
       "translation": "Standing before you is a self-made Nawab.",
       "explanation": "He asserts his status—he didn't inherit his success, he earned it like royalty.",
@@ -267,6 +297,7 @@ export const guldasta: Song = {
     },
     {
       "original": "वो पहले गले मिलती",
+      "romanized": "vo pahale gale milatee",
       "speaker": "Encore ABJ",
       "translation": "She hugs me first.",
       "explanation": "Describing her affectionate and warm nature.",
@@ -274,6 +305,7 @@ export const guldasta: Song = {
     },
     {
       "original": "उसके बाद करती है बात",
+      "romanized": "usake baad karatee hai baat",
       "speaker": "Encore ABJ",
       "translation": "And only then does she speak.",
       "explanation": "Her actions (affection) speak before her words.",
@@ -288,6 +320,7 @@ export const guldasta: Song = {
     },
     {
       "original": "हँसती वो देख, \"Hi!\" -",
+      "romanized": "hansatee vo dekh, \"Hi!\" -",
       "speaker": "Encore ABJ",
       "translation": "Look at her laughing, saying 'Hi!'",
       "explanation": "Capturing a candid, charming moment.",
@@ -295,6 +328,7 @@ export const guldasta: Song = {
     },
     {
       "original": "जैसे मैं बोला",
+      "romanized": "jaise main bolaa",
       "speaker": "Encore ABJ",
       "translation": "The way I said it.",
       "explanation": "He's recalling their interaction.",
@@ -302,6 +336,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मुझको बोली",
+      "romanized": "mujhako bolee",
       "speaker": "Encore ABJ",
       "translation": "She said to me.",
       "explanation": "Setting up her dialogue.",
@@ -309,6 +344,7 @@ export const guldasta: Song = {
     },
     {
       "original": "“तेरा name क्या है?”",
+      "romanized": "“teraa name kyaa hai?”",
       "speaker": "Encore ABJ",
       "translation": "'What is your name?'",
       "explanation": "A grounded, simple start to their story.",
@@ -316,6 +352,7 @@ export const guldasta: Song = {
     },
     {
       "original": "अभिजिय नेगी नाम डोली तेरी ले जाए",
+      "romanized": "abhijiy negee naam dolee teree le jaae",
       "speaker": "Encore ABJ",
       "translation": "Abhijay Negi is the name, and he'll carry your palanquin away.",
       "explanation": "He uses his real name (Abhijay Negi) and references the 'Doli', implying he's the one who will marry/take her away.",
@@ -334,6 +371,7 @@ export const guldasta: Song = {
     },
     {
       "original": "दीवाना दिल है मेरी जान",
+      "romanized": "deevaanaa dil hai meree jaan",
       "speaker": "Encore ABJ",
       "translation": "My heart is crazy for you, my life.",
       "explanation": "Classic romantic expression.",
@@ -341,6 +379,7 @@ export const guldasta: Song = {
     },
     {
       "original": "कोई भेदभाव खाए ना",
+      "romanized": "koee bhedabhaav khaae naa",
       "speaker": "Encore ABJ",
       "translation": "Let no discrimination touch us.",
       "explanation": "Hoping for a pure bond without external judgments or differences.",
@@ -348,6 +387,7 @@ export const guldasta: Song = {
     },
     {
       "original": "हम दोनों एक कश्ती में सवार",
+      "romanized": "ham donon ek kashtee men savaar",
       "speaker": "Encore ABJ",
       "translation": "We are both in the same boat.",
       "explanation": "Chorus repetition.",
@@ -355,6 +395,7 @@ export const guldasta: Song = {
     },
     {
       "original": "कश्ती में छेद",
+      "romanized": "kashtee men chhed",
       "speaker": "Encore ABJ",
       "translation": "The boat has a hole.",
       "explanation": "Chorus repetition.",
@@ -362,6 +403,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तो क्या शक्ति का प्रभाव?",
+      "romanized": "to kyaa shakti kaa prabhaav?",
       "speaker": "Encore ABJ",
       "translation": "So is it the influence of Shakti?",
       "explanation": "Chorus repetition.",
@@ -369,6 +411,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मैं लेता नहीं हूं दबाव",
+      "romanized": "main letaa naheen hoon dabaav",
       "speaker": "Encore ABJ",
       "translation": "I don't take any pressure.",
       "explanation": "Chorus repetition.",
@@ -376,6 +419,7 @@ export const guldasta: Song = {
     },
     {
       "original": "डूबूं तेरे लिए, डूबूं तेरे साथ",
+      "romanized": "dooboon tere lie, dooboon tere saath",
       "speaker": "Encore ABJ",
       "translation": "I'd sink for you, I'd sink with you.",
       "explanation": "Chorus repetition.",
@@ -383,6 +427,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मैं कूदूं तुझसे पहले",
+      "romanized": "main koodoon tujhase pahale",
       "speaker": "Encore ABJ",
       "translation": "I'd jump before you.",
       "explanation": "Chorus repetition.",
@@ -390,6 +435,7 @@ export const guldasta: Song = {
     },
     {
       "original": "और मैं कूंदूंगा तेरे बाद!",
+      "romanized": "aur main koondoongaa tere baad!",
       "speaker": "Encore ABJ",
       "translation": "And I'll jump after you!",
       "explanation": "Chorus repetition.",
@@ -397,6 +443,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू लगे गुलदस्ता है",
+      "romanized": "too lage guladastaa hai",
       "speaker": "Encore ABJ",
       "translation": "You look like a bouquet.",
       "explanation": "Chorus repetition.",
@@ -404,6 +451,7 @@ export const guldasta: Song = {
     },
     {
       "original": "फूलों की घाटी के फूलों का",
+      "romanized": "phoolon kee ghaatee ke phoolon kaa",
       "speaker": "Encore ABJ",
       "translation": "Of flowers from the Valley of Flowers.",
       "explanation": "Chorus repetition.",
@@ -411,6 +459,7 @@ export const guldasta: Song = {
     },
     {
       "original": "For a fact",
+      "romanized": "For a fact",
       "speaker": "Encore ABJ",
       "translation": "For a fact.",
       "explanation": "Chorus repetition.",
@@ -425,6 +474,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मखमली girl",
+      "romanized": "makhamalee girl",
       "speaker": "Encore ABJ",
       "translation": "Velvety girl.",
       "explanation": "Chorus repetition.",
@@ -432,6 +482,7 @@ export const guldasta: Song = {
     },
     {
       "original": "She's hotter than",
+      "romanized": "She's hotter than",
       "speaker": "Encore ABJ",
       "translation": "She's hotter than",
       "explanation": "Chorus repetition.",
@@ -439,6 +490,7 @@ export const guldasta: Song = {
     },
     {
       "original": "Pashmina shawl",
+      "romanized": "Pashmina shawl",
       "speaker": "Encore ABJ",
       "translation": "Pashmina shawl.",
       "explanation": "Chorus repetition.",
@@ -446,6 +498,7 @@ export const guldasta: Song = {
     },
     {
       "original": "I'll call her back tonight",
+      "romanized": "I'll call her back tonight",
       "speaker": "Encore ABJ",
       "translation": "I'll call her back tonight.",
       "explanation": "Chorus repetition.",
@@ -453,6 +506,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू लगे गुलदस्ता है",
+      "romanized": "too lage guladastaa hai",
       "speaker": "Encore ABJ",
       "translation": "You look like a bouquet.",
       "explanation": "Chorus repetition.",
@@ -460,6 +514,7 @@ export const guldasta: Song = {
     },
     {
       "original": "फूलों की घाटी के फूलों का",
+      "romanized": "phoolon kee ghaatee ke phoolon kaa",
       "speaker": "Encore ABJ",
       "translation": "Of flowers from the Valley of Flowers.",
       "explanation": "Chorus repetition.",
@@ -467,6 +522,7 @@ export const guldasta: Song = {
     },
     {
       "original": "For a fact",
+      "romanized": "For a fact",
       "speaker": "Encore ABJ",
       "translation": "For a fact.",
       "explanation": "Chorus repetition.",
@@ -474,6 +530,7 @@ export const guldasta: Song = {
     },
     {
       "original": "पीछे पड़ा तेरे",
+      "romanized": "peechhe pa tere",
       "speaker": "Encore ABJ",
       "translation": "Chasing after you.",
       "explanation": "Chorus repetition.",
@@ -481,6 +538,7 @@ export const guldasta: Song = {
     },
     {
       "original": "भौंरा मैं",
+      "romanized": "bhaunraa main",
       "speaker": "Encore ABJ",
       "translation": "I'm the bumblebee.",
       "explanation": "Chorus repetition.",
@@ -488,6 +546,7 @@ export const guldasta: Song = {
     },
     {
       "original": "देखूं जिधर",
+      "romanized": "dekhoon jidhar",
       "speaker": "Encore ABJ",
       "translation": "Wherever I look.",
       "explanation": "Chorus repetition.",
@@ -495,6 +554,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मुझे तू ही दे दिखाई",
+      "romanized": "mujhe too hee de dikhaaee",
       "speaker": "Encore ABJ",
       "translation": "You're the only one I see.",
       "explanation": "Chorus repetition.",
@@ -502,6 +562,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू ही",
+      "romanized": "too hee",
       "speaker": "Encore ABJ",
       "translation": "Only you.",
       "explanation": "Chorus repetition.",
@@ -509,6 +570,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू ही दे दिखाई",
+      "romanized": "too hee de dikhaaee",
       "speaker": "Encore ABJ",
       "translation": "Only you are visible.",
       "explanation": "Chorus repetition.",
@@ -516,6 +578,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मुझे बस तू ही",
+      "romanized": "mujhe bas too hee",
       "speaker": "Encore ABJ",
       "translation": "Just you to me.",
       "explanation": "Chorus repetition.",
@@ -523,6 +586,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू ही दे दिखाई",
+      "romanized": "too hee de dikhaaee",
       "speaker": "Encore ABJ",
       "translation": "Only you appear to me.",
       "explanation": "Chorus repetition.",
@@ -537,6 +601,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू ही दिखी मैं जहां गया",
+      "romanized": "too hee dikhee main jahaan gayaa",
       "speaker": "Calm",
       "translation": "I saw only you, wherever I went.",
       "explanation": "Calm begins his verse echoing Encore's sentiment of seeing her everywhere.",
@@ -544,6 +609,7 @@ export const guldasta: Song = {
     },
     {
       "original": "दुआ में तेरी कभी था क्या?",
+      "romanized": "duaa men teree kabhee thaa kyaa?",
       "speaker": "Calm",
       "translation": "Was I ever in your prayers?",
       "explanation": "A romantic question asking if she ever wished for him as well.",
@@ -558,6 +624,7 @@ export const guldasta: Song = {
     },
     {
       "original": "उसे बस करनी है party",
+      "romanized": "use bas karanee hai party",
       "speaker": "Calm",
       "translation": "She just wants to party.",
       "explanation": "Describing her carefree, fun-loving personality.",
@@ -565,6 +632,7 @@ export const guldasta: Song = {
     },
     {
       "original": "उसे फूंकना है ये zaza",
+      "romanized": "use phoonkanaa hai ye zaza",
       "speaker": "Calm",
       "translation": "She wants to smoke this 'zaza'.",
       "explanation": "Zaza is slang for high-quality cannabis.",
@@ -584,6 +652,7 @@ export const guldasta: Song = {
     },
     {
       "original": "हैगी वो नूर नशा",
+      "romanized": "haigee vo noor nashaa",
       "speaker": "Calm",
       "translation": "She is divine light and intoxication.",
       "explanation": "Combining beauty (Noor) with the feeling of being high (Nasha).",
@@ -591,6 +660,7 @@ export const guldasta: Song = {
     },
     {
       "original": "हैगी वो मधुशाला",
+      "romanized": "haigee vo madhushaalaa",
       "speaker": "Calm",
       "translation": "She is a tavern herself.",
       "explanation": "Reference to Harivansh Rai Bachchan’s 'Madhushala', meaning she is the source of his intoxication.",
@@ -610,6 +680,7 @@ export const guldasta: Song = {
     },
     {
       "original": "और कहती हम में फ़र्क़ है",
+      "romanized": "aur kahatee ham men ra hai",
       "speaker": "Calm",
       "translation": "And she says there is a difference between us.",
       "explanation": "She acknowledges the gap in their personalities or worlds.",
@@ -617,6 +688,7 @@ export const guldasta: Song = {
     },
     {
       "original": "ज़मीन और आसमान का",
+      "romanized": "meen aur aasamaan kaa",
       "speaker": "Calm",
       "translation": "Like the earth and the sky.",
       "explanation": "An idiom for being polar opposites or coming from very different backgrounds.",
@@ -624,6 +696,7 @@ export const guldasta: Song = {
     },
     {
       "original": "है देखा आज़मा के",
+      "romanized": "hai dekhaa aamaa ke",
       "speaker": "Calm",
       "translation": "I've seen it, I've tested it.",
       "explanation": "He has experienced this difference first-hand.",
@@ -631,6 +704,7 @@ export const guldasta: Song = {
     },
     {
       "original": "वो भेजे दूर NASA",
+      "romanized": "vo bheje door NASA",
       "speaker": "Calm",
       "translation": "She sends me far away like NASA.",
       "explanation": "Being with her feels like being in outer space; she gets him high or out of this world.",
@@ -644,6 +718,7 @@ export const guldasta: Song = {
     },
     {
       "original": "हम दोनों same page पर",
+      "romanized": "ham donon same page par",
       "speaker": "Calm",
       "translation": "We both are on the same page.",
       "explanation": "Despite the differences, their wavelength matches.",
@@ -651,6 +726,7 @@ export const guldasta: Song = {
     },
     {
       "original": "हैं बोले अलग भाषा",
+      "romanized": "hain bole alag bhaashaa",
       "speaker": "Calm",
       "translation": "Even though we speak different languages.",
       "explanation": "Metaphor for different ways of expressing love or living life.",
@@ -658,6 +734,7 @@ export const guldasta: Song = {
     },
     {
       "original": "साथ आ Eren-Mikaasa",
+      "romanized": "saath aa Eren-Mikaasa",
       "speaker": "Calm",
       "translation": "Come together like Eren and Mikasa.",
       "explanation": "A reference to the main duo from the anime 'Attack on Titan', known for their deep, complicated bond.",
@@ -671,6 +748,7 @@ export const guldasta: Song = {
     },
     {
       "original": "आज सूरज है निकला",
+      "romanized": "aaj sooraj hai nikalaa",
       "speaker": "Calm",
       "translation": "The sun is out today.",
       "explanation": "A metaphor for a good day or a bright moment in the relationship.",
@@ -678,6 +756,7 @@ export const guldasta: Song = {
     },
     {
       "original": "हम सुनते Lifafa",
+      "romanized": "ham sunate Lifafa",
       "speaker": "Calm",
       "translation": "We're listening to Lifafa.",
       "explanation": "Lifafa is the electronic solo project of Suryakant Sawhney, known for ethereal and trippy music, fitting the song's vibe.",
@@ -691,6 +770,7 @@ export const guldasta: Song = {
     },
     {
       "original": "और फूंकें ये सुट्टे और तेरा मलाना",
+      "romanized": "aur phoonken ye sutte aur teraa malaanaa",
       "speaker": "Calm",
       "translation": "And smoke these cigarettes and your Malana.",
       "explanation": "Malana Cream is a world-famous high-quality hash from Malana, Himachal Pradesh.",
@@ -704,6 +784,7 @@ export const guldasta: Song = {
     },
     {
       "original": "वो सरोजिनी वाली है भाई पे Gabbana",
+      "romanized": "vo sarojinee vaalee hai bhaaee pe Gabbana",
       "speaker": "Calm",
       "translation": "She's wearing Sarojini, I'm wearing Gabbana.",
       "explanation": "Contrasting street style/budget shopping (Sarojini Nagar, Delhi) with high-end luxury (Dolce & Gabbana).",
@@ -722,6 +803,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू ही दिखी मैं जहां गया",
+      "romanized": "too hee dikhee main jahaan gayaa",
       "speaker": "Calm",
       "translation": "I saw only you, wherever I went.",
       "explanation": "Repetition for emphasis on obsession.",
@@ -729,6 +811,7 @@ export const guldasta: Song = {
     },
     {
       "original": "दुआ में तेरी कभी था क्या?",
+      "romanized": "duaa men teree kabhee thaa kyaa?",
       "speaker": "Calm",
       "translation": "Was I ever in your prayers?",
       "explanation": "Reiterating the question of mutual desire.",
@@ -736,6 +819,7 @@ export const guldasta: Song = {
     },
     {
       "original": "उसे बस करनी है party",
+      "romanized": "use bas karanee hai party",
       "speaker": "Calm",
       "translation": "She just wants to party.",
       "explanation": "Highlighting her lifestyle.",
@@ -743,6 +827,7 @@ export const guldasta: Song = {
     },
     {
       "original": "उसे फूंकना है—",
+      "romanized": "use phoonkanaa hai—",
       "speaker": "Calm",
       "translation": "She wants to smoke—",
       "explanation": "Sentence cut off, leading back into the chorus.",
@@ -750,6 +835,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू लगे गुलदस्ता है",
+      "romanized": "too lage guladastaa hai",
       "speaker": "Encore ABJ",
       "translation": "You look like a bouquet.",
       "explanation": "Chorus repetition.",
@@ -757,6 +843,7 @@ export const guldasta: Song = {
     },
     {
       "original": "फूलों की घाटी के फूलों का",
+      "romanized": "phoolon kee ghaatee ke phoolon kaa",
       "speaker": "Encore ABJ",
       "translation": "Of flowers from the Valley of Flowers.",
       "explanation": "Chorus repetition.",
@@ -764,6 +851,7 @@ export const guldasta: Song = {
     },
     {
       "original": "For a fact",
+      "romanized": "For a fact",
       "speaker": "Encore ABJ",
       "translation": "For a fact.",
       "explanation": "Chorus repetition.",
@@ -771,6 +859,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मखमली girl",
+      "romanized": "makhamalee girl",
       "speaker": "Encore ABJ",
       "translation": "Velvety girl.",
       "explanation": "Chorus repetition.",
@@ -778,6 +867,7 @@ export const guldasta: Song = {
     },
     {
       "original": "She’s hotter than",
+      "romanized": "She’s hotter than",
       "speaker": "Encore ABJ",
       "translation": "She's hotter than",
       "explanation": "Chorus repetition.",
@@ -785,6 +875,7 @@ export const guldasta: Song = {
     },
     {
       "original": "Pashmina shawl",
+      "romanized": "Pashmina shawl",
       "speaker": "Encore ABJ",
       "translation": "Pashmina shawl.",
       "explanation": "Chorus repetition.",
@@ -792,6 +883,7 @@ export const guldasta: Song = {
     },
     {
       "original": "I'll call her back tonight",
+      "romanized": "I'll call her back tonight",
       "speaker": "Encore ABJ",
       "translation": "I'll call her back tonight.",
       "explanation": "Chorus repetition.",
@@ -799,6 +891,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू लगे गुलदस्ता है",
+      "romanized": "too lage guladastaa hai",
       "speaker": "Encore ABJ",
       "translation": "You look like a bouquet.",
       "explanation": "Chorus repetition.",
@@ -806,6 +899,7 @@ export const guldasta: Song = {
     },
     {
       "original": "फूलों की घाटी के फूलों का",
+      "romanized": "phoolon kee ghaatee ke phoolon kaa",
       "speaker": "Encore ABJ",
       "translation": "Of flowers from the Valley of Flowers.",
       "explanation": "Chorus repetition.",
@@ -813,6 +907,7 @@ export const guldasta: Song = {
     },
     {
       "original": "For a fact",
+      "romanized": "For a fact",
       "speaker": "Encore ABJ",
       "translation": "For a fact.",
       "explanation": "Chorus repetition.",
@@ -820,6 +915,7 @@ export const guldasta: Song = {
     },
     {
       "original": "पीछे पड़ा तेरे",
+      "romanized": "peechhe pa tere",
       "speaker": "Encore ABJ",
       "translation": "Chasing after you.",
       "explanation": "Chorus repetition.",
@@ -827,6 +923,7 @@ export const guldasta: Song = {
     },
     {
       "original": "भौंरा मैं",
+      "romanized": "bhaunraa main",
       "speaker": "Encore ABJ",
       "translation": "I'm the bumblebee.",
       "explanation": "Chorus repetition.",
@@ -834,6 +931,7 @@ export const guldasta: Song = {
     },
     {
       "original": "देखूं जिधर",
+      "romanized": "dekhoon jidhar",
       "speaker": "Encore ABJ",
       "translation": "Wherever I look.",
       "explanation": "Chorus repetition.",
@@ -841,6 +939,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मुझे तू ही दे दिखाई",
+      "romanized": "mujhe too hee de dikhaaee",
       "speaker": "Encore ABJ",
       "translation": "You're the only one I see.",
       "explanation": "Chorus repetition.",
@@ -848,6 +947,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू ही",
+      "romanized": "too hee",
       "speaker": "Encore ABJ",
       "translation": "Only you.",
       "explanation": "Chorus repetition.",
@@ -855,6 +955,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू ही दे दिखाई",
+      "romanized": "too hee de dikhaaee",
       "speaker": "Encore ABJ",
       "translation": "Only you are visible.",
       "explanation": "Chorus repetition.",
@@ -862,6 +963,7 @@ export const guldasta: Song = {
     },
     {
       "original": "मुझे बस तू ही",
+      "romanized": "mujhe bas too hee",
       "speaker": "Encore ABJ",
       "translation": "Just you to me.",
       "explanation": "Chorus repetition.",
@@ -869,6 +971,7 @@ export const guldasta: Song = {
     },
     {
       "original": "तू ही दे दिखाई",
+      "romanized": "too hee de dikhaaee",
       "speaker": "Encore ABJ",
       "translation": "Only you appear to me.",
       "explanation": "Final repetition of the hook.",

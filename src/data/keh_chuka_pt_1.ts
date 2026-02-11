@@ -8,6 +8,7 @@ export const keh_chuka_pt_1: Song = {
   "lyrics": [
     {
       "original": "Jaban pe thi gaaliyan, dimag me jehrile khayalat the",
+      "devanagari": "जबान पे थी गालियां, दिमाग में ज़हरीले ख़यालात थे",
       "speaker": "Encore ABJ",
       "translation": "My tongue was full of curses, and my mind was filled with poisonous thoughts.",
       "explanation": "Encore describes a state of intense anger and mental toxicity, where his outward expression is hostile and his inner thoughts are self-destructive.",
@@ -26,6 +27,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Atit ke yadon ne bandhi bediya, thi uske ajpe",
+      "devanagari": "अतीत के यादों ने बांधी बेड़ियां, थी उसके आज पे",
       "speaker": "Encore ABJ",
       "translation": "Memories of the past had him shackled, weighing heavy on his today.",
       "explanation": "Past traumas are metaphorically described as chains (bediya) that prevent him from living freely in the present (aaj).",
@@ -44,6 +46,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Wo thak chuka tha raat pe jaag ke",
+      "devanagari": "वो थक चुका था रात पे जाग के",
       "speaker": "Encore ABJ",
       "translation": "He was exhausted from staying awake through the nights.",
       "explanation": "A reference to insomnia caused by overthinking or mental distress.",
@@ -57,6 +60,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Puri raat andhero ko taag ke",
+      "devanagari": "पूरी रात अंधेरो को ताग के",
       "speaker": "Encore ABJ",
       "translation": "Staring into the darkness all night long.",
       "explanation": "'Taag ke' (derived from Taakna) implies staring intently. It paints a picture of someone lost in depression, staring at nothing for hours.",
@@ -70,6 +74,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Tute un jasbato ki hawalat me jhaak ke",
+      "devanagari": "टूटे उन जज़्बातो की हवालात में झाँक के",
       "speaker": "Encore ABJ",
       "translation": "Peering into the prison cell of those broken emotions.",
       "explanation": "He compares his broken heart and feelings to a 'hawalat' (police lock-up), suggesting he is a prisoner of his own pain.",
@@ -88,6 +93,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Sab keh te the ki wo logo se dur hai bhaag rha",
+      "devanagari": "सब कहते थे कि वो लोगो से दूर है भाग रहा",
       "speaker": "Encore ABJ",
       "translation": "Everyone said that he was running away from people.",
       "explanation": "Society perceives his social withdrawal and isolation as him being antisocial or a coward.",
@@ -101,6 +107,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Par wo thak chuka tha apne aapse bhaag ke",
+      "devanagari": "पर वो थक चुका था अपने आपसे भाग के",
       "speaker": "Encore ABJ",
       "translation": "But he was actually tired of running away from himself.",
       "explanation": "The internal conflict: he wasn't avoiding the world, he was trying to escape his own identity and thoughts.",
@@ -114,6 +121,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Wo saans le to dard hota tha chaati me sunn",
+      "devanagari": "वो सांस ले तो दर्द होता था छाती में सुन्न",
       "speaker": "Encore ABJ",
       "translation": "It hurt his chest to even breathe, feeling numb.",
       "explanation": "Describes the physical sensation of anxiety or a panic attack where the chest feels heavy and numb.",
@@ -127,6 +135,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Thaa dimag. Sharab me dhut sudh khoke apni wo budh khada tha",
+      "devanagari": "था दिमाग। शराब में धुत सुध खोके अपनी वो बुध खड़ा था",
       "speaker": "Encore ABJ",
       "translation": "His mind was [numb]. Drenched in alcohol, losing his senses and intellect, he just stood there.",
       "explanation": "He turned to substance abuse to cope, reaching a state where he lost his 'sudh' (awareness) and 'budh' (wisdom/intellect).",
@@ -145,6 +154,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Jindegi ki kadwi sacchai wo khud padha thaa",
+      "devanagari": "ज़िन्दगी की कड़वी सच्चाई वो ख़ुद पढ़ा था",
       "speaker": "Encore ABJ",
       "translation": "He had read the bitter truths of life all by himself.",
       "explanation": "He didn't need anyone to tell him life is hard; his own experiences were his education.",
@@ -158,6 +168,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Na hi tha maa ka pyar, na baap ka saath",
+      "devanagari": "ना ही था माँ का प्यार, ना बाप का साथ",
       "speaker": "Encore ABJ",
       "translation": "He had neither his mother's love nor his father's support.",
       "explanation": "Highlighting a lack of familial foundation, which exacerbated his loneliness.",
@@ -165,6 +176,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Upar se adhe dost astin ka saanp the",
+      "devanagari": "ऊपर से आधे दोस्त आस्तीन का सांप थे",
       "speaker": "Encore ABJ",
       "translation": "On top of that, half of his friends were snakes in the grass.",
       "explanation": "The idiom 'Astin ka saanp' refers to treacherous friends or backstabbers.",
@@ -178,6 +190,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Jiske liye wo ghut ghut ke jia",
+      "devanagari": "जिसके लिए वो घुट घुट के जिया",
       "speaker": "Encore ABJ",
       "translation": "For whom he lived a life of suffocation.",
       "explanation": "He suffered internally ('ghut ghut ke') for the sake of people who didn't care for him.",
@@ -191,6 +204,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Wo sala pyar usme churi deke chain ki saans le",
+      "devanagari": "वो साला प्यार उसमें छुरी देके चैन की सांस ले",
       "speaker": "Encore ABJ",
       "translation": "That damn 'love' stabbed him and then took a sigh of relief.",
       "explanation": "A personification of love as a betrayer who feels satisfied after causing him pain.",
@@ -215,6 +229,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Aise me kaise jamana anjana na laage",
+      "devanagari": "ऐसे में कैसे ज़माना अनजाना ना लागे",
       "speaker": "Encore ABJ",
       "translation": "In such a state, how could the world not feel like a stranger?",
       "explanation": "After constant betrayal, it is natural for him to feel alienated from society.",
@@ -228,6 +243,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Aise me kaise lajmi hona ghabrana na laage",
+      "devanagari": "ऐसे में कैसे लाज़मी होना घबराना ना लागे",
       "speaker": "Encore ABJ",
       "translation": "In such a state, how could it not feel natural to be afraid?",
       "explanation": "'Lajmi' means inevitable or natural. He justifies his fear/anxiety as a logical response to his life.",
@@ -246,6 +262,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Jab saare chode uska saath, wade karne ke baad",
+      "devanagari": "जब सारे छोड़े उसका साथ, वादे करने के बाद",
       "speaker": "Encore ABJ",
       "translation": "When everyone leaves his side after making promises.",
       "explanation": "The pain of broken promises and the inconsistency of people in his life.",
@@ -253,6 +270,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "To fir kaise use sabkuch ek dikhawa na laage",
+      "devanagari": "तो फिर कैसे उसे सबकुछ एक दिखावा ना लागे",
       "speaker": "Encore ABJ",
       "translation": "Then how could everything not seem like a mere facade?",
       "explanation": "He becomes cynical, viewing every relationship or situation as fake ('dikhawa').",
@@ -266,6 +284,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Aise me kaise jindegi use tarana sa laage",
+      "devanagari": "ऐसे में कैसे ज़िन्दगी उसे तराना सा लागे",
       "speaker": "Encore ABJ",
       "translation": "In such a state, how could life feel like a melody?",
       "explanation": "'Tarana' means a song or melody. He’s saying life is far from beautiful or musical.",
@@ -279,6 +298,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Wo kisi se na milne ka aab ek bahana sa kare",
+      "devanagari": "वो किसी से ना मिलने का अब एक बहाना सा करे",
       "speaker": "Encore ABJ",
       "translation": "Now he just makes excuses to avoid meeting anyone.",
       "explanation": "Developing a social phobia or a defensive mechanism of isolation.",
@@ -286,6 +306,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Kyunki wo darta tha ke wo kal ko nark me jayga",
+      "devanagari": "क्योंकि वो डरता था के वो कल को नर्क में जाएगा",
       "speaker": "Encore ABJ",
       "translation": "Because he was afraid that he would end up in hell tomorrow.",
       "explanation": "Internalized guilt and fear of the consequences of his current path.",
@@ -299,6 +320,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Saitan ka chehra use jana pehchana na laage",
+      "devanagari": "शैतान का चेहरा उसे जाना पहचाना ना लागे",
       "speaker": "Encore ABJ",
       "translation": "[So that] the face of the Devil wouldn't look familiar to him.",
       "explanation": "A powerful line suggesting he fears he is becoming a monster himself. If the Devil's face looks familiar, it means he sees himself in the Devil.",
@@ -312,6 +334,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Kehna tha, jitna haan aab mai keh chuka!",
+      "devanagari": "कहना था, जितना हाँ अब मैं कह चुका!",
       "speaker": "Encore ABJ",
       "translation": "Whatever I had to say, I have said it now!",
       "explanation": "A moment of catharsis. He is finally letting out all the bottled-up emotions.",
@@ -331,6 +354,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Sehna tha, jitna haan aab mai seh chuka!",
+      "devanagari": "सहना था, जितना हाँ अब मैं सह चुका!",
       "speaker": "Encore ABJ",
       "translation": "Whatever I had to endure, I have endured it now!",
       "explanation": "He has reached his limit of tolerance for pain and suffering.",
@@ -344,6 +368,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "Kehna tha!",
+      "devanagari": "कहना था!",
       "speaker": "Encore ABJ",
       "translation": "I had to say it!",
       "explanation": "A final emphasis on the necessity of this expression.",
@@ -351,6 +376,7 @@ export const keh_chuka_pt_1: Song = {
     },
     {
       "original": "To be continued...",
+      "devanagari": "To be continued...",
       "speaker": "Encore ABJ",
       "translation": "To be continued...",
       "explanation": "Indicating that the story of this character's struggle continues in Part 2.",

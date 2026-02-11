@@ -9,6 +9,7 @@ export const khoj: Song = {
   "lyrics": [
     {
       "original": "Yaar, Bezubaan hai tu",
+      "devanagari": "यार, बेज़ुबान है तू",
       "speaker": "Encore ABJ",
       "translation": "Friend, you are voiceless.",
       "explanation": "Encore begins by addressing a sense of helplessness or the inability to speak one's truth.",
@@ -22,6 +23,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bezubaan hai tu",
+      "devanagari": "बेज़ुबान है तू",
       "speaker": "Encore ABJ",
       "translation": "You are voiceless.",
       "explanation": "Repetition emphasizing the internal or societal silence imposed on the person.",
@@ -29,6 +31,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bezubaan hai tu",
+      "devanagari": "बेज़ुबान है तू",
       "speaker": "Encore ABJ",
       "translation": "You are voiceless.",
       "explanation": "Continuing the motif of being unable to express oneself.",
@@ -36,6 +39,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bezubaan hai tu",
+      "devanagari": "बेज़ुबान है तू",
       "speaker": "Encore ABJ",
       "translation": "You are voiceless.",
       "explanation": "Building the emotional weight of the song's core theme.",
@@ -43,6 +47,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bezubaan hai tu",
+      "devanagari": "बेज़ुबान है तू",
       "speaker": "Encore ABJ",
       "translation": "You are voiceless.",
       "explanation": "The repetition acts as a mirror to the listener's own struggles.",
@@ -50,6 +55,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bezubaan hai tu",
+      "devanagari": "बेज़ुबान है तू",
       "speaker": "Encore ABJ",
       "translation": "You are voiceless.",
       "explanation": "Final repetitive emphasis on the state of silence.",
@@ -57,6 +63,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bezubaan hai tu",
+      "devanagari": "बेज़ुबान है तू",
       "speaker": "Encore ABJ",
       "translation": "You are voiceless.",
       "explanation": "Setting the stage for the transition to questioning this state.",
@@ -64,6 +71,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bezuban hai kyu?",
+      "devanagari": "बेज़ुबान है क्यूँ?",
       "speaker": "Encore ABJ",
       "translation": "Why are you voiceless?",
       "explanation": "The shift from observation to a direct confrontation/question.",
@@ -71,6 +79,7 @@ export const khoj: Song = {
     },
     {
       "original": "Jab nawjawan hai tu",
+      "devanagari": "जब नौजवान है तू",
       "speaker": "Encore ABJ",
       "translation": "When you are young and full of life.",
       "explanation": "Youth is usually associated with energy and rebellion, so why be silent now?",
@@ -90,6 +99,7 @@ export const khoj: Song = {
     },
     {
       "original": "In sab ki maa ki choot",
+      "devanagari": "इन सब की माँ की चूत",
       "speaker": "Encore ABJ",
       "translation": "F*** them all.",
       "explanation": "A common aggressive dismissal of societal pressure or haters.",
@@ -103,6 +113,7 @@ export const khoj: Song = {
     },
     {
       "original": "Jab khud me ek bhagwan hai tu",
+      "devanagari": "जब ख़ुद में एक भगवान है तू",
       "speaker": "Encore ABJ",
       "translation": "When you are a god within yourself.",
       "explanation": "Encouraging self-actualization and recognizing one's own divine potential.",
@@ -110,6 +121,7 @@ export const khoj: Song = {
     },
     {
       "original": "Samaja har disha me tu",
+      "devanagari": "समाजा हर दिशा में तू",
       "speaker": "Encore ABJ",
       "translation": "You are present in every direction.",
       "explanation": "Suggesting that the person's potential/spirit is omnipresent and vast.",
@@ -117,6 +129,7 @@ export const khoj: Song = {
     },
     {
       "original": "Vo bole daag hai tu Par",
+      "devanagari": "वो बोले दाग़ है तू पर",
       "speaker": "Encore ABJ",
       "translation": "They say you are a stain/flaw, but...",
       "explanation": "Society often tries to label non-conformists as failures or 'stains'.",
@@ -130,6 +143,7 @@ export const khoj: Song = {
     },
     {
       "original": "Begunah hai tu",
+      "devanagari": "बेगुनाह है तू",
       "speaker": "Encore ABJ",
       "translation": "You are innocent.",
       "explanation": "Reassuring the listener that their struggle is not their fault.",
@@ -143,6 +157,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bas bezubaan hai tu",
+      "devanagari": "बस बेज़ुबान है तू",
       "speaker": "Encore ABJ",
       "translation": "You're just voiceless.",
       "explanation": "The only flaw is the silence, not the person's character.",
@@ -150,6 +165,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bas ek baat yaad rakh, ki…",
+      "devanagari": "बस एक बात याद रख, कि…",
       "speaker": "Encore ABJ",
       "translation": "Just remember one thing, that...",
       "explanation": "Leading into the consequence of staying silent.",
@@ -157,6 +173,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bezubani bezuban ki",
+      "devanagari": "बेज़ुबानी बेज़ुबान की",
       "speaker": "Encore ABJ",
       "translation": "The silence of the silent...",
       "explanation": "Setting up the rhyme for the loss of identity.",
@@ -171,6 +188,7 @@ export const khoj: Song = {
     },
     {
       "original": "Life kho",
+      "devanagari": "Life खो",
       "speaker": "Encore ABJ",
       "translation": "...loses life (or loses its way).",
       "explanation": "A play on the word 'Kho' (lose) and 'Khoj' (search). Silence kills the soul.",
@@ -178,6 +196,7 @@ export const khoj: Song = {
     },
     {
       "original": "Chooske khati hu mai teri side toh",
+      "devanagari": "चूसके खाती हूँ मैं तेरी side तोह",
       "speaker": "Encore ABJ",
       "translation": "I consume your side (your world).",
       "explanation": "Suggesting that the external world/pressures suck the life out of you.",
@@ -185,6 +204,7 @@ export const khoj: Song = {
     },
     {
       "original": "Masoomo ko bolo khud ki fight lo prashn?",
+      "devanagari": "मासूमो को बोलो ख़ुद की fight लो प्रश्न?",
       "speaker": "Encore ABJ",
       "translation": "Tell the innocent ones to fight their own battles, question?",
       "explanation": "Urging the 'innocents' to stop being victims and start questioning status quo.",
@@ -192,6 +212,7 @@ export const khoj: Song = {
     },
     {
       "original": "Ghar ho dost ho pyar ho ya padhai",
+      "devanagari": "घर हो दोस्त हो प्यार हो या पढ़ाई",
       "speaker": "Encore ABJ",
       "translation": "Whether it's home, friends, love, or studies.",
       "explanation": "Listing the various spheres where one feels pressured or silent.",
@@ -199,6 +220,7 @@ export const khoj: Song = {
     },
     {
       "original": "Ya vo cheeze jisse tujhko hai lagav, sab bhasm",
+      "devanagari": "या वो चीज़े जिससे तुझको है लगाव, सब भस्म",
       "speaker": "Encore ABJ",
       "translation": "Or things you are attached to, everything turns to ash.",
       "explanation": "Warning that silence leads to the destruction of everything one loves.",
@@ -212,6 +234,7 @@ export const khoj: Song = {
     },
     {
       "original": "Daba mat koi baat",
+      "devanagari": "दबा मत कोई बात",
       "speaker": "Encore ABJ",
       "translation": "Don't suppress anything.",
       "explanation": "Direct advice to stop bottling up emotions.",
@@ -219,6 +242,7 @@ export const khoj: Song = {
     },
     {
       "original": "Dil me bole ja dekhlenge",
+      "devanagari": "दिल में बोले जा देखलेंगे",
       "speaker": "Encore ABJ",
       "translation": "Keep speaking your heart, we'll see (handle it).",
       "explanation": "A reassuring tone saying that expressing yourself is the priority; the fallout can be managed.",
@@ -226,6 +250,7 @@ export const khoj: Song = {
     },
     {
       "original": "Aage ka hoga jo fuck it",
+      "devanagari": "आगे का होगा जो fuck it",
       "speaker": "Encore ABJ",
       "translation": "Whatever happens next, f*** it.",
       "explanation": "Advocating for a fearless attitude toward consequences.",
@@ -233,6 +258,7 @@ export const khoj: Song = {
     },
     {
       "original": "Vaise bhi koi",
+      "devanagari": "वैसे भी कोई",
       "speaker": "Encore ABJ",
       "translation": "Anyway, there's no...",
       "explanation": "Building to the futility of a stagnant life.",
@@ -240,6 +266,7 @@ export const khoj: Song = {
     },
     {
       "original": "Faeda ni hoga jab",
+      "devanagari": "फ़ायदा नी होगा जब",
       "speaker": "Encore ABJ",
       "translation": "...point when...",
       "explanation": "Continuation of the thought.",
@@ -247,6 +274,7 @@ export const khoj: Song = {
     },
     {
       "original": "Legaga zindagi hori hai sthagit",
+      "devanagari": "लगेगा ज़िंदगी होरी है स्थगित",
       "speaker": "Encore ABJ",
       "translation": "...it feels like life is being postponed.",
       "explanation": "Using a formal word like 'sthagit' (suspended/postponed) to describe a rut.",
@@ -260,6 +288,7 @@ export const khoj: Song = {
     },
     {
       "original": "Tera kya tu fookte hi bhool jae",
+      "devanagari": "तेरा क्या तू फूकते ही भूल जाए",
       "speaker": "Encore ABJ",
       "translation": "What about you? You forget everything as soon as you smoke up.",
       "explanation": "Referring to using weed as an escape mechanism to ignore problems.",
@@ -267,6 +296,7 @@ export const khoj: Song = {
     },
     {
       "original": "Cool",
+      "devanagari": "Cool",
       "speaker": "Encore ABJ",
       "translation": "Cool.",
       "explanation": "Sarcastic acknowledgment of the 'cool' escape.",
@@ -274,6 +304,7 @@ export const khoj: Song = {
     },
     {
       "original": "Guy, lekin tera khoon fir bhi hoe jaae sakhat “Jana 1 hi raah” hai ye baat bhot galat",
+      "devanagari": "Guy, लेकिन तेरा ख़ून फिर भी हो जाए सख़्त “जाना 1 ही राह” है ये बात बहोत ग़लत",
       "speaker": "Encore ABJ",
       "translation": "Guy, but your blood still hardens (you get angry); the idea that there is only one path is very wrong.",
       "explanation": "Rebelling against the singular 'prescribed' career/life path society dictates.",
@@ -287,6 +318,7 @@ export const khoj: Song = {
     },
     {
       "original": "Hai yaha 100 rah bas jana matt bhatak",
+      "devanagari": "है यहाँ 100 राह बस जाना मत भटक",
       "speaker": "Encore ABJ",
       "translation": "There are 100 paths here, just don't get lost.",
       "explanation": "Encouraging exploration of different life choices without losing focus.",
@@ -301,6 +333,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bacho ko koi bachao",
+      "devanagari": "बच्चो को कोई बचाओ",
       "speaker": "Encore ABJ",
       "translation": "Someone save the children.",
       "explanation": "A plea to protect the next generation from the same cycles of silence.",
@@ -308,6 +341,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bezubaan mt inhe",
+      "devanagari": "बेज़ुबान मत इन्हें",
       "speaker": "Encore ABJ",
       "translation": "Don't make them voiceless.",
       "explanation": "Critiquing an upbringing that suppresses a child's voice.",
@@ -315,6 +349,7 @@ export const khoj: Song = {
     },
     {
       "original": "Banao Khud ke faisle khud lene sikhao",
+      "devanagari": "बनाओ ख़ुद के फ़ैसले ख़ुद लेने सिखाओ",
       "speaker": "Encore ABJ",
       "translation": "Teach them to make their own decisions.",
       "explanation": "The antidote to being voiceless is autonomy.",
@@ -322,6 +357,7 @@ export const khoj: Song = {
     },
     {
       "original": "You good?",
+      "devanagari": "You good?",
       "speaker": "Encore ABJ",
       "translation": "You good?",
       "explanation": "A check-in with the listener or himself.",
@@ -329,6 +365,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bol kaise khoju me khudko",
+      "devanagari": "बोल कैसे खोजू मैं ख़ुदको",
       "speaker": "Calm",
       "translation": "Tell me, how do I find myself?",
       "explanation": "Calm enters with the central question of the song: the search for identity ('Khoj').",
@@ -336,6 +373,7 @@ export const khoj: Song = {
     },
     {
       "original": "Aur kaise bolu im good yo",
+      "devanagari": "और कैसे बोलू I'm good yo",
       "speaker": "Calm",
       "translation": "And how do I say 'I'm good, yo'?",
       "explanation": "The struggle of faking wellness when lost internally.",
@@ -343,6 +381,7 @@ export const khoj: Song = {
     },
     {
       "original": "Hum baatein",
+      "devanagari": "हम बातें",
       "speaker": "Calm",
       "translation": "We talk...",
       "explanation": "Leading into the contrast of pain and pleasure.",
@@ -350,6 +389,7 @@ export const khoj: Song = {
     },
     {
       "original": "Dard muft me uthaaye luft log",
+      "devanagari": "दर्द मुफ़्त में उठाए लुफ़्त लोग",
       "speaker": "Calm",
       "translation": "...while people take pleasure in our pain for free.",
       "explanation": "Commenting on how society enjoys watching someone struggle or fail.",
@@ -363,6 +403,7 @@ export const khoj: Song = {
     },
     {
       "original": "I can’t quit smoking",
+      "devanagari": "I can’t quit smoking",
       "speaker": "Calm",
       "translation": "I can't quit smoking.",
       "explanation": "Admitting to a vice/habit as a coping mechanism.",
@@ -370,6 +411,7 @@ export const khoj: Song = {
     },
     {
       "original": "Apna baap hu me ditto",
+      "devanagari": "अपना बाप हूँ मैं ditto",
       "speaker": "Calm",
       "translation": " I'm exactly like my father.",
       "explanation": "Realizing inherited traits, both good and bad (possibly the smoking habit).",
@@ -377,6 +419,7 @@ export const khoj: Song = {
     },
     {
       "original": "Ab wo",
+      "devanagari": "अब वो",
       "speaker": "Calm",
       "translation": "Now they...",
       "explanation": "Reflecting on the change in perception.",
@@ -384,6 +427,7 @@ export const khoj: Song = {
     },
     {
       "original": "Sochte merpe paise lagane chahiye the crypto",
+      "devanagari": "सोचते मेरपे पैसे लगाने चाहिए थे crypto",
       "speaker": "Calm",
       "translation": "...think they should have invested in me like crypto.",
       "explanation": "Metaphor for people realizing his value only after he became successful/high-value.",
@@ -391,6 +435,7 @@ export const khoj: Song = {
     },
     {
       "original": "I’ve been dope",
+      "devanagari": "I’ve been dope",
       "speaker": "Calm",
       "translation": "I've been dope.",
       "explanation": "Asserting his long-standing talent.",
@@ -398,6 +443,7 @@ export const khoj: Song = {
     },
     {
       "original": "Hu Spit dope se beast",
+      "devanagari": "हूँ Spit Dope से beast",
       "speaker": "Calm",
       "translation": "I'm on beast mode since 'Spit Dope'.",
       "explanation": "Referencing 'Spit Dope Inc.', the underground battle rap scene in Delhi where they started.",
@@ -411,6 +457,7 @@ export const khoj: Song = {
     },
     {
       "original": "Mode pe Harr modd pe",
+      "devanagari": "Mode पे हर मोड़ पे",
       "speaker": "Calm",
       "translation": "...at every turn.",
       "explanation": "Wordplay on 'Mode' (state) and 'Modd' (turn/corner).",
@@ -418,6 +465,7 @@ export const khoj: Song = {
     },
     {
       "original": "Vispot ha Jeete teen dost",
+      "devanagari": "विस्फोट हा जीते तीन दोस्त",
       "speaker": "Calm",
       "translation": "Explosion! Three friends won.",
       "explanation": "The 'three friends' are likely Calm, Encore, and their producer Sez on the Beat.",
@@ -431,6 +479,7 @@ export const khoj: Song = {
     },
     {
       "original": "Lets get it",
+      "devanagari": "Let's get it",
       "speaker": "Calm",
       "translation": "Let's get it.",
       "explanation": "Standard hype ad-lib.",
@@ -438,6 +487,7 @@ export const khoj: Song = {
     },
     {
       "original": "Koi afsos nahi teeno ko",
+      "devanagari": "कोई अफ़सोस नहीं तीनो को",
       "speaker": "Calm",
       "translation": "The three of us have no regrets.",
       "explanation": "Confidence in their journey and choices.",
@@ -445,6 +495,7 @@ export const khoj: Song = {
     },
     {
       "original": "Par Santusht ni hote launde",
+      "devanagari": "पर संतुष्ट नी होते लौंडे",
       "speaker": "Calm",
       "translation": "But these boys are never satisfied.",
       "explanation": "Referring to their hunger for more success or the pressure of the hustle.",
@@ -464,6 +515,7 @@ export const khoj: Song = {
     },
     {
       "original": "Di poori ni pinnak todd",
+      "devanagari": "दी पूरी नी पिन्नक तोड़",
       "speaker": "Calm",
       "translation": "Haven't given my all, broke the 'pinnak'.",
       "explanation": "Delhi slang 'Pinnak' refers to a specific type of high or an obsessive state/mood.",
@@ -477,6 +529,7 @@ export const khoj: Song = {
     },
     {
       "original": "Jab tak Sneakers bohot mehenge",
+      "devanagari": "जब तक sneakers बहोत महँगे",
       "speaker": "Calm",
       "translation": "As long as the sneakers are expensive.",
       "explanation": "Acknowledging the material markers of success in hip-hop culture.",
@@ -484,6 +537,7 @@ export const khoj: Song = {
     },
     {
       "original": "T shirt off white hai",
+      "devanagari": "T-shirt Off-White है",
       "speaker": "Calm",
       "translation": "The T-shirt is Off-White.",
       "explanation": "Reference to the luxury streetwear brand 'Off-White'.",
@@ -491,6 +545,7 @@ export const khoj: Song = {
     },
     {
       "original": "Upar se ladka fresh ander marti jaaye vibe hai",
+      "devanagari": "ऊपर से लड़का fresh अंदर मरती जाए vibe है",
       "speaker": "Calm",
       "translation": "Fresh on the outside, but the vibe is dying inside.",
       "explanation": "The contrast between outward success (expensive clothes) and internal emotional struggle.",
@@ -498,6 +553,7 @@ export const khoj: Song = {
     },
     {
       "original": "Ye bande samjhe",
+      "devanagari": "ये बंदे समझे",
       "speaker": "Calm",
       "translation": "These guys understood...",
       "explanation": "Reflecting on public perception.",
@@ -505,6 +561,7 @@ export const khoj: Song = {
     },
     {
       "original": "Ni bhai ko Ya firr me samjha ni paaya",
+      "devanagari": "नी भाई को या फिर मैं समझा नी पाया",
       "speaker": "Calm",
       "translation": "...nothing of me, or maybe I couldn't explain it well.",
       "explanation": "The artist's dilemma of feeling misunderstood.",
@@ -512,6 +569,7 @@ export const khoj: Song = {
     },
     {
       "original": "Acche se jaanta ni khudko",
+      "devanagari": "अच्छे से जानता नी ख़ुदको",
       "speaker": "Calm",
       "translation": "I don't know myself well enough.",
       "explanation": "Honest admission of the ongoing search for self.",
@@ -519,6 +577,7 @@ export const khoj: Song = {
     },
     {
       "original": "Tabhi koi aur nahi",
+      "devanagari": "तभी कोई और नहीं",
       "speaker": "Calm",
       "translation": "That's why no one else...",
       "explanation": "If you don't know yourself, others can't know you.",
@@ -526,6 +585,7 @@ export const khoj: Song = {
     },
     {
       "original": "Jaan paaya",
+      "devanagari": "जान पाया",
       "speaker": "Calm",
       "translation": "...could know me.",
       "explanation": "Conclusion of the thought on identity.",
@@ -533,6 +593,7 @@ export const khoj: Song = {
     },
     {
       "original": "Ye chappal pehn ke to dekh chal payega ni Bhaar jhel k to dekh sarr",
+      "devanagari": "ये चप्पल पहन के तो देख चल पाएगा नी भार झेल के तो देख सर",
       "speaker": "Calm",
       "translation": "Try wearing these slippers, you won't be able to walk; try bearing this weight, your head...",
       "explanation": "A 'walk in my shoes' metaphor. People judge without knowing the burden he carries.",
@@ -540,6 +601,7 @@ export const khoj: Song = {
     },
     {
       "original": "Khaayega ni",
+      "devanagari": "खाएगा नी",
       "speaker": "Calm",
       "translation": "...won't handle it.",
       "explanation": "Suggesting his mental load is too much for others.",
@@ -547,6 +609,7 @@ export const khoj: Song = {
     },
     {
       "original": "Kabhi gaur karoge baat pe bohot milega janne ko mere baare me par",
+      "devanagari": "कभी ग़ौर करोगे बात पे बहोत मिलेगा जानने को मेरे बारे में पर",
       "speaker": "Calm",
       "translation": "If you ever pay attention, you'll find a lot to know about me, but...",
       "explanation": "Hinting that his lyrics contain deep personal truths if one looks closely.",
@@ -554,6 +617,7 @@ export const khoj: Song = {
     },
     {
       "original": "Abhi fayeda ni me",
+      "devanagari": "अभी फ़ायदा नी मैं",
       "speaker": "Calm",
       "translation": "...it's no use right now.",
       "explanation": "A dismissal of the need for validation at this moment.",
@@ -561,6 +625,7 @@ export const khoj: Song = {
     },
     {
       "original": "Me bezabaan tha",
+      "devanagari": "मैं बेज़ुबान था",
       "speaker": "Calm",
       "translation": "I was voiceless.",
       "explanation": "Past tense—Calm has now found his voice.",
@@ -568,6 +633,7 @@ export const khoj: Song = {
     },
     {
       "original": "Ab hu bekarar aur besharam Hu",
+      "devanagari": "अब हूँ बेक़रार और बेशर्म हूँ",
       "speaker": "Calm",
       "translation": "Now I am restless and shameless.",
       "explanation": "Transitioning from being a quiet victim to an unapologetic artist.",
@@ -581,6 +647,7 @@ export const khoj: Song = {
     },
     {
       "original": "Beparwah aur",
+      "devanagari": "बेपरवाह और",
       "speaker": "Calm",
       "translation": "Carefree and...",
       "explanation": "Continuing the list of his new traits.",
@@ -588,6 +655,7 @@ export const khoj: Song = {
     },
     {
       "original": "Thode se gusse se garam",
+      "devanagari": "थोड़े से गुस्से से गरम",
       "speaker": "Calm",
       "translation": "...a bit hot with anger.",
       "explanation": "Acknowledging the fire/rage that fuels his rap.",
@@ -595,6 +663,7 @@ export const khoj: Song = {
     },
     {
       "original": "Me Bezabaan tha par ab bolu bedhadak Mene khoja jo",
+      "devanagari": "मैं बेज़ुबान था पर अब बोलू बेधड़क मेने खोजा जो",
       "speaker": "Calm",
       "translation": "I was voiceless, but now I speak without hesitation; what I searched for...",
       "explanation": "He has successfully completed his 'Khoj' (search).",
@@ -608,6 +677,7 @@ export const khoj: Song = {
     },
     {
       "original": "Mujhe",
+      "devanagari": "मुझे",
       "speaker": "Calm",
       "translation": "...me.",
       "explanation": "He found himself.",
@@ -615,6 +685,7 @@ export const khoj: Song = {
     },
     {
       "original": "Yo, yo, yo",
+      "devanagari": "Yo, yo, yo",
       "speaker": "Calm & Encore ABJ",
       "translation": "Yo, yo, yo.",
       "explanation": "Transition into the mid-track skit/dialogue.",
@@ -622,6 +693,7 @@ export const khoj: Song = {
     },
     {
       "original": "Hello veere!",
+      "devanagari": "Hello वीरे!",
       "speaker": "Calm & Encore ABJ",
       "translation": "Hello brother!",
       "explanation": "Calm and Encore talking to each other.",
@@ -635,6 +707,7 @@ export const khoj: Song = {
     },
     {
       "original": "Kya challa hai?",
+      "devanagari": "क्या चल्ला है?",
       "speaker": "Calm & Encore ABJ",
       "translation": "What's going on?",
       "explanation": "Informal greeting.",
@@ -642,6 +715,7 @@ export const khoj: Song = {
     },
     {
       "original": "Kya chalra hai?",
+      "devanagari": "क्या चलरा है?",
       "speaker": "Calm & Encore ABJ",
       "translation": "What's happening?",
       "explanation": "Repeating the greeting.",
@@ -649,6 +723,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bhai yaar kuch ni yaar",
+      "devanagari": "भाई यार कुछ नी यार",
       "speaker": "Calm & Encore ABJ",
       "translation": "Brother, nothing much.",
       "explanation": "Casual conversation.",
@@ -656,6 +731,7 @@ export const khoj: Song = {
     },
     {
       "original": "Likh liya?",
+      "devanagari": "लिख लिया?",
       "speaker": "Calm & Encore ABJ",
       "translation": "Have you written it?",
       "explanation": "Asking about the lyrics/verse.",
@@ -663,6 +739,7 @@ export const khoj: Song = {
     },
     {
       "original": "Haan bhai",
+      "devanagari": "हाँ भाई",
       "speaker": "Calm & Encore ABJ",
       "translation": "Yes, brother.",
       "explanation": "Confirmation.",
@@ -670,6 +747,7 @@ export const khoj: Song = {
     },
     {
       "original": "Khoj liya?",
+      "devanagari": "खोज लिया?",
       "speaker": "Calm & Encore ABJ",
       "translation": "Have you found it/yourself?",
       "explanation": "A double meaning regarding the song's title and their personal growth.",
@@ -677,6 +755,7 @@ export const khoj: Song = {
     },
     {
       "original": "Lag toh raha hai yaar",
+      "devanagari": "लग तोह रहा है यार",
       "speaker": "Calm & Encore ABJ",
       "translation": "It seems so, man.",
       "explanation": "Humble realization of growth.",
@@ -684,6 +763,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bhai maine bhi Khoj liya bhai",
+      "devanagari": "भाई मैंने भी खोज लिया भाई",
       "speaker": "Calm & Encore ABJ",
       "translation": "Brother, I've found it too.",
       "explanation": "The duo aligning their perspectives.",
@@ -691,6 +771,7 @@ export const khoj: Song = {
     },
     {
       "original": "Bhai boht sahi yaar!",
+      "devanagari": "भाई बोहत सही यार!",
       "speaker": "Calm & Encore ABJ",
       "translation": "That's great, man!",
       "explanation": "Mutual encouragement.",
@@ -698,6 +779,7 @@ export const khoj: Song = {
     },
     {
       "original": "Kaun jaara hai phir",
+      "devanagari": "कौन जारा है फिर",
       "speaker": "Calm & Encore ABJ",
       "translation": "Who's going next then?",
       "explanation": "Discussing the song's structure.",
@@ -705,6 +787,7 @@ export const khoj: Song = {
     },
     {
       "original": "Tu jaara, main jaara hun?",
+      "devanagari": "तू जारा, मैं जारा हूँ?",
       "speaker": "Calm & Encore ABJ",
       "translation": "Are you going, or am I?",
       "explanation": "Deciding who starts the joint verse.",
@@ -712,6 +795,7 @@ export const khoj: Song = {
     },
     {
       "original": "Aaja saath me chalte hai",
+      "devanagari": "आजा साथ में चलते हैं",
       "speaker": "Calm & Encore ABJ",
       "translation": "Let's go together.",
       "explanation": "Seedhe Maut is famous for their back-and-forth joint verses.",
@@ -719,6 +803,7 @@ export const khoj: Song = {
     },
     {
       "original": "Chal theek hai phir, bhussi bhar dete hai",
+      "devanagari": "चल ठीक है फिर, भुस्सी भर देते हैं",
       "speaker": "Calm & Encore ABJ",
       "translation": "Alright then, let's destroy this (fill them with straw).",
       "explanation": "Typical Delhi slang for absolutely crushing something or beating someone up.",
@@ -738,6 +823,7 @@ export const khoj: Song = {
     },
     {
       "original": "Gaand faad denge bhai inki",
+      "devanagari": "गांड फाड़ देंगे भाई इनकी",
       "speaker": "Calm & Encore ABJ",
       "translation": "We'll rip them apart, brother.",
       "explanation": "Aggressive slang indicating they are about to drop a powerful verse.",
@@ -745,6 +831,7 @@ export const khoj: Song = {
     },
     {
       "original": "Ho jaaye",
+      "devanagari": "हो जाए",
       "speaker": "Calm & Encore ABJ",
       "translation": "Let's do it.",
       "explanation": "Initiating the final part of the song.",
@@ -752,6 +839,7 @@ export const khoj: Song = {
     },
     {
       "original": "Hai tera konsa papa",
+      "devanagari": "है तेरा कौनसा पापा",
       "speaker": "Encore ABJ & Calm",
       "translation": "Which one is your 'papa'?",
       "explanation": "A taunt about who their 'daddy' (boss/influence) is in the scene.",
@@ -759,6 +847,7 @@ export const khoj: Song = {
     },
     {
       "original": "Jiski pakdae tu sutli",
+      "devanagari": "जिसकी पकड़ाए तू सुतली",
       "speaker": "Encore ABJ & Calm",
       "translation": "Whose 'sutli' (fuse) are you holding?",
       "explanation": "Referring to firecrackers; meaning 'who are you following or trying to ignite?'",
@@ -772,6 +861,7 @@ export const khoj: Song = {
     },
     {
       "original": "Jo jalte hain ban pataka",
+      "devanagari": "जो जलते हैं बन पटाका",
       "speaker": "Encore ABJ & Calm",
       "translation": "Who burn like firecrackers.",
       "explanation": "People who are loud and flashy but burn out quickly.",
@@ -785,6 +875,7 @@ export const khoj: Song = {
     },
     {
       "original": "Di unki",
+      "devanagari": "दी उनकी",
       "speaker": "Encore ABJ & Calm",
       "translation": "Gave them...",
       "explanation": "Setting up the punchline.",
@@ -792,6 +883,7 @@ export const khoj: Song = {
     },
     {
       "original": "Gaand me fooljhadi",
+      "devanagari": "गांड में फुलझड़ी",
       "speaker": "Encore ABJ & Calm",
       "translation": "A sparkler up their a**.",
       "explanation": "Vulgar imagery of causing someone pain/humiliation.",
@@ -811,6 +903,7 @@ export const khoj: Song = {
     },
     {
       "original": "Tu lage nunu sa mufali",
+      "devanagari": "तू लगे नुनु सा मूफली",
       "speaker": "Encore ABJ & Calm",
       "translation": "You look like a tiny peanut.",
       "explanation": "Calling the opponent small or insignificant. 'Nunu' is child-speak for something small.",
@@ -824,6 +917,7 @@ export const khoj: Song = {
     },
     {
       "original": "Kaisa mufali",
+      "devanagari": "कैसा मूफली",
       "speaker": "Encore ABJ & Calm",
       "translation": "What kind of peanut?",
       "explanation": "Calm playing off Encore's line.",
@@ -831,6 +925,7 @@ export const khoj: Song = {
     },
     {
       "original": "Jaisa doosri",
+      "devanagari": "जैसा दूसरी",
       "speaker": "Encore ABJ & Calm",
       "translation": "Like the other...",
       "explanation": "Building the rhyme.",
@@ -838,6 +933,7 @@ export const khoj: Song = {
     },
     {
       "original": "Jagah pe na",
+      "devanagari": "जगह पे ना",
       "speaker": "Encore ABJ & Calm",
       "translation": "...place...",
       "explanation": "Rhyme scheme continuation.",
@@ -845,6 +941,7 @@ export const khoj: Song = {
     },
     {
       "original": "Mila tu hai waisa chuttad",
+      "devanagari": "मिला तू है वैसा चुत्तड़",
       "speaker": "Encore ABJ & Calm",
       "translation": "You are such an idiot/a**.",
       "explanation": "Direct insult.",
@@ -858,6 +955,7 @@ export const khoj: Song = {
     },
     {
       "original": "Hi Kiya naya bar set baar doosri",
+      "devanagari": "Hi किया नया bar set बार दूसरी",
       "speaker": "Encore ABJ & Calm",
       "translation": "Set a new bar for the second time.",
       "explanation": "Asserting that Seedhe Maut consistently raises the standards of Indian Hip Hop.",
@@ -872,6 +970,7 @@ export const khoj: Song = {
     },
     {
       "original": "Saathi mera jaadugar hai Poof",
+      "devanagari": "साथी मेरा जादूगर है Poof",
       "speaker": "Encore ABJ & Calm",
       "translation": "My partner is a magician—Poof!",
       "explanation": "Likely referring to Sez on the Beat's production or Calm's rap skills.",
@@ -879,6 +978,7 @@ export const khoj: Song = {
     },
     {
       "original": "Ye bhi badha karigar hai oof",
+      "devanagari": "ये भी बढ़ा कारीगर है ऊफ़",
       "speaker": "Encore ABJ & Calm",
       "translation": "He is also a great craftsman—Oof!",
       "explanation": "Complementing each other's technical skills.",
@@ -892,6 +992,7 @@ export const khoj: Song = {
     },
     {
       "original": "Inhe bolo paani bhare kaan nahi",
+      "devanagari": "इन्हें बोलो पानी भरे कान नहीं",
       "speaker": "Encore ABJ & Calm",
       "translation": "Tell them to serve water, not fill ears (with lies/nonsense).",
       "explanation": "A play on 'Paani bharna' (to serve/be inferior) and 'Kaan bharna' (to gossip).",
@@ -899,6 +1000,7 @@ export const khoj: Song = {
     },
     {
       "original": "Inhe bolo khaana",
+      "devanagari": "इन्हें बोलो खाना",
       "speaker": "Encore ABJ & Calm",
       "translation": "Tell them to eat...",
       "explanation": "Leading to the next line.",
@@ -906,6 +1008,7 @@ export const khoj: Song = {
     },
     {
       "original": "Khaaye jaan nahi muft",
+      "devanagari": "खाए जान नहीं मुफ़्त",
       "speaker": "Encore ABJ & Calm",
       "translation": "...not eat my head (bother me) for free.",
       "explanation": "Telling people to stop annoying them or taking their time for granted.",
@@ -919,6 +1022,7 @@ export const khoj: Song = {
     },
     {
       "original": "Arey meherbaan nahi chahiye ehsaan kuch Arey Behka nahi",
+      "devanagari": "अरे मेहरबान नहीं चाहिए एहसान कुछ अरे बहका नहीं",
       "speaker": "Encore ABJ & Calm",
       "translation": "Hey, I don't need your kindness or favors; I haven't gone astray.",
       "explanation": "Asserting independence and mental clarity.",
@@ -926,6 +1030,7 @@ export const khoj: Song = {
     },
     {
       "original": "Hu me khel me khilaadi sattar",
+      "devanagari": "हूँ मैं खेल में खिलाड़ी सत्तर",
       "speaker": "Encore ABJ & Calm",
       "translation": "I'm the player 'Sattar' in the game.",
       "explanation": "Reference to 'Pithu' or 'Sattar' (Seven Stones), a traditional game. He's saying he's a pro.",
@@ -939,6 +1044,7 @@ export const khoj: Song = {
     },
     {
       "original": "Lekar ek moje me daala pathar",
+      "devanagari": "लेकर एक मोजे में डाला पत्थर",
       "speaker": "Encore ABJ & Calm",
       "translation": "Took a sock and put a stone in it.",
       "explanation": "Imagery of a makeshift weapon, showing their street roots/toughness.",
@@ -946,6 +1052,7 @@ export const khoj: Song = {
     },
     {
       "original": "Saamne waale k fir",
+      "devanagari": "सामने वाले के फिर",
       "speaker": "Encore ABJ & Calm",
       "translation": "Then to the person in front...",
       "explanation": "Preparing for the hit.",
@@ -960,6 +1067,7 @@ export const khoj: Song = {
     },
     {
       "original": "Maara kaskar",
+      "devanagari": "मारा कसकर",
       "speaker": "Encore ABJ & Calm",
       "translation": "...hit them hard.",
       "explanation": "Aggressive metaphorical delivery of their rap.",
@@ -967,6 +1075,7 @@ export const khoj: Song = {
     },
     {
       "original": "Jaayega nahi koi yaha se bachkar mene",
+      "devanagari": "जाएगा नहीं कोई यहाँ से बचकर मेने",
       "speaker": "Encore ABJ & Calm",
       "translation": "No one will escape from here; I've...",
       "explanation": "Dominating the track.",
@@ -974,6 +1083,7 @@ export const khoj: Song = {
     },
     {
       "original": "5 saal kiye bohot club shows",
+      "devanagari": "5 साल किए बहोत club shows",
       "speaker": "Encore ABJ & Calm",
       "translation": "...done many club shows for 5 years.",
       "explanation": "Recalling their grind in the underground scene.",
@@ -981,6 +1091,7 @@ export const khoj: Song = {
     },
     {
       "original": "Haare bin",
+      "devanagari": "हारे बिन",
       "speaker": "Encore ABJ & Calm",
       "translation": "...without losing.",
       "explanation": "Maintaining their undefeated streak/reputation.",
@@ -995,6 +1106,7 @@ export const khoj: Song = {
     },
     {
       "original": "Khatm ho gye mere hauz khas waale din",
+      "devanagari": "ख़त्म हो गए मेरे हौज़ ख़ास वाले दिन",
       "speaker": "Encore ABJ & Calm",
       "translation": "My Hauz Khas days are over.",
       "explanation": "Hauz Khas Village (HKV) was where the Delhi hip-hop scene thrived in clubs; they've now moved to bigger stages.",
@@ -1008,6 +1120,7 @@ export const khoj: Song = {
     },
     {
       "original": "Sab dosh daale mujhe",
+      "devanagari": "सब दोष डाले मुझे",
       "speaker": "Encore ABJ & Calm",
       "translation": "Everyone blamed me.",
       "explanation": "Dealing with criticism during their rise.",
@@ -1015,6 +1128,7 @@ export const khoj: Song = {
     },
     {
       "original": "Afsos na",
+      "devanagari": "अफ़सोस ना",
       "speaker": "Encore ABJ & Calm",
       "translation": "No regrets.",
       "explanation": "Dismissing the guilt others tried to place on them.",
@@ -1022,6 +1136,7 @@ export const khoj: Song = {
     },
     {
       "original": "Lekin Ab hosh aaya",
+      "devanagari": "लेकिन अब होश आया",
       "speaker": "Encore ABJ & Calm",
       "translation": "But now I've gained consciousness.",
       "explanation": "Finally understanding the game and his own power.",
@@ -1029,6 +1144,7 @@ export const khoj: Song = {
     },
     {
       "original": "Tere shabdkosh maari",
+      "devanagari": "तेरे शब्दकोश मारी",
       "speaker": "Encore ABJ & Calm",
       "translation": "Hit your dictionary.",
       "explanation": "They are outperforming other rappers' vocabularies.",
@@ -1042,6 +1158,7 @@ export const khoj: Song = {
     },
     {
       "original": "Muh pe santosh na hai",
+      "devanagari": "मुँह पे संतोष ना है",
       "speaker": "Encore ABJ & Calm",
       "translation": "There is no satisfaction on the face.",
       "explanation": "They remain hungry for more; never content with just 'enough'.",
@@ -1055,6 +1172,7 @@ export const khoj: Song = {
     },
     {
       "original": "To me sankoch pe",
+      "devanagari": "तो मैं संकोच पे",
       "speaker": "Encore ABJ & Calm",
       "translation": "So, on hesitation...",
       "explanation": "Playing with words ending in '-osh'.",
@@ -1068,6 +1186,7 @@ export const khoj: Song = {
     },
     {
       "original": "Na chada",
+      "devanagari": "ना चढ़ा",
       "speaker": "Encore ABJ & Calm",
       "translation": "...I didn't step.",
       "explanation": "He didn't let doubt stop him.",
@@ -1075,6 +1194,7 @@ export const khoj: Song = {
     },
     {
       "original": "Chhepa chhaapi kar daalu kisi bhi ankush bina",
+      "devanagari": "छेपा छापी कर डालू किसी भी अंकुश बिना",
       "speaker": "Encore ABJ & Calm",
       "translation": "I can stamp/print (publish/rap) without any constraint.",
       "explanation": "Claiming absolute creative freedom.",
@@ -1088,6 +1208,7 @@ export const khoj: Song = {
     },
     {
       "original": "Teri thali se khaane me",
+      "devanagari": "तेरी थाली से खाने में",
       "speaker": "Encore ABJ & Calm",
       "translation": "While eating from your plate...",
       "explanation": "Metaphor for following someone else's rules or being under someone's control.",
@@ -1095,6 +1216,7 @@ export const khoj: Song = {
     },
     {
       "original": "Mera dum ghut te raha",
+      "devanagari": "मेरा दम घुटते रहा",
       "speaker": "Encore ABJ & Calm",
       "translation": "...I was suffocating.",
       "explanation": "Being dependent on others felt like a slow death.",
@@ -1102,6 +1224,7 @@ export const khoj: Song = {
     },
     {
       "original": "Mene fook aisi maari ki tera tambu gira Mehsoos Karo aur",
+      "devanagari": "मेने फूक ऐसी मारी कि तेरा तंबू गिरा महसूस करो और",
       "speaker": "Encore ABJ & Calm",
       "translation": "I blew so hard that your tent fell down. Feel it and...",
       "explanation": "His power (rap/breath) destroyed the fragile ego/setup of his rivals.",
@@ -1109,6 +1232,7 @@ export const khoj: Song = {
     },
     {
       "original": "Karo na compare",
+      "devanagari": "करो ना compare",
       "speaker": "Encore ABJ & Calm",
       "translation": "...don't compare.",
       "explanation": "SM often asserts that they are in a league of their own.",
@@ -1116,6 +1240,7 @@ export const khoj: Song = {
     },
     {
       "original": "Aajate kaha kaha se leke wahi baatein Par baato me hota ni sarr",
+      "devanagari": "आजाते कहाँ कहाँ से लेके वही बातें पर बातो में होता नी सर",
       "speaker": "Encore ABJ & Calm",
       "translation": "They come from everywhere with the same old talk, but their talk has no head...",
       "explanation": "Critiquing generic rappers who lack logic or substance.",
@@ -1130,6 +1255,7 @@ export const khoj: Song = {
     },
     {
       "original": "Paer Haan",
+      "devanagari": "पैर हाँ",
       "speaker": "Encore ABJ & Calm",
       "translation": "...or feet. Yes.",
       "explanation": "Completing the idiom 'Sarr-paer' (logic/meaning).",
@@ -1137,6 +1263,7 @@ export const khoj: Song = {
     },
     {
       "original": "Chakhenge adrak bhi bandar ab",
+      "devanagari": "चखेंगे अदरक भी बंदर अब",
       "speaker": "Encore ABJ & Calm",
       "translation": "Now even monkeys will taste ginger.",
       "explanation": "A reversal of the Hindi proverb 'Bandar kya jaane adrak ka swaad' (A monkey doesn't know the taste of ginger). Meaning even the ignorant will now have to acknowledge their talent.",
@@ -1144,6 +1271,7 @@ export const khoj: Song = {
     },
     {
       "original": "Peda me hua to fuck it up",
+      "devanagari": "पैदा में हुआ तो fuck it up",
       "speaker": "Encore ABJ & Calm",
       "translation": "I was born to f*** it up.",
       "explanation": "Claiming his destiny is to disrupt the scene.",
@@ -1151,6 +1279,7 @@ export const khoj: Song = {
     },
     {
       "original": "Chakhake",
+      "devanagari": "चखाके",
       "speaker": "Encore ABJ & Calm",
       "translation": "Giving a taste...",
       "explanation": "Continuing the 'taste' metaphor.",
@@ -1158,6 +1287,7 @@ export const khoj: Song = {
     },
     {
       "original": "Maza chakhe maze ab peelo se pare sab failaya fanda aur faasi pe fase jag",
+      "devanagari": "मज़ा चखे मज़े अब पीलो से परे सब फैलाया फंदा और फाँसी पे फसे जग",
       "speaker": "Encore ABJ & Calm",
       "translation": "They taste the fun/consequences now; beyond the beginners, I spread the trap and the world got caught in the noose.",
       "explanation": "Asserting their dominance over the industry.",
@@ -1165,6 +1295,7 @@ export const khoj: Song = {
     },
     {
       "original": "Teri maa ka-",
+      "devanagari": "तेरी माँ का-",
       "speaker": "Encore ABJ",
       "translation": "Your mother's-",
       "explanation": "A cut-off profanity, used for punchy effect.",
@@ -1172,6 +1303,7 @@ export const khoj: Song = {
     },
     {
       "original": "Sez on the beat boy",
+      "devanagari": "Sez on the beat boy",
       "speaker": "Encore ABJ",
       "translation": "Sez on the beat, boy.",
       "explanation": "Shoutout to the producer, Sez on the Beat.",

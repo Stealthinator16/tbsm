@@ -9,6 +9,7 @@ export const dil_se: Song = {
   "lyrics": [
     {
       "original": "हाँ यहाँ पे यार हैं साथ में जितने",
+      "romanized": "Haan yahaan pe yaar hain saath men jitne",
       "speaker": "Encore ABJ",
       "translation": "Yeah, all the friends who are here with me,",
       "explanation": "Encore starts by acknowledging his core circle and day-ones who have stayed by his side.",
@@ -21,6 +22,7 @@ export const dil_se: Song = {
     },
     {
       "original": "उनसे प्यार है पूरे दिल से",
+      "romanized": "Unse pyaar hai poore dil se",
       "speaker": "Encore ABJ",
       "translation": "I love them with all my heart.",
       "explanation": "The title track's theme: 'Dil Se' (From the Heart), emphasizing genuine loyalty over superficial industry bonds.",
@@ -33,6 +35,7 @@ export const dil_se: Song = {
     },
     {
       "original": "यहाँ खाली आधे अधूरे ख़्वाब थे",
+      "romanized": "Yahaan khaalee aadhe adhoore khvaab the",
       "speaker": "Encore ABJ",
       "translation": "There were only half-finished dreams here,",
       "explanation": "Refers to the uncertain early days of their career when success wasn't guaranteed.",
@@ -40,6 +43,7 @@ export const dil_se: Song = {
     },
     {
       "original": "पूरे हो रहे साथ में मिलके",
+      "romanized": "Poore ho rahe saath men milke",
       "speaker": "Encore ABJ",
       "translation": "They are coming true now that we're together.",
       "explanation": "The realization of their goals as a collective (Seedhe Maut and their crew).",
@@ -47,6 +51,7 @@ export const dil_se: Song = {
     },
     {
       "original": "जाता था booth में",
+      "romanized": "Jaataa thaa booth men",
       "speaker": "Calm",
       "translation": "I used to go into the booth,",
       "explanation": "Calm reflects on his routine of recording music in the studio.",
@@ -54,6 +59,7 @@ export const dil_se: Song = {
     },
     {
       "original": "लगता था जब भी useless",
+      "romanized": "Lagtaa thaa jab bhee useless",
       "speaker": "Calm",
       "translation": "Whenever I felt useless,",
       "explanation": "Music was his escape and purpose when he felt dejected by life or circumstances.",
@@ -68,6 +74,7 @@ export const dil_se: Song = {
     },
     {
       "original": "लिखना था जैसे ख़ून में",
+      "romanized": "Likhnaa thaa jaise khoon men",
       "speaker": "Calm",
       "translation": "Writing was like it was in my blood,",
       "explanation": "Expressing that rapping and songwriting are innate to his identity.",
@@ -75,6 +82,7 @@ export const dil_se: Song = {
     },
     {
       "original": "गाने बनाते room में",
+      "romanized": "Gaane banaate room men",
       "speaker": "Calm",
       "translation": "Making songs in a bedroom,",
       "explanation": "A nod to their DIY/Bedroom producer roots before the fame.",
@@ -82,6 +90,7 @@ export const dil_se: Song = {
     },
     {
       "original": "लगी थी भूख तेज़ जानू how बावे भूख tastes",
+      "romanized": "Lagee thee bhookh tez jaanoo how baave bhookh tastes",
       "speaker": "Calm",
       "translation": "The hunger was intense, I know how hunger tastes, bro.",
       "explanation": "Hunger is used as a metaphor for both poverty and the ambition to succeed.",
@@ -94,6 +103,7 @@ export const dil_se: Song = {
     },
     {
       "original": "अब घूम चुका पूरा देश और घर है जैसे Gucci suitcase",
+      "romanized": "Ab ghoom chukaa pooraa desh aur ghar hai jaise Gucci suitcase",
       "speaker": "Calm",
       "translation": "Now I've toured the whole country, and my home is like a Gucci suitcase.",
       "explanation": "Contrasting past struggle with current success where he's constantly traveling and living in luxury.",
@@ -112,6 +122,7 @@ export const dil_se: Song = {
     },
     {
       "original": "देखे हर जगह bootleg",
+      "romanized": "Dekhe har jagh bootleg",
       "speaker": "Calm",
       "translation": "I see bootlegs everywhere,",
       "explanation": "Refers to seeing fake versions of themselves or their merch, or simply the 'raw' side of the streets.",
@@ -126,6 +137,7 @@ export const dil_se: Song = {
     },
     {
       "original": "कभी चले हैं mood पे",
+      "romanized": "Kabhee chale hain mood pe",
       "speaker": "Calm",
       "translation": "Sometimes we moved based on our mood,",
       "explanation": "Indicating a lack of structure in the past or following their artistic whims.",
@@ -133,6 +145,7 @@ export const dil_se: Song = {
     },
     {
       "original": "कभी लगे मज़बूत पर",
+      "romanized": "Kabhee lage mazboot par",
       "speaker": "Calm",
       "translation": "Sometimes we felt strong, but...",
       "explanation": "Acknowledging the facade of strength artists often have to maintain.",
@@ -140,6 +153,7 @@ export const dil_se: Song = {
     },
     {
       "original": "कभी खड़ा है टूट के",
+      "romanized": "Kabhee kharaa hai toot ke",
       "speaker": "Calm",
       "translation": "Sometimes I'm standing there, broken.",
       "explanation": "A moment of vulnerability, admitting to being emotionally drained despite the success.",
@@ -147,6 +161,7 @@ export const dil_se: Song = {
     },
     {
       "original": "बना-बनाया किला नहीं, लिया बनाया ख़ून से",
+      "romanized": "Banaa-banaayaa kilaa naheen, liyaa banaayaa khoon se",
       "speaker": "Calm",
       "translation": "It's not a ready-made fort; I built it with my blood.",
       "explanation": "He didn't inherit success; he built his empire through hard work and sacrifice.",
@@ -154,6 +169,7 @@ export const dil_se: Song = {
     },
     {
       "original": "घड़ा भरा है बूँद से",
+      "romanized": "Gharaa bharaa hai boond se",
       "speaker": "Calm",
       "translation": "The pot is filled drop by drop.",
       "explanation": "An Indian proverb 'Boond boond se sagar banta hai' signifying gradual accumulation of success.",
@@ -161,6 +177,7 @@ export const dil_se: Song = {
     },
     {
       "original": "कभी चला है moon पे uh",
+      "romanized": "Kabhee chalaa hai moon pe uh",
       "speaker": "Calm",
       "translation": "Sometimes walking on the moon, uh,",
       "explanation": "Feeling on top of the world or high on success.",
@@ -175,6 +192,7 @@ export const dil_se: Song = {
     },
     {
       "original": "हैं 11k भाई पे",
+      "romanized": "Hain 11k bhaaee pe",
       "speaker": "Calm",
       "translation": "I've got 11k on me, brother.",
       "explanation": "Likely referring to 11,000 volts (energy/power) or a specific amount/reference common in his circle.",
@@ -187,6 +205,7 @@ export const dil_se: Song = {
     },
     {
       "original": "All about पैसे और rain",
+      "romanized": "All about paise aur rain",
       "speaker": "Calm",
       "translation": "It's all about money and the rain.",
       "explanation": "Making it rain (spending money) or the constant grind for wealth.",
@@ -194,6 +213,7 @@ export const dil_se: Song = {
     },
     {
       "original": "All about hunting and spraying",
+      "romanized": "All about hunting and spraying",
       "speaker": "Calm",
       "translation": "All about hunting and spraying,",
       "explanation": "Metaphor for aggressive pursuit of goals and 'spraying' bars (lyrics) or dominance.",
@@ -201,6 +221,7 @@ export const dil_se: Song = {
     },
     {
       "original": "छोड़े K9 game पे to pave my way",
+      "romanized": "Chhore K9 game pe to pave my way",
       "speaker": "Calm",
       "translation": "Released the K9s on the game to pave my way,",
       "explanation": "Using attack dogs as a metaphor for his fierce lyricism and competitive drive.",
@@ -219,6 +240,7 @@ export const dil_se: Song = {
     },
     {
       "original": "आए SM यहाँ to save the day",
+      "romanized": "Aae SM yahaan to save the day",
       "speaker": "Calm",
       "translation": "SM (Seedhe Maut) came here to save the day,",
       "explanation": "Asserting their position as the saviors of the Indian Hip Hop scene.",
@@ -231,6 +253,7 @@ export const dil_se: Song = {
     },
     {
       "original": "बावे Razor blade",
+      "romanized": "Baave Razor blade",
       "speaker": "Calm",
       "translation": "Bro, razor blade,",
       "explanation": "Describing his sharp flow and dangerous precision.",
@@ -245,6 +268,7 @@ export const dil_se: Song = {
     },
     {
       "original": "ये गाने लिखूँ उनके लिए who like to chase the plane",
+      "romanized": "Ye gaane likhoon unke lie who like to chase the plane",
       "speaker": "Calm",
       "translation": "I write these songs for those who like to chase the plane,",
       "explanation": "Dedicated to high-achievers or those aspiring for big things (jet-setters).",
@@ -252,6 +276,7 @@ export const dil_se: Song = {
     },
     {
       "original": "आ रहा खुद को नहीं ये समझ कि वक़्त ain’t the same",
+      "romanized": "Aa rahaa khud ko naheen ye samjh ki vaqt ain’t the same",
       "speaker": "Calm",
       "translation": "Not even realizing myself that times aren't the same,",
       "explanation": "Surprised by how much life has changed from the old days.",
@@ -259,6 +284,7 @@ export const dil_se: Song = {
     },
     {
       "original": "कि हमने भरे खाली पन्ने and we changed the game",
+      "romanized": "Ki hamne bhare khaalee panne and we changed the game",
       "speaker": "Calm",
       "translation": "That we filled empty pages and changed the game.",
       "explanation": "Their songwriting transformed the landscape of Indian rap.",
@@ -266,6 +292,7 @@ export const dil_se: Song = {
     },
     {
       "original": "हाँ यहाँ पे यार हैं साथ में जितने",
+      "romanized": "Haan yahaan pe yaar hain saath men jitne",
       "speaker": "Encore ABJ",
       "translation": "Yeah, all the friends who are here with me,",
       "explanation": "Chorus repeat.",
@@ -273,6 +300,7 @@ export const dil_se: Song = {
     },
     {
       "original": "उनसे प्यार है पूरे दिल से",
+      "romanized": "Unse pyaar hai poore dil se",
       "speaker": "Encore ABJ",
       "translation": "I love them with all my heart.",
       "explanation": "Chorus repeat.",
@@ -280,6 +308,7 @@ export const dil_se: Song = {
     },
     {
       "original": "यहाँ खाली आधे अधूरे ख़्वाब थे",
+      "romanized": "Yahaan khaalee aadhe adhoore khvaab the",
       "speaker": "Encore ABJ",
       "translation": "There were only half-finished dreams here,",
       "explanation": "Chorus repeat.",
@@ -287,6 +316,7 @@ export const dil_se: Song = {
     },
     {
       "original": "पूरे हो रहे साथ में मिलके",
+      "romanized": "Poore ho rahe saath men milke",
       "speaker": "Encore ABJ",
       "translation": "They are coming true now that we're together.",
       "explanation": "Chorus repeat.",
@@ -294,6 +324,7 @@ export const dil_se: Song = {
     },
     {
       "original": "Blicky बावे तेरा बावे on the run",
+      "romanized": "Blicky baave teraa baave on the run",
       "speaker": "Ab 17",
       "translation": "Blicky, bro, your boy is on the run,",
       "explanation": "'Blicky' is slang for a gun; Ab 17 brings his signature gritty, street-style flow.",
@@ -310,6 +341,7 @@ export const dil_se: Song = {
     },
     {
       "original": "Affiliated बंदे देना चेहरे dust",
+      "romanized": "Affiliated bande denaa chehre dust",
       "speaker": "Ab 17",
       "translation": "Affiliated guys, making faces bite the dust,",
       "explanation": "Refers to street affiliations and defeating rivals.",
@@ -317,6 +349,7 @@ export const dil_se: Song = {
     },
     {
       "original": "थामूँ हाथ उसका जिसने थामी foil",
+      "romanized": "Thaamoon haath uskaa jisne thaamee foil",
       "speaker": "Ab 17",
       "translation": "I hold the hand of the one who held the foil,",
       "explanation": "A raw reference to drug addiction (using foil to smoke) and loyalty to friends in dark places.",
@@ -329,6 +362,7 @@ export const dil_se: Song = {
     },
     {
       "original": "यह यहाँ की city language बच्चे हो रहे spoil",
+      "romanized": "Yah yahaan kee city language bachche ho rahe spoil",
       "speaker": "Ab 17",
       "translation": "This is the city language here, kids are getting spoiled,",
       "explanation": "Ab 17 reflects on the harsh environment of Delhi where kids grow up too fast.",
@@ -336,6 +370,7 @@ export const dil_se: Song = {
     },
     {
       "original": "बस अब तक फूँका नहीं, मैं फिर से भरा on it",
+      "romanized": "Bas ab tak phoonkaa naheen, main phir se bharaa on it",
       "speaker": "Ab 17",
       "translation": "Just haven't smoked it yet, I'm loaded up on it again,",
       "explanation": "Can refer to being ready for action or a specific substance context.",
@@ -343,6 +378,7 @@ export const dil_se: Song = {
     },
     {
       "original": "और मेरा दोस्त राज़ी है 4.5 कर रहा polish",
+      "romanized": "Aur meraa dost raazee hai 4.5 kar rahaa polish",
       "speaker": "Ab 17",
       "translation": "And my friend is ready, he's polishing the 4.5,",
       "explanation": "Likely referring to a weapon (.45 caliber) or specialized car rims/tools.",
@@ -350,6 +386,7 @@ export const dil_se: Song = {
     },
     {
       "original": "बस उसके ड्रामे चल रहे फिर भी hop in",
+      "romanized": "Bas uske draame chal rahe phir bhee hop in",
       "speaker": "Ab 17",
       "translation": "Just his drama going on, but still, hop in,",
       "explanation": "Ignoring complications and moving forward.",
@@ -364,6 +401,7 @@ export const dil_se: Song = {
     },
     {
       "original": "दिक्कतें काफ़ी हैं पर गायब जैसे short list",
+      "romanized": "Dikkten kaafee hain par gaayb jaise short list",
       "speaker": "Ab 17",
       "translation": "There are many problems, but they disappear like a shortlist,",
       "explanation": "When things get 'short-listed', many options are removed; similarly, he eliminates his issues.",
@@ -378,6 +416,7 @@ export const dil_se: Song = {
     },
     {
       "original": "बस जब तक ताक़त मेरे कंधों में तो promise",
+      "romanized": "Bas jab tak taaqt mere kandhon men to promise",
       "speaker": "Ab 17",
       "translation": "As long as there's strength in my shoulders, I promise,",
       "explanation": "A pledge of resilience and support.",
@@ -392,6 +431,7 @@ export const dil_se: Song = {
     },
     {
       "original": "तेरा बावे on it, तेरा बावे on it",
+      "romanized": "Teraa baave on it, teraa baave on it",
       "speaker": "Ab 17",
       "translation": "Your bro is on it, your bro is on it.",
       "explanation": "Repetition for emphasis on reliability.",
@@ -399,6 +439,7 @@ export const dil_se: Song = {
     },
     {
       "original": "Busy life मेरी stalk करे weelo को छोड़",
+      "romanized": "Busy life meree stalk kare weelo ko chhor",
       "speaker": "Ab 17",
       "translation": "My life is busy, stop stalking the 'weelo' and leave it,",
       "explanation": "'Weelo' refers to wheelies or a specific lifestyle/slang from Ab 17's circle (Najafgarh/Delhi).",
@@ -418,6 +459,7 @@ export const dil_se: Song = {
     },
     {
       "original": "मेरा हाथों में ना rocks बावे foil की गोद",
+      "romanized": "Meraa haathon men naa rocks baave foil kee god",
       "speaker": "Ab 17",
       "translation": "No 'rocks' (diamonds/drugs) in my hands, bro, just the lap of the foil,",
       "explanation": "Contrasting the glamorous 'rocks' with the gritty reality of the streets.",
@@ -432,6 +474,7 @@ export const dil_se: Song = {
     },
     {
       "original": "बस दिल shine करे मेरा evil की ओर",
+      "romanized": "Bas dil shine kare meraa evil kee or",
       "speaker": "Ab 17",
       "translation": "Just let my heart shine towards the evil,",
       "explanation": "Acknowledging a dark side or staying bright in a bad environment.",
@@ -439,6 +482,7 @@ export const dil_se: Song = {
     },
     {
       "original": "मेरी eye sight दिखा रही मुझे तारों तक पहुँच",
+      "romanized": "Meree eye sight dikhaa rahee mujhe taaron tak pahunch",
       "speaker": "Ab 17",
       "translation": "My eyesight is showing me the reach to the stars,",
       "explanation": "Ambitious vision despite his surroundings.",
@@ -446,6 +490,7 @@ export const dil_se: Song = {
     },
     {
       "original": "Feeling life first time तेरा बावे है on it",
+      "romanized": "Feeling life first time teraa baave hai on it",
       "speaker": "Ab 17",
       "translation": "Feeling life for the first time, your bro is on it.",
       "explanation": "A sense of newfound clarity or success.",
@@ -453,6 +498,7 @@ export const dil_se: Song = {
     },
     {
       "original": "बावे है on it, तेरा बावे है on it",
+      "romanized": "Baave hai on it, teraa baave hai on it",
       "speaker": "Ab 17",
       "translation": "Bro is on it, your bro is on it.",
       "explanation": "Outro of the verse.",
@@ -467,6 +513,7 @@ export const dil_se: Song = {
     },
     {
       "original": "हाँ यहाँ पे यार हैं साथ में जितने",
+      "romanized": "Haan yahaan pe yaar hain saath men jitne",
       "speaker": "Encore ABJ",
       "translation": "Yeah, all the friends who are here with me,",
       "explanation": "Chorus repeat.",
@@ -481,6 +528,7 @@ export const dil_se: Song = {
     },
     {
       "original": "उनसे प्यार है पूरे दिल से",
+      "romanized": "Unse pyaar hai poore dil se",
       "speaker": "Encore ABJ",
       "translation": "I love them with all my heart.",
       "explanation": "Chorus repeat.",
@@ -488,6 +536,7 @@ export const dil_se: Song = {
     },
     {
       "original": "यहाँ खाली आधे अधूरे ख़्वाब थे",
+      "romanized": "Yahaan khaalee aadhe adhoore khvaab the",
       "speaker": "Encore ABJ",
       "translation": "There were only half-finished dreams here,",
       "explanation": "Chorus repeat.",
@@ -502,6 +551,7 @@ export const dil_se: Song = {
     },
     {
       "original": "पूरे हो रहे साथ में मिलके",
+      "romanized": "Poore ho rahe saath men milke",
       "speaker": "Encore ABJ",
       "translation": "They are coming true now that we're together.",
       "explanation": "Chorus repeat.",
@@ -509,6 +559,7 @@ export const dil_se: Song = {
     },
     {
       "original": "तो बुरी सलाहें देती हैं ज़ख़्म",
+      "romanized": "To buree salaahen detee hain zakhm",
       "speaker": "Encore ABJ",
       "translation": "Bad advice gives wounds,",
       "explanation": "Reflecting on how wrong influences caused him pain in the past.",
@@ -516,6 +567,7 @@ export const dil_se: Song = {
     },
     {
       "original": "तो चाहे होंठों से या हाथों से",
+      "romanized": "To chaahe honthon se yaa haathon se",
       "speaker": "Encore ABJ",
       "translation": "Whether from lips or from hands,",
       "explanation": "Wounds can be verbal (insults) or physical/action-based.",
@@ -523,6 +575,7 @@ export const dil_se: Song = {
     },
     {
       "original": "मैं गौर फ़रमाता हूँ बातों पे",
+      "romanized": "Main gaur farmaataa hoon baaton pe",
       "speaker": "Encore ABJ",
       "translation": "I pay close attention to the words,",
       "explanation": "Encore is a lyricist who values the weight of what is being said.",
@@ -530,6 +583,7 @@ export const dil_se: Song = {
     },
     {
       "original": "दिल से निकले, उसमें क्या है शर्म?",
+      "romanized": "Dil se nikle, usmen kyaa hai sharm?",
       "speaker": "Encore ABJ",
       "translation": "If it comes from the heart, what's there to be ashamed of?",
       "explanation": "Encouraging emotional honesty and vulnerability.",
@@ -537,6 +591,7 @@ export const dil_se: Song = {
     },
     {
       "original": "फ़िक्र झलकती बातों में",
+      "romanized": "Fikr jhalktee baaton men",
       "speaker": "Encore ABJ",
       "translation": "Concern shows in the talk,",
       "explanation": "True care is visible in how people speak to you.",
@@ -544,6 +599,7 @@ export const dil_se: Song = {
     },
     {
       "original": "जो हैं बंद दिल के दरवाज़ों में",
+      "romanized": "Jo hain band dil ke darvaazon men",
       "speaker": "Encore ABJ",
       "translation": "Those which are locked behind the doors of the heart.",
       "explanation": "Referring to deep-seated emotions and secrets.",
@@ -558,6 +614,7 @@ export const dil_se: Song = {
     },
     {
       "original": "मैं उसे बोला देखो",
+      "romanized": "Main use bolaa dekho",
       "speaker": "Encore ABJ",
       "translation": "I told her, look,",
       "explanation": "Starting a dialogue with a romantic interest or a skeptic.",
@@ -565,6 +622,7 @@ export const dil_se: Song = {
     },
     {
       "original": "जज़्बात देखो, बातों को मेरी न ज़्यादा देखो",
+      "romanized": "Jazbaat dekho, baaton ko meree na zyaadaa dekho",
       "speaker": "Encore ABJ",
       "translation": "Look at the emotions, don't look too much at just my words.",
       "explanation": "Asking someone to understand the intent and feeling, not just the literal meaning.",
@@ -572,6 +630,7 @@ export const dil_se: Song = {
     },
     {
       "original": "वो बोली बातें देखी नहीं जातीं, बातें यहाँ सुनी जाती हैं",
+      "romanized": "Vo bolee baaten dekhee naheen jaateen, baaten yahaan sunee jaatee hain",
       "speaker": "Encore ABJ",
       "translation": "She said 'Words aren't seen, words are heard here.'",
       "explanation": "A play on the literal vs. metaphorical meaning of 'seeing' what someone says.",
@@ -579,6 +638,7 @@ export const dil_se: Song = {
     },
     {
       "original": "उसे मैं बोला आँखों की भाषा शायद तू नहीं जानती है",
+      "romanized": "Use main bolaa aankhon kee bhaashaa shaayd too naheen jaantee hai",
       "speaker": "Encore ABJ",
       "translation": "I told her, 'Maybe you don't know the language of the eyes.'",
       "explanation": "Non-verbal communication and soulful connection vs. just talking.",
@@ -586,6 +646,7 @@ export const dil_se: Song = {
     },
     {
       "original": "दिखेगा कैसे उसे, यहाँ हर जगह जब दिखता गाँधी है",
+      "romanized": "Dikhegaa kaise use, yahaan har jagh jab dikhtaa gaandhee hai",
       "speaker": "Encore ABJ",
       "translation": "How will she see it, when all she sees everywhere is Gandhi?",
       "explanation": "Brilliant double entendre: 'Gandhi' refers to the portrait of Mahatma Gandhi on Indian currency notes. He's saying she's blinded by money.",
@@ -598,6 +659,7 @@ export const dil_se: Song = {
     },
     {
       "original": "वो तुझे नहीं चाहती, वो चाहती है बस तेरा पैसा",
+      "romanized": "Vo tujhe naheen chaahtee, vo chaahtee hai bas teraa paisaa",
       "speaker": "Encore ABJ",
       "translation": "She doesn't want you; she just wants your money.",
       "explanation": "A warning about materialistic relationships in the wake of fame.",
@@ -612,6 +674,7 @@ export const dil_se: Song = {
     },
     {
       "original": "तो लगा मैं खुद पे legacy करी जैसे Lego",
+      "romanized": "To lagaa main khud pe legacy karee jaise Lego",
       "speaker": "Encore ABJ",
       "translation": "So I focused on myself, built a legacy like Legos.",
       "explanation": "Wordplay: Lego blocks are used to build things; he's building his legacy piece by piece.",
@@ -634,6 +697,7 @@ export const dil_se: Song = {
     },
     {
       "original": "Bro I’m leaving the past",
+      "romanized": "Bro I’m leaving the past",
       "speaker": "Encore ABJ",
       "translation": "Bro, I'm leaving the past,",
       "explanation": "Moving on from traumas and old versions of himself.",
@@ -641,6 +705,7 @@ export const dil_se: Song = {
     },
     {
       "original": "I used to live in the past",
+      "romanized": "I used to live in the past",
       "speaker": "Encore ABJ",
       "translation": "I used to live in the past,",
       "explanation": "Admitting to being stuck in nostalgia or regret previously.",
@@ -648,6 +713,7 @@ export const dil_se: Song = {
     },
     {
       "original": "अब करूँ cook with the gang",
+      "romanized": "Ab karoon cook with the gang",
       "speaker": "Encore ABJ",
       "translation": "Now I cook with the gang,",
       "explanation": "'Cooking' is slang for making music/hits in the studio with his team.",
@@ -666,6 +732,7 @@ export const dil_se: Song = {
     },
     {
       "original": "और बाज़ू पूरी रात",
+      "romanized": "Aur baazoo pooree raat",
       "speaker": "Encore ABJ",
       "translation": "And it rings/plays all night long.",
       "explanation": "His music is being played everywhere, all the time.",
@@ -680,6 +747,7 @@ export const dil_se: Song = {
     },
     {
       "original": "हाँ यहाँ पे यार हैं साथ में जितने",
+      "romanized": "Haan yahaan pe yaar hain saath men jitne",
       "speaker": "Encore ABJ",
       "translation": "Yeah, all the friends who are here with me,",
       "explanation": "Final chorus repeat.",
@@ -687,6 +755,7 @@ export const dil_se: Song = {
     },
     {
       "original": "उनसे प्यार है पूरे दिल से",
+      "romanized": "Unse pyaar hai poore dil se",
       "speaker": "Encore ABJ",
       "translation": "I love them with all my heart.",
       "explanation": "Final chorus repeat.",
@@ -694,6 +763,7 @@ export const dil_se: Song = {
     },
     {
       "original": "यहाँ खाली आधे अधूरे ख़्वाब थे",
+      "romanized": "Yahaan khaalee aadhe adhoore khvaab the",
       "speaker": "Encore ABJ",
       "translation": "There were only half-finished dreams here,",
       "explanation": "Final chorus repeat.",
@@ -701,6 +771,7 @@ export const dil_se: Song = {
     },
     {
       "original": "पूरे हो रहे साथ में मिलके",
+      "romanized": "Poore ho rahe saath men milke",
       "speaker": "Encore ABJ",
       "translation": "They are coming true now that we're together.",
       "explanation": "Final chorus repeat.",

@@ -9,6 +9,7 @@ export const luka_chippi: Song = {
   "lyrics": [
     {
       "original": "तेरा भाई Seedhe Maut",
+      "romanized": "Tera bhai Seedhe Maut",
       "speaker": "Calm",
       "translation": "Your brother, Seedhe Maut.",
       "explanation": "Calm opens the track with the duo's signature tagline, asserting their identity.",
@@ -28,6 +29,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "होती रहती हथेली में खुजली",
+      "romanized": "Hoti rehti hatheli mein khujli",
       "speaker": "Calm",
       "translation": "My palms keep itching.",
       "explanation": "In Indian culture, an itching palm is a superstition signifying that money is coming in.",
@@ -41,6 +43,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "चीते खूंखार, 2Pac, Biggie",
+      "romanized": "Cheete khoonkhaara, 2Pac, Biggie",
       "speaker": "Calm",
       "translation": "Ferocious leopards, 2Pac, Biggie.",
       "explanation": "Comparing their ferocity and legendary status in the Indian scene to global rap icons 2Pac and Notorious B.I.G.",
@@ -54,6 +57,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Movie में जी रहे हैं hero कवि",
+      "romanized": "Movie men jee rahe hain hero kavi",
       "speaker": "Calm",
       "translation": "Living in a movie, the hero is the poet.",
       "explanation": "Calm often refers to himself as 'Kavi' (poet). He feels his life has become as surreal as a movie.",
@@ -67,6 +71,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "जो हैं सब मुंह पे no लुका छिप्पी",
+      "romanized": "Jo hain saba munha pe no lukaa chhippee",
       "speaker": "Calm",
       "translation": "Whatever it is, it's on your face, no hide and seek.",
       "explanation": "Reference to the song title. He claims to be direct and transparent rather than playing games.",
@@ -86,6 +91,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "रुके Westin",
+      "romanized": "Ruke Westin",
       "speaker": "Calm",
       "translation": "Staying at the Westin.",
       "explanation": "A flex about staying in luxury five-star hotels while on tour.",
@@ -99,6 +105,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "करे नौशा check-in",
+      "romanized": "Kare naushaa check-in",
       "speaker": "Calm",
       "translation": "Nausha is checking in.",
       "explanation": "Nausha is Calm's real first name (Siddhant Sharma is his full name, but Nausha is a nickname/middle name).",
@@ -112,6 +119,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "मेरा तोहफा है weapon",
+      "romanized": "Meraa tohaphaa hai waeapon",
       "speaker": "Calm",
       "translation": "My gift is a weapon.",
       "explanation": "His talent (gift) for rap is lethal to his competition.",
@@ -119,6 +127,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "करो push ना button",
+      "romanized": "Karo push naa button",
       "speaker": "Calm",
       "translation": "Don't push my buttons.",
       "explanation": "A warning not to provoke him or test his patience.",
@@ -126,6 +135,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "ना-ना करते करते भाई ने मारे अब तक छप्पन",
+      "romanized": "Naa-naa karate karate bhaaee ne maare aba taka chhappana",
       "speaker": "Calm",
       "translation": "While saying no, your brother has already hit fifty-six.",
       "explanation": "Reference to the movie 'Ab Tak Chhappan' (which is about police encounters). He’s metaphorically 'killing' tracks or counting his successes.",
@@ -139,6 +149,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "नहीं याद अब stage थे कितने, खोले किसने, कितने ढक्कन (मां की चूत भाई)",
+      "romanized": "Naheen yaada aba stage the kitane, khole kisane, kitane dhakkana (maan kee choota bhaaee)",
       "speaker": "Calm",
       "translation": "Don't remember how many stages there were, or who opened how many bottles.",
       "explanation": "Refers to the chaotic and successful lifestyle of touring and partying (opening 'dhakkan' or bottle caps).",
@@ -146,6 +157,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "इस industry से किलस गया",
+      "romanized": "Isa industry se kilasa gayaa",
       "speaker": "Calm",
       "translation": "I'm frustrated with this industry.",
       "explanation": "'Kilas' is Delhi slang for getting annoyed or frustrated.",
@@ -165,6 +177,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "हूं फाड़ू में जबसे था beginner",
+      "romanized": "Hoon phaaड़oo men jabase thaa beginner",
       "speaker": "Calm",
       "translation": "I've been dope since I was a beginner.",
       "explanation": "Asserting that his skill level was high even at the start of his career.",
@@ -172,6 +185,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "पता था तभी कि हूं नहीं मैं similar",
+      "romanized": "Pataa thaa tabhee ki hoon naheen main similar",
       "speaker": "Calm",
       "translation": "I knew even then that I wasn't like the others.",
       "explanation": "He always felt unique and destined for greatness.",
@@ -179,6 +193,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Show था तो पूछा कि if I look good or not",
+      "romanized": "Showa thaa to poochhaa ki if I look good or not",
       "speaker": "Calm",
       "translation": "Had a show, so I asked if I looked good or not.",
       "explanation": "Describing a backstage moment before a performance.",
@@ -186,6 +201,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "बोली कि, \"Makeup लगा ले बस hickey पर\"",
+      "romanized": "Bolee ki, \\\"Makeup lagaa le basa hickey para\\\"",
       "speaker": "Calm",
       "translation": "She said, 'Just put some makeup on that hickey.'",
       "explanation": "A rockstar flex implying he had a wild night before the show.",
@@ -193,6 +209,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Show के बाद बोली कि है तू तो lucky पर, जानती नहीं पीछे की story और हकीकत",
+      "romanized": "Showa ke baada bolee ki hai too to lucky para, jaanatee naheen peechhe kee story aura hakeekata",
       "speaker": "Calm",
       "translation": "After the show she said I'm lucky, but she doesn't know the story and reality behind it.",
       "explanation": "People see the success (luck) but don't see the years of struggle and hard work.",
@@ -200,6 +217,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "दिखे जो fame और ये glitter, ये नगीना, money के पीछे है बहा बहुत पसीना",
+      "romanized": "Dikhe jo fame aura ye glitter, ye nageenaa, money ke peechhe hai bahaa bahuta paseenaa",
       "speaker": "Calm",
       "translation": "The fame, glitter, and gems you see—there's a lot of sweat shed behind that money.",
       "explanation": "Reiterating that their lifestyle is earned through intense physical and mental effort.",
@@ -214,6 +232,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "कवि को गुस्सा बहुत आता है",
+      "romanized": "Kavi ko gussaa bahuta aataa hai",
       "speaker": "Calm",
       "translation": "The poet gets very angry.",
       "explanation": "Calm (the Kavi) acknowledging his short temper or aggressive rap style.",
@@ -221,6 +240,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "तेरा भाई सारा वज़न खुद से उठाता है",
+      "romanized": "Teraa bhaaee saaraa vaज़na khuda se uthaataa hai",
       "speaker": "Calm",
       "translation": "Your brother carries all the weight himself.",
       "explanation": "Self-reliance; he handles his responsibilities and career without handouts.",
@@ -228,6 +248,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "छोटे मोटे जाने माने rapper'on का papa है",
+      "romanized": "Chhote mote jaane maane rapper'on kaa papa hai",
       "speaker": "Calm",
       "translation": "He's the father of all these 'well-known' small-time rappers.",
       "explanation": "A classic hip-hop claim of being the 'daddy' or the superior influence in the scene.",
@@ -235,6 +256,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "सारे छुपे जाकर जबहि मुँह से चले ठाए ठाए",
+      "romanized": "Saare chhupe jaakara jabahi munha se chale thaae thaae",
       "speaker": "Calm",
       "translation": "Everyone goes into hiding when my mouth goes 'bang bang'.",
       "explanation": "His words/bars are compared to gunshots that scare away rivals.",
@@ -248,6 +270,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "सुबह देखा paper'on में लिखे दोनों नाम आए",
+      "romanized": "Subaha dekhaa paper'on men likhe donon naama aae",
       "speaker": "Calm",
       "translation": "In the morning, saw both our names in the newspapers.",
       "explanation": "Refers to the duo (Encore and Calm) making headlines due to their success.",
@@ -255,6 +278,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "सर फटते सब बजे, जब बजे baseline",
+      "romanized": "Sara phatate saba baje, jaba baje baseline",
       "speaker": "Calm",
       "translation": "Heads explode when the baseline hits.",
       "explanation": "A comment on the heavy production of the track and its impact on the listener.",
@@ -269,6 +293,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "तेरा भाई Seedhe Maut!",
+      "romanized": "Teraa bhaaee Seedhe Maut!",
       "speaker": "Calm",
       "translation": "Your brother, Seedhe Maut!",
       "explanation": "Closing the verse with the signature tagline.",
@@ -276,6 +301,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "302 mafia",
+      "romanized": "302 mafia",
       "speaker": "Bandzo3rd",
       "translation": "302 mafia.",
       "explanation": "Section 302 of the Indian Penal Code is for murder. Used here to establish a 'killer' persona.",
@@ -289,6 +315,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Big Bandzo3rd",
+      "romanized": "Big Bandzo3rd",
       "speaker": "Bandzo3rd",
       "translation": "Big Bandzo3rd.",
       "explanation": "The artist introduces himself.",
@@ -296,6 +323,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Shi'!",
+      "romanized": "Shi'!",
       "speaker": "Bandzo3rd",
       "translation": "Shit!",
       "explanation": "Ad-lib.",
@@ -310,6 +338,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "मुड़ के ना देखें ये जानी मैं लूँ ऐसे",
+      "romanized": "Muड़ ke naa dekhen ye jaanee main loon aise",
       "speaker": "Bandzo3rd",
       "translation": "They don't look back, darling, the way I take them.",
       "explanation": "Suggesting his impact is so final or aggressive that there is no looking back.",
@@ -317,6 +346,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "आप जो सुन रहे हो, भेजे के कुएं से",
+      "romanized": "Aapa jo suna rahe ho, bheje ke kuen se",
       "speaker": "Bandzo3rd",
       "translation": "What you're hearing is from the well of the mind.",
       "explanation": "His lyrics come from deep within his thoughts/brain ('bheja').",
@@ -324,6 +354,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "नाखुश से हुस्न माना रह रहा हूँ मैं जुए से",
+      "romanized": "Naakhusha se husna maanaa raha rahaa hoon main jue se",
       "speaker": "Bandzo3rd",
       "translation": "Unhappy with the beauty, I feel like I'm living off a gamble.",
       "explanation": "Life or the industry feels like a risky game/gamble despite the outward 'beauty' or success.",
@@ -338,6 +369,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "प्यार नहीं करती, बना रही वो मुँह ऐसे",
+      "romanized": "Pyaara naheen karatee, banaa rahee vo munha aise",
       "speaker": "Bandzo3rd",
       "translation": "She doesn't love me, she's just making faces like that.",
       "explanation": "Describing a superficial or fake relationship.",
@@ -352,6 +384,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "काम होता दस्ती, यहाँ होता नहीं, 'क्यों? कैसे?'",
+      "romanized": "Kaama hotaa dastee, yahaan hotaa naheen, 'kyon? kaise?'",
       "speaker": "Bandzo3rd",
       "translation": "Work happens instantly here, no 'why' or 'how'.",
       "explanation": "'Dasti' means immediately. He emphasizes efficiency and action over questions.",
@@ -365,6 +398,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "रब्बा, हम छोड़ दें, ये सब तू छू ऐसे",
+      "romanized": "Rabbaa, hama chhoड़ den, ye saba too chhoo aise",
       "speaker": "Bandzo3rd",
       "translation": "God, let us leave this, you touch it like this.",
       "explanation": "A plea or a spiritual moment amidst the chaos of the lifestyle.",
@@ -372,6 +406,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "आवाज़ गई दिल्ली तक, रहता मैं USA",
+      "romanized": "Aavaaज़ gaee dillee taka, rahataa main USA",
       "speaker": "Bandzo3rd",
       "translation": "My voice reached Delhi, though I live in USA.",
       "explanation": "Wordplay: USA in Delhi slang refers to Uttam Nagar, Sangam Vihar, and Ambedkar Nagar. Bandzo is also based in the UK/abroad, adding layers to the 'abroad' claim.",
@@ -385,6 +420,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Seedhe Maut, दब्ब बज रहा है K-town में सुबह से",
+      "romanized": "Seedhe Maut, dabba baja rahaa hai K-towan men subaha se",
       "speaker": "Bandzo3rd",
       "translation": "Seedhe Maut is blasting in K-town since morning.",
       "explanation": "K-town refers to Karol Bagh, a neighborhood in Delhi. Their music is everywhere.",
@@ -398,6 +434,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Seedhe Maut बजरा है K-town में सुबह से",
+      "romanized": "Seedhe Maut bajaraa hai K-towan men subaha se",
       "speaker": "Encore ABJ",
       "translation": "Seedhe Maut has been playing in K-town since morning.",
       "explanation": "Encore picks up the hook, reinforcing their dominance in the city's hoods.",
@@ -412,6 +449,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "वहां पे मैं सोरा हूँ, बंदी के चूचे पे",
+      "romanized": "Vahaan pe main soraa hoon, bandee ke chooche pe",
       "speaker": "Encore ABJ",
       "translation": "I'm sleeping there, on my girl's chest.",
       "explanation": "A crude, rockstar-esque flex about his lifestyle and comfort.",
@@ -426,6 +464,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "उसको है दिक्कत नी कमरे के धुएं से",
+      "romanized": "Usako hai dikkata nee kamare ke dhuen se",
       "speaker": "Encore ABJ",
       "translation": "She has no problem with the smoke in the room.",
       "explanation": "Referring to smoking (likely weed) in the room; his partner is cool with his habits.",
@@ -433,6 +472,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "मैं उसका पानी हूँ, दिल्ली के कुएं में",
+      "romanized": "Main usakaa paanee hoon, dillee ke kuen men",
       "speaker": "Encore ABJ",
       "translation": "I am her water, in the well of Delhi.",
       "explanation": "Metaphor for being essential or a 'source' for her in the city.",
@@ -440,6 +480,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Drip है Japan'i",
+      "romanized": "Drip hai Japan'i",
       "speaker": "Encore ABJ",
       "translation": "The style (drip) is Japanese.",
       "explanation": "Refers to high-end Japanese fashion which is highly regarded in streetwear.",
@@ -453,6 +494,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "ये jacket है Evisu",
+      "romanized": "Ye jacket hai Evisu",
       "speaker": "Encore ABJ",
       "translation": "This jacket is Evisu.",
       "explanation": "Evisu is a premium Japanese designer clothing brand known for its denim and jackets.",
@@ -466,6 +508,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Attach नहीं होता",
+      "romanized": "Attach naheen hotaa",
       "speaker": "Encore ABJ",
       "translation": "I don't get attached.",
       "explanation": "A play on words between emotional attachment and the following line's pun.",
@@ -480,6 +523,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "मैं सर पे attaché दूँ",
+      "romanized": "Main sara pe attaché doon",
       "speaker": "Encore ABJ",
       "translation": "I'll hit your head with an attaché (briefcase).",
       "explanation": "Wordplay on 'attach'. An attaché is a flat briefcase; he's using it as a metaphorical weapon.",
@@ -499,6 +543,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Macaroni खुद से बनारा, मैं Bambino",
+      "romanized": "Macaroni khuda se banaaraa, main Bambino",
       "speaker": "Encore ABJ",
       "translation": "Making macaroni myself, I'm Bambino.",
       "explanation": "Bambino is a famous Indian brand for macaroni. 'Bambino' also means 'child' in Italian; he's a self-made 'kid'.",
@@ -512,6 +557,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "उसको मैं बोला, \"आप जैसी हो, वैसी रहो\"",
+      "romanized": "Usako main bolaa, \\\"aapa jaisee ho, vaisee raho\\\"",
       "speaker": "Encore ABJ",
       "translation": "I told her, 'Stay the way you are.'",
       "explanation": "Telling a partner to remain authentic.",
@@ -519,6 +565,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "वो बोली, \"मैं तो जी वैसी की वैसी हूँ",
+      "romanized": "Vo bolee, \\\"main to jee vaisee kee vaisee hoon",
       "speaker": "Encore ABJ",
       "translation": "She said, 'I am exactly the same as I was.'",
       "explanation": "The partner responding that she hasn't changed.",
@@ -533,6 +580,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "आपके इन झूठे से वादों की कैदी हूँ",
+      "romanized": "Aapake ina jhoothe se vaadon kee kaidee hoon",
       "speaker": "Encore ABJ",
       "translation": "I am a prisoner of these false promises of yours.",
       "explanation": "She calls out his lack of commitment or empty promises.",
@@ -540,6 +588,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "बदल गया खुद और यहाँ बोल रहा है कि \"बदलो मत\"",
+      "romanized": "Badala gayaa khuda aura yahaan bola rahaa hai ki \\\"badalo mata\\\"",
       "speaker": "Encore ABJ",
       "translation": "You changed yourself and yet you're telling me 'don't change'.",
       "explanation": "The girl points out his hypocrisy.",
@@ -547,6 +596,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "करदूं ना ज़बान को आपकी, मैं कद्दूकस\"",
+      "romanized": "Karadoon naa ज़baana ko aapakee, main kaddookasa\\\"",
       "speaker": "Encore ABJ",
       "translation": "I might just grate your tongue like a grater.",
       "explanation": "A 'Kaddukas' is a vegetable grater. He's using a violent metaphor to tell her to stop talking.",
@@ -560,6 +610,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "मैं बोला, \"Baby तू कर रही है बंदोबस्त",
+      "romanized": "Main bolaa, \\\"Baby too kara rahee hai bandobasta",
       "speaker": "Encore ABJ",
       "translation": "I said, 'Baby, you're making arrangements...'",
       "explanation": "Setting up the next line about her annoying him.",
@@ -567,6 +618,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "मेरे दिमाग की बजाने का घंटों तक\"",
+      "romanized": "Mere dimaaga kee bajaane kaa ghanton taka\\\"",
       "speaker": "Encore ABJ",
       "translation": "...to mess with my head for hours.'",
       "explanation": "'Dimaag ki bajana' means to annoy or frustrate someone intensely.",
@@ -574,6 +626,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "झंडे नी गाढ़े, मैं आ गया झंड होकर",
+      "romanized": "Jhande nee gaaढ़e, main aa gayaa jhanda hokara",
       "speaker": "Encore ABJ",
       "translation": "I didn't plant any flags; I came back feeling ruined.",
       "explanation": "Wordplay on 'Jhande gaadhna' (to achieve success) and 'Jhand hona' (to be embarrassed/ruined).",
@@ -587,6 +640,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "अकलमंद होते नी अकल से मंद होकर",
+      "romanized": "Akalamanda hote nee akala se manda hokara",
       "speaker": "Encore ABJ",
       "translation": "You don't become wise by being dim-witted.",
       "explanation": "Wordplay on 'Akalmand' (wise) and 'Akal se mand' (mentally slow).",
@@ -594,6 +648,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "समझा क्या तू?",
+      "romanized": "Samajhaa kyaa too?",
       "speaker": "Encore ABJ",
       "translation": "Did you understand?",
       "explanation": "A rhetorical question challenging the listener/opponent.",
@@ -601,6 +656,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "मैं industry से किलस गया हूँ",
+      "romanized": "Main industry se kilasa gayaa hoon",
       "speaker": "Encore ABJ",
       "translation": "I am frustrated with the industry.",
       "explanation": "Echoing Calm's sentiment about being fed up with the music business.",
@@ -608,6 +664,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "ऐसे किसी घोड़े जैसा बिदक गया हूँ",
+      "romanized": "Aise kisee ghoड़e jaisaa bidaka gayaa hoon",
       "speaker": "Encore ABJ",
       "translation": "I've become startled like a horse.",
       "explanation": "'Bidakna' means to shy away or get startled; he's unpredictable and wary now.",
@@ -615,6 +672,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "बंदी करी wet, फिर उसपे फिसल गया हूँ",
+      "romanized": "Bandee karee waet, phira usape phisala gayaa hoon",
       "speaker": "Encore ABJ",
       "translation": "Made the girl wet, then slipped on her.",
       "explanation": "A typical sexual boast/innuendo.",
@@ -629,6 +687,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "सुबह 6:30 से बोतल घटक रहा हूँ",
+      "romanized": "Subaha 6:30 se botala ghataka rahaa hoon",
       "speaker": "Encore ABJ",
       "translation": "I've been chugging the bottle since 6:30 AM.",
       "explanation": "Indicating a heavy, round-the-clock drinking habit.",
@@ -636,6 +695,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Phone है switched off, anti-social",
+      "romanized": "Phone hai swaitched off, anti-social",
       "speaker": "Encore ABJ",
       "translation": "Phone is switched off, anti-social.",
       "explanation": "He's cutting himself off from the world.",
@@ -643,6 +703,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Anti sober",
+      "romanized": "Anti sober",
       "speaker": "Encore ABJ",
       "translation": "Anti-sober.",
       "explanation": "Meaning he is intoxicated.",
@@ -657,6 +718,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Anti लोग जो बोलते हैं, करले तू diss, नहीं मिलेगा तुझे rap में यहाँ मेहनती होकर",
+      "romanized": "Anti loga jo bolate hain, karale too diss, naheen milegaa tujhe rap men yahaan mehanatee hokara",
       "speaker": "Encore ABJ",
       "translation": "Against people who say 'go ahead and diss', you won't get anything in rap here just by being hardworking.",
       "explanation": "Critiquing the industry where beef (disses) often gets more attention than pure hard work.",
@@ -671,6 +733,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "फुद्दु बातें, फुद्दु राय",
+      "romanized": "Phuddu baaten, phuddu raaya",
       "speaker": "Encore ABJ",
       "translation": "Stupid talk, stupid opinions.",
       "explanation": "'Fuddu' is North Indian slang for something foolish, worthless, or lame.",
@@ -684,6 +747,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "फुद्दु सोच, फुद्दु point of view",
+      "romanized": "Phuddu socha, phuddu point of viewa",
       "speaker": "Encore ABJ",
       "translation": "Stupid thinking, stupid point of view.",
       "explanation": "Dismissing the logic of his critics.",
@@ -691,6 +755,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "फुद्दु statement, फुद्दु लोग का फुद्दु मुद्दा",
+      "romanized": "Phuddu statement, phuddu loga kaa phuddu muddaa",
       "speaker": "Encore ABJ",
       "translation": "Stupid statement, stupid issue by stupid people.",
       "explanation": "Calling out the trivial matters people argue about in the rap scene.",
@@ -698,6 +763,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "फुद्दु fans को बोलके ये कटवारे हैं फुड्डू खुदका",
+      "romanized": "Phuddu fans ko bolake ye katavaare hain phuddoo khudakaa",
       "speaker": "Encore ABJ",
       "translation": "By talking to stupid fans, they are making fools of themselves.",
       "explanation": "Criticizing rappers who manipulate gullible fanbases and look foolish in the process.",
@@ -705,6 +771,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "ऐसी तैसी scene की मैं एक verse में उठादूँ maxi",
+      "romanized": "Aisee taisee scene kee main eka verse men uthaadoon maxi",
       "speaker": "Encore ABJ",
       "translation": "Screw the scene, I'll lift the 'maxi' (dress) in one verse.",
       "explanation": "'Utha doon maxi' is a provocative way of saying he will expose the scene's flaws or dominate it easily.",
@@ -719,6 +786,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Flow है busy, I'm relaxing",
+      "romanized": "Flowa hai busy, I'm relaxing",
       "speaker": "Encore ABJ",
       "translation": "Flow is busy, I'm relaxing.",
       "explanation": "His rap flow is complex and high-paced, while he himself remains calm.",
@@ -726,6 +794,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "We the answer, सीधे baddest",
+      "romanized": "We the answaer, seedhe baddest",
       "speaker": "Encore ABJ",
       "translation": "We are the answer, straight up the baddest.",
       "explanation": "Asserting Seedhe Maut's supremacy.",
@@ -740,6 +809,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "जिसको भी चाहिए हमसे भसड़ सुनो, you can have it",
+      "romanized": "Jisako bhee chaahie hamase bhasaड़ suno, you can have it",
       "speaker": "Encore ABJ",
       "translation": "Whoever wants beef with us, listen—you can have it.",
       "explanation": "'Bhasad' is Delhi slang for a mess, chaos, or a fight.",
@@ -759,6 +829,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "मुड़ के ना देखें ये जानी मैं लूँ ऐसे",
+      "romanized": "Muड़ ke naa dekhen ye jaanee main loon aise",
       "speaker": "Bandzo3rd",
       "translation": "They don't look back, darling, the way I take them.",
       "explanation": "Chorus repetition.",
@@ -773,6 +844,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "आप जो सुन रहे हो, भेजे के कुएं से",
+      "romanized": "Aapa jo suna rahe ho, bheje ke kuen se",
       "speaker": "Bandzo3rd",
       "translation": "What you're hearing is from the well of the mind.",
       "explanation": "Chorus repetition.",
@@ -780,6 +852,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "नाखुश से हुस्न माना रह रहा हूँ मैं जुए से",
+      "romanized": "Naakhusha se husna maanaa raha rahaa hoon main jue se",
       "speaker": "Bandzo3rd",
       "translation": "Unhappy with the beauty, I feel like I'm living off a gamble.",
       "explanation": "Chorus repetition.",
@@ -787,6 +860,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "प्यार नहीं करती, बना रही वो मुँह ऐसे",
+      "romanized": "Pyaara naheen karatee, banaa rahee vo munha aise",
       "speaker": "Bandzo3rd",
       "translation": "She doesn't love me, she's just making faces like that.",
       "explanation": "Chorus repetition.",
@@ -794,6 +868,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "काम होता दस्ती, यहाँ होता नहीं, 'क्यों? कैसे?'",
+      "romanized": "Kaama hotaa dastee, yahaan hotaa naheen, 'kyon? kaise?'",
       "speaker": "Bandzo3rd",
       "translation": "Work happens instantly here, no 'why' or 'how'.",
       "explanation": "Chorus repetition.",
@@ -801,6 +876,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "रब्बा, हम छोड़ दें, ये सब तू छू ऐसे",
+      "romanized": "Rabbaa, hama chhoड़ den, ye saba too chhoo aise",
       "speaker": "Bandzo3rd",
       "translation": "God, let us leave this, you touch it like this.",
       "explanation": "Chorus repetition.",
@@ -808,6 +884,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "आवाज़ गई दिल्ली तक, रहता मैं USA",
+      "romanized": "Aavaaज़ gaee dillee taka, rahataa main USA",
       "speaker": "Bandzo3rd",
       "translation": "My voice reached Delhi, though I live in USA.",
       "explanation": "Chorus repetition.",
@@ -815,6 +892,7 @@ export const luka_chippi: Song = {
     },
     {
       "original": "Seedhe Maut, दब्ब बज रहा है K-town में सुबह से",
+      "romanized": "Seedhe Maut, dabba baja rahaa hai K-towan men subaha se",
       "speaker": "Bandzo3rd",
       "translation": "Seedhe Maut is blasting in K-town since morning.",
       "explanation": "Chorus repetition.",

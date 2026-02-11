@@ -10,6 +10,7 @@ export const brand_new: Song = {
   "lyrics": [
     {
       "original": "Body bag ek, mahange mic do, Gucci bag teen",
+      "devanagari": "Body bag एक, महंगे mic दो, Gucci bag तीन",
       "speaker": "Calm",
       "translation": "One body bag, two expensive mics, three Gucci bags.",
       "explanation": "Calm starts a countdown of his life: one body bag for his competition, two high-end microphones for his craft, and three luxury bags signifying wealth.",
@@ -40,6 +41,7 @@ export const brand_new: Song = {
     },
     {
       "original": "Brand new",
+      "devanagari": "Brand new",
       "speaker": "Calm",
       "translation": "Brand new.",
       "explanation": "The recurring hook emphasizing the fresh, upgraded status of their lives and gear.",
@@ -47,6 +49,7 @@ export const brand_new: Song = {
     },
     {
       "original": "chhoti Gold ek ke jote bane chaar",
+      "devanagari": "छोटी Gold एक के जोटे बने चार",
       "speaker": "Calm",
       "translation": "One 'Chhoti Gold' cigarette turned into four joints.",
       "explanation": "Refers to Chhoti Gold (a popular cigarette brand) and 'jote' (Delhi slang for joints), showing their humble beginnings or lifestyle habits.",
@@ -65,6 +68,7 @@ export const brand_new: Song = {
     },
     {
       "original": "You know how I feel? \"Brand new\"",
+      "devanagari": "You know how I feel? \"Brand new\"",
       "speaker": "Calm",
       "translation": "You know how I feel? \"Brand new\"",
       "explanation": "Expressing the feeling of reinvention and success.",
@@ -72,6 +76,7 @@ export const brand_new: Song = {
     },
     {
       "original": "badi jaye jeb, joote diye phenk",
+      "devanagari": "बड़ी जाए जेब, जूते दिए फेंक",
       "speaker": "Calm",
       "translation": "Pockets are getting bigger, threw the old shoes away.",
       "explanation": "As his income increases (bigger pockets), he can afford to discard old things for better ones.",
@@ -79,6 +84,7 @@ export const brand_new: Song = {
     },
     {
       "original": "purane hue gande to liye brand new",
+      "devanagari": "पुराने हुए गंदे तो लिए brand new",
       "speaker": "Calm",
       "translation": "When the old ones got dirty, I got brand new ones.",
       "explanation": "A metaphor for moving past old struggles and enjoying current luxuries.",
@@ -86,6 +92,7 @@ export const brand_new: Song = {
     },
     {
       "original": "hai pata mujhe kabse tha fan-wan tu mera",
+      "devanagari": "है पता मुझे कबसे था fan-वन तू मेरा",
       "speaker": "Calm",
       "translation": "I know for how long you've been a fan of mine.",
       "explanation": "Addressing a critic or a peer who used to look up to him before becoming a rival.",
@@ -93,6 +100,7 @@ export const brand_new: Song = {
     },
     {
       "original": "jab se tha game mein tu naya, brand new",
+      "devanagari": "जब से था game में तू नया, brand new",
       "speaker": "Calm",
       "translation": "Since you were new to the game, brand new.",
       "explanation": "Suggesting that he has been a veteran since the other person's start.",
@@ -100,6 +108,7 @@ export const brand_new: Song = {
     },
     {
       "original": "Respect kar, aankh neeche, mere kicks check kar",
+      "devanagari": "Respect कर, आँख नीचे, मेरे kicks check कर",
       "speaker": "Calm",
       "translation": "Respect me, eyes down, check my kicks.",
       "explanation": "Demanding respect while showing off his expensive sneakers (kicks).",
@@ -113,6 +122,7 @@ export const brand_new: Song = {
     },
     {
       "original": "saat-aath shoony, next cheque par",
+      "devanagari": "सात-आठ शून्य, next cheque पर",
       "speaker": "Calm",
       "translation": "Seven or eight zeros on the next cheque.",
       "explanation": "A flex about earning millions (7-8 zeros implies 1 crore+ or 10 million+ INR).",
@@ -126,6 +136,7 @@ export const brand_new: Song = {
     },
     {
       "original": "donon paise jama karen jaise bee nectar",
+      "devanagari": "दोनों पैसे जमा करें जैसे bee nectar",
       "speaker": "Calm",
       "translation": "Both of us collect money like bees collect nectar.",
       "explanation": "Metaphor for the duo (Seedhe Maut) working hard and accumulating wealth together.",
@@ -140,6 +151,7 @@ export const brand_new: Song = {
     },
     {
       "original": "I’m the one, mera dost bana keymaker",
+      "devanagari": "I’m the one, mera dost bana keymaker",
       "speaker": "Calm",
       "translation": "I’m 'The One', my friend became the 'Keymaker'.",
       "explanation": "A reference to 'The Matrix'. Calm is Neo (The One) and his partner/producer provides the 'keys' to success.",
@@ -153,6 +165,7 @@ export const brand_new: Song = {
     },
     {
       "original": "maara reset piece, bana peacemaker",
+      "devanagari": "मारा reset piece, बना peacemaker",
       "speaker": "Calm",
       "translation": "Hit the reset piece, became a peacemaker.",
       "explanation": "Gaming wordplay (reset) and a pun on 'piece' (gun) vs 'peace'. Ending conflict through dominance.",
@@ -160,6 +173,7 @@ export const brand_new: Song = {
     },
     {
       "original": "mera skillset, G, kare cremation",
+      "devanagari": "मेरा skillset, G, करे cremation",
       "speaker": "Calm",
       "translation": "My skillset, G, performs a cremation.",
       "explanation": "His rap skills are so superior they 'kill' and 'burn' the competition.",
@@ -174,6 +188,7 @@ export const brand_new: Song = {
     },
     {
       "original": "leta fees aisi, keys baje C major",
+      "devanagari": "लेता fees ऐसी, keys बजे C major",
       "speaker": "Calm",
       "translation": "I charge such fees that the keys play in C major.",
       "explanation": "Music theory pun: C major is a bright, happy scale. His high performance fees make everyone happy.",
@@ -193,6 +208,7 @@ export const brand_new: Song = {
     },
     {
       "original": "poori team gamers",
+      "devanagari": "पूरी team gamers",
       "speaker": "Calm",
       "translation": "The whole team are gamers.",
       "explanation": "Refers to their circle's interest in gaming and playing the 'game' of life/rap strategically.",
@@ -200,6 +216,7 @@ export const brand_new: Song = {
     },
     {
       "original": "ye wait karen sign kare koi major",
+      "devanagari": "ये wait करें sign करे कोई major",
       "speaker": "Calm",
       "translation": "They wait for some major label to sign them.",
       "explanation": "Criticizing rappers who wait for labels rather than being independent and successful like SM.",
@@ -207,6 +224,7 @@ export const brand_new: Song = {
     },
     {
       "original": "maine plate bhari khud khaya, khud pet bhar",
+      "devanagari": "मैंने plate भरी खुद खाया, खुद पेट भर",
       "speaker": "Calm",
       "translation": "I filled my own plate, ate, and filled my own stomach.",
       "explanation": "Emphasizing self-reliance and being self-made in the industry.",
@@ -214,6 +232,7 @@ export const brand_new: Song = {
     },
     {
       "original": "laaya khud ye vakt, liya khud ye ghar",
+      "devanagari": "लाया खुद ये वक़्त, लिया खुद ये घर",
       "speaker": "Calm",
       "translation": "Brought this time myself, bought this house myself.",
       "explanation": "Crediting his own hard work for his change in fortune and assets.",
@@ -221,6 +240,7 @@ export const brand_new: Song = {
     },
     {
       "original": "Let me talk my shit, hoon is game ki Jett, maare gatekeeper saare, ek-ek kar (Aanh)",
+      "devanagari": "Let me talk my shit, हूँ इस game की Jett, मारे gatekeeper सारे, एक-एक कर (Aanh)",
       "speaker": "Calm",
       "translation": "Let me talk my shit, I'm the 'Jett' of this game, killing all gatekeepers one by one.",
       "explanation": "A reference to the character Jett from 'Valorant'. He's bypassing industry obstacles with speed.",
@@ -234,6 +254,7 @@ export const brand_new: Song = {
     },
     {
       "original": "ye aage badhe lekin thoda le-de kar (Aan)",
+      "devanagari": "ये आगे बढ़े लेकिन थोड़ा ले-दे कर (Aan)",
       "speaker": "Calm",
       "translation": "They moved forward, but by taking and giving bribes.",
       "explanation": "Accusing others of using shortcuts or corruption (le-de) to get ahead.",
@@ -254,6 +275,7 @@ export const brand_new: Song = {
     },
     {
       "original": "tera bhai Pirlo playmaker, zyada baj mat",
+      "devanagari": "तेरा भाई Pirlo playmaker, ज़्यादा बज मत",
       "speaker": "Calm",
       "translation": "Your brother is Pirlo the playmaker, don't talk too much.",
       "explanation": "Reference to Andrea Pirlo, the legendary football strategist. 'Baj mat' is Delhi slang for 'don't talk nonsense'.",
@@ -272,6 +294,7 @@ export const brand_new: Song = {
     },
     {
       "original": "Body bag ek (Brr), mahange mic do (Brr), Gucci bag teen",
+      "devanagari": "Body bag एक (Brr), महंगे mic दो (Brr), Gucci bag तीन",
       "speaker": "Calm",
       "translation": "One body bag, two expensive mics, three Gucci bags.",
       "explanation": "Repetition of the hook with ad-libs.",
@@ -286,6 +309,7 @@ export const brand_new: Song = {
     },
     {
       "original": "Brand new",
+      "devanagari": "Brand new",
       "speaker": "Calm",
       "translation": "Brand new.",
       "explanation": "Hook.",
@@ -293,6 +317,7 @@ export const brand_new: Song = {
     },
     {
       "original": "chhoti Gold ek ke jote bane chaar",
+      "devanagari": "छोटी Gold एक के जोटे बने चार",
       "speaker": "Calm",
       "translation": "One 'Chhoti Gold' cigarette turned into four joints.",
       "explanation": "Hook repetition.",
@@ -300,6 +325,7 @@ export const brand_new: Song = {
     },
     {
       "original": "You know how I feel? \"Brand new\"",
+      "devanagari": "You know how I feel? \"Brand new\"",
       "speaker": "Calm",
       "translation": "You know how I feel? \"Brand new\"",
       "explanation": "Hook repetition.",
@@ -307,6 +333,7 @@ export const brand_new: Song = {
     },
     {
       "original": "badi jaye jeb, joote diye phenk",
+      "devanagari": "बड़ी जाए जेब, जूते दिए फेंक",
       "speaker": "Calm",
       "translation": "Pockets are getting bigger, threw the old shoes away.",
       "explanation": "Hook repetition.",
@@ -314,6 +341,7 @@ export const brand_new: Song = {
     },
     {
       "original": "purane hue gande to liye brand new",
+      "devanagari": "पुराने हुए गंदे तो लिए brand new",
       "speaker": "Calm",
       "translation": "When the old ones got dirty, I got brand new ones.",
       "explanation": "Hook repetition.",
@@ -321,6 +349,7 @@ export const brand_new: Song = {
     },
     {
       "original": "hai pata mujhe kabse tha fan-wan tu mera",
+      "devanagari": "है पता मुझे कबसे था fan-वन तू मेरा",
       "speaker": "Calm",
       "translation": "I know for how long you've been a fan of mine.",
       "explanation": "Hook repetition.",
@@ -328,6 +357,7 @@ export const brand_new: Song = {
     },
     {
       "original": "jab se tha game mein tu naya, brand new",
+      "devanagari": "जब से था game में तू नया, brand new",
       "speaker": "Calm",
       "translation": "Since you were new to the game, brand new.",
       "explanation": "Hook repetition.",
@@ -335,6 +365,7 @@ export const brand_new: Song = {
     },
     {
       "original": "Respect kar, rakhoon bars jaise inspector",
+      "devanagari": "Respect कर, रखूँ bars जैसे inspector",
       "speaker": "Encore ABJ",
       "translation": "Respect me, I keep 'bars' like an inspector.",
       "explanation": "A pun on 'bars' (rap lyrics) and 'bars' (jail/police). Like an inspector deals with criminals behind bars.",
@@ -348,6 +379,7 @@ export const brand_new: Song = {
     },
     {
       "original": "Inspect karoon, baje kaun dhinchak par",
+      "devanagari": "Inspect करूँ, बजे कौन dhinchak पर",
       "speaker": "Encore ABJ",
       "translation": "I inspect who is playing on 'Dhinchak'.",
       "explanation": "Likely referring to Dhinchak Pooja or cringe-pop culture; he's checking who's actually relevant.",
@@ -355,6 +387,7 @@ export const brand_new: Song = {
     },
     {
       "original": "bin rap ke na mera koi impact",
+      "devanagari": "bin rap के ना मेरा कोई impact",
       "speaker": "Encore ABJ",
       "translation": "Without rap, I have no impact.",
       "explanation": "Acknowledging that hip-hop is his primary source of influence and identity.",
@@ -362,6 +395,7 @@ export const brand_new: Song = {
     },
     {
       "original": "to main bas din-raat ek kar naye flows sekta",
+      "devanagari": "तो मैं बस दिन-रात एक कर नए flows सेकता",
       "speaker": "Encore ABJ",
       "translation": "So I just work day and night, practicing new flows.",
       "explanation": "His dedication to constantly evolving his technical rapping style.",
@@ -369,6 +403,7 @@ export const brand_new: Song = {
     },
     {
       "original": "bas ek zindagi hai, main badi nahin phenkta",
+      "devanagari": "बस एक ज़िंदगी है, मैं बड़ी नहीं फेंकता",
       "speaker": "Encore ABJ",
       "translation": "There's only one life, I don't boast/lie much.",
       "explanation": "Claiming that his lyrics are grounded in reality despite his success.",
@@ -376,6 +411,7 @@ export const brand_new: Song = {
     },
     {
       "original": "aur daam sahi nahin to main samay nahin bechta",
+      "devanagari": "और दाम सही नहीं तो मैं समय नहीं बेचता",
       "speaker": "Encore ABJ",
       "translation": "And if the price isn't right, I don't sell my time.",
       "explanation": "He knows his worth and won't do shows or collaborations for less than he deserves.",
@@ -383,6 +419,7 @@ export const brand_new: Song = {
     },
     {
       "original": "aur doston ki ladai mein vajah nahin dekhta",
+      "devanagari": "और दोस्तों की लड़ाई में वजह नहीं देखता",
       "speaker": "Encore ABJ",
       "translation": "And in a fight between friends, I don't look for reasons.",
       "explanation": "Loyalty over logic; he stands by his friends regardless of the cause.",
@@ -390,6 +427,7 @@ export const brand_new: Song = {
     },
     {
       "original": "aur doosron ki kadhai mein khana nahin sekta (Woo)",
+      "devanagari": "और दूसरों की कड़ाही में खाना नहीं सेकता (Woo)",
       "speaker": "Encore ABJ",
       "translation": "And I don't cook my food in someone else's pan.",
       "explanation": "An idiom meaning he doesn't benefit from or meddle in others' business/drama.",
@@ -397,6 +435,7 @@ export const brand_new: Song = {
     },
     {
       "original": "yahan fitrat badalte hi mar gayi ekta",
+      "devanagari": "यहाँ फ़ितरत बदलते ही मर गई एकता",
       "speaker": "Encore ABJ",
       "translation": "Here, unity died as soon as natures changed.",
       "explanation": "Reflecting on how greed or changing personalities destroy the brotherhood in the scene.",
@@ -404,6 +443,7 @@ export const brand_new: Song = {
     },
     {
       "original": "ye bana rahe kila par kila hai ret ka",
+      "devanagari": "ये बना रहे किला पर किला है रेत का",
       "speaker": "Encore ABJ",
       "translation": "They are building forts, but the fort is made of sand.",
       "explanation": "Metaphor for others' fragile success that can easily crumble.",
@@ -411,6 +451,7 @@ export const brand_new: Song = {
     },
     {
       "original": "ye killas hain fake, main akela lapeta (Aan, aan, aan, aan, aan)",
+      "devanagari": "ये killas हैं fake, मैं अकेला लपेटा (Aan, aan, aan, aan, aan)",
       "speaker": "Encore ABJ",
       "translation": "These 'killas' are fake, I handle them all alone.",
       "explanation": "Mocking rappers who act tough ('killas') while he dominates them solo.",
@@ -418,6 +459,7 @@ export const brand_new: Song = {
     },
     {
       "original": "vo pilla hai, pilla vo peechhe se peela aur aage se geela",
+      "devanagari": "वो पिल्ला है, पिल्ला वो पीछे से पीला और आगे से गीला",
       "speaker": "Encore ABJ",
       "translation": "He's a puppy, yellow from the back and wet from the front.",
       "explanation": "A derogatory insult implying the opponent is scared (peeing/wetting himself).",
@@ -431,6 +473,7 @@ export const brand_new: Song = {
     },
     {
       "original": "main bille se billa, hum gaane se hilae, tu reh gaya hilata",
+      "devanagari": "मैं बिल्ले से बिल्ला, हम गाने से हिलाए, तू रह गया हिलाता",
       "speaker": "Encore ABJ",
       "translation": "I'm the biggest cat, we move (crowds) with songs, you're just left jerking off.",
       "explanation": "Wordplay on 'Billa' (big shot). 'Hilata' is a double entendre for masturbation, meaning the rival is unproductive.",
@@ -438,6 +481,7 @@ export const brand_new: Song = {
     },
     {
       "original": "dilli 96, bachpan se ilaqa",
+      "devanagari": "दिल्ली 96, बचपन से इलाक़ा",
       "speaker": "Encore ABJ",
       "translation": "Delhi 96, my territory since childhood.",
       "explanation": "Referring to his roots/area code in Delhi, likely South Delhi.",
@@ -445,6 +489,7 @@ export const brand_new: Song = {
     },
     {
       "original": "Body bag ek, mahange mic do, Gucci bag teen",
+      "devanagari": "Body bag एक, महंगे mic दो, Gucci bag तीन",
       "speaker": "Calm",
       "translation": "One body bag, two expensive mics, three Gucci bags.",
       "explanation": "Hook repetition.",
@@ -452,6 +497,7 @@ export const brand_new: Song = {
     },
     {
       "original": "Brand new",
+      "devanagari": "Brand new",
       "speaker": "Calm",
       "translation": "Brand new.",
       "explanation": "Hook.",
@@ -459,6 +505,7 @@ export const brand_new: Song = {
     },
     {
       "original": "chhoti Gold ek ke jote bane chaar",
+      "devanagari": "छोटी Gold एक के जोटे बने चार",
       "speaker": "Calm",
       "translation": "One 'Chhoti Gold' cigarette turned into four joints.",
       "explanation": "Hook repetition.",
@@ -466,6 +513,7 @@ export const brand_new: Song = {
     },
     {
       "original": "You know how I feel? \"Brand new\"",
+      "devanagari": "You know how I feel? \"Brand new\"",
       "speaker": "Calm",
       "translation": "You know how I feel? \"Brand new\"",
       "explanation": "Hook repetition.",
@@ -473,6 +521,7 @@ export const brand_new: Song = {
     },
     {
       "original": "badi jaye jeb, joote diye phenk",
+      "devanagari": "बड़ी जाए जेब, जूते दिए फेंक",
       "speaker": "Calm",
       "translation": "Pockets are getting bigger, threw the old shoes away.",
       "explanation": "Hook repetition.",
@@ -493,6 +542,7 @@ export const brand_new: Song = {
     },
     {
       "original": "purane hue gande to liye brand new",
+      "devanagari": "पुराने हुए गंदे तो लिए brand new",
       "speaker": "Calm",
       "translation": "When the old ones got dirty, I got brand new ones.",
       "explanation": "Hook repetition.",
@@ -507,6 +557,7 @@ export const brand_new: Song = {
     },
     {
       "original": "hai pata mujhe kabse tha fan-wan tu mera",
+      "devanagari": "है पता मुझे कबसे था fan-वन तू मेरा",
       "speaker": "Calm",
       "translation": "I know for how long you've been a fan of mine.",
       "explanation": "Hook repetition.",
@@ -521,6 +572,7 @@ export const brand_new: Song = {
     },
     {
       "original": "jab se tha game mein tu naya, brand new",
+      "devanagari": "जब से था game में तू नया, brand new",
       "speaker": "Calm",
       "translation": "Since you were new to the game, brand new.",
       "explanation": "Hook repetition.",

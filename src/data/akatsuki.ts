@@ -9,6 +9,7 @@ export const akatsuki: Song = {
   "lyrics": [
     {
       "original": "मै था दुखी, थोड़ा दुखी, था सोता भी नहीं",
+      "romanized": "Mai thaa dukhee, thoड़aa dukhee, thaa sotaa bhee naheen",
       "speaker": "Calm",
       "translation": "I was sad, a little sad, I wasn't even sleeping.",
       "explanation": "Calm reflects on his past mental state and the insomnia caused by struggle and overthinking.",
@@ -22,6 +23,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "ये जोटे भी नहीं अब साथ दें \"कोई नहीं\" में",
+      "romanized": "Ye jote bhee naheen aba saatha den \\\"koee naheen\\\" men",
       "speaker": "Calm",
       "translation": "Even these joints don't help anymore in 'Koi Nahi'.",
       "explanation": "A callback to their song 'Koi Nahi'. He means that even marijuana (joints) fails to soothe his loneliness or pain now.",
@@ -40,6 +42,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "चार दिन फूँकूँ नहीं पर पाँचवे दिन होऊँगा बहुत ही दुखी",
+      "romanized": "Chaara dina phoonkoon naheen para paanchave dina hooongaa bahuta hee dukhee",
       "speaker": "Calm",
       "translation": "If I don't smoke for four days, by the fifth day, I’ll be deeply miserable.",
       "explanation": "Highlights his dependency on smoking to suppress negative emotions.",
@@ -53,6 +56,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "था थोड़ा दुखी, ले सूख गए आँसू तो रोता भी नहीं",
+      "romanized": "Thaa thoड़aa dukhee, le sookha gae aansoo to rotaa bhee naheen",
       "speaker": "Calm",
       "translation": "I was a little sad, but look, my tears have dried up so I don't even cry anymore.",
       "explanation": "Expresses a state of emotional numbness where one is beyond the point of crying.",
@@ -60,6 +64,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "है छोड़ा यकीन, मै खो गया कहीं, भटका कहीं",
+      "romanized": "Hai chhoड़aa yakeena, mai kho gayaa kaheen, bhatakaa kaheen",
       "speaker": "Calm",
       "translation": "I've lost faith, I got lost somewhere, wandered off somewhere.",
       "explanation": "A sense of losing one's path or identity during the struggle.",
@@ -67,6 +72,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "मै थोड़ा दुखी था",
+      "romanized": "Mai thoड़aa dukhee thaa",
       "speaker": "Calm",
       "translation": "I was a little sad.",
       "explanation": "Repetition emphasizing the core theme of the hook.",
@@ -74,6 +80,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "थोड़ा दुखी था",
+      "romanized": "Thoड़aa dukhee thaa",
       "speaker": "Calm",
       "translation": "Was a little sad.",
       "explanation": "Admitting to past vulnerability.",
@@ -81,6 +88,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "थोड़ा busy था पैसे कमाने में, काट के सर बोल, \"Akatsuki, akatsuki, akatsuki\"",
+      "romanized": "Thoड़aa busy thaa paise kamaane men, kaata ke sara bola, \\\"Akatsuki, akatsuki, akatsuki\\\"",
       "speaker": "Calm",
       "translation": "I was a little busy making money, cut off the head and say 'Akatsuki, Akatsuki, Akatsuki'.",
       "explanation": "Refers to the Akatsuki from Naruto (rogue ninjas/bounty hunters). Calm equates his ruthless hustle to their violent efficiency.",
@@ -94,6 +102,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "Akatsuki जैसे निकले लौंडे खूनी",
+      "romanized": "Akatsuki jaise nikale launde khoonee",
       "speaker": "Calm",
       "translation": "The boys came out bloodthirsty like the Akatsuki.",
       "explanation": "Comparing his crew's dangerous aura and skill to the elite renegade group.",
@@ -108,6 +117,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "थोड़े दुखी, बहुत हैं खूबी, देखी दुनिया, पढ़े लोग हैं, सर्वोत्तम ये लौंडे तभी",
+      "romanized": "Thoड़e dukhee, bahuta hain khoobee, dekhee duniyaa, paढ़e loga hain, sarvottama ye launde tabhee",
       "speaker": "Calm",
       "translation": "A bit sad, but highly talented; seen the world, read people, that's why these boys are supreme.",
       "explanation": "Suggests that their pain and street-smart observations make them the best in the scene.",
@@ -127,6 +137,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "Aka—",
+      "romanized": "Aka—",
       "speaker": "Calm",
       "translation": "Aka—",
       "explanation": "An abrupt cut-off of the word Akatsuki used for rhythmic effect.",
@@ -134,6 +145,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "Almighty push, हैं बंदे खाई में खुश (हाँ)",
+      "romanized": "Almighty push, hain bande khaaee men khusha (haan)",
       "speaker": "Calm",
       "translation": "Almighty push, the guys are happy in the ditch.",
       "explanation": "Refers to 'Shinra Tensei' (Almighty Push), a technique used by Pain (leader of Akatsuki) to repel everything. He's pushing competitors away.",
@@ -159,6 +171,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "तो जाए ये pain लिखाई में गुम, बनाए ये भाई को दुष्ट",
+      "romanized": "To jaae ye pain likhaaee men guma, banaae ye bhaaee ko dushta",
       "speaker": "Calm",
       "translation": "So let this pain get lost in my writing, it makes this brother wicked.",
       "explanation": "He channels his trauma into lyrics, which creates a more aggressive/villainous persona.",
@@ -166,6 +179,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "और माँ चुदाए वो, bro, जो झाई में लाया बीच में bitch (माँ चुदाए)",
+      "romanized": "Aura maan chudaae vo, bro, jo jhaaee men laayaa beecha men bitch (maan chudaae)",
       "speaker": "Calm",
       "translation": "And f*** the one, bro, who brought a bitch into the middle of the beef.",
       "explanation": "A jab at people who involve women or unnecessary drama in professional or street conflicts.",
@@ -180,6 +194,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "हुए यहाँ भी कांड पर हम दबा के रखते अपना shit (Aanh)",
+      "romanized": "Hue yahaan bhee kaanda para hama dabaa ke rakhate apanaa shit (Aanh)",
       "speaker": "Calm",
       "translation": "Incidents happened here too, but we keep our business under wraps.",
       "explanation": "Refers to the 'no snitching' code or handling street issues privately rather than for clout.",
@@ -199,6 +214,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "परमाणु बनाना भी कला है (Rrrah)",
+      "romanized": "Paramaanu banaanaa bhee kalaa hai (Rrrah)",
       "speaker": "Calm",
       "translation": "Creating a nuke is also an art.",
       "explanation": "Reference to Deidara (Akatsuki member) who says 'Art is an explosion'. He sees his hard-hitting music as an atomic blast.",
@@ -212,6 +228,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "इन हाथों में जादू है, बंदी को पता है (Ooh, बंदी को पता है)",
+      "romanized": "Ina haathon men jaadoo hai, bandee ko pataa hai (Ooh, bandee ko pataa hai)",
       "speaker": "Calm",
       "translation": "There is magic in these hands, my girl knows it.",
       "explanation": "A double entendre referring to both his skills (writing/producing) and physical intimacy.",
@@ -219,6 +236,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "इस जंगल में लेना नहीं Safari (Aanh, नहीं), बढ़ा-सा भालू माँ चोदने को खड़ा है (Aanh)",
+      "romanized": "Isa jangala men lenaa naheen Safari (Aanh, naheen), baढ़aa-saa bhaaloo maan chodane ko khaड़aa hai (Aanh)",
       "speaker": "Calm",
       "translation": "Don't take a Safari in this jungle, a big bear is standing there to f*** you up.",
       "explanation": "A warning to outsiders or weak rappers entering their territory (Delhi/The rap game).",
@@ -226,6 +244,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "ये बड़े हो गए लेकिन रह गए man-child (Aanh)",
+      "romanized": "Ye baड़e ho gae lekina raha gae man-child (Aanh)",
       "speaker": "Calm",
       "translation": "They grew up but remained man-children.",
       "explanation": "Calling out immature rivals who have aged but haven't developed mentally.",
@@ -233,6 +252,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "I'm a bully in the park, I don't let them slide (Aanh)",
+      "romanized": "I'm a bully in the park, I don't let them slide (Aanh)",
       "speaker": "Calm",
       "translation": "I'm a bully in the park, I don't let them slide.",
       "explanation": "A wordplay on 'slide' (playground equipment) and 'letting things slide' (forgiving/ignoring).",
@@ -240,6 +260,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "इनकी जले जब भी चले मेरी tactic right (Rrrah)",
+      "romanized": "Inakee jale jaba bhee chale meree tactic right (Rrrah)",
       "speaker": "Calm",
       "translation": "They get jealous whenever my tactics work right.",
       "explanation": "His strategic moves in the industry frustrate his haters.",
@@ -247,6 +268,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "मेरा rap shit tight, call it, \"टाँग खिचाई\"",
+      "romanized": "Meraa rap shit tight, call it, \\\"taanga khichaaee\\\"",
       "speaker": "Calm",
       "translation": "My rap shit is tight, call it 'pulling legs'.",
       "explanation": "Double entendre: 'Tight' as in high quality, and 'Taang Khichai' (leg-pulling) as in mocking others or making them stumble.",
@@ -254,6 +276,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "तेरा भाई",
+      "romanized": "Teraa bhaaee",
       "speaker": "Calm",
       "translation": "Your brother.",
       "explanation": "Common hip-hop sign-off.",
@@ -261,6 +284,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "Seedhe Maut back in this, bitch (Shh)",
+      "romanized": "Seedhe Maut back in this, bitch (Shh)",
       "speaker": "Encore ABJ",
       "translation": "Seedhe Maut is back in this, bitch.",
       "explanation": "Encore marks his entry into the verse with their signature name-drop.",
@@ -268,6 +292,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "दिखें जितने भी rapper, हैं सारे puppet और मै Sasori (Rrrah)",
+      "romanized": "Dikhen jitane bhee rapper, hain saare puppet aura mai Sasori (Rrrah)",
       "speaker": "Encore ABJ",
       "translation": "All the rappers I see are puppets, and I am Sasori.",
       "explanation": "Sasori is an Akatsuki member who uses puppets as weapons. Encore claims he controls or is superior to all other rappers.",
@@ -287,6 +312,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "वो बोले, \"कीमत नहीं बातों की\" तो हमने कीमत बना दी इन बातों की लाखों की",
+      "romanized": "Vo bole, \\\"keemata naheen baaton kee\\\" to hamane keemata banaa dee ina baaton kee laakhon kee",
       "speaker": "Encore ABJ",
       "translation": "They said, 'words have no value,' so we made these words worth millions.",
       "explanation": "Refers to people who doubted rap as a career; now SM earns lakhs from their verses.",
@@ -294,6 +320,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "कहाँ, किस से, कितनों की माँ चुदी?",
+      "romanized": "Kahaan, kisa se, kitanon kee maan chudee?",
       "speaker": "Encore ABJ",
       "translation": "Where, with whom, and how many got f***ed?",
       "explanation": "Rhetorical question mocking the failure or destruction of their rivals.",
@@ -301,6 +328,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "परवाह नहीं opps की मैं छाती में सुरंग दूँ बारूदी",
+      "romanized": "Paravaaha naheen opps kee main chhaatee men suranga doon baaroodee",
       "speaker": "Encore ABJ",
       "translation": "I don't care about opps, I'll blast a gunpowder tunnel through their chests.",
       "explanation": "Violent imagery to show total dominance over 'opps' (opposition/enemies).",
@@ -314,6 +342,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "सालों की मेहनत है सालों की",
+      "romanized": "Saalon kee mehanata hai saalon kee",
       "speaker": "Encore ABJ",
       "translation": "It's the hard work of years, you bastards.",
       "explanation": "Wordplay on 'Saalo' (Years) and 'Saalo' (a mild Hindi slur for 'you guys').",
@@ -321,6 +350,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "समंदर आगे, कहानी सुना रहे हैं नालों की",
+      "romanized": "Samandara aage, kahaanee sunaa rahe hain naalon kee",
       "speaker": "Encore ABJ",
       "translation": "The ocean is ahead, yet they are telling stories of gutters.",
       "explanation": "Comparing Seedhe Maut (the ocean) to small-time rappers (gutters/drains).",
@@ -328,6 +358,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "Bo-Body बना रहे हैं लौंडे पर दिल इतने छोटे हैं, आगे मैं इनके हूँ Kakuzu",
+      "romanized": "Bo-Body banaa rahe hain launde para dila itane chhote hain, aage main inake hoon Kakuzu",
       "speaker": "Encore ABJ",
       "translation": "Boys are building bodies but their hearts are so small; I'm Kakuzu in front of them.",
       "explanation": "Kakuzu (Akatsuki member) had five hearts. Encore says he has more heart/courage than the physically 'fit' but mentally weak rappers.",
@@ -347,6 +378,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "Itachi, हूँ भूला मैं कुछ नहीं",
+      "romanized": "Itachi, hoon bhoolaa main kuchha naheen",
       "speaker": "Encore ABJ",
       "translation": "Itachi, I haven't forgotten anything.",
       "explanation": "Refers to Itachi Uchiha. It implies Encore is a genius who remembers every slight and every detail of the game.",
@@ -360,6 +392,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "बना के इस दर्द की जगह (हाँ-हाँ), यहाँ पे लौंडों की माँ चोदूँ",
+      "romanized": "Banaa ke isa darda kee jagaha (haan-haan), yahaan pe laundon kee maan chodoon",
       "speaker": "Encore ABJ",
       "translation": "Creating a space for this pain, I dominate these boys here.",
       "explanation": "Using his past trauma to fuel his dominance in the rap scene.",
@@ -367,6 +400,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "Low-key चला रहे हम game",
+      "romanized": "Lowa-key chalaa rahe hama game",
       "speaker": "Encore ABJ",
       "translation": "We are running the game low-key.",
       "explanation": "Running the industry without unnecessary noise or flashing.",
@@ -374,6 +408,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "बाकी अंदर-ही-अंदर ये डर रहे हैं name से",
+      "romanized": "Baakee andara-hee-andara ye dara rahe hain name se",
       "speaker": "Encore ABJ",
       "translation": "The rest are secretly terrified of the name (Seedhe Maut).",
       "explanation": "Their reputation precedes them, causing fear in rivals.",
@@ -381,6 +416,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "और privileged लौंडों को दिखे ना pain ये",
+      "romanized": "Aura privileged laundon ko dikhe naa pain ye",
       "speaker": "Encore ABJ",
       "translation": "And privileged kids can't see this pain.",
       "explanation": "A critique of rappers from wealthy backgrounds who don't understand the struggle SM went through.",
@@ -388,6 +424,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "Baka, you know what my name is (हाँ)",
+      "romanized": "Baka, you knowa wahat my name is (haan)",
       "speaker": "Encore ABJ",
       "translation": "Idiot, you know what my name is.",
       "explanation": "Uses the Japanese insult 'Baka' (fool) to stay with the anime theme.",
@@ -401,6 +438,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "थोड़ा दुखी था",
+      "romanized": "Thoड़aa dukhee thaa",
       "speaker": "Calm",
       "translation": "I was a little sad.",
       "explanation": "Return to the hook.",
@@ -408,6 +446,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "थोड़ा busy था पैसे कमाने में, काट के सर बोल, \"Akatsuki, akatsuki, akatsuki\"",
+      "romanized": "Thoड़aa busy thaa paise kamaane men, kaata ke sara bola, \\\"Akatsuki, akatsuki, akatsuki\\\"",
       "speaker": "Calm",
       "translation": "I was a little busy making money, cut off the head and say 'Akatsuki, Akatsuki, Akatsuki'.",
       "explanation": "Chorus repeat.",
@@ -415,6 +454,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "Akatsuki जैसे निकले लौंडे खूनी",
+      "romanized": "Akatsuki jaise nikale launde khoonee",
       "speaker": "Calm",
       "translation": "The boys came out bloodthirsty like the Akatsuki.",
       "explanation": "Chorus repeat.",
@@ -422,6 +462,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "थोड़े दुखी, बहुत हैं खूबी, देखी दुनिया, पढ़े लोग हैं, सर्वोत्तम ये लौंडे तभी",
+      "romanized": "Thoड़e dukhee, bahuta hain khoobee, dekhee duniyaa, paढ़e loga hain, sarvottama ye launde tabhee",
       "speaker": "Calm",
       "translation": "A bit sad, many talents; seen the world, read people, that's why these boys are supreme.",
       "explanation": "Chorus repeat.",
@@ -429,6 +470,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "Aka—",
+      "romanized": "Aka—",
       "speaker": "Calm",
       "translation": "Aka—",
       "explanation": "Chorus repeat.",
@@ -436,6 +478,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "Scene में कुछ ही बस rapper हैं, गिनूँ मैं हाथों पर, गिनती के कुल दस, बाकी जो बचें, ये full ठस",
+      "romanized": "Scene men kuchha hee basa rapper hain, ginoon main haathon para, ginatee ke kula dasa, baakee jo bachen, ye full thasa",
       "speaker": "Raga",
       "translation": "There are only a few rappers in the scene, I can count them on my hands—barely ten; the rest are just fillers.",
       "explanation": "Raga claims only a handful of rappers are actually talented; the rest are 'thas' (useless/clogged).",
@@ -449,6 +492,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "इनकी माँ की चूत, दिल को दें खुंदस (हाँ)",
+      "romanized": "Inakee maan kee choota, dila ko den khundasa (haan)",
       "speaker": "Raga",
       "translation": "F*** them, they just irritate my soul.",
       "explanation": "Expressing pure annoyance toward mediocre rappers.",
@@ -462,6 +506,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "ये नाज़ुक हैं बच्चे, मैं इनको पढ़ा दूँ, लगा दूँगा school bus",
+      "romanized": "Ye naaज़uka hain bachche, main inako paढ़aa doon, lagaa doongaa school bus",
       "speaker": "Raga",
       "translation": "These kids are fragile, I'll teach them a lesson, I'll set up a school bus for them.",
       "explanation": "Treating rivals like schoolchildren who need to be taught how to rap.",
@@ -469,6 +514,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "मैं पागल हूँ, भूल मत",
+      "romanized": "Main paagala hoon, bhoola mata",
       "speaker": "Raga",
       "translation": "Don't forget, I'm crazy.",
       "explanation": "Warning about his unpredictable and aggressive nature.",
@@ -483,6 +529,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "बेहद ही गंदी औलाद हूँ मैं, घूर मत",
+      "romanized": "Behada hee gandee aulaada hoon main, ghoora mata",
       "speaker": "Raga",
       "translation": "I'm a very bad seed, don't stare.",
       "explanation": "Warning someone not to challenge him or look at him the wrong way.",
@@ -497,6 +544,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "I got सुखी, अब आँखें सूखी",
+      "romanized": "I got sukhee, aba aankhen sookhee",
       "speaker": "Raga",
       "translation": "I got 'Sukhi', now my eyes are dry.",
       "explanation": "Wordplay on 'Sukhi' (referring to dry weed/hashish) and having 'dry eyes' (stopped crying/showing emotion).",
@@ -504,6 +552,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "अब फूँके हम घासें, खाते cuisine हैं",
+      "romanized": "Aba phoonke hama ghaasen, khaate cuisine hain",
       "speaker": "Raga",
       "translation": "Now we smoke greens and eat fine cuisine.",
       "explanation": "The transition from struggle to luxury; smoking top-shelf stuff and eating expensive food.",
@@ -511,6 +560,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "जल गई गांडें, झाँटें फूँकी हैं",
+      "romanized": "Jala gaee gaanden, jhaanten phoonkee hain",
       "speaker": "Raga",
       "translation": "Their asses are burnt with jealousy, we've smoked them like pubes.",
       "explanation": "Aggressive street slang for dismissing enemies and their jealousy.",
@@ -525,6 +575,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "बंदे हैं झाँटू, जानते कुछ नहीं हैं",
+      "romanized": "Bande hain jhaantoo, jaanate kuchha naheen hain",
       "speaker": "Raga",
       "translation": "The guys are pubes (useless), they don't know anything.",
       "explanation": "Questioning the intelligence and street-cred of his rivals.",
@@ -532,6 +583,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "Twitter पे bullshit डाल के, hoodie ये करते बातें, issue पता नहीं है ख़ुद ही",
+      "romanized": "Twaitter pe bullshit daala ke, hoodie ye karate baaten, issue pataa naheen hai khuda hee",
       "speaker": "Raga",
       "translation": "Posting bullshit on Twitter, these hoodies talk big but don't even know the issue themselves.",
       "explanation": "Critique of internet keyboard warriors and fake 'street' rappers.",
@@ -539,6 +591,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "है बातें चुदी हैं, बहुत बकचोदी है",
+      "romanized": "Hai baaten chudee hain, bahuta bakachodee hai",
       "speaker": "Raga",
       "translation": "The talk is f***ed, there's too much nonsense.",
       "explanation": "Dismissing the noise in the rap scene.",
@@ -546,6 +599,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "छेद दें बहुत पर हम बहुत अब busy हैं",
+      "romanized": "Chheda den bahuta para hama bahuta aba busy hain",
       "speaker": "Raga",
       "translation": "We could put holes in many, but we're too busy now.",
       "explanation": "He could destroy his enemies (physically or lyrically) but chooses to focus on his career.",
@@ -553,6 +607,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "बजा दो नगाड़े, बता दो के \"आया Nagato है बन के अब Pain\"",
+      "romanized": "Bajaa do nagaaड़e, bataa do ke \\\"aayaa Nagato hai bana ke aba Pain\\\"",
       "speaker": "Raga",
       "translation": "Beat the drums, tell them 'Nagato has arrived as Pain'.",
       "explanation": "The ultimate Naruto reference in the song. Nagato took the alias 'Pain'. Raga is saying he has evolved through pain to become a leader/god in the scene.",
@@ -566,6 +621,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "दर्द के हैं रस्ते छह और मैं सब पे दौड़ा दूँगा, सब को सिखा दूँगा game",
+      "romanized": "Darda ke hain raste chhaha aura main saba pe dauड़aa doongaa, saba ko sikhaa doongaa game",
       "speaker": "Raga",
       "translation": "There are six paths of pain, and I'll run through all of them, teaching everyone the game.",
       "explanation": "Refers to the 'Six Paths of Pain'. Raga claims mastery over all aspects of struggle and rap.",
@@ -573,6 +629,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "ये गंड-जले हसते जो हम पे, वो मेरा पकड़ लें, उठा लें चटाई और तेल",
+      "romanized": "Ye ganda-jale hasate jo hama pe, vo meraa pakaड़ len, uthaa len chataaee aura tela",
       "speaker": "Raga",
       "translation": "These jealous losers laughing at us—they can hold my d***, and grab a mat and oil.",
       "explanation": "Vulgar dismissal of haters, suggesting they prepare to serve him.",
@@ -580,6 +637,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "एक चाँटे में झाइयाँ fail, ये काँपेंगे, सारी रज़ाइयाँ fail",
+      "romanized": "Eka chaante men jhaaiyaan fail, ye kaanpenge, saaree raज़aaiyaan fail",
       "speaker": "Raga",
       "translation": "One slap and their arrogance fails; they'll shiver so hard even quilts won't help.",
       "explanation": "Asserting physical dominance and the fear he instills in others.",
@@ -587,6 +645,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "पीछे बुराई और मुँह पे तारीफें, हैं मीठे ये बाल, मिठाई भी fail",
+      "romanized": "Peechhe buraaee aura munha pe taareephen, hain meethe ye baala, mithaaee bhee fail",
       "speaker": "Raga",
       "translation": "Insulting behind my back and praising to my face; these guys are so sweet, even candy fails.",
       "explanation": "Exposing the hypocrisy of 'fake' friends and rivals who act sweet to his face.",
@@ -594,6 +653,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "शक्ल दिखाते नहीं होके anonymous, selling the hate, online है sale",
+      "romanized": "Shakla dikhaate naheen hoke anonymous, selling the hate, online hai sale",
       "speaker": "Raga",
       "translation": "They don't show their faces, staying anonymous; selling hate, it's an online sale.",
       "explanation": "Addressing anonymous internet trolls and haters who hide behind profiles.",
@@ -601,6 +661,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "मिले मज़ा ही नहीं life में हमें भी ऐसे ही, पूरी बनाएँगे rail",
+      "romanized": "Mile maज़aa hee naheen life men hamen bhee aise hee, pooree banaaenge rail",
       "speaker": "Raga",
       "translation": "We didn't get joy in life just like that, we'll run over them like a train.",
       "explanation": "'Making a rail' (rail banana) means to beat someone up or dominate them thoroughly.",
@@ -614,6 +675,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "तेरा भाई Seedhe Maut, ये गांडें जलाएँ, जब गाने चलाए, ये पाए ना झेल",
+      "romanized": "Teraa bhaaee Seedhe Maut, ye gaanden jalaaen, jaba gaane chalaae, ye paae naa jhela",
       "speaker": "Raga",
       "translation": "Your brother Seedhe Maut; they burn with envy when the songs play, they can't handle it.",
       "explanation": "SM's music is so good it causes physical jealousy in their rivals.",
@@ -621,6 +683,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "थोड़ा दुखी था",
+      "romanized": "Thoड़aa dukhee thaa",
       "speaker": "Calm",
       "translation": "I was a little sad.",
       "explanation": "Outro starts.",
@@ -628,6 +691,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "थोड़ा busy था पैसे कमाने में, काट के सर बोल, \"Akatsuki, akatsuki, akatsuki\"",
+      "romanized": "Thoड़aa busy thaa paise kamaane men, kaata ke sara bola, \\\"Akatsuki, akatsuki, akatsuki\\\"",
       "speaker": "Calm",
       "translation": "I was a little busy making money, cut off the head and say 'Akatsuki, Akatsuki, Akatsuki'.",
       "explanation": "Final chorus.",
@@ -635,6 +699,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "Akatsuki जैसे निकले लौंडे खूनी",
+      "romanized": "Akatsuki jaise nikale launde khoonee",
       "speaker": "Calm",
       "translation": "The boys came out bloodthirsty like the Akatsuki.",
       "explanation": "Final chorus.",
@@ -642,6 +707,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "थोड़े दुखी, बहुत हैं खूबी, देखी दुनिया, पढ़े लोग हैं, सर्वोत्तम ये लौंडे तभी",
+      "romanized": "Thoड़e dukhee, bahuta hain khoobee, dekhee duniyaa, paढ़e loga hain, sarvottama ye launde tabhee",
       "speaker": "Calm",
       "translation": "A bit sad, many talents; seen the world, read people, that's why these boys are supreme.",
       "explanation": "Final chorus.",
@@ -649,6 +715,7 @@ export const akatsuki: Song = {
     },
     {
       "original": "Aka—",
+      "romanized": "Aka—",
       "speaker": "Calm",
       "translation": "Aka—",
       "explanation": "Final fade out.",

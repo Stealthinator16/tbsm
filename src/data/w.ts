@@ -9,6 +9,7 @@ export const w: Song = {
   "lyrics": [
     {
       "original": "Yeah!",
+      "romanized": "Yeah!",
       "speaker": "Encore ABJ",
       "translation": "Yeah!",
       "explanation": "An introductory ad-lib to set the energy for the verse.",
@@ -16,6 +17,7 @@ export const w: Song = {
     },
     {
       "original": "Yeah, yeah!",
+      "romanized": "Yeah, yeah!",
       "speaker": "Encore ABJ",
       "translation": "Yeah, yeah!",
       "explanation": "Hype ad-libs continuing the buildup.",
@@ -23,6 +25,7 @@ export const w: Song = {
     },
     {
       "original": "Hurricane",
+      "romanized": "Hurricane",
       "speaker": "Encore ABJ",
       "translation": "Hurricane",
       "explanation": "Likely a reference to the 'Hurricane' flow or the intensity of the track's energy.",
@@ -36,6 +39,7 @@ export const w: Song = {
     },
     {
       "original": "आजकल इतना ज़्यादा fresh",
+      "romanized": "Aajakala itanaa ज़yaadaa fresh",
       "speaker": "Encore ABJ",
       "translation": "So damn fresh these days",
       "explanation": "Encore is flexing his current status, style, and the brand new energy he brings to the scene.",
@@ -49,6 +53,7 @@ export const w: Song = {
     },
     {
       "original": "Backstage है हवा में इतना ज़्यादा hash",
+      "romanized": "Backstage hai havaa men itanaa ज़yaadaa hash",
       "speaker": "Encore ABJ",
       "translation": "There's so much hash in the air backstage",
       "explanation": "A reference to the duo's well-known association with cannabis culture and the atmosphere at their live shows.",
@@ -62,6 +67,7 @@ export const w: Song = {
     },
     {
       "original": "Payment आधी crypto बाकी सारा cash",
+      "romanized": "Payment aadhee crypto baakee saaraa cash",
       "speaker": "Encore ABJ",
       "translation": "Half the payment in crypto, the rest in cash",
       "explanation": "Flexing financial diversity and modern wealth by accepting cryptocurrency along with hard cash.",
@@ -75,6 +81,7 @@ export const w: Song = {
     },
     {
       "original": "Doubters मेरी कला पे got lotta that",
+      "romanized": "Doubters meree kalaa pe got lotta that",
       "speaker": "Encore ABJ",
       "translation": "I've got plenty of doubters questioning my art",
       "explanation": "Acknowledging that despite their success, there are still many who doubt their artistic merit.",
@@ -82,6 +89,7 @@ export const w: Song = {
     },
     {
       "original": "अब करूं act ads में, they don't know how to act",
+      "romanized": "Aba karoon act ads men, they don't know how to act",
       "speaker": "Encore ABJ",
       "translation": "Now I act in commercials, while they don't know how to behave",
       "explanation": "A wordplay on 'act'. SM has started appearing in mainstream ads, while rivals lack character or 'acting' skills.",
@@ -101,6 +109,7 @@ export const w: Song = {
     },
     {
       "original": "सुने verse जैसे episode of art attack",
+      "romanized": "Sune verse jaise episode of art attack",
       "speaker": "Encore ABJ",
       "translation": "The verse sounds like an episode of Art Attack",
       "explanation": "A nostalgic reference to the TV show 'Art Attack'. It's a pun on 'Art' and a lyrical 'Attack'.",
@@ -114,6 +123,7 @@ export const w: Song = {
     },
     {
       "original": "कमज़ोर दिल को punches देते heart attack",
+      "romanized": "Kamaज़ोra dila ko punches dete heart attack",
       "speaker": "Encore ABJ",
       "translation": "The punchlines give heart attacks to the weak-hearted",
       "explanation": "A classic rap double entendre comparing 'punches' (punchlines) to physical blows that cause heart failure.",
@@ -133,6 +143,7 @@ export const w: Song = {
     },
     {
       "original": "She’s into wild shit, yeah I'm into all of that",
+      "romanized": "She’s into wild shit, yeah I'm into all of that",
       "speaker": "Encore ABJ",
       "translation": "She’s into wild things, and I'm down for all of it",
       "explanation": "Referring to a lifestyle of risk and excitement, both in personal life and career.",
@@ -140,6 +151,7 @@ export const w: Song = {
     },
     {
       "original": "बस बोल, \"I'll call the cab\" (Aanh)",
+      "romanized": "Basa bola, \"I'll call the cab\" (Aanh)",
       "speaker": "Encore ABJ",
       "translation": "Just say, \"I'll call the cab\"",
       "explanation": "A dismissive or casual end to an encounter, showing he is in control of his time.",
@@ -147,6 +159,7 @@ export const w: Song = {
     },
     {
       "original": "Stay on my toes, I like winning, uh",
+      "romanized": "Stay on my toes, I like winning, uh",
       "speaker": "Calm",
       "translation": "Stay on my toes, I like winning, uh",
       "explanation": "Calm emphasizes being alert and his competitive drive to remain at the top of the game.",
@@ -161,6 +174,7 @@ export const w: Song = {
     },
     {
       "original": "करूँ rage on my lows, trying to pick me up",
+      "romanized": "Karoon rage on my lows, trying to pick me up",
       "speaker": "Calm",
       "translation": "I rage during my lows to pick myself up",
       "explanation": "Using aggressive energy (rage) as a tool to overcome depression or low points in life.",
@@ -175,6 +189,7 @@ export const w: Song = {
     },
     {
       "original": "और ये eyes they don’t lie, बोले फूँकूँ बोहोत",
+      "romanized": "Aura ye eyes they don’t lie, bole phoonkoon bohota",
       "speaker": "Calm",
       "translation": "And these eyes don't lie, they say I smoke a lot",
       "explanation": "Red or tired eyes giving away his frequent use of weed/hash.",
@@ -182,6 +197,7 @@ export const w: Song = {
     },
     {
       "original": "Versace Shades on my face जैसे Biggie, uh",
+      "romanized": "Versace Shades on my face jaise Biggie, uh",
       "speaker": "Calm",
       "translation": "Versace shades on my face like Biggie",
       "explanation": "A tribute to The Notorious B.I.G., who was famous for wearing iconic Versace sunglasses.",
@@ -206,6 +222,7 @@ export const w: Song = {
     },
     {
       "original": "Stay on my toes, I keep winning, uh",
+      "romanized": "Stay on my toes, I keep winning, uh",
       "speaker": "Calm",
       "translation": "Stay on my toes, I keep winning, uh",
       "explanation": "Reiterating his constant vigilance and success streak.",
@@ -213,6 +230,7 @@ export const w: Song = {
     },
     {
       "original": "नी था प्रेम सीखा Wayne से कि 'How to love?'",
+      "romanized": "Nee thaa prema seekhaa Wayne se ki 'How to love?'",
       "speaker": "Calm",
       "translation": "There was no love, I learned from Wayne 'How to Love?'",
       "explanation": "A reference to Lil Wayne's famous song 'How to Love', suggesting his upbringing was devoid of soft emotions.",
@@ -232,6 +250,7 @@ export const w: Song = {
     },
     {
       "original": "है बस धुआं-धुआं फेफड़े में (Cough)",
+      "romanized": "Hai basa dhuaan-dhuaan phephare men (Cough)",
       "speaker": "Calm",
       "translation": "There's just smoke in my lungs (Cough)",
       "explanation": "Describing the heavy smoking habit, emphasized by a literal cough ad-lib.",
@@ -239,6 +258,7 @@ export const w: Song = {
     },
     {
       "original": "डरे नाम से, हूँ इस game में मैं criminal",
+      "romanized": "Dare naama se, hoon isa game men main criminal",
       "speaker": "Calm",
       "translation": "They fear the name, I'm a criminal in this game",
       "explanation": "Claiming a dominant, outlaw-like status in the rap industry where his reputation precedes him.",
@@ -253,6 +273,7 @@ export const w: Song = {
     },
     {
       "original": "Girl I'm blinged up",
+      "romanized": "Girl I'm blinged up",
       "speaker": "Encore ABJ",
       "translation": "Girl, I'm covered in jewelry",
       "explanation": "Flexing expensive chains and jewelry (bling).",
@@ -266,6 +287,7 @@ export const w: Song = {
     },
     {
       "original": "Livin' in the sickest villas Goa, लाखों rent, bruh",
+      "romanized": "Livin' in the sickest villas Goa, laakhon rent, bruh",
       "speaker": "Encore ABJ",
       "translation": "Living in the dopest villas in Goa, paying lakhs in rent, bruh",
       "explanation": "Seedhe Maut famously spent significant time in Goa; here he flexes their expensive lifestyle.",
@@ -279,6 +301,7 @@ export const w: Song = {
     },
     {
       "original": "I just need to feel my self",
+      "romanized": "I just need to feel my self",
       "speaker": "Encore ABJ",
       "translation": "I just need to feel myself",
       "explanation": "A moment of introspection amidst the chaos of fame and wealth.",
@@ -286,6 +309,7 @@ export const w: Song = {
     },
     {
       "original": "मैं केहरा हूँ मैं",
+      "romanized": "Main keharaa hoon main",
       "speaker": "Encore ABJ",
       "translation": "I'm saying, I am...",
       "explanation": "Encore emphasizing his self-identity and existence.",
@@ -300,6 +324,7 @@ export const w: Song = {
     },
     {
       "original": "ज़िंदा जी रहा हूँ अमीरों के villa में, लाखों rent, bruh",
+      "romanized": "Zindaa jee rahaa hoon ameeron ke villa men, laakhon rent, bruh",
       "speaker": "Encore ABJ",
       "translation": "Living life large in rich people's villas, lakhs in rent, bruh",
       "explanation": "Reiteration of the high-rent lifestyle they've achieved through rap.",
@@ -307,6 +332,7 @@ export const w: Song = {
     },
     {
       "original": "कुछ भी कर रहा जिससे कुछ महसूस हो मुझको",
+      "romanized": "Kuchha bhee kara rahaa jisase kuchha mahasoosa ho mujhako",
       "speaker": "Encore ABJ",
       "translation": "I'm doing anything just so I can feel something",
       "explanation": "A deeper look at the numbness or burnout that can come with rapid success.",
@@ -321,6 +347,7 @@ export const w: Song = {
     },
     {
       "original": "दिया नी fuck and I made it rappin'",
+      "romanized": "Diyaa nee fuck and I made it rappin'",
       "speaker": "Calm",
       "translation": "Didn't give a fuck and I made it through rapping",
       "explanation": "Calm highlights their 'I don't care' attitude which eventually led to their success.",
@@ -335,6 +362,7 @@ export const w: Song = {
     },
     {
       "original": "चीज़ों पे लिखा कि 'Made in Paris'",
+      "romanized": "Cheezon pe likhaa ki 'Made in Paris'",
       "speaker": "Calm",
       "translation": "Things are labeled 'Made in Paris'",
       "explanation": "Flexing luxury items and imported high-fashion goods.",
@@ -354,6 +382,7 @@ export const w: Song = {
     },
     {
       "original": "अलग ही कटा ये piece of fabric",
+      "romanized": "Alaga hee kataa ye piece of fabric",
       "speaker": "Calm",
       "translation": "This piece of fabric is cut differently",
       "explanation": "Metaphor for being unique; he is not like other rappers—he's built different.",
@@ -368,6 +397,7 @@ export const w: Song = {
     },
     {
       "original": "यहाँ रहते हैं couple of beat assassins (हााँ!)",
+      "romanized": "Yahaan rahate hain couple of beat assassins (haaाn!)",
       "speaker": "Calm",
       "translation": "A couple of beat assassins live here (Ha!)",
       "explanation": "Referring to himself and Encore as rappers who 'kill' every beat they touch.",
@@ -375,6 +405,7 @@ export const w: Song = {
     },
     {
       "original": "चलेगा तेरा जब गीत I'm nappin'",
+      "romanized": "Chalegaa teraa jaba geeta I'm nappin'",
       "speaker": "Calm",
       "translation": "When your song plays, I'm napping",
       "explanation": "A direct diss saying the opponent's music is boring or sleep-inducing.",
@@ -389,6 +420,7 @@ export const w: Song = {
     },
     {
       "original": "You’ve been a fan अबे तू क्या दे challenge",
+      "romanized": "You’ve been a fan abe too kyaa de challenge",
       "speaker": "Calm",
       "translation": "You've been a fan, how can you challenge me?",
       "explanation": "Asserting seniority; an old fan cannot suddenly become a worthy rival.",
@@ -403,6 +435,7 @@ export const w: Song = {
     },
     {
       "original": "गोला-बारूद, yeah she fuck with the cannon (हााँ!)",
+      "romanized": "Golaa-baarooda, yeah she fuck with the cannon (haaाn!)",
       "speaker": "Calm",
       "translation": "Ammunition, yeah she fucks with the cannon (Ha!)",
       "explanation": "Using weapons as a metaphor for his explosive rap flow and masculine energy.",
@@ -417,6 +450,7 @@ export const w: Song = {
     },
     {
       "original": "लगे नी पैसे, ये quality है",
+      "romanized": "Lage nee paise, ye quality hai",
       "speaker": "Calm",
       "translation": "It didn't cost money, this is pure quality",
       "explanation": "Suggesting that their skill is natural and cannot be bought with money.",
@@ -431,6 +465,7 @@ export const w: Song = {
     },
     {
       "original": "ख़त्म एक गाना, यहाँ एक और ready है",
+      "romanized": "Khatma eka gaanaa, yahaan eka aura ready hai",
       "speaker": "Calm",
       "translation": "One song finished, another one is ready",
       "explanation": "Highlighting their insane work ethic and massive unreleased catalog.",
@@ -445,6 +480,7 @@ export const w: Song = {
     },
     {
       "original": "लौंडों के नाम पर दो-चार property हैं",
+      "romanized": "Laundon ke naama para do-chaara property hain",
       "speaker": "Calm",
       "translation": "The boys have a few properties in their name",
       "explanation": "A major flex in DHH; moving from struggling artists to real estate owners.",
@@ -459,6 +495,7 @@ export const w: Song = {
     },
     {
       "original": "ऊपर हैं सबके हाथ ये दे रहे ताक़त spirit bomb के लिये",
+      "romanized": "Oopara hain sabake haatha ye de rahe taaqata spirit bomb ke liye",
       "speaker": "Calm",
       "translation": "Everyone's hands are up, giving strength for the spirit bomb",
       "explanation": "A Dragon Ball Z reference where Goku asks the world for energy. SM’s fans fuel their success.",
@@ -472,6 +509,7 @@ export const w: Song = {
     },
     {
       "original": "Uh-uh-uh",
+      "romanized": "Uh-uh-uh",
       "speaker": "Calm",
       "translation": "Uh-uh-uh",
       "explanation": "Vocal melodies.",
@@ -479,6 +517,7 @@ export const w: Song = {
     },
     {
       "original": "Tru-ru-ru-ru-ru-na-na-na-ah",
+      "romanized": "Tru-ru-ru-ru-ru-na-na-na-ah",
       "speaker": "Calm",
       "translation": "Tru-ru-ru-ru-ru-na-na-na-ah",
       "explanation": "Melodic outro/bridge vocalization.",
@@ -486,6 +525,7 @@ export const w: Song = {
     },
     {
       "original": "Stay on my toes, I like winning, uh",
+      "romanized": "Stay on my toes, I like winning, uh",
       "speaker": "Calm & Encore ABJ",
       "translation": "Stay on my toes, I like winning, uh",
       "explanation": "The duo joins together for the hook, emphasizing their shared drive.",
@@ -493,6 +533,7 @@ export const w: Song = {
     },
     {
       "original": "करूँ rage on my lows, trying to pick me up",
+      "romanized": "Karoon rage on my lows, trying to pick me up",
       "speaker": "Calm & Encore ABJ",
       "translation": "I rage during my lows to pick myself up",
       "explanation": "Shared sentiment on using music as a release for their struggles.",
@@ -500,6 +541,7 @@ export const w: Song = {
     },
     {
       "original": "और ये eyes they don’t lie, बोले फूँकूँ बोहोत",
+      "romanized": "Aura ye eyes they don’t lie, bole phoonkoon bohota",
       "speaker": "Calm & Encore ABJ",
       "translation": "And these eyes don't lie, they say I smoke a lot",
       "explanation": "Acknowledging their public persona as heavy smokers.",
@@ -507,6 +549,7 @@ export const w: Song = {
     },
     {
       "original": "Versace Shades on my face जैसे Biggie, uh",
+      "romanized": "Versace Shades on my face jaise Biggie, uh",
       "speaker": "Calm & Encore ABJ",
       "translation": "Versace shades on my face like Biggie",
       "explanation": "Doubling down on the high-fashion/legendary rapper comparison.",
@@ -514,6 +557,7 @@ export const w: Song = {
     },
     {
       "original": "आजकल इतना ज़्यादा fresh",
+      "romanized": "Aajakala itanaa ज़yaadaa fresh",
       "speaker": "Calm & Encore ABJ",
       "translation": "So damn fresh these days",
       "explanation": "United flex on their current untouchable form in the industry.",
@@ -521,6 +565,7 @@ export const w: Song = {
     },
     {
       "original": "Backstage है हवा में इतना ज़्यादा hash",
+      "romanized": "Backstage hai havaa men itanaa ज़yaadaa hash",
       "speaker": "Calm & Encore ABJ",
       "translation": "There's so much hash in the air backstage",
       "explanation": "Describing the chaotic and smoky environment of their tours.",
@@ -528,6 +573,7 @@ export const w: Song = {
     },
     {
       "original": "Payment आधी crypto बाकी सारा cash",
+      "romanized": "Payment aadhee crypto baakee saaraa cash",
       "speaker": "Calm & Encore ABJ",
       "translation": "Half the payment in crypto, the rest in cash",
       "explanation": "Confirming their status as high-earning independent artists.",
@@ -535,6 +581,7 @@ export const w: Song = {
     },
     {
       "original": "Doubters मेरी कला पे got lotta that (Aanh)",
+      "romanized": "Doubters meree kalaa pe got lotta that (Aanh)",
       "speaker": "Calm & Encore ABJ",
       "translation": "I've got plenty of doubters questioning my art",
       "explanation": "Final acknowledgement of the hate, which they use as fuel for their 'W' (Win).",

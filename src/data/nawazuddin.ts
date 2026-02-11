@@ -9,6 +9,7 @@ export const nawazuddin: Song = {
   "lyrics": [
     {
       "original": "12 baje",
+      "devanagari": "12 बजे",
       "speaker": "Calm & Encore ABJ",
       "translation": "It's 12 o'clock (midnight).",
       "explanation": "Setting the scene for late-night movement, common in Delhi's nightlife and hip-hop culture.",
@@ -21,6 +22,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Launde sawar",
+      "devanagari": "लौंडे सवार",
       "speaker": "Calm & Encore ABJ",
       "translation": "The boys are mounted (ready).",
       "explanation": "The crew is in the car, ready to head out.",
@@ -33,6 +35,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Gaadi bhage",
+      "devanagari": "गाड़ी भागे",
       "speaker": "Calm & Encore ABJ",
       "translation": "The car is racing.",
       "explanation": "Indicating high speed and the thrill of the night.",
@@ -40,6 +43,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Sheeshe se bahar",
+      "devanagari": "शीशे से बाहर",
       "speaker": "Calm & Encore ABJ",
       "translation": "Out of the window.",
       "explanation": "Hanging out or looking out of the car windows while cruising.",
@@ -47,6 +51,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Chaati rahe",
+      "devanagari": "छाती रहे",
       "speaker": "Calm & Encore ABJ",
       "translation": "Chest stays out.",
       "explanation": "A posture of confidence and pride.",
@@ -54,6 +59,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Hai launde dahad",
+      "devanagari": "है लौंडे दहाड़",
       "speaker": "Calm & Encore ABJ",
       "translation": "The boys are roaring.",
       "explanation": "Comparing their energy and presence to that of lions.",
@@ -66,6 +72,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Choohe chupe hum na khode pahad",
+      "devanagari": "चूहे छुपे हम ना खोदे पहाड़",
       "speaker": "Calm & Encore ABJ",
       "translation": "Rats are hiding, we don't need to dig mountains.",
       "explanation": "Reference to the proverb 'Khoda pahad nikli chuhiya'; they don't do unnecessary work to find small enemies.",
@@ -78,6 +85,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Loha le laundo se jaise luhar",
+      "devanagari": "लोहा ले लौंडो से जैसे लुहार",
       "speaker": "Calm & Encore ABJ",
       "translation": "Taking the iron from the boys like a blacksmith.",
       "explanation": "Wordplay on 'Loha lena' (to challenge/confront) and a blacksmith's profession.",
@@ -96,6 +104,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Shakal hai new york se leke LA",
+      "devanagari": "शकल है New York से लेके LA",
       "speaker": "Calm & Encore ABJ",
       "translation": "My face is everywhere from New York to LA.",
       "explanation": "Boasting about global recognition and reach.",
@@ -103,6 +112,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Usne suna aur vo boli “KYA?!!”",
+      "devanagari": "उसने सुना और वो बोली “क्या?!!”",
       "speaker": "Calm & Encore ABJ",
       "translation": "She heard it and she said 'WHAT?!!'",
       "explanation": "A reaction to their status or a surprising statement they made.",
@@ -110,6 +120,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Kya lagta hu banda me mamooli?",
+      "devanagari": "क्या लगता हूँ बंदा मैं मामूली?",
       "speaker": "Calm & Encore ABJ",
       "translation": "Do you think I'm an ordinary guy?",
       "explanation": "The core theme: challenging the perception that they are average.",
@@ -128,6 +139,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Maamooli",
+      "devanagari": "मामूली",
       "speaker": "Calm & Encore ABJ",
       "translation": "Ordinary.",
       "explanation": "Ad-lib emphasizing the word 'ordinary'.",
@@ -142,6 +154,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Vo soche ke bande me maamooli",
+      "devanagari": "वो सोचे के बंदे में मामूली",
       "speaker": "Calm & Encore ABJ",
       "translation": "She thinks I'm an ordinary guy.",
       "explanation": "Repeating the girl's misconception about their status.",
@@ -149,6 +162,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Kalam hai jaadui",
+      "devanagari": "कलम है जादुई",
       "speaker": "Calm & Encore ABJ",
       "translation": "The pen is magical.",
       "explanation": "Their songwriting ability is extraordinary and transformative.",
@@ -161,6 +175,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "To aati hai dhamkiya kanooni",
+      "devanagari": "तो आती है धमकियाँ कानूनी",
       "speaker": "Calm & Encore ABJ",
       "translation": "So I get legal threats.",
       "explanation": "Their lyrics are so powerful or controversial that they attract legal trouble.",
@@ -168,6 +183,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Mere ghante se fame",
+      "devanagari": "मेरे घंटे से fame",
       "speaker": "Calm & Encore ABJ",
       "translation": "I don't give a damn about fame.",
       "explanation": "'Ghante se' is a slang expression for indifference.",
@@ -186,6 +202,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Yaha pe bharte hai panne",
+      "devanagari": "यहाँ पे भरते है पन्ने",
       "speaker": "Calm & Encore ABJ",
       "translation": "Here we fill pages.",
       "explanation": "Focusing on the craft of writing rather than the perks of being famous.",
@@ -193,6 +210,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Jab chilti hai arteries",
+      "devanagari": "जब छिलती है arteries",
       "speaker": "Calm & Encore ABJ",
       "translation": "When arteries get scraped.",
       "explanation": "A metaphor for pouring out raw, painful emotions into their music.",
@@ -207,6 +225,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Launde banare monopoly",
+      "devanagari": "लौंडे बनारे monopoly",
       "speaker": "Calm & Encore ABJ",
       "translation": "The boys are building a monopoly.",
       "explanation": "Seedhe Maut is dominating the DHH scene without competition.",
@@ -221,6 +240,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Khareedu ghar inke fir get the fuck off my property",
+      "devanagari": "खरीदू घर इनके फिर get the fuck off my property",
       "speaker": "Calm & Encore ABJ",
       "translation": "I'll buy their houses then tell them to get the fuck off my property.",
       "explanation": "A high-level flex about financial power and dominance over haters.",
@@ -228,6 +248,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Mamuli",
+      "devanagari": "मामूली",
       "speaker": "Calm",
       "translation": "Ordinary.",
       "explanation": "Calm starts his verse by addressing the 'ordinary' tag.",
@@ -235,6 +256,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Hota to mujhe puchte ni aap",
+      "devanagari": "होता तो मुझे पूछते नी आप",
       "speaker": "Calm",
       "translation": "If I were, you wouldn't be asking about me.",
       "explanation": "Arguing that his fame proves he isn't ordinary.",
@@ -242,6 +264,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Mujhe ghoortе ni bahar",
+      "devanagari": "मुझे घूरते नी बाहर",
       "speaker": "Calm",
       "translation": "They wouldn't stare at me outside.",
       "explanation": "Referring to being recognized in public.",
@@ -249,6 +272,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Dhoondte ni ghar",
+      "devanagari": "ढूँढ़ते नी घर",
       "speaker": "Calm",
       "translation": "They wouldn't look for my house.",
       "explanation": "Fans or stalkers trying to find where he lives.",
@@ -256,6 +280,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Mera tax return aata firr еk peti se bhi kamm",
+      "devanagari": "मेरा tax return आता फिर एक पेटी से भी कम",
       "speaker": "Calm",
       "translation": "My tax return would have been less than a 'peti' (1 Lakh).",
       "explanation": "Flexing his income; 'Peti' is slang for 1 Lakh rupees.",
@@ -268,6 +293,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Mera ghoomta ni sarr",
+      "devanagari": "मेरा घूमता नी सर्र",
       "speaker": "Calm",
       "translation": "My head doesn't spin (I don't lose my cool).",
       "explanation": "Remaining grounded despite the chaos of fame.",
@@ -282,6 +308,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Shayad bhoolta ni gharr",
+      "devanagari": "शायद भूलता नी घर्र",
       "speaker": "Calm",
       "translation": "Maybe I don't forget my home.",
       "explanation": "Staying connected to his roots.",
@@ -289,6 +316,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Ka me raasta wo pighle jaise June me",
+      "devanagari": "का मैं रास्ता वो पिघले जैसे June में",
       "speaker": "Calm",
       "translation": "The path to home melts like in June.",
       "explanation": "Metaphor for the intense heat of Delhi or the difficulty of the journey.",
@@ -296,6 +324,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Ye charas",
+      "devanagari": "ये चरस",
       "speaker": "Calm",
       "translation": "This hash.",
       "explanation": "Referring to the addictive nature of their music or actual substance use.",
@@ -308,6 +337,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Jaise hi sune gaana boli studio me bana hoga",
+      "devanagari": "जैसे ही सुने गाना बोली studio में बना होगा",
       "speaker": "Calm",
       "translation": "As soon as she heard the song, she said it must be made in a studio.",
       "explanation": "She assumes high production value means a fancy setup, but they keep it raw.",
@@ -315,6 +345,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Usse lagu me mamuli likhu pool me ye verse",
+      "devanagari": "उससे लगू मैं मामूली लिखू pool में ये verse",
       "speaker": "Calm",
       "translation": "I seem ordinary to her while I write this verse in a pool.",
       "explanation": "Contrast between her low perception of him and his actual luxury life.",
@@ -329,6 +360,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Jab",
+      "devanagari": "जब",
       "speaker": "Calm",
       "translation": "When",
       "explanation": "Lead-in to the next line.",
@@ -343,6 +375,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Girenge daat tees",
+      "devanagari": "गिरेंगे दाँत तीस",
       "speaker": "Calm",
       "translation": "Thirty teeth will fall.",
       "explanation": "A threat of violence against those who disrespect him.",
@@ -350,6 +383,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Milunga maldives me",
+      "devanagari": "मिलूँगा Maldives में",
       "speaker": "Calm",
       "translation": "I'll be found in Maldives.",
       "explanation": "Enjoying success and vacations while enemies suffer.",
@@ -364,6 +398,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Ye sui poore waqt rahe chaar bees pe par",
+      "devanagari": "ये सुई पूरे वक़्त रहे चार बीस पे पर",
       "speaker": "Calm",
       "translation": "This needle stays at 4:20 all the time but...",
       "explanation": "420 is a universal marijuana reference; the 'needle' refers to a clock or a gauge.",
@@ -382,6 +417,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Khali maal kheechte ni dono khaal kheechte hain dushmano ke lahu se ye zabaan seenchte hain",
+      "devanagari": "खाली माल खींचते नी दोनो खाल खींचते हैं दुश्मनो के लहू से ये ज़बान सींचते हैं",
       "speaker": "Calm",
       "translation": "We don't just pull joints, we pull skin; we irrigate this tongue with the blood of enemies.",
       "explanation": "Hyper-violent imagery to show they are more than just stoners—they are fierce lyricists.",
@@ -396,6 +432,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Bakayarou tujhe Mamuli lagu me kaha se bata kuch kara tabhi to launde puraane bhi chide bada lu maze me kabhi kabaar ni pasand inhe ye zara me chada seedi to peeche se dase",
+      "devanagari": "Bakayarou तुझे मामूली लगू मैं कहाँ से बता कुछ करा तभी तो लौंडे पुराने भी चिढ़े बड़ा लू मज़े में कभी कबार नी पसंद इन्हें ये ज़रा में चढ़ा सीढ़ी तो पीछे से दसे",
       "speaker": "Calm",
       "translation": "You fool, how do I look ordinary? I did something, that's why even the old heads are annoyed. I enjoy myself sometimes, they don't like it. As soon as I climb the ladder, they bite from behind.",
       "explanation": "Bakayarou is Japanese for 'idiot'. He addresses jealousy from older rappers in the scene.",
@@ -408,6 +445,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Saapo ki tarah abey chal",
+      "devanagari": "साँपो की तरह अबे चल",
       "speaker": "Calm",
       "translation": "Like snakes, oh get lost.",
       "explanation": "Calling out backstabbers as snakes.",
@@ -415,6 +453,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Hata",
+      "devanagari": "हटा",
       "speaker": "Calm",
       "translation": "Move aside.",
       "explanation": "Dismissing the haters.",
@@ -422,6 +461,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Hota mamuli to pen ni hota gada",
+      "devanagari": "होता मामूली तो pen नी होता गाड़ा",
       "speaker": "Calm",
       "translation": "If I were ordinary, my pen wouldn't be fixed (firm).",
       "explanation": "His writing has weight and permanence.",
@@ -429,6 +469,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Hota mamuli to yaha ni hota khada",
+      "devanagari": "होता मामूली तो यहाँ नी होता खड़ा",
       "speaker": "Calm",
       "translation": "If I were ordinary, I wouldn't be standing here.",
       "explanation": "His current position in the industry proves his uniqueness.",
@@ -436,6 +477,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Nahi chaapa hota article ek gq ne humaara",
+      "devanagari": "नहीं छापा होता article एक GQ ने हमारा",
       "speaker": "Calm",
       "translation": "GQ wouldn't have printed an article about us.",
       "explanation": "Reference to Seedhe Maut being featured in GQ Magazine.",
@@ -448,6 +490,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Rap game me hain do vidhaayak",
+      "devanagari": "Rap game में हैं दो विधायक",
       "speaker": "Calm",
       "translation": "In the rap game, there are two MLAs (representatives).",
       "explanation": "Metaphor for power; they 'legislate' the rules of Indian hip-hop.",
@@ -466,6 +509,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Inka muh bhi bana movie haiga dekhne laayak",
+      "devanagari": "इनका मुँह भी बना movie है गा देखने लायक",
       "speaker": "Calm",
       "translation": "Their faces look like a movie worth watching.",
       "explanation": "The shock or jealousy on the faces of others is entertaining to him.",
@@ -480,6 +524,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Aur aisi lagi bhook hume ki chati poori plate apni par aake karu khaana teri bhi Plate se gayaab",
+      "devanagari": "और ऐसी लगी भूक हमें कि चाटी पूरी plate अपनी पर आके करू खाना तेरी भी plate से गायब",
       "speaker": "Calm",
       "translation": "I was so hungry I licked my plate clean, and then I'll make the food from your plate disappear too.",
       "explanation": "Demonstrating their hunger for success and willingness to take over everyone else's share.",
@@ -487,6 +532,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Seedhe maut blah",
+      "devanagari": "सीधे मौत blah",
       "speaker": "Calm",
       "translation": "Seedhe Maut blah.",
       "explanation": "Signature sign-off or ad-lib.",
@@ -494,6 +540,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Vo boli haega tu maamooli",
+      "devanagari": "वो बोली हैगा तू मामूली",
       "speaker": "Encore ABJ",
       "translation": "She said you're ordinary.",
       "explanation": "Encore continues the narrative of a girl underestimating him.",
@@ -501,6 +548,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Mai bola tu hai zada batooni",
+      "devanagari": "मैं बोला तू है ज़्यादा बतूनी",
       "speaker": "Encore ABJ",
       "translation": "I said you're too talkative.",
       "explanation": "Dismissing her opinion as mere chatter.",
@@ -515,6 +563,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Karne ki mere ko judge",
+      "devanagari": "करने की मेरे को judge",
       "speaker": "Encore ABJ",
       "translation": "To judge me...",
       "explanation": "Questioning her right to evaluate him.",
@@ -522,6 +571,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Hai terko kisne ijazat di?",
+      "devanagari": "है तेरको किसने इजाज़त दी?",
       "speaker": "Encore ABJ",
       "translation": "Who gave you permission?",
       "explanation": "Asserting his status by questioning her authority.",
@@ -529,6 +579,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Kala se Kabiliyat maine siddh ki",
+      "devanagari": "कला से काबिलियत मैंने सिद्ध की",
       "speaker": "Encore ABJ",
       "translation": "I proved my capability through art.",
       "explanation": "He lets his work speak for his talent.",
@@ -543,6 +594,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Jaise nawazuddin",
+      "devanagari": "जैसे Nawazuddin",
       "speaker": "Encore ABJ",
       "translation": "Like Nawazuddin (Siddiqui).",
       "explanation": "Reference to actor Nawazuddin Siddiqui, who proved his genius despite not having 'hero' looks.",
@@ -555,6 +607,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Vo apni T shirt utaare ghumaari, vo ganguly",
+      "devanagari": "वो अपनी T-shirt उतारे घुमारी, वो Ganguly",
       "speaker": "Encore ABJ",
       "translation": "She takes off her T-shirt and waves it like Ganguly.",
       "explanation": "Reference to Sourav Ganguly's iconic celebration at Lord's in 2002.",
@@ -573,6 +626,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Switch up",
+      "devanagari": "Switch up",
       "speaker": "Encore ABJ",
       "translation": "Switch up.",
       "explanation": "Indicates a change in flow or topic.",
@@ -593,6 +647,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Abhi yahi thi ab vo kaha pe gai",
+      "devanagari": "अभी यही थी अब वो कहाँ पे गई",
       "speaker": "Encore ABJ",
       "translation": "She was just here, where did she go now?",
       "explanation": "Representing the fleeting nature of his interactions.",
@@ -600,6 +655,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Batake bhaagi naam bhi ni",
+      "devanagari": "बताके भागी नाम भी नी",
       "speaker": "Encore ABJ",
       "translation": "She ran away without even telling her name.",
       "explanation": "A mysterious or quick encounter.",
@@ -607,6 +663,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Lori meri raato ki",
+      "devanagari": "लोरी मेरी रातो की",
       "speaker": "Encore ABJ",
       "translation": "The lullaby of my nights.",
       "explanation": "Referring to music or a woman who comforts him.",
@@ -614,6 +671,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Haseen shakal hai paaro si",
+      "devanagari": "हसीन शकल है पारो सी",
       "speaker": "Encore ABJ",
       "translation": "Beautiful face like Paro.",
       "explanation": "Reference to the character Paro from Devdas, symbolizing beauty.",
@@ -626,6 +684,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Vo Papa ko bahana deke hai ghumari maruti",
+      "devanagari": "वो पापा को बहाना देके है घुमारी Maruti",
       "speaker": "Encore ABJ",
       "translation": "She's driving the Maruti after lying to her dad.",
       "explanation": "Depicting the classic Indian middle-class rebellion.",
@@ -640,6 +699,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Hai figure jaise nashpati aur dress peheni jamuni (uhh)",
+      "devanagari": "है figure जैसे नाशपाती और dress पहनी जामुनी (uhh)",
       "speaker": "Encore ABJ",
       "translation": "Her figure is like a pear and she's wearing a purple dress.",
       "explanation": "Visual description using local metaphors ('Nashpati' for pear-shaped).",
@@ -647,6 +707,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Samjhe mujhe bacha",
+      "devanagari": "समझे मुझे बच्चा",
       "speaker": "Encore ABJ",
       "translation": "She thinks I'm a kid.",
       "explanation": "She underestimates his maturity or experience.",
@@ -654,6 +715,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Khari itna bhaw use khud bhi ni pachra",
+      "devanagari": "खड़ी इतना भाव उसे खुद भी नी पचरा",
       "speaker": "Encore ABJ",
       "translation": "She's acting so high and mighty, even she can't handle it.",
       "explanation": "Slang: 'Bhaw khana' means acting pricey or arrogant.",
@@ -672,6 +734,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Chikni mitti bolke karti hai bagal se dhappa",
+      "devanagari": "चिकनी मिट्टी बोलके करती है बगल से धप्पा",
       "speaker": "Encore ABJ",
       "translation": "Calling me soft clay, she sneaks up and surprises me.",
       "explanation": "Playing games; 'Dhappa' is the tag move in Hide and Seek.",
@@ -690,6 +753,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Tujhko aana hai to yaha ko aa ni aana hai to matt aa devi",
+      "devanagari": "तुझको आना है तो यहाँ को आ नी आना है तो मत्त आ देवी",
       "speaker": "Encore ABJ",
       "translation": "If you want to come, come here; if not, then don't, Goddess.",
       "explanation": "Encore is being indifferent; 'Devi' is used sarcastically.",
@@ -697,6 +761,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Aisa funda hai ki",
+      "devanagari": "ऐसा फंडा है कि",
       "speaker": "Encore ABJ",
       "translation": "The principle is that...",
       "explanation": "Explaining his logic.",
@@ -704,6 +769,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Dhata lanka ghr ka bhedi",
+      "devanagari": "ढता लंका घर का भेदी",
       "speaker": "Encore ABJ",
       "translation": "The insider brings down the fortress.",
       "explanation": "Reference to the proverb 'Ghar ka bhedi Lanka dhaaye' (Vibhishana metaphor).",
@@ -722,6 +788,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Dil pe mara tala ki sada liya bannd haweli",
+      "devanagari": "दिल पे मारा ताला की सड़ा लिया बंद हवेली",
       "speaker": "Encore ABJ",
       "translation": "Locked the heart like a closed, decaying mansion.",
       "explanation": "He has closed himself off emotionally.",
@@ -729,6 +796,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Jitna maanga tujhse usse zada pyar hai janta deti",
+      "devanagari": "जितना माँगा तुझसे उससे ज़्यादा प्यार है जनता देती",
       "speaker": "Encore ABJ",
       "translation": "The public gives more love than what I asked from you.",
       "explanation": "Fan love outweighs the validation he sought from a romantic interest.",
@@ -743,6 +811,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Timepass mai ni kabhi bola use banja meri",
+      "devanagari": "Timepass मैं नी कभी बोला उसे बनजा मेरी",
       "speaker": "Encore ABJ",
       "translation": "I never told her to be mine for timepass.",
       "explanation": "He wasn't looking for a casual fling.",
@@ -750,6 +819,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Par ab vo chep jaise fevicol",
+      "devanagari": "पर अब वो चेप जैसे Fevicol",
       "speaker": "Encore ABJ",
       "translation": "But now she's clingy like Fevicol (glue).",
       "explanation": "Now that he's successful, she won't leave him alone.",
@@ -757,6 +827,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Nhi hu mai serious, trip hai to peheli bol",
+      "devanagari": "नहीं हूँ मैं serious, trip है तो पहली बोल",
       "speaker": "Encore ABJ",
       "translation": "I'm not serious; if it's just a 'trip', tell me beforehand.",
       "explanation": "Setting boundaries for their relationship.",
@@ -771,6 +842,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "20 pe mamooli, 25 pe i have it all",
+      "devanagari": "20 पे मामूली, 25 पे I have it all",
       "speaker": "Encore ABJ",
       "translation": "Ordinary at 20, by 25 I have it all.",
       "explanation": "Tracing his journey from being a commoner to a superstar in 5 years.",
@@ -778,6 +850,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Dil pe hai chot lekin saath me hai dost to phir",
+      "devanagari": "दिल पे है चोट लेकिन साथ में है दोस्त तो फिर",
       "speaker": "Encore ABJ",
       "translation": "Heart is wounded, but I have my friends with me, so...",
       "explanation": "Brotherhood and loyalty overcome heartbreak.",
@@ -785,6 +858,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "12 baje",
+      "devanagari": "12 बजे",
       "speaker": "Calm & Encore ABJ",
       "translation": "12 o'clock.",
       "explanation": "Hook repeat.",
@@ -792,6 +866,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Launde sawar",
+      "devanagari": "लौंडे सवार",
       "speaker": "Calm & Encore ABJ",
       "translation": "The boys are mounted.",
       "explanation": "Hook repeat.",
@@ -799,6 +874,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Gaadi bhage",
+      "devanagari": "गाड़ी भागे",
       "speaker": "Calm & Encore ABJ",
       "translation": "The car is racing.",
       "explanation": "Hook repeat.",
@@ -806,6 +882,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Sheeshe se bahar",
+      "devanagari": "शीशे से बाहर",
       "speaker": "Calm & Encore ABJ",
       "translation": "Out of the window.",
       "explanation": "Hook repeat.",
@@ -813,6 +890,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Chaati rahe",
+      "devanagari": "छाती रहे",
       "speaker": "Calm & Encore ABJ",
       "translation": "Chest stays out.",
       "explanation": "Hook repeat.",
@@ -820,6 +898,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Hai launde dahad",
+      "devanagari": "है लौंडे दहाड़",
       "speaker": "Calm & Encore ABJ",
       "translation": "The boys are roaring.",
       "explanation": "Hook repeat.",
@@ -827,6 +906,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Choohe chupe hum na khode pahad",
+      "devanagari": "चूहे छुपे हम ना खोदे पहाड़",
       "speaker": "Calm & Encore ABJ",
       "translation": "Rats hide, we don't dig mountains.",
       "explanation": "Hook repeat.",
@@ -834,6 +914,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Loha le laundo se jaise luhar",
+      "devanagari": "लोहा ले लौंडो से जैसे लुहार",
       "speaker": "Calm & Encore ABJ",
       "translation": "Take iron from boys like a blacksmith.",
       "explanation": "Hook repeat.",
@@ -841,6 +922,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Shakal hai new york se leke LA",
+      "devanagari": "शकल है New York से लेके LA",
       "speaker": "Calm & Encore ABJ",
       "translation": "Face from New York to LA.",
       "explanation": "Hook repeat.",
@@ -848,6 +930,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Usne suna aur vo boli “KYA?!!”",
+      "devanagari": "उसने सुना और वो बोली “क्या?!!”",
       "speaker": "Calm & Encore ABJ",
       "translation": "She heard it and said 'WHAT?!!'",
       "explanation": "Hook repeat.",
@@ -855,6 +938,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Kya lagta hu banda me mamooli?",
+      "devanagari": "क्या लगता हूँ बंदा मैं मामूली?",
       "speaker": "Calm & Encore ABJ",
       "translation": "Do you think I'm an ordinary guy?",
       "explanation": "Hook repeat.",
@@ -862,6 +946,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Maamooli",
+      "devanagari": "मामूली",
       "speaker": "Calm & Encore ABJ",
       "translation": "Ordinary.",
       "explanation": "Hook repeat.",
@@ -869,6 +954,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Vo soche ke banda mai maamooli",
+      "devanagari": "वो सोचे के बंदा मैं मामूली",
       "speaker": "Calm & Encore ABJ",
       "translation": "She thinks I'm an ordinary guy.",
       "explanation": "Hook repeat.",
@@ -876,6 +962,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Kalam hai jaadui",
+      "devanagari": "कलम है जादुई",
       "speaker": "Calm & Encore ABJ",
       "translation": "The pen is magical.",
       "explanation": "Hook repeat.",
@@ -883,6 +970,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "To aati hai dhamkiya kanooni",
+      "devanagari": "तो आती है धमकियाँ कानूनी",
       "speaker": "Calm & Encore ABJ",
       "translation": "So I get legal threats.",
       "explanation": "Hook repeat.",
@@ -890,6 +978,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Mere ghante se fame",
+      "devanagari": "मेरे घंटे से fame",
       "speaker": "Calm & Encore ABJ",
       "translation": "I don't care about fame.",
       "explanation": "Hook repeat.",
@@ -897,6 +986,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Yaha pe bharte hai panne",
+      "devanagari": "यहाँ पे भरते है पन्ने",
       "speaker": "Calm & Encore ABJ",
       "translation": "Here we fill pages.",
       "explanation": "Hook repeat.",
@@ -904,6 +994,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Jab chilti hai arteries",
+      "devanagari": "जब छिलती है arteries",
       "speaker": "Calm & Encore ABJ",
       "translation": "When arteries get scraped.",
       "explanation": "Hook repeat.",
@@ -911,6 +1002,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Launde banare monopoly",
+      "devanagari": "लौंडे बनारे monopoly",
       "speaker": "Calm & Encore ABJ",
       "translation": "The boys are making a monopoly.",
       "explanation": "Hook repeat.",
@@ -918,6 +1010,7 @@ export const nawazuddin: Song = {
     },
     {
       "original": "Khareedu ghar inke fir get the fuck off my property",
+      "devanagari": "खरीदू घर इनके फिर get the fuck off my property",
       "speaker": "Calm & Encore ABJ",
       "translation": "Buy their houses then get the fuck off my property.",
       "explanation": "Hook repeat.",

@@ -10,6 +10,7 @@ export const joint_in_the_booth: Song = {
   "lyrics": [
     {
       "original": "I lit a joint in the booth",
+      "romanized": "I lit a joint in the booth",
       "speaker": "Calm & Encore ABJ",
       "translation": "I sparked up a joint in the recording studio.",
       "explanation": "Setting the vibe for the session; smoking in the booth is a common trope for creative flow in hip-hop.",
@@ -28,6 +29,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "I make a point when I shoot",
+      "romanized": "I make a point when I shoot",
       "speaker": "Calm & Encore ABJ",
       "translation": "I hit the mark whenever I fire.",
       "explanation": "A double entendre: shooting a gun with precision vs. 'shooting' bars/lyrics that are impactful and intentional.",
@@ -46,6 +48,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "चलें बस बड़े ही moves, दूँ सभी पे तू-तू-तू",
+      "romanized": "chalen bas ba hee moves, doon sabhee pe too-too-too",
       "speaker": "Calm & Encore ABJ",
       "translation": "Only making big moves, firing shots at everyone.",
       "explanation": "'Tu-tu-tu' mimics the sound of rapid gunfire or dismissive spitting, aimed at their competitors.",
@@ -64,6 +67,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "फटेगी सुन लेगा fees, ऊपर का loose है ये screw",
+      "romanized": "phategee sun legaa fees, oopar kaa loose hai ye screw",
       "speaker": "Calm & Encore ABJ",
       "translation": "You'll be shocked by our fees; I've got a screw loose.",
       "explanation": "Their high booking price scares people, and they claim to be 'crazy' or unpredictable in their craft.",
@@ -82,6 +86,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "And I had nothing to do तो सभी पे जा रहा था",
+      "romanized": "And I had nothing to do to sabhee pe jaa rahaa thaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "I had nothing better to do, so I was going after everyone.",
       "explanation": "Suggesting that dominating the scene is just a way to kill time because they are bored and superior.",
@@ -89,6 +94,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "तू-तू-तू-तू-तू-तू-तू",
+      "romanized": "too-too-too-too-too-too-too",
       "speaker": "Calm & Encore ABJ",
       "translation": "Tu-tu-tu-tu-tu-tu-tu",
       "explanation": "Repetition for rhythmic effect, mimicking the sound of an automatic weapon (spitting bars).",
@@ -102,6 +108,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "I lit a joint in the booth (Booth!)",
+      "romanized": "I lit a joint in the booth (Booth!)",
       "speaker": "Calm & Encore ABJ",
       "translation": "I sparked up a joint in the recording studio.",
       "explanation": "Repetition of the hook emphasizing the laid-back yet focused atmosphere.",
@@ -109,6 +116,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "I make a point when I shoot (Shoot)",
+      "romanized": "I make a point when I shoot (Shoot)",
       "speaker": "Calm & Encore ABJ",
       "translation": "I hit the mark whenever I fire.",
       "explanation": "Reiterating their precision in both lyrics and execution.",
@@ -116,6 +124,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "चलें बस बड़े ही moves (Woo!), दूँ सभी पे तू-तू-तू (तू)",
+      "romanized": "chalen bas ba hee moves (Woo!), doon sabhee pe too-too-too (too)",
       "speaker": "Calm & Encore ABJ",
       "translation": "Only making big moves, firing shots at everyone.",
       "explanation": "Reinforcing their status and aggressive competitive stance.",
@@ -123,6 +132,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "फटेगी सुन लेगा fees (Fees!), ऊपर का loose है ये screw (Krr)",
+      "romanized": "phategee sun legaa fees (Fees!), oopar kaa loose hai ye screw (Krr)",
       "speaker": "Calm & Encore ABJ",
       "translation": "You'll be shocked by our fees; I've got a screw loose.",
       "explanation": "Highlighting their market value and wild energy.",
@@ -130,6 +140,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "And I had nothing to do तो सभी पे जा रहा था",
+      "romanized": "And I had nothing to do to sabhee pe jaa rahaa thaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "I had nothing better to do, so I was going after everyone.",
       "explanation": "A flex on their effortless dominance.",
@@ -137,6 +148,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "तू-तू-तू-तू-तू-तू-तू",
+      "romanized": "too-too-too-too-too-too-too",
       "speaker": "Calm & Encore ABJ",
       "translation": "Tu-tu-tu-tu-tu-tu-tu",
       "explanation": "The rhythmic cadence that defines the track's energy.",
@@ -144,6 +156,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "पंगे ना लेना, मैं ऊपर से cuckoo हूँ",
+      "romanized": "pange naa lenaa, main oopar se cuckoo hoon",
       "speaker": "Calm",
       "translation": "Don't mess with me, I'm crazy in the head.",
       "explanation": "A warning to rivals; 'cuckoo' implies he is mentally unpredictable and dangerous to provoke.",
@@ -162,6 +175,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "Shifu सा scene'ein संभाला बखूबी",
+      "romanized": "Shifu saa scene'ein sanbhaalaa bakhoobee",
       "speaker": "Calm",
       "translation": "Handled the scene perfectly like Master Shifu.",
       "explanation": "A reference to Master Shifu (Kung Fu Panda), implying Calm is a master/teacher of the rap game.",
@@ -175,6 +189,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "दूँ note'on की गड्डी, और बेटा बहुत great है",
+      "romanized": "doon note'on kee gaddee, aur betaa bahut great hai",
       "speaker": "Calm",
       "translation": "I'll give a stack of cash, and son, it's really great.",
       "explanation": "Boasting about financial success and the high quality of their life/art.",
@@ -194,6 +209,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "तो माँ बोली, \"नजर ना लगे, ले तू-तू-तू\"",
+      "romanized": "to maan bolee, \"najar naa lage, le too-too-too\"",
       "speaker": "Calm",
       "translation": "So Mom said, \"May you be protected from the evil eye, take this tu-tu-tu.\"",
       "explanation": "A play on the Indian tradition of warding off the evil eye (Nazar), cleverly linked back to the 'tu-tu' ad-lib.",
@@ -207,6 +223,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "Super हूँ Megatron, rapper deleter हूँ",
+      "romanized": "Super hoon Megatron, rapper deleter hoon",
       "speaker": "Calm",
       "translation": "I'm Super Megatron, I delete rappers.",
       "explanation": "Likening himself to the powerful Transformers villain to show how easily he eliminates competition.",
@@ -220,6 +237,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "पैर है ये goal पर और बंदी का keeper हूँ",
+      "romanized": "pair hai ye goal par aur bandee kaa keeper hoon",
       "speaker": "Calm",
       "translation": "My foot is on the goal and I'm her keeper.",
       "explanation": "A football metaphor: he scores goals (success) and protects/stays loyal to his girl (keeper).",
@@ -239,6 +257,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "Key पे गाऊँ, T-Pain हूँ, she cannot hate the dude",
+      "romanized": "Key pe gaaoon, T-Pain hoon, she cannot hate the dude",
       "speaker": "Calm",
       "translation": "I sing on key, like T-Pain, she cannot hate the dude.",
       "explanation": "Reference to T-Pain's melodic style/autotune mastery; Calm is confident in his musicality.",
@@ -252,6 +271,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "Ready to fuck it up, rare है ये sabertooth",
+      "romanized": "Ready to fuck it up, rare hai ye sabertooth",
       "speaker": "Calm",
       "translation": "Ready to wreck things, I'm a rare sabertooth.",
       "explanation": "Calling himself a 'Sabertooth' (extinct predator) to emphasize his rare talent and lethal skills.",
@@ -265,6 +285,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "इनका आगे बनूँगा नहीं nice guy",
+      "romanized": "inakaa aage banoongaa naheen nice guy",
       "speaker": "Calm",
       "translation": "I won't be a 'nice guy' to them anymore.",
       "explanation": "Calm is dropping the politeness and embracing a more aggressive persona toward fakes.",
@@ -272,6 +293,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "दिखे कोई नहीं मुझे मेरे दायें-बायें",
+      "romanized": "dikhe koee naheen mujhe mere daayen-baayen",
       "speaker": "Calm",
       "translation": "I don't see anyone to my left or right.",
       "explanation": "A way of saying he has no competition; he is in a league of his own.",
@@ -279,6 +301,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "जभी गाने लिखूँ, call it fine dine",
+      "romanized": "jabhee gaane likhoon, call it fine dine",
       "speaker": "Calm",
       "translation": "Whenever I write songs, call it fine dining.",
       "explanation": "Comparing his songwriting to high-quality, luxury dining (high art).",
@@ -293,6 +316,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "राजा बेटा मेरे आगे, ताई-ताई फिस",
+      "romanized": "raajaa betaa mere aage, taaee-taaee phis",
       "speaker": "Calm",
       "translation": "The 'spoiled kids' are nothing in front of me, they fizzle out.",
       "explanation": "'Tai-tai phiss' is a common Hindi idiom meaning to fail miserably or fizzle out after big talk.",
@@ -312,6 +336,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "I don't see nobody do it like this",
+      "romanized": "I don't see nobody do it like this",
       "speaker": "Calm",
       "translation": "I don't see anyone else doing it like this.",
       "explanation": "Asserting their unique style and flow in the Desi Hip Hop scene.",
@@ -319,6 +344,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "Joint है तो करें ना तेरा भाई miss",
+      "romanized": "Joint hai to karen naa teraa bhaaee miss",
       "speaker": "Calm",
       "translation": "If there's a joint, your brother doesn't miss out.",
       "explanation": "Double meaning: he doesn't miss a puff, and he doesn't miss when 'joining' (collaborating) or shooting.",
@@ -338,6 +364,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "हूँ दुनिया पे शुरू से pissed off",
+      "romanized": "hoon duniyaa pe shuroo se pissed off",
       "speaker": "Calm",
       "translation": "I've been pissed off at the world from the start.",
       "explanation": "This anger/frustration is the fuel for his aggressive rap style.",
@@ -352,6 +379,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "तो जले ये जोटा तो करूँ कम तू-तू-तू",
+      "romanized": "to jale ye jotaa to karoon kam too-too-too",
       "speaker": "Calm",
       "translation": "So when this joint is lit, the arguing (tu-tu main-main) decreases.",
       "explanation": "'Jota' is slang for a joint. Smoking helps him calm the noise and focus.",
@@ -365,6 +393,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "I lit a joint in the booth",
+      "romanized": "I lit a joint in the booth",
       "speaker": "Calm & Encore ABJ",
       "translation": "I sparked up a joint in the recording studio.",
       "explanation": "Re-entry into the chorus.",
@@ -372,6 +401,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "I make a point when I shoot (Shoot!)",
+      "romanized": "I make a point when I shoot (Shoot!)",
       "speaker": "Calm & Encore ABJ",
       "translation": "I hit the mark whenever I fire.",
       "explanation": "Precision in their bars.",
@@ -379,6 +409,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "चलें बस बड़े ही moves, दूँ सभी पे तू-तू-तू (तू-तू-तू)",
+      "romanized": "chalen bas ba hee moves, doon sabhee pe too-too-too (too-too-too)",
       "speaker": "Calm & Encore ABJ",
       "translation": "Only making big moves, firing shots at everyone.",
       "explanation": "Dominance through high-level career steps.",
@@ -386,6 +417,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "फटेगी सुन लेगा fees, ऊपर का loose है ये screw",
+      "romanized": "phategee sun legaa fees, oopar kaa loose hai ye screw",
       "speaker": "Calm & Encore ABJ",
       "translation": "You'll be shocked by our fees; I've got a screw loose.",
       "explanation": "Recalling their worth and eccentricity.",
@@ -393,6 +425,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "And I had nothing to do तो सभी पे जा रहा था",
+      "romanized": "And I had nothing to do to sabhee pe jaa rahaa thaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "I had nothing better to do, so I was going after everyone.",
       "explanation": "Effortless lyrical warfare.",
@@ -400,6 +433,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "तू-तू-तू-तू-तू-तू-तू",
+      "romanized": "too-too-too-too-too-too-too",
       "speaker": "Calm & Encore ABJ",
       "translation": "Tu-tu-tu-tu-tu-tu-tu",
       "explanation": "The signature rhythmic hook.",
@@ -407,6 +441,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "I lit a joint in the booth (Booth!)",
+      "romanized": "I lit a joint in the booth (Booth!)",
       "speaker": "Calm & Encore ABJ",
       "translation": "I sparked up a joint in the recording studio.",
       "explanation": "Maintaining the high-energy flow.",
@@ -414,6 +449,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "I make a point when I shoot (Shoot!)",
+      "romanized": "I make a point when I shoot (Shoot!)",
       "speaker": "Calm & Encore ABJ",
       "translation": "I hit the mark whenever I fire.",
       "explanation": "The duo's marksmanship in rap.",
@@ -421,6 +457,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "चलें बस बड़े ही moves (Woo!), दूँ सभी पे तू-तू-तू (तू)",
+      "romanized": "chalen bas ba hee moves (Woo!), doon sabhee pe too-too-too (too)",
       "speaker": "Calm & Encore ABJ",
       "translation": "Only making big moves, firing shots at everyone.",
       "explanation": "A collective declaration of power.",
@@ -428,6 +465,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "फटेगी सुन लेगा fees (Fees!), ऊपर का loose है ये screw (Krr)",
+      "romanized": "phategee sun legaa fees (Fees!), oopar kaa loose hai ye screw (Krr)",
       "speaker": "Calm & Encore ABJ",
       "translation": "You'll be shocked by our fees; I've got a screw loose.",
       "explanation": "Confirming they are both equally high-value and 'insane'.",
@@ -435,6 +473,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "And I had nothing to do तो सभी पे जा रहा था",
+      "romanized": "And I had nothing to do to sabhee pe jaa rahaa thaa",
       "speaker": "Calm & Encore ABJ",
       "translation": "I had nothing better to do, so I was going after everyone.",
       "explanation": "They treat the rap game like a playground.",
@@ -442,6 +481,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "तू-तू-तू-तू-तू-तू-तू",
+      "romanized": "too-too-too-too-too-too-too",
       "speaker": "Calm & Encore ABJ",
       "translation": "Tu-tu-tu-tu-tu-tu-tu",
       "explanation": "Final repetition of the cadence before the next verse.",
@@ -449,6 +489,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "दोगला बालक है तू, तू, तू तभी मैं गाने पे तेरे ना मूतूँ",
+      "romanized": "dogalaa baalak hai too, too, too tabhee main gaane pe tere naa mootoon",
       "speaker": "Encore ABJ",
       "translation": "You're a two-faced kid, that's why I won't even piss on your song.",
       "explanation": "Encore uses harsh imagery to show his contempt for 'fake' artists; they aren't even worth a response.",
@@ -467,6 +508,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "ये कर रहे हैं यहाँ छुआछूत",
+      "romanized": "ye kar rahe hain yahaan chhuaachhoot",
       "speaker": "Encore ABJ",
       "translation": "They are practicing untouchability here.",
       "explanation": "Metaphorical use of 'untouchability' to describe how other rappers are afraid to associate with or face SM.",
@@ -486,6 +528,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "आया मैं हूँ तू-तू-तू",
+      "romanized": "aayaa main hoon too-too-too",
       "speaker": "Encore ABJ",
       "translation": "I have arrived, tu-tu-tu.",
       "explanation": "Encore entering the track with the same energy established in the hook.",
@@ -493,6 +536,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "खेलने कबड्डी",
+      "romanized": "khelane kabaddee",
       "speaker": "Encore ABJ",
       "translation": "To play Kabaddi.",
       "explanation": "Likening the rap scene to Kabaddi, a high-contact sport where you have to cross into enemy territory.",
@@ -512,6 +556,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "ये हग दिए चड्डी में, and nobody's there",
+      "romanized": "ye hag die chaddee men, and nobody's there",
       "speaker": "Encore ABJ",
       "translation": "They pooped their pants, and nobody's there.",
       "explanation": "Crude imagery suggesting the competition gets scared when they see Encore's skill.",
@@ -526,6 +571,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "गाने निकाले but nobody care",
+      "romanized": "gaane nikaale but nobody care",
       "speaker": "Encore ABJ",
       "translation": "They released songs but nobody cares.",
       "explanation": "Pointing out the lack of impact or longevity in other rappers' music.",
@@ -540,6 +586,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "तू तो number खरीदे",
+      "romanized": "too to number khareede",
       "speaker": "Encore ABJ",
       "translation": "You just buy your numbers.",
       "explanation": "Accusing rivals of buying fake views, streams, or social media followers.",
@@ -554,6 +601,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "अफ़सोस है की पैसों से गाने नहीं बनते",
+      "romanized": "asos hai kee paison se gaane naheen banate",
       "speaker": "Encore ABJ",
       "translation": "It's a pity that money can't make songs.",
       "explanation": "You can buy numbers, but you can't buy talent, soul, or a good track.",
@@ -568,6 +616,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "और ना ही hype, alright",
+      "romanized": "aur naa hee hype, alright",
       "speaker": "Encore ABJ",
       "translation": "And not even the hype, alright.",
       "explanation": "True hype is organic; paid marketing can't replicate the cult following Seedhe Maut has.",
@@ -582,6 +631,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "Off white, मेरी shirt",
+      "romanized": "Off white, meree shirt",
       "speaker": "Encore ABJ",
       "translation": "My shirt is Off-White.",
       "explanation": "A flex mentioning the luxury streetwear brand 'Off-White'.",
@@ -595,6 +645,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "तेरा verse सुना, not nice",
+      "romanized": "teraa verse sunaa, not nice",
       "speaker": "Encore ABJ",
       "translation": "Heard your verse, it's not nice.",
       "explanation": "Simple, direct dismissal of a rival's skills.",
@@ -602,6 +653,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "मेरे verse पे वो व्रत तोड़ें, how exciting",
+      "romanized": "mere verse pe vo vrat ton, how exciting",
       "speaker": "Encore ABJ",
       "translation": "They break their fast on my verse, how exciting.",
       "explanation": "People are so 'hungry' for quality content that they wait for Encore's verse like a sacred fast breaking.",
@@ -621,6 +673,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "Bro मैं करूँ ball out, then I am back to writing",
+      "romanized": "Bro main karoon ball out, then I am back to writing",
       "speaker": "Encore ABJ",
       "translation": "Bro, I go all out, then I'm back to writing.",
       "explanation": "'Ball out' means to live luxuriously or perform exceptionally, but he never stops grinding.",
@@ -640,6 +693,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "रखा हल्का हाथ नहीं, मेरे pen में है lightning",
+      "romanized": "rakhaa halkaa haath naheen, mere pen men hai lightning",
       "speaker": "Encore ABJ",
       "translation": "I didn't hold back, there's lightning in my pen.",
       "explanation": "His writing is powerful, fast, and electric—like a force of nature.",
@@ -647,6 +701,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "बंदे might think",
+      "romanized": "bande might think",
       "speaker": "Encore ABJ",
       "translation": "People might think.",
       "explanation": "Anticipating the audience's reaction or assumptions.",
@@ -661,6 +716,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "That I am reciting वो shit जो करेगा तू",
+      "romanized": "That I am reciting vo shit jo karegaa too",
       "speaker": "Encore ABJ",
       "translation": "That I'm reciting the shit that you would do.",
       "explanation": "Suggesting that his 'normal' level is what others aspire to or try to imitate.",
@@ -668,6 +724,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "तो बोलेगा सब क्या सुनेगा तू",
+      "romanized": "to bolegaa sab kyaa sunegaa too",
       "speaker": "Encore ABJ",
       "translation": "Then everyone will say, 'What will you listen to now?'",
       "explanation": "Implying that once you hear him, everything else sounds inferior.",
@@ -675,6 +732,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "Game's called discipline pays off",
+      "romanized": "Game's called discipline pays off",
       "speaker": "Encore ABJ",
       "translation": "The game is called 'discipline pays off'.",
       "explanation": "Attributing their success to hard work and consistency rather than luck.",
@@ -682,6 +740,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "पर मैं क्या कहूँ",
+      "romanized": "par main kyaa kahoon",
       "speaker": "Encore ABJ",
       "translation": "But what can I say?",
       "explanation": "A rhetorical shift leading back to his current state of mind.",
@@ -689,6 +748,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "I think",
+      "romanized": "I think",
       "speaker": "Encore ABJ",
       "translation": "I think...",
       "explanation": "Pause for effect before the final hook.",
@@ -696,6 +756,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "I lit up a joint in the booth",
+      "romanized": "I lit up a joint in the booth",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "I sparked up a joint in the recording studio.",
       "explanation": "Final performance of the chorus with both artists.",
@@ -703,6 +764,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "I make a point when I shoot (Let's go!)",
+      "romanized": "I make a point when I shoot (Let's go!)",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "I hit the mark whenever I fire.",
       "explanation": "High energy delivery to close the track.",
@@ -710,6 +772,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "चलें बस बड़े ही moves (हां)",
+      "romanized": "chalen bas ba hee moves (haan)",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "Only big moves.",
       "explanation": "Confirming their career trajectory.",
@@ -717,6 +780,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "दूँ सभी पे तू-तू-तू (तू-तू तेरे)",
+      "romanized": "doon sabhee pe too-too-too (too-too tere)",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "Firing at everyone (at you).",
       "explanation": "Directing the shots at whoever is listening/opposing.",
@@ -724,6 +788,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "फटेगी सुन लेगा fees (खा लिया)",
+      "romanized": "phategee sun legaa fees (khaa liyaa)",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "You'll be shocked by the fees.",
       "explanation": "They've 'eaten' (conquered) the market.",
@@ -731,6 +796,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "ऊपर का loose है ये screw (जी हां)",
+      "romanized": "oopar kaa loose hai ye screw (jee haan)",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "I've got a screw loose (yes, indeed).",
       "explanation": "Embracing their unique 'madness'.",
@@ -738,6 +804,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "And I had nothing to do तो सभी पे जा रहा था",
+      "romanized": "And I had nothing to do to sabhee pe jaa rahaa thaa",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "I had nothing better to do, so I was going after everyone.",
       "explanation": "Concluding with their signature flex.",
@@ -745,6 +812,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "तू-तू-तू-तू-तू-तू-तू",
+      "romanized": "too-too-too-too-too-too-too",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "Tu-tu-tu-tu-tu-tu-tu",
       "explanation": "The rhythmic chant ending the first half of the outro.",
@@ -752,6 +820,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "I lit a joint in the booth (Booth)",
+      "romanized": "I lit a joint in the booth (Booth)",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "I sparked up a joint in the recording studio.",
       "explanation": "Closing reinforcement.",
@@ -759,6 +828,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "I make a point when I shoot (Shoot)",
+      "romanized": "I make a point when I shoot (Shoot)",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "I hit the mark whenever I fire.",
       "explanation": "Lyrical marksmanship.",
@@ -766,6 +836,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "चलें बस बड़े ही moves (Moves)",
+      "romanized": "chalen bas ba hee moves (Moves)",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "Only big moves.",
       "explanation": "Career growth.",
@@ -773,6 +844,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "दूँ सभी पे तू-तू-तू (तू)",
+      "romanized": "doon sabhee pe too-too-too (too)",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "Firing shots at everyone.",
       "explanation": "Universal target.",
@@ -780,6 +852,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "फटेगी सुनलेगा fees (Fees)",
+      "romanized": "phategee sunalegaa fees (Fees)",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "You'll be shocked by the fees.",
       "explanation": "Commercial dominance.",
@@ -787,6 +860,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "ऊपर का loose है ये screw (Krr)",
+      "romanized": "oopar kaa loose hai ye screw (Krr)",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "I've got a screw loose.",
       "explanation": "Wild nature.",
@@ -794,6 +868,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "And I had nothing to do तो सभी पे जा रहा था",
+      "romanized": "And I had nothing to do to sabhee pe jaa rahaa thaa",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "I had nothing better to do, so I was going after everyone.",
       "explanation": "Effortless rap superiority.",
@@ -801,6 +876,7 @@ export const joint_in_the_booth: Song = {
     },
     {
       "original": "तू-तू-तू-तू-तू-तू-तू",
+      "romanized": "too-too-too-too-too-too-too",
       "speaker": "Calm, Encore ABJ & Both",
       "translation": "Tu-tu-tu-tu-tu-tu-tu",
       "explanation": "Fading out with the onomatopoeic gunshot sound.",
