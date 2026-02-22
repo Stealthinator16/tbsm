@@ -1,5 +1,7 @@
 # TBSM - The Seedhe Maut Archive
 
+**Live at [tbsmx.vercel.app](https://tbsmx.vercel.app/)**
+
 The complete Seedhe Maut discography with AI-powered line-by-line translations, cultural annotations, and lyrical analysis. Built for fans who want to understand every bar.
 
 ## What is this?
@@ -149,4 +151,6 @@ Deployed on [Vercel](https://vercel.com). Pushes to `main` trigger automatic dep
 
 ## License
 
-This project is for educational and fan purposes. All lyrics are the intellectual property of Seedhe Maut and their respective labels.
+MIT License. See [LICENSE](LICENSE) for details.
+
+Lyrics are the intellectual property of Seedhe Maut and their respective labels. This project is for educational and fan purposes.
